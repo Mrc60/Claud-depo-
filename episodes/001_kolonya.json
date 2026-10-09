@@ -14,12 +14,7 @@
         "hikâyesini"
       ],
       "image": {
-        "queries": [
-          "kolonya",
-          "Turkish kolonya",
-          "limon kolonyası",
-          "Turkish cologne bottle"
-        ]
+        "file": "File:Semazen görünümlü kolonya şişesi 02.jpg"
       }
     },
     {
@@ -30,12 +25,7 @@
         "Kolonya."
       ],
       "image": {
-        "queries": [
-          "kolonya",
-          "Turkish cologne hands",
-          "bayram ziyareti",
-          "Şeker Bayramı"
-        ]
+        "file": "File:Semazen görünümlü kolonya şişesi 01.jpg"
       }
     },
     {
@@ -46,9 +36,7 @@
         "Köln."
       ],
       "image": {
-        "queries": [
-          "Kölner Dom"
-        ]
+        "file": "File:2025-06-10-Dom Burgmauer-3409.jpg"
       },
       "title": "Köln",
       "subtitle": "ALMANYA"
@@ -62,11 +50,7 @@
         "suyu."
       ],
       "image": {
-        "queries": [
-          "Farina Eau de Cologne label",
-          "Eau de Cologne Farina",
-          "Glockengasse 4711"
-        ]
+        "file": "File:Farina gegenueber - Gebrauchszettel 1811 (deutsch).jpg"
       },
       "title": "Eau de Cologne",
       "subtitle": "= KÖLN SUYU"
@@ -80,9 +64,7 @@
         "adını"
       ],
       "image": {
-        "queries": [
-          "Johann Maria Farina"
-        ]
+        "file": "File:Johann Maria Farina 1685-1766.jpg"
       },
       "title": "1709",
       "subtitle": "Johann Maria Farina"
@@ -95,14 +77,10 @@
         "Osmanlı'ya"
       ],
       "image": {
-        "queries": [
-          "Istanbul Galata 1890",
-          "Constantinople 1890",
-          "Constantinople Galata"
-        ]
+        "file": "File:Ayasofya Mosque Istanbul 1890.jpg"
       },
       "title": "İstanbul",
-      "subtitle": "ESKİ İSTANBUL"
+      "subtitle": "19. YÜZYIL"
     },
     {
       "scene": "rose",
@@ -113,12 +91,7 @@
         "suyunun"
       ],
       "image": {
-        "queries": [
-          "gülabdan",
-          "Ottoman rosewater sprinkler",
-          "Ottoman rose water",
-          "rose water sprinkler"
-        ]
+        "file": "File:Ankara Etnografya Müzesi, 2019 14.jpg"
       },
       "title": "Gül suyu",
       "subtitle": "ESKİ GELENEK"
@@ -131,9 +104,7 @@
         "hâlâ"
       ],
       "image": {
-        "queries": [
-          "Farina-Haus Köln"
-        ]
+        "file": "File:Farina-Haus Köln (4213-15).jpg"
       },
       "title": "Farina Evi",
       "subtitle": "KÖLN · 1709'DAN BERİ"
@@ -146,11 +117,7 @@
         "Yorumlara"
       ],
       "image": {
-        "queries": [
-          "Turkish tea glass",
-          "çay bardağı",
-          "Turkish tea"
-        ]
+        "file": "File:Glass of tea 05119.jpg"
       },
       "title": "Sıradaki?",
       "subtitle": "YORUMLARA YAZ"
@@ -161,6 +128,6 @@
     "https://dpma.de/dpma/veroeffentlichungen/meilensteine/markenmitgeschichten/farina/index.html",
     "https://en.wikipedia.org/wiki/Kolonya"
   ],
-  "revizyon": 6,
+  "revizyon": 7,
   "voice": "ana"
 }
