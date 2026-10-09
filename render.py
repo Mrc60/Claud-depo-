@@ -206,10 +206,7 @@ def chrome(frame, t):
     d = ImageDraw.Draw(frame)
     # üst marka çubuğu
     d.text((W / 2, 150), f"{EP['series'].upper()}  ·  #{EP['episode']}", font=F_UI(34), fill=with_alpha(MUTED, 0.95), anchor="mm")
-    # ilerleme çubuğu
-    p = clamp(t / DUR)
-    d.rounded_rectangle([90, 96, W - 90, 104], radius=4, fill=(255, 255, 255, 40))
-    d.rounded_rectangle([90, 96, 90 + (W - 180) * p, 104], radius=4, fill=AMBER)
+    # İlerleme çubuğu kullanılmıyor (TEK1'in tercihi: hiçbir videoda olmasın)
 
 def sc_hook(f, lt, dur, t):
     a = ease(lt / 0.5)
