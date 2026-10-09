@@ -3,7 +3,7 @@ name: Ses örnekleri
 on:
   push:
     branches: [main]
-    paths: ["ses_ornek.py"]
+    paths: ["ses_ornek.py", ".github/workflows/ses-ornekleri.yml"]
   workflow_dispatch:
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
           set -o pipefail
           python3 ses_ornek.py 2>&1 | tee out_kayit.log || true
           mkdir -p out_sesler && cp out_kayit.log out_sesler/kayit.log
-      - name: 'sesler' dalına kaydet
+      - name: Sesler dalına kaydet
         run: |
           export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
           export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
