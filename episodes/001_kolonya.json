@@ -1,0 +1,30 @@
+{
+  "episode": 1,
+  "slug": "kolonya",
+  "series": "Sıradan Değil",
+  "title": "Kolonya aslında bir şehrin adı",
+  "youtube_title": "Kolonya aslında bir şehrin adı 🍋 #SıradanDeğil 1",
+  "youtube_description": "Bayramda, otobüste, misafirlikte... Kolonya kelimesi aslında Almanya'daki Köln şehrinden geliyor. 1709'da Johann Maria Farina'nın Köln'de yarattığı 'Eau de Cologne' yani 'Köln suyu', 19. yüzyılda Osmanlı'ya gelip gül suyunun yerini aldı.\n\nKaynaklar:\n- Farina 1709 resmi tarihçe: https://farina1709.com/en/pages/history-1\n- Alman Patent ve Marka Ofisi (DPMA), Farina: https://dpma.de/dpma/veroeffentlichungen/meilensteine/markenmitgeschichten/farina/index.html\n- Wikipedia, Kolonya: https://en.wikipedia.org/wiki/Kolonya\n\nSıradaki neyin hikâyesini merak ediyorsun? Yoruma yaz.\n\n#kolonya #tarih #bilgi #shorts",
+  "segments": [
+    {"scene": "hook", "say": "Bunu her gün görüyorsun. Ama hikâyesini bilmiyorsun.", "caption": "Bunu her gün görüyorsun. Ama hikâyesini bilmiyorsun.", "key": ["hikâyesini"],
+     "image": {"query": "Turkish kolonya cologne bottle"}},
+    {"scene": "everyday", "say": "Bayramda, otobüste, misafirlikte. Kolonya. Peki bu kelime nereden geliyor?", "caption": "Bayramda, otobüste, misafirlikte. Kolonya. Peki bu kelime nereden geliyor?", "key": ["Kolonya."]},
+    {"scene": "city", "say": "Cevap, Almanya'da bir şehir. Köln.", "caption": "Cevap: Almanya'da bir şehir. Köln.", "key": ["Köln."],
+     "image": {"query": "Cologne Cathedral Rhine panorama"}, "title": "Köln", "subtitle": "ALMANYA"},
+    {"scene": "name", "say": "Köln'ün Fransızca adı, Kolon. Yani o dö Kolon, Köln suyu demek.", "caption": "Köln'ün Fransızca adı Cologne. Eau de Cologne = Köln suyu.", "key": ["Cologne.", "suyu."]},
+    {"scene": "farina", "say": "Bin yedi yüz dokuzda, İtalyan Yohan Mariya Farina, Köln'e yerleşti. Yarattığı ferah kokuya, yeni şehrinin adını verdi.", "caption": "1709'da İtalyan Johann Maria Farina Köln'e yerleşti. Yarattığı ferah kokuya yeni şehrinin adını verdi.", "key": ["1709'da", "adını"],
+     "image": {"query": "Johann Maria Farina 1685 1766 portrait"}, "title": "1709", "subtitle": "Johann Maria Farina"},
+    {"scene": "route", "say": "Bu koku Avrupa saraylarını fethetti. On dokuzuncu yüzyılda da, Osmanlı'ya ulaştı.", "caption": "Bu koku Avrupa saraylarını fethetti. 19. yüzyılda da Osmanlı'ya ulaştı.", "key": ["Osmanlı'ya"],
+     "image": {"query": "Constantinople 1880 photograph Sébah Joaillier"}, "title": "İstanbul", "subtitle": "19. YÜZYIL"},
+    {"scene": "rose", "say": "Ve evlerimizde, gül suyunun yerini aldı.", "caption": "Ve evlerimizde gül suyunun yerini aldı.", "key": ["gül", "suyunun"],
+     "image": {"query": "Ottoman rosewater sprinkler gülabdan"}, "title": "Gül suyu", "subtitle": "ESKİ GELENEK"},
+    {"scene": "today", "say": "İşin ilginç yanı, Farina ailesi bugün hâlâ Köln'de, aynı tarifle üretmeye devam ediyor.", "caption": "İşin ilginç yanı: Farina ailesi bugün hâlâ Köln'de, aynı tarifle üretmeye devam ediyor.", "key": ["hâlâ"],
+     "image": {"query": "Farina Haus Köln Obenmarspforten"}, "title": "Farina Evi", "subtitle": "KÖLN · 1709'DAN BERİ"},
+    {"scene": "outro", "say": "Sıradaki neyin hikâyesini merak ediyorsun? Yorumlara yaz.", "caption": "Sıradaki neyin hikâyesini merak ediyorsun? Yorumlara yaz.", "key": ["Yorumlara"]}
+  ],
+  "sources": [
+    "https://farina1709.com/en/pages/history-1",
+    "https://dpma.de/dpma/veroeffentlichungen/meilensteine/markenmitgeschichten/farina/index.html",
+    "https://en.wikipedia.org/wiki/Kolonya"
+  ]
+}
