@@ -7,7 +7,7 @@ Yoksa: kodla çizilmiş sahne (yedek).
 """
 import json, math, os, random, subprocess, sys
 import numpy as np
-from PIL import Image, ImageDraw, ImageFilter, ImageFont
+from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageOps
 
 W, H, FPS = 1080, 1920, 30
 build, out_path = sys.argv[1], sys.argv[2]
@@ -368,13 +368,14 @@ _img_json = os.path.join(build, "images.json")
 if os.path.exists(_img_json):
     for k, v in json.load(open(_img_json, encoding="utf-8")).items():
         try:
-            im = Image.open(v["path"]).convert("RGB")
+            im = ImageOps.exif_transpose(Image.open(v["path"])).convert("RGB")
         except Exception as e:
             print("fotoğraf açılamadı:", v.get("path"), e); continue
         # ekranı kaplayacak şekilde ölçekle (+%12 hareket payı)
         sc = max(W * 1.12 / im.width, H * 1.12 / im.height)
         im = im.resize((int(im.width * sc), int(im.height * sc)), Image.LANCZOS)
-        PHOTOS[int(k)] = {"img": im, "credit": f"Foto: {v['artist']} · {v['license']} · Wikimedia Commons"}
+        own = v.get("license") == "Kanalın kendi çekimi"
+        PHOTOS[int(k)] = {"img": im, "credit": "" if own else f"Foto: {v['artist']} · {v['license']} · Wikimedia Commons"}
 
 def make_shade():
     a = np.zeros((H, W), np.float32)
@@ -415,7 +416,8 @@ def photo_scene(layer, seg_idx, lt, dur):
         while size > 70 and d2.textlength(seg["title"], font=F_SERIF(size)) > W - 120: size -= 6
         d2.text((W / 2, 1195 + 24 * (1 - k)), seg["title"], font=F_SERIF(size), fill=with_alpha(CREAM, k), anchor="mm",
                 stroke_width=3, stroke_fill=(4, 8, 14, int(200 * k)))
-    d2.text((W / 2, 1868), p["credit"], font=F_UI(22), fill=with_alpha(CREAM, 0.55), anchor="mm")
+    if p["credit"]:
+        d2.text((W / 2, 1868), p["credit"], font=F_UI(22), fill=with_alpha(CREAM, 0.55), anchor="mm")
 
 def render_frame(t, idx):
     f = BG.copy()

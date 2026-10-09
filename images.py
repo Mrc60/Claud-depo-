@@ -68,6 +68,14 @@ result, credits = {}, []
 for i, seg in enumerate(ep["segments"]):
     spec = seg.get("image")
     if not spec: continue
+    # Kanalın kendi çekimi (assets/ klasörü) her zaman önceliklidir
+    local = spec.get("local")
+    if local and os.path.exists(local):
+        path = os.path.join(out, f"img_{i:02d}" + os.path.splitext(local)[1].lower())
+        open(path, "wb").write(open(local, "rb").read())
+        result[str(i)] = {"title": local, "path": path, "license": "Kanalın kendi çekimi", "artist": "Sıradan Değil", "page": ""}
+        print(f"  seg {i}: kendi çekimimiz {local}")
+        continue
     try:
         hit = find(spec)
     except Exception as e:
