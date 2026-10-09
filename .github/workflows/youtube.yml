@@ -1,0 +1,39 @@
+name: YouTube
+
+# youtube_islem.txt dosyasındaki işlem çalışır: "kontrol" (sadece okur) ya da "kanal" (kanal.json'u uygular)
+on:
+  push:
+    branches: [main]
+    paths: ["youtube_islem.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  yt:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests
+      - name: İşlemi çalıştır
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          mkdir -p out_yt
+          for v in YT_CLIENT_ID YT_CLIENT_SECRET YT_REFRESH_TOKEN; do
+            [ -z "${!v}" ] && echo "EKSİK SECRET: $v" | tee -a out_yt/sonuc.txt
+          done
+          python3 youtube.py "$(head -1 youtube_islem.txt | tr -d '[:space:]')" 2>&1 | tail -5 || true
+      - name: Sonucu yt-sonuc dalına yaz
+        if: always()
+        run: |
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p out_yt && [ -f out_yt/sonuc.txt ] || echo "sonuç yok" > out_yt/sonuc.txt
+          cp out_yt/sonuc.txt /tmp/s.txt && cd "$(mktemp -d)" && git init -q -b yt-sonuc
+          (date -u +%FT%TZ; cat /tmp/s.txt) > sonuc.txt && git add sonuc.txt && git commit -qm "yt sonuç"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" yt-sonuc
