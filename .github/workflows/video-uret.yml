@@ -54,7 +54,8 @@ jobs:
           if [ -z "$GOOGLE_TTS_API_KEY" ]; then
             echo "::error::GOOGLE_TTS_API_KEY secret eklenmemiş (Settings → Secrets and variables → Actions)"; exit 1
           fi
-          python3 run.py "${{ steps.sec.outputs.dosya }}"
+          set -o pipefail
+          python3 run.py "${{ steps.sec.outputs.dosya }}" 2>&1 | tee /tmp/uretim.log
 
       - name: Videoyu 'videolar' dalına kaydet
         run: |
@@ -68,6 +69,17 @@ jobs:
           git add -A
           git commit -qm "Video: $(basename ${{ steps.sec.outputs.dosya }} .json)" || echo "değişiklik yok"
           git push origin videolar
+
+      - name: Kaydı 'loglar' dalına yaz
+        if: always()
+        run: |
+          cp /tmp/uretim.log /tmp/son.log 2>/dev/null || echo "kayıt yok (üretimden önce durdu)" > /tmp/son.log
+          echo "durum: ${{ job.status }} · $(date -u +%FT%TZ) · ${{ steps.sec.outputs.dosya }}" | cat - /tmp/son.log > /tmp/son2.log
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cd "$(mktemp -d)" && git init -q && git checkout -q --orphan loglar
+          cp /tmp/son2.log son.log && git add son.log && git commit -qm "log"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" loglar
 
       - name: İndirilebilir kopya
         if: always()
