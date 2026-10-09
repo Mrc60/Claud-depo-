@@ -1,0 +1,131 @@
+{
+  "episode": 2,
+  "slug": "cay_bardagi",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "title": "Çay bardağı neden ince belli?",
+  "youtube_title": "Çay bardağı neden ince belli? 🍵 #SıradanDeğil 2",
+  "youtube_description": "Her gün elimizde tuttuğumuz ince belli çay bardağının hikâyesi. Yaygın açıklama, belinden ya da ağzından tutulunca elin yanmaması. Bir İTÜ araştırması bu biçimin kökenini 19. yüzyıl sonu Osmanlı'sında arıyor; Şişecam bu bardağı 1935'ten beri üretiyor. Azerbaycan'daki benzerinin adı ise armudu. Rize'de çayı teşvik eden ilk kanun 1924'te çıktı, ilk çay fabrikası 1947'de açıldı.\n\nKaynaklar:\n- Sağıroğlu, O. F. (2014). İnce Belli Çay Bardağı: Paşabahçe'deki Tipolojilerinin Kökeni ve Tarihsel Kimliği Üzerine Bir Çalışma. İTÜ yüksek lisans tezi: https://polen.itu.edu.tr/entities/publication/f2ac7f00-87cd-4450-9135-e83dc5c3d5aa\n- Ertan, T. F. & Özmen, Ş. Türkiye'de çay tarımı (Atatürk Araştırma Merkezi): https://atam.gov.tr/wp-content/uploads/2024/10/Temucin-Faik-ERTAN-Sefika-OZMEN.pdf\n- Wikipedia, Armudu: https://en.wikipedia.org/wiki/Armudu\n\nSence çay en güzel hangi bardakta içilir? Yorumlara yaz.\n\n#çay #çaybardağı #tarih #bilgi #shorts",
+  "segments": [
+    {
+      "say": "Her gün elimizde tutuyoruz. Ama bu bardağın bir hikâyesi var.",
+      "caption": "Her gün elimizde tutuyoruz. Ama bu bardağın bir hikâyesi var.",
+      "key": [
+        "hikâyesi"
+      ],
+      "scene": "photo",
+      "image": {
+        "file": "File:Turkish tea (4).jpg"
+      }
+    },
+    {
+      "say": "İnce belli çay bardağı. Peki neden böyle?",
+      "caption": "İnce belli çay bardağı. Peki neden böyle?",
+      "key": [
+        "neden"
+      ],
+      "title": "İnce belli",
+      "subtitle": "NEDEN?",
+      "scene": "photo",
+      "image": {
+        "file": "File:Tea glass 1440371 Nevit.JPG"
+      }
+    },
+    {
+      "say": "Yaygın açıklama şu: Bardağı belinden ya da ağzından tutarsın, elin yanmaz. Çayın rengi de en güzel böyle görünür.",
+      "caption": "Yaygın açıklama şu: Bardağı belinden ya da ağzından tutarsın, elin yanmaz. Çayın rengi de en güzel böyle görünür.",
+      "key": [
+        "yanmaz.",
+        "rengi"
+      ],
+      "scene": "photo",
+      "image": {
+        "file": "File:Turkish tea in fine glass.jpg"
+      }
+    },
+    {
+      "say": "Ama bu biçim yeni değil. İstanbul Teknik Üniversitesinde yapılan bir araştırma, kökenini on dokuzuncu yüzyılın sonundaki Osmanlıda arıyor.",
+      "caption": "Ama bu biçim yeni değil. İTÜ'de yapılan bir araştırma, kökenini 19. yüzyıl sonu Osmanlı'sında arıyor.",
+      "key": [
+        "19."
+      ],
+      "title": "19. yüzyıl",
+      "subtitle": "OSMANLI",
+      "scene": "photo",
+      "image": {
+        "file": "File:A Turkish coffee house on the Bosphorus. Edmund Spencer (capt.). Travels in the western Causasus.1838. cover.jpg"
+      }
+    },
+    {
+      "say": "Komşumuz Azerbaycanda da neredeyse aynısı var. Adı armudu, yani armut biçimli.",
+      "caption": "Komşumuz Azerbaycan'da da neredeyse aynısı var. Adı armudu, yani armut biçimli.",
+      "key": [
+        "armudu,"
+      ],
+      "title": "Armudu",
+      "subtitle": "AZERBAYCAN",
+      "scene": "photo",
+      "image": {
+        "file": "File:Tea in Azerbaijani national Armudu glass.jpg"
+      }
+    },
+    {
+      "say": "Bugün bildiğimiz bardağı ise Şişecam, 1935ten beri üretiyor.",
+      "caption": "Bugün bildiğimiz bardağı ise Şişecam 1935'ten beri üretiyor.",
+      "key": [
+        "1935'ten"
+      ],
+      "title": "1935",
+      "subtitle": "ŞİŞECAM · PAŞABAHÇE",
+      "scene": "photo",
+      "image": {
+        "file": "File:Paşabahçe store at Atatürk Kültür Merkezi, Istanbul 3.jpg"
+      }
+    },
+    {
+      "say": "Çayın kendisi daha da genç. Rizede çay yetiştirmeyi teşvik eden ilk kanun 1924te çıktı. İlk çay fabrikası ise 1947de açıldı.",
+      "caption": "Çayın kendisi daha da genç. Rize'de çayı teşvik eden ilk kanun 1924'te çıktı, ilk çay fabrikası 1947'de açıldı.",
+      "key": [
+        "1924'te",
+        "1947'de"
+      ],
+      "title": "Rize",
+      "subtitle": "1924 · 1947",
+      "scene": "photo",
+      "image": {
+        "file": "File:53690 Güneyce-İkizdere-Rize, Turkey - panoramio (3).jpg"
+      }
+    },
+    {
+      "say": "Peki büyük boyuna neden Ajda bardağı denir? O da başka bir hikâye.",
+      "caption": "Peki büyük boyuna neden Ajda bardağı denir? O da başka bir hikâye.",
+      "key": [
+        "Ajda"
+      ],
+      "title": "Ajda bardağı?",
+      "subtitle": "SIRADAKİ HİKÂYE",
+      "scene": "photo",
+      "image": {
+        "file": "File:Turkish tea2.jpg"
+      }
+    },
+    {
+      "say": "Sence çay en güzel hangi bardakta içilir? Yorumlara yaz.",
+      "caption": "Sence çay en güzel hangi bardakta içilir? Yorumlara yaz.",
+      "key": [
+        "Yorumlara"
+      ],
+      "title": "Sıradaki?",
+      "subtitle": "YORUMLARA YAZ",
+      "scene": "photo",
+      "image": {
+        "file": "File:Çay ve simit.jpg"
+      }
+    }
+  ],
+  "sources": [
+    "https://polen.itu.edu.tr/entities/publication/f2ac7f00-87cd-4450-9135-e83dc5c3d5aa",
+    "https://atam.gov.tr/wp-content/uploads/2024/10/Temucin-Faik-ERTAN-Sefika-OZMEN.pdf",
+    "https://en.wikipedia.org/wiki/Armudu"
+  ]
+}

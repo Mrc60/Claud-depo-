@@ -37,7 +37,7 @@ def usable(p):
     meta = ii.get("extmetadata", {})
     lic = strip_html(meta.get("LicenseShortName", {}).get("value"))
     if not ALLOWED.match(lic): return None
-    return {"title": p["title"], "url": ii.get("thumburl") or ii["url"], "page": ii.get("descriptionurl"),
+    return {"title": p["title"], "url": ii["url"], "page": ii.get("descriptionurl"),
             "license": lic, "artist": strip_html(meta.get("Artist", {}).get("value"))[:80] or "Bilinmiyor"}
 
 USED = set()
