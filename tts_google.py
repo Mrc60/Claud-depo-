@@ -7,7 +7,7 @@ Ortam değişkenleri:
   TTS_VOICE           (isteğe bağlı) varsayılan: tr-TR-Chirp3-HD-Charon
   TTS_RATE            (isteğe bağlı) konuşma hızı, varsayılan 1.08
 """
-import base64, io, json, os, subprocess, sys, time, wave
+import base64, io, json, os, re, subprocess, sys, time, wave
 import requests
 
 KEY = os.environ["GOOGLE_TTS_API_KEY"]
@@ -17,8 +17,12 @@ URL = "https://texttospeech.googleapis.com/v1/text:synthesize"
 GAP = 0.28
 SR = 24000
 
+def clean(text):
+    # Kesme işareti sesin kelimeyi bölmesine yol açıyor ("Osmanlı'ya" -> "Osmanlı… ya")
+    return re.sub(r"[\u0027\u2019\u02bc]", "", text)
+
 def synth(text):
-    body = {"input": {"text": text},
+    body = {"input": {"text": clean(text)},
             "voice": {"languageCode": "tr-TR", "name": VOICE},
             "audioConfig": {"audioEncoding": "LINEAR16", "sampleRateHertz": SR, "speakingRate": RATE}}
     for attempt in range(4):
