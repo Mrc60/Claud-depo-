@@ -11,7 +11,7 @@ import json, os, re, sys, time
 import requests
 
 API = "https://commons.wikimedia.org/w/api.php"
-HEADERS = {"User-Agent": "SiradanDegilShorts/1.0 (YouTube Shorts kanalı; atıf açıklamada)"}
+HEADERS = {"User-Agent": "SiradanDegilShorts/1.0 (https://github.com/Mrc60/Claud-depo-; YouTube Shorts, credits in description)"}
 ALLOWED = re.compile(r"^(public domain|pd|cc0|cc[ -]by(-sa)?([ -]\d\.\d)?|cc[ -]by(-sa)? \d\.\d)", re.I)
 MIN_W = 900
 
@@ -61,13 +61,21 @@ result, credits = {}, []
 for i, seg in enumerate(ep["segments"]):
     spec = seg.get("image")
     if not spec: continue
-    hit = find(spec)
+    try:
+        hit = find(spec)
+    except Exception as e:
+        print(f"  seg {i}: arama hatası ({e}) -> çizim kullanılacak")
+        hit = None
     if not hit:
         print(f"  seg {i}: uygun fotoğraf bulunamadı ({spec}) -> çizim kullanılacak")
         continue
     path = os.path.join(out, f"img_{i:02d}.jpg")
-    img = requests.get(hit["url"], headers=HEADERS, timeout=60)
-    img.raise_for_status()
+    try:
+        img = requests.get(hit["url"], headers=HEADERS, timeout=60)
+        img.raise_for_status()
+    except Exception as e:
+        print(f"  seg {i}: indirme hatası ({e}) -> çizim kullanılacak")
+        continue
     open(path, "wb").write(img.content)
     hit["path"] = path
     result[str(i)] = hit
