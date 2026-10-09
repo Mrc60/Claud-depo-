@@ -413,8 +413,7 @@ def photo_scene(layer, seg_idx, lt, dur):
         while size > 70 and d2.textlength(seg["title"], font=F_SERIF(size)) > W - 120: size -= 6
         d2.text((W / 2, 1195 + 24 * (1 - k)), seg["title"], font=F_SERIF(size), fill=with_alpha(CREAM, k), anchor="mm",
                 stroke_width=3, stroke_fill=(4, 8, 14, int(200 * k)))
-    if p["credit"]:
-        d2.text((W / 2, 1868), p["credit"], font=F_UI(22), fill=with_alpha(CREAM, 0.55), anchor="mm")
+    # Fotoğraf atıfları videoda gösterilmez; YouTube açıklamasında yer alır.
 
 def render_frame(t, idx):
     f = BG.copy()

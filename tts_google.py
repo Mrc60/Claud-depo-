@@ -31,9 +31,7 @@ URL = "https://texttospeech.googleapis.com/v1/text:synthesize"
 GAP = 0.28
 SR = 24000
 
-def clean(text):
-    # Kesme işareti sesin kelimeyi bölmesine yol açıyor ("Osmanlı'ya" -> "Osmanlı… ya")
-    return re.sub(r"[\u0027\u2019\u02bc]", "", text)
+from sayilar import temizle as clean  # kesme işareti + sayıları yazıya çevirir
 
 def synth(text):
     body = {"input": {"text": clean(text)},
