@@ -5,7 +5,7 @@
   "voice": "ana",
   "title": "Çay bardağı neden ince belli?",
   "youtube_title": "Çay bardağı neden ince belli? 🍵 #SıradanDeğil 2",
-  "youtube_description": "Her gün elimizde tuttuğumuz ince belli çay bardağının hikâyesi. Yaygın açıklama, belinden ya da ağzından tutulunca elin yanmaması. Bir İTÜ araştırması bu biçimin kökenini 19. yüzyıl sonu Osmanlı'sında arıyor; Şişecam bu bardağı 1935'ten beri üretiyor. Azerbaycan'daki benzerinin adı ise armudu. Rize'de çayı teşvik eden ilk kanun 1924'te çıktı, ilk çay fabrikası 1947'de açıldı.\n\nKaynaklar:\n- Sağıroğlu, O. F. (2014). İnce Belli Çay Bardağı: Paşabahçe'deki Tipolojilerinin Kökeni ve Tarihsel Kimliği Üzerine Bir Çalışma. İTÜ yüksek lisans tezi: https://polen.itu.edu.tr/entities/publication/f2ac7f00-87cd-4450-9135-e83dc5c3d5aa\n- Ertan, T. F. & Özmen, Ş. Türkiye'de çay tarımı (Atatürk Araştırma Merkezi): https://atam.gov.tr/wp-content/uploads/2024/10/Temucin-Faik-ERTAN-Sefika-OZMEN.pdf\n- Wikipedia, Armudu: https://en.wikipedia.org/wiki/Armudu\n\nSence çay en güzel hangi bardakta içilir? Yorumlara yaz.\n\n#çay #çaybardağı #tarih #bilgi #shorts",
+  "youtube_description": "Her gün elimizde tuttuğumuz ince belli çay bardağının hikâyesi. Yaygın açıklamaya göre ince belinden kolayca tutuluyor ve çayın rengi en güzel bu bardakta görünüyor. Bir İTÜ araştırması bu biçimin kökenini 19. yüzyıl sonu Osmanlı'sında arıyor; Şişecam bu bardağı 1935'ten beri üretiyor. Azerbaycan'daki benzerinin adı ise armudu. Rize'de çayı teşvik eden ilk kanun 1924'te çıktı, ilk çay fabrikası 1947'de açıldı.\n\nKaynaklar:\n- Sağıroğlu, O. F. (2014). İnce Belli Çay Bardağı: Paşabahçe'deki Tipolojilerinin Kökeni ve Tarihsel Kimliği Üzerine Bir Çalışma. İTÜ yüksek lisans tezi: https://polen.itu.edu.tr/entities/publication/f2ac7f00-87cd-4450-9135-e83dc5c3d5aa\n- Ertan, T. F. & Özmen, Ş. Türkiye'de çay tarımı (Atatürk Araştırma Merkezi): https://atam.gov.tr/wp-content/uploads/2024/10/Temucin-Faik-ERTAN-Sefika-OZMEN.pdf\n- Wikipedia, Armudu: https://en.wikipedia.org/wiki/Armudu\n\nSence çay en güzel hangi bardakta içilir? Yorumlara yaz.\n\n#çay #çaybardağı #tarih #bilgi #shorts",
   "segments": [
     {
       "say": "Her gün elimizde tutuyoruz. Ama bu bardağın bir hikâyesi var.",
@@ -32,11 +32,11 @@
       }
     },
     {
-      "say": "Yaygın açıklama şu: Bardağı belinden ya da ağzından tutarsın, elin yanmaz. Çayın rengi de en güzel böyle görünür.",
-      "caption": "Yaygın açıklama şu: Bardağı belinden ya da ağzından tutarsın, elin yanmaz. Çayın rengi de en güzel böyle görünür.",
+      "say": "Yaygın açıklama şu: İnce belinden kolayca tutulur. Çayın o kızıl rengi de en güzel bu bardakta görünür.",
+      "caption": "Yaygın açıklama şu: İnce belinden kolayca tutulur. Çayın o kızıl rengi de en güzel bu bardakta görünür.",
       "key": [
-        "yanmaz.",
-        "rengi"
+        "tutulur.",
+        "kızıl"
       ],
       "scene": "photo",
       "image": {
@@ -128,5 +128,5 @@
     "https://atam.gov.tr/wp-content/uploads/2024/10/Temucin-Faik-ERTAN-Sefika-OZMEN.pdf",
     "https://en.wikipedia.org/wiki/Armudu"
   ],
-  "revizyon": 4
+  "revizyon": 5
 }
