@@ -1,12 +1,24 @@
 name: Video üret
 
+# Çalışır: (1) episodes/ klasörüne yeni/değişen bölüm gönderilince, (2) Actions sekmesinden elle.
+# Üretilen video ve YouTube metni "videolar" dalına kaydedilir (indirmek ve kontrol etmek için).
 on:
+  push:
+    branches: [main]
+    paths: ["episodes/**"]
   workflow_dispatch:
     inputs:
       bolum:
-        description: "Bölüm dosyası (episodes klasöründeki)"
-        required: true
-        default: "001_kolonya.json"
+        description: "Bölüm dosyası (episodes klasöründeki), boş bırakılırsa en son değişen"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video-uret
+  cancel-in-progress: false
 
 jobs:
   uret:
@@ -14,6 +26,8 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Araçları kur
         run: |
@@ -21,15 +35,45 @@ jobs:
           sudo apt-get install -y -qq ffmpeg
           pip install -q -r requirements.txt
 
+      - name: Hangi bölüm?
+        id: sec
+        run: |
+          if [ -n "${{ github.event.inputs.bolum }}" ]; then
+            echo "dosya=episodes/${{ github.event.inputs.bolum }}" >> "$GITHUB_OUTPUT"
+          else
+            f=$(git diff --name-only HEAD~1 HEAD -- episodes/ | grep '\.json$' | tail -1)
+            [ -z "$f" ] && f=$(ls episodes/*.json | sort | tail -1)
+            echo "dosya=$f" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Videoyu üret
         env:
           GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
           TTS_VOICE: ${{ vars.TTS_VOICE }}
-        run: python3 run.py "episodes/${{ github.event.inputs.bolum }}"
+        run: |
+          if [ -z "$GOOGLE_TTS_API_KEY" ]; then
+            echo "::error::GOOGLE_TTS_API_KEY secret eklenmemiş (Settings → Secrets and variables → Actions)"; exit 1
+          fi
+          python3 run.py "${{ steps.sec.outputs.dosya }}"
 
-      - name: Videoyu indirilebilir yap
+      - name: Videoyu 'videolar' dalına kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p /tmp/cikti && cp out/* /tmp/cikti/
+          git fetch origin videolar 2>/dev/null && git checkout videolar 2>/dev/null || git checkout --orphan videolar
+          git rm -rq --cached . 2>/dev/null || true
+          find . -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp /tmp/cikti/* .
+          git add -A
+          git commit -qm "Video: $(basename ${{ steps.sec.outputs.dosya }} .json)" || echo "değişiklik yok"
+          git push origin videolar
+
+      - name: İndirilebilir kopya
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: video
           path: out/
           retention-days: 14
+          if-no-files-found: ignore
