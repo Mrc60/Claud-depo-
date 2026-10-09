@@ -1,23 +1,15 @@
 {
-  "bolum": "002_cay_bardagi",
+  "bolum": "002_cay_bardagi_osmanli",
+  "min_w": 2000,
   "sorgular": [
-    "Turkish tea glass",
-    "ince belli çay bardağı",
-    "Turkish tea",
-    "çay ocağı",
-    "Turkish tea tray",
-    "Istanbul coffeehouse 19th century",
-    "Ottoman coffeehouse Sébah",
-    "kahvehane İstanbul",
-    "armudu glass",
-    "Azerbaijani tea armudu",
-    "Paşabahçe",
-    "Şişecam",
-    "glassblowing Paşabahçe",
-    "Rize tea plantation",
-    "Rize çay bahçesi",
-    "tea harvest Rize",
-    "Rize tea factory",
-    "simit and tea"
+    "Sébah Joaillier Constantinople",
+    "Abdullah Frères Constantinople",
+    "Guillaume Berggren Constantinople",
+    "Pascal Sébah",
+    "Constantinople 1880s photograph",
+    "Ottoman coffee house photograph",
+    "Abdul Hamid II photograph albums",
+    "Istanbul 1890s street photograph",
+    "Ottoman tea 19th century photograph"
   ]
 }

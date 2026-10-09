@@ -39,7 +39,7 @@ for q in cfg["sorgular"]:
     for p in pages:
         ii = (p.get("imageinfo") or [{}])[0]
         lic = strip(ii.get("extmetadata", {}).get("LicenseShortName", {}).get("value"))
-        if ii.get("mime") not in ("image/jpeg", "image/png") or ii.get("width", 0) < 800 or not ALLOWED.match(lic):
+        if ii.get("mime") not in ("image/jpeg", "image/png") or ii.get("width", 0) < cfg.get("min_w", 800) or not ALLOWED.match(lic):
             continue
         seen.add(p["title"])
         cands.append({"no": len(cands) + 1, "q": q, "title": p["title"], "thumb": ii.get("thumburl"),
