@@ -72,6 +72,22 @@ ch = my_channel(tok)
 log("== ÖNCE ==" if mode == "kanal" else "== KANAL ==")
 show(ch)
 
+if mode == "videolar":
+    up = api("GET", "channels", tok, params={"part": "contentDetails", "mine": "true"})["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    items = api("GET", "playlistItems", tok, params={"part": "contentDetails", "playlistId": up, "maxResults": 10}).get("items", [])
+    ids = ",".join(i["contentDetails"]["videoId"] for i in items)
+    log("== VİDEOLAR ==")
+    if ids:
+        for v in api("GET", "videos", tok, params={"part": "snippet,status,statistics,contentDetails", "id": ids}).get("items", []):
+            sn, stt, sta = v["snippet"], v["status"], v.get("statistics", {})
+            log(f"- {sn['title']}")
+            log(f"  id={v['id']} · görünürlük={stt.get('privacyStatus')} · yükleme={stt.get('uploadStatus')} · süre={v['contentDetails'].get('duration')}")
+            log(f"  izlenme={sta.get('viewCount','0')} · beğeni={sta.get('likeCount','0')} · yorum={sta.get('commentCount','0')} · çocuklar için={stt.get('madeForKids')}")
+            log(f"  açıklama ilk satır: {sn.get('description','').splitlines()[0] if sn.get('description') else '(boş)'}")
+            log(f"  açıklamada atıf var mı: {'Fotoğraflar' in sn.get('description','')}")
+    else:
+        log("Kanalda video bulunamadı.")
+
 if mode == "kanal":
     cfg = json.load(open("kanal.json", encoding="utf-8"))
     branding = ch.get("brandingSettings", {})
