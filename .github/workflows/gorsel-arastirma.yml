@@ -1,0 +1,29 @@
+name: Görsel araştırma
+
+on:
+  push:
+    branches: [main]
+    paths: ["aday_sorgular.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Araçları kur
+        run: pip install -q requests pillow
+      - name: Adayları topla
+        run: python3 adaylar.py 2>&1 | tee kayit.log || true
+      - name: Adaylar dalına kaydet
+        run: |
+          mkdir -p out_adaylar && cp kayit.log out_adaylar/
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
+          cp -r out_adaylar /tmp/ad && cd "$(mktemp -d)" && git init -q -b adaylar
+          cp /tmp/ad/* . && git add -A && git commit -qm "görsel adayları"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" adaylar
