@@ -14,7 +14,7 @@
         "hikâyesini"
       ],
       "image": {
-        "query": "Turkish kolonya cologne bottle"
+        "query": "Eau de Cologne bottle"
       }
     },
     {
@@ -33,7 +33,7 @@
         "Köln."
       ],
       "image": {
-        "query": "Cologne Cathedral Rhine panorama"
+        "query": "Kölner Dom"
       },
       "title": "Köln",
       "subtitle": "ALMANYA"
@@ -56,7 +56,7 @@
         "adını"
       ],
       "image": {
-        "query": "Johann Maria Farina 1685 1766 portrait"
+        "query": "Johann Maria Farina"
       },
       "title": "1709",
       "subtitle": "Johann Maria Farina"
@@ -69,7 +69,7 @@
         "Osmanlı'ya"
       ],
       "image": {
-        "query": "Constantinople 1880 photograph Sébah Joaillier"
+        "query": "Istanbul Galata 1890"
       },
       "title": "İstanbul",
       "subtitle": "19. YÜZYIL"
@@ -83,7 +83,7 @@
         "suyunun"
       ],
       "image": {
-        "query": "Ottoman rosewater sprinkler gülabdan"
+        "query": "rose water sprinkler"
       },
       "title": "Gül suyu",
       "subtitle": "ESKİ GELENEK"
@@ -96,7 +96,7 @@
         "hâlâ"
       ],
       "image": {
-        "query": "Farina Haus Köln Obenmarspforten"
+        "query": "Farina-Haus Köln"
       },
       "title": "Farina Evi",
       "subtitle": "KÖLN · 1709'DAN BERİ"
@@ -115,5 +115,5 @@
     "https://dpma.de/dpma/veroeffentlichungen/meilensteine/markenmitgeschichten/farina/index.html",
     "https://en.wikipedia.org/wiki/Kolonya"
   ],
-  "revizyon": 3
+  "revizyon": 4
 }
