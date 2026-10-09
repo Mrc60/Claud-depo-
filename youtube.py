@@ -16,12 +16,30 @@ def log(*a):
 def save():
     open(f"{OUT}/sonuc.txt", "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
+def env(name):
+    raw = os.environ.get(name, "")
+    v = raw.strip().strip('"').strip("'")
+    return raw, v
+
+def teshis():
+    # Gizli değerleri GÖSTERMEDEN biçimlerini kontrol eder
+    for n in ("YT_CLIENT_ID", "YT_CLIENT_SECRET", "YT_REFRESH_TOKEN"):
+        raw, v = env(n)
+        bilgi = f"uzunluk={len(v)}"
+        if raw != v: bilgi += " · baş/sonda boşluk/tırnak vardı (temizlendi)"
+        if any(c.isspace() for c in v): bilgi += " · İÇİNDE BOŞLUK VAR"
+        if n == "YT_CLIENT_ID": bilgi += " · sonu doğru" if v.endswith(".apps.googleusercontent.com") else " · SONU .apps.googleusercontent.com DEĞİL"
+        if n == "YT_CLIENT_SECRET": bilgi += " · GOCSPX- ile başlıyor" if v.startswith("GOCSPX-") else " · GOCSPX- ile başlamıyor"
+        if n == "YT_REFRESH_TOKEN":
+            bilgi += " · 1// ile başlıyor (doğru tür)" if v.startswith("1//") else (" · ya29. ile başlıyor: BU ACCESS TOKEN, refresh token değil" if v.startswith("ya29.") else " · beklenmeyen başlangıç")
+        log(f"  {n}: {bilgi}")
+
 def token():
     r = requests.post("https://oauth2.googleapis.com/token", data={
-        "client_id": os.environ["YT_CLIENT_ID"], "client_secret": os.environ["YT_CLIENT_SECRET"],
-        "refresh_token": os.environ["YT_REFRESH_TOKEN"], "grant_type": "refresh_token"}, timeout=30)
+        "client_id": env("YT_CLIENT_ID")[1], "client_secret": env("YT_CLIENT_SECRET")[1],
+        "refresh_token": env("YT_REFRESH_TOKEN")[1], "grant_type": "refresh_token"}, timeout=30)
     if r.status_code != 200:
-        log("TOKEN HATASI", r.status_code, r.text[:500]); save(); sys.exit(1)
+        log("TOKEN HATASI", r.status_code, r.text[:500]); log("Teşhis:"); teshis(); save(); sys.exit(1)
     return r.json()["access_token"]
 
 def api(method, path, tok, **kw):
