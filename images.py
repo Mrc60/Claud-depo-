@@ -40,17 +40,24 @@ def usable(p):
     return {"title": p["title"], "url": ii.get("thumburl") or ii["url"], "page": ii.get("descriptionurl"),
             "license": lic, "artist": strip_html(meta.get("Artist", {}).get("value"))[:80] or "Bilinmiyor"}
 
-def find(spec):
-    if "file" in spec:
-        pages = info([spec["file"]])
-        return usable(pages[0]) if pages else None
-    d = api(action="query", list="search", srsearch=spec["query"] + " filetype:bitmap",
-            srnamespace=6, srlimit=15)
-    titles = [h["title"] for h in d.get("query", {}).get("search", [])]
+USED = set()
+
+def search(q):
+    d = api(action="query", list="search", srsearch=q + " filetype:bitmap", srnamespace=6, srlimit=20)
+    titles = [h["title"] for h in d.get("query", {}).get("search", []) if h["title"] not in USED]
     if not titles: return None
     by_title = {p["title"]: p for p in info(titles)}
     for t in titles:  # arama sırasını koru
         u = usable(by_title.get(t, {}))
+        if u: return u
+    return None
+
+def find(spec):
+    if "file" in spec:
+        pages = info([spec["file"]])
+        return usable(pages[0]) if pages else None
+    for q in spec.get("queries") or [spec["query"]]:  # sırayla dene, ilk uygun olanı al
+        u = search(q)
         if u: return u
     return None
 
@@ -64,19 +71,20 @@ for i, seg in enumerate(ep["segments"]):
     try:
         hit = find(spec)
     except Exception as e:
-        print(f"  seg {i}: arama hatası ({e}) -> çizim kullanılacak")
+        print(f"  seg {i}: arama hatası ({e}) -> başka sahnenin fotoğrafı kullanılacak")
         hit = None
     if not hit:
-        print(f"  seg {i}: uygun fotoğraf bulunamadı ({spec}) -> çizim kullanılacak")
+        print(f"  seg {i}: uygun fotoğraf bulunamadı ({spec}) -> başka sahnenin fotoğrafı kullanılacak")
         continue
     path = os.path.join(out, f"img_{i:02d}.jpg")
     try:
         img = requests.get(hit["url"], headers=HEADERS, timeout=60)
         img.raise_for_status()
     except Exception as e:
-        print(f"  seg {i}: indirme hatası ({e}) -> çizim kullanılacak")
+        print(f"  seg {i}: indirme hatası ({e}) -> başka sahnenin fotoğrafı kullanılacak")
         continue
     open(path, "wb").write(img.content)
+    USED.add(hit["title"])
     hit["path"] = path
     result[str(i)] = hit
     credits.append(f"{hit['title'].replace('File:', '')} — {hit['artist']} ({hit['license']}) {hit['page']}")

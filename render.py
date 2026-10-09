@@ -387,8 +387,14 @@ def make_shade():
     return Image.fromarray(out, "RGBA")
 SHADE = make_shade()
 
+def photo_for(seg_idx):
+    """Sahnenin kendi fotoğrafı; yoksa en yakın sahnenin gerçek fotoğrafı (çizim yok)."""
+    if seg_idx in PHOTOS: return seg_idx
+    if not PHOTOS: return None
+    return min(PHOTOS, key=lambda k: (abs(k - seg_idx), k > seg_idx))
+
 def photo_scene(layer, seg_idx, lt, dur):
-    p = PHOTOS[seg_idx]; im = p["img"]
+    p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
     u = ease_io(lt / max(dur, 0.1))
     z = lerp(1.0, 1.07, u)                       # yavaş yakınlaştırma
     cw, ch = W / z, H / z
@@ -405,7 +411,9 @@ def photo_scene(layer, seg_idx, lt, dur):
     if seg.get("subtitle"):
         d2.text((W / 2, 1075 + 14 * (1 - k)), seg["subtitle"], font=F_UI(40), fill=with_alpha(AMBER, k), anchor="mm")
     if seg.get("title"):
-        d2.text((W / 2, 1195 + 24 * (1 - k)), seg["title"], font=F_SERIF(150), fill=with_alpha(CREAM, k), anchor="mm",
+        size = 150
+        while size > 70 and d2.textlength(seg["title"], font=F_SERIF(size)) > W - 120: size -= 6
+        d2.text((W / 2, 1195 + 24 * (1 - k)), seg["title"], font=F_SERIF(size), fill=with_alpha(CREAM, k), anchor="mm",
                 stroke_width=3, stroke_fill=(4, 8, 14, int(200 * k)))
     d2.text((W / 2, 1868), p["credit"], font=F_UI(22), fill=with_alpha(CREAM, 0.55), anchor="mm")
 
@@ -415,7 +423,7 @@ def render_frame(t, idx):
         if st <= t < en:
             lt = t - st
             layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-            if si in PHOTOS:
+            if photo_for(si) is not None:
                 photo_scene(layer, si, lt, en - st)
             else:
                 SCENES[name](layer, lt, en - st, t)

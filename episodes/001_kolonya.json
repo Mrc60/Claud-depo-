@@ -14,7 +14,12 @@
         "hikâyesini"
       ],
       "image": {
-        "query": "Eau de Cologne bottle"
+        "queries": [
+          "kolonya",
+          "Turkish kolonya",
+          "limon kolonyası",
+          "Turkish cologne bottle"
+        ]
       }
     },
     {
@@ -23,7 +28,15 @@
       "caption": "Bayramda, otobüste, misafirlikte. Kolonya. Peki bu kelime nereden geliyor?",
       "key": [
         "Kolonya."
-      ]
+      ],
+      "image": {
+        "queries": [
+          "kolonya",
+          "Turkish cologne hands",
+          "bayram ziyareti",
+          "Şeker Bayramı"
+        ]
+      }
     },
     {
       "scene": "city",
@@ -33,7 +46,9 @@
         "Köln."
       ],
       "image": {
-        "query": "Kölner Dom"
+        "queries": [
+          "Kölner Dom"
+        ]
       },
       "title": "Köln",
       "subtitle": "ALMANYA"
@@ -45,7 +60,16 @@
       "key": [
         "Cologne.",
         "suyu."
-      ]
+      ],
+      "image": {
+        "queries": [
+          "Farina Eau de Cologne label",
+          "Eau de Cologne Farina",
+          "Glockengasse 4711"
+        ]
+      },
+      "title": "Eau de Cologne",
+      "subtitle": "= KÖLN SUYU"
     },
     {
       "scene": "farina",
@@ -56,7 +80,9 @@
         "adını"
       ],
       "image": {
-        "query": "Johann Maria Farina"
+        "queries": [
+          "Johann Maria Farina"
+        ]
       },
       "title": "1709",
       "subtitle": "Johann Maria Farina"
@@ -69,7 +95,11 @@
         "Osmanlı'ya"
       ],
       "image": {
-        "query": "Istanbul Galata 1890"
+        "queries": [
+          "Istanbul Galata 1890",
+          "Constantinople 1890",
+          "Constantinople Galata"
+        ]
       },
       "title": "İstanbul",
       "subtitle": "ESKİ İSTANBUL"
@@ -83,7 +113,12 @@
         "suyunun"
       ],
       "image": {
-        "query": "rose water sprinkler"
+        "queries": [
+          "gülabdan",
+          "Ottoman rosewater sprinkler",
+          "Ottoman rose water",
+          "rose water sprinkler"
+        ]
       },
       "title": "Gül suyu",
       "subtitle": "ESKİ GELENEK"
@@ -96,7 +131,9 @@
         "hâlâ"
       ],
       "image": {
-        "query": "Farina-Haus Köln"
+        "queries": [
+          "Farina-Haus Köln"
+        ]
       },
       "title": "Farina Evi",
       "subtitle": "KÖLN · 1709'DAN BERİ"
@@ -107,7 +144,16 @@
       "caption": "Sıradaki neyin hikâyesini merak ediyorsun? Yorumlara yaz.",
       "key": [
         "Yorumlara"
-      ]
+      ],
+      "image": {
+        "queries": [
+          "Turkish tea glass",
+          "çay bardağı",
+          "Turkish tea"
+        ]
+      },
+      "title": "Sıradaki?",
+      "subtitle": "YORUMLARA YAZ"
     }
   ],
   "sources": [
@@ -115,5 +161,6 @@
     "https://dpma.de/dpma/veroeffentlichungen/meilensteine/markenmitgeschichten/farina/index.html",
     "https://en.wikipedia.org/wiki/Kolonya"
   ],
-  "revizyon": 5
+  "revizyon": 6,
+  "voice": "ana"
 }

@@ -4,14 +4,28 @@ Her segmenti ayrı seslendirir, süreleri timeline.json'a, birleşik sesi voice.
 Kullanım: python3 tts_google.py episodes/001_kolonya.json build/001
 Ortam değişkenleri:
   GOOGLE_TTS_API_KEY  (zorunlu)  Google Cloud API anahtarı
-  TTS_VOICE           (isteğe bağlı) varsayılan: tr-TR-Chirp3-HD-Charon
+  TTS_VOICE           (isteğe bağlı) tüm bölümler için tek ses zorlar; boşsa kanal ses düzeni
   TTS_RATE            (isteğe bağlı) konuşma hızı, varsayılan 1.08
 """
 import base64, io, json, os, re, subprocess, sys, time, wave
 import requests
 
 KEY = os.environ["GOOGLE_TTS_API_KEY"]
-VOICE = os.environ.get("TTS_VOICE") or "tr-TR-Chirp3-HD-Charon"
+
+# Kanalın ses düzeni (TEK1'in seçimi):
+#   ana   = 23 Sadachbia (erkek, öncelikli)
+#   erkek2 = 11 Enceladus, erkek3 = 20 Puck (ara sıra)
+#   kadin = 14 Gacrux (ara sıra, konuya uygun bölümlerde)
+SESLER = {"ana": "tr-TR-Chirp3-HD-Sadachbia", "erkek2": "tr-TR-Chirp3-HD-Enceladus",
+          "erkek3": "tr-TR-Chirp3-HD-Puck", "kadin": "tr-TR-Chirp3-HD-Gacrux"}
+
+def pick_voice(ep):
+    # 1) Bölüm dosyasında "voice" varsa o (ör. "kadin" ya da tam ses adı)
+    v = ep.get("voice")
+    if v: return SESLER.get(v, v)
+    # 2) Yoksa 10 bölümlük düzen: 7 ana, 1'er erkek2 / erkek3 / kadın
+    n = int(ep.get("episode", 1)) % 10
+    return {4: SESLER["erkek2"], 7: SESLER["erkek3"], 0: SESLER["kadin"]}.get(n, SESLER["ana"])
 RATE = float(os.environ.get("TTS_RATE", "1.08"))
 URL = "https://texttospeech.googleapis.com/v1/text:synthesize"
 GAP = 0.28
@@ -37,6 +51,7 @@ def synth(text):
 ep = json.load(open(sys.argv[1], encoding="utf-8"))
 out = sys.argv[2]
 os.makedirs(out, exist_ok=True)
+VOICE = os.environ.get("TTS_VOICE") or pick_voice(ep)
 
 timeline, parts, t = [], [], 0.35
 for i, seg in enumerate(ep["segments"]):
