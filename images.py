@@ -30,6 +30,12 @@ def info(titles):
 
 def strip_html(s): return re.sub(r"<[^>]+>", "", s or "").strip()
 
+def clean_artist(a):
+    a = re.sub(r"\s+", " ", a or "").strip()
+    if not a or re.fullmatch(r"(?i)(unknown author\s*)+|unknown|anonymous", a): return "Bilinmeyen fotoğrafçı"
+    a = re.sub(r"(?i)(unknown author)(\s*unknown author)+", r"\1", a)
+    return a[:80]
+
 def usable(p):
     ii = (p.get("imageinfo") or [{}])[0]
     if ii.get("mime") not in ("image/jpeg", "image/png"): return None
@@ -38,7 +44,7 @@ def usable(p):
     lic = strip_html(meta.get("LicenseShortName", {}).get("value"))
     if not ALLOWED.match(lic): return None
     return {"title": p["title"], "url": ii["url"], "page": ii.get("descriptionurl"),
-            "license": lic, "artist": strip_html(meta.get("Artist", {}).get("value"))[:80] or "Bilinmiyor"}
+            "license": lic, "artist": clean_artist(strip_html(meta.get("Artist", {}).get("value")))}
 
 USED = set()
 
