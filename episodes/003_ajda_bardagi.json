@@ -25,7 +25,8 @@
         "kendisi"
       ],
       "image": {
-        "file": "File:Ajda Pekkan konser (1).JPG"
+        "file": "File:Ajda Pekkan konser (1).JPG",
+        "fit": "tam"
       },
       "title": "Ajda Pekkan",
       "subtitle": "KENDİ ANLATIMIYLA",
@@ -77,7 +78,7 @@
         "100"
       ],
       "image": {
-        "file": "File:PAŞABAHÇE BEYKOZ - panoramio.jpg"
+        "file": "File:Serving tea, Turkish style II.jpg"
       },
       "title": "100 bardak",
       "subtitle": "5 KOLİ × 20",
@@ -125,5 +126,6 @@
   "sources": [
     "https://www.hurriyet.com.tr/yazarlar/ajda-pekkan/su-ajda-bardagi-meselesi-23098751",
     "https://www.hurriyet.com.tr/hangi-bardakta-cay-15585563"
-  ]
+  ],
+  "revizyon": 2
 }

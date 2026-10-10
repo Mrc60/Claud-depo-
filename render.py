@@ -368,9 +368,23 @@ if os.path.exists(_img_json):
             im = ImageOps.exif_transpose(Image.open(v["path"])).convert("RGB")
         except Exception as e:
             print("fotoğraf açılamadı:", v.get("path"), e); continue
-        # ekranı kaplayacak şekilde ölçekle (+%12 hareket payı)
-        sc = max(W * 1.12 / im.width, H * 1.12 / im.height)
-        im = im.resize((int(im.width * sc), int(im.height * sc)), Image.LANCZOS)
+        W2, H2 = int(W * 1.12), int(H * 1.12)
+        spec = (SEGS[int(k)].get("image") or {}) if int(k) < len(SEGS) else {}
+        if spec.get("fit") == "tam":
+            # Fotoğrafın tamamı görünsün: arkada bulanık kopya, önde net ve kırpılmamış fotoğraf
+            sc = max(W2 / im.width, H2 / im.height)
+            bg = im.resize((int(im.width * sc), int(im.height * sc)), Image.LANCZOS)
+            bg = bg.crop(((bg.width - W2) // 2, (bg.height - H2) // 2, (bg.width - W2) // 2 + W2, (bg.height - H2) // 2 + H2))
+            bg = bg.filter(ImageFilter.GaussianBlur(40))
+            bg = Image.blend(bg, Image.new("RGB", bg.size, (6, 10, 16)), 0.45)
+            fw = int(W2 * 0.96); fh = int(im.height * fw / im.width)
+            fg = im.resize((fw, fh), Image.LANCZOS)
+            bg.paste(fg, ((W2 - fw) // 2, int(H2 * 0.36 - fh / 2)))
+            im = bg
+        else:
+            # ekranı kaplayacak şekilde ölçekle (+%12 hareket payı)
+            sc = max(W2 / im.width, H2 / im.height)
+            im = im.resize((int(im.width * sc), int(im.height * sc)), Image.LANCZOS)
         own = v.get("license") == "Kanalın kendi çekimi"
         PHOTOS[int(k)] = {"img": im, "credit": "" if own else f"Foto: {v['artist']} · {v['license']} · Wikimedia Commons"}
 
