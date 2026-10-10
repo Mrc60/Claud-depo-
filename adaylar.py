@@ -65,4 +65,14 @@ for start in range(0, len(cands), COLS * ROWS):
         d.text((x + 6, y + TH + 26), c["q"][:34], font=FONT, fill=(140, 160, 180))
     sheet.save(f"{OUT}/pano_{start // (COLS * ROWS) + 1:02d}.jpg", quality=85)
 json.dump(cands, open(f"{OUT}/adaylar.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
+# İsteğe bağlı: seçilen dosyaların açıklama/tarih/yer bilgisini doğrulamak için
+incele = {}
+for t in cfg.get("incele", []):
+    pages = api(action="query", prop="imageinfo", titles=t, iiprop="extmetadata").get("query", {}).get("pages", [])
+    em = ((pages[0].get("imageinfo") or [{}])[0].get("extmetadata", {})) if pages else {}
+    incele[t] = {k: strip(em.get(k, {}).get("value"))[:600] for k in
+                 ("ImageDescription", "DateTimeOriginal", "Artist", "Credit", "LicenseShortName", "Categories")}
+if incele:
+    json.dump(incele, open(f"{OUT}/incele.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("pano sayısı:", (len(cands) + COLS * ROWS - 1) // (COLS * ROWS))
