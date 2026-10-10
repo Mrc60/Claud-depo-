@@ -1,0 +1,99 @@
+{
+  "episode": 6,
+  "slug": "hindi",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "title": "Hindiye neden hindi deriz?",
+  "youtube_title": "Hindiye neden 'hindi', İngilizler neden 'turkey' der? 🦃 #SıradanDeğil 6",
+  "youtube_description": "Biz bu kuşa \"hindi\", yani Hint'e ait deriz; İngilizler ise \"turkey\", yani Türkiye der. Oysa kuş ne Hindistan'dan ne Türkiye'den geliyor: anavatanı Kuzey Amerika, ilk kez yaklaşık 2.000 yıl önce Meksika'da evcilleştirildi.\n\nKarışıklık başka bir kuşla başladı: Afrika kökenli beç tavuğu. Dilbilimci Dan Jurafsky'ye göre bu kuş Avrupa'ya Memlük Mısırı üzerinden geldi ve İngilizler ona \"turkey-cock\" dedi. 1500'lerin başında İspanyollar Amerika'dan yeni bir kuş getirince Avrupalılar onu bununla karıştırdı ve \"turkey\" adı ona geçti. Türkçede ve Fransızcada (dinde, \"poule d'Inde\") ise kuşun Hindistan'dan geldiği sanıldı; Kolomb'un Amerika'yı Hindistan sanması yüzünden oraya \"Batı Hint Adaları\" denmişti. Portekizliler ise bu kuşa \"peru\" der.\n\nNot: \"Turkey\" adının kökeni üzerine birden fazla açıklama var; burada en yaygın kabul gören anlatımı aktardık.\n\nKaynaklar:\n- National Geographic, \"Fowl Play: The Twisted Linguistics of Turkey\": https://www.nationalgeographic.com/culture/article/fowl-play-the-twisted-linguistics-of-turkey\n- Scientific American, \"Talkin' Turkey\": https://www.scientificamerican.com/blog/food-matters/talkin-turkey-the-linguistic-link-between-the-bird-and-the-country/\n- Smithsonian, \"Turkey's Trip to the Table\": https://www.si.edu/stories/turkeys-trip-table\n- Nişanyan Sözlük, hindi: https://www.nisanyansozluk.com/kelime/hindi\n\nSence bu kuşa ne demeliydik? Yorumlara yaz.\n\n#hindi #turkey #etimoloji #bilgi #shorts",
+  "sources": [
+    "https://www.nationalgeographic.com/culture/article/fowl-play-the-twisted-linguistics-of-turkey",
+    "https://www.si.edu/stories/turkeys-trip-table"
+  ],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Bu kuşa biz hindi deriz, yani Hint'e ait. İngilizler ise turkey der, yani Türkiye. Peki hangimiz haklıyız?",
+      "caption": "Bu kuşa biz hindi deriz, yani Hint'e ait. İngilizler ise turkey der, yani Türkiye. Peki hangimiz haklıyız?",
+      "key": ["hindi", "turkey", "haklıyız?"],
+      "image": {"file": "File:Meleagris gallopavo displaying at Deer Island Open Space Preserve.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Hikâye başka bir kuşla başlıyor: Afrika'dan gelen beç tavuğu.",
+      "caption": "Hikâye başka bir kuşla başlıyor: Afrika'dan gelen beç tavuğu.",
+      "key": ["beç", "tavuğu."],
+      "image": {"file": "File:Gallina de Guinea (Numida meleagris), zona de conservación de Ngorongoro, Tanzania, 2024-05-27, DD 61.jpg"},
+      "title": "Beç tavuğu",
+      "subtitle": "AFRİKA",
+      "scene": "photo"
+    },
+    {
+      "say": "Bu kuş Avrupa'ya Memlük Mısırı üzerinden geldi. İngilizler ona turkey-cock, yani Türk horozu dedi.",
+      "caption": "Bu kuş Avrupa'ya Memlük Mısırı üzerinden geldi. İngilizler ona turkey-cock, yani Türk horozu dedi.",
+      "key": ["Türk", "horozu"],
+      "image": {"file": "File:Kairo Sultan Hassan Moschee BW 1.jpg"},
+      "title": "Memlük Mısırı",
+      "subtitle": "KAHİRE",
+      "scene": "photo"
+    },
+    {
+      "say": "1500'lerin başında İspanyollar Amerika'dan yeni bir kuş getirdi. Avrupalılar onu bu Türk horozuyla karıştırdı ve adı ona geçti: turkey.",
+      "caption": "1500'lerin başında İspanyollar Amerika'dan yeni bir kuş getirdi. Avrupalılar onu bu Türk horozuyla karıştırdı ve adı ona geçti: turkey.",
+      "key": ["karıştırdı", "turkey."],
+      "image": {"file": "File:Male wild turkey (Meleagris gallopavo) strutting.jpg"},
+      "title": "1500'ler",
+      "subtitle": "AMERİKA'DAN AVRUPA'YA",
+      "scene": "photo"
+    },
+    {
+      "say": "Peki biz neden hindi diyoruz? Kolomb Amerika'ya vardığında Hindistan'a ulaştığını sanmıştı. Oraya bu yüzden Batı Hint Adaları dendi.",
+      "caption": "Peki biz neden hindi diyoruz? Kolomb Amerika'ya vardığında Hindistan'a ulaştığını sanmıştı. Oraya bu yüzden Batı Hint Adaları dendi.",
+      "key": ["Hindistan'a", "Hint"],
+      "image": {"file": "File:Monument a Colom BCN 04 2016 6948.jpg"},
+      "title": "Kolomb",
+      "subtitle": "BARSELONA",
+      "scene": "photo"
+    },
+    {
+      "say": "Bu topraklarda da kuşun Hindistan'dan geldiği sanıldı ve adı hindi oldu.",
+      "caption": "Bu topraklarda da kuşun Hindistan'dan geldiği sanıldı ve adı hindi oldu.",
+      "key": ["hindi"],
+      "image": {"file": "File:Toraman Köyü.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Fransızlar da aynı şeyi yaptı: dinde, yani Hint tavuğu. Portekizliler ise ona peru der.",
+      "caption": "Fransızlar da aynı şeyi yaptı: dinde, yani Hint tavuğu. Portekizliler ise ona peru der.",
+      "key": ["dinde,", "peru"],
+      "image": {"file": "File:Meleagris gallopavo domesticus, Neuss (DE) -- 2022 -- 0189.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Oysa kuş ne Türkiye'den ne Hindistan'dan geliyor. Anavatanı Kuzey Amerika. İlk kez yaklaşık iki bin yıl önce Meksika'da evcilleştirildi.",
+      "caption": "Oysa kuş ne Türkiye'den ne Hindistan'dan geliyor. Anavatanı Kuzey Amerika. İlk kez yaklaşık 2.000 yıl önce Meksika'da evcilleştirildi.",
+      "key": ["Kuzey", "Amerika.", "Meksika'da"],
+      "image": {"file": "File:Panorámica de Tehuacán, Puebla.jpg"},
+      "title": "Meksika",
+      "subtitle": "TEHUACÁN",
+      "scene": "photo"
+    },
+    {
+      "say": "Yani iki taraf da yanılmış. İngilizler Türkiye'yi, biz Hindistan'ı sanmışız.",
+      "caption": "Yani iki taraf da yanılmış. İngilizler Türkiye'yi, biz Hindistan'ı sanmışız.",
+      "key": ["yanılmış."],
+      "image": {"file": "File:20260428 tom wild turkey matthaei botanical gardens PD08952.jpg"},
+      "title": "İkimiz de yanıldık",
+      "scene": "photo"
+    },
+    {
+      "say": "Sence bu kuşa ne demeliydik? Yorumlara yaz.",
+      "caption": "Sence bu kuşa ne demeliydik? Yorumlara yaz.",
+      "key": ["ne", "demeliydik?"],
+      "image": {"file": "File:Male wild turkey - Meleagris gallopavo.jpg"},
+      "title": "Sence?",
+      "subtitle": "YORUMLARA YAZ",
+      "scene": "photo"
+    }
+  ]
+}
