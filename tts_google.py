@@ -51,6 +51,10 @@ out = sys.argv[2]
 os.makedirs(out, exist_ok=True)
 VOICE = os.environ.get("TTS_VOICE") or pick_voice(ep)
 
+# Kanal kuralı: son sahne izleyiciye bir soru sorup yoruma çağırmalı (Ask Studio önerisi de bu)
+if ep["segments"] and ("?" not in ep["segments"][-1]["say"] or "orum" not in ep["segments"][-1]["say"]):
+    sys.exit("HATA: son sahnede izleyiciye soru + 'Yorumlara yaz' çağrısı yok. Bölüm dosyasına ekleyin.")
+
 # Kanal kuralı: her videonun son cümlesi takip çağrısı (bölüm dosyasında "takip_cagrisi": false ile kapatılabilir)
 CTA = "Daha fazlası için takip et."
 if ep.get("takip_cagrisi", True) and ep["segments"]:
