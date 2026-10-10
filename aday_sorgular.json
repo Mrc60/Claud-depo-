@@ -1,28 +1,23 @@
 {
-  "bolum": "005_nazar_boncugu",
-  "min_w": 900,
+  "bolum": "006_hindi",
+  "min_w": 1200,
   "sorgular": [
-    "evil eye bead making",
-    "evil eye bead production Turkey",
-    "nazar bead workshop",
-    "boncuk ustası",
-    "boncuk fırını",
-    "Nazar Boncuğu yapımı",
-    "glass bead workshop Izmir",
-    "evil eye glass Izmir",
-    "Kurudere",
-    "evil eye cracked",
-    "evil eye bracelet",
-    "nazar emoji"
+    "wild turkey Meleagris gallopavo",
+    "turkey bird displaying",
+    "domestic turkey Turkey village",
+    "hindi",
+    "hindi çiftliği",
+    "turkeys farm",
+    "helmeted guineafowl",
+    "Numida meleagris",
+    "Mamluk Cairo",
+    "Sultan Hassan Mosque Cairo",
+    "Columbus monument Barcelona",
+    "Christopher Columbus statue",
+    "Tehuacán valley",
+    "Tehuacán Puebla",
+    "Seville port Guadalquivir Torre del Oro",
+    "turkey Mexico village"
   ],
-  "incele": [
-    "File:Kapadokya'dan Nazar Boncuğu.jpg",
-    "File:Nazar boncuğu.jpg",
-    "File:Turecko Nazar amulet (24).jpg",
-    "File:Evil Eye Decorations.jpg",
-    "File:Blue eyes.JPG",
-    "File:Blue eye Stephen.png",
-    "File:Human blue eye.jpg",
-    "File:Copper(II) oxide sample.jpg"
-  ]
+  "incele": []
 }
