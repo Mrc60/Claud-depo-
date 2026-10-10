@@ -88,6 +88,20 @@ if mode == "videolar":
     else:
         log("Kanalda video bulunamadı.")
 
+if mode == "baslik":
+    # youtube_islem.txt: 1. satır "baslik", 2. satır video id, 3. satır yeni başlık
+    satirlar = open("youtube_islem.txt", encoding="utf-8").read().splitlines()
+    vid, yeni = satirlar[1].strip(), satirlar[2].strip()
+    v = api("GET", "videos", tok, params={"part": "snippet", "id": vid})["items"][0]
+    sn = v["snippet"]
+    log("== BAŞLIK ==")
+    log("Önce :", sn["title"])
+    body = {"id": vid, "snippet": {"title": yeni, "description": sn.get("description", ""),
+            "categoryId": sn.get("categoryId", "27"), "tags": sn.get("tags", []),
+            "defaultLanguage": sn.get("defaultLanguage", "tr")}}
+    api("PUT", "videos", tok, params={"part": "snippet"}, json=body)
+    log("Sonra:", api("GET", "videos", tok, params={"part": "snippet", "id": vid})["items"][0]["snippet"]["title"])
+
 if mode == "kanal":
     cfg = json.load(open("kanal.json", encoding="utf-8"))
     branding = ch.get("brandingSettings", {})
