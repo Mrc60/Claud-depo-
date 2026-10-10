@@ -378,8 +378,11 @@ if os.path.exists(_img_json):
             bg = bg.filter(ImageFilter.GaussianBlur(40))
             bg = Image.blend(bg, Image.new("RGB", bg.size, (6, 10, 16)), 0.45)
             fw = int(W2 * 0.96); fh = int(im.height * fw / im.width)
+            max_h = int(H2 * 0.58)  # dikey fotoğraflar da üstten/alttan kesilmesin
+            if fh > max_h:
+                fh = max_h; fw = int(im.width * fh / im.height)
             fg = im.resize((fw, fh), Image.LANCZOS)
-            bg.paste(fg, ((W2 - fw) // 2, int(H2 * 0.36 - fh / 2)))
+            bg.paste(fg, ((W2 - fw) // 2, max(int(H2 * 0.09), int(H2 * 0.36 - fh / 2))))
             im = bg
         else:
             # ekranı kaplayacak şekilde ölçekle (+%12 hareket payı)
