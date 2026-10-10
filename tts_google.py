@@ -51,6 +51,15 @@ out = sys.argv[2]
 os.makedirs(out, exist_ok=True)
 VOICE = os.environ.get("TTS_VOICE") or pick_voice(ep)
 
+# Kanal kuralı: her videonun son cümlesi takip çağrısı (bölüm dosyasında "takip_cagrisi": false ile kapatılabilir)
+CTA = "Daha fazlası için takip et."
+if ep.get("takip_cagrisi", True) and ep["segments"]:
+    son = ep["segments"][-1]
+    if CTA not in son["say"]:
+        son["say"] = son["say"].rstrip() + " " + CTA
+        son["caption"] = son["caption"].rstrip() + " " + CTA
+        son["key"] = list(son.get("key", [])) + ["takip"]
+
 timeline, parts, t = [], [], 0.35
 for i, seg in enumerate(ep["segments"]):
     wav_path = os.path.join(out, f"seg{i:02d}.wav")
