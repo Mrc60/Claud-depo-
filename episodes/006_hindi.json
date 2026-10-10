@@ -10,7 +10,7 @@
     "https://www.nationalgeographic.com/culture/article/fowl-play-the-twisted-linguistics-of-turkey",
     "https://www.si.edu/stories/turkeys-trip-table"
   ],
-  "revizyon": 2,
+  "revizyon": 3,
   "segments": [
     {
       "say": "Bu kuşa biz hindi deriz, yani Hint'e ait. İngilizler ise törki der, yani Türkiye. Peki hangimiz haklıyız?",
@@ -75,7 +75,8 @@
         "Hint"
       ],
       "image": {
-        "file": "File:Monument a Colom BCN 04 2016 6948.jpg"
+        "file": "File:Monument a Colom BCN 04 2016 6948.jpg",
+        "fit": "tam"
       },
       "title": "Kolomb",
       "subtitle": "BARSELONA",
@@ -88,7 +89,8 @@
         "hindi"
       ],
       "image": {
-        "file": "File:Toraman Köyü.jpg"
+        "file": "File:Toraman Köyü.jpg",
+        "fit": "tam"
       },
       "scene": "photo"
     },
@@ -113,7 +115,8 @@
         "Meksika'da"
       ],
       "image": {
-        "file": "File:Panorámica de Tehuacán, Puebla.jpg"
+        "file": "File:Panorámica de Tehuacán, Puebla.jpg",
+        "fit": "tam"
       },
       "title": "Meksika",
       "subtitle": "TEHUACÁN",
