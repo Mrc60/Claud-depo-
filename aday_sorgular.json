@@ -1,14 +1,22 @@
 {
-  "bolum": "006_hindi",
-  "min_w": 1500,
+  "bolum": "007_kahvalti",
+  "min_w": 1400,
   "sorgular": [
-    "turkeys Turkey village Anatolia",
-    "hindi köy",
-    "turkey poultry Anatolia"
+    "Turkish breakfast",
+    "Türk kahvaltısı",
+    "serpme kahvaltı",
+    "Van kahvaltısı",
+    "Turkish coffee",
+    "Türk kahvesi",
+    "Turkish coffee cup",
+    "Tahtakale",
+    "Tahtakale Istanbul",
+    "Ottoman coffeehouse",
+    "kahvehane",
+    "olives cheese bread breakfast Turkey",
+    "Turkish tea breakfast",
+    "menemen",
+    "simit breakfast"
   ],
-  "incele": [
-    "File:Domesticated turkey.jpg",
-    "File:Turkeys at the farm.jpg",
-    "File:Meleagris-Turkey (bird).jpg"
-  ]
+  "incele": []
 }
