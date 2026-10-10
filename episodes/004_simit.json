@@ -1,0 +1,100 @@
+{
+  "episode": 4,
+  "slug": "simit",
+  "series": "Sıradan Değil",
+  "title": "Simit neden halka şeklinde?",
+  "youtube_title": "Simit neden halka şeklinde? 🥯 #SıradanDeğil 4",
+  "youtube_description": "Simit en az 500 yıldır İstanbul'un sokaklarında. 1525 yılına ait İstanbul fiyat (narh) kayıtlarında simit de geçiyor; 1593'te Üsküdar'da simidin ağırlığı ve fiyatı resmen belirlendi. Evliya Çelebi, 1630'larda İstanbul'da simit satan 70 fırın olduğunu yazar. Simitçiler simidi çoğunlukla başlarının üstündeki tablada, bazen de uzun bir çubuğa takarak taşırdı.\n\nNot: Simidin neden halka şeklinde yapıldığını kesin olarak anlatan bir belge yok. Videoda halka şeklinin iki pratik faydasını anlattık: kolay taşınması ve fırında eşit pişmesi. Halka biçimli ekmeklerin Bizans döneminde de satıldığı yazılıyor.\n\nKaynaklar:\n- Sahillioğlu, H. (1967). Osmanlılarda Narh Müessesesi ve 1525 Yılı Sonunda İstanbul'da Fiyatlar. Belgelerle Türk Tarihi Dergisi, 2.\n- Ünsal, A. (2010). Susamlı Halkanın Tılsımı. Yapı Kredi Yayınları.\n- Ekinci, E. B. Simidin peşinden dünya turu, Türkiye Gazetesi: https://www.turkiyegazetesi.com.tr/kose-yazilari/prof-dr-ekrem-bugra-ekinci/simidin-pesinden-dunya-turu-649793\n- Wikipedia, Simit: https://en.wikipedia.org/wiki/Simit\n\nSen simidi neyle yersin: çayla mı, peynirle mi? Yorumlara yaz.\n\n#simit #istanbul #tarih #bilgi #shorts",
+  "sources": [
+    "https://www.turkiyegazetesi.com.tr/kose-yazilari/prof-dr-ekrem-bugra-ekinci/simidin-pesinden-dunya-turu-649793",
+    "https://en.wikipedia.org/wiki/Simit"
+  ],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Simit neden ortası delik bir halka? Cevabın bir kısmı, onu satan adamın başının üstünde.",
+      "caption": "Simit neden ortası delik bir halka? Cevabın bir kısmı, onu satan adamın başının üstünde.",
+      "key": ["halka?"],
+      "image": {"file": "File:Simit, Istanbul, Turkey (49579014147).jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Simit İstanbul'da en az beş yüz yıldır satılıyor. 1525 yılına ait İstanbul fiyat kayıtlarında simit de var.",
+      "caption": "Simit İstanbul'da en az 500 yıldır satılıyor. 1525 yılına ait İstanbul fiyat kayıtlarında simit de var.",
+      "key": ["1525"],
+      "image": {"file": "File:Simits on a street stand in Istanbul.jpg"},
+      "title": "1525",
+      "subtitle": "İSTANBUL FİYAT KAYITLARI",
+      "scene": "photo"
+    },
+    {
+      "say": "1593'te Üsküdar'da simidin ağırlığı ve fiyatı resmen belirlendi.",
+      "caption": "1593'te Üsküdar'da simidin ağırlığı ve fiyatı resmen belirlendi.",
+      "key": ["resmen"],
+      "image": {"file": "File:Simitler.JPG"},
+      "title": "1593",
+      "subtitle": "ÜSKÜDAR",
+      "scene": "photo"
+    },
+    {
+      "say": "Evliya Çelebi, 1630'larda İstanbul'da simit satan yetmiş fırın olduğunu yazar.",
+      "caption": "Evliya Çelebi, 1630'larda İstanbul'da simit satan 70 fırın olduğunu yazar.",
+      "key": ["70", "fırın"],
+      "image": {"file": "File:Gevrek Fırını.jpg"},
+      "title": "70 fırın",
+      "subtitle": "EVLİYA ÇELEBİ",
+      "scene": "photo"
+    },
+    {
+      "say": "Simitçiler sabah erkenden simidi fırından alır, sokak sokak satardı. Çoğu, simitleri başının üstündeki tablada taşırdı.",
+      "caption": "Simitçiler sabah erkenden simidi fırından alır, sokak sokak satardı. Çoğu, simitleri başının üstündeki tablada taşırdı.",
+      "key": ["tablada"],
+      "image": {"file": "File:S03 06 01 003 image 1777.jpg", "fit": "tam"},
+      "title": "1903",
+      "subtitle": "İSTANBUL'DA BİR SİMİTÇİ",
+      "scene": "photo"
+    },
+    {
+      "say": "Bazıları da uzun bir çubuğa dizerdi. İşte halkanın ilk faydası: Simit çubuğa geçer, tablada üst üste yığılır, kolayca taşınır.",
+      "caption": "Bazıları da uzun bir çubuğa dizerdi. İşte halkanın ilk faydası: Simit çubuğa geçer, tablada üst üste yığılır, kolayca taşınır.",
+      "key": ["ilk", "faydası:"],
+      "image": {"file": "File:Turkish bagels seller, Istanbul.jpg"},
+      "title": "1. fayda",
+      "subtitle": "KOLAY TAŞINIR",
+      "scene": "photo"
+    },
+    {
+      "say": "İkinci faydası fırında. Ortası delik olunca hamur ince kalır, her yerinden eşit pişer ve çıtır olur.",
+      "caption": "İkinci faydası fırında. Ortası delik olunca hamur ince kalır, her yerinden eşit pişer ve çıtır olur.",
+      "key": ["eşit", "çıtır"],
+      "image": {"file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg"},
+      "title": "2. fayda",
+      "subtitle": "EŞİT PİŞER",
+      "scene": "photo"
+    },
+    {
+      "say": "Halkanın ilk kez neden seçildiğini anlatan kesin bir belge ise yok. Ama halka şeklinde ekmek bu topraklarda çok eski. Bizans döneminde de satıldığı yazılıyor.",
+      "caption": "Halkanın ilk kez neden seçildiğini anlatan kesin bir belge ise yok. Ama halka şeklinde ekmek bu topraklarda çok eski. Bizans döneminde de satıldığı yazılıyor.",
+      "key": ["kesin", "Bizans"],
+      "image": {"file": "File:Simit vendor in Istanbul.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Denizdeki can simidi de adını bu şekilden alır.",
+      "caption": "Denizdeki can simidi de adını bu şekilden alır.",
+      "key": ["can", "simidi"],
+      "image": {"file": "File:Port buoy Rivedoux, Ré island, Charente-Maritime, France.jpg"},
+      "title": "Can simidi",
+      "scene": "photo"
+    },
+    {
+      "say": "Sen simidi neyle yersin? Çayla mı, peynirle mi? Yorumlara yaz.",
+      "caption": "Sen simidi neyle yersin? Çayla mı, peynirle mi? Yorumlara yaz.",
+      "key": ["neyle"],
+      "image": {"file": "File:Çay ve simit.jpg"},
+      "title": "Sen neyle?",
+      "subtitle": "YORUMLARA YAZ",
+      "scene": "photo"
+    }
+  ]
+}
