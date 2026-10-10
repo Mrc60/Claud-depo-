@@ -1,23 +1,14 @@
 {
   "bolum": "006_hindi",
-  "min_w": 1200,
+  "min_w": 1500,
   "sorgular": [
-    "wild turkey Meleagris gallopavo",
-    "turkey bird displaying",
-    "domestic turkey Turkey village",
-    "hindi",
-    "hindi çiftliği",
-    "turkeys farm",
-    "helmeted guineafowl",
-    "Numida meleagris",
-    "Mamluk Cairo",
-    "Sultan Hassan Mosque Cairo",
-    "Columbus monument Barcelona",
-    "Christopher Columbus statue",
-    "Tehuacán valley",
-    "Tehuacán Puebla",
-    "Seville port Guadalquivir Torre del Oro",
-    "turkey Mexico village"
+    "turkeys Turkey village Anatolia",
+    "hindi köy",
+    "turkey poultry Anatolia"
   ],
-  "incele": []
+  "incele": [
+    "File:Domesticated turkey.jpg",
+    "File:Turkeys at the farm.jpg",
+    "File:Meleagris-Turkey (bird).jpg"
+  ]
 }
