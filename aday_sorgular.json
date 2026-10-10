@@ -1,27 +1,23 @@
 {
-  "bolum": "004_simit",
-  "min_w": 900,
+  "bolum": "005_nazar_boncugu",
+  "min_w": 1200,
   "sorgular": [
-    "simitçi Constantinople",
-    "Sébah Joaillier street vendor",
-    "Abdullah Frères street vendor",
-    "Constantinople bread seller",
-    "Istanbul street vendors 1900",
-    "Simit seller Istanbul 1900",
-    "koulouri seller"
+    "nazar boncuğu",
+    "nazar boncugu",
+    "evil eye beads Turkey",
+    "evil eye amulet",
+    "nazar tree",
+    "Nazarköy",
+    "Kemalpaşa İzmir",
+    "Görece",
+    "glass bead making furnace",
+    "glassblowing Turkey",
+    "molten glass furnace",
+    "blue eye close-up",
+    "blue eyes",
+    "broken evil eye bead",
+    "copper oxide",
+    "blue glass beads"
   ],
-  "incele": [
-    "File:S03 06 01 003 image 1777.jpg",
-    "File:Simit vendor in Istanbul.jpg",
-    "File:Traditional simit dealer in Istanbul.jpg",
-    "File:Turkish bagels seller, Istanbul.jpg",
-    "File:Simit seller, Istanbul.jpg",
-    "File:Simitçi Heykeli, Eminönü.jpg",
-    "File:Gevrek Fırını.jpg",
-    "File:Simits on a street stand in Istanbul.jpg",
-    "File:Simit, Istanbul, Turkey (49579014147).jpg",
-    "File:Çay ve simit.jpg",
-    "File:Simit-2x.JPG",
-    "File:Simitler.JPG"
-  ]
+  "incele": []
 }
