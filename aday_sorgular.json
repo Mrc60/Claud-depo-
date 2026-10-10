@@ -1,23 +1,28 @@
 {
   "bolum": "005_nazar_boncugu",
-  "min_w": 1200,
+  "min_w": 900,
   "sorgular": [
-    "nazar boncuğu",
-    "nazar boncugu",
-    "evil eye beads Turkey",
-    "evil eye amulet",
-    "nazar tree",
-    "Nazarköy",
-    "Kemalpaşa İzmir",
-    "Görece",
-    "glass bead making furnace",
-    "glassblowing Turkey",
-    "molten glass furnace",
-    "blue eye close-up",
-    "blue eyes",
-    "broken evil eye bead",
-    "copper oxide",
-    "blue glass beads"
+    "evil eye bead making",
+    "evil eye bead production Turkey",
+    "nazar bead workshop",
+    "boncuk ustası",
+    "boncuk fırını",
+    "Nazar Boncuğu yapımı",
+    "glass bead workshop Izmir",
+    "evil eye glass Izmir",
+    "Kurudere",
+    "evil eye cracked",
+    "evil eye bracelet",
+    "nazar emoji"
   ],
-  "incele": []
+  "incele": [
+    "File:Kapadokya'dan Nazar Boncuğu.jpg",
+    "File:Nazar boncuğu.jpg",
+    "File:Turecko Nazar amulet (24).jpg",
+    "File:Evil Eye Decorations.jpg",
+    "File:Blue eyes.JPG",
+    "File:Blue eye Stephen.png",
+    "File:Human blue eye.jpg",
+    "File:Copper(II) oxide sample.jpg"
+  ]
 }
