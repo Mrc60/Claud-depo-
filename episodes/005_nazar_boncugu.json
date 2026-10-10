@@ -1,0 +1,98 @@
+{
+  "episode": 5,
+  "slug": "nazar_boncugu",
+  "series": "Sıradan Değil",
+  "title": "Nazar boncuğu neden mavi?",
+  "youtube_title": "Nazar boncuğu neden mavi? 🧿 #SıradanDeğil 5",
+  "youtube_description": "Nazar boncuğu aslında bir gözü taklit eder. Yaygın bir açıklamaya göre Akdeniz ve Orta Doğu'da açık renk göz az olduğu için mavi gözlü birinin bakışının nazar değdireceğine inanılırdı; boncuk da bu yüzden o göze benzetildi. İnanışa göre kötü bakışı kendi üstüne çeker, kırılırsa çok güçlü bir nazarı karşılamıştır. Mavi cam boncukların izleri 3.500 yıl öncesine kadar gider.\n\nRengin sırrı bakırda: Nazarköy'ün ustalarından Mahmut Sür'ün anlattığına göre süt beyazı cama bakır oksit katılınca bu parlak mavi elde ediliyor. Boncuklar bin derecenin üstündeki fırınlarda eritilen camdan, demir çubuklarla tek tek şekillendiriliyor. İzmir Kemalpaşa'daki Kurudere köyünün yeni adı Nazarköy; 2005 sonunda ucuz ithal boncuklar yüzünden köydeki fırın sayısı 12'den 2'ye düşmüştü.\n\nKaynaklar:\n- Gönül İlhan, \"Yaşayan İnsan Hazinesi Mahmut Sür\", bianet, 27.10.2012: https://bianet.org/haber/yasayan-insan-hazinesi-mahmut-sur-141661\n- Marchese, R. T. (2005). The Fabric of Life: Cultural Transformations in Turkish Society.\n- Wikipedia, Nazar (amulet): https://en.wikipedia.org/wiki/Nazar_(amulet)\n- Türk Patent, Görece Nazar Boncuğu coğrafi işareti (tescil no. 70)\n\nSenin evinde nazar boncuğu var mı, nereye asıyorsun? Yorumlara yaz.\n\n#nazarboncuğu #nazar #tarih #bilgi #shorts",
+  "sources": [
+    "https://bianet.org/haber/yasayan-insan-hazinesi-mahmut-sur-141661",
+    "https://en.wikipedia.org/wiki/Nazar_(amulet)"
+  ],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Nazar boncuğu neden mavi? Çünkü o aslında bir göz. Hem de bir zamanlar en çok korkulan göz.",
+      "caption": "Nazar boncuğu neden mavi? Çünkü o aslında bir göz. Hem de bir zamanlar en çok korkulan göz.",
+      "key": ["göz.", "korkulan"],
+      "image": {"file": "File:Kapadokya'dan Nazar Boncuğu.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Akdeniz ve Orta Doğu'da açık renk göz azdı. Yaygın bir açıklamaya göre, mavi gözlü birinin bakışının nazar değdireceğine inanılırdı.",
+      "caption": "Akdeniz ve Orta Doğu'da açık renk göz azdı. Yaygın bir açıklamaya göre, mavi gözlü birinin bakışının nazar değdireceğine inanılırdı.",
+      "key": ["mavi", "nazar"],
+      "image": {"file": "File:Human blue eye.jpg"},
+      "title": "Mavi göz",
+      "subtitle": "KORKULAN BAKIŞ",
+      "scene": "photo"
+    },
+    {
+      "say": "Boncuk bu yüzden o göze benzetildi. İnanışa göre kötü bakışı kendi üstüne çeker, sahibini korur.",
+      "caption": "Boncuk bu yüzden o göze benzetildi. İnanışa göre kötü bakışı kendi üstüne çeker, sahibini korur.",
+      "key": ["üstüne", "korur."],
+      "image": {"file": "File:Nazar boncuğu.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Peki boncuk kırılırsa? Çok güçlü bir nazarı karşıladığına inanılır.",
+      "caption": "Peki boncuk kırılırsa? Çok güçlü bir nazarı karşıladığına inanılır.",
+      "key": ["kırılırsa?"],
+      "image": {"file": "File:Evil Eye Decorations.jpg"},
+      "title": "Kırıldıysa...",
+      "scene": "photo"
+    },
+    {
+      "say": "Mavi cam boncuklar çok eski. İzleri üç bin beş yüz yıl öncesine kadar gidiyor.",
+      "caption": "Mavi cam boncuklar çok eski. İzleri 3.500 yıl öncesine kadar gidiyor.",
+      "key": ["3.500"],
+      "image": {"file": "File:Possibly Roman blue glass bead (FindID 660574).jpg", "fit": "tam"},
+      "title": "3.500 yıl",
+      "subtitle": "MAVİ CAM BONCUK",
+      "scene": "photo"
+    },
+    {
+      "say": "Mavinin sırrı ise bakırda. Ustaların anlattığına göre süt beyazı cama bakır oksit katılınca bu parlak mavi çıkıyor.",
+      "caption": "Mavinin sırrı ise bakırda. Ustaların anlattığına göre süt beyazı cama bakır oksit katılınca bu parlak mavi çıkıyor.",
+      "key": ["bakırda.", "bakır"],
+      "image": {"file": "File:Copper(II) oxide sample.jpg"},
+      "title": "Bakır",
+      "subtitle": "MAVİNİN SIRRI",
+      "scene": "photo"
+    },
+    {
+      "say": "Cam, bin derecenin üstündeki fırınlarda eritiliyor. Her boncuk demir çubukla tek tek şekilleniyor.",
+      "caption": "Cam, bin derecenin üstündeki fırınlarda eritiliyor. Her boncuk demir çubukla tek tek şekilleniyor.",
+      "key": ["bin", "tek"],
+      "image": {"file": "File:THE INTERIOR OF THE 2500 DEGREE F. FURNACE WHERE CRUSHED BOTTLES ARE MADE INTO MOLTEN GLASS. PART OF A NEW GLASS... - NARA - 543707.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Bu işin en bilinen köylerinden biri İzmir Kemalpaşa'da. Köyün eski adı Kurudere, yeni adı Nazarköy.",
+      "caption": "Bu işin en bilinen köylerinden biri İzmir Kemalpaşa'da. Köyün eski adı Kurudere, yeni adı Nazarköy.",
+      "key": ["Nazarköy."],
+      "image": {"file": "File:Kemalpaşa in winter.jpg"},
+      "title": "Nazarköy",
+      "subtitle": "İZMİR, KEMALPAŞA",
+      "scene": "photo"
+    },
+    {
+      "say": "Ama 2005 sonunda ucuz ithal boncuklar yüzünden köydeki fırın sayısı on ikiden ikiye düşmüştü.",
+      "caption": "Ama 2005 sonunda ucuz ithal boncuklar yüzünden köydeki fırın sayısı 12'den 2'ye düşmüştü.",
+      "key": ["12'den", "2'ye"],
+      "image": {"file": "File:Blue eyes.JPG"},
+      "title": "12 → 2",
+      "subtitle": "FIRIN SAYISI, 2005",
+      "scene": "photo"
+    },
+    {
+      "say": "Senin evinde nazar boncuğu var mı? Nereye asıyorsun? Yorumlara yaz.",
+      "caption": "Senin evinde nazar boncuğu var mı? Nereye asıyorsun? Yorumlara yaz.",
+      "key": ["Nereye"],
+      "image": {"file": "File:Turecko Nazar amulet (24).jpg"},
+      "title": "Sende var mı?",
+      "subtitle": "YORUMLARA YAZ",
+      "scene": "photo"
+    }
+  ]
+}
