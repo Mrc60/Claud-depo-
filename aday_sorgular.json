@@ -1,22 +1,21 @@
 {
-  "bolum": "008_dolmus",
+  "bolum": "009_gunler",
   "min_w": 1200,
   "sorgular": [
-    "dolmuş",
-    "dolmus Istanbul",
-    "dolmuş İstanbul",
-    "Istanbul vintage dolmuş car",
-    "Chevrolet dolmuş",
-    "minibüs İstanbul",
-    "yellow dolmuş Kadıköy",
-    "dolmuş Antalya",
-    "Cağaloğlu",
-    "Eminönü 1930",
-    "Eminönü old photograph",
-    "Nişantaşı",
-    "Istanbul taxi 1950",
-    "Istanbul 1930s street photograph",
-    "old American car Istanbul"
+    "semt pazarı",
+    "Istanbul street market",
+    "Turkish bazaar market stalls",
+    "Kadıköy Salı Pazarı",
+    "wall calendar",
+    "takvim yaprağı",
+    "Friday prayer Istanbul mosque",
+    "Süleymaniye Mosque crowd",
+    "Grand National Assembly first building Ankara",
+    "Ankara 1930s",
+    "Ankara 1935",
+    "Istanbul morning commute ferry",
+    "Istanbul Monday morning traffic",
+    "Ulus Ankara old photograph"
   ],
   "incele": []
 }

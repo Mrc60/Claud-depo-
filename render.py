@@ -511,7 +511,39 @@ def anim_zaman(layer, spec, lt, dur):
         _txt(layer, (x + 70 + 30 * (1 - k), y - 28), it.get("yil", ""), font=F_SERIF(70), fill=with_alpha(AMBER, k), anchor="lm")
         _txt(layer, (x + 72 + 30 * (1 - k), y + 36), it.get("yazi", ""), font=F_UI(44), fill=with_alpha(CREAM, k), anchor="lm")
 
-ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman}
+def anim_hafta(layer, spec, lt, dur):
+    """Haftanın günleri listesi: önceki sahnelerde açılanlar sönük durur, bu sahnenin günleri sırayla parlar."""
+    a = ease(lt / 0.4)
+    gunler = spec.get("gunler", [])
+    aktif = spec.get("aktif", [])          # bu sahnede açılan satırlar
+    acik = spec.get("acik", 0)             # daha önce açılmış satır sayısı (sönük gösterilir)
+    _card(layer, [70, 250, W - 70, 1070], a)
+    d = ImageDraw.Draw(layer)
+    y0, row = 320, 110
+    per = max(0.5, (dur - 0.6) / max(1, len(aktif)))
+    for i, g in enumerate(gunler):
+        y = y0 + i * row
+        if i in aktif:
+            j = aktif.index(i)
+            k = ease((lt - 0.25 - j * per) / 0.35)
+            hl = k
+        elif i < acik:
+            k, hl = 1.0, 0.0
+        else:
+            k, hl = 0.0, 0.0
+        # gün adı her zaman görünür (sönük); anlamı açılınca gelir
+        base = 0.35 + 0.65 * hl if (i in aktif or i < acik) else 0.35
+        if hl > 0.01:
+            ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+            ImageDraw.Draw(ov).rounded_rectangle([100, y - 48, W - 100, y + 48], radius=24,
+                                                 fill=with_alpha(AMBER, 0.16 * hl * a))
+            layer.alpha_composite(ov)
+        _txt(layer, (130, y), g[0], font=F_SERIF(62), fill=with_alpha(AMBER if hl > 0.5 else CREAM, base * a), anchor="lm")
+        if k > 0.01:
+            _txt(layer, (W - 130 - 20 * (1 - k), y), g[1], font=F_UI(38),
+                 fill=with_alpha(CREAM, (0.55 + 0.45 * hl) * k * a), anchor="rm")
+
+ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman, "hafta": anim_hafta}
 
 def render_frame(t, idx):
     f = BG.copy()
