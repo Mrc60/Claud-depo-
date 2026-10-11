@@ -74,7 +74,7 @@ show(ch)
 
 if mode == "videolar":
     up = api("GET", "channels", tok, params={"part": "contentDetails", "mine": "true"})["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
-    items = api("GET", "playlistItems", tok, params={"part": "contentDetails", "playlistId": up, "maxResults": 10}).get("items", [])
+    items = api("GET", "playlistItems", tok, params={"part": "contentDetails", "playlistId": up, "maxResults": 25}).get("items", [])
     ids = ",".join(i["contentDetails"]["videoId"] for i in items)
     log("== VİDEOLAR ==")
     if ids:
