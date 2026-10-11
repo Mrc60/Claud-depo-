@@ -10,7 +10,7 @@
     "https://istanbulansiklopedisi.org/handle/rek/28544",
     "https://www.milliyet.com.tr/gundem/istanbulluysan-bin-dolmusa-6929121"
   ],
-  "revizyon": 1,
+  "revizyon": 2,
   "segments": [
     {
       "say": "Dolmuş Türkiye'nin her yerinde var. Ama onu bir aşçının icat ettiğini biliyor muydun?",
@@ -130,16 +130,16 @@
       "scene": "photo"
     },
     {
-      "say": "Sen en son ne zaman dolmuşa bindin? İnecek var diyenlerden misin? Yorumlara yaz.",
-      "caption": "Sen en son ne zaman dolmuşa bindin? \"İnecek var!\" diyenlerden misin? Yorumlara yaz.",
+      "say": "Sen en son ne zaman dolmuşa bindin? Yorumlara yaz.",
+      "caption": "Sen en son ne zaman dolmuşa bindin? Yorumlara yaz.",
       "key": [
-        "İnecek",
-        "var!\""
+        "en",
+        "son"
       ],
       "image": {
         "file": "File:Dolmuş kapı.JPG"
       },
-      "title": "İnecek var!",
+      "title": "Sen ne zaman?",
       "subtitle": "YORUMLARA YAZ",
       "scene": "photo"
     }
