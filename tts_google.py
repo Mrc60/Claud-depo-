@@ -5,7 +5,7 @@ Kullanım: python3 tts_google.py episodes/001_kolonya.json build/001
 Ortam değişkenleri:
   GOOGLE_TTS_API_KEY  (zorunlu)  Google Cloud API anahtarı
   TTS_VOICE           (isteğe bağlı) tüm bölümler için tek ses zorlar; boşsa kanal ses düzeni
-  TTS_RATE            (isteğe bağlı) konuşma hızı, varsayılan 1.08
+  TTS_RATE            (isteğe bağlı) konuşma hızı, varsayılan 0.97 (bölümde "hiz" ile değiştirilebilir)
 """
 import base64, io, json, os, re, subprocess, sys, time, wave
 import requests
@@ -26,9 +26,9 @@ def pick_voice(ep):
     # 2) Yoksa 10 bölümlük düzen: 7 ana, 1'er erkek2 / erkek3 / kadın
     n = int(ep.get("episode", 1)) % 10
     return {4: SESLER["erkek2"], 7: SESLER["erkek3"], 0: SESLER["kadin"]}.get(n, SESLER["ana"])
-RATE = float(os.environ.get("TTS_RATE", "1.08"))
+RATE = float(os.environ.get("TTS_RATE", "0.97"))  # TEK1: acele etmeden, biraz yavaş
 URL = "https://texttospeech.googleapis.com/v1/text:synthesize"
-GAP = 0.28
+GAP = 0.34
 SR = 24000
 
 from sayilar import temizle as clean  # kesme işareti + sayıları yazıya çevirir
@@ -50,6 +50,7 @@ ep = json.load(open(sys.argv[1], encoding="utf-8"))
 out = sys.argv[2]
 os.makedirs(out, exist_ok=True)
 VOICE = os.environ.get("TTS_VOICE") or pick_voice(ep)
+RATE = float(ep.get("hiz", RATE))
 
 # Kanal kuralı: son sahne izleyiciye bir soru sorup yoruma çağırmalı (Ask Studio önerisi de bu)
 if ep["segments"] and ("?" not in ep["segments"][-1]["say"] or "orum" not in ep["segments"][-1]["say"]):
@@ -64,7 +65,7 @@ if ep.get("takip_cagrisi", True) and ep["segments"]:
         son["caption"] = son["caption"].rstrip() + " " + CTA
         son["key"] = list(son.get("key", [])) + ["takip"]
 
-timeline, parts, t = [], [], 0.35
+timeline, parts, t = [], [], 0.12  # ilk saniyeden konuşmaya başla
 for i, seg in enumerate(ep["segments"]):
     wav_path = os.path.join(out, f"seg{i:02d}.wav")
     data = synth(seg["say"])

@@ -422,7 +422,7 @@ def photo_scene(layer, seg_idx, lt, dur):
     layer.alpha_composite(SHADE)
     seg = SEGS[seg_idx]
     d2 = ImageDraw.Draw(layer)
-    k = ease((lt - 0.25) / 0.45)
+    k = 1.0 if seg_idx == 0 else ease((lt - 0.25) / 0.45)  # açılış başlığı ilk kareden ekranda
     if seg.get("subtitle"):
         d2.text((W / 2, 1075 + 14 * (1 - k)), seg["subtitle"], font=F_UI(40), fill=with_alpha(AMBER, k), anchor="mm")
     if seg.get("title"):
@@ -560,7 +560,7 @@ def render_frame(t, idx):
                 ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))  # ayrı katman: yarı saydam yazılar delik açmasın
                 ANIMS[an["tur"]](ov, an, lt, en - st)
                 layer.alpha_composite(ov)
-            fade = min(ease(lt / 0.22), ease((en - t) / 0.18))
+            fade = min(1.0 if st == 0 else ease(lt / 0.22), ease((en - t) / 0.18))  # ilk kare siyah olmasın
             if fade < 1:
                 a = layer.getchannel("A").point(lambda v: int(v * fade)); layer.putalpha(a)
             f.alpha_composite(layer)

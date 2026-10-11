@@ -2,28 +2,30 @@
   "episode": 10,
   "slug": "seftali",
   "series": "Sıradan Değil",
-  "voice": "kadin",
+  "voice": "ana",
   "title": "Şeftalinin adı neden yanlış?",
   "youtube_title": "Şeftalinin adı İran'dan, kendisi Çin'den! 🍑 #SıradanDeğil 10",
-  "youtube_description": "Şeftali kelimesi Farsçadan geliyor: şeftālū. Avrupalılar ise bu meyveye \"Pers elması\" dedi; Latince malum persicum, İngilizce peach, Fransızca pêche, bilimsel adı Prunus persica hep İran'ı işaret eder. Oysa şeftalinin vatanı Çin. 2014'te PLOS ONE dergisinde yayımlanan bir araştırmaya göre şeftali, en az 7.500 yıl önce Çin'in Yangtze Nehri havzasının aşağı kesiminde evcilleştirildi. Araştırmacılar 5.000 yılı kapsayan altı kazı alanındaki şeftali çekirdeklerinin zamanla büyüdüğünü gösterdi. Meyve Avrupa'ya İran üzerinden ulaştığı için Romalılar onu İran meyvesi sandı. Bugün Türkiye'de yılda bir milyon tondan fazla şeftali üretiliyor; en bilinen merkezlerden biri Bursa.\n\nKaynaklar:\n- Zheng, Y., Crawford, G. W., Chen, X. (2014). Archaeological Evidence for Peach (Prunus persica) Cultivation and Domestication in China. PLOS ONE: https://doi.org/10.1371/journal.pone.0106595\n- University of Toronto haberi (2014): https://utoronto.ca/news/peach-long-prufrock-or-james-someone-domesticated-fruit-who\n- Online Etymology Dictionary, peach: https://www.etymonline.com/word/peach\n- Nişanyan Sözlük, şeftali: https://www.nisanyansozluk.com/kelime/%C5%9Feftali\n- Türkiye İhracatçılar Meclisi, Şeftali Ürün Atlası (TÜİK verisi, 2023): https://tim.org.tr/files/downloads/Urun_Atlasi/ProductAtlasPeach.pdf\n\nSen şeftaliyi tüylü mü seversin, tüysüz mü? Yorumlara yaz.\n\n#şeftali #bursa #tarih #bilgi #shorts",
+  "youtube_description": "Şeftali kelimesi Farsçadan geliyor: şeftālū. Avrupalılar ise bu meyveye \"Pers elması\" dedi; Latince malum persicum, İngilizce peach, Fransızca pêche, bilimsel adı Prunus persica hep İran'ı işaret eder. Oysa şeftalinin vatanı Çin. 2014'te PLOS ONE dergisinde yayımlanan bir araştırmaya göre şeftali, en az 7.500 yıl önce Çin'in Yangtze Nehri havzasının aşağı kesiminde evcilleştirildi. Araştırmacılar 5.000 yılı kapsayan altı kazı alanındaki şeftali çekirdeklerinin zamanla büyüdüğünü gösterdi. Meyve Avrupa'ya İran üzerinden ulaştığı için Romalılar onu İran meyvesi sandı. Bugün Türkiye'de yılda bir milyon tondan fazla şeftali üretiliyor; en bilinen merkezlerden biri Bursa.\n\nKaynaklar:\n- Zheng, Y., Crawford, G. W., Chen, X. (2014). Archaeological Evidence for Peach (Prunus persica) Cultivation and Domestication in China. PLOS ONE: https://doi.org/10.1371/journal.pone.0106595\n- University of Toronto haberi (2014): https://utoronto.ca/news/peach-long-prufrock-or-james-someone-domesticated-fruit-who\n- Online Etymology Dictionary, peach: https://www.etymonline.com/word/peach\n- Nişanyan Sözlük, şeftali: https://www.nisanyansozluk.com/kelime/%C5%9Feftali\n- Türkiye İhracatçılar Meclisi, Şeftali Ürün Atlası (TÜİK verisi, 2023): https://tim.org.tr/files/downloads/Urun_Atlasi/ProductAtlasPeach.pdf\n\nAramızda şeftaliyi seven ya da sevmeyen var mı? Yorumlarda buluşalım.\n\n#şeftali #bursa #tarih #bilgi #shorts",
   "sources": [
     "https://doi.org/10.1371/journal.pone.0106595",
     "https://www.etymonline.com/word/peach"
   ],
-  "revizyon": 2,
+  "revizyon": 3,
   "segments": [
     {
-      "say": "Şeftalinin adı onu İran'dan sanıyor. Ama şeftali aslında Çin'den geliyor.",
-      "caption": "Şeftalinin adı onu İran'dan sanıyor. Ama şeftali aslında Çin'den geliyor.",
+      "say": "Şeftaliyi herkes İran meyvesi sanır. Adı bile öyle söyler. Ama şeftali aslında Çin'den geliyor.",
+      "caption": "Şeftaliyi herkes İran meyvesi sanır. Adı bile öyle söyler. Ama şeftali aslında Çin'den geliyor.",
       "key": [
-        "İran'dan",
+        "İran",
         "Çin'den"
       ],
       "image": {
         "file": "File:Autumn Red peaches.jpg",
         "fit": "tam"
       },
-      "scene": "photo"
+      "scene": "photo",
+      "title": "İran değil, Çin!",
+      "subtitle": "ŞEFTALİNİN SIRRI"
     },
     {
       "say": "Şeftali kelimesi Farsça şeftalu'dan geliyor.",
@@ -131,18 +133,19 @@
       "scene": "photo"
     },
     {
-      "say": "Sen şeftaliyi tüylü mü seversin, tüysüz mü? Yorumlara yaz.",
-      "caption": "Sen şeftaliyi tüylü mü seversin, tüysüz mü? Yorumlara yaz.",
+      "say": "Peki size soruyorum, değerli izleyicilerimiz: aramızda şeftaliyi seven ya da sevmeyen var mı? Yorumlarda buluşalım. Bu arada takip edip beğenirseniz çok mutlu olurum.",
+      "caption": "Peki size soruyorum, değerli izleyicilerimiz: aramızda şeftaliyi seven ya da sevmeyen var mı? Yorumlarda buluşalım. Bu arada takip edip beğenirseniz çok mutlu olurum.",
       "key": [
-        "tüylü",
-        "tüysüz"
+        "seven",
+        "sevmeyen"
       ],
       "image": {
         "file": "File:Peach in plate.jpg"
       },
-      "title": "Tüylü mü, tüysüz mü?",
-      "subtitle": "YORUMLARA YAZ",
+      "title": "Seven var mı?",
+      "subtitle": "YORUMLARDA BULUŞALIM",
       "scene": "photo"
     }
-  ]
+  ],
+  "takip_cagrisi": false
 }
