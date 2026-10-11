@@ -1,0 +1,147 @@
+{
+  "episode": 8,
+  "slug": "dolmus",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "title": "Dolmuşu bir aşçı icat etti",
+  "youtube_title": "Dolmuşu kim icat etti? Bir aşçı! 🚐 #SıradanDeğil 8",
+  "youtube_description": "Dolmuşun hikâyesi İstanbul'da bir aşçıyla başlıyor. Anlatılana göre 1929 ekonomik krizi döneminde Cağaloğlu'nda aşçılık yapan Halit, aynı yöne giden dört yolcuyu tek arabaya alıp taksi ücretini aralarında bölüştürdü. İlk hattın Nişantaşı ile Eminönü arasında olduğu anlatılır. Araba dolunca kalktığı için adı \"dolmuş\" oldu. Hürriyet 1969'da onu \"Dolmuşu İcat Eden Adam\" başlığıyla yazdı. Dolmuşlarda uzun yıllar Amerikan arabaları kullanıldı; 1960'larda minibüsler geldi, Amerikan arabaları 1980'lerin sonunda yollardan çekildi.\n\nNot: Dolmuşun başlangıcına dair bilgiler büyük ölçüde dönemin basınına ve sözlü anlatımlara dayanır.\n\nKaynaklar:\n- İstanbul Ansiklopedisi arşivi, \"Halid (Dolmuşçu)\" maddesi ve Hürriyet, 28.04.1969, \"Dolmuş'u İcat Eden Adam\": https://istanbulansiklopedisi.org/handle/rek/28544\n- Milliyet, \"İstanbulluysan bin dolmuşa\", 09.04.2023: https://www.milliyet.com.tr/gundem/istanbulluysan-bin-dolmusa-6929121\n- Nişanyan Sözlük, dolmuş: https://www.nisanyansozluk.com/kelime/dolmu%C5%9F\n\nSen en son ne zaman dolmuşa bindin? Yorumlara yaz.\n\n#dolmuş #istanbul #tarih #bilgi #shorts",
+  "sources": [
+    "https://istanbulansiklopedisi.org/handle/rek/28544",
+    "https://www.milliyet.com.tr/gundem/istanbulluysan-bin-dolmusa-6929121"
+  ],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Dolmuş Türkiye'nin her yerinde var. Ama onu bir aşçının icat ettiğini biliyor muydun?",
+      "caption": "Dolmuş Türkiye'nin her yerinde var. Ama onu bir aşçının icat ettiğini biliyor muydun?",
+      "key": [
+        "aşçının"
+      ],
+      "image": {
+        "file": "File:Dolmuş.JPG"
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Yıl 1929. Dünya büyük bir ekonomik krize giriyor. İstanbul'da taksiye binen azalıyor.",
+      "caption": "Yıl 1929. Dünya büyük bir ekonomik krize giriyor. İstanbul'da taksiye binen azalıyor.",
+      "key": [
+        "1929.",
+        "krize"
+      ],
+      "image": {
+        "file": "File:S03 06 01 003 image 1783.jpg",
+        "fit": "tam"
+      },
+      "title": "1929",
+      "subtitle": "BÜYÜK BUHRAN",
+      "scene": "photo"
+    },
+    {
+      "say": "Anlatılana göre Cağaloğlu'nda aşçılık yapan Halit'in aklına bir fikir geliyor.",
+      "caption": "Anlatılana göre Cağaloğlu'nda aşçılık yapan Halit'in aklına bir fikir geliyor.",
+      "key": [
+        "Halit'in"
+      ],
+      "image": {
+        "file": "File:Cağaloğlu Hamam.jpg"
+      },
+      "title": "Aşçı Halit",
+      "subtitle": "CAĞALOĞLU",
+      "scene": "photo"
+    },
+    {
+      "say": "Aynı yöne giden dört yolcuyu tek arabaya al, taksi ücretini aralarında böl.",
+      "caption": "Aynı yöne giden dört yolcuyu tek arabaya al, taksi ücretini aralarında böl.",
+      "key": [
+        "dört",
+        "böl."
+      ],
+      "image": {
+        "file": "File:Istanbul, İstanbul, Turkey - panoramio (142).jpg"
+      },
+      "anim": {
+        "tur": "bolusme",
+        "kisi": 4,
+        "alt": "Dolmadan kalkmaz!"
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "İlk hattın Nişantaşı ile Eminönü arasında olduğu anlatılır. Araba dolunca kalkıyor, adı da buradan geliyor: dolmuş.",
+      "caption": "İlk hattın Nişantaşı ile Eminönü arasında olduğu anlatılır. Araba dolunca kalkıyor, adı da buradan geliyor: dolmuş.",
+      "key": [
+        "dolunca",
+        "dolmuş."
+      ],
+      "image": {
+        "file": "File:Eminönü and The New Mosque (Yeni Cami) on the left (8396712760).jpg"
+      },
+      "title": "Dolmuş",
+      "subtitle": "DOLUNCA KALKAR",
+      "scene": "photo"
+    },
+    {
+      "say": "Sonra dolmuş değişti. Uzun yıllar Amerikan arabaları kullanıldı. 1960'larda minibüsler geldi. Amerikan arabaları 1980'lerin sonunda yollardan çekildi.",
+      "caption": "Sonra dolmuş değişti. Uzun yıllar Amerikan arabaları kullanıldı. 1960'larda minibüsler geldi. Amerikan arabaları 1980'lerin sonunda yollardan çekildi.",
+      "key": [
+        "minibüsler"
+      ],
+      "image": {
+        "file": "File:Istanbul minibus 02.JPG"
+      },
+      "anim": {
+        "tur": "zaman",
+        "maddeler": [
+          {
+            "yil": "1929",
+            "yazi": "Aşçı Halit'in fikri"
+          },
+          {
+            "yil": "1960'lar",
+            "yazi": "Minibüsler geliyor"
+          },
+          {
+            "yil": "1980'ler",
+            "yazi": "Amerikan arabaları emekli"
+          },
+          {
+            "yil": "Bugün",
+            "yazi": "Hâlâ yolda"
+          }
+        ]
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Hürriyet 1969'da onun hikâyesini şu başlıkla yazdı: Dolmuşu icat eden adam.",
+      "caption": "Hürriyet 1969'da onun hikâyesini şu başlıkla yazdı: Dolmuşu icat eden adam.",
+      "key": [
+        "icat",
+        "eden",
+        "adam."
+      ],
+      "image": {
+        "file": "File:20131207 Istanbul 019.jpg"
+      },
+      "title": "1969",
+      "subtitle": "HÜRRİYET",
+      "scene": "photo"
+    },
+    {
+      "say": "Sen en son ne zaman dolmuşa bindin? İnecek var diyenlerden misin? Yorumlara yaz.",
+      "caption": "Sen en son ne zaman dolmuşa bindin? \"İnecek var!\" diyenlerden misin? Yorumlara yaz.",
+      "key": [
+        "İnecek",
+        "var!\""
+      ],
+      "image": {
+        "file": "File:Dolmuş kapı.JPG"
+      },
+      "title": "İnecek var!",
+      "subtitle": "YORUMLARA YAZ",
+      "scene": "photo"
+    }
+  ]
+}
