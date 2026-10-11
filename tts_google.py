@@ -52,18 +52,16 @@ os.makedirs(out, exist_ok=True)
 VOICE = os.environ.get("TTS_VOICE") or pick_voice(ep)
 RATE = float(ep.get("hiz", RATE))
 
-# Kanal kuralı: son sahne izleyiciye bir soru sorup yoruma çağırmalı (Ask Studio önerisi de bu)
-if ep["segments"] and ("?" not in ep["segments"][-1]["say"] or "orum" not in ep["segments"][-1]["say"]):
-    sys.exit("HATA: son sahnede izleyiciye soru + 'Yorumlara yaz' çağrısı yok. Bölüm dosyasına ekleyin.")
-
-# Kanal kuralı: her videonun son cümlesi takip çağrısı (bölüm dosyasında "takip_cagrisi": false ile kapatılabilir)
-CTA = "Daha fazlası için takip et."
-if ep.get("takip_cagrisi", True) and ep["segments"]:
-    son = ep["segments"][-1]
-    if CTA not in son["say"]:
-        son["say"] = son["say"].rstrip() + " " + CTA
-        son["caption"] = son["caption"].rstrip() + " " + CTA
-        son["key"] = list(son.get("key", [])) + ["takip"]
+# Kanal kuralı (TEK1): kapanış kibar ve nazik olmalı; videoya göre yazılmış bir soru,
+# yorum daveti, takip ve beğeni ricası içermeli. Eksikse video üretilmez.
+if ep["segments"]:
+    son = ep["segments"][-1]["say"].lower()
+    eksik = [ad for ad, ok in (("soru (?)", "?" in son), ("yorum daveti", "yorum" in son),
+                               ("takip ricası", "takip" in son), ("beğeni ricası", "beğen" in son)) if not ok]
+    if eksik:
+        sys.exit("HATA: kapanış sahnesinde eksik: " + ", ".join(eksik) +
+                 ". Kibar bir kapanış yazın (ör. 'Peki size soruyorum, değerli izleyicilerimiz... "
+                 "Yorumlarda buluşalım. Takip edip beğenirseniz çok mutlu olurum.')")
 
 timeline, parts, t = [], [], 0.12  # ilk saniyeden konuşmaya başla
 for i, seg in enumerate(ep["segments"]):
