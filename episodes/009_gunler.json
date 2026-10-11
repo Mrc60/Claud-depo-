@@ -9,7 +9,7 @@
   "sources": [
     "https://www.nisanyansozluk.com/kelime/sal%C4%B1"
   ],
-  "revizyon": 2,
+  "revizyon": 3,
   "segments": [
     {
       "say": "Pazartesi, Salı, Çarşamba... Her gün söylüyoruz. Peki bu adlar aslında ne demek?",
@@ -24,10 +24,11 @@
       "scene": "photo"
     },
     {
-      "say": "Pazartesi kolay: pazar ertesi. Cumartesi de aynı mantık: cuma ertesi.",
-      "caption": "Pazartesi kolay: pazar ertesi. Cumartesi de aynı mantık: cuma ertesi.",
+      "say": "Pazartesi aslında pazar ertesi demek. Yani pazardan sonraki gün. Cumartesi de öyle: cuma ertesi.",
+      "caption": "Pazartesi aslında \"pazar ertesi\" demek. Yani pazardan sonraki gün. Cumartesi de öyle: \"cuma ertesi\".",
       "key": [
-        "ertesi."
+        "ertesi\"",
+        "sonraki"
       ],
       "image": {
         "file": "File:Istanbul photos by J.Lubbock 2014 340.jpg"
