@@ -1,0 +1,86 @@
+{
+  "episode": 10,
+  "slug": "seftali",
+  "series": "Sıradan Değil",
+  "voice": "kadin",
+  "title": "Şeftalinin adı neden yanlış?",
+  "youtube_title": "Şeftalinin adı İran'dan, kendisi Çin'den! 🍑 #SıradanDeğil 10",
+  "youtube_description": "Şeftali kelimesi Farsçadan geliyor: şeftālū. Avrupalılar ise bu meyveye \"Pers elması\" dedi; Latince malum persicum, İngilizce peach, Fransızca pêche, bilimsel adı Prunus persica hep İran'ı işaret eder. Oysa şeftalinin vatanı Çin. 2014'te PLOS ONE dergisinde yayımlanan bir araştırmaya göre şeftali, en az 7.500 yıl önce Çin'in Yangtze Nehri havzasının aşağı kesiminde evcilleştirildi. Araştırmacılar 5.000 yılı kapsayan altı kazı alanındaki şeftali çekirdeklerinin zamanla büyüdüğünü gösterdi. Meyve Avrupa'ya İran üzerinden ulaştığı için Romalılar onu İran meyvesi sandı. Bugün Türkiye'de yılda bir milyon tondan fazla şeftali üretiliyor; en bilinen merkezlerden biri Bursa.\n\nKaynaklar:\n- Zheng, Y., Crawford, G. W., Chen, X. (2014). Archaeological Evidence for Peach (Prunus persica) Cultivation and Domestication in China. PLOS ONE: https://doi.org/10.1371/journal.pone.0106595\n- University of Toronto haberi (2014): https://utoronto.ca/news/peach-long-prufrock-or-james-someone-domesticated-fruit-who\n- Online Etymology Dictionary, peach: https://www.etymonline.com/word/peach\n- Nişanyan Sözlük, şeftali: https://www.nisanyansozluk.com/kelime/%C5%9Feftali\n- Türkiye İhracatçılar Meclisi, Şeftali Ürün Atlası (TÜİK verisi, 2023): https://tim.org.tr/files/downloads/Urun_Atlasi/ProductAtlasPeach.pdf\n\nSen şeftaliyi tüylü mü seversin, tüysüz mü? Yorumlara yaz.\n\n#şeftali #bursa #tarih #bilgi #shorts",
+  "sources": ["https://doi.org/10.1371/journal.pone.0106595", "https://www.etymonline.com/word/peach"],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Şeftalinin adı onu İran'dan sanıyor. Ama şeftali aslında Çin'den geliyor.",
+      "caption": "Şeftalinin adı onu İran'dan sanıyor. Ama şeftali aslında Çin'den geliyor.",
+      "key": ["İran'dan", "Çin'den"],
+      "image": {"file": "File:Autumn Red peaches.jpg"},
+      "scene": "photo"
+    },
+    {
+      "say": "Şeftali kelimesi Farsça şeftalu'dan geliyor.",
+      "caption": "\"Şeftali\" kelimesi Farsça \"şeftālū\"dan geliyor.",
+      "key": ["Farsça"],
+      "image": {"file": "File:Persépolis, Irán, 2016-09-24, DD 53.jpg"},
+      "title": "Şeftālū",
+      "subtitle": "FARSÇA",
+      "scene": "photo"
+    },
+    {
+      "say": "Avrupalılar da ona Pers elması dedi. İngilizce peach, Fransızca peş, hepsi bu Latince isimden türedi.",
+      "caption": "Avrupalılar da ona \"Pers elması\" dedi. İngilizce \"peach\", Fransızca \"pêche\", hepsi bu Latince isimden türedi.",
+      "key": ["Pers", "elması\""],
+      "image": {"file": "File:Still life with peaches and a half-filled glass pitcher of water, from Herculanueum, ca. 50 AD, Naples National Archaeological Museum (14822672466).jpg", "fit": "tam"},
+      "title": "Pers elması",
+      "subtitle": "HERCULANEUM FRESKOSU, MS 50",
+      "scene": "photo"
+    },
+    {
+      "say": "Çünkü meyve Avrupa'ya İran üzerinden ulaştı. Romalılar onu İran meyvesi sandı.",
+      "caption": "Çünkü meyve Avrupa'ya İran üzerinden ulaştı. Romalılar onu İran meyvesi sandı.",
+      "key": ["İran", "üzerinden"],
+      "image": {"file": "File:Persépolis, Irán, 2016-09-24, DD 53.jpg"},
+      "anim": {"tur": "zaman", "maddeler": [
+        {"yil": "Çin", "yazi": "Evcilleştirildiği yer"},
+        {"yil": "İran", "yazi": "Batıya geçiş yolu"},
+        {"yil": "Roma", "yazi": "\"Pers elması\" adı"},
+        {"yil": "Avrupa", "yazi": "peach, pêche..."}
+      ]},
+      "scene": "photo"
+    },
+    {
+      "say": "Peki gerçek vatanı neresi? 2014'te yayımlanan bir araştırmaya göre şeftali en az yedi bin beş yüz yıl önce Çin'de, Yangtze Nehri'nin aşağı havzasında evcilleştirildi.",
+      "caption": "Peki gerçek vatanı neresi? 2014'te yayımlanan bir araştırmaya göre şeftali en az 7.500 yıl önce Çin'de, Yangtze Nehri'nin aşağı havzasında evcilleştirildi.",
+      "key": ["7.500", "Çin'de,"],
+      "image": {"file": "File:Tianluoshan Site, 2014-11-23 06.JPG"},
+      "title": "7.500 yıl",
+      "subtitle": "ZHEJIANG, ÇİN",
+      "scene": "photo"
+    },
+    {
+      "say": "Araştırmacılar altı kazı alanından çıkan şeftali çekirdeklerini inceledi. Çekirdekler binlerce yıl içinde giderek büyümüştü. Yani insanlar en iri meyveleri seçip yetiştirmişti.",
+      "caption": "Araştırmacılar altı kazı alanından çıkan şeftali çekirdeklerini inceledi. Çekirdekler binlerce yıl içinde giderek büyümüştü. Yani insanlar en iri meyveleri seçip yetiştirmişti.",
+      "key": ["büyümüştü.", "iri"],
+      "image": {"file": "File:Prunus stones-kansuensis persica davidiana.png", "fit": "tam"},
+      "title": "Çekirdekler büyüdü",
+      "scene": "photo"
+    },
+    {
+      "say": "Bugün Türkiye'de yılda bir milyon tondan fazla şeftali üretiliyor. En bilinen merkezlerden biri de Bursa.",
+      "caption": "Bugün Türkiye'de yılda 1 milyon tondan fazla şeftali üretiliyor. En bilinen merkezlerden biri de Bursa.",
+      "key": ["1", "milyon", "Bursa."],
+      "image": {"file": "File:Pazar in Ankara.jpg"},
+      "title": "1 milyon ton",
+      "subtitle": "TÜRKİYE, 2023",
+      "scene": "photo"
+    },
+    {
+      "say": "Sen şeftaliyi tüylü mü seversin, tüysüz mü? Yorumlara yaz.",
+      "caption": "Sen şeftaliyi tüylü mü seversin, tüysüz mü? Yorumlara yaz.",
+      "key": ["tüylü", "tüysüz"],
+      "image": {"file": "File:Peach in plate.jpg"},
+      "title": "Tüylü mü, tüysüz mü?",
+      "subtitle": "YORUMLARA YAZ",
+      "scene": "photo"
+    }
+  ]
+}
