@@ -527,12 +527,12 @@ def anim_hafta(layer, spec, lt, dur):
             j = aktif.index(i)
             k = ease((lt - 0.25 - j * per) / 0.35)
             hl = k
-        elif i < acik:
+        elif (i in acik if isinstance(acik, list) else i < acik):
             k, hl = 1.0, 0.0
         else:
             k, hl = 0.0, 0.0
         # gün adı her zaman görünür (sönük); anlamı açılınca gelir
-        base = 0.35 + 0.65 * hl if (i in aktif or i < acik) else 0.35
+        base = 0.35 + 0.65 * hl
         if hl > 0.01:
             ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
             ImageDraw.Draw(ov).rounded_rectangle([100, y - 48, W - 100, y + 48], radius=24,
