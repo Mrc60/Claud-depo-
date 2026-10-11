@@ -4,12 +4,12 @@
   "series": "Sıradan Değil",
   "title": "Kahvaltı aslında kahve altı",
   "youtube_title": "Kahvaltıda kahve yok, adı neden kahveden geliyor? ☕ #SıradanDeğil 7",
-  "youtube_description": "\"Kahvaltı\" kelimesi aslında \"kahve altı\"ndan geliyor. Nişanyan Sözlük'e göre kahve altı, kahveyle yenen hafif yemek demekti; yaygın açıklamaya göre de aç karnına kahve içilmesin diye ilk kahveden önce birkaç lokma bir şey yenirdi. İstanbul'daki ilk kahvehaneler 1554-55'te Tahtakale'de açıldı. Osmanlı'da gün genellikle iki ana öğünle geçerdi; kahvaltı ana öğün olarak 19. yüzyılın sonlarına doğru tanımlanmaya başladı. Zamanla sabah sofrasında kahvenin yerini çay aldı ama ad değişmedi. 2025'te TasteAtlas okur oylamasında Türk kahvaltısı dünyanın en iyi kahvaltısı seçildi.\n\nKaynaklar:\n- Nişanyan Sözlük, kahvaltı: https://www.nisanyansozluk.com/kelime/kahvalt%C4%B1\n- TDV İslâm Ansiklopedisi, Kahvehane: https://islamansiklopedisi.org.tr/kahvehane\n- Kapadokya Üniversitesi açık erişim, Türk mutfağında kahvaltı üzerine çalışma: https://acikerisim.kapadokya.edu.tr/bitstreams/cf8b77de-e23b-47aa-b41e-98541139881e/download\n- Habertürk, 10.06.2025, TasteAtlas listesi: https://www.haberturk.com/dunyanin-en-iyi-100-kahvaltisi-listesinde-turk-kahvaltisi-birinci-3798134\n\nSen kahvaltıda çay mı içersin, kahve mi? Yorumlara yaz.\n\n#kahvaltı #türkkahvesi #kelimekökenleri #bilgi #shorts",
+  "youtube_description": "\"Kahvaltı\" kelimesi aslında \"kahve altı\"ndan geliyor. Nişanyan Sözlük'e göre kahve altı, kahveyle yenen hafif yemek demekti; yaygın açıklamaya göre de aç karnına kahve içilmesin diye ilk kahveden önce birkaç lokma bir şey yenirdi. İstanbul'daki ilk kahvehaneler 1554-55'te Tahtakale'de açıldı. Osmanlı'da gün genellikle iki ana öğünle geçerdi; kahvaltı ana öğün olarak 19. yüzyılın sonlarına doğru tanımlanmaya başladı. Zamanla sabah sofrasında kahvenin yerini çay aldı ama ad değişmedi. 2025'te TasteAtlas okur oylamasında Türk kahvaltısı dünyanın en iyi kahvaltısı seçildi.\n\nKaynaklar:\n- Nişanyan Sözlük, kahvaltı: https://www.nisanyansozluk.com/kelime/kahvalt%C4%B1\n- TDV İslâm Ansiklopedisi, Kahvehane: https://islamansiklopedisi.org.tr/kahvehane\n- Kapadokya Üniversitesi açık erişim, Türk mutfağında kahvaltı üzerine çalışma: https://acikerisim.kapadokya.edu.tr/bitstreams/cf8b77de-e23b-47aa-b41e-98541139881e/download\n- Habertürk, 10.06.2025, TasteAtlas listesi: https://www.haberturk.com/dunyanin-en-iyi-100-kahvaltisi-listesinde-turk-kahvaltisi-birinci-3798134\n\nSiz kahvaltıda çay mı içersiniz, kahve mi? Yorumlarda buluşalım. Bu tür hikâyeleri sevdiyseniz takip edip beğenmeyi unutmayın 🙏\n\n#kahvaltı #türkkahvesi #kelimekökenleri #bilgi #shorts",
   "sources": [
     "https://www.nisanyansozluk.com/kelime/kahvalt%C4%B1",
     "https://islamansiklopedisi.org.tr/kahvehane"
   ],
-  "revizyon": 2,
+  "revizyon": 3,
   "segments": [
     {
       "say": "Her sabah kahvaltı yapıyoruz. Ama sofrada çoğu zaman kahve yok, çay var. Peki adı neden kahveden geliyor?",
@@ -21,7 +21,9 @@
       "image": {
         "file": "File:Turkisch breakfast kappadokien-scaled-e1633535669330.jpg"
       },
-      "scene": "photo"
+      "scene": "photo",
+      "title": "Kahve nerede?",
+      "subtitle": "KAHVALTININ SIRRI"
     },
     {
       "say": "Çünkü kahvaltı aslında iki kelime: kahve altı.",
@@ -118,8 +120,8 @@
       "scene": "photo"
     },
     {
-      "say": "Sen kahvaltıda çay mı içersin, kahve mi? Yorumlara yaz.",
-      "caption": "Sen kahvaltıda çay mı içersin, kahve mi? Yorumlara yaz.",
+      "say": "Peki size soruyorum, değerli izleyicilerimiz: siz kahvaltıda çay mı içersiniz, kahve mi? Yorumlarda buluşalım. Bu tür hikâyeleri sevdiyseniz takip edip beğenirseniz çok mutlu olurum.",
+      "caption": "Peki size soruyorum, değerli izleyicilerimiz: siz kahvaltıda çay mı içersiniz, kahve mi? Yorumlarda buluşalım. Bu tür hikâyeleri sevdiyseniz takip edip beğenirseniz çok mutlu olurum.",
       "key": [
         "çay",
         "kahve"
@@ -128,8 +130,9 @@
         "file": "File:Turkish coffee in a traditional design cup.jpg"
       },
       "title": "Çay mı, kahve mi?",
-      "subtitle": "YORUMLARA YAZ",
+      "subtitle": "YORUMLARDA BULUŞALIM",
       "scene": "photo"
     }
-  ]
+  ],
+  "voice": "ana"
 }
