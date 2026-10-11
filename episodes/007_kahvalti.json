@@ -9,28 +9,43 @@
     "https://www.nisanyansozluk.com/kelime/kahvalt%C4%B1",
     "https://islamansiklopedisi.org.tr/kahvehane"
   ],
-  "revizyon": 1,
+  "revizyon": 2,
   "segments": [
     {
       "say": "Her sabah kahvaltı yapıyoruz. Ama sofrada çoğu zaman kahve yok, çay var. Peki adı neden kahveden geliyor?",
       "caption": "Her sabah kahvaltı yapıyoruz. Ama sofrada çoğu zaman kahve yok, çay var. Peki adı neden kahveden geliyor?",
-      "key": ["çay", "kahveden"],
-      "image": {"file": "File:Turkisch breakfast kappadokien-scaled-e1633535669330.jpg"},
+      "key": [
+        "çay",
+        "kahveden"
+      ],
+      "image": {
+        "file": "File:Turkisch breakfast kappadokien-scaled-e1633535669330.jpg"
+      },
       "scene": "photo"
     },
     {
       "say": "Çünkü kahvaltı aslında iki kelime: kahve altı.",
       "caption": "Çünkü kahvaltı aslında iki kelime: kahve altı.",
-      "key": ["kahve", "altı."],
-      "image": {"file": "File:Türk Kahvesi - Bakir Cezve.jpg"},
+      "key": [
+        "kahve",
+        "altı."
+      ],
+      "image": {
+        "file": "File:Türk Kahvesi - Bakir Cezve.jpg"
+      },
       "title": "Kahve altı",
       "scene": "photo"
     },
     {
       "say": "Kahve İstanbul'a 1500'lerde geldi. İlk kahvehaneler 1554'te Tahtakale'de açıldı.",
       "caption": "Kahve İstanbul'a 1500'lerde geldi. İlk kahvehaneler 1554'te Tahtakale'de açıldı.",
-      "key": ["1554'te", "Tahtakale'de"],
-      "image": {"file": "File:İstanbul-Tahtakale - panoramio.jpg"},
+      "key": [
+        "1554'te",
+        "Tahtakale'de"
+      ],
+      "image": {
+        "file": "File:İstanbul-Tahtakale - panoramio.jpg"
+      },
       "title": "1554",
       "subtitle": "TAHTAKALE, İSTANBUL",
       "scene": "photo"
@@ -38,8 +53,14 @@
     {
       "say": "Kahve kısa sürede vazgeçilmez oldu. Yaygın açıklamaya göre, aç karnına kahve içilmesin diye önce birkaç lokma bir şey yenirdi.",
       "caption": "Kahve kısa sürede vazgeçilmez oldu. Yaygın açıklamaya göre, aç karnına kahve içilmesin diye önce birkaç lokma bir şey yenirdi.",
-      "key": ["aç", "karnına"],
-      "image": {"file": "File:Turkish coffeeehouse 1910.jpg", "fit": "tam"},
+      "key": [
+        "aç",
+        "karnına"
+      ],
+      "image": {
+        "file": "File:Turkish coffeeehouse 1910.jpg",
+        "fit": "tam"
+      },
       "title": "1910",
       "subtitle": "BİR KAHVEHANE",
       "scene": "photo"
@@ -47,15 +68,25 @@
     {
       "say": "Kahvenin altına yenen bu hafif yiyeceklere kahve altı dendi. Zamanla kelime birleşti: kahvaltı.",
       "caption": "Kahvenin altına yenen bu hafif yiyeceklere kahve altı dendi. Zamanla kelime birleşti: kahvaltı.",
-      "key": ["kahvaltı."],
-      "image": {"file": "File:Turkish Breakfast Spread.jpg"},
+      "key": [
+        "kahvaltı."
+      ],
+      "image": {
+        "file": "File:Turkish Breakfast Spread.jpg"
+      },
       "scene": "photo"
     },
     {
       "say": "Osmanlı'da gün genellikle iki ana öğünle geçerdi. Kahvaltı ancak 19. yüzyılın sonlarına doğru ana öğün sayılmaya başladı.",
       "caption": "Osmanlı'da gün genellikle iki ana öğünle geçerdi. Kahvaltı ancak 19. yüzyılın sonlarına doğru ana öğün sayılmaya başladı.",
-      "key": ["iki", "ana", "öğün"],
-      "image": {"file": "File:Türk kahvaltısı.jpg"},
+      "key": [
+        "iki",
+        "ana",
+        "öğün"
+      ],
+      "image": {
+        "file": "File:Türk kahvaltısı.jpg"
+      },
       "title": "2 öğün",
       "subtitle": "OSMANLI'DA",
       "scene": "photo"
@@ -63,15 +94,25 @@
     {
       "say": "Sonra sabah sofrasında kahvenin yerini çay aldı. Ama ad değişmedi.",
       "caption": "Sonra sabah sofrasında kahvenin yerini çay aldı. Ama ad değişmedi.",
-      "key": ["çay", "değişmedi."],
-      "image": {"file": "File:Turkish tea (13956998894).jpg"},
+      "key": [
+        "çay",
+        "değişmedi."
+      ],
+      "image": {
+        "file": "File:Turkish tea (13956998894).jpg"
+      },
       "scene": "photo"
     },
     {
       "say": "Bugün o birkaç lokma dünyanın en ünlü sofralarından biri. 2025'te bir okur oylamasında Türk kahvaltısı dünyanın en iyisi seçildi.",
       "caption": "Bugün o birkaç lokma dünyanın en ünlü sofralarından biri. 2025'te bir okur oylamasında Türk kahvaltısı dünyanın en iyisi seçildi.",
-      "key": ["en", "iyisi"],
-      "image": {"file": "File:Turkish breakfast in Rumelihisarı.jpg"},
+      "key": [
+        "en",
+        "iyisi"
+      ],
+      "image": {
+        "file": "File:Turkish breakfast (20658662572).jpg"
+      },
       "title": "Dünya 1.si",
       "subtitle": "TASTEATLAS, 2025",
       "scene": "photo"
@@ -79,8 +120,13 @@
     {
       "say": "Sen kahvaltıda çay mı içersin, kahve mi? Yorumlara yaz.",
       "caption": "Sen kahvaltıda çay mı içersin, kahve mi? Yorumlara yaz.",
-      "key": ["çay", "kahve"],
-      "image": {"file": "File:Turkish coffee in a traditional design cup.jpg"},
+      "key": [
+        "çay",
+        "kahve"
+      ],
+      "image": {
+        "file": "File:Turkish coffee in a traditional design cup.jpg"
+      },
       "title": "Çay mı, kahve mi?",
       "subtitle": "YORUMLARA YAZ",
       "scene": "photo"
