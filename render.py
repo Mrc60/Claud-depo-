@@ -432,6 +432,87 @@ def photo_scene(layer, seg_idx, lt, dur):
                 stroke_width=3, stroke_fill=(4, 8, 14, int(200 * k)))
     # Fotoğraf atıfları videoda gösterilmez; YouTube açıklamasında yer alır.
 
+# ---------- hareketli grafikler (gerçek fotoğrafın üstünde) ----------
+def _txt(layer, xy, txt, font=None, fill=(255, 255, 255, 255), anchor="mm"):
+    if len(fill) == 4 and fill[3] <= 2: return
+    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(ov).text(xy, txt, font=font, fill=fill, anchor=anchor)
+    layer.alpha_composite(ov)
+
+def _card(layer, box, a):
+    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(ov).rounded_rectangle(box, radius=48, fill=(6, 11, 18, int(205 * a)),
+                                         outline=with_alpha(AMBER, 0.35 * a), width=3)
+    layer.alpha_composite(ov)
+
+def _person(d, cx, cy, r, fill, a):
+    d.ellipse([cx - r * 0.42, cy - r * 0.95, cx + r * 0.42, cy - r * 0.11], fill=with_alpha(fill, a))
+    d.pieslice([cx - r * 0.8, cy - r * 0.05, cx + r * 0.8, cy + r * 1.45], 180, 360, fill=with_alpha(fill, a))
+
+def anim_bolusme(layer, spec, lt, dur):
+    """Bir araba, koltuklar tek tek dolar, ücret çubuğu yolcu sayısına bölünür."""
+    a = ease(lt / 0.5)
+    _card(layer, [70, 250, W - 70, 1010], a)
+    d = ImageDraw.Draw(layer)
+    n = int(spec.get("kisi", 4))
+    _txt(layer, (W / 2, 330), spec.get("ust", "AYNI YÖNE GİDEN YOLCULAR"), font=F_UI(40), fill=with_alpha(AMBER, a), anchor="mm")
+    # araba (sade çizgi ikon)
+    cx, cy = W / 2, 560
+    bw, bh = 760, 200
+    lw = 9
+    col = with_alpha(CREAM, a)
+    d.rounded_rectangle([cx - bw / 2, cy - bh / 2 + 40, cx + bw / 2, cy + bh / 2 + 40], radius=60, outline=col, width=lw)
+    d.rounded_rectangle([cx - bw * 0.30, cy - bh / 2 - 80, cx + bw * 0.30, cy - bh / 2 + 52], radius=50, outline=col, width=lw)
+    for wx in (cx - bw * 0.30, cx + bw * 0.30):
+        d.ellipse([wx - 62, cy + bh / 2 + 2, wx + 62, cy + bh / 2 + 126], fill=(6, 11, 18, int(255 * a)), outline=col, width=lw)
+    # yolcular sırayla biner
+    xs = [cx - bw * 0.33 + i * (bw * 0.66) / max(1, n - 1) for i in range(n)]
+    t0 = 0.7; step = min(0.55, max(0.3, (dur * 0.45) / n))
+    for i, x in enumerate(xs):
+        k = ease((lt - t0 - i * step) / 0.25)
+        _person(d, x, cy + 12 + 30 * (1 - k), 58, AMBER if k > 0.5 else MUTED, max(0.25 * a, k))
+    # ücret çubuğu
+    fill_t = t0 + n * step + 0.2
+    kb = ease((lt - fill_t) / 0.35)
+    bx0, bx1, by = 150, W - 150, 830
+    _txt(layer, (W / 2, by - 50), spec.get("cubuk", "TAKSİ ÜCRETİ"), font=F_UI(38), fill=with_alpha(MUTED, a), anchor="mm")
+    if kb < 1:
+        d.rounded_rectangle([bx0, by, bx1, by + 70], radius=20, fill=with_alpha(CREAM, a * 0.9))
+    gap = 24 * kb
+    seg_w = (bx1 - bx0 - gap * (n - 1)) / n
+    if kb > 0:
+        for i in range(n):
+            x0 = bx0 + i * (seg_w + gap)
+            d.rounded_rectangle([x0, by, x0 + seg_w, by + 70], radius=20, fill=with_alpha(AMBER, a))
+            _txt(layer, (x0 + seg_w / 2, by + 35), f"1/{n}", font=F_CAP(40), fill=(6, 11, 18, int(255 * kb)), anchor="mm")
+    ke = ease((lt - fill_t - 0.6) / 0.4)
+    if spec.get("alt"):
+        _txt(layer, (W / 2, 960), spec["alt"], font=F_SERIF(64), fill=with_alpha(CREAM, ke), anchor="mm")
+
+def anim_zaman(layer, spec, lt, dur):
+    """Dikey zaman çizelgesi: çizgi aşağı doğru çizilir, noktalar sırayla belirir."""
+    a = ease(lt / 0.5)
+    items = spec.get("maddeler", [])
+    _card(layer, [70, 250, W - 70, 1060], a)
+    d = ImageDraw.Draw(layer)
+    x, y0, y1 = 210, 340, 980
+    n = max(1, len(items))
+    ys = [y0 + i * (y1 - y0) / max(1, n - 1) for i in range(n)]
+    per = max(0.6, (dur - 1.2) / n)
+    prog = clamp((lt - 0.3) / (per * n))
+    d.line([x, y0, x, y0 + (y1 - y0) * ease_io(prog)], fill=with_alpha(AMBER, a), width=8)
+    for i, (it, y) in enumerate(zip(items, ys)):
+        k = ease((lt - 0.3 - i * per) / 0.35)
+        if k <= 0: continue
+        cur = i == min(n - 1, int((lt - 0.3) / per))
+        r = 22 + (8 if cur else 0)
+        d.ellipse([x - r, y - r, x + r, y + r], fill=with_alpha(AMBER if cur else CREAM, k),
+                  outline=(6, 11, 18, int(255 * k)), width=5)
+        _txt(layer, (x + 70 + 30 * (1 - k), y - 28), it.get("yil", ""), font=F_SERIF(70), fill=with_alpha(AMBER, k), anchor="lm")
+        _txt(layer, (x + 72 + 30 * (1 - k), y + 36), it.get("yazi", ""), font=F_UI(44), fill=with_alpha(CREAM, k), anchor="lm")
+
+ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman}
+
 def render_frame(t, idx):
     f = BG.copy()
     for st, en, name, si in WIN:
@@ -442,6 +523,11 @@ def render_frame(t, idx):
                 photo_scene(layer, si, lt, en - st)
             else:
                 SCENES[name](layer, lt, en - st, t)
+            an = SEGS[si].get("anim")
+            if an and an.get("tur") in ANIMS:
+                ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))  # ayrı katman: yarı saydam yazılar delik açmasın
+                ANIMS[an["tur"]](ov, an, lt, en - st)
+                layer.alpha_composite(ov)
             fade = min(ease(lt / 0.22), ease((en - t) / 0.18))
             if fade < 1:
                 a = layer.getchannel("A").point(lambda v: int(v * fade)); layer.putalpha(a)
