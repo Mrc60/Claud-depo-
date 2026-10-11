@@ -1,22 +1,17 @@
 {
-  "bolum": "010_seftali",
-  "min_w": 1300,
-  "sorgular": [
-    "peaches",
-    "peach fruit close-up",
-    "şeftali",
-    "Bursa şeftali",
-    "peach orchard Turkey",
-    "peach blossom",
-    "peach tree China",
-    "peach stone",
-    "Yangtze River Zhejiang",
-    "Persepolis",
-    "Persian garden",
-    "Roman fresco fruit Pompeii",
-    "peaches market Turkey",
-    "nectarine",
-    "peach Bursa orchard"
-  ],
-  "incele": []
+ "bolum": "010_seftali",
+ "min_w": 800,
+ "sorgular": [
+  "Peach stones archaeological China",
+  "Kuahuqiao",
+  "Tianluoshan site",
+  "Hangzhou West Lake peach blossom",
+  "Herculaneum peach fresco"
+ ],
+ "incele": [
+  "File:Pazar in Ankara.jpg",
+  "File:Peaches in basket 2026 G1.jpg",
+  "File:Şeftali bahçesi - Karakuyu 02.jpg",
+  "File:Roman Fresco showing fruit bowl, j"
+ ]
 }
