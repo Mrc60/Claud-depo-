@@ -1,0 +1,89 @@
+{
+  "episode": 11,
+  "slug": "asi",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "Aşının yolu İstanbul'dan geçti",
+  "youtube_title": "Aşının yolu 300 yıl önce İstanbul'dan geçti 💉 #SıradanDeğil 11",
+  "youtube_description": "1717'de İngiliz elçisinin eşi Lady Mary Wortley Montagu Osmanlı'dayken bir mektup yazdı. Mektubunda, her sonbahar yaşlı kadınların insanları çiçek hastalığına karşı aşıladığını anlatıyor ve bu \"faydalı buluşu\" İngiltere'de yaygınlaştırmaya çalışacağını söylüyordu. Kendisi de bu hastalığı geçirmiş, yüzünde izleri kalmıştı. Mart 1718'de beş yaşındaki oğlu Edward'ı İstanbul'da aşılattı; işlemi Pera'da yaşayan yaşlı bir kadın yaptı. 1721'de Londra'da kızını aşılattı; bu, İngiltere'de belgelenen ilk örnek olarak anılır. Ardından altı mahkûm üzerinde deneme yapıldı, hepsi hayatta kaldı. 1722'de Galler Prensesi kızlarını aşılattı. Bu yöntem bugünkü aşı değildi; çiçek hastalığının kendisinden alınan hafif bir dozla yapılıyordu. Bugün bildiğimiz aşıyı Edward Jenner 1790'ların sonunda geliştirdi. Ama bu yolun önemli bir durağı İstanbul'du.\n\nKaynaklar:\n- Mary Wortley Montagu, çiçek aşılaması üzerine mektubu (yak. 1717), Letters of the Right Honourable Lady M—y W—y M—e, cilt 1, 1796: https://digfir-published.macmillanusa.com/mckaywest11e/mckaywest11e_ch18_52.html\n- History of Parliament, \"Lady Mary Wortley Montagu: an early experiment in immunology\" (2021): https://historyofparliament.com/2021/01/07/mary-wortley-montagu/\n- Smithsonian / WYPR, \"A 300-year-old tale of one woman's quest to stop a deadly virus\" (2021): https://www.wypr.org/2021-03-08/a-300-year-old-tale-of-one-womans-quest-to-stop-a-deadly-virus\n- Riedel, S. (2005). Edward Jenner and the history of smallpox and vaccination. Proceedings (Baylor University Medical Center), 18(1), 21–25.\n\nSiz bu hikâyeyi daha önce duymuş muydunuz? Yorumlarda buluşalım. Tarihimizden böyle şaşırtıcı hikâyeleri sevdiyseniz takip edip beğenmeyi unutmayın 🙏\n\n#aşı #tarih #istanbul #osmanlı #shorts",
+  "sources": ["https://historyofparliament.com/2021/01/07/mary-wortley-montagu/"],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Hepimiz çocukken aşı olduk. Peki aşıya giden yolun üç yüz yıl önce İstanbul'dan geçtiğini biliyor muydun?",
+      "caption": "Hepimiz çocukken aşı olduk. Peki aşıya giden yolun 300 yıl önce İstanbul'dan geçtiğini biliyor muydun?",
+      "key": ["İstanbul'dan"],
+      "image": {"file": "File:Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants by Jean Baptiste Vanmour.jpg", "fit": "tam"},
+      "title": "Yol İstanbul'dan geçti",
+      "subtitle": "300 YIL ÖNCE",
+      "scene": "photo"
+    },
+    {
+      "say": "O yıllarda çiçek hastalığı korkunç bir salgındı. Kurtulanların yüzünde ömür boyu iz kalırdı.",
+      "caption": "O yıllarda çiçek hastalığı korkunç bir salgındı. Kurtulanların yüzünde ömür boyu iz kalırdı.",
+      "key": ["çiçek", "hastalığı"],
+      "image": {"file": "File:Antoine de Favray - Panorama of İstanbul - Google Art Project.jpg", "fit": "tam"},
+      "title": "Çiçek hastalığı",
+      "scene": "photo"
+    },
+    {
+      "say": "Yıl 1717. İngiliz elçisinin eşi Lady Mary, Osmanlı'dan İngiltere'ye bir mektup yazar.",
+      "caption": "Yıl 1717. İngiliz elçisinin eşi Lady Mary, Osmanlı'dan İngiltere'ye bir mektup yazar.",
+      "key": ["1717.", "mektup"],
+      "image": {"file": "File:Portrait of Lady Mary Wortley Montagu (by Joseph Highmore).jpg", "fit": "tam"},
+      "title": "Lady Mary",
+      "subtitle": "1717",
+      "scene": "photo"
+    },
+    {
+      "say": "Mektupta şaşkınlıkla şunu anlatır: Burada her sonbahar yaşlı kadınlar, insanları çiçek hastalığına karşı aşılıyor. Ve ekler: Bu faydalı buluşu İngiltere'de yaygınlaştıracağım.",
+      "caption": "Mektupta şaşkınlıkla şunu anlatır: Burada her sonbahar yaşlı kadınlar, insanları çiçek hastalığına karşı aşılıyor. Ve ekler: \"Bu faydalı buluşu İngiltere'de yaygınlaştıracağım.\"",
+      "key": ["aşılıyor.", "faydalı"],
+      "image": {"file": "File:Gezicht op Constantinopel en het Serail vanuit de Zweedse ambassade te Pera Rijksmuseum SK-A-2056.jpeg", "fit": "tam"},
+      "title": "\"Faydalı buluş\"",
+      "subtitle": "MEKTUPTAN",
+      "scene": "photo"
+    },
+    {
+      "say": "Söylediğini de yapar. 1718'de beş yaşındaki oğlunu İstanbul'da aşılatır. Üç yıl sonra Londra'da kızını da aşılatır.",
+      "caption": "Söylediğini de yapar. 1718'de beş yaşındaki oğlunu İstanbul'da aşılatır. Üç yıl sonra Londra'da kızını da aşılatır.",
+      "key": ["oğlunu", "kızını"],
+      "image": {"file": "File:Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants by Jean Baptiste Vanmour.jpg", "fit": "tam"},
+      "anim": {"tur": "zaman", "maddeler": [
+        {"yil": "1717", "yazi": "İstanbul'dan mektup"},
+        {"yil": "1718", "yazi": "Oğlu İstanbul'da aşılandı"},
+        {"yil": "1721", "yazi": "Kızı Londra'da aşılandı"},
+        {"yil": "1790'lar", "yazi": "Jenner'in aşısı"}
+      ]},
+      "scene": "photo"
+    },
+    {
+      "say": "İngiltere'de önce mahkûmlar üzerinde denendi. Altısı da hayatta kaldı. Ardından prenses kendi kızlarını aşılattı.",
+      "caption": "İngiltere'de önce mahkûmlar üzerinde denendi. Altısı da hayatta kaldı. Ardından prenses kendi kızlarını aşılattı.",
+      "key": ["Altısı", "prenses"],
+      "image": {"file": "File:Newgate Prison, Inner Court, 18th century. Wellcome L0001330.jpg", "fit": "tam"},
+      "title": "6 mahkûm",
+      "subtitle": "LONDRA",
+      "scene": "photo"
+    },
+    {
+      "say": "Bu, bugünkü aşı değildi. Bugün bildiğimiz aşıyı Edward Jenner 1790'ların sonunda geliştirdi. Ama bu yolun önemli bir durağı İstanbul'du.",
+      "caption": "Bu, bugünkü aşı değildi. Bugün bildiğimiz aşıyı Edward Jenner 1790'ların sonunda geliştirdi. Ama bu yolun önemli bir durağı İstanbul'du.",
+      "key": ["İstanbul'du."],
+      "image": {"file": "File:Edward Jenner vaccinating a boy. Oil painting by E.-E. Hille Wellcome L0029094 (cropped).jpg", "fit": "tam"},
+      "title": "Edward Jenner",
+      "subtitle": "1790'LAR",
+      "scene": "photo"
+    },
+    {
+      "say": "Peki size soruyorum, değerli izleyicilerimiz: siz bu hikâyeyi daha önce duymuş muydunuz? Yorumlarda buluşalım. Tarihimizden böyle şaşırtıcı hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
+      "caption": "Peki size soruyorum, değerli izleyicilerimiz: siz bu hikâyeyi daha önce duymuş muydunuz? Yorumlarda buluşalım. Tarihimizden böyle şaşırtıcı hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
+      "key": ["duymuş", "muydunuz?"],
+      "image": {"file": "File:View of constantinople by evening light.jpg", "fit": "tam"},
+      "title": "Duymuş muydunuz?",
+      "subtitle": "YORUMLARDA BULUŞALIM",
+      "scene": "photo"
+    }
+  ]
+}
