@@ -10,7 +10,7 @@
   "sources": [
     "https://historyofparliament.com/2021/01/07/mary-wortley-montagu/"
   ],
-  "revizyon": 4,
+  "revizyon": 5,
   "segments": [
     {
       "say": "Hepimiz çocukken aşı olduk. Peki aşıya giden yolun üç yüz yıl önce İstanbul'dan geçtiğini biliyor muydun?",
@@ -19,7 +19,8 @@
         "İstanbul'dan"
       ],
       "image": {
-        "file": "File:Vaccination of a child.jpg"
+        "file": "File:Vaccination of a child.jpg",
+        "fit": "tam"
       },
       "title": "Yol İstanbul'dan geçti",
       "subtitle": "300 YIL ÖNCE",
