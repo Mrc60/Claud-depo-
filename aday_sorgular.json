@@ -1,18 +1,18 @@
 {
   "bolum": "011_asi",
-  "min_w": 900,
+  "min_w": 700,
   "sorgular": [
-    "Lady Mary Wortley Montagu portrait",
-    "Mary Wortley Montagu Turkish dress",
-    "Pera Constantinople 18th century",
-    "Constantinople 1718 painting",
-    "Jean-Baptiste Vanmour Constantinople",
-    "Edward Jenner portrait",
-    "Edward Jenner vaccination painting",
-    "Newgate prison 18th century",
-    "smallpox inoculation history lancet",
-    "vaccination child arm",
-    "Galata Tower old painting"
+    "smallpox patient",
+    "smallpox CDC PHIL",
+    "smallpox scars face",
+    "pockmarked face smallpox survivor",
+    "child receiving vaccine injection",
+    "vaccination Turkey child",
+    "aşı Türkiye",
+    "variolation lancet",
+    "inoculation lancet 18th century",
+    "smallpox vaccination arm scar",
+    "smallpox inoculation 18th century illustration"
   ],
   "incele": []
 }
