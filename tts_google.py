@@ -63,20 +63,42 @@ if ep["segments"]:
                  ". Kibar bir kapanış yazın (ör. 'Peki size soruyorum, değerli izleyicilerimiz... "
                  "Yorumlarda buluşalım. Takip edip beğenirseniz çok mutlu olurum.')")
 
-timeline, parts, t = [], [], 0.12  # ilk saniyeden konuşmaya başla
-for i, seg in enumerate(ep["segments"]):
-    wav_path = os.path.join(out, f"seg{i:02d}.wav")
-    data = synth(seg["say"])
+def synth_frames(text):
+    data = synth(text)
     # LINEAR16 yanıtı WAV başlığıyla gelir; yine de güvenli şekilde yeniden yaz
     try:
         with wave.open(io.BytesIO(data)) as w:
-            frames, rate = w.readframes(w.getnframes()), w.getframerate()
+            return w.readframes(w.getnframes()), w.getframerate()
     except wave.Error:
-        frames, rate = data, SR
+        return data, SR
+
+# TEK1: soru sorulduktan sonra hemen devam etme; izleyiciye kısa bir düşünme payı bırak.
+SORU_ARASI = float(os.environ.get("SORU_ARASI", "0.7"))
+def soru_bol(text):
+    return [p for p in re.split(r"(?<=\?)\s+", text.strip()) if p]
+
+timeline, parts, t = [], [], 0.12  # ilk saniyeden konuşmaya başla
+for i, seg in enumerate(ep["segments"]):
+    wav_path = os.path.join(out, f"seg{i:02d}.wav")
+    say_parts = soru_bol(seg["say"])
+    frames, rate, bolumler = b"", SR, []
+    for j, p in enumerate(say_parts):
+        if j:
+            frames += b"\x00\x00" * int(rate * SORU_ARASI)
+        fr, rate = synth_frames(p)
+        b0 = len(frames) / 2 / rate
+        frames += fr
+        bolumler.append((b0, len(frames) / 2 / rate))
     with wave.open(wav_path, "w") as w:
         w.setnchannels(1); w.setsampwidth(2); w.setframerate(rate); w.writeframes(frames)
     dur = len(frames) / 2 / rate
-    timeline.append({**seg, "start": round(t, 3), "end": round(t + dur, 3)})
+    item = {**seg, "start": round(t, 3), "end": round(t + dur, 3)}
+    cap_parts = soru_bol(seg["caption"])
+    if len(say_parts) > 1 and len(cap_parts) == len(say_parts):
+        # altyazı kelimeleri her parçanın kendi konuşma süresine dağıtılsın (duraklamada yazı beklesin)
+        item["bolumler"] = [{"start": round(t + a, 3), "end": round(t + b, 3), "n": len(cp.split())}
+                            for (a, b), cp in zip(bolumler, cap_parts)]
+    timeline.append(item)
     parts.append((wav_path, t))
     t += dur + GAP
     print(f"  seg {i}: {dur:.1f} sn")

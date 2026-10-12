@@ -162,13 +162,24 @@ def build_captions():
             if w.endswith((".", "?", ":", "!")):
                 chunks.append(cur); cur = []
         if cur: chunks.append(cur)
-        total = sum(len(w) + 2 for w in words)
-        t = seg["start"]; span = seg["end"] - seg["start"]
+        # her kelimenin zamanı: soru sonrası duraklama varsa her parça kendi süresine dağıtılır
+        parts = seg.get("bolumler") or [{"start": seg["start"], "end": seg["end"], "n": len(words)}]
+        if sum(p["n"] for p in parts) != len(words):
+            parts = [{"start": seg["start"], "end": seg["end"], "n": len(words)}]
+        times, k = [], 0
+        for p in parts:
+            pw = words[k:k + p["n"]]; k += p["n"]
+            total = sum(len(w) + 2 for w in pw) or 1
+            t = p["start"]; span = p["end"] - p["start"]
+            for w in pw:
+                dt = span * (len(w) + 2) / total
+                times.append((t, t + dt)); t += dt
+        k = 0
         for ch in chunks:
             ws = []
             for w in ch:
-                dt = span * (len(w) + 2) / total
-                ws.append({"w": w, "t0": t, "t1": t + dt, "key": w in keys}); t += dt
+                t0, t1 = times[k]; k += 1
+                ws.append({"w": w, "t0": t0, "t1": t1, "key": w in keys})
             caps.append({"t0": ws[0]["t0"], "t1": ws[-1]["t1"], "words": ws})
     for i in range(len(caps) - 1):  # boşlukta bir önceki parça ekranda kalsın
         caps[i]["show_until"] = caps[i + 1]["t0"]
