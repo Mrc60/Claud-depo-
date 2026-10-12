@@ -1,0 +1,104 @@
+{
+  "episode": 12,
+  "slug": "bagdas",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "Bağdaşa Avrupa neden 'Türk oturuşu' der?",
+  "youtube_title": "Bağdaş kurunca aslında 'Türk gibi' oturuyorsunuz! 🧘 #SıradanDeğil 12",
+  "youtube_description": "Bağdaş kurmaya Avrupa'nın birçok dilinde 'Türk usulü oturmak' deniyor.",
+  "sources": [
+    "https://www.duden.de/rechtschreibung/Tuerkensitz",
+    "https://www.treccani.it/vocabolario/turco1/"
+  ],
+  "revizyon": 1,
+  "segments": [
+    {
+      "say": "Bağdaş kurup oturduğunuzda, aslında Avrupa'nın birçok dilinde 'Türk gibi' oturuyorsunuz.",
+      "caption": "Bağdaş kurup oturduğunuzda, aslında Avrupa'nın birçok dilinde \"Türk gibi\" oturuyorsunuz.",
+      "key": ["\"Türk", "gibi\""],
+      "image": {"file": "File:Yer sofrasi.jpg", "fit": "tam"},
+      "title": "Türk gibi oturmak",
+      "subtitle": "BAĞDAŞIN SIRRI",
+      "scene": "photo"
+    },
+    {
+      "say": "Almancada bu oturuşun bir adı Türkenzits, yani Türk oturuşu.",
+      "caption": "Almancada bu oturuşun bir adı Türkensitz, yani \"Türk oturuşu\".",
+      "key": ["Türkensitz,"],
+      "image": {"file": "File:Sit 08860.jpg", "fit": "tam"},
+      "title": "Türkensitz",
+      "subtitle": "ALMANCA",
+      "scene": "photo"
+    },
+    {
+      "say": "Almanca Duden sözlüğü bu kelimeyi, terzi oturuşu anlamına gelen Şnaydırzits ile aynı anlamda veriyor.",
+      "caption": "Almanca Duden sözlüğü bu kelimeyi, \"terzi oturuşu\" anlamına gelen Schneidersitz ile aynı anlamda veriyor.",
+      "key": ["\"terzi", "oturuşu\""],
+      "image": {"file": "File:Der Schneider from Jost Amman's Stände und Handwerker Wellcome L0069530.jpg", "fit": "tam"},
+      "title": "Schneidersitz",
+      "subtitle": "TERZİ OTURUŞU",
+      "scene": "photo"
+    },
+    {
+      "say": "İtalyancada alla turka, Lehçede po turetsku, Rusçada po-turetski deniyor. Hepsi 'Türk usulü' demek.",
+      "caption": "İtalyancada \"alla turca\", Lehçede \"po turecku\", Rusçada \"po-turetski\" deniyor. Hepsi \"Türk usulü\" demek.",
+      "key": ["\"Türk", "usulü\""],
+      "image": {"file": "File:Field Day 2016 Saturday man on floor.jpg", "fit": "tam"},
+      "anim": {
+        "tur": "zaman",
+        "maddeler": [
+          {"yil": "Almanca", "yazi": "Türkensitz"},
+          {"yil": "İtalyanca", "yazi": "sedere alla turca"},
+          {"yil": "Lehçe", "yazi": "po turecku"},
+          {"yil": "Rusça", "yazi": "по-турецки"},
+          {"yil": "Macarca", "yazi": "törökülés"}
+        ]
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Macarcada ise tek bir kelime var: törökülleş. Yani düpedüz Türk oturuşu.",
+      "caption": "Macarcada ise tek bir kelime var: törökülés. Yani düpedüz \"Türk oturuşu\".",
+      "key": ["törökülés."],
+      "image": {"file": "File:Field Day 2016 Saturday man on floor.jpg", "fit": "tam"},
+      "title": "Törökülés",
+      "subtitle": "MACARCA",
+      "scene": "photo"
+    },
+    {
+      "say": "Peki bu oturuş bizde ne kadar eski? Yaklaşık sekiz yüz yıl önce, Selçuklu döneminde Kubadabad Sarayı'nın çinilerinde de bağdaş kurmuş figürler var.",
+      "caption": "Peki bu oturuş bizde ne kadar eski? Yaklaşık 800 yıl önce, Selçuklu döneminde Kubadabad Sarayı'nın çinilerinde de bağdaş kurmuş figürler var.",
+      "key": ["800", "Kubadabad"],
+      "image": {"file": "File:Tile with seated man. Late 1220s, Central Turkey.jpg", "fit": "tam"},
+      "title": "Kubadabad Sarayı",
+      "subtitle": "SELÇUKLU, 1220'LER",
+      "scene": "photo"
+    },
+    {
+      "say": "1840'larda yapılmış bu taş baskıda da Osmanlı kadınları yer sofrasının etrafında oturuyor.",
+      "caption": "1840'larda yapılmış bu taş baskıda da Osmanlı kadınları yer sofrasının etrafında oturuyor.",
+      "key": ["yer", "sofrasının"],
+      "image": {"file": "File:A sofra in \"La Turquie\" by Camille Rogier (1846-1848).jpg", "fit": "tam"},
+      "title": "Yer sofrası",
+      "subtitle": "CAMILLE ROGIER, 1840'LAR",
+      "scene": "photo"
+    },
+    {
+      "say": "Yani yer sofrasında, minderde ya da piknikte bağdaş kurduğunuzda, birçok dilde adında 'Türk' geçen bir oturuşla oturuyorsunuz.",
+      "caption": "Yani yer sofrasında, minderde ya da piknikte bağdaş kurduğunuzda, birçok dilde adında \"Türk\" geçen bir oturuşla oturuyorsunuz.",
+      "key": ["\"Türk\""],
+      "image": {"file": "File:Yer sofrasi.jpg", "fit": "tam"},
+      "scene": "photo"
+    },
+    {
+      "say": "Peki size soruyorum, değerli izleyicilerimiz: siz evde hâlâ bağdaş kurup yer sofrasında oturuyor musunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
+      "caption": "Peki size soruyorum, değerli izleyicilerimiz: siz evde hâlâ bağdaş kurup yer sofrasında oturuyor musunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
+      "key": ["bağdaş", "kurup"],
+      "image": {"file": "File:Sit 08860.jpg", "fit": "tam"},
+      "title": "Siz de bağdaş kurar mısınız?",
+      "subtitle": "YORUMLARDA BULUŞALIM",
+      "scene": "photo"
+    }
+  ]
+}
