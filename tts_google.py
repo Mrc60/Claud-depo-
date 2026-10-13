@@ -10,7 +10,7 @@ Ortam değişkenleri:
 import base64, io, json, os, re, subprocess, sys, time, wave
 import requests
 
-KEY = os.environ["GOOGLE_TTS_API_KEY"]
+KEY = os.environ.get("GOOGLE_TTS_API_KEY", "")
 
 # Kanalın ses düzeni (TEK1'in seçimi):
 #   ana   = 23 Sadachbia (erkek, öncelikli)
@@ -76,6 +76,31 @@ def synth_frames(text):
 SORU_ARASI = float(os.environ.get("SORU_ARASI", "0.7"))
 def soru_bol(text):
     return [p for p in re.split(r"(?<=\?)\s+", text.strip()) if p]
+
+# Dış ses (ör. TEK1'in ElevenLabs kaydı): sentez yapma, verilen kayıt ve kesim zamanlarını kullan.
+# "dis_ses": {"file": "assets/ses/x.mp3", "kesimler": [[[bas, son]], [[bas, son], [bas, son]], ...]}
+# Her segment için konuşma parçaları (soru sonrası duraklama varsa iki parça).
+dis = ep.get("dis_ses")
+if dis:
+    kes = dis["kesimler"]
+    if len(kes) != len(ep["segments"]):
+        sys.exit(f"HATA: dis_ses kesim sayısı ({len(kes)}) segment sayısıyla ({len(ep['segments'])}) uyuşmuyor")
+    timeline = []
+    for seg, pp in zip(ep["segments"], kes):
+        item = {**seg, "start": pp[0][0], "end": pp[-1][1]}
+        cap_parts = soru_bol(seg["caption"])
+        if len(pp) > 1 and len(cap_parts) == len(pp):
+            item["bolumler"] = [{"start": a, "end": b, "n": len(cp.split())} for (a, b), cp in zip(pp, cap_parts)]
+        timeline.append(item)
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", dis["file"], "-ar", "44100", "-ac", "1",
+                    os.path.join(out, "voice.wav")], check=True)
+    sure = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0",
+                                 os.path.join(out, "voice.wav")], capture_output=True, text=True).stdout)
+    total = max(sure, timeline[-1]["end"]) + 0.8
+    json.dump({"episode": ep, "segments": timeline, "duration": round(total, 3), "voice": "dis_ses:" + dis["file"]},
+              open(os.path.join(out, "timeline.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    print(f"Dış ses kullanıldı: {dis['file']}, {total:.1f} sn")
+    sys.exit(0)
 
 timeline, parts, t = [], [], 0.12  # ilk saniyeden konuşmaya başla
 for i, seg in enumerate(ep["segments"]):

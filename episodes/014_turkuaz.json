@@ -7,14 +7,23 @@
   "title": "Turkuaz aslında Türk taşı",
   "youtube_title": "Turkuaz renginin adında aslında 'Türk' saklı! 💎 #SıradanDeğil 14",
   "youtube_description": "Turkuaz kelimesi Fransızca 'Türk taşı' demek.",
-  "sources": ["https://www.etymonline.com/word/turquoise", "https://gia.edu/turquoise-history-lore"],
-  "revizyon": 1,
+  "sources": [
+    "https://www.etymonline.com/word/turquoise",
+    "https://gia.edu/turquoise-history-lore"
+  ],
+  "revizyon": 2,
   "segments": [
     {
       "say": "Kaputaş'ın, Ölüdeniz'in o meşhur rengi... Turkuaz. Peki bu rengin adında aslında Türk saklı olduğunu biliyor muydunuz?",
       "caption": "Kaputaş'ın, Ölüdeniz'in o meşhur rengi... Turkuaz. Peki bu rengin adında aslında \"Türk\" saklı olduğunu biliyor muydunuz?",
-      "key": ["Turkuaz.", "\"Türk\""],
-      "image": {"file": "File:KAPUTAŞ PLAJI - panoramio - HALUK COMERTEL.jpg", "fit": "tam"},
+      "key": [
+        "Turkuaz.",
+        "\"Türk\""
+      ],
+      "image": {
+        "file": "File:KAPUTAŞ PLAJI - panoramio - HALUK COMERTEL.jpg",
+        "fit": "tam"
+      },
       "title": "Turkuaz = Türk?",
       "subtitle": "RENGİN SIRRI",
       "scene": "photo"
@@ -22,8 +31,14 @@
     {
       "say": "Turkuaz aslında bir taşın adı. Fransızcada türkuaz, Türk taşı demek.",
       "caption": "Turkuaz aslında bir taşın adı. Fransızcada \"turquoise\", \"Türk taşı\" demek.",
-      "key": ["\"Türk", "taşı\""],
-      "image": {"file": "File:Raw turquoise from Arizona 3.jpg", "fit": "tam"},
+      "key": [
+        "\"Türk",
+        "taşı\""
+      ],
+      "image": {
+        "file": "File:Raw turquoise from Arizona 3.jpg",
+        "fit": "tam"
+      },
       "title": "Turquoise",
       "subtitle": "TÜRK TAŞI",
       "scene": "photo"
@@ -31,15 +46,27 @@
     {
       "say": "Oxford sözlüğü ve Etimoloji sözlüğüne göre bu ad, eski Fransızcadaki Türk taşı ifadesinden geliyor.",
       "caption": "Oxford sözlüğü ve Etimoloji sözlüğüne göre bu ad, eski Fransızcadaki \"Türk taşı\" ifadesinden geliyor.",
-      "key": ["\"Türk", "taşı\""],
-      "image": {"file": "File:Turquoise of Nishapur - village of Ma'dan 36.JPG", "fit": "tam"},
+      "key": [
+        "\"Türk",
+        "taşı\""
+      ],
+      "image": {
+        "file": "File:Turquoise of Nishapur - village of Ma'dan 36.JPG",
+        "fit": "tam"
+      },
       "scene": "photo"
     },
     {
       "say": "Peki neden Türk? Kaynaklara göre bu taş Avrupa'ya büyük ihtimalle Türk topraklarından geldi. Avrupalılar da ona Türk taşı dedi.",
       "caption": "Peki neden \"Türk\"? Kaynaklara göre bu taş Avrupa'ya büyük ihtimalle Türk topraklarından geldi. Avrupalılar da ona \"Türk taşı\" dedi.",
-      "key": ["Türk", "topraklarından"],
-      "image": {"file": "File:Turkey, Ottoman Period, reign of Sultan Mehmed IV, ruled- 1648-1687), 17th - Tughra- Shah Muhammad bin Ibrahim Khan, al-muzaffar daima (Sultan Mehmed, - 1944.525 - Cleveland Museum of Art.jpg", "fit": "tam"},
+      "key": [
+        "Türk",
+        "topraklarından"
+      ],
+      "image": {
+        "file": "File:Turkey, Ottoman Period, reign of Sultan Mehmed IV, ruled- 1648-1687), 17th - Tughra- Shah Muhammad bin Ibrahim Khan, al-muzaffar daima (Sultan Mehmed, - 1944.525 - Cleveland Museum of Art.jpg",
+        "fit": "tam"
+      },
       "title": "Türk toprakları",
       "subtitle": "IV. MEHMED'İN TUĞRASI",
       "scene": "photo"
@@ -47,8 +74,14 @@
     {
       "say": "İngilizcede bu taşın adı bin üç yüzlerin sonunda görülmeye başladı.",
       "caption": "İngilizcede bu taşın adı 1300'lerin sonunda görülmeye başladı.",
-      "key": ["1300'lerin"],
-      "image": {"file": "File:Raw-hubei-turquoise.jpg", "fit": "tam", "min_w": 1000},
+      "key": [
+        "1300'lerin"
+      ],
+      "image": {
+        "file": "File:Raw-hubei-turquoise.jpg",
+        "fit": "tam",
+        "min_w": 1000
+      },
       "title": "1300'ler",
       "subtitle": "İNGİLİZCE",
       "scene": "photo"
@@ -56,8 +89,13 @@
     {
       "say": "Bugün dünya bu rengi, taşın adıyla anıyor. Biz de koylarımızın rengini anlatırken aynı kelimeyi kullanıyoruz: turkuaz.",
       "caption": "Bugün dünya bu rengi, taşın adıyla anıyor. Biz de koylarımızın rengini anlatırken aynı kelimeyi kullanıyoruz: turkuaz.",
-      "key": ["turkuaz."],
-      "image": {"file": "File:Oludeniz.jpg", "fit": "tam"},
+      "key": [
+        "turkuaz."
+      ],
+      "image": {
+        "file": "File:Oludeniz.jpg",
+        "fit": "tam"
+      },
       "title": "Ölüdeniz",
       "subtitle": "MUĞLA",
       "scene": "photo"
@@ -65,11 +103,71 @@
     {
       "say": "Peki size soruyorum, değerli izleyicilerimiz: turkuaz renginin adında Türk olduğunu biliyor muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
       "caption": "Peki size soruyorum, değerli izleyicilerimiz: turkuaz renginin adında \"Türk\" olduğunu biliyor muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
-      "key": ["\"Türk\""],
-      "image": {"file": "File:Kaputaş Plajı (with D5100).jpg", "fit": "tam"},
+      "key": [
+        "\"Türk\""
+      ],
+      "image": {
+        "file": "File:Kaputaş Plajı (with D5100).jpg",
+        "fit": "tam"
+      },
       "title": "Biliyor muydunuz?",
       "subtitle": "YORUMLARDA BULUŞALIM",
       "scene": "photo"
     }
-  ]
+  ],
+  "dis_ses": {
+    "file": "assets/ses/014_turkuaz_elevenlabs.mp3",
+    "kesimler": [
+      [
+        [
+          0.0,
+          9.22
+        ]
+      ],
+      [
+        [
+          9.84,
+          15.17
+        ]
+      ],
+      [
+        [
+          15.73,
+          22.53
+        ]
+      ],
+      [
+        [
+          23.07,
+          24.34
+        ],
+        [
+          24.82,
+          32.16
+        ]
+      ],
+      [
+        [
+          32.67,
+          36.45
+        ]
+      ],
+      [
+        [
+          36.92,
+          44.06
+        ]
+      ],
+      [
+        [
+          44.47,
+          52.0
+        ],
+        [
+          52.47,
+          58.77
+        ]
+      ]
+    ]
+  }
 }
