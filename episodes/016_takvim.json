@@ -1,0 +1,226 @@
+{
+  "episode": 16,
+  "slug": "takvim",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "1917'de takvimden 13 gün silindi",
+  "youtube_title": "1917'de takvimden 13 gün silindi! 📅 #SıradanDeğil 16",
+  "youtube_description": "1917'de Osmanlı'da Şubat'ın 15'inden sonraki gün doğrudan 1 Mart oldu.",
+  "sources": [
+    "https://www.muqawwim.com/files/rose.pdf",
+    "https://dergipark.org.tr/tr/download/article-file/13238"
+  ],
+  "revizyon": 1,
+  "dis_ses": {
+    "file": "assets/ses/016_takvim.mp3",
+    "kesimler": [
+      [
+        [
+          0.0,
+          5.33
+        ]
+      ],
+      [
+        [
+          5.92,
+          13.31
+        ]
+      ],
+      [
+        [
+          13.91,
+          15.19
+        ],
+        [
+          15.71,
+          21.22
+        ]
+      ],
+      [
+        [
+          21.68,
+          28.82
+        ]
+      ],
+      [
+        [
+          29.28,
+          33.8
+        ]
+      ],
+      [
+        [
+          34.25,
+          39.34
+        ]
+      ],
+      [
+        [
+          39.83,
+          47.36
+        ]
+      ],
+      [
+        [
+          47.84,
+          57.03
+        ]
+      ],
+      [
+        [
+          57.59,
+          64.54
+        ],
+        [
+          65.02,
+          73.47
+        ]
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "say": "Bir sabah uyandığınızı ve takvimden tam 13 günün silindiğini öğrendiğinizi düşünün...",
+      "caption": "Bir sabah uyandığınızı ve takvimden tam 13 günün silindiğini öğrendiğinizi düşünün...",
+      "key": [
+        "13",
+        "silindiğini"
+      ],
+      "image": {
+        "file": "File:Ottoman Calendar Wellcome L0035017.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "13 gün silindi!",
+      "subtitle": "TAKVİMİN SIRRI"
+    },
+    {
+      "say": "İnanması zor ama 1917'de, Osmanlı topraklarında gerçekten böyle bir takvim değişikliği yaşandı!",
+      "caption": "İnanması zor ama 1917'de, Osmanlı topraklarında gerçekten böyle bir takvim değişikliği yaşandı!",
+      "key": [
+        "1917'de,",
+        "Osmanlı"
+      ],
+      "image": {
+        "file": "File:Kai von Galata, Istanbul (Konstantinopel) (BildID 15545511).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "İstanbul, 1917",
+      "subtitle": "GALATA RIHTIMI"
+    },
+    {
+      "say": "Peki, nasıl oldu? Osmanlı'nın kullandığı Rumi takvim ile Miladi takvim arasında 13 günlük fark vardı.",
+      "caption": "Peki, nasıl oldu? Osmanlı'nın kullandığı Rumi takvim ile Miladi takvim arasında 13 günlük fark vardı.",
+      "key": [
+        "Rumi",
+        "13"
+      ],
+      "image": {
+        "file": "File:Ottoman Calendar Wellcome L0035016.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Rumi takvim",
+      "subtitle": "OSMANLI RUZNAMESİ"
+    },
+    {
+      "say": "Bu farkı kapatmak için bir kanun çıkarıldı. Ve Şubat'ın 15'inden sonraki gün, doğrudan Mart'ın 1'i oldu!",
+      "caption": "Bu farkı kapatmak için bir kanun çıkarıldı. Ve Şubat'ın 15'inden sonraki gün, doğrudan Mart'ın 1'i oldu!",
+      "key": [
+        "kanun",
+        "Mart'ın"
+      ],
+      "image": {
+        "file": "File:Serailspitze, Istanbul (Konstantinopel) (BildID 15545497).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "anim": {
+        "tur": "takvim",
+        "tur2": "ok",
+        "ust": "RUMİ TAKVİM · 1917",
+        "alt": "ERTESİ GÜN"
+      }
+    },
+    {
+      "say": "16 Şubat'tan 28 Şubat'a kadar olan tarihler takvimden çıkarıldı.",
+      "caption": "16 Şubat'tan 28 Şubat'a kadar olan tarihler takvimden çıkarıldı.",
+      "key": [
+        "16",
+        "28"
+      ],
+      "image": {
+        "file": "File:Mehter 1917.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "anim": {
+        "tur": "takvim",
+        "tur2": "izgara",
+        "ust": "RUMİ TAKVİM · 1917",
+        "alt": "13 TARİH ATLANDI"
+      }
+    },
+    {
+      "say": "Ama dikkat! Günler kaybolmadı, yalnızca takvimdeki tarihler atlandı.",
+      "caption": "Ama dikkat! Günler kaybolmadı, yalnızca takvimdeki tarihler atlandı.",
+      "key": [
+        "kaybolmadı,",
+        "tarihler"
+      ],
+      "image": {
+        "file": "File:Ausfahrt ins Marmarameer, Istanbul (Konstantinopel) (BildID 15545532).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Tarihler atlandı",
+      "subtitle": "GÜNLER DEĞİL"
+    },
+    {
+      "say": "Yani doğum gününüz 20 Şubat olsaydı, 1917'de takvimde 20 Şubat tarihi hiç yaşanmayacaktı.",
+      "caption": "Yani doğum gününüz 20 Şubat olsaydı, 1917'de takvimde 20 Şubat tarihi hiç yaşanmayacaktı.",
+      "key": [
+        "20",
+        "hiç"
+      ],
+      "image": {
+        "file": "File:Mrgengrauen in Istanbul (Konstantinopel) (BildID 15545476).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "20 Şubat 1917",
+      "subtitle": "TAKVİMDE YOKTU"
+    },
+    {
+      "say": "Üstelik değişiklik bununla da bitmedi. 1926'nın başında Rumi yıl sayısı bırakıldı ve Miladi takvimin yıl sayısına geçildi.",
+      "caption": "Üstelik değişiklik bununla da bitmedi. 1926'nın başında Rumi yıl sayısı bırakıldı ve Miladi takvimin yıl sayısına geçildi.",
+      "key": [
+        "1926'nın",
+        "Miladi"
+      ],
+      "image": {
+        "file": "File:Gravestones with Hijri and Gregorian dates Ferikoy Cemetery Istanbul 2024.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "1341 → 1926",
+      "subtitle": "YIL SAYISI DEĞİŞTİ"
+    },
+    {
+      "say": "Peki, siz o dönemde yaşasaydınız ve takvimden 13 tarihin atlandığını öğrenseydiniz ne düşünürdünüz? Yorumlarda buluşalım! Böyle bilinmeyen tarih hikâyelerini seviyorsanız, takip edip beğenirseniz çok mutlu olurum.",
+      "caption": "Peki, siz o dönemde yaşasaydınız ve takvimden 13 tarihin atlandığını öğrenseydiniz ne düşünürdünüz? Yorumlarda buluşalım! Böyle bilinmeyen tarih hikâyelerini seviyorsanız, takip edip beğenirseniz çok mutlu olurum.",
+      "key": [
+        "düşünürdünüz?"
+      ],
+      "image": {
+        "file": "File:Razgled na Istanbul 1920-50.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Ne düşünürdünüz?",
+      "subtitle": "YORUMLARDA BULUŞALIM"
+    }
+  ]
+}
