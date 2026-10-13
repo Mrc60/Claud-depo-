@@ -25,5 +25,5 @@ jobs:
           export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
           export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
           cp -r out_adaylar /tmp/ad && cd "$(mktemp -d)" && git init -q -b adaylar
-          cp /tmp/ad/* . && git add -A && git commit -qm "görsel adayları"
+          cp -r /tmp/ad/. . && git add -A && git commit -qm "görsel adayları"
           git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" adaylar
