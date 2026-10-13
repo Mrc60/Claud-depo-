@@ -11,13 +11,18 @@
     "https://www.etymonline.com/word/tulip",
     "https://www.merriam-webster.com/dictionary/tulip"
   ],
-  "revizyon": 1,
+  "revizyon": 2,
   "segments": [
     {
       "say": "İngilizler laleye tulip der. Ama bu kelime laleden değil, tülbentten geliyor!",
       "caption": "İngilizler laleye \"tulip\" der. Ama bu kelime laleden değil, tülbentten geliyor!",
-      "key": ["tülbentten"],
-      "image": {"file": "File:Luxurious red tulips (Unsplash).jpg", "fit": "tam"},
+      "key": [
+        "tülbentten"
+      ],
+      "image": {
+        "file": "File:Luxurious red tulips (Unsplash).jpg",
+        "fit": "tam"
+      },
       "title": "Tulip = Tülbent?",
       "subtitle": "LALENİN SIRRI",
       "scene": "photo"
@@ -25,8 +30,14 @@
     {
       "say": "Etimoloji sözlüklerine göre İngilizce tulip, Türkçe tülbent kelimesinden geliyor. Tülbent de Farsça dulbend, yani sarık demek.",
       "caption": "Etimoloji sözlüklerine göre İngilizce \"tulip\", Türkçe \"tülbent\" kelimesinden geliyor. Tülbent de Farsça \"dulband\", yani sarık demek.",
-      "key": ["\"tülbent\"", "sarık"],
-      "image": {"file": "File:Een hofdignitaris Seyhülislam.JPG", "fit": "tam"},
+      "key": [
+        "\"tülbent\"",
+        "sarık"
+      ],
+      "image": {
+        "file": "File:Een hofdignitaris Seyhülislam.JPG",
+        "fit": "tam"
+      },
       "title": "Tülbent",
       "subtitle": "VANMOUR, 1720'LER",
       "scene": "photo"
@@ -34,15 +45,27 @@
     {
       "say": "Neden mi? Çünkü açılmış bir lale, sarığa benzetildi. İngilizce turban kelimesi de aynı kökten geliyor.",
       "caption": "Neden mi? Çünkü açılmış bir lale, sarığa benzetildi. İngilizce \"turban\" kelimesi de aynı kökten geliyor.",
-      "key": ["sarığa", "\"turban\""],
-      "image": {"file": "File:Close up of red-yellow tulip in bloom.jpg", "fit": "tam"},
+      "key": [
+        "sarığa",
+        "\"turban\""
+      ],
+      "image": {
+        "file": "File:Close up of red-yellow tulip in bloom.jpg",
+        "fit": "tam"
+      },
       "scene": "photo"
     },
     {
       "say": "1550'lerde Habsburg elçisi Busbek, mektubunda kendisine Türklerin tulipan dediği çiçeklerden demetler verildiğini yazdı.",
       "caption": "1550'lerde Habsburg elçisi Busbecq, mektubunda kendisine \"Türklerin tulipan dediği\" çiçeklerden demetler verildiğini yazdı.",
-      "key": ["\"Türklerin", "tulipan"],
-      "image": {"file": "File:Melchior Lorck, Portræt af Ogier Ghiselin de Busbecq, kejserlig gesandt, 1557, KKSgb8209, Statens Museum for Kunst.jpg", "fit": "tam"},
+      "key": [
+        "\"Türklerin",
+        "tulipan"
+      ],
+      "image": {
+        "file": "File:Melchior Lorck, Portræt af Ogier Ghiselin de Busbecq, kejserlig gesandt, 1557, KKSgb8209, Statens Museum for Kunst.jpg",
+        "fit": "tam"
+      },
       "title": "Busbecq",
       "subtitle": "HABSBURG ELÇİSİ",
       "scene": "photo"
@@ -50,8 +73,15 @@
     {
       "say": "1559'da İsviçreli doğa bilgini Conrad Gesner, Augsburg'da bir bahçede kırmızı bir lale gördü. İki yıl sonra onu resmiyle birlikte yayımladı.",
       "caption": "1559'da İsviçreli doğa bilgini Conrad Gessner, Augsburg'da bir bahçede kırmızı bir lale gördü. İki yıl sonra onu resmiyle birlikte yayımladı.",
-      "key": ["1559'da", "lale"],
-      "image": {"file": "File:Gessnertulip.jpg", "fit": "tam"},
+      "key": [
+        "1559'da",
+        "lale"
+      ],
+      "image": {
+        "file": "File:Gessnertulip.jpg",
+        "fit": "tam",
+        "min_w": 800
+      },
       "title": "Conrad Gessner",
       "subtitle": "AUGSBURG, 1559",
       "scene": "photo"
@@ -59,8 +89,14 @@
     {
       "say": "Lale Osmanlı'da o kadar sevildi ki, bin yedi yüz on sekiz ile bin yedi yüz otuz arasına sonradan Lale Devri adı verildi.",
       "caption": "Lale Osmanlı'da o kadar sevildi ki, 1718 ile 1730 arasına sonradan \"Lale Devri\" adı verildi.",
-      "key": ["\"Lale", "Devri\""],
-      "image": {"file": "File:Sleeping young woman, Tulip Period artist Levni (Topkapı Palace Museum, Treasury 2169, folio 11b).jpg", "fit": "tam"},
+      "key": [
+        "\"Lale",
+        "Devri\""
+      ],
+      "image": {
+        "file": "File:Sleeping young woman, Tulip Period artist Levni (Topkapı Palace Museum, Treasury 2169, folio 11b).jpg",
+        "fit": "tam"
+      },
       "title": "Lale Devri",
       "subtitle": "LEVNÎ, 1718–1730",
       "scene": "photo"
@@ -68,8 +104,13 @@
     {
       "say": "Bugün İstanbul'da her baharda açan laleleri gördüğünüzde hatırlayın: Avrupa bu çiçeği, bizim tülbendimizin adıyla anıyor.",
       "caption": "Bugün İstanbul'da her baharda açan laleleri gördüğünüzde hatırlayın: Avrupa bu çiçeği, bizim tülbendimizin adıyla anıyor.",
-      "key": ["tülbendimizin"],
-      "image": {"file": "File:Tulip Festival Emirgan 2018.jpg", "fit": "tam"},
+      "key": [
+        "tülbendimizin"
+      ],
+      "image": {
+        "file": "File:Tulip Festival Emirgan 2018.jpg",
+        "fit": "tam"
+      },
       "title": "Emirgan",
       "subtitle": "İSTANBUL",
       "scene": "photo"
@@ -77,8 +118,13 @@
     {
       "say": "Peki size soruyorum, değerli izleyicilerimiz: laleye tulip denmesinin tülbentten geldiğini biliyor muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
       "caption": "Peki size soruyorum, değerli izleyicilerimiz: laleye \"tulip\" denmesinin tülbentten geldiğini biliyor muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
-      "key": ["tülbentten"],
-      "image": {"file": "File:Tulips from 8th Istanbul tulip festival,Emirgan.JPG", "fit": "tam"},
+      "key": [
+        "tülbentten"
+      ],
+      "image": {
+        "file": "File:Tulips from 8th Istanbul tulip festival,Emirgan.JPG",
+        "fit": "tam"
+      },
       "title": "Biliyor muydunuz?",
       "subtitle": "YORUMLARDA BULUŞALIM",
       "scene": "photo"

@@ -36,10 +36,10 @@ def clean_artist(a):
     a = re.sub(r"(?i)(unknown author)(\s*unknown author)+", r"\1", a)
     return a[:80]
 
-def usable(p):
+def usable(p, min_w=MIN_W):
     ii = (p.get("imageinfo") or [{}])[0]
     if ii.get("mime") not in ("image/jpeg", "image/png"): return None
-    if ii.get("width", 0) < MIN_W: return None
+    if ii.get("width", 0) < min_w: return None
     meta = ii.get("extmetadata", {})
     lic = strip_html(meta.get("LicenseShortName", {}).get("value"))
     if not ALLOWED.match(lic): return None
@@ -61,7 +61,7 @@ def search(q):
 def find(spec):
     if "file" in spec:
         pages = info([spec["file"]])
-        return usable(pages[0]) if pages else None
+        return usable(pages[0], spec.get("min_w", MIN_W)) if pages else None
     for q in spec.get("queries") or [spec["query"]]:  # sırayla dene, ilk uygun olanı al
         u = search(q)
         if u: return u
@@ -88,6 +88,10 @@ for i, seg in enumerate(ep["segments"]):
         print(f"  seg {i}: arama hatası ({e}) -> başka sahnenin fotoğrafı kullanılacak")
         hit = None
     if not hit:
+        if "file" in spec:
+            # TEK1: anlatılanla görsel birebir uymalı; seçilen dosya alınamazsa başka sahnenin
+            # fotoğrafını koymak yanlış eşleşme yaratır. Üretimi durdur.
+            sys.exit(f"HATA: seg {i} için seçilen görsel alınamadı: {spec['file']} (boyut/lisans/biçim). Görseli değiştirin ya da min_w verin.")
         print(f"  seg {i}: uygun fotoğraf bulunamadı ({spec}) -> başka sahnenin fotoğrafı kullanılacak")
         continue
     path = os.path.join(out, f"img_{i:02d}.jpg")
