@@ -1,16 +1,17 @@
 {
-  "bolum": "012_bagdas",
+  "bolum": "013_lale",
   "min_w": 700,
   "sorgular": [
-    "sitting cross-legged"
+    "red tulips close-up",
+    "Emirgan tulip festival",
+    "Ottoman turban museum",
+    "Ottoman turban",
+    "Ogier Ghiselin de Busbecq",
+    "1561 Gesner Tulip",
+    "Iznik tile tulip",
+    "Levni tulip",
+    "Tulip Era Ottoman painting",
+    "Tulipa greigii wild"
   ],
-  "incele": [
-    "File:Tile with seated man. Late 1220s, Central Turkey.jpg",
-    "File:Yer sofrasi.jpg",
-    "File:A sofra in \"La Turquie\" by Camille Rogier (1846-1848).jpg",
-    "File:Der Schneider from Jost Amman's Stände und Handwerker Wellcome L0069530.jpg",
-    "File:Sit 08860.jpg",
-    "File:Field Day 2016 Saturday man on floor.jpg",
-    "File:Konya Karatay Ceramics Museum Kubad Abad Palace tile 2389.jpg"
-  ]
+  "incele": []
 }
