@@ -76,3 +76,24 @@ for t in cfg.get("incele", []):
 if incele:
     json.dump(incele, open(f"{OUT}/incele.json", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("pano sayısı:", (len(cands) + COLS * ROWS - 1) // (COLS * ROWS))
+
+# İsteğe bağlı: seçilen dosyaları (uzun video paketi için) 1920 px indir + künye listesi
+indir = cfg.get("indir", [])
+if indir:
+    os.makedirs(f"{OUT}/paket", exist_ok=True)
+    kunye = []
+    for it in indir:
+        pages = api(action="query", prop="imageinfo", titles=it["file"], iiprop="url|extmetadata",
+                    iiurlwidth=1920).get("query", {}).get("pages", [])
+        ii = (pages[0].get("imageinfo") or [{}])[0] if pages else {}
+        url = ii.get("thumburl") or ii.get("url")
+        em = ii.get("extmetadata", {})
+        if not url:
+            print("İNDİRİLEMEDİ:", it["file"]); continue
+        data = requests.get(url, headers=HEADERS, timeout=60).content
+        im = Image.open(io.BytesIO(data)).convert("RGB")
+        im.save(f"{OUT}/paket/{it['ad']}", quality=90)
+        kunye.append(f"{it['ad']} | {it['file'][5:]} | {strip(em.get('Artist', {}).get('value'))[:80]} | "
+                     f"{strip(em.get('LicenseShortName', {}).get('value'))} | {ii.get('descriptionurl', '')}")
+        print("indirildi:", it["ad"], im.size)
+    open(f"{OUT}/paket/kunyeler.txt", "w", encoding="utf-8").write("\n".join(kunye) + "\n")
