@@ -1,0 +1,171 @@
+{
+  "episode": 15,
+  "slug": "kahve_fali",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "Kahve falı UNESCO kayıtlarında",
+  "youtube_title": "Kahve falı UNESCO kayıtlarında bile geçiyor! ☕ #SıradanDeğil 15",
+  "youtube_description": "Türk kahvesinin UNESCO metninde kahve falı da geçiyor.",
+  "sources": [
+    "https://ich.unesco.org/en/RL/turkish-coffee-culture-and-tradition-00645",
+    "https://ich.unesco.org/en/Decisions/8.COM/8.28",
+    "https://dergipark.org.tr/tr/pub/huefd/article/497803"
+  ],
+  "revizyon": 1,
+  "dis_ses": {
+    "file": "assets/ses/015_kahve_fali.mp3",
+    "kesimler": [
+      [
+        [
+          0.12,
+          8.71
+        ]
+      ],
+      [
+        [
+          9.13,
+          17.11
+        ]
+      ],
+      [
+        [
+          17.5,
+          25.77
+        ]
+      ],
+      [
+        [
+          26.24,
+          36.41
+        ]
+      ],
+      [
+        [
+          36.79,
+          46.82
+        ]
+      ],
+      [
+        [
+          47.14,
+          53.88
+        ]
+      ],
+      [
+        [
+          54.26,
+          61.54
+        ],
+        [
+          61.9,
+          66.65
+        ]
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "say": "Kahvenizi bitirdiniz, fincanı kapattınız... Peki o telvenin, UNESCO'nun kayıtlarında bile geçtiğini biliyor muydunuz?",
+      "caption": "Kahvenizi bitirdiniz, fincanı kapattınız... Peki o telvenin, UNESCO'nun kayıtlarında bile geçtiğini biliyor muydunuz?",
+      "key": [
+        "telvenin,",
+        "UNESCO'nun"
+      ],
+      "image": {
+        "file": "File:Coffereading.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Kahve Falı",
+      "subtitle": "TELVENİN SIRRI"
+    },
+    {
+      "say": "İki bin on üç yılında Türk kahvesi kültürü ve geleneği, UNESCO'nun İnsanlığın Somut Olmayan Kültürel Mirası listesine girdi.",
+      "caption": "2013 yılında Türk kahvesi kültürü ve geleneği, UNESCO'nun İnsanlığın Somut Olmayan Kültürel Mirası listesine girdi.",
+      "key": [
+        "2013",
+        "Mirası"
+      ],
+      "image": {
+        "file": "File:Közde Türk Kahvesi, Safranbolu 2014.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "UNESCO, 2013",
+      "subtitle": "İNSANLIĞIN KÜLTÜREL MİRASI"
+    },
+    {
+      "say": "UNESCO'nun bu gelenek için yazdığı metinde şu cümle var: Fincanda kalan telve, çoğu zaman kişinin falına bakmak için kullanılır.",
+      "caption": "UNESCO'nun bu gelenek için yazdığı metinde şu cümle var: \"Fincanda kalan telve, çoğu zaman kişinin falına bakmak için kullanılır.\"",
+      "key": [
+        "telve,",
+        "falına"
+      ],
+      "image": {
+        "file": "File:Restos de café para adivinar.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "UNESCO metni",
+      "subtitle": "FİNCANDAKİ TELVE"
+    },
+    {
+      "say": "Aynı metin, kahvenin yanında bir bardak su geldiğini de anlatıyor. Ve Türk kahvesini; misafirperverliğin, dostluğun ve sohbetin bir sembolü olarak tanımlıyor.",
+      "caption": "Aynı metin, kahvenin yanında bir bardak su geldiğini de anlatıyor. Ve Türk kahvesini; misafirperverliğin, dostluğun ve sohbetin bir sembolü olarak tanımlıyor.",
+      "key": [
+        "su",
+        "dostluğun"
+      ],
+      "image": {
+        "file": "File:Turkish coffee in Istanbul.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Bir bardak su",
+      "subtitle": "MİSAFİRPERVERLİK"
+    },
+    {
+      "say": "Hacettepe Üniversitesi'nde yayımlanan bir çalışmaya göre de kahve falı, Türkiye'de özellikle kadınlar arasında yaygın ve insanları bir araya getiren bir gelenek.",
+      "caption": "Hacettepe Üniversitesi'nde yayımlanan bir çalışmaya göre de kahve falı, Türkiye'de özellikle kadınlar arasında yaygın ve insanları bir araya getiren bir gelenek.",
+      "key": [
+        "kadınlar",
+        "araya"
+      ],
+      "image": {
+        "file": "File:Bakırcezve-fincan.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Hacettepe Üniversitesi",
+      "subtitle": "ALAGÖZLÜ, 2007"
+    },
+    {
+      "say": "Yani fincanı kapatıp sohbete daldığınız o an, UNESCO'nun dünyaya anlattığı bu geleneğin bir parçası.",
+      "caption": "Yani fincanı kapatıp sohbete daldığınız o an, UNESCO'nun dünyaya anlattığı bu geleneğin bir parçası.",
+      "key": [
+        "sohbete",
+        "parçası."
+      ],
+      "image": {
+        "file": "File:Սուրճ կարդալ.jpeg",
+        "fit": "tam"
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Peki size soruyorum, değerli izleyicilerimiz: kahve falının UNESCO kayıtlarında geçtiğini biliyor muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
+      "caption": "Peki size soruyorum, değerli izleyicilerimiz: kahve falının UNESCO kayıtlarında geçtiğini biliyor muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen hikâyeleri sevdiyseniz, takip edip beğenirseniz çok mutlu olurum.",
+      "key": [
+        "UNESCO"
+      ],
+      "image": {
+        "file": "File:Turkish coffee Turk kahvesi.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Biliyor muydunuz?",
+      "subtitle": "YORUMLARDA BULUŞALIM"
+    }
+  ]
+}
