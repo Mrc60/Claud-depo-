@@ -2,16 +2,17 @@
   "bolum": "013_lale",
   "min_w": 700,
   "sorgular": [
-    "red tulips close-up",
-    "Emirgan tulip festival",
-    "Ottoman turban museum",
-    "Ottoman turban",
-    "Ogier Ghiselin de Busbecq",
-    "1561 Gesner Tulip",
-    "Iznik tile tulip",
-    "Levni tulip",
-    "Tulip Era Ottoman painting",
-    "Tulipa greigii wild"
+    "tulip"
   ],
-  "incele": []
+  "incele": [
+    "File:Luxurious red tulips (Unsplash).jpg",
+    "File:Close up of red-yellow tulip in bloom.jpg",
+    "File:Een hofdignitaris Seyhülislam.JPG",
+    "File:Melchior Lorck, Portræt af Ogier Ghiselin de Busbecq, kejserlig gesandt, 1557, KKSgb8209, Statens Museum for Kunst.jpg",
+    "File:Gessnertulip.jpg",
+    "File:Sleeping young woman, Tulip Period artist Levni (Topkapı Palace Museum, Treasury 2169, folio 11b).jpg",
+    "File:Tulip Festival Emirgan 2018.jpg",
+    "File:Polychrome plate. Iznik, glazed. Last quarter of the 16th century CE. Museum of Islamic Art (Tiled Kiosk), Istanbul, Turkey.jpg",
+    "File:Tulips from 8th Istanbul tulip festival,Emirgan.JPG"
+  ]
 }
