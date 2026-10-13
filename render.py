@@ -554,7 +554,47 @@ def anim_hafta(layer, spec, lt, dur):
             _txt(layer, (W - 130 - 20 * (1 - k), y), g[1], font=F_UI(38),
                  fill=with_alpha(CREAM, (0.55 + 0.45 * hl) * k * a), anchor="rm")
 
-ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman, "hafta": anim_hafta}
+def anim_takvim(layer, spec, lt, dur):
+    """1917 takvim atlaması. tur2="ok": 15 ŞUBAT -> 1 MART; tur2="izgara": Şubat'ın 16-28 tarihleri tek tek üstü çizilir."""
+    a = ease(lt / 0.45)
+    _card(layer, [70, 250, W - 70, 1010], a)
+    d = ImageDraw.Draw(layer)
+    RED = (226, 84, 70)
+    _txt(layer, (W / 2, 320), spec.get("ust", "RUMİ TAKVİM · 1917"), font=F_UI(40), fill=with_alpha(AMBER, a), anchor="mm")
+    if spec.get("tur2") == "ok":
+        k1 = ease((lt - 0.3) / 0.4); k2 = ease((lt - 1.3) / 0.5)
+        for cx, top, alt, k in ((W / 2 - 220, "15", "ŞUBAT", k1), (W / 2 + 220, "1", "MART", k2)):
+            ov = Image.new("RGBA", (W, H), (0, 0, 0, 0)); od = ImageDraw.Draw(ov)
+            od.rounded_rectangle([cx - 170, 430, cx + 170, 820], radius=30, fill=with_alpha(CREAM, 0.95 * k))
+            od.rectangle([cx - 170, 430, cx + 170, 520], fill=with_alpha(RED, k))
+            layer.alpha_composite(ov)
+            _txt(layer, (cx, 475), alt, font=F_UI(48), fill=(255, 255, 255, int(255 * k)), anchor="mm")
+            _txt(layer, (cx, 670), top, font=F_SERIF(190), fill=(10, 14, 20, int(255 * k)), anchor="mm")
+        ka = ease((lt - 0.9) / 0.4)
+        if ka > 0:
+            x0, x1 = W / 2 - 40, W / 2 - 40 + 80 * ka
+            d.line([x0, 625, x1, 625], fill=with_alpha(AMBER, ka), width=12)
+            if ka > 0.9: d.polygon([(x1 + 30, 625), (x1 - 4, 600), (x1 - 4, 650)], fill=with_alpha(AMBER, ka))
+        ke = ease((lt - 2.0) / 0.4)
+        _txt(layer, (W / 2, 920), spec.get("alt", "ERTESİ GÜN"), font=F_SERIF(64), fill=with_alpha(CREAM, ke), anchor="mm")
+        return
+    # izgara: Şubat 1-28
+    cols, x0, y0, cw, rh = 7, 150, 420, (W - 300) / 7, 120
+    _txt(layer, (W / 2, 375), "ŞUBAT", font=F_UI(44), fill=with_alpha(CREAM, a), anchor="mm")
+    per = max(0.12, (dur * 0.6) / 13)
+    for n in range(1, 29):
+        i = n - 1; cx = x0 + (i % cols + 0.5) * cw; cy = y0 + (i // cols + 0.5) * rh
+        if n < 16:
+            _txt(layer, (cx, cy), str(n), font=F_SERIF(64), fill=with_alpha(CREAM, a), anchor="mm")
+        else:
+            k = ease((lt - 0.5 - (n - 16) * per) / 0.25)
+            _txt(layer, (cx, cy), str(n), font=F_SERIF(64), fill=with_alpha(CREAM, a * (1 - 0.7 * k)), anchor="mm")
+            if k > 0:
+                d.line([cx - 42, cy + 30, cx - 42 + 84 * k, cy - 30], fill=with_alpha(RED, k), width=9)
+    ke = ease((lt - 0.5 - 13 * per - 0.2) / 0.4)
+    _txt(layer, (W / 2, 930), spec.get("alt", "13 TARİH ATLANDI"), font=F_SERIF(70), fill=with_alpha(AMBER, ke), anchor="mm")
+
+ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman, "hafta": anim_hafta, "takvim": anim_takvim}
 
 def render_frame(t, idx):
     f = BG.copy()

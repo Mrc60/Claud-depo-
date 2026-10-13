@@ -1,21 +1,17 @@
 {
-  "bolum": "016_takvim",
-  "min_w": 900,
-  "sorgular": [
-    "Ottoman calendar 1917",
-    "Rumi calendar Ottoman",
-    "Ottoman almanac takvim",
-    "Ottoman wall calendar",
-    "Ottoman newspaper 1917",
-    "Istanbul 1917",
-    "Constantinople 1917 street",
-    "Ottoman calendar Hijri Rumi Gregorian",
-    "takvim yaprağı",
-    "Ottoman pocket calendar",
-    "Turkey 1926 calendar",
-    "Galata Tower 1910s",
-    "Istanbul 1920s photograph",
-    "Takvim-i Vekayi"
-  ],
-  "incele": []
+ "bolum": "016_takvim",
+ "min_w": 900,
+ "sorgular": [
+  "Ottoman calendar Wellcome"
+ ],
+ "incele": [
+  "File:Ottoman Calendar Wellcome L0035016.jpg",
+  "File:Ottoman Calendar Wellcome L0035017.jpg",
+  "File:Mehter 1917.jpg",
+  "File:Kai von Galata, Istanbul (Konstantinopel) (BildID 15545511).jpg",
+  "File:Serailspitze, Istanbul (Konstantinopel) (BildID 15545497).jpg",
+  "File:Istanbul, Treppenstraße 1920-45.jpg",
+  "File:Razgled na Istanbul 1920-50.jpg",
+  "File:Gravestones with Hijri and Gregorian dates Ferikoy Cemetery Istanbul 2024.jpg"
+ ]
 }
