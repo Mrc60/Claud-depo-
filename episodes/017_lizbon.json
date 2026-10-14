@@ -1,0 +1,237 @@
+{
+  "episode": 17,
+  "slug": "lizbon",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "1755 Lizbon depremi",
+  "youtube_title": "Deprem, tsunami ve yangın aynı gün: 1755 Lizbon! #SıradanDeğil 17",
+  "youtube_description": "1 Kasım 1755'te Lizbon'u deprem, tsunami ve yangın art arda vurdu.",
+  "sources": [
+    "https://sos.noaa.gov/catalog/datasets/tsunami-historical-series-lisbon-1755/",
+    "https://www.britannica.com/print/article/1421131",
+    "https://estudogeral.uc.pt/handle/10316/107124"
+  ],
+  "revizyon": 1,
+  "dis_ses": {
+    "file": "assets/ses/017_lizbon.mp3",
+    "kesimler": [
+      [
+        [
+          0.06,
+          6.69
+        ]
+      ],
+      [
+        [
+          7.4,
+          11.52
+        ]
+      ],
+      [
+        [
+          12.11,
+          19.46
+        ]
+      ],
+      [
+        [
+          19.95,
+          23.68
+        ]
+      ],
+      [
+        [
+          24.19,
+          36.0
+        ]
+      ],
+      [
+        [
+          36.49,
+          42.82
+        ]
+      ],
+      [
+        [
+          43.35,
+          47.73
+        ]
+      ],
+      [
+        [
+          48.32,
+          56.77
+        ]
+      ],
+      [
+        [
+          57.62,
+          63.91
+        ]
+      ],
+      [
+        [
+          64.59,
+          69.91
+        ],
+        [
+          70.38,
+          79.4
+        ]
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "say": "Bir dini bayram sabahı… İnsanlar kiliselerde dua ederken bir anda yer sallanmaya başlıyor!",
+      "caption": "Bir dini bayram sabahı… İnsanlar kiliselerde dua ederken bir anda yer sallanmaya başlıyor!",
+      "key": [
+        "bayram",
+        "sallanmaya"
+      ],
+      "image": {
+        "file": "File:1755 Lisbon earthquake.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Lizbon, 1755",
+      "subtitle": "BİR BAYRAM SABAHI"
+    },
+    {
+      "say": "1 Kasım 1755. Portekiz'in başkenti Lizbon.",
+      "caption": "1 Kasım 1755. Portekiz'in başkenti Lizbon.",
+      "key": [
+        "1755.",
+        "Lizbon."
+      ],
+      "image": {
+        "file": "File:A view of Terreiro do Paço (1693) - Unknown Author (38450138756).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "1 Kasım 1755",
+      "subtitle": "DEPREMDEN ÖNCE LİZBON"
+    },
+    {
+      "say": "Azizler Günü ayini sırasında büyük bir deprem şehri vuruyor. Binalar yıkılıyor, sokaklar enkazla doluyor.",
+      "caption": "Azizler Günü ayini sırasında büyük bir deprem şehri vuruyor. Binalar yıkılıyor, sokaklar enkazla doluyor.",
+      "key": [
+        "deprem",
+        "yıkılıyor,"
+      ],
+      "image": {
+        "file": "File:Ruïne van de gebouwen aan het Plein van de Patriarchen in Lissabon, 1755 The Patriarchal Square Praca da Patriarchat Place de la Patriarchale (titel op object) Ruins of Lisbon as appeared immediatel, RP-P-2017-9907.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Binalar yıkıldı",
+      "subtitle": "LE BAS GRAVÜRÜ, 1757"
+    },
+    {
+      "say": "Kiliseler, içlerinde dua eden insanlarla birlikte çöküyor.",
+      "caption": "Kiliseler, içlerinde dua eden insanlarla birlikte çöküyor.",
+      "key": [
+        "Kiliseler,",
+        "çöküyor."
+      ],
+      "image": {
+        "file": "File:Ruïne van de kathedraal van Lissabon, 1755 The Cathedral Basilica de Santa Maria La Cathédrale (titel op object) Ruins of Lisbon as appeared immediately after the Earthquake and Fire of the 1st Novb, RP-P-2017-9904.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Kiliseler çöktü",
+      "subtitle": "LİZBON KATEDRALİ"
+    },
+    {
+      "say": "Ama felaket bununla bitmiyor… Depremden yaklaşık bir saat sonra tsunami şehri vuruyor. Dev dalgalar, Lizbon'un kıyıdaki sokaklarını ve meydanlarını sular altında bırakıyor.",
+      "caption": "Ama felaket bununla bitmiyor… Depremden yaklaşık bir saat sonra tsunami şehri vuruyor. Dev dalgalar, Lizbon'un kıyıdaki sokaklarını ve meydanlarını sular altında bırakıyor.",
+      "key": [
+        "bitmiyor…",
+        "tsunami"
+      ],
+      "image": {
+        "file": "File:Lisbone Abysmée - estampe - btv1b52524679j.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Tsunami",
+      "subtitle": "YAKLAŞIK BİR SAAT SONRA"
+    },
+    {
+      "say": "Ardından yıkıntıların arasında yangınlar çıkıyor ve alevler şehrin farklı bölgelerine yayılıyor.",
+      "caption": "Ardından yıkıntıların arasında yangınlar çıkıyor ve alevler şehrin farklı bölgelerine yayılıyor.",
+      "key": [
+        "yangınlar",
+        "alevler"
+      ],
+      "image": {
+        "file": "File:Ruïne van het Operagebouw van Lissabon, 1755 The Opera House Casa da Opera Salle de l'Opera (titel op object) Ruins of Lisbon as appeared immediately after the Earthquake and Fire of the 1st Novbr 1, RP-P-2017-9905.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Yangın",
+      "subtitle": "DEPREM VE YANGIN SONRASI"
+    },
+    {
+      "say": "Deprem, tsunami ve yangın… Aynı gün, peş peşe!",
+      "caption": "Deprem, tsunami ve yangın… Aynı gün, peş peşe!",
+      "key": [
+        "Deprem,",
+        "tsunami",
+        "yangın…"
+      ],
+      "image": {
+        "file": "File:Ruïne van de toren van St. Rochus of Patriarchen in Lissabon, 1755 St Roch's Tower commonly call'd the Patriarch's Tower torre se S. Roque chamada vulgarmente Torre do Patriarcha Tour de S Roche nomm, RP-P-2017-9902.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Aynı gün",
+      "subtitle": "ART ARDA ÜÇ FELAKET"
+    },
+    {
+      "say": "Lizbon'da hayatını kaybedenlerin sayısı kesin olarak bilinmiyor. Ancak tahminler, on binlerce insanın yaşamını yitirdiğini gösteriyor.",
+      "caption": "Lizbon'da hayatını kaybedenlerin sayısı kesin olarak bilinmiyor. Ancak tahminler, on binlerce insanın yaşamını yitirdiğini gösteriyor.",
+      "key": [
+        "kesin",
+        "binlerce"
+      ],
+      "image": {
+        "file": "File:Ruïne van de Pauluskerk in Lissabon, 1755 St Paul's Church Igreja de S. Paul Eglise de S. Paul (titel op object) Ruins of Lisbon as appeared immediately after the Earthquake and Fire of the 1st Novb, RP-P-2017-9903.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "On binlerce can",
+      "subtitle": "KESİN SAYI BİLİNMİYOR"
+    },
+    {
+      "say": "Biz de bir deprem ülkesinde yaşıyoruz. Böyle bir felaketin yaşandığı sabahı düşünmek bile ürpertici.",
+      "caption": "Biz de bir deprem ülkesinde yaşıyoruz. Böyle bir felaketin yaşandığı sabahı düşünmek bile ürpertici.",
+      "key": [
+        "deprem",
+        "ürpertici."
+      ],
+      "image": {
+        "file": "File:Ruins of the Carmo Convent, now the Carmo Archaeological Museum, in Lisbon, 20250604 1542 9324.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Lizbon, bugün",
+      "subtitle": "CARMO MANASTIRI"
+    },
+    {
+      "say": "Peki size soruyorum, değerli izleyicilerimiz: Lizbon depremini daha önce duymuş muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen gerçek tarih hikâyelerini seviyorsanız, Sıradan Değil'i takip edip videoyu beğenirseniz çok mutlu olurum.",
+      "caption": "Peki size soruyorum, değerli izleyicilerimiz: Lizbon depremini daha önce duymuş muydunuz? Yorumlarda buluşalım. Böyle bilinmeyen gerçek tarih hikâyelerini seviyorsanız, Sıradan Değil'i takip edip videoyu beğenirseniz çok mutlu olurum.",
+      "key": [
+        "muydunuz?"
+      ],
+      "image": {
+        "file": "File:View of Praça do Comércio from the Tagus River in Lisbon, 20250604 2038 9656.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Duymuş muydunuz?",
+      "subtitle": "YORUMLARDA BULUŞALIM"
+    }
+  ]
+}
