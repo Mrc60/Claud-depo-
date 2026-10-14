@@ -1,17 +1,19 @@
 {
- "bolum": "016_takvim",
- "min_w": 900,
- "sorgular": [
-  "Ottoman calendar Wellcome"
- ],
- "incele": [
-  "File:Ottoman Calendar Wellcome L0035016.jpg",
-  "File:Ottoman Calendar Wellcome L0035017.jpg",
-  "File:Mehter 1917.jpg",
-  "File:Kai von Galata, Istanbul (Konstantinopel) (BildID 15545511).jpg",
-  "File:Serailspitze, Istanbul (Konstantinopel) (BildID 15545497).jpg",
-  "File:Istanbul, Treppenstraße 1920-45.jpg",
-  "File:Razgled na Istanbul 1920-50.jpg",
-  "File:Gravestones with Hijri and Gregorian dates Ferikoy Cemetery Istanbul 2024.jpg"
- ]
+  "bolum": "017_lizbon",
+  "min_w": 900,
+  "sorgular": [
+    "1755 Lisbon earthquake",
+    "Lisbon earthquake 1755 engraving",
+    "Lisbon earthquake tsunami 1755 copper engraving",
+    "Lisbon 1755 fire ruins",
+    "Lisbon earthquake ruins church",
+    "Carmo Convent ruins Lisbon",
+    "Lisbon before 1755 panorama",
+    "Terreiro do Paço before earthquake",
+    "Praça do Comércio Lisbon",
+    "Tagus river Lisbon",
+    "Lisbon earthquake Kozak painting",
+    "Lisboa terramoto 1755 gravura"
+  ],
+  "incele": []
 }
