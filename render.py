@@ -381,6 +381,9 @@ if os.path.exists(_img_json):
             print("fotoğraf açılamadı:", v.get("path"), e); continue
         W2, H2 = int(W * 1.12), int(H * 1.12)
         spec = (SEGS[int(k)].get("image") or {}) if int(k) < len(SEGS) else {}
+        if spec.get("kirp"):  # [x0, y0, x1, y1] oran olarak: gravürün kâğıt kenarını/yazısını kes
+            x0, y0, x1, y1 = spec["kirp"]
+            im = im.crop((int(im.width * x0), int(im.height * y0), int(im.width * x1), int(im.height * y1)))
         if spec.get("fit") == "tam":
             # Fotoğrafın tamamı görünsün: arkada bulanık kopya, önde net ve kırpılmamış fotoğraf
             sc = max(W2 / im.width, H2 / im.height)

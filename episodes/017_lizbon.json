@@ -12,7 +12,7 @@
     "https://www.britannica.com/print/article/1421131",
     "https://estudogeral.uc.pt/handle/10316/107124"
   ],
-  "revizyon": 1,
+  "revizyon": 2,
   "dis_ses": {
     "file": "assets/ses/017_lizbon.mp3",
     "kesimler": [
@@ -122,7 +122,13 @@
       ],
       "image": {
         "file": "File:Ruïne van de gebouwen aan het Plein van de Patriarchen in Lissabon, 1755 The Patriarchal Square Praca da Patriarchat Place de la Patriarchale (titel op object) Ruins of Lisbon as appeared immediatel, RP-P-2017-9907.jpg",
-        "fit": "tam"
+        "fit": "tam",
+        "kirp": [
+          0.105,
+          0.155,
+          0.845,
+          0.755
+        ]
       },
       "scene": "photo",
       "title": "Binalar yıkıldı",
@@ -137,7 +143,13 @@
       ],
       "image": {
         "file": "File:Ruïne van de kathedraal van Lissabon, 1755 The Cathedral Basilica de Santa Maria La Cathédrale (titel op object) Ruins of Lisbon as appeared immediately after the Earthquake and Fire of the 1st Novb, RP-P-2017-9904.jpg",
-        "fit": "tam"
+        "fit": "tam",
+        "kirp": [
+          0.105,
+          0.155,
+          0.845,
+          0.755
+        ]
       },
       "scene": "photo",
       "title": "Kiliseler çöktü",
@@ -152,7 +164,13 @@
       ],
       "image": {
         "file": "File:Lisbone Abysmée - estampe - btv1b52524679j.jpg",
-        "fit": "tam"
+        "fit": "tam",
+        "kirp": [
+          0.05,
+          0.03,
+          0.95,
+          0.97
+        ]
       },
       "scene": "photo",
       "title": "Tsunami",
@@ -167,7 +185,13 @@
       ],
       "image": {
         "file": "File:Ruïne van het Operagebouw van Lissabon, 1755 The Opera House Casa da Opera Salle de l'Opera (titel op object) Ruins of Lisbon as appeared immediately after the Earthquake and Fire of the 1st Novbr 1, RP-P-2017-9905.jpg",
-        "fit": "tam"
+        "fit": "tam",
+        "kirp": [
+          0.105,
+          0.155,
+          0.845,
+          0.755
+        ]
       },
       "scene": "photo",
       "title": "Yangın",
@@ -183,7 +207,13 @@
       ],
       "image": {
         "file": "File:Ruïne van de toren van St. Rochus of Patriarchen in Lissabon, 1755 St Roch's Tower commonly call'd the Patriarch's Tower torre se S. Roque chamada vulgarmente Torre do Patriarcha Tour de S Roche nomm, RP-P-2017-9902.jpg",
-        "fit": "tam"
+        "fit": "tam",
+        "kirp": [
+          0.105,
+          0.155,
+          0.845,
+          0.755
+        ]
       },
       "scene": "photo",
       "title": "Aynı gün",
@@ -198,7 +228,13 @@
       ],
       "image": {
         "file": "File:Ruïne van de Pauluskerk in Lissabon, 1755 St Paul's Church Igreja de S. Paul Eglise de S. Paul (titel op object) Ruins of Lisbon as appeared immediately after the Earthquake and Fire of the 1st Novb, RP-P-2017-9903.jpg",
-        "fit": "tam"
+        "fit": "tam",
+        "kirp": [
+          0.105,
+          0.155,
+          0.845,
+          0.755
+        ]
       },
       "scene": "photo",
       "title": "On binlerce can",
