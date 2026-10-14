@@ -12,7 +12,7 @@
     "https://www.britannica.com/print/article/1421131",
     "https://estudogeral.uc.pt/handle/10316/107124"
   ],
-  "revizyon": 2,
+  "revizyon": 3,
   "dis_ses": {
     "file": "assets/ses/017_lizbon.mp3",
     "kesimler": [
@@ -166,10 +166,10 @@
         "file": "File:Lisbone Abysmée - estampe - btv1b52524679j.jpg",
         "fit": "tam",
         "kirp": [
-          0.05,
-          0.03,
-          0.95,
-          0.97
+          0.13,
+          0.13,
+          0.89,
+          0.93
         ]
       },
       "scene": "photo",
