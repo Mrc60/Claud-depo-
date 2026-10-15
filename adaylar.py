@@ -10,7 +10,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "SiradanDegilShorts/1.0 (https://github.com/Mrc60/Claud-depo-; image research)"}
-ALLOWED = re.compile(r"^(public domain|pd|cc0|cc[ -]by(-sa)?([ -]\d\.\d)?|cc[ -]by(-sa)? \d\.\d)", re.I)
+ALLOWED = re.compile(r"^(no restrictions|public domain|pd|cc0|cc[ -]by(-sa)?([ -]\d\.\d)?|cc[ -]by(-sa)? \d\.\d)", re.I)
 OUT = "out_adaylar"
 os.makedirs(OUT, exist_ok=True)
 FONT = ImageFont.truetype("fonts/Inter-SemiBold.otf", 18)
