@@ -628,8 +628,8 @@ def anim_rota(layer, spec, lt, dur):
     def pt(u):
         return ((1-u)**2*A[0] + 2*(1-u)*u*C[0] + u**2*B[0], (1-u)**2*A[1] + 2*(1-u)*u*C[1] + u**2*B[1])
     n = int(spec.get("sayac", 1))
-    span = max(0.6, (dur - 0.8) / n)
-    tt = max(0.0, lt - 0.5)
+    span = max(0.25, (dur - 0.9) / n)
+    tt = max(0.0, lt - 0.3)
     k_i = min(n - 1, int(tt / span)); u = clamp((tt - k_i * span) / (span * 0.85))
     if n == 1: u = clamp(tt / max(0.6, dur - 1.0))
     steps = 60
@@ -643,7 +643,8 @@ def anim_rota(layer, spec, lt, dur):
     x, y = pt(u)
     d.ellipse([x - 16, y - 16, x + 16, y + 16], fill=with_alpha(AMBER, a))
     if n > 1:
-        _txt(layer, (W / 2, 920), f"{k_i + 1}. SEFER", font=F_SERIF(78), fill=with_alpha(AMBER, a), anchor="mm")
+        son = tt >= n * span
+        _txt(layer, (W / 2, 920), f"{n} SEFER" if son else f"{k_i + 1}. SEFER", font=F_SERIF(78), fill=with_alpha(AMBER, a), anchor="mm")
     elif spec.get("alt"):
         ke = ease((lt - 0.8) / 0.4)
         _txt(layer, (W / 2, 920), spec["alt"], font=F_SERIF(70), fill=with_alpha(AMBER, ke), anchor="mm")
