@@ -12,7 +12,7 @@
     "https://collections.ushmm.org/search/catalog/pa1133512",
     "https://ebreidirodi1944.cdec.it/en/exceptions-to-the-deportation/released-by-the-nazi-authorities/"
   ],
-  "revizyon": 2,
+  "revizyon": 3,
   "dis_ses": {
     "file": "assets/ses/020_ulkumen.mp3",
     "kesimler": [
@@ -20,9 +20,7 @@
         [
           0.0,
           4.85
-        ]
-      ],
-      [
+        ],
         [
           5.4,
           7.14
@@ -37,12 +35,6 @@
       [
         [
           11.38,
-          13.1
-        ]
-      ],
-      [
-        [
-          13.53,
           16.96
         ]
       ],
@@ -67,24 +59,12 @@
       [
         [
           29.66,
-          32.57
-        ]
-      ],
-      [
-        [
-          33.1,
           37.1
         ]
       ],
       [
         [
           37.56,
-          42.27
-        ]
-      ],
-      [
-        [
-          42.8,
           45.77
         ]
       ],
@@ -103,30 +83,12 @@
       [
         [
           56.98,
-          59.95
-        ]
-      ],
-      [
-        [
-          59.95,
-          62.78
-        ]
-      ],
-      [
-        [
-          63.21,
           64.88
         ]
       ],
       [
         [
           65.36,
-          67.26
-        ]
-      ],
-      [
-        [
-          67.76,
           70.93
         ]
       ],
@@ -145,12 +107,6 @@
       [
         [
           81.33,
-          83.8
-        ]
-      ],
-      [
-        [
-          83.8,
           87.53
         ]
       ],
@@ -158,9 +114,7 @@
         [
           88.09,
           90.71
-        ]
-      ],
-      [
+        ],
         [
           91.04,
           97.02
@@ -175,24 +129,12 @@
       [
         [
           100.96,
-          105.37
-        ]
-      ],
-      [
-        [
-          105.37,
           108.78
         ]
       ],
       [
         [
           109.26,
-          111.13
-        ]
-      ],
-      [
-        [
-          111.39,
           114.27
         ]
       ],
@@ -210,10 +152,11 @@
   },
   "segments": [
     {
-      "say": "Bir Türk diplomat, Nazilerin elinden 42 insanın kurtulmasına yardım etti.",
-      "caption": "Bir Türk diplomat, Nazilerin elinden 42 insanın kurtulmasına yardım etti.",
+      "say": "Bir Türk diplomat, Nazilerin elinden 42 insanın kurtulmasına yardım etti. Peki, bunu nasıl başardı?",
+      "caption": "Bir Türk diplomat, Nazilerin elinden 42 insanın kurtulmasına yardım etti. Peki, bunu nasıl başardı?",
       "key": [
-        "42"
+        "42",
+        "nasıl"
       ],
       "image": {
         "file": "File:Rhodos Stadt, Mai 2016 08.JPG",
@@ -221,19 +164,7 @@
       },
       "scene": "photo",
       "title": "42 hayat",
-      "subtitle": "RODOS, 1944"
-    },
-    {
-      "say": "Peki, bunu nasıl başardı?",
-      "caption": "Peki, bunu nasıl başardı?",
-      "key": [
-        "nasıl"
-      ],
-      "image": {
-        "file": "File:Jewish Quarter in the Old Town, Rhodes (4016756958).jpg",
-        "fit": "tam"
-      },
-      "scene": "photo"
+      "subtitle": "RODOS'TAKİ HOLOKOST ANITI"
     },
     {
       "say": "Gerçekte var olmayan bir kanun iddiasıyla…",
@@ -242,7 +173,7 @@
         "kanun"
       ],
       "image": {
-        "file": "File:Rhodes Synagogue.JPG",
+        "file": "File:Rhodos Stadt, Mai 2016 08.JPG",
         "fit": "tam"
       },
       "scene": "photo",
@@ -254,22 +185,10 @@
       }
     },
     {
-      "say": "Yıl 1944.",
-      "caption": "Yıl 1944.",
+      "say": "Yıl 1944. Rodos Adası, Nazi Almanyası'nın işgali altındaydı.",
+      "caption": "Yıl 1944. Rodos Adası, Nazi Almanyası'nın işgali altındaydı.",
       "key": [
-        "1944."
-      ],
-      "image": {
-        "file": "File:Palace of the Grand Master of the Knights of Rhodes 3.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo",
-      "title": "1944"
-    },
-    {
-      "say": "Rodos Adası, Nazi Almanyası'nın işgali altındaydı.",
-      "caption": "Rodos Adası, Nazi Almanyası'nın işgali altındaydı.",
-      "key": [
+        "1944.",
         "işgali"
       ],
       "image": {
@@ -277,7 +196,7 @@
         "fit": "tam"
       },
       "scene": "photo",
-      "title": "Rodos Adası",
+      "title": "Rodos, 1944",
       "subtitle": "ALMAN İŞGALİ"
     },
     {
@@ -288,7 +207,7 @@
         "Ülkümen'di."
       ],
       "image": {
-        "file": "File:Mandraki Harbour Entrance Port of Rhodes 21 August 2023.jpg",
+        "file": "File:Rhodes, Grand Master Palace 02.JPG",
         "fit": "tam"
       },
       "scene": "photo",
@@ -306,7 +225,7 @@
         "Temmuz"
       ],
       "image": {
-        "file": "File:Kahal Shalom Synagogue entrance 2010.jpg",
+        "file": "File:Jewish Quarter in the Old Town, Rhodes (4016756958).jpg",
         "fit": "tam"
       },
       "scene": "photo",
@@ -326,50 +245,29 @@
       "scene": "photo"
     },
     {
-      "say": "Ülkümen, olup biteni öğrendiğinde harekete geçti.",
-      "caption": "Ülkümen, olup biteni öğrendiğinde harekete geçti.",
+      "say": "Ülkümen, olup biteni öğrendiğinde harekete geçti. Önce Türk vatandaşı olan Yahudilerin serbest bırakılmasını istedi.",
+      "caption": "Ülkümen, olup biteni öğrendiğinde harekete geçti. Önce Türk vatandaşı olan Yahudilerin serbest bırakılmasını istedi.",
       "key": [
-        "harekete"
-      ],
-      "image": {
-        "file": "File:Vizantiou in Medieval Rhodes 2010.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "Önce Türk vatandaşı olan Yahudilerin serbest bırakılmasını istedi.",
-      "caption": "Önce Türk vatandaşı olan Yahudilerin serbest bırakılmasını istedi.",
-      "key": [
-        "Türk",
+        "harekete",
         "serbest"
       ],
       "image": {
-        "file": "File:Rosi, Kahal Shalom Synagogue 02.JPG",
+        "file": "File:Kahal Shalom Synagogue entrance 2010.jpg",
         "fit": "tam"
       },
-      "scene": "photo"
+      "scene": "photo",
+      "title": "Kahal Shalom",
+      "subtitle": "RODOS'UN SİNAGOGU"
     },
     {
-      "say": "Fakat kurtarmak istediği insanlar arasında Türk vatandaşı olmayanlar da vardı.",
-      "caption": "Fakat kurtarmak istediği insanlar arasında Türk vatandaşı olmayanlar da vardı.",
+      "say": "Fakat kurtarmak istediği insanlar arasında Türk vatandaşı olmayanlar da vardı. İşte tam bu noktada, cesur bir hamle yaptı.",
+      "caption": "Fakat kurtarmak istediği insanlar arasında Türk vatandaşı olmayanlar da vardı. İşte tam bu noktada, cesur bir hamle yaptı.",
       "key": [
-        "olmayanlar"
-      ],
-      "image": {
-        "file": "File:Rosi, Kahal Shalom Synagogue 04.JPG",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "İşte tam bu noktada, cesur bir hamle yaptı.",
-      "caption": "İşte tam bu noktada, cesur bir hamle yaptı.",
-      "key": [
+        "olmayanlar",
         "cesur"
       ],
       "image": {
-        "file": "File:Gate walls grand master palace Rhodes.jpg",
+        "file": "File:Rhodes Synagogue.JPG",
         "fit": "tam"
       },
       "scene": "photo"
@@ -381,7 +279,7 @@
         "eşlerinin"
       ],
       "image": {
-        "file": "File:Palace of the Grand Masters of Rhodes - Windows 01.jpg",
+        "file": "File:Rhodes Synagogue.JPG",
         "fit": "tam"
       },
       "scene": "photo",
@@ -399,7 +297,7 @@
         "dayanmıyordu."
       ],
       "image": {
-        "file": "File:Palace of the Grand Masters of Rhodes - Window.jpg",
+        "file": "File:Rhodes Synagogue.JPG",
         "fit": "tam"
       },
       "scene": "photo",
@@ -411,50 +309,27 @@
       }
     },
     {
-      "say": "Ülkümen, bu iddiayı Almanları ikna etmek",
-      "caption": "Ülkümen, bu iddiayı Almanları ikna etmek",
+      "say": "Ülkümen, bu iddiayı Almanları ikna etmek ve daha fazla insanı kurtarmak için kullandı. Ve girişimi sonuç verdi.",
+      "caption": "Ülkümen, bu iddiayı Almanları ikna etmek ve daha fazla insanı kurtarmak için kullandı. Ve girişimi sonuç verdi.",
       "key": [
-        "ikna"
-      ],
-      "image": {
-        "file": "File:Square in north old town of Rhodes 2010.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "ve daha fazla insanı kurtarmak için kullandı.",
-      "caption": "ve daha fazla insanı kurtarmak için kullandı.",
-      "key": [
-        "kurtarmak"
-      ],
-      "image": {
-        "file": "File:Square in north old town of Rhodes 2010 2.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "Ve girişimi sonuç verdi.",
-      "caption": "Ve girişimi sonuç verdi.",
-      "key": [
+        "ikna",
         "sonuç"
       ],
       "image": {
-        "file": "File:Rosi, Kahal Shalom Synagogue, patio 02.JPG",
+        "file": "File:Rosi, Kahal Shalom Synagogue 02.JPG",
         "fit": "tam"
       },
       "scene": "photo"
     },
     {
-      "say": "Kırk iki kişi serbest bırakıldı.",
-      "caption": "Kırk iki kişi serbest bırakıldı.",
+      "say": "Kırk iki kişi serbest bırakıldı. Üstelik bu kişilerin hepsi Türk vatandaşı değildi.",
+      "caption": "Kırk iki kişi serbest bırakıldı. Üstelik bu kişilerin hepsi Türk vatandaşı değildi.",
       "key": [
         "Kırk",
         "iki"
       ],
       "image": {
-        "file": "File:Rosi, Kahal Shalom Synagogue, patio 01.JPG",
+        "file": "File:Rosi, Kahal Shalom Synagogue 02.JPG",
         "fit": "tam"
       },
       "scene": "photo",
@@ -462,20 +337,11 @@
         "tur": "kart",
         "ust": "SERBEST BIRAKILANLAR",
         "baslik": "42 kişi",
-        "bekle": 5
+        "bekle": 2.2,
+        "maddeler": [
+          "Hepsi Türk vatandaşı değildi"
+        ]
       }
-    },
-    {
-      "say": "Üstelik bu kişilerin hepsi Türk vatandaşı değildi.",
-      "caption": "Üstelik bu kişilerin hepsi Türk vatandaşı değildi.",
-      "key": [
-        "değildi."
-      ],
-      "image": {
-        "file": "File:Rosi, Kahal Shalom Synagogue, patio 03.JPG",
-        "fit": "tam"
-      },
-      "scene": "photo"
     },
     {
       "say": "Ancak Rodos'taki Yahudi toplumunun büyük bölümü aynı kurtuluşa ulaşamadı.",
@@ -489,7 +355,7 @@
       },
       "scene": "photo",
       "title": "Kurtulamayanlar",
-      "subtitle": "KAHAL SHALOM SİNAGOGU"
+      "subtitle": "SİNAGOGDAKİ İSİM LİSTESİ"
     },
     {
       "say": "Yaklaşık 1700 Yahudi sürgün edilerek Auschwitz'e gönderildi.",
@@ -507,10 +373,11 @@
       "subtitle": "YAKLAŞIK 1.700 KİŞİ"
     },
     {
-      "say": "Selahattin Ülkümen'in müdahalesi,",
-      "caption": "Selahattin Ülkümen'in müdahalesi,",
+      "say": "Selahattin Ülkümen'in müdahalesi, kurtarılan insanlar için hayatla ölüm arasındaki farkı oluşturdu.",
+      "caption": "Selahattin Ülkümen'in müdahalesi, kurtarılan insanlar için hayatla ölüm arasındaki farkı oluşturdu.",
       "key": [
-        "müdahalesi,"
+        "hayatla",
+        "ölüm"
       ],
       "image": {
         "file": "File:2019 Auschwitz-Birkenau 00463-Michelides.jpg",
@@ -519,45 +386,19 @@
       "scene": "photo"
     },
     {
-      "say": "kurtarılan insanlar için hayatla ölüm arasındaki farkı oluşturdu.",
-      "caption": "kurtarılan insanlar için hayatla ölüm arasındaki farkı oluşturdu.",
+      "say": "Yıllar sonra, 1989'da, Holokost anısına ve kurtarma çabalarına ilişkin çalışmalarıyla bilinen Yad Vaşem,",
+      "caption": "Yıllar sonra, 1989'da, Holokost anısına ve kurtarma çabalarına ilişkin çalışmalarıyla bilinen Yad Vaşem,",
       "key": [
-        "hayatla",
-        "ölüm"
-      ],
-      "image": {
-        "file": "File:Auschwitz rose P5190046.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "Yıllar sonra, 1989'da,",
-      "caption": "Yıllar sonra, 1989'da,",
-      "key": [
-        "1989'da,"
+        "1989'da,",
+        "Vaşem,"
       ],
       "image": {
         "file": "File:136057 garden of the righteous among the nations yad vas PikiWiki Israel.jpg",
         "fit": "tam"
       },
       "scene": "photo",
-      "title": "1989"
-    },
-    {
-      "say": "Holokost anısına ve kurtarma çabalarına ilişkin çalışmalarıyla bilinen Yad Vaşem,",
-      "caption": "Holokost anısına ve kurtarma çabalarına ilişkin çalışmalarıyla bilinen Yad Vaşem,",
-      "key": [
-        "Yad",
-        "Vaşem,"
-      ],
-      "image": {
-        "file": "File:136056 garden of the righteous among the nations yad vas PikiWiki Israel.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo",
       "title": "Yad Vashem",
-      "subtitle": "KUDÜS"
+      "subtitle": "1989"
     },
     {
       "say": "Ülkümen'i \"Uluslar Arasında Dürüst\" unvanıyla onurlandırdı.",
@@ -574,50 +415,26 @@
       "subtitle": "DÜRÜSTLER BAHÇESİ"
     },
     {
-      "say": "Bazen bir insanın hayatını değiştirmek için büyük bir güce değil,",
-      "caption": "Bazen bir insanın hayatını değiştirmek için büyük bir güce değil,",
-      "key": [
-        "güce"
-      ],
-      "image": {
-        "file": "File:136141 garden of the righteous among the nations yad vas PikiWiki Israel.jpg",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "doğru anda alınmış cesur bir karara ihtiyaç vardır.",
-      "caption": "doğru anda alınmış cesur bir karara ihtiyaç vardır.",
+      "say": "Bazen bir insanın hayatını değiştirmek için büyük bir güce değil, doğru anda alınmış cesur bir karara ihtiyaç vardır.",
+      "caption": "Bazen bir insanın hayatını değiştirmek için büyük bir güce değil, doğru anda alınmış cesur bir karara ihtiyaç vardır.",
       "key": [
         "cesur",
         "karara"
       ],
       "image": {
-        "file": "File:136128 garden of the righteous among the nations PikiWiki Israel.jpg",
+        "file": "File:136056 garden of the righteous among the nations yad vas PikiWiki Israel.jpg",
         "fit": "tam"
       },
       "scene": "photo"
     },
     {
-      "say": "Selahattin Ülkümen'in hikâyesi",
-      "caption": "Selahattin Ülkümen'in hikâyesi",
-      "key": [
-        "hikâyesi"
-      ],
-      "image": {
-        "file": "File:Rhodos Stadt, Mai 2016 09.JPG",
-        "fit": "tam"
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "bunun unutulmaması gereken örneklerinden biri.",
-      "caption": "bunun unutulmaması gereken örneklerinden biri.",
+      "say": "Selahattin Ülkümen'in hikâyesi bunun unutulmaması gereken örneklerinden biri.",
+      "caption": "Selahattin Ülkümen'in hikâyesi bunun unutulmaması gereken örneklerinden biri.",
       "key": [
         "unutulmaması"
       ],
       "image": {
-        "file": "File:Saint Nicolas Fort Rhodes Harbour night.jpg",
+        "file": "File:Rhodos Stadt, Mai 2016 09.JPG",
         "fit": "tam"
       },
       "scene": "photo"
@@ -629,7 +446,7 @@
         "muydunuz?"
       ],
       "image": {
-        "file": "File:Mandraki Harbour Entrance Port of Rhodes 21 August 2023.jpg",
+        "file": "File:Rosi, Kahal Shalom Synagogue 01.JPG",
         "fit": "tam"
       },
       "scene": "photo",
