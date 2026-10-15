@@ -438,7 +438,11 @@ def photo_scene(layer, seg_idx, lt, dur):
     d2 = ImageDraw.Draw(layer)
     k = 1.0 if seg_idx == 0 else ease((lt - 0.25) / 0.45)  # açılış başlığı ilk kareden ekranda
     if seg.get("subtitle"):
-        d2.text((W / 2, 1075 + 14 * (1 - k)), seg["subtitle"], font=F_UI(40), fill=with_alpha(AMBER, k), anchor="mm")
+        sy = 1075 + 14 * (1 - k)
+        bx = d2.textbbox((W / 2, sy), seg["subtitle"], font=F_UI(40), anchor="mm")
+        d2.rounded_rectangle([bx[0] - 22, bx[1] - 14, bx[2] + 22, bx[3] + 14], radius=14,
+                             fill=(10, 12, 16, int(200 * k)))   # açık renkli fotoğraf üstünde okunabilsin
+        d2.text((W / 2, sy), seg["subtitle"], font=F_UI(40), fill=with_alpha(AMBER, k), anchor="mm")
     if seg.get("title"):
         size = 150
         while size > 70 and d2.textlength(seg["title"], font=F_SERIF(size)) > W - 120: size -= 6
