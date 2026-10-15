@@ -1,19 +1,23 @@
 {
-  "bolum": "019_kus_evleri",
+  "bolum": "020_ulkumen",
   "min_w": 800,
   "sorgular": [
-    "Ottoman birdhouse",
-    "bird house mosque Istanbul",
-    "kuş evi cami",
-    "kuş köşkü",
-    "Ayazma Mosque birdhouse",
-    "Ayazma Camii Üsküdar",
-    "Selimiye Mosque Üsküdar birdhouse",
-    "Yeni Valide Mosque Üsküdar birdhouse",
-    "birdhouse Istanbul mosque facade",
-    "Ottoman bird palace",
-    "pigeons mosque Istanbul",
-    "Üsküdar mosque"
+    "Selahattin Ülkümen",
+    "Rhodes Jewish Quarter",
+    "Kahal Shalom Synagogue Rhodes",
+    "Rhodes Jewish martyrs square",
+    "Rhodes Holocaust memorial",
+    "Rhodes old town 1940s",
+    "Rhodes harbour Mandraki",
+    "Rhodes Palace of the Grand Master",
+    "Rhodes 1944",
+    "Jews of Rhodes deportation 1944",
+    "Auschwitz Birkenau gate",
+    "Auschwitz railway",
+    "Yad Vashem Righteous Among the Nations garden",
+    "Yad Vashem wall of honor",
+    "Turkish consulate Rhodes",
+    "Marmaris harbour"
   ],
   "incele": []
 }
