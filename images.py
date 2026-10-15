@@ -12,7 +12,7 @@ import requests
 
 API = "https://commons.wikimedia.org/w/api.php"
 HEADERS = {"User-Agent": "SiradanDegilShorts/1.0 (https://github.com/Mrc60/Claud-depo-; YouTube Shorts, credits in description)"}
-ALLOWED = re.compile(r"^(public domain|pd|cc0|cc[ -]by(-sa)?([ -]\d\.\d)?|cc[ -]by(-sa)? \d\.\d)", re.I)
+ALLOWED = re.compile(r"^(no restrictions|public domain|pd|cc0|cc[ -]by(-sa)?([ -]\d\.\d)?|cc[ -]by(-sa)? \d\.\d)", re.I)
 MIN_W = 900
 
 def api(**params):

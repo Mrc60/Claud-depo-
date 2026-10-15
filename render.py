@@ -597,7 +597,58 @@ def anim_takvim(layer, spec, lt, dur):
     ke = ease((lt - 0.5 - 13 * per - 0.2) / 0.4)
     _txt(layer, (W / 2, 930), spec.get("alt", "13 TARİH ATLANDI"), font=F_SERIF(70), fill=with_alpha(AMBER, ke), anchor="mm")
 
-ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman, "hafta": anim_hafta, "takvim": anim_takvim}
+def anim_kart(layer, spec, lt, dur):
+    """Bilgi kartı: küçük üst yazı, büyük başlık, maddeler sırayla belirir."""
+    a = ease(lt / 0.45)
+    _card(layer, [70, 250, W - 70, 1010], a)
+    _txt(layer, (W / 2, 330), spec.get("ust", ""), font=F_UI(40), fill=with_alpha(AMBER, a), anchor="mm")
+    kb = ease((lt - 0.25) / 0.45)
+    bas = spec.get("baslik", "")
+    size = 130
+    d = ImageDraw.Draw(layer)
+    while size > 60 and d.textlength(bas, font=F_SERIF(size)) > W - 220: size -= 6
+    _txt(layer, (W / 2, 470 + 20 * (1 - kb)), bas, font=F_SERIF(size), fill=with_alpha(CREAM, kb), anchor="mm")
+    items = spec.get("maddeler", [])
+    t0 = float(spec.get("bekle", 0.9)); per = max(0.35, (dur - t0 - 0.6) / max(1, len(items)))
+    for i, it in enumerate(items):
+        k = ease((lt - t0 - i * per) / 0.35)
+        if k <= 0: continue
+        y = 620 + i * 95
+        d.ellipse([200 - 12, y - 12, 200 + 12, y + 12], fill=with_alpha(AMBER, k))
+        _txt(layer, (240 + 20 * (1 - k), y), it, font=F_UI(52), fill=with_alpha(CREAM, k), anchor="lm")
+
+def anim_rota(layer, spec, lt, dur):
+    """İstanbul -> Pire şematik rota: yol çizilir, gemi noktası ilerler, sefer sayacı artar."""
+    a = ease(lt / 0.45)
+    _card(layer, [70, 250, W - 70, 1010], a)
+    d = ImageDraw.Draw(layer)
+    _txt(layer, (W / 2, 320), spec.get("ust", ""), font=F_UI(40), fill=with_alpha(AMBER, a), anchor="mm")
+    A, B = (790, 450), (300, 800)   # İstanbul (kuzeydoğu), Pire (güneybatı) - şematik, ölçeksiz
+    C = (720, 760)                  # Ege'ye doğru kavis
+    def pt(u):
+        return ((1-u)**2*A[0] + 2*(1-u)*u*C[0] + u**2*B[0], (1-u)**2*A[1] + 2*(1-u)*u*C[1] + u**2*B[1])
+    n = int(spec.get("sayac", 1))
+    span = max(0.6, (dur - 0.8) / n)
+    tt = max(0.0, lt - 0.5)
+    k_i = min(n - 1, int(tt / span)); u = clamp((tt - k_i * span) / (span * 0.85))
+    if n == 1: u = clamp(tt / max(0.6, dur - 1.0))
+    steps = 60
+    for j in range(steps):
+        u0, u1 = j / steps, (j + 0.5) / steps
+        col = with_alpha(CREAM, 0.25 * a) if u1 > u else with_alpha(AMBER, a)
+        d.line([pt(u0), pt(u1)], fill=col, width=7)
+    for (x, y), ad, anc in ((A, spec.get("bas", "İSTANBUL"), "lm"), (B, spec.get("son", "PİRE"), "rm")):
+        d.ellipse([x - 20, y - 20, x + 20, y + 20], fill=with_alpha(CREAM, a), outline=(6, 11, 18, int(255 * a)), width=5)
+        _txt(layer, (x + (40 if anc == "lm" else -40), y), ad, font=F_UI(46), fill=with_alpha(CREAM, a), anchor=anc)
+    x, y = pt(u)
+    d.ellipse([x - 16, y - 16, x + 16, y + 16], fill=with_alpha(AMBER, a))
+    if n > 1:
+        _txt(layer, (W / 2, 920), f"{k_i + 1}. SEFER", font=F_SERIF(78), fill=with_alpha(AMBER, a), anchor="mm")
+    elif spec.get("alt"):
+        ke = ease((lt - 0.8) / 0.4)
+        _txt(layer, (W / 2, 920), spec["alt"], font=F_SERIF(70), fill=with_alpha(AMBER, ke), anchor="mm")
+
+ANIMS = {"bolusme": anim_bolusme, "zaman": anim_zaman, "hafta": anim_hafta, "takvim": anim_takvim, "kart": anim_kart, "rota": anim_rota}
 
 def render_frame(t, idx):
     f = BG.copy()

@@ -1,0 +1,246 @@
+{
+  "episode": 18,
+  "slug": "kurtulus",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "Kurtuluş gemisi",
+  "youtube_title": "Türkiye'den aç Yunanistan'a yardım gemisi: Kurtuluş! #SıradanDeğil 18",
+  "youtube_description": "İkinci Dünya Savaşı'nda Türkiye'den Yunanistan'a giden yardım gemisi Kurtuluş.",
+  "sources": [
+    "https://atamdergi.gov.tr/tam-metin/121/tur",
+    "https://dergipark.org.tr/tr/pub/ataunitaed/issue/2885/39872",
+    "https://dergipark.org.tr/tr/download/article-file/417373"
+  ],
+  "revizyon": 1,
+  "dis_ses": {
+    "file": "assets/ses/018_kurtulus.mp3",
+    "kesimler": [
+      [
+        [
+          0.0,
+          7.87
+        ]
+      ],
+      [
+        [
+          8.7,
+          18.49
+        ]
+      ],
+      [
+        [
+          19.13,
+          28.01
+        ]
+      ],
+      [
+        [
+          28.52,
+          35.89
+        ]
+      ],
+      [
+        [
+          36.4,
+          38.87
+        ]
+      ],
+      [
+        [
+          39.22,
+          48.82
+        ]
+      ],
+      [
+        [
+          49.34,
+          52.53
+        ],
+        [
+          53.11,
+          60.62
+        ]
+      ],
+      [
+        [
+          61.14,
+          64.31
+        ]
+      ],
+      [
+        [
+          64.91,
+          68.9
+        ],
+        [
+          69.29,
+          78.19
+        ]
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "say": "İkinci Dünya Savaşı sırasında, açlıkla mücadele eden bir ülkeye Türkiye'den yardım gemisi gönderildi. Peki, neden?",
+      "caption": "İkinci Dünya Savaşı sırasında, açlıkla mücadele eden bir ülkeye Türkiye'den yardım gemisi gönderildi. Peki, neden?",
+      "key": [
+        "açlıkla",
+        "yardım"
+      ],
+      "image": {
+        "file": "File:German dive bombers attacking harbor installations, Piraeus, Greece, 1941 (24519722426).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Bir yardım gemisi",
+      "subtitle": "İKİNCİ DÜNYA SAVAŞI"
+    },
+    {
+      "say": "Yıl 1941. Yunanistan, Almanya ve İtalya'nın işgali altındaydı. Savaş ve gıda sıkıntısı yüzünden insanlar açlık çekiyordu.",
+      "caption": "Yıl 1941. Yunanistan, Almanya ve İtalya'nın işgali altındaydı. Savaş ve gıda sıkıntısı yüzünden insanlar açlık çekiyordu.",
+      "key": [
+        "1941.",
+        "açlık"
+      ],
+      "image": {
+        "file": "File:German dive bombers attacking harbor installations, Piraeus, Greece, 1941 (24519722426).jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "anim": {
+        "tur": "kart",
+        "ust": "YUNANİSTAN · 1941",
+        "baslik": "İşgal ve kıtlık",
+        "maddeler": [
+          "Almanya ve İtalya işgali",
+          "Gıda sıkıntısı",
+          "Açlık"
+        ]
+      }
+    },
+    {
+      "say": "Türkiye, bu insanlara yardım etmek için harekete geçti. Kızılay öncülüğünde gıda malzemeleri toplandı ve bir Türk gemisi yola çıktı.",
+      "caption": "Türkiye, bu insanlara yardım etmek için harekete geçti. Kızılay öncülüğünde gıda malzemeleri toplandı ve bir Türk gemisi yola çıktı.",
+      "key": [
+        "Kızılay",
+        "yola"
+      ],
+      "image": {
+        "file": "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807).jpg",
+        "fit": "tam",
+        "min_w": 600
+      },
+      "scene": "photo",
+      "title": "Kızılay",
+      "subtitle": "ANKARA, 1940'LAR"
+    },
+    {
+      "say": "Geminin adı Kurtuluş'tu. Ambarında silah değil; fasulye, nohut, soğan ve başka gıda malzemeleri vardı.",
+      "caption": "Geminin adı Kurtuluş'tu. Ambarında silah değil; fasulye, nohut, soğan ve başka gıda malzemeleri vardı.",
+      "key": [
+        "Kurtuluş'tu.",
+        "silah"
+      ],
+      "image": {
+        "file": "File:Marmara Island aerial view.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "anim": {
+        "tur": "kart",
+        "ust": "YARDIM GEMİSİ",
+        "baslik": "KURTULUŞ",
+        "bekle": 1.8,
+        "maddeler": [
+          "Fasulye",
+          "Nohut",
+          "Soğan",
+          "Başka gıda malzemeleri"
+        ]
+      }
+    },
+    {
+      "say": "Kurtuluş, Yunanistan'a beş sefer yaptı.",
+      "caption": "Kurtuluş, Yunanistan'a beş sefer yaptı.",
+      "key": [
+        "beş"
+      ],
+      "image": {
+        "file": "File:Şarköyden Marmara Adası.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "anim": {
+        "tur": "rota",
+        "ust": "KURTULUŞ'UN SEFERLERİ",
+        "sayac": 5
+      }
+    },
+    {
+      "say": "Fakat 1942 kışında, altıncı yolculuğu sırasında fırtınaya yakalandı. Marmara Adası yakınlarında kayalıklara çarparak battı.",
+      "caption": "Fakat 1942 kışında, altıncı yolculuğu sırasında fırtınaya yakalandı. Marmara Adası yakınlarında kayalıklara çarparak battı.",
+      "key": [
+        "fırtınaya",
+        "battı."
+      ],
+      "image": {
+        "file": "File:Admiralty Chart No 2242 Marmara Island and Pasha Liman Group, Published 1880.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Marmara Adası",
+      "subtitle": "1942 KIŞI"
+    },
+    {
+      "say": "Peki, gemi battıktan sonra yardım sona mı erdi? Hayır. Devlet Denizyolları'na ait Dumlupınar adlı başka bir gemi görevi devraldı ve yardım seferleri devam etti.",
+      "caption": "Peki, gemi battıktan sonra yardım sona mı erdi? Hayır. Devlet Denizyolları'na ait Dumlupınar adlı başka bir gemi görevi devraldı ve yardım seferleri devam etti.",
+      "key": [
+        "Hayır.",
+        "Dumlupınar"
+      ],
+      "image": {
+        "file": "File:Marmara Island aerial view.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "anim": {
+        "tur": "kart",
+        "ust": "GÖREVİ DEVRALAN GEMİ",
+        "baslik": "DUMLUPINAR",
+        "bekle": 3.6,
+        "maddeler": [
+          "Yardım seferleri devam etti"
+        ]
+      }
+    },
+    {
+      "say": "Kurtuluş gemisi battı… ama yardım durmadı.",
+      "caption": "Kurtuluş gemisi battı… ama yardım durmadı.",
+      "key": [
+        "durmadı."
+      ],
+      "image": {
+        "file": "File:Şarköyden Marmara Adası.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Yardım durmadı",
+      "subtitle": "MARMARA ADASI"
+    },
+    {
+      "say": "Peki siz, Kurtuluş gemisinin hikâyesini daha önce duymuş muydunuz? Yorumlarda buluşalım. Böyle az bilinen gerçek tarih hikâyelerini seviyorsanız Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+      "caption": "Peki siz, Kurtuluş gemisinin hikâyesini daha önce duymuş muydunuz? Yorumlarda buluşalım. Böyle az bilinen gerçek tarih hikâyelerini seviyorsanız Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+      "key": [
+        "muydunuz?"
+      ],
+      "image": {
+        "file": "File:Marmara Island aerial view.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Duymuş muydunuz?",
+      "subtitle": "YORUMLARDA BULUŞALIM"
+    }
+  ]
+}
