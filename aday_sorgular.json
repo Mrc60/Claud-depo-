@@ -1,12 +1,19 @@
 {
-  "bolum": "018_kurtulus",
+  "bolum": "019_kus_evleri",
   "min_w": 800,
   "sorgular": [
-    "Atatürk Boulevard General Directorate of Turkish Red Crescent 1940's 16645153807",
-    "Kızılay Genel Müdürlüğü 1940",
-    "Turkish Red Crescent BYEGM",
-    "Kızılay 1940s Ankara BYEGM",
-    "Türk Kızılayı tarih fotoğraf"
+    "Ottoman birdhouse",
+    "bird house mosque Istanbul",
+    "kuş evi cami",
+    "kuş köşkü",
+    "Ayazma Mosque birdhouse",
+    "Ayazma Camii Üsküdar",
+    "Selimiye Mosque Üsküdar birdhouse",
+    "Yeni Valide Mosque Üsküdar birdhouse",
+    "birdhouse Istanbul mosque facade",
+    "Ottoman bird palace",
+    "pigeons mosque Istanbul",
+    "Üsküdar mosque"
   ],
-  "incele": ["File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807).jpg"]
+  "incele": []
 }
