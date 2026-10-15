@@ -1,16 +1,12 @@
 {
- "bolum": "018_kurtulus",
- "min_w": 800,
- "sorgular": [
-  "Piraeus 1941 harbour"
- ],
- "incele": [
-  "File:German dive bombers attacking harbor installations, Piraeus, Greece, 1941 (24519722426).jpg",
-  "File:Aerial view of Piraeus port mobbardment 30 May 1941.jpg",
-  "File:SS Knyaginya Maria Luisa burning in Piraeus 30 May 1941.jpg",
-  "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807) (Colourised).jpg",
-  "File:Admiralty Chart No 2242 Marmara Island and Pasha Liman Group, Published 1880.jpg",
-  "File:Marmara Island aerial view.jpg",
-  "File:Şarköyden Marmara Adası.jpg"
- ]
+  "bolum": "018_kurtulus",
+  "min_w": 800,
+  "sorgular": [
+    "Atatürk Boulevard General Directorate of Turkish Red Crescent 1940's 16645153807",
+    "Kızılay Genel Müdürlüğü 1940",
+    "Turkish Red Crescent BYEGM",
+    "Kızılay 1940s Ankara BYEGM",
+    "Türk Kızılayı tarih fotoğraf"
+  ],
+  "incele": ["File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807).jpg"]
 }
