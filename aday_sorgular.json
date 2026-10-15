@@ -1,21 +1,16 @@
 {
-  "bolum": "018_kurtulus",
-  "min_w": 800,
-  "sorgular": [
-    "Kurtulus ship",
-    "Kurtuluş 1883 ship",
-    "SS Kurtulus Greece",
-    "Kurtuluş gemisi",
-    "Greek Famine",
-    "famine Athens 1941",
-    "Athens 1942 occupation",
-    "Piraeus 1941",
-    "Greece 1941 German invasion",
-    "Red Crescent Turkey 1940s",
-    "Kızılay",
-    "steamship 1900s cargo",
-    "Sea of Marmara storm",
-    "Marmara Island coast rocks"
-  ],
-  "incele": ["File:FamineGrèce1941-1944.png", "File:Wehrmacht (Nazi Germany Armed Forces) soldiers hoisting the Reichskriegsflagge swastika flag at the Acropolis in Athens, May 1941.jpg"]
+ "bolum": "018_kurtulus",
+ "min_w": 800,
+ "sorgular": [
+  "Piraeus 1941 harbour"
+ ],
+ "incele": [
+  "File:German dive bombers attacking harbor installations, Piraeus, Greece, 1941 (24519722426).jpg",
+  "File:Aerial view of Piraeus port mobbardment 30 May 1941.jpg",
+  "File:SS Knyaginya Maria Luisa burning in Piraeus 30 May 1941.jpg",
+  "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807) (Colourised).jpg",
+  "File:Admiralty Chart No 2242 Marmara Island and Pasha Liman Group, Published 1880.jpg",
+  "File:Marmara Island aerial view.jpg",
+  "File:Şarköyden Marmara Adası.jpg"
+ ]
 }
