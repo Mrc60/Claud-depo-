@@ -1,0 +1,440 @@
+{
+ "episode": 21,
+ "slug": "soyadi",
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "title": "Soyadı Kanunu",
+ "youtube_title": "Soyadını kim seçti? Soyadı Kanunu 1934 #SıradanDeğil 21",
+ "youtube_description": "1934 Soyadı Kanunu'nun hikâyesi.",
+ "sources": [
+  "https://normkararlarbilgibankasi.anayasa.gov.tr/Dosyalar/Kararlar/KararPDF/2011-51-nrm.pdf",
+  "https://dergipark.org.tr/tr/download/article-file/220179",
+  "https://dergipark.org.tr/tr/download/article-file/748196",
+  "https://dergipark.org.tr/tr/download/article-file/3719959",
+  "https://dergipark.org.tr/tr/pub/auhfd/article/1491785",
+  "https://dergipark.org.tr/en/download/article-file/3780237",
+  "https://axl.cefan.ulaval.ca/asie/turquie-loi-1934fam.htm",
+  "https://dergipark.org.tr/tr/download/article-file/342228"
+ ],
+ "revizyon": 2,
+ "dis_ses": {
+  "file": "assets/ses/021_soyadi.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     3.65
+    ]
+   ],
+   [
+    [
+     4.25,
+     9.59
+    ]
+   ],
+   [
+    [
+     9.9,
+     15.38
+    ]
+   ],
+   [
+    [
+     15.64,
+     17.82
+    ]
+   ],
+   [
+    [
+     18.08,
+     23.19
+    ]
+   ],
+   [
+    [
+     23.51,
+     29.6
+    ]
+   ],
+   [
+    [
+     30.17,
+     34.25
+    ]
+   ],
+   [
+    [
+     34.72,
+     39.13
+    ]
+   ],
+   [
+    [
+     39.49,
+     41.27
+    ]
+   ],
+   [
+    [
+     41.71,
+     51.85
+    ]
+   ],
+   [
+    [
+     52.38,
+     55.22
+    ]
+   ],
+   [
+    [
+     55.5,
+     59.59
+    ]
+   ],
+   [
+    [
+     60.14,
+     65.71
+    ]
+   ],
+   [
+    [
+     66.44,
+     72.34
+    ]
+   ],
+   [
+    [
+     72.89,
+     75.37
+    ]
+   ],
+   [
+    [
+     75.87,
+     78.85
+    ]
+   ],
+   [
+    [
+     79.06,
+     86.2
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Nüfus cüzdanındaki soyadını kim seçti, hiç düşündün mü?",
+   "caption": "Nüfus cüzdanındaki soyadını kim seçti, hiç düşündün mü?",
+   "key": [
+    "soyadını",
+    "seçti,"
+   ],
+   "image": {
+    "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.22,
+     0.43,
+     0.995,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Soyadını kim seçti?",
+   "subtitle": "ESKİ NÜFUS CÜZDANI · SAMSUN KENT MÜZESİ"
+  },
+  {
+   "say": "1934'e kadar Türkiye'de herkesin soyadı taşımasını zorunlu kılan bir sistem yoktu.",
+   "caption": "1934'e kadar Türkiye'de herkesin soyadı taşımasını zorunlu kılan bir sistem yoktu.",
+   "key": [
+    "1934'e",
+    "zorunlu"
+   ],
+   "image": {
+    "file": "File:Palu Nüfus Defteri, Palu'ya Bağlı Nahiye ve Köyler.png",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "1934'ten önce",
+   "subtitle": "OSMANLI NÜFUS DEFTERİ · PALU, 1841"
+  },
+  {
+   "say": "İnsanlar çoğu zaman baba adlarıyla, lakaplarıyla ya da meslekleriyle tanınıyordu.",
+   "caption": "İnsanlar çoğu zaman baba adlarıyla, lakaplarıyla ya da meslekleriyle tanınıyordu.",
+   "key": [
+    "lakaplarıyla",
+    "meslekleriyle"
+   ],
+   "image": {
+    "file": "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (037 of 252).jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.225,
+     0.21,
+     0.795,
+     0.72
+    ]
+   },
+   "scene": "photo",
+   "title": "Baba adı, lakap, meslek",
+   "subtitle": "İSTANBUL'DA HAMALLAR · 1882"
+  },
+  {
+   "say": "Pek çok ailenin bir aile adı vardı,",
+   "caption": "Pek çok ailenin bir aile adı vardı,",
+   "key": [
+    "aile",
+    "adı"
+   ],
+   "image": {
+    "file": "File:Studio portrait of models wearing traditional clothing from İstanbul, Ottoman Empire LCCN2003690022.jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.29,
+     0.22,
+     0.8,
+     0.78
+    ]
+   },
+   "scene": "photo",
+   "title": "Aile adları vardı",
+   "subtitle": "İSTANBUL · 1873"
+  },
+  {
+   "say": "ama bunlar herkes için geçerli, ortak bir resmî soyadı sisteminin yerini tutmuyordu.",
+   "caption": "ama bunlar herkes için geçerli, ortak bir resmî soyadı sisteminin yerini tutmuyordu.",
+   "key": [
+    "ortak"
+   ],
+   "image": {
+    "file": "File:Edirne Belediye meclisi üyeleri 1930.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Ortak sistem yoktu",
+   "subtitle": "EDİRNE BELEDİYE MECLİSİ · 1930"
+  },
+  {
+   "say": "Bu durum, nüfus kayıtlarından askerlik işlemlerine kadar çeşitli alanlarda karışıklıklara yol açıyordu.",
+   "caption": "Bu durum, nüfus kayıtlarından askerlik işlemlerine kadar çeşitli alanlarda karışıklıklara yol açıyordu.",
+   "key": [
+    "karışıklıklara"
+   ],
+   "image": {
+    "file": "File:Ottoman Men conscription WWI.png",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.68
+    ]
+   },
+   "scene": "photo",
+   "title": "Nüfusta, askerlikte karışıklık",
+   "subtitle": "SEFERBERLİK · İSTANBUL, 1914–18"
+  },
+  {
+   "say": "21 Haziran 1934'te Soyadı Kanunu kabul edildi.",
+   "caption": "21 Haziran 1934'te Soyadı Kanunu kabul edildi.",
+   "key": [
+    "1934'te",
+    "Soyadı",
+    "Kanunu"
+   ],
+   "image": {
+    "file": "File:Atatürk TBMM'den çıkarken.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "21 Haziran 1934",
+   "subtitle": "TBMM BİNASI · FOTOĞRAF 1929"
+  },
+  {
+   "say": "Kanun, her Türk'ün öz adından başka bir soyadı taşımasını zorunlu kıldı.",
+   "caption": "Kanun, her Türk'ün öz adından başka bir soyadı taşımasını zorunlu kıldı.",
+   "key": [
+    "zorunlu"
+   ],
+   "image": {
+    "file": "File:Atatürk'ün nüfus hüviyet cüzdanı (Zafer Müzesi).jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.49,
+     0.08,
+     0.88,
+     0.55
+    ]
+   },
+   "scene": "photo",
+   "title": "Herkese soyadı zorunlu",
+   "subtitle": "\"AİLE İSMİ, YANİ LÂKAP VE ŞÖHRETİ\""
+  },
+  {
+   "say": "Ama her soyadı seçilemiyordu.",
+   "caption": "Ama her soyadı seçilemiyordu.",
+   "key": [
+    "seçilemiyordu."
+   ],
+   "image": {
+    "file": "File:Turkey. Ankara. Street with castle in distance LOC matpc.16720.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Ama her soyadı seçilemezdi",
+   "subtitle": "ANKARA · 1935"
+  },
+  {
+   "say": "Kanun; rütbe ve memuriyet, aşiret, yabancı ırk ve millet adlarının yanı sıra genel edebe uygun olmayan, iğrenç veya gülünç soyadlarını da yasaklıyordu.",
+   "caption": "Kanun; rütbe ve memuriyet, aşiret, yabancı ırk ve millet adlarının yanı sıra genel edebe uygun olmayan, iğrenç veya gülünç soyadlarını da yasaklıyordu.",
+   "key": [
+    "yasaklıyordu."
+   ],
+   "image": {
+    "file": "File:Victory Monument in Ulus Square, 1st Turkish Grand National Assembly, 1930's (17075286852).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KANUN · 3. MADDE",
+    "baslik": "Yasak soyadları",
+    "bekle": 1.0,
+    "maddeler": [
+     "Rütbe ve memuriyet",
+     "Aşiret",
+     "Yabancı ırk ve millet",
+     "Genel edebe aykırı",
+     "İğrenç ya da gülünç"
+    ]
+   }
+  },
+  {
+   "say": "Aynı yıl, 24 Kasım 1934'te,",
+   "caption": "Aynı yıl, 24 Kasım 1934'te,",
+   "key": [
+    "1934'te,"
+   ],
+   "image": {
+    "file": "File:1934 11 13 Cumhuriyet Ataturk Sumerbank.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "24 Kasım 1934",
+   "subtitle": "CUMHURİYET GAZETESİ · KASIM 1934"
+  },
+  {
+   "say": "Türkiye Büyük Millet Meclisi Mustafa Kemal'e Atatürk soyadını verdi.",
+   "caption": "Türkiye Büyük Millet Meclisi Mustafa Kemal'e Atatürk soyadını verdi.",
+   "key": [
+    "Atatürk"
+   ],
+   "image": {
+    "file": "File:Atatürk'ün 993 814 seri numaralı nüfus cüzdanı.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Atatürk",
+   "subtitle": "SOYADINI MECLİS VERDİ"
+  },
+  {
+   "say": "Böylece Türkiye'de ailelerin resmî soyadı kullanması açısından yeni bir dönem başladı.",
+   "caption": "Böylece Türkiye'de ailelerin resmî soyadı kullanması açısından yeni bir dönem başladı.",
+   "key": [
+    "yeni",
+    "dönem"
+   ],
+   "image": {
+    "file": "File:Republic Boulevard, late 1930s (16851418951).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Yeni bir dönem",
+   "subtitle": "ANKARA · 1930'LARIN SONU"
+  },
+  {
+   "say": "Belki senin soyadın da bir aile büyüğünün mesleğinden, yaşadığı yerden ya da bir özelliğinden geliyor.",
+   "caption": "Belki senin soyadın da bir aile büyüğünün mesleğinden, yaşadığı yerden ya da bir özelliğinden geliyor.",
+   "key": [
+    "senin",
+    "soyadın"
+   ],
+   "image": {
+    "file": "File:Turkish holiday.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Nereden geliyor?",
+   "subtitle": "MESLEK · YER · ÖZELLİK"
+  },
+  {
+   "say": "Peki sen soyadının hikâyesini biliyor musun?",
+   "caption": "Peki sen soyadının hikâyesini biliyor musun?",
+   "key": [
+    "hikâyesini"
+   ],
+   "image": {
+    "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Hikâyesini biliyor musun?",
+   "subtitle": "ANKARA · 1930'LAR"
+  },
+  {
+   "say": "Ailen bu soyadını neden seçmiş? Yorumlara yaz!",
+   "caption": "Ailen bu soyadını neden seçmiş? Yorumlara yaz!",
+   "key": [
+    "seçmiş?"
+   ],
+   "image": {
+    "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.12,
+     0.0,
+     0.47,
+     0.5
+    ]
+   },
+   "scene": "photo",
+   "title": "Neden seçmiş?",
+   "subtitle": "YORUMLARA YAZ"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutma.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutma.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:1934 10 07 Cumhuriyet Istanbulun Kurtuslusu 2.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP ET · BEĞEN"
+  }
+ ]
+}
