@@ -43,7 +43,7 @@ def usable(p, min_w=MIN_W):
     meta = ii.get("extmetadata", {})
     lic = strip_html(meta.get("LicenseShortName", {}).get("value"))
     if not ALLOWED.match(lic): return None
-    return {"title": p["title"], "url": ii["url"], "page": ii.get("descriptionurl"),
+    return {"title": p["title"], "url": ii.get("thumburl") or ii["url"], "page": ii.get("descriptionurl"),
             "license": lic, "artist": clean_artist(strip_html(meta.get("Artist", {}).get("value")))}
 
 USED = set()
@@ -95,11 +95,20 @@ for i, seg in enumerate(ep["segments"]):
         print(f"  seg {i}: uygun fotoğraf bulunamadı ({spec}) -> başka sahnenin fotoğrafı kullanılacak")
         continue
     path = os.path.join(out, f"img_{i:02d}.jpg")
-    try:
-        img = requests.get(hit["url"], headers=HEADERS, timeout=60)
-        img.raise_for_status()
-    except Exception as e:
-        print(f"  seg {i}: indirme hatası ({e}) -> başka sahnenin fotoğrafı kullanılacak")
+    img = None
+    for deneme in range(6):  # Wikimedia hız sınırı (429) için bekleyip tekrar dene
+        try:
+            r = requests.get(hit["url"], headers=HEADERS, timeout=60)
+            if r.status_code == 429:
+                time.sleep(5 * (deneme + 1)); continue
+            r.raise_for_status(); img = r; break
+        except Exception as e:
+            print(f"  seg {i}: indirme denemesi {deneme + 1} başarısız ({e})"); time.sleep(3 * (deneme + 1))
+    time.sleep(1.0)
+    if img is None:
+        if "file" in spec:
+            sys.exit(f"HATA: seg {i} için seçilen görsel indirilemedi: {spec['file']}")
+        print(f"  seg {i}: indirilemedi -> başka sahnenin fotoğrafı kullanılacak")
         continue
     open(path, "wb").write(img.content)
     USED.add(hit["title"])
