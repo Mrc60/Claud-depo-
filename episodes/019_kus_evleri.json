@@ -1,0 +1,191 @@
+{
+  "episode": 19,
+  "slug": "kus_evleri",
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "title": "Kuş evleri",
+  "youtube_title": "Caminin duvarındaki minik saray kuşlar için! 🕊️ #SıradanDeğil 19",
+  "youtube_description": "Osmanlı camilerindeki kuş evleri.",
+  "sources": [
+    "https://www.journal18.org/issue11/like-hearts-of-birds-ottoman-avian-microarchitecture-in-the-eighteenth-century/",
+    "https://kureansiklopedi.com/tr/detay/kus-evleri-531ba"
+  ],
+  "revizyon": 1,
+  "dis_ses": {
+    "file": "assets/ses/019_kus_evleri.mp3",
+    "kesimler": [
+      [
+        [
+          0.06,
+          8.22
+        ]
+      ],
+      [
+        [
+          8.76,
+          16.15
+        ]
+      ],
+      [
+        [
+          16.68,
+          26.07
+        ]
+      ],
+      [
+        [
+          26.58,
+          33.79
+        ]
+      ],
+      [
+        [
+          34.31,
+          39.92
+        ]
+      ],
+      [
+        [
+          40.48,
+          50.51
+        ]
+      ],
+      [
+        [
+          51.09,
+          56.25
+        ]
+      ],
+      [
+        [
+          56.87,
+          61.12
+        ],
+        [
+          61.65,
+          71.0
+        ]
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "say": "İstanbul'da bir caminin duvarına dikkatle bakın… Gördüğünüz bu minik saray, insanlar için değil, kuşlar için yapılmış!",
+      "caption": "İstanbul'da bir caminin duvarına dikkatle bakın… Gördüğünüz bu minik saray, insanlar için değil, kuşlar için yapılmış!",
+      "key": [
+        "minik",
+        "kuşlar"
+      ],
+      "image": {
+        "file": "File:Ayazma Mosque 0519.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Kuşlar için bir saray",
+      "subtitle": "AYAZMA CAMİİ, ÜSKÜDAR"
+    },
+    {
+      "say": "Bunlara kuş evi ya da kuş köşkü deniyor. Amaçları, kuşlara barınabilecekleri korunaklı alanlar sağlamaktı.",
+      "caption": "Bunlara kuş evi ya da kuş köşkü deniyor. Amaçları, kuşlara barınabilecekleri korunaklı alanlar sağlamaktı.",
+      "key": [
+        "kuş",
+        "korunaklı"
+      ],
+      "image": {
+        "file": "File:Yeni Valide Camii 5668.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Kuş köşkü",
+      "subtitle": "YENİ VALİDE CAMİİ, ÜSKÜDAR"
+    },
+    {
+      "say": "Üstelik bunlar sıradan yuvalar değildi. Bazıları küçük sarayları, köşkleri ve hatta camileri andıracak kadar ayrıntılı tasarlanmıştı.",
+      "caption": "Üstelik bunlar sıradan yuvalar değildi. Bazıları küçük sarayları, köşkleri ve hatta camileri andıracak kadar ayrıntılı tasarlanmıştı.",
+      "key": [
+        "sarayları,",
+        "camileri"
+      ],
+      "image": {
+        "file": "File:Istanbul Selimiye Mosque birds' house 2019 6596.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Minik saraylar",
+      "subtitle": "SELİMİYE CAMİİ, ÜSKÜDAR"
+    },
+    {
+      "say": "Pencereleri, çıkıntıları ve süslemeleriyle Osmanlı mimarisinin dikkat çekici örnekleri arasında yer aldılar.",
+      "caption": "Pencereleri, çıkıntıları ve süslemeleriyle Osmanlı mimarisinin dikkat çekici örnekleri arasında yer aldılar.",
+      "key": [
+        "Pencereleri,",
+        "süslemeleriyle"
+      ],
+      "image": {
+        "file": "File:Ayazma Mosque 0524.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Pencereler, süslemeler",
+      "subtitle": "AYAZMA CAMİİ"
+    },
+    {
+      "say": "Bu gelenek özellikle Osmanlı döneminde gelişti ve 18. yüzyılda yaygınlaştı.",
+      "caption": "Bu gelenek özellikle Osmanlı döneminde gelişti ve 18. yüzyılda yaygınlaştı.",
+      "key": [
+        "Osmanlı",
+        "18."
+      ],
+      "image": {
+        "file": "File:Istanbul Yeni Valide Mosque bird house in 2015 5667.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "18. yüzyıl",
+      "subtitle": "YENİ VALİDE CAMİİ"
+    },
+    {
+      "say": "İstanbul'da bu mimari güzellikleri bugün hâlâ görebilirsiniz. Bunların dikkat çekici örneklerinden biri, Üsküdar'daki Ayazma Camii'nde bulunuyor.",
+      "caption": "İstanbul'da bu mimari güzellikleri bugün hâlâ görebilirsiniz. Bunların dikkat çekici örneklerinden biri, Üsküdar'daki Ayazma Camii'nde bulunuyor.",
+      "key": [
+        "bugün",
+        "Ayazma"
+      ],
+      "image": {
+        "file": "File:Ayazma Mosque DSCF4194.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Ayazma Camii",
+      "subtitle": "ÜSKÜDAR, İSTANBUL"
+    },
+    {
+      "say": "Düşünsenize… Bir binanın duvarı, aynı zamanda kuşlara da yuva olabiliyordu.",
+      "caption": "Düşünsenize… Bir binanın duvarı, aynı zamanda kuşlara da yuva olabiliyordu.",
+      "key": [
+        "duvarı,",
+        "yuva"
+      ],
+      "image": {
+        "file": "File:Ayazma birdhouse DSCF0956.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Peki siz hiç bir caminin duvarında böyle bir kuş evi gördünüz mü? Yorumlarda buluşalım. Böyle az bilinen tarih ve kültür hikâyelerini seviyorsanız Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+      "caption": "Peki siz hiç bir caminin duvarında böyle bir kuş evi gördünüz mü? Yorumlarda buluşalım. Böyle az bilinen tarih ve kültür hikâyelerini seviyorsanız Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+      "key": [
+        "gördünüz"
+      ],
+      "image": {
+        "file": "File:Ayazma Mosque birdhouse DSCF4206.jpg",
+        "fit": "tam"
+      },
+      "scene": "photo",
+      "title": "Siz gördünüz mü?",
+      "subtitle": "YORUMLARDA BULUŞALIM"
+    }
+  ]
+}
