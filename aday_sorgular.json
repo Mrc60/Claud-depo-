@@ -1,23 +1,118 @@
 {
-  "bolum": "021_soyadi_3",
-  "min_w": 600,
-  "sorgular": [
-    "1934 06 Cumhuriyet",
-    "1934 07 Cumhuriyet",
-    "1934 11 Cumhuriyet",
-    "1934 12 Cumhuriyet",
-    "1935 Cumhuriyet gazetesi",
-    "Istanbul street vendors 19th century",
-    "Ottoman porter hamal photograph",
-    "Ottoman street types photograph",
-    "Ottoman coffeehouse photograph",
-    "Ankara peasants 1930s",
-    "Turkey Matson peasants",
-    "Turkey Matson Ankara market",
-    "Anatolian village 1930s photograph",
-    "Turkish shepherd old photograph"
-  ],
-  "incele": [
-    "File:Ottoman Men conscription WWI.png"
-  ]
+ "bolum": "021_soyadi_paket",
+ "min_w": 99999,
+ "sorgular": [],
+ "incele": [
+  "File:Atatürk'ün nüfus hüviyet cüzdanı (Zafer Müzesi).jpg",
+  "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+  "File:Palu Nüfus Defteri, Palu'ya Bağlı Nahiye ve Köyler.png",
+  "File:Ottoman Men conscription WWI.png",
+  "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (037 of 252).jpg",
+  "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (225 of 252).jpg",
+  "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (226 of 252).jpg",
+  "File:Studio portrait of models wearing traditional clothing from İstanbul, Ottoman Empire LCCN2003690022.jpg",
+  "File:Atatürk TBMM'den çıkarken.jpg",
+  "File:Victory Monument in Ulus Square, 1st Turkish Grand National Assembly, 1930's (17075286852).jpg",
+  "File:Turkey. Ankara. Street with castle in distance LOC matpc.16720.jpg",
+  "File:Edirne Belediye meclisi üyeleri 1930.jpg",
+  "File:Ataturk1930s.jpg",
+  "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+  "File:Turkish holiday.jpg",
+  "File:1934 12 08 Cumhuriyet Beyazit Turk Kadinlar Birligi 2.jpg",
+  "File:1934 11 13 Cumhuriyet Ataturk Sumerbank.jpg",
+  "File:Mustafa Kemal and establishment of Turkish History Institution.png",
+  "File:Turkish women with a picture of Atatürk.jpg",
+  "File:Republic Boulevard, late 1930s (16851418951).jpg",
+  "File:1934 10 07 Cumhuriyet Istanbulun Kurtuslusu 2.jpg"
+ ],
+ "indir": [
+  {
+   "ad": "nufus_ata.jpg",
+   "file": "File:Atatürk'ün 993 814 seri numaralı nüfus cüzdanı.jpg"
+  },
+  {
+   "ad": "nufus_muze.jpg",
+   "file": "File:Atatürk'ün nüfus hüviyet cüzdanı (Zafer Müzesi).jpg"
+  },
+  {
+   "ad": "nufus_samsun.jpg",
+   "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG"
+  },
+  {
+   "ad": "palu.jpg",
+   "file": "File:Palu Nüfus Defteri, Palu'ya Bağlı Nahiye ve Köyler.png"
+  },
+  {
+   "ad": "askerlik.jpg",
+   "file": "File:Ottoman Men conscription WWI.png"
+  },
+  {
+   "ad": "abd037.jpg",
+   "file": "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (037 of 252).jpg"
+  },
+  {
+   "ad": "abd225.jpg",
+   "file": "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (225 of 252).jpg"
+  },
+  {
+   "ad": "abd226.jpg",
+   "file": "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (226 of 252).jpg"
+  },
+  {
+   "ad": "elbise.jpg",
+   "file": "File:Studio portrait of models wearing traditional clothing from İstanbul, Ottoman Empire LCCN2003690022.jpg"
+  },
+  {
+   "ad": "tbmm1929.jpg",
+   "file": "File:Atatürk TBMM'den çıkarken.jpg"
+  },
+  {
+   "ad": "ulus.jpg",
+   "file": "File:Victory Monument in Ulus Square, 1st Turkish Grand National Assembly, 1930's (17075286852).jpg"
+  },
+  {
+   "ad": "sokak1935.jpg",
+   "file": "File:Turkey. Ankara. Street with castle in distance LOC matpc.16720.jpg"
+  },
+  {
+   "ad": "edirne1930.jpg",
+   "file": "File:Edirne Belediye meclisi üyeleri 1930.jpg"
+  },
+  {
+   "ad": "ata1930s.jpg",
+   "file": "File:Ataturk1930s.jpg"
+  },
+  {
+   "ad": "musiki.jpg",
+   "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg"
+  },
+  {
+   "ad": "holiday.jpg",
+   "file": "File:Turkish holiday.jpg"
+  },
+  {
+   "ad": "cum_kadin.jpg",
+   "file": "File:1934 12 08 Cumhuriyet Beyazit Turk Kadinlar Birligi 2.jpg"
+  },
+  {
+   "ad": "cum_ata_kasim.jpg",
+   "file": "File:1934 11 13 Cumhuriyet Ataturk Sumerbank.jpg"
+  },
+  {
+   "ad": "tarih_kurumu.jpg",
+   "file": "File:Mustafa Kemal and establishment of Turkish History Institution.png"
+  },
+  {
+   "ad": "kadinlar_ata.jpg",
+   "file": "File:Turkish women with a picture of Atatürk.jpg"
+  },
+  {
+   "ad": "bulvar.jpg",
+   "file": "File:Republic Boulevard, late 1930s (16851418951).jpg"
+  },
+  {
+   "ad": "cum_ist.jpg",
+   "file": "File:1934 10 07 Cumhuriyet Istanbulun Kurtuslusu 2.jpg"
+  }
+ ]
 }
