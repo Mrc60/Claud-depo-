@@ -1,21 +1,21 @@
 {
   "bolum": "018_kurtulus",
-  "min_w": 900,
+  "min_w": 800,
   "sorgular": [
-    "SS Kurtuluş",
-    "Kurtuluş ship 1941",
-    "Kurtuluş vapuru",
-    "Greek famine 1941",
-    "Athens famine 1942",
-    "Great Famine Greece occupation",
-    "Dumlupınar vapuru",
-    "Kızılay 1940s",
-    "Turkish Red Crescent 1942",
-    "Marmara Island",
-    "Saraylar Marmara Adası",
-    "Piraeus 1940s harbour",
-    "German occupation Athens 1941 Acropolis flag",
-    "Istanbul harbour 1940s steamship"
+    "Kurtulus ship",
+    "Kurtuluş 1883 ship",
+    "SS Kurtulus Greece",
+    "Kurtuluş gemisi",
+    "Greek Famine",
+    "famine Athens 1941",
+    "Athens 1942 occupation",
+    "Piraeus 1941",
+    "Greece 1941 German invasion",
+    "Red Crescent Turkey 1940s",
+    "Kızılay",
+    "steamship 1900s cargo",
+    "Sea of Marmara storm",
+    "Marmara Island coast rocks"
   ],
-  "incele": []
+  "incele": ["File:FamineGrèce1941-1944.png", "File:Wehrmacht (Nazi Germany Armed Forces) soldiers hoisting the Reichskriegsflagge swastika flag at the Acropolis in Athens, May 1941.jpg"]
 }
