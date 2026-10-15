@@ -637,7 +637,7 @@ def anim_rota(layer, spec, lt, dur):
         u0, u1 = j / steps, (j + 0.5) / steps
         col = with_alpha(CREAM, 0.25 * a) if u1 > u else with_alpha(AMBER, a)
         d.line([pt(u0), pt(u1)], fill=col, width=7)
-    for (x, y), ad, anc in ((A, spec.get("bas", "İSTANBUL"), "lm"), (B, spec.get("son", "PİRE"), "rm")):
+    for (x, y), ad, anc in ((A, spec.get("bas", "İSTANBUL"), "rm"), (B, spec.get("son", "PİRE"), "rm")):
         d.ellipse([x - 20, y - 20, x + 20, y + 20], fill=with_alpha(CREAM, a), outline=(6, 11, 18, int(255 * a)), width=5)
         _txt(layer, (x + (40 if anc == "lm" else -40), y), ad, font=F_UI(46), fill=with_alpha(CREAM, a), anchor=anc)
     x, y = pt(u)
