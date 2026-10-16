@@ -190,9 +190,12 @@
    "scene": "photo",
    "anim": {
     "tur": "kart",
-    "ust": "ÇANKIRI'DA DUYGU · 29.12.1934",
-    "baslik": "Gamsızoğlu → Gaygusuz",
-    "bekle": 1.0
+    "ust": "GAMSIZOĞLU MAZHAR'IN SOYADI",
+    "baslik": "Gaygusuz",
+    "bekle": 1.0,
+    "maddeler": [
+     "Çankırı'da Duygu · 29.12.1934"
+    ]
    }
   },
   {
@@ -223,7 +226,7 @@
    },
    "scene": "photo",
    "title": "Her ad olmazdı",
-   "subtitle": "NÜFUS KÂĞIDI · 1934"
+   "subtitle": "ATATÜRK'ÜN NÜFUS KÂĞIDI"
   },
   {
    "say": "Rütbe ve memuriyet bildiren adlar, aşiret adları, gülünç ya da hakaret içeren adlar yasaktı.",
@@ -535,5 +538,5 @@
    ]
   ]
  },
- "revizyon": 1
+ "revizyon": 2
 }
