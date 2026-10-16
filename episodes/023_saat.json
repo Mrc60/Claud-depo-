@@ -1,0 +1,397 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 23,
+ "slug": "saat",
+ "title": "Alaturka Saat",
+ "youtube_title": "Akşam saat üç neden 21.00'di? #SıradanDeğil 23",
+ "youtube_description": "Alaturka saat ve 1925 tarihli 697 sayılı kanunla gece yarısı başlayan güne geçiş.",
+ "sources": [
+  "https://www.alomaliye.com/2000/01/02/gunun-yirmi-dort-saate-taksimine-697-sayili-kanun/",
+  "https://www.nazariyat.org/content/5-sayilar/2-2/3-m0007/atilla-bir-sinasi-acar-mustafa-kacar.pdf",
+  "https://kureansiklopedi.com/tr/detay/saat"
+ ],
+ "segments": [
+  {
+   "say": "Büyük dedeniz “Akşam saat üçte buluşalım” deseydi,",
+   "caption": "Büyük dedeniz “Akşam saat üçte buluşalım” deseydi,",
+   "key": [
+    "üçte"
+   ],
+   "image": {
+    "file": "File:19th Century Billodes Watch for the Ottoman Army 12.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Akşam saat üçte?",
+   "subtitle": "OSMANLI ORDUSU İÇİN CEP SAATİ · 19. YY"
+  },
+  {
+   "say": "bugünkü saatle belki de akşam dokuzda buluşmanız gerekebilirdi. Neden mi?",
+   "caption": "bugünkü saatle belki de akşam dokuzda buluşmanız gerekebilirdi. Neden mi?",
+   "key": [
+    "dokuzda"
+   ],
+   "image": {
+    "file": "File:Khalili Collection Hajj and Arts of Pilgrimage arc.mx 0571.1.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Akşam dokuzda!",
+   "subtitle": "CEP SAATİ · HALİLİ KOLEKSİYONU"
+  },
+  {
+   "say": "Osmanlı'da kullanılan alaturka saatte gün, güneşin batışıyla başlardı.",
+   "caption": "Osmanlı'da kullanılan alaturka saatte gün, güneşin batışıyla başlardı.",
+   "key": [
+    "alaturka",
+    "batışıyla"
+   ],
+   "image": {
+    "file": "File:Sunset over Istanbul from the Galata Bridge.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Gün, gün batımıyla başlardı",
+   "subtitle": "İSTANBUL'DA GÜN BATIMI"
+  },
+  {
+   "say": "Güneş battığında saat 12 kabul edilirdi.",
+   "caption": "Güneş battığında saat 12 kabul edilirdi.",
+   "key": [
+    "12"
+   ],
+   "image": {
+    "file": "File:Dolmabahçe Palace Clock Tower in 2015 5918.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Gün batımı = saat 12",
+   "subtitle": "DOLMABAHÇE SAAT KULESİ"
+  },
+  {
+   "say": "Yani güneşin battığı anda saatler 12'yi gösterirdi.",
+   "caption": "Yani güneşin battığı anda saatler 12'yi gösterirdi.",
+   "key": [
+    "12'yi"
+   ],
+   "image": {
+    "file": "File:Tophane (Nusretiye) Clock Tower in 2024 5630.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Saatler 12'yi gösterirdi",
+   "subtitle": "TOPHANE SAAT KULESİ"
+  },
+  {
+   "say": "Ama güneş her gün aynı saatte batmazdı.",
+   "caption": "Ama güneş her gün aynı saatte batmazdı.",
+   "key": [
+    "batmazdı."
+   ],
+   "image": {
+    "file": "File:Sunset over the Bosphorus (May 2017).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Her gün başka saatte",
+   "subtitle": "BOĞAZ'DA GÜN BATIMI"
+  },
+  {
+   "say": "Bu yüzden saatler de güneşin batışına göre yeniden ayarlanırdı.",
+   "caption": "Bu yüzden saatler de güneşin batışına göre yeniden ayarlanırdı.",
+   "key": [
+    "ayarlanırdı."
+   ],
+   "image": {
+    "file": "File:Istanbul - panoramio (77) (muvakkithane).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Saatler yeniden ayarlanırdı",
+   "subtitle": "AYASOFYA MUVAKKİTHANESİ"
+  },
+  {
+   "say": "Örneğin güneş akşam 18.00'de batıyorsa,",
+   "caption": "Örneğin güneş akşam 18.00'de batıyorsa,",
+   "key": [
+    "18.00'de"
+   ],
+   "image": {
+    "file": "File:Istanbul ferry at sunset on the Bosphorus - Tarik Kaan Muslu.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ÖRNEĞİN",
+    "baslik": "Gün batımı: 18.00",
+    "bekle": 0.6
+   }
+  },
+  {
+   "say": "alaturka saatle üç, bugünkü saatle yaklaşık 21.00 demekti.",
+   "caption": "alaturka saatle üç, bugünkü saatle yaklaşık 21.00 demekti.",
+   "key": [
+    "üç,",
+    "21.00"
+   ],
+   "image": {
+    "file": "File:İzmir Clock Tower, December 2018.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ALATURKA SAAT",
+    "baslik": "Saat 3 ≈ 21.00",
+    "bekle": 0.8,
+    "maddeler": [
+     "18.00 → alaturka 12",
+     "21.00 → alaturka 3"
+    ]
+   }
+  },
+  {
+   "say": "Bu sistemi değiştiren adım, 26 Aralık 1925'te kabul edilen 697 sayılı kanunla atıldı.",
+   "caption": "Bu sistemi değiştiren adım, 26 Aralık 1925'te kabul edilen 697 sayılı kanunla atıldı.",
+   "key": [
+    "1925'te",
+    "697"
+   ],
+   "image": {
+    "file": "File:TGNA circa 1920.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "697 sayılı Kanun",
+   "subtitle": "TBMM'DE KABUL: 26 ARALIK 1925"
+  },
+  {
+   "say": "Kanun, günün gece yarısında başlamasını ve saatlerin sıfırdan yirmi dörde kadar sayılmasını öngörüyordu.",
+   "caption": "Kanun, günün gece yarısında başlamasını ve saatlerin sıfırdan yirmi dörde kadar sayılmasını öngörüyordu.",
+   "key": [
+    "gece",
+    "yarısında",
+    "yirmi",
+    "dörde"
+   ],
+   "image": {
+    "file": "File:La Photographie - CONSTANTINOPLE - Le nouveau pont de Galata.JPG",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KANUN NE DİYORDU?",
+    "baslik": "Gün gece yarısı başlar",
+    "bekle": 1.5,
+    "maddeler": [
+     "Saatler 0'dan 24'e"
+    ]
+   }
+  },
+  {
+   "say": "2 Ocak 1926'da yayımlanarak yürürlüğe girdi.",
+   "caption": "2 Ocak 1926'da yayımlanarak yürürlüğe girdi.",
+   "key": [
+    "1926'da"
+   ],
+   "image": {
+    "file": "File:Constantinople settings and traits (1926)- Two turkish man.png",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "2 Ocak 1926",
+   "subtitle": "YÜRÜRLÜĞE GİRDİ · İSTANBUL 1926"
+  },
+  {
+   "say": "Bugün telefonunuz gece yarısı 00.00'ı gösterdiğinde yeni bir gün başlıyor.",
+   "caption": "Bugün telefonunuz gece yarısı 00.00'ı gösterdiğinde yeni bir gün başlıyor.",
+   "key": [
+    "00.00'ı"
+   ],
+   "image": {
+    "file": "File:İzmir Clock Tower at night, 2021.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "BUGÜN",
+    "baslik": "00.00 = yeni gün",
+    "bekle": 1.2
+   }
+  },
+  {
+   "say": "Zamanı ölçme biçimimizdeki bu değişim, işte böyle bir dönüşümün sonucu.",
+   "caption": "Zamanı ölçme biçimimizdeki bu değişim, işte böyle bir dönüşümün sonucu.",
+   "key": [
+    "dönüşümün"
+   ],
+   "image": {
+    "file": "File:Dolmabahçe Clock Tower 2014.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Zamanda bir dönüşüm",
+   "subtitle": "DOLMABAHÇE SAAT KULESİ"
+  },
+  {
+   "say": "Peki ailenizde alaturka saat kullanan bir büyüğünüz oldu mu? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki ailenizde alaturka saat kullanan bir büyüğünüz oldu mu? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "alaturka",
+    "büyüğünüz"
+   ],
+   "image": {
+    "file": "File:19th Century Billodes Watch for the Ottoman Army 22.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Ailenizde var mıydı?",
+   "subtitle": "YORUMLARA YAZIN"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:Tophane Clock Tower and Nusretiye Mosque.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP EDİN · BEĞENİN"
+  }
+ ],
+ "dis_ses": {
+  "file": "assets/ses/023_saat.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     3.76
+    ]
+   ],
+   [
+    [
+     4.09,
+     7.98
+    ],
+    [
+     8.44,
+     8.93
+    ]
+   ],
+   [
+    [
+     9.47,
+     14.41
+    ]
+   ],
+   [
+    [
+     14.76,
+     17.94
+    ]
+   ],
+   [
+    [
+     18.3,
+     22.26
+    ]
+   ],
+   [
+    [
+     22.63,
+     25.48
+    ]
+   ],
+   [
+    [
+     25.8,
+     30.12
+    ]
+   ],
+   [
+    [
+     30.72,
+     33.65
+    ]
+   ],
+   [
+    [
+     33.95,
+     38.53
+    ]
+   ],
+   [
+    [
+     39.12,
+     46.5
+    ]
+   ],
+   [
+    [
+     47.1,
+     53.97
+    ]
+   ],
+   [
+    [
+     54.63,
+     58.2
+    ]
+   ],
+   [
+    [
+     58.81,
+     64.88
+    ]
+   ],
+   [
+    [
+     65.44,
+     70.0
+    ]
+   ],
+   [
+    [
+     70.64,
+     74.42
+    ],
+    [
+     74.89,
+     76.4
+    ]
+   ],
+   [
+    [
+     77.03,
+     84.15
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1
+}
