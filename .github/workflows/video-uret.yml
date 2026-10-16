@@ -87,5 +87,5 @@ jobs:
         with:
           name: video
           path: out/
-          retention-days: 14
+          retention-days: 90
           if-no-files-found: ignore

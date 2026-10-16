@@ -1,0 +1,9 @@
+# Her satır: dosya_adı URL
+rg_1048_1928-11-24.pdf https://www.resmigazete.gov.tr/arsiv/1048.pdf
+rg_1030_1928-11-03.pdf https://www.resmigazete.gov.tr/arsiv/1030.pdf
+rg_1321.pdf https://www.resmigazete.gov.tr/arsiv/1321.pdf
+ozturk_nurdogan_millet_mektepleri.pdf https://dergipark.org.tr/tr/download/article-file/3173030
+ataturk_ans_harf_devrimi.pdf https://ataturkansiklopedisi.gov.tr/bilgi/harf-devrimi/?pdf=3622
+ataturk_ans_1927_sayim.pdf https://ataturkansiklopedisi.gov.tr/bilgi/1927-nufus-sayimi/?pdf=3899
+kumas_2021_istatistik.pdf https://www.researchgate.net/publication/350300041_CUMHURIYET_DONEMI_1923-1935_EGITIM-OGRETIM_FAALIYETLERININ_ISTATISTIKI_VERILER_ISIGINDA_ANALIZI
+erdem_1935_sayim.pdf https://dergipark.org.tr/tr/download/article-file/229431

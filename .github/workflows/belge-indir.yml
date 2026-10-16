@@ -1,0 +1,54 @@
+name: Belge indir
+
+# belgeler.txt içindeki belgeleri indirir, taranmış sayfaları metne çevirir (OCR)
+# ve sonucu 'belgeler' dalına tek bir kayıt olarak yazar (her çalışmada üzerine yazılır, depo büyümez).
+on:
+  push:
+    branches: [main]
+    paths: ["belgeler.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  indir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Araçlar
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils tesseract-ocr tesseract-ocr-tur tesseract-ocr-osd
+      - name: İndir ve metne çevir
+        run: |
+          mkdir -p /tmp/b && cd /tmp/b
+          grep -v '^#' "$GITHUB_WORKSPACE/belgeler.txt" | while read ad url; do
+            [ -z "$ad" ] && continue
+            code=$(curl -sSL -m 120 -A "Mozilla/5.0" -o "$ad" -w "%{http_code}" "$url" || echo hata)
+            tur=$(file -b --mime-type "$ad" 2>/dev/null)
+            echo "$ad | $code | $tur | $(stat -c%s "$ad" 2>/dev/null) bayt" | tee -a rapor.txt
+            if [ "$tur" = "application/pdf" ]; then
+              pdftotext -layout "$ad" "${ad%.pdf}.txt" || true
+              n=$(tr -d '[:space:]' < "${ad%.pdf}.txt" | wc -c)
+              if [ "$n" -lt 2000 ]; then
+                echo "  metin yok/az ($n) -> OCR" | tee -a rapor.txt
+                pdftoppm -r 300 -png "$ad" "s_${ad%.pdf}"
+                : > "${ad%.pdf}.ocr.txt"
+                for p in s_${ad%.pdf}*.png; do
+                  echo "===== $p =====" >> "${ad%.pdf}.ocr.txt"
+                  tesseract "$p" - -l tur+osd --psm 1 >> "${ad%.pdf}.ocr.txt" 2>/dev/null || tesseract "$p" - -l tur >> "${ad%.pdf}.ocr.txt" 2>/dev/null
+                done
+                rm -f s_${ad%.pdf}*.png
+              fi
+            fi
+          done
+          ls -la
+      - name: 'belgeler' dalına yaz
+        run: |
+          cd /tmp/b
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          git init -q -b belgeler && git add -A && git commit -qm "belgeler"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" belgeler
