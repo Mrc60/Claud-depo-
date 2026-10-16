@@ -1,0 +1,413 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 25,
+ "slug": "harf",
+ "title": "Harf İnkılabı",
+ "youtube_title": "Dedenizin tapusunu okuyabilir misiniz? #SıradanDeğil 25",
+ "youtube_description": "1928 Harf İnkılabı ve Millet Mektepleri.",
+ "sources": [
+  "https://www.resmigazete.gov.tr/arsiv/1030.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/1048.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/1321.pdf",
+  "https://dergipark.org.tr/en/download/article-file/3699743",
+  "https://erdem.gov.tr/tam-metin-pdf/208/tur",
+  "https://turkmaarifansiklopedisi.org.tr/millet-mektepleri",
+  "https://dergipark.org.tr/tr/download/article-file/3173030"
+ ],
+ "segments": [
+  {
+   "say": "Büyük dedenizin tapusunu ya da mektubunu bugün okuyabilir misiniz?",
+   "caption": "Büyük dedenizin tapusunu ya da mektubunu bugün okuyabilir misiniz?",
+   "key": [
+    "mektubunu"
+   ],
+   "image": {
+    "file": "File:Letter from Dupnitsa 1863.JPG",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Okuyabilir misiniz?",
+   "subtitle": "ESKİ HARFLİ BİR MEKTUP · 1863"
+  },
+  {
+   "say": "1928'e kadar Türkçe, Arap harfleriyle yazılıyordu.",
+   "caption": "1928'e kadar Türkçe, Arap harfleriyle yazılıyordu.",
+   "key": [
+    "Arap",
+    "harfleriyle"
+   ],
+   "image": {
+    "file": "File:1928 09 21 Hakimiyeti Milliye.jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.45
+    ]
+   },
+   "scene": "photo",
+   "title": "1928'e kadar",
+   "subtitle": "HÂKİMİYET-İ MİLLİYE · 21 EYLÜL 1928"
+  },
+  {
+   "say": "9 Ağustos 1928'de Mustafa Kemal, İstanbul Sarayburnu'nda yeni harfleri halka tanıttı.",
+   "caption": "9 Ağustos 1928'de Mustafa Kemal, İstanbul Sarayburnu'nda yeni harfleri halka tanıttı.",
+   "key": [
+    "Sarayburnu'nda"
+   ],
+   "image": {
+    "file": "File:Gülhane-Sarayburnu - panoramio.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "9 Ağustos 1928",
+   "subtitle": "GÜLHANE PARKI, SARAYBURNU · BUGÜN"
+  },
+  {
+   "say": "1 Kasım'da Harf Kanunu kabul edildi.",
+   "caption": "1 Kasım'da Harf Kanunu kabul edildi.",
+   "key": [
+    "Harf",
+    "Kanunu"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg1030_kanun1353.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 3 Kasım 1928, sayı 1030, s.6001 (Kanun 1353)",
+    "lisans": "Resmî Gazete (kamu malı, resmî metin)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/",
+    "kirp": [
+     0,
+     0.33,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Harf Kanunu",
+   "subtitle": "RESMÎ GAZETE · 3 KASIM 1928"
+  },
+  {
+   "say": "Kanuna göre Haziran 1929'dan itibaren tapular, nüfus ve evlenme cüzdanları yeni harflerle düzenlenecekti.",
+   "caption": "Kanuna göre Haziran 1929'dan itibaren tapular, nüfus ve evlenme cüzdanları yeni harflerle düzenlenecekti.",
+   "key": [
+    "tapular,",
+    "cüzdanları"
+   ],
+   "image": {
+    "file": "File:Palu Nüfus Defteri, Palu'ya Bağlı Nahiye ve Köyler.png",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KANUN 1353 · MADDE 3",
+    "baslik": "Haziran 1929'dan itibaren",
+    "bekle": 0.8,
+    "maddeler": [
+     "Tapular",
+     "Nüfus cüzdanları",
+     "Evlenme cüzdanları"
+    ]
+   }
+  },
+  {
+   "say": "Ama kanuna göre, eski tapu ve senetler gibi hukuki nitelik taşıyan belgeler, değiştirilmedikçe geçerliliğini koruyordu.",
+   "caption": "Ama kanuna göre, eski tapu ve senetler gibi hukuki nitelik taşıyan belgeler, değiştirilmedikçe geçerliliğini koruyordu.",
+   "key": [
+    "senetler",
+    "geçerliliğini"
+   ],
+   "image": {
+    "file": "File:Osmanlı borç senedi.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Eski senetler geçerliydi",
+   "subtitle": "KANUN 1353, MADDE 7 · OSMANLI DÖNEMİ BİR SENET"
+  },
+  {
+   "say": "Dönemin tahminlerine göre halkın yalnızca yaklaşık yüzde onu okuma yazma biliyordu.",
+   "caption": "Dönemin tahminlerine göre halkın yalnızca yaklaşık yüzde onu okuma yazma biliyordu.",
+   "key": [
+    "yüzde",
+    "onu"
+   ],
+   "image": {
+    "file": "File:Türk Dil Devrimi, 1928 (Turkish Language Revolution).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "DÖNEMİN TAHMİNİ",
+    "baslik": "Yaklaşık %10",
+    "bekle": 0.8,
+    "maddeler": [
+     "okuma yazma biliyordu"
+    ]
+   }
+  },
+  {
+   "say": "Halkı okur yazar hale getirmek için 1 Ocak 1929'da Millet Mektepleri açıldı.",
+   "caption": "Halkı okur yazar hale getirmek için 1 Ocak 1929'da Millet Mektepleri açıldı.",
+   "key": [
+    "Millet",
+    "Mektepleri"
+   ],
+   "image": {
+    "file": "File:19290102 Milliyet 2.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "1 Ocak 1929",
+   "subtitle": "MİLLET MEKTEBİ · MİLLİYET, 2 OCAK 1929"
+  },
+  {
+   "say": "1928 tarihli ilk yönetmeliğe göre, hiç okuma yazma bilmeyenler dört ay, eski harflerle okuma yazma bilenler ise iki ay eğitim görecekti.",
+   "caption": "1928 tarihli ilk yönetmeliğe göre, hiç okuma yazma bilmeyenler dört ay, eski harflerle okuma yazma bilenler ise iki ay eğitim görecekti.",
+   "key": [
+    "dört",
+    "iki"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg1048_talimatname_m2.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 24 Kasım 1928, sayı 1048, s.6102 (Millet Mektebi Talimatnamesi m.2)",
+    "lisans": "Resmî Gazete (kamu malı, resmî metin)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/"
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1928 YÖNETMELİĞİ · MADDE 2",
+    "baslik": "4 ay · 2 ay",
+    "bekle": 1.2,
+    "maddeler": [
+     "Hiç bilmeyen: 4 ay",
+     "Eski harfle bilen: 2 ay"
+    ]
+   }
+  },
+  {
+   "say": "Dersler yalnızca okullarda değil, farklı mekânlarda da yapılabiliyordu.",
+   "caption": "Dersler yalnızca okullarda değil, farklı mekânlarda da yapılabiliyordu.",
+   "key": [
+    "mekânlarda"
+   ],
+   "image": {
+    "file": "File:19290111 Milliyet 1.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Farklı mekânlarda",
+   "subtitle": "MİLLET MEKTEBİ · MİLLİYET, 11 OCAK 1929"
+  },
+  {
+   "say": "1929 tarihli yönetmelik, okulu olmayan köyler için gezici Millet Mekteplerine de yer veriyordu.",
+   "caption": "1929 tarihli yönetmelik, okulu olmayan köyler için gezici Millet Mekteplerine de yer veriyordu.",
+   "key": [
+    "köyler",
+    "gezici"
+   ],
+   "image": {
+    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1929 YÖNETMELİĞİ · MADDE 32",
+    "baslik": "Gezici Millet Mektepleri",
+    "bekle": 0.8,
+    "maddeler": [
+     "Okulu olmayan köyler için"
+    ]
+   }
+  },
+  {
+   "say": "Mustafa Kemal de bu okulların Başöğretmeni oldu.",
+   "caption": "Mustafa Kemal de bu okulların Başöğretmeni oldu.",
+   "key": [
+    "Başöğretmeni"
+   ],
+   "image": {
+    "file": "File:Ataturk-September 20, 1928.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Başöğretmen",
+   "subtitle": "YENİ HARFLERİ ANLATIRKEN · 20 EYLÜL 1928"
+  },
+  {
+   "say": "Peki sizin ailenizden kalan eski harfli bir tapu, mektup ya da defter var mı? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki sizin ailenizden kalan eski harfli bir tapu, mektup ya da defter var mı? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "tapu,",
+    "mektup"
+   ],
+   "image": {
+    "file": "File:Letter from Dupnitsa 1863.JPG",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0,
+     0.45,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sizde var mı?",
+   "subtitle": "YORUMLARA YAZIN"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg1321_talimatname_m32.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 16 Ekim 1929, sayı 1321 (Millet Mektepleri Talimatnamesi)",
+    "lisans": "Resmî Gazete (kamu malı, resmî metin)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/"
+   },
+   "scene": "photo",
+   "title": "Kaynaklar açıklamada",
+   "subtitle": "RESMÎ GAZETE · 16 EKİM 1929"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:19290116 Milliyet.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "BEĞENİN · TAKİP EDİN"
+  }
+ ],
+ "dis_ses": {
+  "file": "assets/ses/025_harf.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.22
+    ]
+   ],
+   [
+    [
+     4.76,
+     8.98
+    ]
+   ],
+   [
+    [
+     9.51,
+     16.4
+    ]
+   ],
+   [
+    [
+     16.84,
+     19.49
+    ]
+   ],
+   [
+    [
+     20.1,
+     28.78
+    ]
+   ],
+   [
+    [
+     29.36,
+     37.42
+    ]
+   ],
+   [
+    [
+     37.99,
+     43.4
+    ]
+   ],
+   [
+    [
+     44.07,
+     50.27
+    ]
+   ],
+   [
+    [
+     50.89,
+     61.4
+    ]
+   ],
+   [
+    [
+     61.97,
+     66.23
+    ]
+   ],
+   [
+    [
+     66.85,
+     73.91
+    ]
+   ],
+   [
+    [
+     74.48,
+     77.52
+    ]
+   ],
+   [
+    [
+     78.2,
+     83.62
+    ],
+    [
+     84.18,
+     85.7
+    ]
+   ],
+   [
+    [
+     86.24,
+     92.84
+    ]
+   ],
+   [
+    [
+     93.28,
+     99.62
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1
+}

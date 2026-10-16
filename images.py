@@ -79,7 +79,7 @@ for i, seg in enumerate(ep["segments"]):
     if local and os.path.exists(local):
         path = os.path.join(out, f"img_{i:02d}" + os.path.splitext(local)[1].lower())
         open(path, "wb").write(open(local, "rb").read())
-        result[str(i)] = {"title": local, "path": path, "license": "Kanalın kendi çekimi", "artist": "Sıradan Değil", "page": ""}
+        result[str(i)] = {"title": spec.get("baslik", local), "path": path, "license": spec.get("lisans", "Kanalın kendi çekimi"), "artist": spec.get("kaynak", "Sıradan Değil"), "page": spec.get("sayfa", "")}
         print(f"  seg {i}: kendi çekimimiz {local}")
         continue
     try:

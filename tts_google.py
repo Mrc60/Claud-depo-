@@ -55,7 +55,7 @@ RATE = float(ep.get("hiz", RATE))
 # Kanal kuralı (TEK1): kapanış kibar ve nazik olmalı; videoya göre yazılmış bir soru,
 # yorum daveti, takip ve beğeni ricası içermeli. Eksikse video üretilmez.
 if ep["segments"]:
-    son = " ".join(s["say"] for s in ep["segments"][-2:]).lower()  # kapanış iki sahneye bölünebilir
+    son = " ".join(s["say"] for s in ep["segments"][-3:]).lower()  # kapanış üç sahneye bölünebilir
     eksik = [ad for ad, ok in (("soru (?)", "?" in son), ("yorum daveti", "yorum" in son),
                                ("takip ricası", "takip" in son), ("beğeni ricası", "beğen" in son)) if not ok]
     if eksik:
