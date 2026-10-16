@@ -1,25 +1,25 @@
 {
-  "bolum": "022_olculer",
+  "bolum": "022_olculer_2",
   "min_w": 600,
   "sorgular": [
-    "Ottoman weights okka",
-    "Ottoman weight measure museum",
-    "Ottoman steelyard kantar",
-    "Ottoman scale balance",
-    "kantar terazi eski",
-    "Ottoman market bazaar 19th century photograph",
-    "Istanbul market vendors Abdullah Frères",
-    "Turkey Matson market",
-    "Ankara market 1930s",
-    "Turkish grocer old photograph",
-    "metre bar prototype",
-    "kilogram prototype",
-    "measuring tape metre",
-    "Grand National Assembly Turkey 1930s",
-    "fabric shop measuring cloth",
-    "greengrocer Turkey",
-    "Mısır Çarşısı",
-    "dirhem weight"
+    "Pera Museum weights and measures",
+    "Anatolian weights and measures",
+    "steelyard balance",
+    "Grand Bazaar Istanbul 19th century",
+    "Sébah Joaillier bazaar",
+    "Ottoman street vendor scale",
+    "Constantinople market photograph",
+    "Abdülaziz portrait",
+    "Ankara 1930s people",
+    "Turkish bakkal old",
+    "Kapalıçarşı eski"
   ],
-  "incele": []
+  "incele": [
+    "File:Istanbul Pera museum Anatolian weights and measures 2015 0438.jpg",
+    "File:SeyhunBinzet Ataturk 16.jpg",
+    "File:Ruprechtsche Waage.jpg",
+    "File:Platinum-Iridium meter bar.jpg",
+    "File:Standard kilogram, 2.jpg",
+    "File:Early morning preparations in the greengrocers store Gaziantep City Turkey (18419024682).jpg"
+  ]
 }
