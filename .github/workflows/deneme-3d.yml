@@ -10,30 +10,60 @@ permissions:
   contents: write
 
 jobs:
-  render:
+  hazirla:
     runs-on: ubuntu-latest
-    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
+      - name: Doku indir
+        run: pip install -q requests && python3 deneme3d/doku_indir.py dunya.jpg
+      - uses: actions/upload-artifact@v4
+        with: { name: doku, path: "dunya.jpg*" }
+
+  render:
+    needs: hazirla
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        parca: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]   # 16 parça x 30 kare = 480 kare
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: { name: doku }
       - name: Blender kur
         run: |
-          sudo apt-get update -q && sudo apt-get install -yq libxi6 libxkbcommon0 libxrender1 libxxf86vm1 libxfixes3 libgl1 libsm6 ffmpeg
+          sudo apt-get update -q && sudo apt-get install -yq libxi6 libxkbcommon0 libxrender1 libxxf86vm1 libxfixes3 libgl1 libsm6
           for v in 4.2.3 4.2.0; do
             curl -sfL -o b.tar.xz https://download.blender.org/release/Blender4.2/blender-$v-linux-x64.tar.xz && break
           done
           mkdir blender && tar -xf b.tar.xz -C blender --strip-components=1 && ./blender/blender --version | head -1
-      - name: Doku indir
-        run: pip install -q requests && python3 deneme3d/doku_indir.py dunya.jpg
       - name: Render
         run: |
           mkdir -p kare
-          ./blender/blender -b -t 0 -P deneme3d/kurtulus_rota.py -- "$PWD/dunya.jpg" "$PWD/fonts/InterDisplay-Black.otf" "$PWD/kare" 2>&1 | grep -E "Fra:[0-9]+ .*(Rendering 1 /|Sample 24)|Error|HATA|Traceback|Saved" | tail -n 600
+          B=$(( ${{ matrix.parca }} * 30 + 1 )); S=$(( B + 29 ))
+          echo "kareler $B-$S"
+          ./blender/blender -b -t 0 -P deneme3d/kurtulus_rota.py -- "$PWD/dunya.jpg" "$PWD/fonts/InterDisplay-Black.otf" "$PWD/kare" $B $S 2>&1 \
+            | grep --line-buffered -E "Saved:|Error|Traceback|HATA"
           ls kare | wc -l
+      - uses: actions/upload-artifact@v4
+        with: { name: "kare-${{ matrix.parca }}", path: kare/ }
+
+  birlestir:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { pattern: "kare-*", path: kare, merge-multiple: true }
+      - uses: actions/download-artifact@v4
+        with: { name: doku }
       - name: Videoya çevir
-        run: ffmpeg -y -v error -framerate 24 -i kare/f_%04d.png -c:v libx264 -pix_fmt yuv420p -crf 18 -preset slow deneme_3d_rota.mp4 && ls -la deneme_3d_rota.mp4
+        run: |
+          sudo apt-get install -yq ffmpeg >/dev/null; ls kare | wc -l
+          ffmpeg -y -v error -framerate 24 -i kare/f_%04d.png -c:v libx264 -pix_fmt yuv420p -crf 18 -preset slow deneme_3d_rota.mp4 && ls -la deneme_3d_rota.mp4
       - name: deneme3d dalına kaydet
         run: |
-          mkdir -p /tmp/c && cp deneme_3d_rota.mp4 dunya.jpg.kunye.txt /tmp/c/ && cp kare/f_0001.png kare/f_0240.png kare/f_0480.png /tmp/c/ || true
+          mkdir -p /tmp/c && cp deneme_3d_rota.mp4 dunya.jpg.kunye.txt kare/f_0001.png kare/f_0240.png kare/f_0480.png /tmp/c/
           cd "$(mktemp -d)" && git init -q -b deneme3d && cp -r /tmp/c/. .
           git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" add -A
           git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "3D deneme"

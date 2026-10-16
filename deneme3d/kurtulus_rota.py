@@ -5,6 +5,7 @@ from mathutils import Vector
 
 argv = sys.argv[sys.argv.index("--") + 1:]
 DOKU, FONT, OUT = argv[0], argv[1], argv[2]
+F_BAS, F_SON = (int(argv[3]), int(argv[4])) if len(argv) > 4 else (1, 480)
 FPS, N = 24, 480
 
 def P(lat, lon, r=1.0):
@@ -145,4 +146,5 @@ def isaret(ad, la, lo, dx, dz):
 isaret("İSTANBUL", 41.00, 28.98, 0.0, 0.55)
 isaret("PİRE", 37.94, 23.64, 0.0, -0.75)
 
+sc.frame_start, sc.frame_end = F_BAS, F_SON   # paralel işlerde her iş kendi kare aralığını yapar
 bpy.ops.render.render(animation=True)
