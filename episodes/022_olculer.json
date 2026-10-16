@@ -1,0 +1,436 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 22,
+ "slug": "olculer",
+ "title": "Ölçüler Kanunu",
+ "youtube_title": "Bir okka kaç kiloydu? #SıradanDeğil 22",
+ "youtube_description": "1931 Ölçüler Kanunu ve okkadan kiloya geçiş.",
+ "sources": [
+  "https://atamdergi.gov.tr/tam-metin-pdf/1076/tur",
+  "https://belleten.gov.tr/tam-metin/1444/eng",
+  "https://bilimtarihi.org/OBA/1998-2-2.htm",
+  "https://islamansiklopedisi.org.tr/batman--olcu",
+  "https://islamansiklopedisi.org.tr/ukiyye",
+  "https://www.ume.tubitak.gov.tr/sites/images/tubitak_ume_fr_2011.pdf",
+  "https://adaletdergisi.adalet.gov.tr/arsiv/adliyeceridesi/1933/sayi-137-aralik1933-sene-12-99sayfa-cilt6.pdf"
+ ],
+ "segments": [
+  {
+   "say": "Bir zamanlar pazardan bir kilo elma almak isteseniz, satıcıdan belki de bir okka elma isterdiniz!",
+   "caption": "Bir zamanlar pazardan bir kilo elma almak isteseniz, satıcıdan belki de bir okka elma isterdiniz!",
+   "key": [
+    "okka"
+   ],
+   "image": {
+    "file": "File:1901 Constantinople Market.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Bir okka elma!",
+   "subtitle": "İSTANBUL'DA PAZAR · 1901"
+  },
+  {
+   "say": "Peki, bir okka kaç kiloydu?",
+   "caption": "Peki, bir okka kaç kiloydu?",
+   "key": [
+    "kiloydu?"
+   ],
+   "image": {
+    "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0439.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Bir okka kaç kilo?",
+   "subtitle": "OSMANLI AĞIRLIKLARI · PERA MÜZESİ"
+  },
+  {
+   "say": "Standart Osmanlı ölçüsünde bir okka, 400 dirheme eşitti.",
+   "caption": "Standart Osmanlı ölçüsünde bir okka, 400 dirheme eşitti.",
+   "key": [
+    "400",
+    "dirheme"
+   ],
+   "image": {
+    "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0438.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "1 okka = 400 dirhem",
+   "subtitle": "DİRHEM VE OKKA AĞIRLIKLARI · PERA MÜZESİ"
+  },
+  {
+   "say": "Bugünkü ölçüyle yaklaşık 1 kilo 283 gramdı.",
+   "caption": "Bugünkü ölçüyle yaklaşık 1 kilo 283 gramdı.",
+   "key": [
+    "283"
+   ],
+   "image": {
+    "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0438.jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.25,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "BUGÜNKÜ ÖLÇÜYLE",
+    "baslik": "≈ 1 kilo 283 gram",
+    "bekle": 5
+   }
+  },
+  {
+   "say": "Ama asıl mesele yalnızca okka değildi.",
+   "caption": "Ama asıl mesele yalnızca okka değildi.",
+   "key": [
+    "asıl",
+    "mesele"
+   ],
+   "image": {
+    "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0440.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Asıl mesele",
+   "subtitle": "KANTAR · PERA MÜZESİ"
+  },
+  {
+   "say": "Batman gibi başka ağırlık ölçülerinin karşılığı da bölgeden bölgeye değişebiliyordu.",
+   "caption": "Batman gibi başka ağırlık ölçülerinin karşılığı da bölgeden bölgeye değişebiliyordu.",
+   "key": [
+    "Batman",
+    "bölgeden",
+    "bölgeye"
+   ],
+   "image": {
+    "file": "File:Istanbul Pera museum Anatolian weights and measures 0434.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Batman",
+   "subtitle": "BÖLGEDEN BÖLGEYE FARKLI"
+  },
+  {
+   "say": "Yani aynı ölçü adı, her yerde aynı ağırlığı ifade etmeyebiliyordu.",
+   "caption": "Yani aynı ölçü adı, her yerde aynı ağırlığı ifade etmeyebiliyordu.",
+   "key": [
+    "aynı",
+    "ağırlığı"
+   ],
+   "image": {
+    "file": "File:1901 Constantinople Market.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "AYNI AD",
+    "baslik": "Farklı ağırlık",
+    "bekle": 1.2,
+    "maddeler": [
+     "Bir şehirde başka",
+     "Öbür şehirde başka"
+    ]
+   }
+  },
+  {
+   "say": "Osmanlı Devleti, 1869'da metrik sisteme geçmek için adım attı.",
+   "caption": "Osmanlı Devleti, 1869'da metrik sisteme geçmek için adım attı.",
+   "key": [
+    "1869'da",
+    "metrik"
+   ],
+   "image": {
+    "file": "File:A portrait of the Ottoman Sultan Abdülaziz.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "1869",
+   "subtitle": "SULTAN ABDÜLAZİZ DÖNEMİ"
+  },
+  {
+   "say": "Ancak eski ölçüler tamamen ortadan kalkmadı.",
+   "caption": "Ancak eski ölçüler tamamen ortadan kalkmadı.",
+   "key": [
+    "kalkmadı."
+   ],
+   "image": {
+    "file": "File:Intérieur du Gran Bazar, by Sébah & Joaillier, c. 1889-1900, from the Digital Commonwealth - commonwealth 3x8195553.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Eski ölçüler sürdü",
+   "subtitle": "KAPALIÇARŞI · 1889–1900"
+  },
+  {
+   "say": "Cumhuriyet döneminde yeni bir adım atıldı.",
+   "caption": "Cumhuriyet döneminde yeni bir adım atıldı.",
+   "key": [
+    "Cumhuriyet"
+   ],
+   "image": {
+    "file": "File:Victory Monument in Ulus Square, 1st Turkish Grand National Assembly, 1930's (17075286852).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Cumhuriyet",
+   "subtitle": "ANKARA · 1930'LAR"
+  },
+  {
+   "say": "1931'de 1782 sayılı Ölçüler Kanunu kabul edildi.",
+   "caption": "1931'de 1782 sayılı Ölçüler Kanunu kabul edildi.",
+   "key": [
+    "Ölçüler",
+    "Kanunu"
+   ],
+   "image": {
+    "file": "File:SeyhunBinzet Ataturk 16.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "1931 · Kanun 1782",
+   "subtitle": "TBMM BİNASI · FOTOĞRAF 1929"
+  },
+  {
+   "say": "Metrik sistem 1934'te uygulamaya geçti;",
+   "caption": "Metrik sistem 1934'te uygulamaya geçti;",
+   "key": [
+    "1934'te"
+   ],
+   "image": {
+    "file": "File:Ruprechtsche Waage.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "1934",
+   "subtitle": "METRİK SİSTEM UYGULAMADA"
+  },
+  {
+   "say": "metre ve kilogram gibi standart ölçüler yaygınlaştırıldı.",
+   "caption": "metre ve kilogram gibi standart ölçüler yaygınlaştırıldı.",
+   "key": [
+    "metre",
+    "kilogram"
+   ],
+   "image": {
+    "file": "File:Standard kilogram, 2.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Metre · Kilogram",
+   "subtitle": "KİLOGRAM STANDARDI · 1915"
+  },
+  {
+   "say": "Böylece alışverişte ve ticarette ortak ölçülere geçişin önü açıldı.",
+   "caption": "Böylece alışverişte ve ticarette ortak ölçülere geçişin önü açıldı.",
+   "key": [
+    "ortak"
+   ],
+   "image": {
+    "file": "File:Turkey. Ankara. Street with castle in distance LOC matpc.16720.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Ortak ölçü",
+   "subtitle": "ANKARA · 1935"
+  },
+  {
+   "say": "Bugün pazarda kilogramla,",
+   "caption": "Bugün pazarda kilogramla,",
+   "key": [
+    "kilogramla,"
+   ],
+   "image": {
+    "file": "File:Early morning preparations in the greengrocers store Gaziantep City Turkey (18419024682).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Bugün: kilogram",
+   "subtitle": "GAZİANTEP'TE BİR MANAV"
+  },
+  {
+   "say": "kumaşçıda metreyle ölçüm yaparken bu değişimin sonucunu görüyoruz.",
+   "caption": "kumaşçıda metreyle ölçüm yaparken bu değişimin sonucunu görüyoruz.",
+   "key": [
+    "metreyle"
+   ],
+   "image": {
+    "file": "File:Metre couturiere.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Bugün: metre",
+   "subtitle": "MEZURA"
+  },
+  {
+   "say": "Peki sizin yörenizde hâlâ “okka” ya da “batman” kelimeleri kullanılıyor mu? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki sizin yörenizde hâlâ “okka” ya da “batman” kelimeleri kullanılıyor mu? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "okka",
+    "batman"
+   ],
+   "image": {
+    "file": "File:Köy bakkali.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sizin yörenizde?",
+   "subtitle": "YORUMLARA YAZIN"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:Manav dükkanı 02.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP EDİN · BEĞENİN"
+  }
+ ],
+ "dis_ses": {
+  "file": "assets/ses/022_olculer.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     6.55
+    ]
+   ],
+   [
+    [
+     7.0,
+     8.94
+    ]
+   ],
+   [
+    [
+     9.44,
+     13.52
+    ]
+   ],
+   [
+    [
+     14.0,
+     17.95
+    ]
+   ],
+   [
+    [
+     18.4,
+     21.28
+    ]
+   ],
+   [
+    [
+     21.74,
+     26.95
+    ]
+   ],
+   [
+    [
+     27.37,
+     32.17
+    ]
+   ],
+   [
+    [
+     32.68,
+     37.75
+    ]
+   ],
+   [
+    [
+     38.24,
+     41.14
+    ]
+   ],
+   [
+    [
+     41.59,
+     44.02
+    ]
+   ],
+   [
+    [
+     44.48,
+     49.37
+    ]
+   ],
+   [
+    [
+     49.84,
+     53.19
+    ]
+   ],
+   [
+    [
+     53.66,
+     57.36
+    ]
+   ],
+   [
+    [
+     57.84,
+     62.35
+    ]
+   ],
+   [
+    [
+     62.84,
+     64.58
+    ]
+   ],
+   [
+    [
+     64.82,
+     68.92
+    ]
+   ],
+   [
+    [
+     69.43,
+     74.58
+    ],
+    [
+     74.97,
+     76.46
+    ]
+   ],
+   [
+    [
+     76.89,
+     83.9
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1
+}
