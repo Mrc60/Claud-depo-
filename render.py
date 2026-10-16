@@ -602,24 +602,27 @@ def anim_takvim(layer, spec, lt, dur):
     _txt(layer, (W / 2, 930), spec.get("alt", "13 TARİH ATLANDI"), font=F_SERIF(70), fill=with_alpha(AMBER, ke), anchor="mm")
 
 def anim_kart(layer, spec, lt, dur):
-    """Bilgi kartı: küçük üst yazı, büyük başlık, maddeler sırayla belirir."""
+    """Bilgi kartı: fotoğrafı kapatmasın diye alt bölümde, içeriğe göre boyutlanan kompakt kart.
+    Küçük üst yazı, büyük başlık, maddeler sırayla belirir."""
     a = ease(lt / 0.45)
-    _card(layer, [70, 250, W - 70, 1010], a)
-    _txt(layer, (W / 2, 330), spec.get("ust", ""), font=F_UI(40), fill=with_alpha(AMBER, a), anchor="mm")
+    items = spec.get("maddeler", [])
+    h = 215 + (len(items) * 72 + 25 if items else 0)
+    bottom = 1290; top = bottom - h
+    _card(layer, [60, top, W - 60, bottom], a)
+    _txt(layer, (W / 2, top + 48), spec.get("ust", ""), font=F_UI(38), fill=with_alpha(AMBER, a), anchor="mm")
     kb = ease((lt - 0.25) / 0.45)
     bas = spec.get("baslik", "")
-    size = 130
+    size = 112
     d = ImageDraw.Draw(layer)
-    while size > 60 and d.textlength(bas, font=F_SERIF(size)) > W - 220: size -= 6
-    _txt(layer, (W / 2, 470 + 20 * (1 - kb)), bas, font=F_SERIF(size), fill=with_alpha(CREAM, kb), anchor="mm")
-    items = spec.get("maddeler", [])
+    while size > 60 and d.textlength(bas, font=F_SERIF(size)) > W - 200: size -= 6
+    _txt(layer, (W / 2, top + 140 + 16 * (1 - kb)), bas, font=F_SERIF(size), fill=with_alpha(CREAM, kb), anchor="mm")
     t0 = float(spec.get("bekle", 0.9)); per = max(0.35, (dur - t0 - 0.6) / max(1, len(items)))
     for i, it in enumerate(items):
         k = ease((lt - t0 - i * per) / 0.35)
         if k <= 0: continue
-        y = 620 + i * 95
-        d.ellipse([200 - 12, y - 12, 200 + 12, y + 12], fill=with_alpha(AMBER, k))
-        _txt(layer, (240 + 20 * (1 - k), y), it, font=F_UI(52), fill=with_alpha(CREAM, k), anchor="lm")
+        y = top + 250 + i * 72
+        d.ellipse([170 - 11, y - 11, 170 + 11, y + 11], fill=with_alpha(AMBER, k))
+        _txt(layer, (205 + 20 * (1 - k), y), it, font=F_UI(48), fill=with_alpha(CREAM, k), anchor="lm")
 
 def anim_rota(layer, spec, lt, dur):
     """İstanbul -> Pire şematik rota: yol çizilir, gemi noktası ilerler, sefer sayacı artar."""
