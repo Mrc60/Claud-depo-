@@ -1,25 +1,23 @@
 {
-  "bolum": "022_olculer_2",
+  "bolum": "023_saat",
   "min_w": 600,
   "sorgular": [
-    "Pera Museum weights and measures",
-    "Anatolian weights and measures",
-    "steelyard balance",
-    "Grand Bazaar Istanbul 19th century",
-    "Sébah Joaillier bazaar",
-    "Ottoman street vendor scale",
-    "Constantinople market photograph",
-    "Abdülaziz portrait",
-    "Ankara 1930s people",
-    "Turkish bakkal old",
-    "Kapalıçarşı eski"
+    "alaturka saat",
+    "Ottoman clock",
+    "Ottoman pocket watch",
+    "ezani saat",
+    "Ottoman clock tower",
+    "Dolmabahçe clock tower",
+    "İzmir clock tower",
+    "Tophane clock tower",
+    "sunset Istanbul Bosphorus",
+    "Istanbul 1920s photograph",
+    "Istanbul Galata bridge 1920s",
+    "Turkish Grand National Assembly 1925",
+    "Resmî Gazete",
+    "clock dial Roman numerals Ottoman numerals",
+    "smartphone clock midnight",
+    "Muvakkithane"
   ],
-  "incele": [
-    "File:Istanbul Pera museum Anatolian weights and measures 2015 0438.jpg",
-    "File:SeyhunBinzet Ataturk 16.jpg",
-    "File:Ruprechtsche Waage.jpg",
-    "File:Platinum-Iridium meter bar.jpg",
-    "File:Standard kilogram, 2.jpg",
-    "File:Early morning preparations in the greengrocers store Gaziantep City Turkey (18419024682).jpg"
-  ]
+  "incele": []
 }
