@@ -1,0 +1,19 @@
+name: 3D hız ölçümü
+on: workflow_dispatch
+jobs:
+  olc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Hazırlık
+        run: |
+          sudo apt-get update -q && sudo apt-get install -yq libxi6 libxkbcommon0 libxrender1 libxxf86vm1 libxfixes3 libgl1 libsm6
+          curl -sfL -o b.tar.xz https://download.blender.org/release/Blender4.2/blender-4.2.3-linux-x64.tar.xz || curl -sfL -o b.tar.xz https://download.blender.org/release/Blender4.2/blender-4.2.0-linux-x64.tar.xz
+          mkdir blender && tar -xf b.tar.xz -C blender --strip-components=1
+          pip install -q requests && python3 deneme3d/doku_indir.py dunya.jpg; nproc
+      - name: 2 kare ölç
+        run: |
+          mkdir -p kare
+          for f in 1 300; do
+            /usr/bin/time -f "kare $f: %e sn" ./blender/blender -b -t 0 -P deneme3d/kurtulus_rota.py -- "$PWD/dunya.jpg" "$PWD/fonts/InterDisplay-Black.otf" "$PWD/kare" $f $f 2>&1 | grep -E "Saved:|kare |Error" 
+          done
