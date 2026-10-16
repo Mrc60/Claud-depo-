@@ -1,0 +1,539 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 24,
+ "slug": "lakap",
+ "title": "Soyadınızı Kim Seçti?",
+ "youtube_title": "Soyadınızı dedeniz mi seçti, kaymakam mı? #SıradanDeğil 24",
+ "youtube_description": "1934 Soyadı Kanunu: lakaplar, soyadı defterleri ve seçmeyenler.",
+ "sources": [
+  "https://www.resmigazete.gov.tr/arsiv/2891.pdf",
+  "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c023/tbmm04023069.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/3850.pdf",
+  "https://dergipark.org.tr/tr/download/article-file/887624",
+  "https://dergipark.org.tr/tr/download/article-file/748196",
+  "https://dergipark.org.tr/tr/download/article-file/3964263",
+  "https://tdk.gov.tr/wp-content/uploads/2012/01/24-28.pdf",
+  "https://axl.cefan.ulaval.ca/asie/turquie-loi-2590-1934.htm"
+ ],
+ "segments": [
+  {
+   "say": "Soyadınızı dedeniz mi seçti, yoksa kaymakam mı?",
+   "caption": "Soyadınızı dedeniz mi seçti, yoksa kaymakam mı?",
+   "key": [
+    "kaymakam"
+   ],
+   "image": {
+    "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.22,
+     0.43,
+     0.995,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Soyadınızı kim seçti?",
+   "subtitle": "NÜFUS HÜVİYET CÜZDANI"
+  },
+  {
+   "say": "1934'ten önce resmî bir soyadı zorunluluğu yoktu.",
+   "caption": "1934'ten önce resmî bir soyadı zorunluluğu yoktu.",
+   "key": [
+    "1934'ten"
+   ],
+   "image": {
+    "file": "File:Ottoman Men conscription WWI.png",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.68
+    ]
+   },
+   "scene": "photo",
+   "title": "1934'ten önce",
+   "subtitle": "OSMANLI ERKEKLERİ · 1910'LAR"
+  },
+  {
+   "say": "İnsanlar baba adıyla, mesleğiyle, memleketiyle ya da lakabıyla anılırdı.",
+   "caption": "İnsanlar baba adıyla, mesleğiyle, memleketiyle ya da lakabıyla anılırdı.",
+   "key": [
+    "lakabıyla"
+   ],
+   "image": {
+    "file": "File:Studio portrait of models wearing traditional clothing from İstanbul, Ottoman Empire LCCN2003690022.jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.29,
+     0.22,
+     0.8,
+     0.78
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "NASIL ANILIRDI?",
+    "baslik": "Soyadı yerine",
+    "bekle": 0.6,
+    "maddeler": [
+     "Baba adı",
+     "Meslek",
+     "Memleket",
+     "Lakap"
+    ]
+   }
+  },
+  {
+   "say": "1934'te çıkan Soyadı Kanunu ile herkes bir soyadı almak zorunda kaldı.",
+   "caption": "1934'te çıkan Soyadı Kanunu ile herkes bir soyadı almak zorunda kaldı.",
+   "key": [
+    "Soyadı",
+    "Kanunu"
+   ],
+   "image": {
+    "file": "File:Victory Monument in Ulus Square, 1st Turkish Grand National Assembly, 1930's (17075286852).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Herkese soyadı",
+   "subtitle": "ULUS MEYDANI · 1930'LAR"
+  },
+  {
+   "say": "Köylerde soyadları, muhtar ve ihtiyar heyetinin tuttuğu soyadı defterlerine yazılırdı.",
+   "caption": "Köylerde soyadları, muhtar ve ihtiyar heyetinin tuttuğu soyadı defterlerine yazılırdı.",
+   "key": [
+    "muhtar",
+    "defterlerine"
+   ],
+   "image": {
+    "file": "File:Palu Nüfus Defteri, Palu'ya Bağlı Nahiye ve Köyler.png",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Soyadı defteri",
+   "subtitle": "ESKİ BİR NÜFUS DEFTERİ · PALU"
+  },
+  {
+   "say": "Aile reisi kendi satırını imzayla, mühürle, mührü yoksa parmak basarak onaylardı.",
+   "caption": "Aile reisi kendi satırını imzayla, mühürle, mührü yoksa parmak basarak onaylardı.",
+   "key": [
+    "parmak"
+   ],
+   "image": {
+    "file": "File:Osmanlı borç senedi.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "AİLE REİSİ ONAYLARDI",
+    "baslik": "İmza · Mühür",
+    "bekle": 1.2,
+    "maddeler": [
+     "Mühür yoksa: parmak izi"
+    ]
+   }
+  },
+  {
+   "say": "Kimi aileler eski lakabını yeni bir biçime soktu.",
+   "caption": "Kimi aileler eski lakabını yeni bir biçime soktu.",
+   "key": [
+    "lakabını"
+   ],
+   "image": {
+    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Lakaptan soyadına",
+   "subtitle": "BALLIKPINAR KÖYÜ · 1930'LAR"
+  },
+  {
+   "say": "29 Aralık 1934 tarihli Çankırı'da Duygu gazetesine göre,",
+   "caption": "29 Aralık 1934 tarihli Çankırı'da Duygu gazetesine göre,",
+   "key": [
+    "Çankırı'da",
+    "Duygu"
+   ],
+   "image": {
+    "file": "File:General view of Çankırı.jpeg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Çankırı'da Duygu",
+   "subtitle": "29 ARALIK 1934 · ÇANKIRI (BUGÜN)"
+  },
+  {
+   "say": "\"Gamsızoğlu\" diye anılan bir emniyet memuru, soyadı olarak \"Gaygusuz\"u seçti.",
+   "caption": "\"Gamsızoğlu\" diye anılan bir emniyet memuru, soyadı olarak \"Gaygusuz\"u seçti.",
+   "key": [
+    "Gaygusuz\"u"
+   ],
+   "image": {
+    "file": "File:Çankırı 158.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ÇANKIRI'DA DUYGU · 29.12.1934",
+    "baslik": "Gamsızoğlu → Gaygusuz",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Kimi aileler ise eski adını tamamen bırakıp yepyeni bir Türkçe soyadı aldı.",
+   "caption": "Kimi aileler ise eski adını tamamen bırakıp yepyeni bir Türkçe soyadı aldı.",
+   "key": [
+    "yepyeni"
+   ],
+   "image": {
+    "file": "File:Edirne Belediye meclisi üyeleri 1930.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Yepyeni bir soyadı",
+   "subtitle": "EDİRNE BELEDİYE MECLİSİ · 1930"
+  },
+  {
+   "say": "Ama her ad soyadı olamazdı.",
+   "caption": "Ama her ad soyadı olamazdı.",
+   "key": [
+    "olamazdı."
+   ],
+   "image": {
+    "file": "File:Atatürk'ün 993 814 seri numaralı nüfus cüzdanı.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Her ad olmazdı",
+   "subtitle": "NÜFUS KÂĞIDI · 1934"
+  },
+  {
+   "say": "Rütbe ve memuriyet bildiren adlar, aşiret adları, gülünç ya da hakaret içeren adlar yasaktı.",
+   "caption": "Rütbe ve memuriyet bildiren adlar, aşiret adları, gülünç ya da hakaret içeren adlar yasaktı.",
+   "key": [
+    "yasaktı."
+   ],
+   "image": {
+    "file": "File:Atatürk'ün 993 815 seri numaralı nüfus cüzdanı.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "SOYADI OLAMAZDI",
+    "baslik": "Yasak adlar",
+    "bekle": 0.6,
+    "maddeler": [
+     "Rütbe ve memuriyet",
+     "Aşiret adları",
+     "Gülünç ya da hakaret"
+    ]
+   }
+  },
+  {
+   "say": "Aynı yıl çıkan başka bir kanunla ağa, hacı, hoca, efendi, bey, paşa gibi lakap ve unvanlar da kaldırıldı.",
+   "caption": "Aynı yıl çıkan başka bir kanunla ağa, hacı, hoca, efendi, bey, paşa gibi lakap ve unvanlar da kaldırıldı.",
+   "key": [
+    "paşa",
+    "kaldırıldı."
+   ],
+   "image": {
+    "file": "File:Nadar - Portrait of Midhat Pasha.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "2590 SAYILI KANUN · 1934",
+    "baslik": "Unvanlar kaldırıldı",
+    "bekle": 2.0,
+    "maddeler": [
+     "Ağa · Hacı · Hoca",
+     "Efendi · Bey · Paşa"
+    ]
+   }
+  },
+  {
+   "say": "Bu unvanlar artık kanun önünde ve resmî belgelerde kullanılmayacaktı.",
+   "caption": "Bu unvanlar artık kanun önünde ve resmî belgelerde kullanılmayacaktı.",
+   "key": [
+    "resmî",
+    "belgelerde"
+   ],
+   "image": {
+    "file": "File:Portrait of Omar Pasha.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Resmî belgelerde yok",
+   "subtitle": "ÖMER PAŞA · 19. YÜZYIL"
+  },
+  {
+   "say": "Soyadı seçmek için son tarih 2 Temmuz 1936'ydı.",
+   "caption": "Soyadı seçmek için son tarih 2 Temmuz 1936'ydı.",
+   "key": [
+    "1936'ydı."
+   ],
+   "image": {
+    "file": "File:Republic Boulevard, late 1930s (16851418951).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "SON TARİH",
+    "baslik": "2 Temmuz 1936",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Peki soyadını seçmeyenlere ne oldu?",
+   "caption": "Peki soyadını seçmeyenlere ne oldu?",
+   "key": [
+    "seçmeyenlere"
+   ],
+   "image": {
+    "file": "File:Turkey. Ankara. Street with castle in distance LOC matpc.16720.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Seçmeyenlere ne oldu?",
+   "subtitle": "ANKARA · 1930'LAR"
+  },
+  {
+   "say": "Yasal düzenlemeler, bu tarihe kadar soyadı seçmeyenler için vali ve kaymakamlara yetki veriyordu.",
+   "caption": "Yasal düzenlemeler, bu tarihe kadar soyadı seçmeyenler için vali ve kaymakamlara yetki veriyordu.",
+   "key": [
+    "vali",
+    "kaymakamlara"
+   ],
+   "image": {
+    "file": "File:Crowd gathered on village hill (all looking at man on house. Turkish flag) LOC matpc.04639.jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.0,
+     0.05,
+     0.5,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KANUN m.8 · NİZAMNAME m.29",
+    "baslik": "Vali ve kaymakama yetki",
+    "bekle": 1.2
+   }
+  },
+  {
+   "say": "Yani bazı insanların soyadını kendileri değil, devlet belirleyebilirdi.",
+   "caption": "Yani bazı insanların soyadını kendileri değil, devlet belirleyebilirdi.",
+   "key": [
+    "devlet"
+   ],
+   "image": {
+    "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.12,
+     0.0,
+     0.47,
+     0.5
+    ]
+   },
+   "scene": "photo",
+   "title": "Devlet belirleyebilirdi",
+   "subtitle": "NÜFUS HÜVİYET CÜZDANI"
+  },
+  {
+   "say": "Peki sizin soyadınızın hikâyesi ne? Dedenizin lakabından mı geliyor, yoksa sıfırdan mı seçildi? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki sizin soyadınızın hikâyesi ne? Dedenizin lakabından mı geliyor, yoksa sıfırdan mı seçildi? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "hikâyesi",
+    "lakabından"
+   ],
+   "image": {
+    "file": "File:Adnan Menderes Demokrasi Müzesi-20240407 132421.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sizin soyadınız?",
+   "subtitle": "YORUMLARA YAZIN"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için Sıradan Değil'i takip etmeyi ve videoyu beğenmeyi unutmayın.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:Republic Boulevard, late 1930s (16851418951) (Colourised).jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP EDİN · BEĞENİN"
+  }
+ ],
+ "dis_ses": {
+  "file": "assets/ses/024_lakap.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     3.29
+    ]
+   ],
+   [
+    [
+     3.89,
+     7.95
+    ]
+   ],
+   [
+    [
+     8.28,
+     14.14
+    ]
+   ],
+   [
+    [
+     14.74,
+     20.11
+    ]
+   ],
+   [
+    [
+     20.7,
+     26.07
+    ]
+   ],
+   [
+    [
+     26.46,
+     33.24
+    ]
+   ],
+   [
+    [
+     33.78,
+     37.11
+    ]
+   ],
+   [
+    [
+     37.59,
+     42.52
+    ]
+   ],
+   [
+    [
+     42.9,
+     48.2
+    ]
+   ],
+   [
+    [
+     48.71,
+     53.72
+    ]
+   ],
+   [
+    [
+     54.24,
+     56.44
+    ]
+   ],
+   [
+    [
+     57.02,
+     63.43
+    ]
+   ],
+   [
+    [
+     64.0,
+     72.78
+    ]
+   ],
+   [
+    [
+     73.37,
+     77.98
+    ]
+   ],
+   [
+    [
+     78.6,
+     83.1
+    ]
+   ],
+   [
+    [
+     83.67,
+     86.0
+    ]
+   ],
+   [
+    [
+     86.64,
+     92.82
+    ]
+   ],
+   [
+    [
+     93.37,
+     97.85
+    ]
+   ],
+   [
+    [
+     98.43,
+     100.84
+    ],
+    [
+     101.35,
+     105.2
+    ],
+    [
+     105.69,
+     107.24
+    ]
+   ],
+   [
+    [
+     107.78,
+     114.97
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1
+}
