@@ -1,28 +1,17 @@
 {
-  "bolum": "027_yug",
-  "min_w": 700,
-  "sorgular": [
-    "incategory:\"Balbal\"",
-    "incategory:\"Balbals\"",
-    "incategory:\"Orkhon Valley Cultural Landscape\"",
-    "incategory:\"Kul Tigin\"",
-    "incategory:\"Bilge Khagan\"",
-    "incategory:\"Khöshöö Tsaidam\""
-  ],
-  "incele": [
-    "File:Kultigin Monument of Orkhon Inscriptions.jpeg",
-    "File:Turkic hunting scene, Gokturk period Altai.png",
-    "File:BalBal monuments to a Turkic warrior 01.jpg",
-    "File:Turkic Head of Koltegin Statue (35324303410).jpg",
-    "File:Bilge Khagan monument Mongolia.JPG",
-    "File:Kultegin monument Mongolia.JPG",
-    "File:Balbal at Munkh-Khairkhan mount - panoramio.jpg",
-    "File:Balbal at Mongol Els - panoramio.jpg",
-    "File:Turkic Stone Statue (35711275975).jpg",
-    "File:Turkic Stone Statue (34869960614).jpg",
-    "File:Turkic Stone Statue (34869963064).jpg",
-    "File:Yurt in Orkhon Valley.jpg",
-    "File:202408 Orkhon Valley 02.jpg",
-    "File:Goats in Orkhon Valley 02.jpg"
-  ]
+ "bolum": "027_yug",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [
+  "File:BalBal monuments to a Turkic warrior 02.jpg",
+  "File:Gorkhi-Terelj National Park Kurgan steles in Mongolia (3).jpg",
+  "File:Orkhon River Valley (39129388085).jpg",
+  "File:A simple herder's ger (39317560454).jpg",
+  "File:Kultigin.png",
+  "File:Kul-tegin head (2023-03-07) 01.jpg",
+  "File:Turkic Silver & Gold Deer.jpg",
+  "File:Turkic Silver Bowl (34902055963).jpg",
+  "File:Turkic Gold Diadem, 6th-8th C. AD (35580752341).jpg",
+  "File:Turkic Stele of Koltegin, Replica (34902007803).jpg"
+ ]
 }
