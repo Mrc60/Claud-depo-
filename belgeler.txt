@@ -1,7 +1,8 @@
-# 026 nikâh — görsel için özgün kanun sayfaları
-tbmm_2330_1933.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf
-tbmm_1826_1974.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc057/kanuntbmmc057/kanuntbmmc05701826.pdf
-rg_6000_1945.pdf https://www.resmigazete.gov.tr/arsiv/6000.pdf
-rg_14929_1974.pdf https://www.resmigazete.gov.tr/arsiv/14929.pdf
-rg_17466_1981.pdf https://www.resmigazete.gov.tr/arsiv/17466.pdf
-rg_339_1926-04-04.pdf https://www.resmigazete.gov.tr/arsiv/339.pdf
+# 027 yuğ — Göktürk yas törenleri
+belleten_yazar_otag.pdf https://belleten.gov.tr/eng/full-text/189/tur
+kapusuzoglu_2015.html https://dergipark.org.tr/tr/pub/tariharastirmalari/article/603040
+oger_inayet_uygur.html https://dergipark.org.tr/en/pub/uygur/article/324293
+tdkbelleten_875.pdf https://tdkbelleten.gov.tr/tam-metin-pdf/875/tur
+belleten_2826.html https://belleten.gov.tr/tam-metin/2826/tur
+user_2008_turkbilig.pdf https://turkoloji.cu.edu.tr/ESKI%20TURK%20DILI/hatice_sirin_user_kan_agla_bas_bagla_deyim_bilge_kagan.pdf
+durmus_anitlik.pdf https://ayk.gov.tr/wp-content/uploads/2015/01/DURMU%C5%9E-%C4%B0lhami-B%C4%B0LGE-KA%C4%9EAN-K%C3%96L-T%C4%B0G%C4%B0N-ANITLIKLARININ-KALINTI-BULUNTULARI-VE-T%C3%9CRK-K%C3%9CLT%C3%9CR-TAR%C4%B0H%C4%B0-A%C3%87ISINDAN-DE%C4%9EERLEND%C4%B0R%C4%B0LMES%C4%B0.pdf
