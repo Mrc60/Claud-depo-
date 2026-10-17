@@ -2,20 +2,25 @@
   "bolum": "026_nikah",
   "min_w": 700,
   "sorgular": [
-    "incategory:\"Wedding ceremonies in Turkey\"",
-    "incategory:\"Weddings in Turkey\"",
-    "incategory:\"Mustafa Kemal Atatürk in 1931\" wedding",
-    "Atatürk nikah şahidi",
-    "Atatürk wedding 1930",
-    "incategory:\"Women of Turkey in 1931\"",
-    "incategory:\"Women of Turkey in the 1930s\"",
-    "incategory:\"Children of Turkey\" 1930",
-    "incategory:\"Black and white photographs of Turkey in the 1930s\"",
-    "incategory:\"Black and white photographs of Turkey in the 1920s\"",
-    "incategory:\"Families of Turkey\"",
-    "incategory:\"Villages in Turkey\" 1930",
-    "Turkish bride groom 1930s photograph",
-    "Matson Turkey village 1930s"
+    "incategory:\"Mustafa Kemal Atatürk in 1929\" düğün OR wedding OR nikah",
+    "incategory:\"Mustafa Kemal Atatürk in 1930\"",
+    "incategory:\"Mustafa Kemal Atatürk in 1932\" wedding OR nikah OR düğün",
+    "Atatürk Sabiha Gökçen wedding OR nikah",
+    "Atatürk Makbule nikah",
+    "incategory:\"Black and white photographs of Ankara in the 1930s\" family OR women OR children",
+    "incategory:\"Women of Turkey in 1930\"",
+    "incategory:\"Women of Turkey in 1934\"",
+    "incategory:\"Children of Turkey in the 1930s\"",
+    "SALT Research family 1930s",
+    "early Republican Turkey family photograph",
+    "Turkish peasant women 1930s Anatolia photograph"
   ],
-  "incele": []
+  "incele": [
+    "File:An early Republican family, 1920s. (15001811137).jpg",
+    "File:Mübadil GENCER Ailesi-(1923).jpg",
+    "File:Turkish bride.jpg",
+    "File:Ataturk visits a school.jpg",
+    "File:Turkish women with a picture of Atatürk.jpg",
+    "File:Ahmet Emin Yalman and family.png"
+  ]
 }
