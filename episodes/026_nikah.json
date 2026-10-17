@@ -147,11 +147,17 @@
    "image": {
     "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
     "fit": "tam",
-    "min_w": 600
+    "min_w": 600,
+    "kirp": [
+     0.165,
+     0,
+     0.775,
+     1
+    ]
    },
    "scene": "photo",
    "title": "Resmî nikâhlı mıydı?",
-   "subtitle": "ANKARA'DA BİR DÜĞÜN · 14 MAYIS 1931"
+   "subtitle": "FEVZİ ÇAKMAK'IN KIZININ DÜĞÜNÜ · ANKARA, 1931"
   },
   {
    "say": "4 Ekim 1926'da Türk Kanunu Medenisi yürürlüğe girdi.",
@@ -162,7 +168,13 @@
    "image": {
     "file": "File:Turkije, SFA022824253.jpg",
     "fit": "tam",
-    "min_w": 600
+    "min_w": 600,
+    "kirp": [
+     0.164,
+     0,
+     0.836,
+     1
+    ]
    },
    "scene": "photo",
    "title": "4 Ekim 1926",
@@ -180,7 +192,13 @@
     "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
     "lisans": "Resmî metin (kamu malı)",
     "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf"
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
    },
    "scene": "photo",
    "title": "Türk Kanunu Medenisi",
@@ -193,22 +211,19 @@
     "muhtar"
    ],
    "image": {
-    "local": "assets/belgeler/rg339_s15.jpg",
+    "file": "File:Mustafa Kemal'in Kavak ziyareti, 1930.jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+    "min_w": 600,
     "kirp": [
+     0.278,
      0,
-     0.2,
-     1,
-     0.47
+     0.922,
+     1
     ]
    },
    "scene": "photo",
-   "title": "Madde 108",
-   "subtitle": "RESMÎ GAZETE · 4 NİSAN 1926"
+   "title": "Herkesin önünde",
+   "subtitle": "KAVAK, SAMSUN · 1930"
   },
   {
    "say": "Nikâhın ardından çifte bir evlenme kâğıdı verilecekti.",
@@ -217,19 +232,19 @@
     "kâğıdı"
    ],
    "image": {
-    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+    "file": "File:Vrouwen, emancipatie, SFA022009446.jpg",
     "fit": "tam",
     "min_w": 600,
     "kirp": [
-     0.25,
+     0.019,
      0,
-     0.75,
+     0.981,
      1
     ]
    },
    "scene": "photo",
    "title": "Evlenme kâğıdı",
-   "subtitle": "ANKARA · 14 MAYIS 1931"
+   "subtitle": "SOKAKTA YAZI YAZAN ARZUHALCİ · 1925"
   },
   {
    "say": "Bu kâğıt gösterilmeden dinî nikâh yapılamazdı.",
@@ -240,14 +255,14 @@
    "image": {
     "local": "assets/belgeler/rg339_s15.jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339, madde 110",
     "lisans": "Resmî metin (kamu malı)",
     "kaynak": "T.C. Resmî Gazete arşivi",
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
     "kirp": [
-     0,
-     0.43,
-     1,
+     0.495,
+     0.45,
+     0.905,
      0.7
     ]
    },
@@ -262,22 +277,19 @@
     "batıldı."
    ],
    "image": {
-    "local": "assets/belgeler/rg339_s15.jpg",
+    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+    "min_w": 600,
     "kirp": [
+     0.39,
      0,
-     0.72,
-     1,
-     0.98
+     1.0,
+     1
     ]
    },
    "scene": "photo",
-   "title": "Madde 112",
-   "subtitle": "BATIL OLAN EVLENMELER"
+   "title": "Batıl evlilik",
+   "subtitle": "ANKARA · 14 MAYIS 1931"
   },
   {
    "say": "Ancak resmî nikâh kıyılmadan karı koca gibi yaşayan çiftler de vardı.",
@@ -286,22 +298,19 @@
     "kıyılmadan"
    ],
    "image": {
-    "local": "assets/belgeler/rg17466_1981_s2.jpg",
+    "file": "File:Turkije, SFA022824251.jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
+    "min_w": 600,
     "kirp": [
+     0.29,
      0,
-     0,
-     1,
-     0.3
+     0.91,
+     1
     ]
    },
    "scene": "photo",
-   "title": "Nikâhsız birlikteliler",
-   "subtitle": "RESMÎ GAZETE · 22 EYLÜL 1981"
+   "title": "Nikâhsız çiftler",
+   "subtitle": "ANKARA'DA BİR SOKAK · 1926"
   },
   {
    "say": "Sonraki yıllarda çıkarılan düzenlemeler, bu meselenin devletin gündemine tekrar tekrar geldiğini gösteriyor:",
@@ -315,7 +324,13 @@
     "baslik": "Resmî Gazete, 8 Mayıs 1945, sayı 6000 (4727 sayılı Kanun)",
     "lisans": "Resmî metin (kamu malı)",
     "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/6000.pdf"
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/6000.pdf",
+    "kirp": [
+     0,
+     0.0,
+     0.709,
+     1.0
+    ]
    },
    "scene": "photo",
    "title": "Tekrar tekrar",
@@ -333,7 +348,13 @@
     "baslik": "Resmî Gazete, 28 Haziran 1974, sayı 14929 (1826 sayılı Kanun)",
     "lisans": "Resmî metin (kamu malı)",
     "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/14929.pdf"
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/14929.pdf",
+    "kirp": [
+     0.056,
+     0.3,
+     0.504,
+     1.0
+    ]
    },
    "scene": "photo",
    "title": "Kanunun adı",
@@ -346,17 +367,14 @@
     "sekiz"
    ],
    "image": {
-    "local": "assets/belgeler/tbmm2330_1933_s3.jpg",
+    "file": "File:Turkije, SFA022824255.jpg",
     "fit": "tam",
-    "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "TBMM Kanunlar Dergisi",
-    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
+    "min_w": 600,
     "kirp": [
+     0.309,
      0,
-     0,
-     1,
-     0.28
+     0.691,
+     0.62
     ]
    },
    "scene": "photo",
@@ -385,10 +403,10 @@
     "kaynak": "T.C. Resmî Gazete arşivi",
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
     "kirp": [
-     0,
+     0.276,
      0.28,
-     1,
-     0.56
+     0.724,
+     0.62
     ]
    },
    "scene": "photo",
@@ -402,22 +420,19 @@
     "nüfusa"
    ],
    "image": {
-    "local": "assets/belgeler/rg14929_1974_kanun1826.jpg",
+    "file": "File:Ataturk visits a school.jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 28 Haziran 1974, sayı 14929 (1826 sayılı Kanun)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/14929.pdf",
+    "min_w": 600,
     "kirp": [
      0,
-     0.3,
-     1,
-     0.75
+     0,
+     0.601,
+     1
     ]
    },
    "scene": "photo",
    "title": "Nüfusa kayıt",
-   "subtitle": "RESMÎ GAZETE · 28 HAZİRAN 1974"
+   "subtitle": "İZMİR KIZ LİSESİ · 1931"
   },
   {
    "say": "Peki ya evli bir erkekle, evli olmayan bir kadının birlikteliğinden doğan çocuklar?",
@@ -426,22 +441,19 @@
     "evli"
    ],
    "image": {
-    "local": "assets/belgeler/tbmm2330_1933_s3.jpg",
+    "file": "File:Vrouwen, emancipatie, SFA022009445.jpg",
     "fit": "tam",
-    "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "TBMM Kanunlar Dergisi",
-    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
+    "min_w": 600,
     "kirp": [
+     0.057,
      0,
-     0.06,
-     1,
-     0.42
+     0.743,
+     1
     ]
    },
    "scene": "photo",
    "title": "Peki ya?",
-   "subtitle": "AF KANUNU · 1933 · MADDE 16"
+   "subtitle": "TÜRKİYE · 1925"
   },
   {
    "say": "Bu çocuklar da anne ve babalarının adları belirtilerek nüfusa kaydedilebiliyordu.",
@@ -450,22 +462,19 @@
     "adları"
    ],
    "image": {
-    "local": "assets/belgeler/rg17466_1981_s2.jpg",
+    "file": "File:Vrouwen, emancipatie, SFA022009446.jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
+    "min_w": 600,
     "kirp": [
-     0,
-     0.4,
-     1,
-     0.62
+     0.187,
+     0.1,
+     0.813,
+     0.75
     ]
    },
    "scene": "photo",
    "title": "Çocuklar kaydedildi",
-   "subtitle": "RESMÎ GAZETE · 22 EYLÜL 1981"
+   "subtitle": "ARZUHALCİ · 1925"
   },
   {
    "say": "Ancak bu birliktelik evlilik olarak tescil edilemiyordu.",
@@ -481,10 +490,10 @@
     "kaynak": "TBMM Kanunlar Dergisi",
     "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
     "kirp": [
-     0,
-     0.12,
-     1,
-     0.36
+     0.309,
+     0.1,
+     0.691,
+     0.42
     ]
    },
    "scene": "photo",
@@ -498,16 +507,19 @@
     "hikâye"
    ],
    "image": {
-    "local": "assets/belgeler/rg339_1926_kapak.jpg",
+    "file": "File:An early Republican family, 1920s. (15001811137).jpg",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf"
+    "min_w": 600,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
    },
    "scene": "photo",
    "title": "Sizin aileniz?",
-   "subtitle": "YORUMLARDA PAYLAŞIN"
+   "subtitle": "CUMHURİYETİN İLK YILLARINDA BİR AİLE"
   },
   {
    "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
@@ -516,16 +528,19 @@
     "kaynaklara"
    ],
    "image": {
-    "local": "assets/belgeler/rg6000_1945_kanun4727.jpg",
+    "file": "File:Ahmet Emin Yalman and family.png",
     "fit": "tam",
-    "baslik": "Resmî Gazete, 8 Mayıs 1945, sayı 6000 (4727 sayılı Kanun)",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/6000.pdf"
+    "min_w": 600,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
    },
    "scene": "photo",
    "title": "Kaynaklar açıklamada",
-   "subtitle": "RESMÎ GAZETE · 8 MAYIS 1945"
+   "subtitle": "AHMET EMİN YALMAN VE AİLESİ · 1924"
   },
   {
    "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
@@ -534,14 +549,20 @@
     "takip"
    ],
    "image": {
-    "file": "File:Turkije, SFA022824253.jpg",
+    "file": "File:Mübadil GENCER Ailesi-(1923).jpg",
     "fit": "tam",
-    "min_w": 600
+    "min_w": 600,
+    "kirp": [
+     0.185,
+     0,
+     0.815,
+     1
+    ]
    },
    "scene": "photo",
    "title": "Sıradan Değil",
    "subtitle": "BEĞENİN · TAKİP EDİN"
   }
  ],
- "revizyon": 3
+ "revizyon": 4
 }
