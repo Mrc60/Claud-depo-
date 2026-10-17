@@ -1,4 +1,2 @@
-# 028 1 Temmuz — 4 (Grok haberleri)
-aa_cine_2014.html https://www.sondakika.com/yerel/haber-nufus-cuzdanina-dogum-tarihi-eklendi-6766463/
-ntv_gazipasa_2015.html https://www.ntv.com.tr/turkiye/burada-yasayanlarin-dogum-tarihleri-00-00,3S0ZnWdAV0imqgqWymkpqg
-ntv_siverek_2012.html https://www.ntv.com.tr/turkiye/siverekte-40-bin-kisi-ayni-gun-dogdu,H7lZFJxSwEeZBXd3aQrbgw
+# 028 — Torun & Tumen 2017
+torun_tumen_2017.pdf https://www.demographic-research.org/volumes/vol37/57/37-57.pdf
