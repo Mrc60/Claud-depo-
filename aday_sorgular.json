@@ -1,19 +1,15 @@
 {
-  "bolum": "026_nikah",
-  "min_w": 700,
-  "sorgular": [
-    "Turkije SFA022 vrouwen",
-    "Turkije SFA022 kinderen",
-    "Turkije SFA022 dorp boeren",
-    "Turkije SFA022 bruiloft OR huwelijk",
-    "Turkije SFA022 Angora",
-    "Turkije Spaarnestad 1930 familie",
-    "Spaarnestad Turkse vrouwen",
-    "incategory:\"Photographs from Spaarnestad Photo before 1929\" Turkije",
-    "Turkish peasants Anatolia 1920s Library of Congress",
-    "Matson collection Turkey Anatolia village",
-    "incategory:\"1930s in Turkey\" village",
-    "Köy kadınları 1930"
-  ],
-  "incele": ["File:Mustafa Kemal'in Kavak ziyareti, 1930.jpg", "File:Atatürk Trabzon'da köylü bir aile ile birlikte (28 Kasım 1930).jpg"]
+ "bolum": "026_nikah",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [
+  "File:Vrouwen, emancipatie, SFA022009446.jpg",
+  "File:Vrouwen, emancipatie, SFA022009445.jpg",
+  "File:Vrouwen, emancipatie, SFA022009444.jpg",
+  "File:Vrouwen, emancipatie, SFA022009443.jpg",
+  "File:Turkije, SFA022824255.jpg",
+  "File:Turkije, SFA022824254.jpg",
+  "File:Turkije, SFA022824252.jpg",
+  "File:Turkije, SFA022824251.jpg"
+ ]
 }
