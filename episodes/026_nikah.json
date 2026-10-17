@@ -277,19 +277,22 @@
     "batıldı."
    ],
    "image": {
-    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+    "local": "assets/belgeler/rg339_s15.jpg",
     "fit": "tam",
-    "min_w": 600,
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339, madde 112",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
     "kirp": [
-     0.39,
-     0,
-     1.0,
-     1
+     0.524,
+     0.72,
+     0.95,
+     0.98
     ]
    },
    "scene": "photo",
-   "title": "Batıl evlilik",
-   "subtitle": "ANKARA · 14 MAYIS 1931"
+   "title": "Madde 112",
+   "subtitle": "BATIL OLAN EVLENMELER · 1926"
   },
   {
    "say": "Ancak resmî nikâh kıyılmadan karı koca gibi yaşayan çiftler de vardı.",
@@ -564,5 +567,5 @@
    "subtitle": "BEĞENİN · TAKİP EDİN"
   }
  ],
- "revizyon": 4
+ "revizyon": 5
 }
