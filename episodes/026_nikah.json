@@ -193,7 +193,7 @@
     "muhtar"
    ],
    "image": {
-    "local": "assets/belgeler/rg339_tkm_m108_110.jpg",
+    "local": "assets/belgeler/rg339_s15.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
     "lisans": "Resmî metin (kamu malı)",
@@ -201,9 +201,9 @@
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
     "kirp": [
      0,
-     0,
+     0.2,
      1,
-     0.4
+     0.47
     ]
    },
    "scene": "photo",
@@ -238,7 +238,7 @@
     "dinî"
    ],
    "image": {
-    "local": "assets/belgeler/rg339_tkm_m108_110.jpg",
+    "local": "assets/belgeler/rg339_s15.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
     "lisans": "Resmî metin (kamu malı)",
@@ -246,9 +246,9 @@
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
     "kirp": [
      0,
-     0.62,
+     0.43,
      1,
-     0.95
+     0.7
     ]
    },
    "scene": "photo",
@@ -262,12 +262,18 @@
     "batıldı."
    ],
    "image": {
-    "local": "assets/belgeler/rg339_tkm_m112.jpg",
+    "local": "assets/belgeler/rg339_s15.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
     "lisans": "Resmî metin (kamu malı)",
     "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf"
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+    "kirp": [
+     0,
+     0.72,
+     1,
+     0.98
+    ]
    },
    "scene": "photo",
    "title": "Madde 112",
@@ -280,7 +286,7 @@
     "kıyılmadan"
    ],
    "image": {
-    "local": "assets/belgeler/rg17466_1981_kanun2526.jpg",
+    "local": "assets/belgeler/rg17466_1981_s2.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
     "lisans": "Resmî metin (kamu malı)",
@@ -288,9 +294,9 @@
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
     "kirp": [
      0,
-     0.1,
+     0,
      1,
-     0.33
+     0.3
     ]
    },
    "scene": "photo",
@@ -340,7 +346,7 @@
     "sekiz"
    ],
    "image": {
-    "local": "assets/belgeler/tbmm2330_1933_m16.jpg",
+    "local": "assets/belgeler/tbmm2330_1933_s3.jpg",
     "fit": "tam",
     "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
     "lisans": "Resmî metin (kamu malı)",
@@ -350,7 +356,7 @@
      0,
      0,
      1,
-     0.4
+     0.45
     ]
    },
    "scene": "photo",
@@ -372,7 +378,7 @@
     "engel"
    ],
    "image": {
-    "local": "assets/belgeler/rg17466_1981_kanun2526.jpg",
+    "local": "assets/belgeler/rg17466_1981_s2.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
     "lisans": "Resmî metin (kamu malı)",
@@ -380,9 +386,9 @@
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
     "kirp": [
      0,
-     0.68,
+     0.28,
      1,
-     0.9
+     0.56
     ]
    },
    "scene": "photo",
@@ -420,7 +426,7 @@
     "evli"
    ],
    "image": {
-    "local": "assets/belgeler/tbmm2330_1933_m16.jpg",
+    "local": "assets/belgeler/tbmm2330_1933_s3.jpg",
     "fit": "tam",
     "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
     "lisans": "Resmî metin (kamu malı)",
@@ -428,9 +434,9 @@
     "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
     "kirp": [
      0,
-     0.36,
+     0.06,
      1,
-     0.74
+     0.42
     ]
    },
    "scene": "photo",
@@ -444,7 +450,7 @@
     "adları"
    ],
    "image": {
-    "local": "assets/belgeler/rg17466_1981_kanun2526.jpg",
+    "local": "assets/belgeler/rg17466_1981_s2.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
     "lisans": "Resmî metin (kamu malı)",
@@ -452,9 +458,9 @@
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
     "kirp": [
      0,
-     0.88,
+     0.4,
      1,
-     1.0
+     0.62
     ]
    },
    "scene": "photo",
@@ -468,7 +474,7 @@
     "edilemiyordu."
    ],
    "image": {
-    "local": "assets/belgeler/tbmm2330_1933_m16.jpg",
+    "local": "assets/belgeler/tbmm2330_1933_s3.jpg",
     "fit": "tam",
     "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
     "lisans": "Resmî metin (kamu malı)",
@@ -476,9 +482,9 @@
     "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
     "kirp": [
      0,
-     0.57,
+     0.12,
      1,
-     0.73
+     0.36
     ]
    },
    "scene": "photo",
@@ -537,5 +543,5 @@
    "subtitle": "BEĞENİN · TAKİP EDİN"
   }
  ],
- "revizyon": 1
+ "revizyon": 2
 }
