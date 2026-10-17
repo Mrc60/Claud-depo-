@@ -32,7 +32,10 @@ jobs:
             if [ "$tur" = "application/pdf" ]; then
               pdftotext -layout "$ad" "${ad%.pdf}.txt" || true
               n=$(tr -d '[:space:]' < "${ad%.pdf}.txt" | wc -c)
-              if [ "$n" -lt 2000 ]; then
+              sayfa=$(pdfinfo "$ad" 2>/dev/null | awk '/^Pages:/{print $2}')
+              if [ "$n" -lt 2000 ] && [ "${sayfa:-0}" -gt 20 ]; then
+                echo "  metin yok/az ($n), $sayfa sayfa -> OCR atlandı (çok uzun)" | tee -a rapor.txt
+              elif [ "$n" -lt 2000 ]; then
                 echo "  metin yok/az ($n) -> OCR" | tee -a rapor.txt
                 pdftoppm -r 300 -png "$ad" "s_${ad%.pdf}"
                 : > "${ad%.pdf}.ocr.txt"
