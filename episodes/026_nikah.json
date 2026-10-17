@@ -1,0 +1,541 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 26,
+ "slug": "nikah",
+ "title": "Resmî Nikâh",
+ "youtube_title": "Dedenizle nineniz resmî nikâhlı mıydı? #SıradanDeğil 26",
+ "youtube_description": "1926 Medeni Kanunu, resmî nikâh ve tescil kanunları.",
+ "sources": [
+  "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+  "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/6000.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/14929.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/17466.pdf"
+ ],
+ "dis_ses": {
+  "file": "assets/ses/026_nikah.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     2.61
+    ]
+   ],
+   [
+    [
+     3.42,
+     8.03
+    ]
+   ],
+   [
+    [
+     8.67,
+     11.54
+    ]
+   ],
+   [
+    [
+     11.84,
+     18.39
+    ]
+   ],
+   [
+    [
+     19.12,
+     22.58
+    ]
+   ],
+   [
+    [
+     23.19,
+     26.26
+    ]
+   ],
+   [
+    [
+     26.83,
+     33.22
+    ]
+   ],
+   [
+    [
+     33.98,
+     38.22
+    ]
+   ],
+   [
+    [
+     38.77,
+     42.54
+    ]
+   ],
+   [
+    [
+     43.12,
+     46.97
+    ]
+   ],
+   [
+    [
+     47.72,
+     53.61
+    ]
+   ],
+   [
+    [
+     54.22,
+     61.4
+    ]
+   ],
+   [
+    [
+     61.71,
+     64.07
+    ]
+   ],
+   [
+    [
+     64.82,
+     69.94
+    ]
+   ],
+   [
+    [
+     70.57,
+     75.64
+    ]
+   ],
+   [
+    [
+     76.14,
+     79.62
+    ]
+   ],
+   [
+    [
+     80.37,
+     84.74
+    ],
+    [
+     85.35,
+     88.28
+    ]
+   ],
+   [
+    [
+     88.96,
+     95.48
+    ]
+   ],
+   [
+    [
+     96.03,
+     102.34
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Dedenizle nineniz resmî nikâhlı mıydı?",
+   "caption": "Dedenizle nineniz resmî nikâhlı mıydı?",
+   "key": [
+    "nikâhlı"
+   ],
+   "image": {
+    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Resmî nikâhlı mıydı?",
+   "subtitle": "ANKARA'DA BİR DÜĞÜN · 14 MAYIS 1931"
+  },
+  {
+   "say": "4 Ekim 1926'da Türk Kanunu Medenisi yürürlüğe girdi.",
+   "caption": "4 Ekim 1926'da Türk Kanunu Medenisi yürürlüğe girdi.",
+   "key": [
+    "Medenisi"
+   ],
+   "image": {
+    "file": "File:Turkije, SFA022824253.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "4 Ekim 1926",
+   "subtitle": "MECLİS BİNASI, ANKARA · 1926"
+  },
+  {
+   "say": "Kanuna göre evlilik; iki şahit önünde,",
+   "caption": "Kanuna göre evlilik; iki şahit önünde,",
+   "key": [
+    "şahit"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg339_1926_kapak.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf"
+   },
+   "scene": "photo",
+   "title": "Türk Kanunu Medenisi",
+   "subtitle": "RESMÎ GAZETE · 4 NİSAN 1926"
+  },
+  {
+   "say": "belediye reisi, onun görevlendirdiği memur veya muhtar tarafından, herkesin önünde kıyılacaktı.",
+   "caption": "belediye reisi, onun görevlendirdiği memur veya muhtar tarafından, herkesin önünde kıyılacaktı.",
+   "key": [
+    "muhtar"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg339_tkm_m108_110.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     0.4
+    ]
+   },
+   "scene": "photo",
+   "title": "Madde 108",
+   "subtitle": "RESMÎ GAZETE · 4 NİSAN 1926"
+  },
+  {
+   "say": "Nikâhın ardından çifte bir evlenme kâğıdı verilecekti.",
+   "caption": "Nikâhın ardından çifte bir evlenme kâğıdı verilecekti.",
+   "key": [
+    "kâğıdı"
+   ],
+   "image": {
+    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+    "fit": "tam",
+    "min_w": 600,
+    "kirp": [
+     0.25,
+     0,
+     0.75,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Evlenme kâğıdı",
+   "subtitle": "ANKARA · 14 MAYIS 1931"
+  },
+  {
+   "say": "Bu kâğıt gösterilmeden dinî nikâh yapılamazdı.",
+   "caption": "Bu kâğıt gösterilmeden dinî nikâh yapılamazdı.",
+   "key": [
+    "dinî"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg339_tkm_m108_110.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf",
+    "kirp": [
+     0,
+     0.62,
+     1,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "title": "Madde 110",
+   "subtitle": "RESMÎ GAZETE · 4 NİSAN 1926"
+  },
+  {
+   "say": "Üstelik evlenme sırasında taraflardan biri zaten evliyse, yeni evlilik kanuna göre batıldı.",
+   "caption": "Üstelik evlenme sırasında taraflardan biri zaten evliyse, yeni evlilik kanuna göre batıldı.",
+   "key": [
+    "batıldı."
+   ],
+   "image": {
+    "local": "assets/belgeler/rg339_tkm_m112.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf"
+   },
+   "scene": "photo",
+   "title": "Madde 112",
+   "subtitle": "BATIL OLAN EVLENMELER"
+  },
+  {
+   "say": "Ancak resmî nikâh kıyılmadan karı koca gibi yaşayan çiftler de vardı.",
+   "caption": "Ancak resmî nikâh kıyılmadan karı koca gibi yaşayan çiftler de vardı.",
+   "key": [
+    "kıyılmadan"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg17466_1981_kanun2526.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
+    "kirp": [
+     0,
+     0.1,
+     1,
+     0.33
+    ]
+   },
+   "scene": "photo",
+   "title": "Nikâhsız birlikteliler",
+   "subtitle": "RESMÎ GAZETE · 22 EYLÜL 1981"
+  },
+  {
+   "say": "Sonraki yıllarda çıkarılan düzenlemeler, bu meselenin devletin gündemine tekrar tekrar geldiğini gösteriyor:",
+   "caption": "Sonraki yıllarda çıkarılan düzenlemeler, bu meselenin devletin gündemine tekrar tekrar geldiğini gösteriyor:",
+   "key": [
+    "tekrar"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg6000_1945_kanun4727.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 8 Mayıs 1945, sayı 6000 (4727 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/6000.pdf"
+   },
+   "scene": "photo",
+   "title": "Tekrar tekrar",
+   "subtitle": "RESMÎ GAZETE · 8 MAYIS 1945"
+  },
+  {
+   "say": "Tescil edilmeyen birleşmeler ve bunlardan doğan çocuklar.",
+   "caption": "Tescil edilmeyen birleşmeler ve bunlardan doğan çocuklar.",
+   "key": [
+    "Tescil"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg14929_1974_kanun1826.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 28 Haziran 1974, sayı 14929 (1826 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/14929.pdf"
+   },
+   "scene": "photo",
+   "title": "Kanunun adı",
+   "subtitle": "RESMÎ GAZETE · 28 HAZİRAN 1974"
+  },
+  {
+   "say": "1933'ten 1991'e kadar bu konuda en az sekiz düzenleme yapıldı.",
+   "caption": "1933'ten 1991'e kadar bu konuda en az sekiz düzenleme yapıldı.",
+   "key": [
+    "sekiz"
+   ],
+   "image": {
+    "local": "assets/belgeler/tbmm2330_1933_m16.jpg",
+    "fit": "tam",
+    "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM Kanunlar Dergisi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     0.4
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1933 – 1991",
+    "baslik": "En az 8 düzenleme",
+    "maddeler": [
+     "1933 · 1945 · 1950 · 1956",
+     "1965 · 1974 · 1981 · 1991"
+    ],
+    "bekle": 1.2
+   }
+  },
+  {
+   "say": "Evlenmelerine kanuni bir engel bulunmayan ve ortak çocuğu olan bazı çiftlerin birliktelikleri evlilik olarak,",
+   "caption": "Evlenmelerine kanuni bir engel bulunmayan ve ortak çocuğu olan bazı çiftlerin birliktelikleri evlilik olarak,",
+   "key": [
+    "engel"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg17466_1981_kanun2526.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
+    "kirp": [
+     0,
+     0.68,
+     1,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "title": "Madde 3",
+   "subtitle": "RESMÎ GAZETE · 22 EYLÜL 1981"
+  },
+  {
+   "say": "çocukları da nüfusa kaydedilebiliyordu.",
+   "caption": "çocukları da nüfusa kaydedilebiliyordu.",
+   "key": [
+    "nüfusa"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg14929_1974_kanun1826.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 28 Haziran 1974, sayı 14929 (1826 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/14929.pdf",
+    "kirp": [
+     0,
+     0.3,
+     1,
+     0.75
+    ]
+   },
+   "scene": "photo",
+   "title": "Nüfusa kayıt",
+   "subtitle": "RESMÎ GAZETE · 28 HAZİRAN 1974"
+  },
+  {
+   "say": "Peki ya evli bir erkekle, evli olmayan bir kadının birlikteliğinden doğan çocuklar?",
+   "caption": "Peki ya evli bir erkekle, evli olmayan bir kadının birlikteliğinden doğan çocuklar?",
+   "key": [
+    "evli"
+   ],
+   "image": {
+    "local": "assets/belgeler/tbmm2330_1933_m16.jpg",
+    "fit": "tam",
+    "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM Kanunlar Dergisi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
+    "kirp": [
+     0,
+     0.36,
+     1,
+     0.74
+    ]
+   },
+   "scene": "photo",
+   "title": "Peki ya?",
+   "subtitle": "AF KANUNU · 1933 · MADDE 16"
+  },
+  {
+   "say": "Bu çocuklar da anne ve babalarının adları belirtilerek nüfusa kaydedilebiliyordu.",
+   "caption": "Bu çocuklar da anne ve babalarının adları belirtilerek nüfusa kaydedilebiliyordu.",
+   "key": [
+    "adları"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg17466_1981_kanun2526.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 22 Eylül 1981, sayı 17466 (2526 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/17466.pdf",
+    "kirp": [
+     0,
+     0.88,
+     1,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Çocuklar kaydedildi",
+   "subtitle": "RESMÎ GAZETE · 22 EYLÜL 1981"
+  },
+  {
+   "say": "Ancak bu birliktelik evlilik olarak tescil edilemiyordu.",
+   "caption": "Ancak bu birliktelik evlilik olarak tescil edilemiyordu.",
+   "key": [
+    "edilemiyordu."
+   ],
+   "image": {
+    "local": "assets/belgeler/tbmm2330_1933_m16.jpg",
+    "fit": "tam",
+    "baslik": "2330 sayılı Af Kanunu, 1933, madde 16 (TBMM kanun metni)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM Kanunlar Dergisi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc012/kanuntbmmc012/kanuntbmmc01202330.pdf",
+    "kirp": [
+     0,
+     0.57,
+     1,
+     0.73
+    ]
+   },
+   "scene": "photo",
+   "title": "“Erkek evli ise…”",
+   "subtitle": "AF KANUNU · 1933"
+  },
+  {
+   "say": "Peki sizin ailenizde nüfus kaydıyla ilgili anlatılan bir hikâye var mı? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki sizin ailenizde nüfus kaydıyla ilgili anlatılan bir hikâye var mı? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "hikâye"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg339_1926_kapak.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339 (Türk Kanunu Medenisi)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/339.pdf"
+   },
+   "scene": "photo",
+   "title": "Sizin aileniz?",
+   "subtitle": "YORUMLARDA PAYLAŞIN"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg6000_1945_kanun4727.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 8 Mayıs 1945, sayı 6000 (4727 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/6000.pdf"
+   },
+   "scene": "photo",
+   "title": "Kaynaklar açıklamada",
+   "subtitle": "RESMÎ GAZETE · 8 MAYIS 1945"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:Turkije, SFA022824253.jpg",
+    "fit": "tam",
+    "min_w": 600
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "BEĞENİN · TAKİP EDİN"
+  }
+ ],
+ "revizyon": 1
+}
