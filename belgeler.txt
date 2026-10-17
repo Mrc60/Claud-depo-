@@ -1,8 +1,8 @@
-# 027 yuğ — Göktürk yas törenleri
-belleten_yazar_otag.pdf https://belleten.gov.tr/eng/full-text/189/tur
-kapusuzoglu_2015.html https://dergipark.org.tr/tr/pub/tariharastirmalari/article/603040
-oger_inayet_uygur.html https://dergipark.org.tr/en/pub/uygur/article/324293
-tdkbelleten_875.pdf https://tdkbelleten.gov.tr/tam-metin-pdf/875/tur
-belleten_2826.html https://belleten.gov.tr/tam-metin/2826/tur
-user_2008_turkbilig.pdf https://turkoloji.cu.edu.tr/ESKI%20TURK%20DILI/hatice_sirin_user_kan_agla_bas_bagla_deyim_bilge_kagan.pdf
-durmus_anitlik.pdf https://ayk.gov.tr/wp-content/uploads/2015/01/DURMU%C5%9E-%C4%B0lhami-B%C4%B0LGE-KA%C4%9EAN-K%C3%96L-T%C4%B0G%C4%B0N-ANITLIKLARININ-KALINTI-BULUNTULARI-VE-T%C3%9CRK-K%C3%9CLT%C3%9CR-TAR%C4%B0H%C4%B0-A%C3%87ISINDAN-DE%C4%9EERLEND%C4%B0R%C4%B0LMES%C4%B0.pdf
+# 027 yuğ — 2. tur
+beishi_99.html https://zh.wikisource.org/wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7099
+suishu_84.html https://zh.wikisource.org/wiki/%E9%9A%8B%E6%9B%B8/%E5%8D%B784
+tasagil_belleten_2495.html https://www.belleten.gov.tr/eng/full-text/2495/tur
+uzunkaya_2020.pdf https://dergipark.org.tr/tr/download/article-file/1076377
+kirile_2021.pdf https://isamveri.org/pdfsbv/G00977/2021/2021_KIRILE.pdf
+kapusuzoglu_2015.pdf https://dergipark.org.tr/tr/download/article-file/781112
+jordanes_getica.html https://www.thelatinlibrary.com/iordanes1.html
