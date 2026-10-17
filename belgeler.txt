@@ -1,9 +1,11 @@
-# Her satır: dosya_adı URL
-rg_1048_1928-11-24.pdf https://www.resmigazete.gov.tr/arsiv/1048.pdf
-rg_1030_1928-11-03.pdf https://www.resmigazete.gov.tr/arsiv/1030.pdf
-rg_1321.pdf https://www.resmigazete.gov.tr/arsiv/1321.pdf
-ozturk_nurdogan_millet_mektepleri.pdf https://dergipark.org.tr/tr/download/article-file/3173030
-ataturk_ans_harf_devrimi.pdf https://ataturkansiklopedisi.gov.tr/bilgi/harf-devrimi/?pdf=3622
-ataturk_ans_1927_sayim.pdf https://ataturkansiklopedisi.gov.tr/bilgi/1927-nufus-sayimi/?pdf=3899
-kumas_2021_istatistik.pdf https://www.researchgate.net/publication/350300041_CUMHURIYET_DONEMI_1923-1935_EGITIM-OGRETIM_FAALIYETLERININ_ISTATISTIKI_VERILER_ISIGINDA_ANALIZI
-erdem_1935_sayim.pdf https://dergipark.org.tr/tr/download/article-file/229431
+# Medeni Kanun ve resmî nikâh — birincil belgeler
+nvi_2526_1981.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/2526sayilibirevlenmeakdinedayanmayanbirlesmedendogancocuklar.pdf
+nvi_4727.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/4727sayilitesciledilmiyenbirlesmelerlebunlardandogancocuklari.pdf
+nvi_5524.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/5524sayilitesciledilmiyenbirlesmelerledogancocuklartesciline.pdf
+nvi_6652.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/6652sayilitesciledilmiyenbirlesmelerilebunlardandogancocuklarcezasiztescili.pdf
+nvi_554.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/554sayilitesciledilmeyenbirlesmelerdogancocuklarintescili.pdf
+nvi_1826.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/1826sayilitesciledilmeyenbirlesmelerdogancocuktescili-_1_.pdf
+nvi_3716.pdf https://www.nvi.gov.tr/kurumlar/nvi.gov.tr/mevzuat/yururluktenkaldirilanlar/kanunlar/3716sayiliduzgunneseplicocuklarolarak.pdf
+rg_339_1926-04-04.pdf https://www.resmigazete.gov.tr/arsiv/339.pdf
+aym_1999_42.pdf https://normkararlarbilgibankasi.anayasa.gov.tr/Dosyalar/Kararlar/KararPDF/1999-42-nrm.pdf
+aile_hukuku_ataturk_donemi.pdf https://dergipark.org.tr/tr/download/article-file/1016820
