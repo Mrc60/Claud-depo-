@@ -1,14 +1,14 @@
 {
-  "bolum": "028_temmuz",
-  "min_w": 700,
-  "sorgular": [
-    "Kayserie Matson",
-    "Soghanli",
-    "Matson Cappadocia 1935",
-    "Turkey Kayserie school children statue",
-    "Whiting Matson Cappadocia",
-    "Ürgüp 1935",
-    "Cappadocia 1935 ox cart"
-  ],
-  "incele": []
+ "bolum": "028_temmuz",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [
+  "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16710.jpg",
+  "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16712.jpg",
+  "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16713.jpg",
+  "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16714.jpg",
+  "File:Eric Matson, Cones opposite Tchaouch In, Turkey, 1935.jpg",
+  "File:Cappadocia LOC matpc.12154.jpg",
+  "File:Cappadocia LOC matpc.12155.jpg"
+ ]
 }
