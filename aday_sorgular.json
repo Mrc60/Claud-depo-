@@ -2,17 +2,27 @@
   "bolum": "027_yug",
   "min_w": 700,
   "sorgular": [
-    "Bilge Kagan inscription",
-    "Kul Tigin inscription",
-    "Kul Tigin head statue",
-    "balbal Mongolia Turkic",
-    "Turkic stone statue Mongolia",
-    "Orkhon valley",
-    "Penjikent mourning painting",
-    "Panjakent mural lamentation",
-    "Mongolian steppe horses",
-    "Mongolian ger yurt steppe",
-    "Hoşo Tsaidam"
+    "incategory:\"Balbal\"",
+    "incategory:\"Balbals\"",
+    "incategory:\"Orkhon Valley Cultural Landscape\"",
+    "incategory:\"Kul Tigin\"",
+    "incategory:\"Bilge Khagan\"",
+    "incategory:\"Khöshöö Tsaidam\""
   ],
-  "incele": []
+  "incele": [
+    "File:Kultigin Monument of Orkhon Inscriptions.jpeg",
+    "File:Turkic hunting scene, Gokturk period Altai.png",
+    "File:BalBal monuments to a Turkic warrior 01.jpg",
+    "File:Turkic Head of Koltegin Statue (35324303410).jpg",
+    "File:Bilge Khagan monument Mongolia.JPG",
+    "File:Kultegin monument Mongolia.JPG",
+    "File:Balbal at Munkh-Khairkhan mount - panoramio.jpg",
+    "File:Balbal at Mongol Els - panoramio.jpg",
+    "File:Turkic Stone Statue (35711275975).jpg",
+    "File:Turkic Stone Statue (34869960614).jpg",
+    "File:Turkic Stone Statue (34869963064).jpg",
+    "File:Yurt in Orkhon Valley.jpg",
+    "File:202408 Orkhon Valley 02.jpg",
+    "File:Goats in Orkhon Valley 02.jpg"
+  ]
 }
