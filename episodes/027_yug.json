@@ -245,13 +245,13 @@
     "kapısına"
    ],
    "image": {
-    "file": "File:A simple herder's ger (39317560454).jpg",
+    "file": "File:Turkic Stone Statue (35711275975).jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.181,
      0,
-     0.819,
+     0,
+     1,
      1
     ]
    },
@@ -520,5 +520,5 @@
    "subtitle": "BEĞENİN · TAKİP EDİN"
   }
  ],
- "revizyon": 2
+ "revizyon": 3
 }
