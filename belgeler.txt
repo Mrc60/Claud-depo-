@@ -1,8 +1,5 @@
-# 027 yuğ — 2. tur
-beishi_99.html https://zh.wikisource.org/wiki/%E5%8C%97%E5%8F%B2/%E5%8D%B7099
-suishu_84.html https://zh.wikisource.org/wiki/%E9%9A%8B%E6%9B%B8/%E5%8D%B784
-tasagil_belleten_2495.html https://www.belleten.gov.tr/eng/full-text/2495/tur
-uzunkaya_2020.pdf https://dergipark.org.tr/tr/download/article-file/1076377
-kirile_2021.pdf https://isamveri.org/pdfsbv/G00977/2021/2021_KIRILE.pdf
-kapusuzoglu_2015.pdf https://dergipark.org.tr/tr/download/article-file/781112
-jordanes_getica.html https://www.thelatinlibrary.com/iordanes1.html
+# 028 1 Temmuz — nüfus kanunları
+rg_14189_1972.pdf https://www.resmigazete.gov.tr/arsiv/14189.pdf
+nufusk_1587_qsl.html https://www.qsl.net/ta2iz/KANUN/NUFUSK.htm
+mevzuat_5490.pdf https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5490.pdf
+mevzuat_5490_yon.html https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10869&MevzuatTur=7&MevzuatTertip=5
