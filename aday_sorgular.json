@@ -1,15 +1,18 @@
 {
- "bolum": "026_nikah",
- "min_w": 700,
- "sorgular": [],
- "incele": [
-  "File:Vrouwen, emancipatie, SFA022009446.jpg",
-  "File:Vrouwen, emancipatie, SFA022009445.jpg",
-  "File:Vrouwen, emancipatie, SFA022009444.jpg",
-  "File:Vrouwen, emancipatie, SFA022009443.jpg",
-  "File:Turkije, SFA022824255.jpg",
-  "File:Turkije, SFA022824254.jpg",
-  "File:Turkije, SFA022824252.jpg",
-  "File:Turkije, SFA022824251.jpg"
- ]
+  "bolum": "027_yug",
+  "min_w": 700,
+  "sorgular": [
+    "Bilge Kagan inscription",
+    "Kul Tigin inscription",
+    "Kul Tigin head statue",
+    "balbal Mongolia Turkic",
+    "Turkic stone statue Mongolia",
+    "Orkhon valley",
+    "Penjikent mourning painting",
+    "Panjakent mural lamentation",
+    "Mongolian steppe horses",
+    "Mongolian ger yurt steppe",
+    "Hoşo Tsaidam"
+  ],
+  "incele": []
 }
