@@ -1,0 +1,7 @@
+beishi_99.html | 200 | text/html | 104483 bayt
+suishu_84.html | 200 | text/html | 109322 bayt
+tasagil_belleten_2495.html | 200 | text/html | 55876 bayt
+uzunkaya_2020.pdf | 200 | application/pdf | 731026 bayt
+kirile_2021.pdf | 200 | application/pdf | 1004866 bayt
+kapusuzoglu_2015.pdf | 200 | application/pdf | 421638 bayt
+jordanes_getica.html | 200 | text/html | 166234 bayt

@@ -1,0 +1,1620 @@
+                  ADIYAMAN ÜNİVERSİTESİ SOSYAL BİLİMLER ENSTİTÜSÜ DERGİSİ
+                                     ISSN: 1308–9196
+
+                               Yıl : 13      Sayı : 34        Nisan 2020
+
+                Yayın Geliş Tarihi: 20.10.2019           Yayına Kabul Tarihi: 21.03.2020
+                                       Araştırma Makalesi
+                     DOI Numarası: https://doi.org/10.14520/adyusbd.635083
+
+
+            ESKİ TÜRKÇEDE KOKU, TÜTSÜ VE BUHURDAN*
+
+                                Uğur UZUNKAYA∗*
+
+                                            Öz
+
+       II. Doğu Türk Kağanlığı (632-744), Uygur Bozkır Kağanlığı (744-840) ve
+       Koço Uygur Hanlığı (860-1284) dönemlerine ait Eski Türkçe yazıtlar ve
+       yazmalar ile Yenisey, Dağlık Altay Bölgesi ve Kırgızistan’da bulunan
+       yazıtlar bugün Eski Türkçenin söz varlığının doyurucu bir malzemesini
+       sunar. Bu döneme ilişkin metinler dinî, sosyal, kültürel ve askerî terimler
+       başta olmak üzere muhtelif alanlara ilişkin birçok terimi ihtiva eder. Bu
+       çalışmanın amacını Eski Türkçe metinlerde geçen kokuya ilişkin ifadeler ile
+       tütsü ve buhurdan anlamındaki sözcüklerin tespiti ve kökenlerine ilişkin
+       açıklamalar oluşturmaktadır. Çalışmada Orhon Türkçesi ile kaleme
+       alınmış yazıt ve yazmalarla Eski Uygurca metinlerde geçen mevzubahis
+       sözcükler madde başı olarak alınmıştır; bununla birlikte tarihî Türkçenin
+       diğer dönemlerine ilişkin metinlere de atıf yapılarak madde başı olarak
+       belirlenen sözlerin özellikle orijinal metinlerdeki ve Türk diline ilişkin iki
+       dilli sözlüklerdeki görünümlerine yer verilmiştir. Bu çalışmadaki malzeme
+       Eski Türkçede Kokuya İlişkin İfadeler ile Eski Türkçede Tütsü ve Buhurdan
+       olmak üzere iki ayrı başlıkta incelenmiştir.
+
+       Anahtar Kelimeler: Eski Türkçe, terim, koku, tütsü, buhurdan.
+
+
+
+
+* Bu çalışma 11.10.2019 tarihinde Çin Halk Cumhuriyeti’nin Hohhot şehrinde düzenlenen
+Analyses of Languages and Literature of the Prairie Silk Road and the History of the
+Northern Ethnic Groups (I) Reanalysis of Old Turkic and Uighur Documents isimli
+uluslararası çalıştayda sözlü olarak sunulmuş bildirinin yeniden gözden geçirilerek ve
+eklemeler yapılarak hazırlanmış biçimidir.
+
+*∗    Dr. Öğr. Üyesi, Erzurum Teknik Üniversitesi, Edebiyat Fakültesi, Türk Dili ve
+Edebiyatı Bölümü, uguruzunkaya1@gmail.com, Erzurum/Türkiye.
+                                                    Eski Türkçede Koku, Tütsü Ve Buhurdan   165
+
+
+              SMELL, INCENSE AND CENSER IN OLD TURKIC
+
+                                         Abstract
+
+        Inscriptions and manuscripts belonging to the periods of the Second
+        Turkic Khanate (632-744), the Uighur Khanate (744-840) and the Uighur
+        Kingdom of Kocho (860-1284), and the inscriptions found in Yenisei,
+        Mountainous Altai and Kyrgyzstan present a satisfying vocabulary of Old
+        Turkic. The texts of this period contain many terms related to diverse
+        fields, especially religious, social, cultural and military terms. The aim of
+        the paper is to determinate the words in the meanings of smell, incense
+        and censer in Old Turkic texts and to explain these words etymologically.
+        In this study, the words in question determinated in the inscriptions and
+        manuscripts in Orkhon Turkic and Old Uighur are taken as lexical entry; in
+        addition, the texts of other periods of historical Turkish are cited for these
+        lexical entries and their forms in the original texts and bilingual
+        dictionaries of Turkic languages are also demonstrated.
+
+        Keywords: Old Turkic, Terms, Smell, Incense, Censer.
+
+
+GİRİŞ
+
+
+Türk dilinin tarihsel gelişimi göz önünde bulundurulduğunda, II. Doğu Türk
+Kağanlığı (632-744), Uygur Bozkır Kağanlığı (744-840) ve Koço Uygur Hanlığı
+(860-1284) dönemlerine ait yazıtlar ve yazmalar ile klasik dışı yahut da kağanlık
+dışı olarak da bilinen Yenisey, Dağlık Altay Bölgesi ve Kırgızistan’da bulunan
+yazıtlar, kaya yazıtları ve kâğıda yazılı belgeler Eski Türkçenin temel yazılı
+kaynaklarını oluşturmaktadır. Bazı araştırmacılar Karahanlı Türkçesiyle kaleme
+alınmış ilk dönem metinlerini de Eski Türkçe içinde saysa da Eski Türkçenin biri
+Orhon Türkçesi ve biri de Eski Uygurca olmak üzere bilinen iki diyalekti
+bulunmaktadır. Eski Türkçe, muhtelif dinî muhitlerin ve dillerin etkisinde
+şekillenen bu literatürle kabaca 8. yüzyıldan 13. yüzyıla kadarki süre zarfında
+yazılı kaynaklar aracılığıyla tanıklanabilmektedir. Türkçenin tarihî dönemlerinin
+tamamında olduğu gibi Eski Türkçe dönemine ait yazıtlar ve yazma eserler de
+
+
+
+  Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+166   Uğur UZUNKAYA
+
+      çok çeşitli alanlara ilişkin terimleri ihtiva eder. 1 Bunlardan biri de kokuyu
+      adlandırmada kullanılan kavramlar ile bununla ilişkili olarak tütsü ve buhurdan
+      kavramlarıdır. Hemen bütün Türk dillerinde kokuya ilişkin ifadeler ve bu
+      ifadelerin anlamlandırılmasına ilişkin meselelerin mukayeseli olarak fonetik ve
+      semantik düzlemde tespiti ve incelemesi başlı başına bir çalışma konusunu
+      oluşturabilecek düzeydedir.
+
+
+      Kokuya ait ifadeler bütün dillerde kokunun niteliğine ilişkin özel bilgiyi de
+      barındırır. Bununla ilişkili olarak değerlendirilebilecek meselelerden biri ise
+      tütsüdür. Tarih boyunca çeşitli kültür ve medeniyet daireleri içerisinde tıbbî,
+      dinî, törensel ve onursal maksatlarla kullanımı yazılı kaynaklar aracılığıyla
+      tanıklanabilen tütsü ve tütsü yakma geleneği, semavî olsun olmasın hemen her
+      dinî alanda ve bununla birlikte din dışı alanda oldukça önemli bir yere sahiptir.
+      Egzotik bir maddeyi ve hoş bir kokuyu ihtiva eden çeşitli bitkilerin usaresi ve
+      reçinesinden yahut da doğrudan bitkinin kendisinden veya kabuğundan
+      hazırlanan, ısıtılması yahut yanmasıyla tesir gösteren tütsüler, kokunun etki
+      alanını   oluşturan      her    sahada      gerçekleştirilen     işlemin     geçerliliğinin
+      sağlanmasında ve artırılmasında güçlü bir aracı görev üstlenmişlerdir.
+      Birbirinden farklı dinî inanışa, coğrafyaya, dile ve tarihsel seyre sahip olunsa da
+      Hindistan, Mısır, Arabistan, Mezopotamya gibi kültürel çevrelerde tütsü
+      kullanımı mevcut olmuş, bununla beraber malzemesi ve tesir alanı her
+      defasında farklılaşmış olsa da ona atfedilen önem tarihin her döneminde canlı
+      kalabilmiştir.
+
+
+      Bu çalışmanın amacı yaygın bir kültür çevresinde kendisine yer edinmiş olan
+      koku, tütsü ve buhurdan kavramlarını Türk dilinin en eski yazılı kaynakları olarak
+      kabul edilen Eski Türkçe dönemi dil yadigârları üzerinden incelemektir.
+
+      1 Bu çalışma esasen Türkçenin tarihî dönemlerinin tamamını içerebilirdi; ancak böylesi bir
+
+      çalışma bir makale boyutunu ziyadesiyle aşacağı için yalnızca Eski Türkçe dönemiyle
+      sınırlandırıldı.
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    167
+
+Çalışmanın özellikle Eski Türkçe üzerine odaklanmasının sebebi bu dönemin
+Türkçe ve başka komşu dillerden çok çeşitli söz varlığını ihtiva etmesi ve ayrıca
+bu söz varlığının Budizm, Manihaizm, Hristiyanlık gibi birbirinden farklı dinî
+muhitlerden beslenmesidir. Çalışmanın örneklem alanını Orhon ve Uygur
+dönemi runik harfli yazıt ve metinler ile Eski Uygurca ile kaleme alınmış mezkur
+dinî muhitlere ilişkin eserler oluşturmaktadır. Bu çalışmaya Eski Türkçe
+metinlerde geçen kokuya ilişkin terimler ile tütsü ve buhurdan anlamındaki
+sözcükler madde başı olarak dahil edilmiştir. Bir yöntem olarak madde başı
+olarak belirlenen bu malzemenin köken bilgisine ışık tutulmuş, kaynak dildeki
+karşılıklarına yer verilmiş ve bunların metin içindeki anlamlarına değinilmiştir.
+
+
+Bu çalışma “Eski Türkçede Kokuya İlişkin İfadeler” ve “Eski Türkçede Tütsü ve
+Buhurdan” olmak üzere iki başlıktan oluşmaktadır.
+
+
+1. ESKİ TÜRKÇEDE KOKUYA İLİŞKİN İFADELER
+
+
+Runik harfli Türk yazıtlarında ve Eski Uygurca metinlerde kokuya ilişkin terimler
+arasında şu sözcükler ve ifadeler tespit edilmiş ve alfabetik olarak sıralanmıştır.
+
+
+bur-: Sözcük ‘kokmak, koku salmak’ anlamındadır. Clauson bu fiilin bu ‘buhar’
+anlamındaki sözcükten türediğini ve anlamının ‘buhar çıkarmak, misk kokulu
+olmak’ olduğunu belirterek Türkçenin modern ve tarihi dönemlerinden örnekler
+sunar (1972: 355a; ayrıca krş. Nadalyayev vd., 1969: 125a). OTWF’de bu+r-
+şeklinde açıklanan sözcük ‘buhara dönüşmek’ dolayısıyla da ‘buhar çıkarmak,
+hoş koku vermek’ şeklinde anlamlandırılmıştır (Erdal, 1991: 500; ayrıca bū
+‘buğu’ için krş. Tekin, 1995: 179). Sözcük HT X’da iki kez tanıklanmıştır: yänä
+öŋisig ädgü yıd yıparlar bura kötiyü turdı (Mirsultan, 2010: 104-105351-352) “Yine
+olağanüstü, mucizevi güzel kokular2 yükseldi.” ve ol lenhua çäçäk yıdı [y]ıparı
+p(a)ryan içintä inçä ök [b]ura ködiyü yıdıyu turdı (Mirsultan, 2010: 133650-652)
+“Her lotus çiçeğinin güzel kokusu2 güzel koktu ve ayrıca aynı biçimde rahip
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+168   Uğur UZUNKAYA
+
+      hücresinde de güzel koktu.” Sözcük Ein uigurischer Neujahrssegen olarak
+      adlandırılan din dışı bir Eski Uygurca metinde (Zieme, 1984: 34355; ayrıca krş.
+      Ayazlı, 2016: 93) ve Yüan dönemine ait bir Budist Uygur metninde de (Tekin,
+      1980b: 231592) tanıklanmıştır. bur- fiili DLT’de ‘yayılmak, yükselmek’ anlamlarıyla
+      mevcuttur ve Ar. fāḥat, taḍawwaʿa ve irtafaʿa yapılarıyla karşılanmıştır: yıpar
+      burdı “Misk kokusu yayıldı (fāḥat).” ve suw burdı “Buhar (vb.) yükseldi
+      (irtafaʿa).” (Dankoff ve Kelly, 1982: 390, sh. 266). KB’de bu fiil dört yerde
+      tanıklanmıştır ‘kokmak, güzel kokmak’ anlamlarındadır (Arat, 1979: 116). Fiil
+      Kitābu’l-İdrāk li Lisāni’l-Etrāk’ta burı- ‘misk kokmak’ şeklinde geçmektedir ve Ar.
+      fāḥa’l-misk karşılığında kullanılmıştır (Özyetgin, 2001: 418).
+
+      kapir: ‘Tütsü’ anlamındaki AYS VI’da geçen bu sözcük kökeni itibarıyla Skt.
+      karpūra’ya dayanır (Ayazlı, 2012: 315b). Skt. karpūra ‘kâfur (ya bitki ya reçineli
+      sızıntı veya meyve)’ (Monier-Williams, 1899: 258b) anlamındadır. AYS VI’daki
+
+      kapir karşılığında Çin. metinde 龍腦 long nao (Taishō No. 665, c. 16, 430c18;
+
+      Hirakawa, 1997: 1305b; Ayazlı, 2012: 315b) ‘ejderha beyni, tütsü’ (DDB)
+      geçmektedir.
+
+
+      kin yıpar: Clauson kin sözcüğünü ‘misk’ olarak anlamlandırır ve kin yıpar tabiri
+      için Manichaica II’ye atıfta bulunur (1972: 725a; ayrıca yıpar kin için krş.
+      Nadalyayev vd., 1969: 267b). AYS VII’de m(a)haboga kin yıpar ‘misk’ (Çetin,
+      2012: 135398) ifadesi mevcuttur (Çetin, 2012: 240b). Bu ifadenin Çin. metindeki
+
+      karşılığı 麝香莫迦婆伽 shexiang mojiapoqie’dir (Taishō No. 665, c. 16, 435a01).
+
+      Çetin, Çin. metne göre Uyg. metindeki kin yıpar sözünün daha önce kullanılması
+
+      gerektiğini belirtir (2012: 201). kin yıpar ifadesinin Çin. metindeki karşılığı 麝香
+
+      shexiang ‘misk’tir (DDB). Çin. metindeki 莫迦婆伽 mojiapoqie ifadesi ise Skt.
+
+      mahābhāga karşılığındadır; ancak Skt. biçimdeki anlam ‘ünlü’dür (Monier-
+
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan      169
+
+Williams, 1899: 798a; Edgerton, 1953: 424a). DLT’de kin yıpar ifadesinin karşılığı
+olarak Ar. nāfica misk ‘misk kesesi’ (sh. 171) bulunmaktadır (Dankoff ve Kelly,
+1982: 268). KB’de kin yıpar tabiri ‘misk göbeği’ anlamında ikileme şekliyle iki
+yerde tespit edilmiştir (Taş, 2012: 60). kin yıpar tabirine kin yıparlar burar (vr.
+239r8) ‘miskler kokar’ bağlamıyla Ḳıṣaṣü’l-Enbiyā’da da rastlanır (Ata, 1997: 346;
+Boeschoten ve O’Kane, 2015: 531). kin sözcüğü yalnız başına Kitābu’l-İdrāk li
+Lisāni’l-Etrāk’ta Ar. karşılığı ile el-misk ‘misk kokusu’ (Caferoğlu, 1931: 49 ve
+85a) olarak geçmektedir.
+
+
+kinlig: Sözcük ‘misk kokulu’ anlamındadır. T. Tekin, yazıtların ilk dönem
+neşirlerinde sözcüğün (e)kinl(i)g şeklinde okunduğunu ve buradaki (e)kin’in
+bilinen ekin sözcüğü sanıldığını ifade eder. Tekin bundan sonra gelen sözcüğün
+DLT’de geçen eşgürti ve Uyg. metinlerdeki eşgirti ‘işlemeli ipek kumaş’ olduğunu
+belirterek, esasen ekin sözcüğünün <i> olmadan k2n2 ile yazılması gerektiğini
+belirtir ve kinl(i)g (e)şgiti ifadesini ‘misk kokulu işlemeli ipek kumaş’ olarak
+anlamlandırır (1988: 98). Bu sözcüğün yapısı Clauson tarafından kin+lig ‘misk
+kokulu’ olarak açıklanır. Clauson sözcüğün kin yani ‘misk’ anlamındaki sözcükten
+türediğini belirtirerek hap[ax] leg[omenon] ‘tek örnek’ olarak kaydeder (1972:
+732a). 2 Sözcük BK K 11’de şu bağlamda geçmektedir:
+
+[sarıg altu]nin : ürüŋ : kümüşin :              “Çil çil altınları, apak gümüşleri, kenarlı
+kıırgaglıg : kotayin : kinlig : eşg[itis]in :   ipekleri, misk kokulu ipeklileri, has
+özlik atin : adgırin : kara k[işin] kök :       atları, aygırları, kara samur ve boz
+teyeŋin : türüküme : bodunuma :                 sincap (derilerini) hakanlık halkım için,
+
+
+
+2 kinlig sözüne Eski Uygurca metinlerde de rastlanır; ancak yukarıda geçen anlamdan
+
+farklıdır. Zieme’nin neşrettiği “Drei neue uigurische Sklavendokumente”de bu sözcük yüz
+iki uçı kinlig otra tamgalıg kunpoka üzüştümüz bağlamında geçer ve kinlig soru işaretiyle
+‘Lienenballen || keten balyası’ olarak anlamlandırılmıştır (1977: 1555-6). Din dışı
+metinlerde geçen kinlig (< Çin. 巾 jin + Tü. +lig) ‘şeritli, bağlı’ (Ayazlı, 2016: 155)
+anlamındadır.
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+170   Uğur UZUNKAYA
+
+      kazganu : bėrtim : ėti bėrtim (Ölmez,            kavmim için, kazandım, elde ettim.”
+      2013: 13111-12)                                  (Ölmez, 2013: 14511-12)
+
+      Mezkur sözcük muhtelif neşirlerde mevcut bağlamıyla şöyle okunmuş ve
+      anlamlandırılmıştır:
+
+      Kaynak                          Sözcüğün yazı                Anlam
+                                      çevirimi
+      Thomsen, 1896 [2002:            ä
+                                        kinlig isig[tis]in         ‘isigti (?) tohumlarını’
+      198-199]
+      Orkun, 1936: 58                 e
+                                       kinliğ isiğ[tis]in          ‘darının ekimli olanını’
+      Tekin, 1968: 246                äkinlig äsg[itis]īn
+      Tekin, 1988: 32-33              kin(i)g (e)şg[(i)tis]in      ‘kokulu ipeklilerini’
+      Berta, 2010: 137 ve 192         kinliɣ ėşoɣitisin            ‘misk kokulu işlemeli
+                                                                   kumaşı’
+      Ölmez, 2013: 131 ve 145         kinlig eşg[itis]in           ‘misk kokulu ipeklileri’
+      Şirin, 2016: 264-265            kinlig (ä)şg[(i)tis]in       ‘kokulu’
+      Aydın, 2017: 78                 kinlig işgitisin             ‘misk kokulu ipeklileri’
+
+
+
+      kisarlıg: Sözcük Skt. keśara ve Tü. +lıg ekinden oluşmaktadır. Skt. keśara ‘polen,
+      çiçek tozu’ (Edgerton, 1953: 193a) anlamındadır. Sözcüğe Maitrisimit nom
+      bitig’de [= BT IX, 157v6] rastlanır: vasava elig hannıŋ yänä uluşta balıkta vayṭure
+      ärd(i)ni ulunlug v(a)žir kisarlıg t(ä)k yapargakl(ı)g ärd(i)nilig lenhua çäçäk
+      b(ä)lgülüg boltı (Tekin, 1980a: 1334-8) “Yine Hükümdar Vāsava’nın ülkesinde
+      lacivert taşı-mücevher saplı ve güzel kokan elmas gibi yapraklı (Skt. vajra-
+      keśara) ve mücevherle süslenmiş lotus çiçeği görünür oldu.” 3
+
+      köti-: Sözcük ‘güzel kokmak’ anlamındadır. Clauson bu sözcüğün kötür- fiiliyle
+      olan bağlantısına ilişkin düşüncenin ihtimal dahilinde olmadığını belirterek
+      Xuanzang Biyografisi’nde geçen çahşapatlıg yıparları bura kötiyü turur
+      örneğinden yola çıkarak sözcüğün köpürü yerine yanlış okunmuş olabileceğini
+
+      3 kisar, Eski Uygurca din dışı metinlerde geçen kisar / kesar ‘aslan’ (Ayazlı, 2016: 149)
+
+      sözünden farklıdır.
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    171
+
+ifade eder (1972: 702a). Sözcüğün yazı çevirimi OTWF’de kẅti- olarak yapılır ve
+mevcut tanıklardan hareketle anlamın ‘güzel kokmak, güzel bir koku salmak’
+şeklinde olacağı belirtilir. Erdal, kẅti- (< köt+i-) fiilinin kökünün semantik bir bağ
+olmamasına karşın köt ‘kıç, kalça’ olabileceğini belirtir (1991: 483). köti-
+‘kokmak, koku salmak’ fiili Eski Uygurca metinlerde çoğunlukla bur- köti-, yıdı-
+köti- ve bur- köti- yıdı- şeklinde ikileme biçiminde geçmektedir; ancak kimi
+neşirlerde bu ifade ‘yükselmek’ olarak tercüme edilmiştir. HT V’te sözcüğe
+Clauson’un da vermiş olduğu ç(a)hşap(a)tlıg yıparları bura kötiyü t[urmışı] antag
+ol (Dietz, Ölmez ve Röhrborn, 2015: 48133-135) “Ve emirlerin güzel kokusunun
+yükselmesi de aynıdır” örneğinde rastlanır ve burada Çin. metinde yıpar
+
+karşılığında 芬馥 fenfu ‘mis kokulu, rayihalı’ (Taishō No. 2053, c. 50, 246a23;
+
+DDB) ve bur- köti- karşılığında ise 香 xiang ‘parfüm sürmek, parfümlemek’
+(Taishō No. 2053, c. 50, 246a23; DDB) bulunmaktadır. HT VII’de sözcük iki yerde
+tanıklanmıştır; ancak Röhrborn bur- ködi- ve yıdı- ködi- ifadelerini ikileme
+şeklinde değerlendirmemiştir. HT VII 690’daki bur- ködi- karşılığında Çin.
+
+metinde 薰 xun ‘güzel kokmak, parfüm sürmek’ (Taishō No. 2053, c. 50, 258c11;
+
+DDB) geçer: kızılı köki basışıp yaltrıyur tüşröki sarıgı bura ködiyü turur
+(Röhrborn, 1991: 69689-690) “(Bu giysinin) kızılı ve mavisi birbiriyle yarışıp parlar,
+karışık renkli ve sarısı kokarak yukarıya çıkar.” HT VII 1249’daki yıdı- ködi-
+karşılığında Çin. metinde 香 xiang ‘güzel koku saçmak’ (Taishō No. 2053, c. 50,
+260a02; DDB) sözcüğü geçer: kök tütsüg tütün yıdıy[u] ködiyü turgay kök kalıkta
+(Röhrborn, 1991: 1121248-1249; ayrıca yıdı- ködi- için krş. Semet, 2005: 173) “Mavi
+tütsü dumanı güzel kokarak gökyüzünde2 yukarı çıkmalı!” (Röhrborn, 1991:
+113). HT IX’da sözcüğe bur- ködi- ‘güzel kokmak’ ikilemesiyle rastlanır ve Çin.
+
+metinde eş değeri olarak ‘hoş kokulu, rayihalı’ anlamında 芬芳 fen fang (Taishō
+
+No. 2053, c. 50, 268b21) bulunmaktadır: burar ködiyür “güzel kokar2” (Aydemir,
+2013: 86352). HT X’da sözcük iki yerde tanıklanmıştır: yänä öŋisig ädgü yıd
+
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+172   Uğur UZUNKAYA
+
+      yıparlar bura kötiyü turdı (Mirsultan, 2010: 104-105351-352) “Yine olağanüstü,
+      mucizevi güzel kokular2 yükseldi.” Bu kısımda yıd yıpar karşılığında Çin. metinde
+      香氣 xiang qi (Taishō No. 2053, c. 50, 276b17) ‘güzel ve hoş koku’ ifadesi
+      geçmektedir. Eski Uygurca Abitaki metinlerinde sözcüğe üç yerde rastlanır.
+      Bunlardan ilki bur- köṭi- yıdı- tabiridir: ol y(a)ruk yaltrık içintä … … bura köṭiyü
+      yıdıtı (Karaayak, 2017: 1171005-1006) “O parıltılı2 içinde … koku çıkarıp salıp yaydı.”
+      (Karaayak 2017: 239). Bunların dışında sözcük bur- köṭi- şeklinde geçer: ol
+      oronta yıgılmış te[rilmiş] … … taŋlançıg yıdtınlar bura köṭiyü … (Karaayak, 2017:
+      1261106-1107) “O makamda toplanmış birikmiş … … şaşırtıcı kokulardan salıp
+      çıkarıp” (Karaayak, 2017: 245) ve ol [y(a)ruklug] y(a)ruk üzä yaltr(ı)yu yaşuyu
+      öŋisi[g] ädgü [yıd]lar bura köṭiyü turmışın “O parıltılı ışık ile parlayarak2
+      olağanüstü güzel kokular çıkarıp yayıp durduğunu” (Karaayak, 2017: 2491177-
+      1179).   AYS V 0068’de ve AYS IX 122’de geçen köti- sözcüğü ise sırasıyla
+      ‘yükselmek’ (Uçar, 2009: 402, 68. not) ve ‘(koku) yükselmek’ (Uçar, 2013: 272)
+      olarak anlamlandırılmıştır.
+
+      sagbıç: Sözcük kökeni itibarıyla Skt. śallakī ile ilişkilendirilir (Çetin, 2012: 253a).
+      Skt. śallakī ‘tütsü, buhur’ (Monier-Williams, 1899: 1059b) anlamındadır. Sözcük
+      AYS VI 882’de geçer ve ‘bir tür sıvı koku’ olarak anlamlandırılır. AYS VI’daki
+
+      ifadenin Çin. metindeki karşılığı 蘇合 su he ‘tütsü’dür (Ayazlı, 2012: 131882).
+
+      Sözcük AYS VII şaruki sagbıç (Çetin, 2012: 136410) şeklinde geçer ve Çin.
+
+      metindeki karşılığı 叱脂 chi zhi’dir (Taishō No. 665, c. 16, 435a06; ayrıca bk.
+
+      Çetin, 2012: 204).
+
+
+      sası-: Sözcük ‘pis kokulu olmak, kötü kokmak’ anlamındadır (Clauson, 1972:
+      855b). Erdal, OTWF’de şayet Codex Cumanicus’taki sas ‘buğu, buhar’ sözcüğü
+      doğru ve eskiyse, sası- fiilinin yapısının sas+ı- şeklinde olabileceğini belirtir
+      (1991: 784; ayrıca Nadalyayev vd., 1969: 490a; sāsı- biçimi için bk. Tekin, 1995:
+
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    173
+
+174). Sözcük Eski Uygurca metinlerden BT IX’da üç yerde geçer. Bunlardan bir
+örnek vermek gerekirse: tamulardın kurtulup bo pratikanarak kiçig tamularda
+tugmış ärür biz munta tugup tirig ärkän yıdıyu sasıyu yorıyur biz (Tekin, 1980a:
+17515-19) “Cehennemlerden kurtulup bu küçük pratyekanaraka-cehennemlerde
+doğmuşuzdur. Burada doğup canlı iken kötü kokarak çürürüz.” Bu ifade BT
+XXXVII’de yıdı- sası- ikilemesiyle geçmektedir: anıŋ içintä beş akıgları olup äpräp
+kovuk suvuk arıgsızları birgärü katılıp açıyu çıvşayu yıd[ım]ış sasımış boksıg yıdıg
+kan[ları] yi[ri]ŋläri iç içägüläri bura bürkirä [yıdıyu] s[ası]yu ünä kältilär (Wilkens,
+2016: 218304-309) “Onun içinde beş vücut akıntıları ayrışıp2, yoğun ve ince akıntılı
+dışkılar birbirine karışıp, onların ekşimsi2, kokuşmuş2 ve kötü kokan2 kanları,
+onların irinleri, iç organları duman çıkararak2 ve kötü koku yayarak2 dışarı
+çıktılar.” DLT’de sası- ‘kötü kokmak’ fiili karşılığında Ar. natuna mevcuttur: sasıdı
+näŋ “Bir şey çürüdü.” (Dankoff ve Kelly, 1984: 287, sh. 561). Bu fiil Ḳıṣaṣü’l-
+Enbiyā’da yedi yerde ‘kokmak, bozulmak’ anlamıyla tanıklanmıştır: (…) aş kėçe
+ḳalsa sasımas erdi “(…) aş gece kalsa kokmazdı.” (vr. 119r1) (Ata, 1997: 166;
+Boeschoten ve O’Kane, 2015: 250). Nechü’l-Ferādis’te de sözcüğe üç yerde
+‘kötü, pis kokmak’ anlamıyla rastlanır (Ata, 1998: 361b). Fiil Mukaddimetü’l-
+Edeb’de sasıdı et yıḏlandı ifadesinde yine ‘kokuşmak, bozulmak’ anlamıyla geçer
+(Yüce, 1993: 3734/7) Et-Tuhfetü’z-Zekiyye fi’l-Luġati’t-Türkiyye sası- ‘kötü
+kokmak’ karşılığında Ar. natana, arwaḥa bulunur (Khairullah, 2015: 519, vr.
+37a12).
+
+
+sasıg: Sözcük sası- ‘kötü kokmak’ fiilinden -g ekiyle isim yapılmıştır ve ‘pis
+kokulu, kötü kokulu’ anlamındadır (Clauson, 1972: 856a). OTWF’de sözcüğün
+yapısı yine aynı şekilde açıklanarak bu ifadenin Eski Uygurca metinlerde yıdıg
+sasıg şeklinde göründüğü belirtilir (Erdal, 1991: 201). Erdal’ın (1991: 784) sası-
+fiili görüşü temelinde sözcüğün yapısı sas+ı-g olarak açıklanabilir. BT IX’da
+sözcük yıdıg sasıg ikilemesiyle birlikte geçer: ätözlärintä yıdıg sasıg yıd ünär
+(Tekin, 1980a: 248198v20) “Bedenlerinde kötü koku yükselir.” BT XXXVII’de
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+174   Uğur UZUNKAYA
+
+      sözcüğe yine yıdıg sasıg ikilemesiyle rastlanır: içi içägüsi täşilmäkiŋä bütün
+      bagırıntın agızıntın [barça] yıdıg sasıg yavız yıd ünär (Wilkens, 2016: 5065377-5380)
+      “İç organları akıp gitmesi(yle) bütün karnından ağızından bütün pis kokulu kötü
+      koku yükselir.” DLT’de sasıg sözcüğünün barıg ‘kokan şey (Ar. muntin)’ birlikte
+      sasıg barıg şeklinde kullanıldığı belirtilir (Dankoff ve Kelly, 1982: 286, sh. 186).
+      sasıg sözcüğü Kitābu’l-İdrāk li Lisāni’l-Etrāk’ta sası ‘fena koku, müteafin’ olarak
+      geçer ve karşılığında Ar. ṣınatu’l-bevl ‘idrar kokusu’ bulunur (Caferoğlu, 1931: 88
+      ve 58a).
+
+
+      şaruki: Sözcük, kökeni itibarıyla Skt. śallakī ile ilişkilendirilir (Çetin, 2012: 257a).
+      Skt. śallakī ‘tütsü, buhur’ (Monier-Williams, 1899: 1059b) anlamındadır. Sözcük
+      AYS VII şaruki sagbıç (Çetin, 2012: 136410) ifadesiyle geçer ve Çin. metindeki
+
+      karşılığı 叱脂 chi zhi’dir (Taishō No. 665, c. 16, 435a06; ayrıca bk. Çetin, 2012:
+
+      204).
+
+
+      tagar: AYS VI’da geçen bu sözcük kökeni itibarıyla Skt. tagaraka’ya
+      dayanmaktadır. Skt. tagaraka ‘Tabernaemontana coronaria ve ondan hazırlanan
+      hoş kokulu bir toz’ (Monier-Williams, 1899: 432a; ayrıca krş. Soothill ve Hodous,
+
+      1937: 209a) anlamındadır. Sözcüğün Çin. metindeki karşılığı olarak 多掲羅
+
+      duoqiluo (Taishō No. 665, c. 16, 430c18; DDB; Ayazlı, 2012: 341a) geçmektedir.
+
+
+      tütit-: Sözcük, tüt- fiiline getirilen ettirgen çatı eki -(i)t- ile oluşmuştur. Clauson
+      tüt- fiilini madde başı olarak tütä- fiiline gönderir ve ‘duman sızmak veya buhar
+      çıkarmak’ olarak anlamlandırır (1972: 452a). Erdal, Clauson’un tütär ifadesini
+      tütä-r şeklinde yanlış ayırdığını daha doğru ayrımın tüt-är şeklinde olması
+      gerektiğini ve bu sebeple tütä- madde başının yanlış olduğunu belirtir (1991:
+
+
+
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan        175
+
+758, 491. dipnot; ayrıca krş. Nadalyayev vd., 1969: 601a). 4 Sözcüğe Eski Uygurca
+Abhidharmakośabhāṣya metninde iki yerde (35v19 ve 35v26) rastlanır. Bu
+metinde tütit- fiili ‘parfüm sürmek’ olarak anlamlandırılarak Çin. eş değer
+
+metindeki karşılığının 熏 xun olduğu belirtilmiştir. (Shōgaito, 2014: 197). 5 Bu fiil
+
+DLT’de tütät- (belki tütit- ?) okunacak şeklinde fetha ile harekelenmiştir:
+
+            ōt tütün tütätti “ateş duman çıkardı.” Bu ifadenin tercümesi ise Ar.
+olarak daḫḫana’d-duḫānu şeklindedir (Dankoff ve Kelly, 1984: 113, sh. 415). Bu
+noktada tütät- fiili Ar. duḫḫana ‘buhardan geçirmek, buhar ile dezenfekte
+etmek; (yiyecekleri) tütsülemek, (sigara) içmek’ (Mutçalı, 2012: 298a)
+karşılığında kullanılmıştır.
+
+
+tütitil-: Sözcüğün yapısı tüt-it-il- şeklinde açıklanabilir. Sözcüğe Eski Uygurca
+Abhidharmakośabhāṣya metninde bir yerde rastlanır. Bu metinde tütitil- fiilinin
+anlamı ‘parfüm sürünmek’ olarak verilmiş ve Çin. eş değer metindeki karşılığının
+
+熏 xun olduğu belirtilmiştir (Shōgaito, 2014: 28835v28).
+
+
+tütnä-: Sözcüğün yapısı tüt-ün+ä- ‘tütmek’ şeklinde açıklanabilir. OTWF’de
+sözcüğün hap[ax] leg[omenon] ‘tek örnek’ olduğu belirtilir (Erdal, 1991: 426).
+Sözcüğe UigTot. metninde rastlanmıştır: içṭin sıŋar tüṭün tüṭnäyür täg irü
+b(ä)lgülär bolur (Zieme ve Kara, 1978: 84262-263) “İç tarafta tütün tüter gibi
+belirtiler2 vardır.”
+
+
+yıd: Sözcük ‘güzel koku, rayiha, koku’ anlamındadır (Clauson, 1972: 883a; yīd
+‘koku’ biçimi için bk. Tekin, 1995: 104). HT IX’da geçen yıdı ädgü yem[iş]lik kapıg
+(Aydemir, 2013: 109595-596) “güzel kokulu bahçenin kapısı” ifadesinde Uyg. yıd
+
+4 Clauson DLT’deki tütät- biçimi dolayısıyla bu fiili madde başı olarak alır ve sözcüğü ‘(bir
+
+şeyi) tüttürmek, (bir çukurdan bir hayvanı) ortaya çıkarmak’ şeklinde anlamlandırmıştır
+(1972: 452a; ayrıca krş. Nadalyayev vd., 1969: 601a).
+5 Shōgaito, Abhidharmakośabhāṣya’nın 2008 tarihli neşrinde sözcüğü tütät- olarak
+
+okumuştur (2008: 694bH35v19).
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+176   Uğur UZUNKAYA
+
+      karşılığında Çin. metinde芳 fang ‘rayihalı, hoş kokulu’ (Taishō No. 2053, c. 50,
+      269a16; DDB) tabiri bulunmaktadır. Sözcük BT XXXVII’de ädgü yıd yıpar
+      (Wilkens, 2016: 85611781) ‘iyi koku2’ şeklinde ikileme olarak geçmektedir.
+      UigTot.’da sözcük birden çok yerde tanıklanmıştır: yıdka siŋmiştä burun yıd
+      tuymaz (Zieme ve Kara, 1978: 5839-40) “kokuya sindiğinde burun koku duymaz”.
+      BT XXV’te birçok yerde tanıklanan yıd sözü ‘güzel koku; pis koku’ olarak
+
+      anlamlandırılmış (Wilkens, 2007: 444b) ve Çin. metindeki karşılığı olarak 氣 qi
+
+      ‘yel, hava, rüzgar’ bulunmaktadır. Bunlara örnek vermek gerekirse, yıd[ı]g sas[ıg
+      yıdı ıra]k ünmäki üzä (Wilkens, 2007: 100758) ‘kötü ve keskin kokusu uzaktan
+      yükselmesiyle’ ifadesinde geçen yıdıg sasıg yıdı tabirinin Çin. metindeki karşılığı
+
+      olarak 臭氣 xiu qi (Taishō No. 1909, c. 45, 925b24) ‘kötü kokan rüzgarı’
+
+      mevcuttur. BT XXV’te geçen bir başka ifade ise şöyledir: yıdıg sasıg oronlug yıdın
+      (Wilkens, 2007: 2703636-3637) ‘kokuşmuş yerin kokusunu’ ifadesinin Çin.
+
+      metindeki karşılığı 臭處之氣 xiu chu zhi qi (Taishō No. 1909, c. 45, 964c11-12)
+
+      ‘kötü kokan yerin yeli’dir. Her iki örnekte de yıd sözünün karşılığı olarak 氣 qi
+
+      ‘yel, hava, rüzgar’ geçmektedir. yıḏ sözü KB’de ‘koku’ anlamıyla çokça
+      tanıklanmıştır (Arat, 1979: 537). DLT’de yıḏ sözü (Dankoff ve Kelly, 1984: 173,
+      sh. 465) Ar. rīḥ ile karşılanmıştır. Yûsuf suresi, 94. ayetteki Ar. rīḥ sözü TİEM
+      73’te kayıtlı Karahanlı Türkçesiyle kaleme alınmış Kur’an tercümesinde yıḏ ile
+      karşılanmıştır (Kök, 2004: 175). Bu sözcük Ḳıṣaṣü’l-Enbiyā’da ‘koku’ anlamıyla
+      çokça tanıklanmış olup bir yerde yıḏ yıḏlanur (68r20) (Ata, 1997: 94; Boeschoten
+      ve O’Kane, 2015: 124) tabiriyle figura etymologica yapısıyla geçer.
+
+      yıdı-: Clauson sözcüğün yapısını yıd+ı- şeklinde açıklar ve ‘nahoş bir kokusu
+      olmak, kötü kokmak’ olarak anlamlandırır (1972: 886a). OWTF’de de sözcüğün
+      yapısı aynı şekilde gösterilerek ‘iyi veya kötü kokmak’ olarak anlamlandırılmış ve
+      Eski Uygurca metinlere atıf yapılmıştır (Erdal, 1991: 484). HT VII’de yıdı- ködi-
+
+        Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    177
+
+ifadesinin Çin. metindeki karşılığı olarak 香 xiang ‘güzel koku saçmak’ (Taishō
+No. 2053, c. 50, 260a02; DDB) sözcüğü geçer: kök tütsüg tütün yıdıy[u] ködiyü
+turgay kök kalıkta (Röhrborn, 1991: 1121248-1249; ayrıca yıdı- ködi- için krş. Semet,
+2005: 173) “Mavi tütsü dumanı güzel kokarak gökyüzünde2 yukarı çıkmalı!”
+(Röhrborn, 1991: 113). Sözcük HT X’da şu bağlamda geçer: ol lenhua çäçäk yıdı
+[y]ıparı p(a)ryan içintä inçä ök [b]ura ködiyü yıdıyu turdı (Mirsultan, 2010:
+133650-652) “Her lotus çiçeğinin güzel kokusu2 güzel koktu ve ayrıca aynı biçimde
+rahip hücresinde de güzel koktu.” KB’de yıḏı- fiili ‘kötü kokmak’ anlamıyla üç
+yerde tespit edilmiştir (Arat, 1979: 537). DLT’de yıḏı- fiili Ar. aḫamma ‘kokmak,
+bozulmak, kokuşmak’ (Mutçalı, 2012: 286a), antana ‘çürütmek’ (Mutçalı, 2012:
+890a) (Dankoff ve Kelly, 1984: 191, sh. 480) ve natina ‘kokuşmak, çürümek’
+(Dankoff ve Kelly, 1984: 285, sh. 559) ile karşılanmıştır.
+
+
+yıdıg: ‘Koku, kötü koku’ anlamındaki sözcüğün yapısını yıd+ı-g şeklinde
+açıklamak mümkündür. Clauson sözcüğü ‘rayiha, (her zaman değil, ama
+genellikle nahoş) koku; kötü kokulu’ olarak anlamlandırır (1972: 887b). OTWF’de
+sözcüğün iyi kokudan ziyade kötü kokuya işaret ettiği belirtilerek Eski Uygurca
+metinlerdeki tanıklara atıf yapılır (Erdal, 1991: 218). BT XXIII’te [ol] balıkta yıdıg
+[sasıg yıp]arl[ar üküş] bolur (Zieme, 2005: 54B041-B042) “o şehirde kötü koku (ve)
+süprüntü çok olur” ifadesinde geçmektedir. BT XXV’te yıdıg sözü ‘kötü kokan’
+olarak anlamlandırılmıştır (Wilkens, 2007: 444b). Bu metinde bir tamamlama
+olarak mevcut olan yıdıg sasıg (Wilkens, 2007: 2703641) ‘kokuşmuş2’ ifadesinin
+
+Çin. metindeki karşılığı 臭穢 xiuhui (Taishō No. 1909, c. 45, 964c16) ‘kötü
+
+kokulu’ anlamındadır. Yine bu metinde geçen yıd[ı]g sas[ıg yıdı ıra]k ünmäki üzä
+(Wilkens, 2007: 1000758) “kötü ve keskin kokusu uzaktan yükselmesiyle”
+
+ifadesinde geçen yıdıg sasıg tabirinin Çin. metindeki karşılığı olarak 臭 xiu
+
+(Taishō No. 1909, c. 45, 925b24) ‘kötü kokan’ ifadesi bulunmaktadır. yıdıg sözü
+sasıg ile birlikte ikileme olarak yine BT XXXVII’de de geçer: agızıntın [barça] yıdıg
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+178   Uğur UZUNKAYA
+
+      sasıg yavız yıd ünär (Wilkens, 2016: 5065379-5380) “ağzından bütün kötü berbat
+      koku yükselir.” KB’de yıḏıġ ‘kötü kokulu (şey), kötü kokan (şey)’ anlamıyla bir
+      yerde tanıklanmıştır (Arat, 1979: 537; Taş, 2015: 127). DLT’de yıḏıġ sözü Ar.
+      muntin ‘kötü kokan’ (Mutçalı, 2012: 890b) (Dankoff ve Kelly, 1984: 152, sh. 449)
+      ile karşılanmıştır. İbrâhim suresi, 50. ayette geçen Ar. ḳaṭrān sözü TİEM 73’te
+      yıḏıġ suv karşılığında geçer (Kök, 2004: 186). Yine Muhammed suresi, 15. ayette
+      geçen Ar. āsin ‘kokusu kötü’ Karahanlıca Kur’an tercümelerinden Rylands
+      nüshasında yıḏıġ ifadesiyle karşılanır (Ata, 2004: 37). Nechü’l-Ferādis’te de
+      birçok yerde ‘koku’ anlamıyla rastlanır (Ata, 1998: 482a).
+
+      yıdışka-: Sözcüğün yapısına ilişkin OTWF’de yıdı-ş- fikri öne sürülür (Erdal, 1991:
+      464). S. Tezcan BT III’te geçen ıdışka- fiilinin yapısını ıd-ı-ş+ka- ‘kokmak’ şeklinde
+      açıklar (Tezcan 1974: 38, 245. dipnot). Uçar, AYS V’teki notunda Tezcan’ın ve Ş.
+      Tekin’in görüşlerine yer vererek ve Tezcan’a katılarak, sözcüğün yapısının
+      yıdış+ka- şeklinde olması gerektiğini belirtir (2009: 468-469). AYS V’te geçen yıḍ
+      yıparıg yıḍışkayur (Uçar, 2009: 192) “tütsüyü2 koklar” ifadesindeki yıdışka-
+
+      karşılığında Çin. metinde 齅 xiu ‘kokmak’ (DDB) ifadesi mevcuttur (Uçar, 2009:
+
+      468467-468).
+
+      yıdıt-: Clauson sözcüğün yıdı- fiilinin ettirgen çatılı biçimi olduğunu belirterek
+      ‘kokutmak’ anlamını verir (1972: 887a; ayrıca krş. Nadalyayev vd., 1969: 265a).
+      OTWF’de yıdı-t- şeklinde açıklanan sözcüğün anlamı ‘(bir şeyi) kokutmak’ olarak
+      verilir (Erdal, 1991: 795). Runik harfli metinlerden Irk Bitig’in 59. falında yıdıt-
+      ‘kokutmak’ fiiline rastlanır: yılka : tẹgmişig : yıdıtmạyın : ạyka : tẹgmişig :
+      ạrtatmạyın : ẹdgüsi : bolzun : tėr : ạnça : biliŋlẹr : ẹdgü : ol : (Yıldırım, 2017:
+      4759) “(Fal şöyle) der: ‘Bir yıla değmişi kokutmayayım, bir aya değmişi
+      bozmayayım. Hayırlısı olsun!’ Öylece biliniz: (Bu fal) iyidir.” (Yıldırım, 2017: 47).
+      Bundan başka bu fiil BT XXXVII metninde yıdıt- sasıt- ‘kokutmak2’ olarak ikileme
+      olarak geçer (Wilkens, 2016: 7569970).
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    179
+
+yıdla-: Sözcük ‘koklamak’ olarak anlamlandırmıştır (Clauson, 1972: 890b; Erdal,
+1991: 451). Sözcüğün yapısını yıd+la- şeklinde açıklamak mümkündür. BT XXV’te
+geçen [yıd]ları [uzatı yıdlalım] (Wilkens, 2007: 2723664-3665) “güzel kokuları daima
+koklayalım” ifadesindeki yıdla- ‘koklamak’ fiilinin Çin. metindeki karşılığı olarak
+
+聞 wen (Taishō No. 1909, c. 45, 964c25) ‘koklamak’ geçmektedir. BT XXV’in Çin.
+
+metninde bu fiil düzenli olarak 聞 wen ile karşılanmıştır. BT XXXIII’te geçen
+
+yıdlayur (Oda, 2015: 158169) ifadesinin karşılığı olarak Çin. metinde 齅 xiu
+
+‘koklamak’ (Oda, 2015: 2961283) geçmektedir. DLT’de yıḏla- fiili Ar. taşammama
+‘koklamak’ ile karşılanmıştır (Dankoff ve Kelly, 1984: 307, sh. 579). Bununla
+birlikte DLT’de yıḏlan- ve yıḏlaş- yapıları da mevcuttur. yıḏlan- ‘kokmak, kötü
+kokmak’ fiili Ar. tarawwaḥa (Dankoff ve Kelly, 1984: 202, sh. 490) ve yıḏlaş-
+‘koklaşmak’ fiili ise Ar. taşammamat (Dankoff ve Kelly, 1984: 198, sh. 487) ile
+karşılanmıştır.
+
+
+yıdlıg: Sözcük ‘kokulu, güzel kokulu’ anlamındadır (Clauson, 1972: 890a).
+Sözcüğün yapısını yıd+lıg şeklinde açıklamak mümkündür. Eski Uygurca
+metinlerde bu sözcük sıkça yıdlıg yıparlıg ifadesiyle tanıklanır. BT XXIII’ten bir
+örnek verilebilir: yıdlıg yıparlıg suvın ädgü toprak katıp yogurup yerin suvamış
+kärgäk (Zieme, 2005: 69D002-D004) “güzel kokulu suya iyi toprak katıp yoğurarak
+
+yerini sıvamalı.” Sözcük Eski Uygurca metinlerin Çin. eş değerlerinde 香 xiang
+
+‘güzel koku’ ifadesiyle geçmektedir. HT X’da geçen yıdlıg yıpar[lıg [aş]lar
+yemişlär (Mirsultan, 2010: 116468-469) ‘güzel kokulu2 yemekler ve meyveler’
+
+ifadesi karşılığında Çin. metinde 香食美菓 xiangshi mei guo (Taishō No. 2053, c.
+
+50, 276c20) ‘kokulu yemek ve güzel meyve’ geçmektedir. Yine aynı metinde bir
+başka yerde geçen yıdlıg [yıparlıg] [tütün] (Mirsultan, 2010: 1931282-1283) ‘güzel
+
+kokan duman’ ifadesinin Çin. metindeki karşılığı olarak 香烟 xiang yan (Taishō
+
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+180   Uğur UZUNKAYA
+
+      No. 2053, c. 50, 279b18-19) ‘güzel kokulu duman’ ifadesi geçmektedir. Bunun
+      dışında AYS VI’da geçen yıḍlıg yıparlıg suv (Ayazlı, 2012: 85271) ‘güzel kokulu2 su’
+
+      ifadesinin Çin. metindeki karşılığı olarak 香水 xiangshui (Taishō No. 665, c. 16,
+
+      428b12) ‘güzel kokulu su’ geçmektedir. MaueKat’ta geçen yitlig ‘kokulu’ (Maue,
+      1996: 463.67) ise Skt. gandha ‘koku, güzel kokulu’ (Monier-Williams, 1899: 345a)
+      karşılığıyla mevcuttur.
+
+
+      2. ESKİ TÜRKÇEDE TÜTSÜ VE BUHURDAN
+
+
+      Runik harfli Türk yazıtlarında ve Eski Uygurca metinlerde tütsü ve buhurdan
+      anlamında şu sözcükler tespit edilmiş ve alfabetik olarak sıralanmıştır.
+
+      käräşü: AYS VII’de geçen käräşü yürüŋ küži (Çetin, 2012: 135) ifadesinin Çin.
+
+      metindeki karşılığı 婆律膏掲羅娑 po lu gao jie luo suo’dur (Taishō No. 665, c.
+
+      16, 435a05). Çetin, 婆律膏 po lu gao’nun ‘Dryobalanops aromatica’ yani
+
+      ‘Borneo kâfuru’ için kullanıldığını ve yürüŋ küži’nin ise ‘günlük’ anlamında
+      olduğunu belirtir (Çetin, 2012: 203).
+
+      kokılık: Sözcük ‘tütsü’ anlamındadır. T. Tekin A Grammar of Orkhon Turkic’de
+      sözcüğün yapısını *qoq+lıq ‘scenting material’ şeklinde açıklayarak Türkmence
+      qoq sözcüğünün aynı anlamda olduğunu belirtir (1968: 106, § 19). 6 Clauson da
+      sözcüğü koklık biçiminde ve hap[ax] leg[omenon] ‘tek örnek’ olarak kaydeder;
+      ancak sözcüğün anlamına ilişkin bir ipuçunun bulunmadığını, sözcüğün kok-
+      fiiliyle varsayılan bir bağlantısı dolayısıyla şimdiye kadar ‘parfüm’ olarak tercüme
+      edildiğini, morfolojik olarak bu fiilden türeyemeyeceğini ve bu anlamı
+      kazanamayacağını belirtir (1972: 610b; ayrıca krş. Nadalyayev vd., 1969: 457b).
+      T. Tekin daha sonra sözcüğün kökenini DLT’deki kok- ‘(yanan bir şey) koku
+
+      6 Bu çalışmanın Türkçe tercümelerinde mevzubahis sözcük addan ad türeten {+lXk} ekinin
+
+      örnekleri arasından kaldırılmıştır, krş. Tekin, 2003: 84, § 168 ve Tekin, 2016: 82.
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    181
+
+vermek’ fiili ile ilişkilendirerek bu fiilden -ı ile isim ve bundan +lık eki kokılık (<
+kok-ı+lık) şeklinin türediğinin düşünülebileceğini ifade eder (1988: 111-112).
+Sözcük BK G 11’de şu bağlamda geçmektedir:
+
+bukug : totok : ……… kaŋı : lisün : tay         “Bukug Totok [… ..] babası Büyük
+seŋün : başad[u] : bėş yüz : eren : kelti      General Lisün’ün komuta ettiği beş yüz
+: kokılık : ö[………] : altun : kümüş :           asker geldi. Kokılık [… …] altın ve
+kergeksiz : kelürti (Ölmez 2013: 140-          gümüşü gereğinden fazlasıyla getirdi.”
+14110-11).                                     (Ölmez 2013: 15510-11).
+
+
+Mevzubahis sözcük muhtelif çalışmalarda şöyle okunmuş ve anlamlandırılmıştır:
+
+Kaynak                          Sözcüğün yazı               Anlam
+                                çevirimi
+Radloff, 1897: 148              kokылak <kokılak>           ‘wohlreichende || güzel
+                                                            kokulu’
+Thomsen, 1896 [2002:            qoqyłyq                     ‘parfum || parfüm’
+194-195]
+Orkun, 1936: 70                 kokulık                     ‘kokuluk’
+Tekin, 1968: 246                qoqïlïq                     -
+Tekin, 1988: 54-55              kook(ı)l(ı)k                ‘kokuluk’
+Berta, 2010: 175; 199           qoqlwq                      -
+Ölmez, 2013: 140; krş.          kokılık                     ‘tütsü’
+353a
+Şirin, 2016: 405                kokılık                     ‘(cenaze ritüellerinde
+                                                            kullanılan) kokuluk, tütsü’
+Aydın, 2017: 98                 kokılık                     ‘kokulu’
+
+
+
+küli: Sözcük ‘tütsülük, buhurdan’ anlamındadır. Kara ve Zieme (1976: 39)
+sözcüğü Moğ. külis ‘tütsü yakıcı, buhurdan’ (Lessing, 1960: 501a) ile karşılaştırır.
+Sözcük Tantra Budizmine ilişkin Eski Uygurca bir metin olan BT VII A’da şu
+şekilde geçer: v(a)ž(i)rlıg t(ä)ŋri kızı ärür tütsüg atl(ı)g tütün öŋlüg ärip küli tuṭar
+tütsüglüg bulutka oyun bädizkä tükälligig munı üzä kök kalıkıg toşgurup
+tapınurbiz (Kara ve Zieme, 1976: 39177-179) “Tütsü çubuğu adlı ve duman renkli
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+182   Uğur UZUNKAYA
+
+      Vajra Tanrılar kızı vardır, bir buhurdan tutar. Biz duman bulutuyla ve
+      süslemelerle2 göğü doldurup saygı gösteririz.” Yüan dönemine ait bir Budist
+      Uygur metninde aynı sözcük kilü olarak okunmuş yine ‘buhurdan’ anlamı
+      verilmiştir (Tekin, 1980b: 253356).
+
+      küži: Sözcük ‘tütsü’ anlamındadır. Sözcük kökeni itibarıyla Skt. kuśa’ya ‘ot, odun
+      parçası’ (Monier-Williams, 1899: 297a) dayanır. Moğolcada küci ‘tütsü, tütsü
+      çubuğu’ (Lessing, 1960: 509b) anlamındadır. Eski Uygurca metinlerde sözcüğün
+      yazı çevirimi küji, küşi, küži olarak yapılmıştır. Bu sözcük metinlerde çoğunlukla
+      kara küži ifadesiyle geçer. Bu söz AYS VII iki yerde tanıklanmıştır: lukura kara
+
+      küži (Çetin, 2012: 136411) ifadesi Çin. metinde 安息香 anxi xiang (Taishō No.
+
+      665, c. 16, 435a07) ‘İran tütsüsü veya aselbent’ (Soothill ve Hodous, 1937: 212a)
+      karşılığındadır. AYS VI’daki küži (Ayazlı, 2012: 131883) karşılığında Çin. metinde
+
+      薰陸 xunlu (Taishō No. 665, c. 16, 430c18) ‘boswellia thurifera reçinesi, bir tür
+
+      tütsü’ (DDB) bulunur. Ayrıca AYS VII’de kara küži köyürsün (Çetin, 2012: 138436-
+      437) “Tütsüler yaksın” ifadesi de mevcuttur. TT V A 129’da da kara küži ifadesine
+
+      ‘aselbent’ anlamıyla rastlanır: anta ötrü arvışçı k(a)ra küži alıp yeti kata tarni
+      arvış sözlämiş k(ä)rgäk tütsülük lugta köyürmüş k(ä)rgäk (Bang ve Gabain, 1931:
+      332128-130; krş. Uzunkaya, 2017: 75128-130) “Ondan sonra büyücü (eline) aselbent
+      alıp yedi kez dhāraṇī (ve) büyü sözcüğü söylemeli, buhurdanda2 yakmalı.”
+      MaueKat’da da kara küži ifadesi Skt. mahiṣākṣayuktāṃ ‘Balsamodendron
+      mukul’ (Maue, 1996: 12617) karşılığındadır. küži ‘buhur, tütsü’ Doğu Kilisesi’ne
+      ilişkin Eski Uygurca metinlerde zmuran küži (B 19) ve zm(u)run küži (B 23)
+      tabiriyle ‘mürsafi ve buhur’ tanıklanmıştır (Zieme, 2015: 51).
+
+
+      lug: ‘Tütsülük, buhurdan’ anlamındaki sözcüğün kökeni Çin. 鑪 lu ‘a stove; a
+
+      réchaud; a censer; a brazier’ (G. 7416) olup sözcüğe Eski Uygurcada iki yerde
+      rastlanmıştır. Sözcük BT IX’da şu ifadede ‘tütsülük, buhurdan’ olarak geçer:
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    183
+
+luglarıg birlä k(a)ttım(ı)z kardımız (Tekin, 1980a: 187177.8-9) “Buhurdanları
+karmakarışık ettik.” TT V A metninde geçen ifade tütsülük lug ‘buhurdan2’
+şeklinde bir ikilemedir: tütsülük lugta köyürmüş k(ä)rgäk “buhurdanda2 yakmalı”
+(Bang ve Gabain, 1931: 332130 ve ayrıca krş. Uzunkaya, 2017: 75130).
+
+lukura: AYS VII’de geçen lukura kara küži ifadesinin Çin. metindeki karşılığı
+安息香窶具攞 anxi xiang jujuluoluo (Taishō No. 665, c. 16, 435a07; Çetin, 2012:
+205) şeklindedir. kara küži sözüne 安息香anxi xiang karşılık gelirken, lukura
+sözüne 窶具攞 jujuluoluo karşılık gelmektedir. lukura ‘İran tütsüsü’ Skt. guggula
+(DDB) karşılığındadır. Skt. bu ifade ‘bdellium || bir çeşit kokulu reçine’ (Monier-
+Williams, 1899: 356b) anlamındadır.
+
+
+tupi(m?): Sözcüğün kökeni Skt. dhūpa ‘tütsü, parfüm, aromatik buğu’ (Monier-
+Williams, 1899: 517c; Zieme ve Kara, 1978: 260b) sözüdür. Sözcüğe UigTot.’ta
+
+‘tütsü’ (Zieme ve Kara, 1978: 1881385) anlamıyla ve                       <twpy> (62a9)
+yazımıyla rastlanır.
+
+
+tütsüg: Clauson sözcüğe ‘tütsü’ anlamını verir ve *tützüg’ün ikincil bir şekli
+olabileceğinden bahseder. Buna göre sözcük tütüz- fiilinden türemiştir (Clauson,
+1972: 461a; ayrıca krş. Nadalyayev vd., 1969: 601b). OTWF’de sözcüğe tützük
+olarak yer verilir. Erdal, tützük biçimi sadece bir yerde tanıklanmış olsa da bu
+biçimin arkaik olduğunu belirterek sözcüğün yapısını tüt-üz- olarak açıklar ve
+bununla beraber /z/’nin her yerde /s/’ye değiştiğini ifade eder. tützük, tütüz-
+fiilinin nesnesini gösterir (Erdal, 1991: 251; ayrıca eklerde /z/’leşme bahsinin
+tüt-üz- ‘tüttürmek’ örneği için krş. Tekin, 2000: 6). Bu açıklamalar ışığında
+sözcüğün yapısı tüt-üz-üg şeklinde açıklanabilir. Sözcüğe HT V’te dört yerde
+rastlanır. Bunlardan birkaçı şöyledir: mokşadeve tep tesär [kur]tulmaknıŋ
+t(ä)ŋrisi tep [teyü]r tütsüg küyürdilär [hua] saçtılar yüküntilär [tapın]tılar samtso
+açari ymä [tü]tsüg küyürüp hua saçıp [y]ükünüp agır ayag kılıp öŋi [bar]dı (Dietz,
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+184   Uğur UZUNKAYA
+
+      Ölmez ve Röhrborn, 2015: 112-113858-865) “Mokṣadeva kurtuluş Tanrısı
+      demektir. Tütsü yaktılar, çiçek2 saçtılar, önünde eğilip saygı gösterdiler. Tripiṭaka
+      ustası da tütsü yakıp, çiçek saçıp, secde edip, büyük bir saygı gösterip gitti.”
+      Buradaki Uyg. tütsüg küyür- karşılığında Çin. metinde 燒香 shaoxiang ‘tütsü
+      yakmak’ (Taishō No. 2053, c. 50, 248a10; DDB) ifadesi geçmektedir. HT V’te
+      sözcüğün geçtiği bir diğer yer ise şudur: öŋin öŋin tütsü[g] hua çäçäk tuta bir
+      uçlug köŋülin kut koltılar (Dietz, Ölmez ve Röhrborn, 2015: 2352233-2236) “Ayrı ayrı
+      tütsü, çiçek tutarak yoğunlaştırılmış bir gönülle kutsallık dilediler.” Burada Uyg.
+      tütsüg karşılığında Çin. metinde 燒香 shaoxiang ‘tütsü yakmak’ (Taishō No.
+      2053, c. 50, 251c04; DDB) ifadesi geçer. HT VII’de geçen tütsüg tut- (Röhrborn,
+
+      1991: 1071183) ifadesinin karşılığı Çin. metinde 執香爐 zhi xianglu (Taishō No.
+
+      2053, c. 50, 259c19; DDB) ‘tütsülük tutmak’tır (Semet, 2005: 173). Burada Uyg.
+
+      metindeki tütsüg karşılığında Çin. metinde 香爐 xianglu ‘tütsülük’ (DDB) geçer.
+
+      HT VIII 1434’te geçen tütsüg yorıt- sözü karşılığında Çin. metinde 行香 xingxiang
+
+      ‘tütsü(yü) elden ele dolaştırmak’ (Taishō No. 2053, c. 50, 266a13; Semet, 2005:
+      173) tabiri bulunmaktadır. Sözcük bunlar dışında burda birkaçını sayabileceğimiz
+      AYS IV [2757], AYS V [130, 407], AYS VI [0486, 0493 vd.], AYS VII [428, 677, 679]
+      gibi Eski Uygurca metinde de tanıklanır. KB’de tütsüg bir yerde ‘tütsü’ anlamıyla
+      tanıklanır (Ata, 1979: 483).
+
+
+      tütsüglük: Sözcüğün yapısı tüt-üz-üg+lük biçiminde açıklanabilir. Clauson
+      sözcüğü ‘buhurdan’ olarak anlamlandırır (1972: 461a; ayrıca krş. Nadalyayev
+      vd., 1969: 601b). Sözcüğe AYS VI’da bir yerde rastlanır ve buradaki ifadenin Çin.
+
+      eş değer metindeki karşılığı olarak 香爐 xianglu (Taishō No. 665, c. 16, 430c19)
+
+      ‘tütsülük, buhurdan’ bulunur: yaŋı arıg ton kädip äligintä tütsüglük tuta bo
+      tütsügüg urup meni okızun (Ayazlı, 2012: 131885-888) “Yeni, temiz giysi giyip
+      elinde buhurluk tutarak bu tütsüyü yakıp beni çağırsın” (Ayazlı, 2012: 175). BT
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    185
+
+XXIII’te sözcüğe elgintä tütsüglük tutar “Elinde buhurdan tutar.” ifadesinde
+rastlanır (Zieme, 2005: 73D107). Bununla birlikte BT IX’da da sözcüğe rastlanır:
+tütsüglük tutup äviniŋ kapagınta ulug agır ayamakın kelteçi dentarlarıg (Tekin,
+1980a: 22294.6-7) “Buhurdan tutup evinin kapısına büyük bir saygıyla gelecek din
+adamları”.
+
+
+yıpar: Clauson kin sözcüğü ile yıpar sözcüğü arasındaki ilişkinin muğlak
+olduğunu, kin’in her zaman misk geyiği ve misk sıçanı salgısı ‘misk’ anlamında
+olduğunu ve yıpar’ın aslında daha genel olarak misk ve çiçek benzeri şeyler için
+yıḏ yıpar ikilemesinde ‘rayiha, ıtır’ anlamında göründüğünü ve erken dönemde
+‘misk’ için özelleştiğini belirtir (1972: 878b-879a). Doerfer sözcüğe ïpār (‫)اﭘﺎر‬
+‘Thymian, Ysop (thymus, satureia) || kekik otu, zulfa otu’ olarak yer verir ve en
+eski metinlerde ve sonraki kaynaklarda yıpar olarak tanıklandığını belirtir.
+Sözcüğün birkaç durumda ‘wohlreichende Pflanze || güzel kokulu bitki’
+anlamında olduğunu belirterek (Doerfer, 1965: 2-3, § 411) DS’deki ipar ‘yüksek
+dağların kar tutmayan yerlerinde yetişen bir çeşit dikenli otun, kurusa bile
+kokusu uzun zaman gitmeyen sarımtırak çiçekleri, misk, amber (Urfa, Antalya)’
+(1974: 2546a) sözcüğüne atıf yapar. TS’de ıpar sözcüğüne ‘yavşan denilen güzel
+kokulu ot’ anlamıyla yer verilir (22009: 110a). DS’de ıpar’ın yanı sıra yıpar ‘güzel
+koku (İçel köyleri)’ sözüne de rastlanır (1972: 4275a). Bu sözcük kağanlık
+yazıtlarından BK G 11’de tanıklanmıştır:
+
+yog : yıparıg : kelürüp : tike : bėrti :       “Cenaze için tütsü getirip dikti. Sandal
+çıntan : ıgaç : kelürüp : öz yar[………]          ağacı getirip kendisi [… … cenaze
+bonça : bodun : saçin : kulkakin :             töreni sırasında] bunca insan saçını,
+[b]ıçdı edgü özlik atin : kara kişin : kök     kulağını kesti, kendi şahsi atlarını, kara
+: tėyeŋin : sansız : kelürüp : koop :          samur, boz sincap (derilerini) sayısız
+koodtı (Ölmez, 2013: 14111-12).                getirip hepsini hediye ettiler.” (Ölmez,
+
+
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+186   Uğur UZUNKAYA
+
+                                                         2013: 15511-12).
+
+
+      Muhtelif çalışmalarda sözcük şu şekilde okunmuş ve anlamlandırılmıştır:
+
+      Kaynak                         Sözcüğün yazı                   Anlam
+                                     çevirimi
+      Radloff, 1897: 148             јоҕ     јышarыҕ          [yog   ‘Begräbnissgeräthe (?) ||
+                                     yıparıg]                        cenaze gereci (?)’
+      Thomsen, 1896 [2002:           juɣ         j p ryɣ
+                                                   y a
+                                                              [yug   ‘musc (?) || misk mumları
+      194-195]                       yıparıg]                        (?)’
+      Orkun, 1936: 70                yug y p rıg
+                                             ı a
+                                                                     ‘cenaze mumları (?)’
+      Tekin, 1988: 54-55             yog yıp(a)r(ı)g                 ‘cenaze mumları’
+      Berta, 2010: 175; 199          yoɣ yıparıɣ                     ‘tören için misk’
+      Ölmez, 2013: 141, 155          yog yıparıg                     ‘cenaze için tütsü’
+      Şirin, 2016: 406               yıpar                           ‘(cenaze ritüellerinde
+                                                                     kullanılan) kokulu mum,
+                                                                     tütsü’
+      Aydın, 2017: 98                yog y ıparıg
+                                             2
+                                                                     ‘cenaze tütsüleri’
+
+
+
+      Dağlık Altay Bölgesi yazıtlarında da bu söze bir kez Kalbak-Taş XVII (A-40)’de
+      rastlanır; ancak burada sözcüğün “y(ı)p(a)r-a” mı “y(a)p(a)r-a” mı olduğu kesin
+      değildir:
+
+      t(a)bg(a)ç-a y(ı)p(a)r-a / y(a)p(a)r-a               “Çin tütsüleri / Çinliler (bir şeyi)
+      (Tıbıkova, Nevskaya ve Erdal, 2012: 86;              yapar.” (Mozioğlu, 2016: 257)
+      Mozioğlu, 2016: 257)
+
+
+
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                  Eski Türkçede Koku, Tütsü Ve Buhurdan    187
+
+Sözcük çoğu Eski Uygurca metinlerde yıd yıpar ikilemesiyle geçmektedir ve bu
+noktada Çin. metindeki karşılığıyla ‘tütsü’ olarak yer almaktadır. HT III’te geçen
+yıd yıpar hua çäçäk (Ölmez ve Röhrborn, 2001: 126904-905) ‘tütsü2 ve çiçek2’
+
+ifadesinin Çin. metindeki karşılığı 香花 xianghua ‘tütsü ve çiçek’ (Taishō No.
+
+2053, c. 50, 239c11; DDB) olarak geçmektedir. HT V’teki yıd yıpar hua çäçäk
+(Dietz, Ölmez ve Röhrborn, 2015: 2262136) ‘tütsü2 ve çiçek2’ ikilemesinin Çin.
+
+metindeki karşılığı 香花 xianghua ‘tütsü ve çiçek’ (Taishō No. 2053, c. 50,
+
+251b11; DDB) bulunmaktadır. HT V’teki bir diğer ifade olan hua çäçäki[n yıd]
+yıparın (Dietz, Ölmez ve Röhrborn, 2015: 66333-334) ‘çiçek2 ve güzel kokuyla2’
+
+ikilemesinin Çin. metindeki karşılığı olarak 花香 hua xiang ‘çiçek ve tütsü’
+
+(Taishō No. 2053, c. 50, 246c09; DDB) yer alır. HT VII’de geçen yı[d] yıpar hua
+çäçäk (Röhrborn, 1991: 1031136-1137; Semet, 2005: 173) “tütsü2 ve çiçek2”
+
+ifadesinin Çin. metindeki karşılığı 香花 xianghua ‘tütsü ve çiçek’tir (Taishō No.
+
+2053, c. 50, 259c10; DDB). HT VIII’de geçen yıpar yügmäk burhan uluşı
+(Röhrborn, 1996: 1621857) ‘koku yığan Buddha’nın ülkesi’ ifadesinin Çin.
+
+metindeki karşılığı 香積 xiangji         (Taishō No. 2053, c. 50, 267a17) ‘kokular
+
+ülkesinin Buddhası’dır (DDB). AYS IV’teki tüü törlüg aḍrok aḍrok yıḍ yıpar hua
+çäçäklär (Tokyürek, 2018: 32419-20) ifadesindeki yıḍ yıpar karşılığında da Çin.
+
+metinde 香 xiang (Taishō No. 665, c. 16, 417c25) bulunur. KB’de yıpar ‘misk’
+
+sözcüğü on yerde tanıklanmıştır (Arat, 1979: 540) ve ayrıca sözcüğe kin yıpar
+şekliyle ‘misk göbeği’ anlamıyla ikileme olarak rastlanır (Taş, 2012: 60). DLT’de
+yıpar sözü Ar. misk (Dankoff ve Kelly, 1984: 161, sh. 456) sözüyle karşılanmıştır.
+Bunun dışında DLT’de yıpar sözcüğünün oluşturduğu şu birleşik kullanımlar da
+mevcuttur: yıpar saç- ‘misk saçmak’ (Dankoff ve Kelly, 1982: 389, sh. 265), yıpar
+yuktur- ‘misk sürmek’ (Dankoff ve Kelly, 1984: 196, sh. 484), yıpar yıḏla- ‘misk
+koklamak’ (Dankoff ve Kelly, 1984: 307, sh. 579).
+
+  Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+188   Uğur UZUNKAYA
+
+      SONUÇ
+
+
+      Eski Türkçenin söz varlığının tematik olarak analizi Türklerin içinde bulunduğu
+      kültürel çevrenin sınırlarının belirlenebilmesi için önem arz etmektedir. Bunun
+      aynı zamanda karşılaştırmalı analizi tarihî ve modern Türkçedeki anlam
+      değişmelerine de ışık tutabilmektedir. Bununla ilişkili olarak Eski Türkçe
+      metinlerin söz varlığının daha iyi anlaşılabilmesi bu metinlerin orijinal
+      metinleriyle ve/veya kaynak dillerdeki biçimleriyle incelemeyi gerektirir. Bir
+      tercüme edebiyat olan Eski Uygurcada bu noktada Çince orijinal metinlerden
+      yardım almak daha doğru bir anlamlandırma ve değerlendirmeyi mümkün
+      kılmaktadır. Eski Türkçe metinlerin orijinal metinleri yahut iki dilli hazırlanmış
+      olan tarihî sözlükler çoğu zaman anlaşılması güç ifadelerde kilit rol
+      üstlenmektedir. Buna ilaveten Türk dilini söz konusu eden farklı dillerde kaleme
+      alınmış eserler de Türkçe söz varlığının anlam dünyasını aydınlatır.
+
+
+      Eski Türkçe dönemi metinlerinde kokuya dair ifadeler için bur- ‘kokmak’, kapir
+      ‘kâfur’, kin yıpar ‘misk’, kinlig ‘misk kokulu’, kisarlıg ‘güzel kokulu’, köti-
+      ‘kokmak, koku salmak’, sagbıç ‘bir çeşit sıvı koku’, sası- ‘kötü kokmak’, sasıg ‘pis
+      kokulu’, şaruki ‘bir tür koku’, tagar ‘hoş kokulu toz’, tütit- ‘duman sızmak veya
+      buhar çıkarmak’, tütnä- ‘tütmek’, yıd ‘güzel koku, rayiha’, yıdı- ‘kötü kokmak’,
+      yıdıg ‘kötü koku’, yıdışka- ‘kokmak’, yıdıt- ‘kokutmak’, yıdla- ‘koklamak’ ve yıdlıg
+      ‘güzel kokulu’ tespit edilmiştir. Kokuya ilişkin tespit edilen bu yirmi ifadeden
+      dördü kapir, sagbıç, şaruki ve tagar Sanskritçe kökenlidir. kisarlıg ifadesi
+      Sanskritçe kökene Türkçe bir ekin gelmesinden oluşmuştur; bu bakımdan
+      Sanskritçe ve Türkçe birleşik yapıdadır. Yine bu dönem metinlerinde tütsü ve
+      buhurdan anlamında geçen ifadeler için käräşü ‘tütsü’, kokılık ‘tütsü’, küli
+      ‘tütsülük, buhurdan’, küži ‘tütsü, tütsü çubuğu’, lug ‘tütsülük’, lukura ‘tütsü’,
+      tupi(m?) ‘tütsü’, tütsüg ‘tütsü’ ve yıpar ‘tütsü’ olmak üzere dokuz ifade tespit
+
+
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                     Eski Türkçede Koku, Tütsü Ve Buhurdan    189
+
+edilmiştir. Bu dokuz ifadeden küli Moğolca, küži, lukura ve tupi(m?) Sanskritçe,
+lug ise Çince kökenlidir.
+
+
+Eski Türkçede koku, tütsü ve buhurdan anlamına gelen sözcüklerin etimolojisini
+ve orijinal metinlerdeki biçimlerinin tespit edildiği bu çalışma ile Türk dilinin ve
+Türklerin farklı coğrafyalarda farklı kültürlerle, dillerle ve dinlerle olan irtibatı
+gösterilmeye çalışılmıştır. Çalışmanın gövdesini oluşturan inceleme kısmında da
+görüldüğü üzere koku, tütsü ve buhurdan anlamına gelen sözlerin birçoğu
+Türkçe kökenli olsa da Orta Asya’da yaşamış veya Türklerin irtibatta
+bulundukları toplulukların dillerinden ödünçlenmiş ifadeleri de içermektedir.
+Özellikle koku gibi kavram alanına ilişkin ifadelerin somutlaştırılabilmesinde ve
+anlamlandırılabilmesinde bu ve benzeri çalışmalar önemli bir adım olarak
+görülebilir.
+
+
+KISALTMALAR
+
+AdW                            Akademie der Wissenschaften
+AF                             Asiatische Forschungen
+AKDTYK                         Atatürk Kültür, Dil ve Tarih Yüksek Kurumu
+Ar.                            Arapça
+AYS IV                         Altun Yaruk Sudur VI. Tegzinç (Karşılaştırmalı Metin
+                               Yayını), bk. Tokyürek 2018
+AYS V                          Altun Yaruk Sudur V. Kitap Berlin Koleksiyonundaki
+                               Fragmanların Transliterasyonu ve Transkripsiyonu
+                               Açıklamalar ve Dizin, bk. Uçar 2009
+AYS IX                         Uygurca Altun Yaruk Sudur, IX. Kitap. Diplomatik
+                               Neşir Usûlüyle Yayını, Tercüme Açıklamalar ve Dizin,
+                               bk. Uçar 2013
+AYS VI                         Altun Yaruk Sudur VI. Kitap Karşılaştırmalı Metin
+
+
+     Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+190   Uğur UZUNKAYA
+
+                                     Yayını, bk. Ayazlı 2012
+      AYS VII                        Altun     Yaruk      Yedinci    Kitap      Berlin   Bilimler
+                                     Akademisindeki       Metin     Parçaları     Karşılaştırmalı
+                                     Metin, Çeviri, Açıklamalar, Dizin, bk. Çetin 2012
+      BBAW                           Berlin-Brandenburgische              Akademie            der
+                                     Wissenschaften
+      BK G                           Bilge Kağan Yazıtı güney yüzü
+      BK K                           Bilge Kağan Yazıtı kuzey yüzü
+      BT                             Berliner Turfantexte
+      BT III                         Das uigurische Insadi-Sūtra, bk. Tezcan 1974
+      BT IX                          Maitrisimit nom bitig: Die uigurische Übersetzung
+                                     eines Werkes der buddhistischen Vaibhāṣika-Schule,
+                                     bk. Tekin 1980
+      BT XXIII                       Magische Texte des uigurischen Buddhismus, bk.
+                                     Zieme 2005
+      BT XXV                         Das Buch von der Sündentilgung. Edition des
+                                     alttürkisch-buddhistischen Kšanti Kılguluk Nom Bitig,
+                                     bk. Wilkens 2007
+      BT XXXIII                      A Study of the Buddhist Sūtra called Säkiz Yükmäk
+                                     Yaruq or Säkiz Törlügin Yarumïš Yaltrïmïš in Old
+                                     Turkic, bk. Oda 2015
+      BT XXXVII                      Buddhistische       Erzählungen       aus     dem      alten
+                                     Zentralasien.        Edition       der       altuigurischen
+                                     Daśakarmapathāvadānamālā, bk. Wilkens 2016
+      c.                             cilt
+      Çin.                           Çince
+      DDB                            Digital Dictionary of Buddhism
+      DLT                            Dīvānu Luġāti’t-Türk
+
+
+           Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                     Eski Türkçede Koku, Tütsü Ve Buhurdan     191
+
+DS                             Derleme Sözlüğü
+düz.                           düzenleyen
+G                              A Chinese-English Dictionary, bk. Giles 1912
+HT V                           Die alttürkische Xuanzang-Biographie V, bk. Dietz,
+                               Ölmez ve Röhrborn 2015
+HT VII                         Die    alttürkische      Xuanzang-Biographie       VII,   bk.
+                               Röhrborn 1991
+HT VIII                        Die alttürkische Xuanzang-Biographie VIII, bk.
+                               Röhrborn 1996
+HT IX                          Die    alttürkische      Xuanzang-Biographie        IX,   bk.
+                               Aydemir 2013
+HT X                           Die    alttürkische      Xuanzang-Biographie        X,    bk.
+                               Mirsultan 2010
+KB                             Kutadgu Bilig
+MaueKat                        Alttürkische Handschriften. Teil 1: Dokumente in
+                               Brāhmī und tibetischer Schrift, bk. Maue 1996
+Moğ.                           Moğolca
+No.                            numara
+OTWF                           Old Turkic Word Formation. A Functional Approach
+                               to the Lexicon, bk. Erdal 1991
+SEDTF 2                        Sprachwissenschaftliche Ergebnisse der deutschen
+                               Turfan-Forschung.              Text-Editionen             und
+                               Interpretationen von Albert August von Le Coq,
+                               Friedrich Wilhelm Karl Muller, Willi Bang, Annemaie
+                               von Gabain, Gabdul Rašid Rachmati, Wilhelm
+                               Thomsen. Gesammelte Berliner Akademieschriften
+                               1908-1938. Mit Vorwort von Georg Hazai. Band 2.
+                               Mit     15     Tafeln.     Leipzig     1972.     (Opuscula.
+
+
+     Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+192   Uğur UZUNKAYA
+
+                                      Sammelausgaben          seltener     und     bisher    nicht
+                                      selbststandig       erschienener        wissenschaftlicher
+                                      Abhandlungen. 3, 2.)
+      SGKAO                           Schriften zur Geschichte und Kultur des Alten
+                                      Orients
+      Skt.                            Sanskritçe
+      sh.                             sahife
+      SPAW                            Sitzungsberichte der Preusischen Akademie der
+                                      Wissenschaften
+      TDK                             Türk Dil Kurumu
+      TİEM                            Türk İslam Eserleri Müzesi
+      TKAE                            Türk Kültürünü Araştırma Enstitüsü
+      TS                              Tarama Sözlüğü
+      TT V A                          Türkische Turfan-Texte V, bk. Bang ve Gabain 1931;
+                                      Uzunkaya 2017
+      Tü.                             Türkçe
+      UigTot.                         Ein uigurisches Totenbuch, bk. Zieme ve Kara 1978
+      Uyg.                            Eski Uygurca
+      vd.                             ve diğerleri
+      VdSUA                           Veroffentlichungen der Societas Uralo-Altaica
+      VOHD                            Verzeichnis der Orientalischen Handschriften in
+                                      Deutschland
+      vr.                             varak
+      yay.                            yayın(ları)
+      ZAGA                            Zentralinstitut fur Alte Geschichte und Archaologie
+
+
+
+
+            Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                  Eski Türkçede Koku, Tütsü Ve Buhurdan    193
+
+KAYNAKÇA
+
+
+Arat, R. R. (1979). Kutadgu Bilig III İndeks. (İndeksi neşre hazırlayanlar: Kemal
+        Eraslan, Osman F. Sertkaya, Nuri Yüce). İstanbul. (TKAE Yay. 47, IV – A
+        12.)
+
+Ata, A. (1997). Nāṣırü’d-dīn bin Burhānü’d-dīn Rabġūzī Ḳıṣaṣü’l-Enbiyā
+        (Peygamber Kıssaları). I (Giriş-Metin-Tıpkıbasım), II (Dizin). Ankara: Türk
+        Dil Kurumu Yay. (AKDTYK. TDK Yay. 681-1, 681-2.)
+
+
+Ata, A. (1998). Nehcü’l-Ferādis Uştmaḫlarnıng Açuḳ Yolı Cennetlerin Açık Yolu III
+        Dizin- Sözlük. Ankara: Türk Dil Kurumu Yay. (AKDTYK. TDK Yay. 518.)
+
+
+Ayazlı, Ö. (2012). Altun Yaruk Sudur VI. Kitap Karşılaştırmalı Metin Yayını.
+        Ankara: Türk Dil Kurumu Yay. (AKDTYK. TDK Yay. 1051. Eski Uygurca
+        Kütüphanesi. 1)
+
+
+Ayazlı, Ö. (2016). Eski Uygurca Din Dışı Metinlerin Karşılaştırmalı Söz Varlığı.
+        Ankara: Türk Dil Kurumu Yay. (AKDTYK. TDK Yay. 1187. Eski Uygurca
+        Kütüphanesi. 5)
+
+
+Aydemir, H. (2013). Die alttürkische Xuanzang-Biographie IX. Nach der
+        Handschrift von Paris, Peking und St. Petersburg sowie nach dem
+        Transkript von Annemarie v. Gabain ediert, übersetzt und kommentiert.
+        Band I-II. Wiesbaden: Harrassowitz. (Xuanzangs Leben und Werk. 10.
+        VdSUA. 34.)
+
+
+Aydın, E. (2017). Orhon Yazıtları (Köl Tegin, Bilge Kağan, Tonyukuk, Ongi, Küli
+        Çor). İstanbul: Bilge Kültür Sanat.
+
+
+
+
+  Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+194   Uğur UZUNKAYA
+
+      Bang, W. ve A. von Gabain (1931). Türkische Turfan-Texte V. Aus buddhistischen
+                 Schriften. Berlin. (SPAW. Phil.-hist. Kl. 1931: 14. 323-356.) [Tıpkıbasımı:
+                 SEDTF 2, 99-132.]
+
+
+      Berta, Á. (2010). Sözlerimi İyi Dinleyin: Türk ve Uygur Runik Yazıtlarının
+                 Karşılaştırmalı Yayını. Çev., Emine Yılmaz. Ankara: Türk Dil Kurumu Yay.
+                 (AKDTYK. TDK Yay. 1008.)
+
+      Boeschoten, H. E. ve J. O’Kane (2015). Al-Rabghūzī, The Stories of the Prophets
+                 Qiṣaṣ al-Anbiyāʾ: An Eastern Turkish Version (Second Edition). Volume 1
+                 – Text Edition, Volume 2 – Translation. Leiden & Boston: Brill.
+
+
+      Caferoğlu, A. (1931) Abû-Hayyân Kitâb al-İdrâk li-lisân al-Atrâk. İstanbul: Evkaf
+                 Matbaası.
+
+
+      Çetin, E. (2012). Altun Yaruk Yedinci Kitap Berlin Bilimler Akademisindeki Metin
+                 Parçaları Karşılaştırmalı Metin, Çeviri, Açıklamalar, Dizin. Adana:
+                 Karahan Kitabevi.
+
+
+      Clauson, Sir G. (1972). An Etymological Dictionary of Pre-Thirteenth-Century
+                 Turkish. Oxford: Oxford at the Clarendon Press.
+
+
+      Dankoff, R. ve J. Kelly (1982-1985). Maḥmūd al-Kāšγarī. Compendium of Turkic
+                 Dialects (Dīwān Luγāt at-Turk). Part I-III. Duxbury, Massachusetts:
+                 Harvard University. (Sources of Oriental Languages and Literatures. 7.
+                 Turkish Sources. VII.)
+
+      DDB    =     Digital   Dictionary   of   Buddhism,      www.buddhism-dict.net/ddb/
+                 (07.10.2019)
+
+
+
+
+        Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                  Eski Türkçede Koku, Tütsü Ve Buhurdan    195
+
+Dietz, Siglinde, M. Ölmez, K. Röhrborn (2015). Die alttürkische Xuanzang-
+        Biographie VII. Nach der Handschrift von Leningrad, Paris und Peking
+        sowie nach dem Transkript von Annemarie von Gabain hrsg., übersetzt
+        und kommentiert. Wiesbaden: Harrassowitz. (Xuanzangs Leben und
+        Werk. 11. VdSUA. 34.)
+
+
+Dilçin, C. (düz.) (22009). Yeni Tarama Sözlüğü. Ankara: Türk Dil Kurumu Yay.
+        (AKDTYK. TDK Yay. 503.)
+
+
+Doerfer, G. (1963-1975) Türkische und mongolische Elemente im neupersischen.
+        Unter       besonderer        Berücksichtigung        älterer      neupersischer
+        Geschichtsquellen, vor allem der Mongolen- und Timuridenzeit. 1.
+        Mongolische Elemente im Neupersischen [1963]. 2. Türkische Elemente
+        im Neupersischen: alif bis tā [1965]. 3. Türkische Elemente im
+        Neupersischen: ğīm bis kāf [1967]. 4. Türkische Elemente im
+        Neupersischen (Schluss) und Register zur Gesamtarbeit [1975].
+        Wiesbaden. (Akademie der Wissenschaften und der Literatur [Mainz].
+        Veroffentlichungen der Orientalischen Kommission. 16, 19, 20, 21.)
+
+
+Edgerton, F. (1953). Buddhist Hybrid Sanskrit Grammar and Dictionary, c. II:
+        Dictionary. New Haven: Yale University Press.
+
+Erdal, M. (1991). Old Turkic Word Formation. A Functional Approach to the
+        Lexicon. Vol. I-II. Wiesbaden: Harrassowitz. (Turcologica 7.)
+
+
+Giles, H. A. (1912). A Chinese-English Dictionary. Part I-II. 2. bs.
+        Shanghai/London: Kelly and Walsh.
+
+
+Hirakawa, A. (1997). A Buddhist Chinese-Sanskrit Dictionary. Tōkyō: Reiyukai.
+
+
+
+
+  Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+196   Uğur UZUNKAYA
+
+      Kara, G. ve P. Zieme (1976). Fragmente tantrischer Werke in uigurischer
+               Übersetzung. Berlin: Akademie-Verlag. (AdW der DDR. ZAGA. SGKAO.
+               BT. 7.)
+
+
+      Karaayak,      T.   (2017).   Eski   Uygurca      Abitaki     Metinlerinin     Sözvarlığı.
+               Yayımlanmamış yüksek lisans tezi, Yıldız Teknik Üniversitesi Sosyal
+               Bilimler Enstitüsü, İstanbul.
+
+      Khairullah, H. L. (2015). Et-Tuhfetü’z-Zekiyye fi’l-Luġati’t-Türkiyye Çeviri-Fiil
+               İncelemesi. Yayımlanmamış doktora tezi, Yıldız Teknik Üniversitesi
+               Sosyal Bilimler Enstitüsü, İstanbul.
+
+
+      Kök, A. (2004). Karahanlı Türkçesi Satır-arası Kur’an Tercümesi (TİEM 73 1v-
+               235v/2) Giriş-İnceleme-Metin-Dizin. Yayımlanmamış doktora tezi,
+               Ankara Üniversitesi Sosyal Bilimler Enstitüsü, Ankara.
+
+
+      Kormuşin, İ., E. Mozioğlu, R. Alimov, F. Yıldırım (2016). Yenisey-Altay-Kırgızistan
+               Yazıtları ve Kâğıda Yazılı Runik Belgeler. Ankara: BilgeSu Yayıncılık.
+
+
+      Lessing, F. D. [ed.] (1960). Mongolian-English Dictionary. Bloomington.
+
+
+      Maue, D. (1996). Alttürkische Handschriften. Teil 1: Dokumente in Brāhmī und
+               tibetischer Schrift. Beschrieben und hrsg. Stuttgart: Steiner. (VOHD. 13,
+               9.)
+
+
+      Mirsultan, A. (2010). Die alttürkische Xuanzang-Biographie X. Nach der
+               Handschrift von Paris, Peking und St. Petersburg sowie nach dem
+               Transkript von Annemarie v. Gabain ediert, übersetzt und kommentiert.
+               Wiesbaden: Harrassowitz. (Xuanzangs Leben und Werk. 9. VdSUA. 34.)
+
+
+
+
+        Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    197
+
+Monier-Williams, M. (1899). A Sanskrit-English Dictionary. Oxford: Oxford
+         University Press.
+
+
+Mutçalı, S. (2012). Arapça-Türkçe Sözlük. İstanbul: Dağarcık.
+
+
+Nadalyayev, V. M., D. M. Nasilov, E. R. Tenişev, A. M. Şcerbak (1969).
+         Drevnetyurkskiy Slovar’. Leningrad: Izdat. Nauka, Leningradskoe Otd.
+         (Akademiya Nauk SSSR. Institut Yazıkoznaniya).
+
+
+Oda, J. (2015). A Study of the Buddhist Sūtra called Säkiz Yükmäk Yaruq or Säkiz
+         Törlügin Yarumïš Yaltrïmïš in Old Turkic. Turnhout: Brepols. (BBAW.
+         Akademienvorhaben Turfanforschung. BT. 33.)
+
+
+Ölmez, M. (2013). Orhon-Uygur Hanlığı Dönemi Moğolistan’daki Eski Türk
+         Yazıtları (Metin-Çeviri-Sözlük). Ankara: BilgeSu Yayıncılık.
+
+
+Ölmez, M. ve K. Röhrborn (2001). Die alttürkische Xuanzang-Biographie III. Nach
+         der Handschrift von Leningrad, Paris und Peking sowie nach dem
+         Transkript von        Annemarie von         Gabain hrsg., übersetzt und
+         kommentiert. Wiesbaden: Harrassowitz. (Xuanzangs Leben und Werk.
+         7. VdSUA. 34.)
+
+
+Orkun, H. N. (1936). Eski Türk Yazıtları I. İstanbul: Devlet Basımevi.
+
+
+Özyetgin, A. M. (2001). Ebū Ḥayyān Kitābu’l-İdrāk li Lisāni’l-Etrāk Fiil: Tarihî
+         Karşılaştırmalı Bir Gramer ve Sözlük Denemesi. Ankara: KÖKSAV.
+         (Tengrim Türklük Bilgisi Araştırmaları Dizisi. 3)
+
+
+Radloff, W. (1897). Die alttürkischen Inschriften der Mongolei, neue Folge, nebst
+         einer Abhandlung von W. Barthold: die historische Bedeutung der
+
+
+
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+198   Uğur UZUNKAYA
+
+              alttürkischen      Insch-riften.    St.   Petersburg:      Buchdruckerei       der
+              kaiserlichen Akademie der Wissenschaften.
+
+
+      Röhrborn, K. (1991). Die alttürkische Xuanzang-Biographie VII. Nach der
+              Handschrift von Leningrad, Paris und Peking sowie nach dem Transkript
+              von Annemarie von Gabain hrsg., übersetzt und kommentiert.
+              Wiesbaden: Harrassowitz. (Xuanzangs Leben und Werk. 3. VdSUA. 34.)
+
+
+      Röhrborn, K. (1996). Die alttürkische Xuanzang-Biographie VIII. Nach der
+              Handschrift von Leningrad, Paris und Peking sowie nach dem Transkript
+              von Annemarie von Gabain hrsg., übersetzt und kommentiert.
+              Wiesbaden: Harrassowitz. (Xuanzangs Leben und Werk. 5. VdSUA. 34.)
+
+      Semet, A. (2005). Lexikalische Untersuchungen zur uigurischen Xuanzang-
+              Biographie. Wiesbaden: Harrassowitz. (Xuanzangs Leben und Werk. 8.
+              VdSUA. 34.)
+
+
+      Shōgaito, M. (2008). Uighur Abhidharma Texts: A Philological Study. Shuokadoh.
+
+
+      Shōgaito, M. (2014). The Uighur Abhidharmakośabhāṣya preserved at the
+              Museum of         Ethnography       in    Stockholm.     Harrassowitz      Verlag:
+              Wiesbaden. (Turcologica. 99)
+
+
+      Soothill, W. E. ve L. Hodous (1937). A Dictionary of Chinese Buddhist Terms: with
+              Sanskrit and English Equivalents and a Sanskrit-Pali Index. London:
+              Kegan Paul, Trench, Trubner & Co.
+
+      Şirin, H. (2016). Eski Türk Yazıtları Söz Varlığı İncelemesi. Ankara: Türk Dil
+              Kurumu Yay. (AKDTYK. TDK Yay. 1181.)
+
+
+
+
+        Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    199
+
+Taş, İ. (2012). Kutadgu Bilig’de İkilemeler, Türk Dili Araştırmaları Yıllığı-Belleten
+         2012/2: 43-95.
+
+
+Taş, İ. (2015). Kutadgu Bilig’de Söz Yapımı. Ankara: Türk Dil Kurumu Yay.
+         (AKDTYK. TDK Yay. 984)
+
+Tekin, Ş. (1980a). Maitrisimit nom bitig: Die uigurische Übersetzung eines
+         Werkes der buddhistischen Vaibhāṣika-Schule. 1. Transliteration,
+         Übersetzung, Anmerkungen. 2. Analytischer und rückläufiger Index.
+         Berlin: Akademie-Verlag. (AdW der DDR. ZAGA. SGKAO. BT. 9.)
+
+
+Tekin, Ş. (1980b). Buddhistische Uigurica aus der Yüan-Zeit. Budapest:
+         Akadémiai Kiadó. (Bibliotheca Orientalis Hungarica. XXVII.)
+
+
+Tekin, T. (1968). A Grammar of Orkhon Turkic. Bloomington: Indiana University.
+
+Tekin, T. (1988). Orhon Yazıtları. Ankara: Türk Dil Kurumu Yayınları. (AKDTYK.
+         TDK Yay. 540.)
+
+
+Tekin, T. (1995). Türk Dillerinde Birincil Uzun Ünlüler. Ankara: Simurg. (Türk
+         Dilleri Araştırmaları Dizisi. 13)
+
+
+Tekin, T. (2000). “Ana Türkçe’de z’leşme ve s’leşme”, XIII. Dilbilim Kurultay
+         Bildirileri 13-15 Mayıs 1999: 1-12. İstanbul: Boğaziçi Üniversitesi
+         Yayınevi.
+
+
+Tekin, T. (2016). Orhon Türkçesi Grameri. Ankara: Türk Dil Kurumu Yayınları.
+
+
+Tezcan, S. (1974). Das uigurische Insadi-Sūtra. Berlin: Akademie-Verlag. (AdW
+         der DDR. ZAGA. SGKAO. 6. BT. 3.)
+
+
+
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+200   Uğur UZUNKAYA
+
+      Thomsen, V. (1896 [2002]) Orhon Yazıtları Araştırmaları: [1] Orhon ve Yenisey
+              Yazıtlarının Çözümü İlk Bildiri; [2] V. Thomsen Tarafından Çözülmüş
+              Orhon Yazıtları; [3] Yenisey Yazıtlarındaki İyi Değerlendirilmemiş Bir
+              Harf; [4] Turcica. (çeviren ve yayım hazırlayan: Vedat Köken), Ankara:
+              Türk Dil Kurumu Yay. (AKDTYK. TDK Yay. 815.)
+
+
+      Tıbıkova, L. N., İ. A. Nevskaya, M. Erdal (2012). Katalog Drevnetyurkskih
+              Runiçeskih Pamyatnikov Gornogo Altaya. Gorno-Altaysk.
+
+
+      Tokyürek, H. (2018). Altun Yaruk Sudur VI. Tegzinç (Karşılaştırmalı Metin Yayını).
+              Ankara: Türk Dil Kurumu Yay. (AKDTYK. TDK Yay. 1268. Eski Uygurca
+              Kütüphanesi. 8)
+
+
+      Türk Dil Kurumu (1972). Türkiye’de Halk Ağzından Derleme Sözlüğü VI, Ankara.
+
+
+      Türk Dil Kurumu (1974). Türkiye’de Halk Ağzından Derleme Sözlüğü VII, Ankara.
+
+
+      Uçar, E. (2009). Altun Yaruk Sudur V. Kitap Berlin Koleksiyonundaki
+              Fragmanların Transliterasyonu ve Transkripsiyonu Açıklamalar ve Dizin.
+              Yayımlanmamış Doktora Tezi. Ege Üniversitesi, Sosyal Bilimler
+              Enstitüsü, Türk Dünyası Araştırmaları Ana Bilim Dalı, Türk Dili ve
+              Lehçeleri Bilim Dalı, İzmir.
+
+
+      Uçar, E. (2013). Uygurca Altun Yaruk Sudur, IX. Kitap. Diplomatik Neşir Usûlüyle
+              Yayını, Tercüme Açıklamalar ve Dizin. İzmir: Dinazor Kitabevi Yayınları.
+
+
+      Uzunkaya, U. (2017). Son Dönem Budist Uygur Edebiyatından İki Örnek (Metin-
+              Çeviri-Açıklamalar-Dizin). Yayımlanmamış doktora tezi, Yıldız Teknik
+              Üniversitesi Sosyal Bilimler Ensitüsü, İstanbul.
+
+
+
+
+        Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                    Eski Türkçede Koku, Tütsü Ve Buhurdan   201
+
+Wilkens, J. (2007). Das Buch von der Sündentilgung. Edition des alttürkisch-
+        buddhistischen Kšanti Kılguluk Nom Bitig. Teil 1. [Vorwort, Einleitung,
+        Edition]. Teil 2. [Glossar, Transliterationen, Tafeln]. Turnhout: Brepols.
+        (BBAW. Akademienvorhaben Turfanforschung. BT. 25, 1 ve 2.)
+
+
+Wilkens, J. (2016). Buddhistische Erzählungen aus dem alten Zentralasien.
+        Edition der altuigurischen Daśakarmapathāvadānamālā. Teil 1.
+        [Vorwort, Einleitung, Siglen der Handschrift und Konkordanzen,
+        Edition]. Teil 2. [Edition, Faksimiles] Teil 3. [Glossar, Transliterationen,
+        Abkurzungen,       Literaturverzeichnis].       Turnhout:    Brepols.     (BBAW.
+        Akademienvorhaben Turfanforschung. BT. 37, 1, 2 ve 3.)
+
+
+Yıldırım, F. (2017). Irk Bitig ve Orhon Yazılı Metinlerin Dili. Ankara: Türk Dil
+        Kurumu Yay. (AKDTYK. TDK Yay. 1244. Eski Uygurca Kütüphanesi. 7)
+
+
+Yüce, N. (1993). Ebu’l-Ḳāsım Cārullah Maḥmūd bin ʿOmar bin Muḥammed bin
+        Aḥmed      ez-Zamaḫşarī        el-Ḫvārizmī.     Mukaddimetü’l-Edeb       Ḫvārizm
+        Türkçesi İle Tercümeli Şuşter Nüshası. Giriş, Dil Özellikleri, Metin,
+        İndeks. Ankara. (AKDTYK. TDK Yay. 535.)
+
+
+Zieme, P. (1977). “Drei neue uigurische Sklavendokumente”, Altorientalische
+        Forschungen 5: 145-170.
+
+
+Zieme, P. (1984). “Zur Verwendung der Brāhmī-Schrift bei den Uiguren (Anhang:
+        Ein uigurischer Neujahrssegen)”, Altorientalische Forschungen 11/2:
+        331-346.
+
+
+Zieme, P. (2005). Magische Texte des uigurischen Buddhismus. Mit 208
+        Abbildungen        auf    97      Tafeln.      Turnhout:     Brepols.     (BBAW.
+        Akademienvorhaben Turfanforschung. BT. 23.)
+
+
+  Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+202   Uğur UZUNKAYA
+
+      Zieme, P. (2015). Altuigurische Texte der Kirche des Ostens aus Zentralasien.
+              Piscataway, NJ: Gorgias Press. (Georgias Eastern Christian Studies. 41)
+
+
+      Zieme, P. ve G. Kara (1979). Ein uigurisches Totenbuch. Nāropas Lehre in
+              uigurischer Übersetzung von vier tibetischen Traktaten nach der
+              Sammelhandschrift aus Dunhuang, British Museum Or. 8212 (109).
+              Budapest. (BOH. 22) [aynı zamanda Wiesbaden’da yayımlandı (AF. 63.)]
+
+
+
+
+        Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                   Eski Türkçede Koku, Tütsü Ve Buhurdan    203
+
+                                 EXTENDED ABSTRACT
+
+Introduction
+
+Considering the historical development of the Turkic language, inscriptions and
+manuscripts belonging to the periods of the Second Turkic Khanate (632-744),
+the Uighur Khanate (744-840) and the Uighur Kingdom of Kocho (860-1284),
+and the inscriptions found in Yenisei, Mountainous Altai and Kyrgyzstan
+constitute the basic written sources of Old Turkic. Although some scholars
+wanted to include the first period works written in Karakhanid in Old Turkish,
+there is two known dialects of Old Turkic, the first of these is Orkhon Turkish
+and the latter is Old Uighur. The texts of this period contain many terms related
+to diverse fields, such as religious, social, cultural and military terms. One of
+them is also the concepts used to name the smell and the concepts of incense
+and censer. The aim of the paper is to determinate the words in the meanings
+of smell, incense and censer in Old Turkic texts and to explain these words
+etymologically. In this study, the words in question determinated in the
+inscriptions and manuscripts in Orkhon Turkic and Old Uighur are taken as
+lexical entry; in addition, the texts of other periods of historical Turkish
+languages are cited for these lexical entries and their forms in the original texts
+and bilingual dictionaries of Turkic languages are also demonstrated. The lexical
+materials in question in this paper are examined under two categories: Words
+and phrases relating to Smell in Old Turkic and Incense and Censer in Old Turkic.
+
+1. Words and phrases relating to Smell in Old Turkic
+
+The following words in the shape of noun and verb are determinated among
+the terms related to smell in Turkic runic inscriptions and Old Uighur texts: bur-
+comes to mean ‘to steam; to be fragrant’. The verb bur- is translated into Arabic
+with the words fāḥat, taḍawwaʿa and irtafaʿa in Compendium of Turkic Dialects
+by Maḥmūd al-Kāshgharī. burı- is translated into Arabic with the phrase fāḥa’l-
+misk in Kitāb al-ʿidrāk li-lisān al-ʿatrāk by ʿAbū Ḥayyān al-ʿAndalusī. kapir < Skt.
+karpūra ‘camphor (either the plant or resinous exudation or fruit)’ (Monier-
+Williams, 1899: 258b). The Chinese equivalent of kapir is attested as 龍腦 long
+nao in Goldenlight Sūtra, chapter 6 (Ayazlı, 2012: 315b). kin yıpar means ‘musk’.
+In Compendium of Turkic Dialects, kin yıpar renders Arabic nāfica. In Kutadgu
+Bilig kin yıpar ‘misk-bag’ is attested as a hendiadys. The word kin is translated
+into Arabic with the phrase al-misk in Kitāb al-ʿidrāk li-lisān al-ʿatrāk. kinlig is
+attested in Bilgä Qagan inscription in the meaning of ‘musky’. It can be
+suggested the form of kin+lig for the expression of the word. kisarlıg < Skt.
+keśara and Turkic +lıg. Skt. keśara ‘pollen’ (Edgerton, 1953: 193a). köti- means
+‘to smell pleasantly, to emit a fragrance’ (Erdal, 1991: 483). The Chinese
+
+   Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+204   Uğur UZUNKAYA
+
+      equivalents of the verb köti- documented in Old Uighur texts are 芬馥 fenfu, 香
+      xiang and 薰 xun. sası- comes to mean ‘to stink’. Old Turkic verb sası- is
+      translated into Arabic with the word natuna in Compendium of Turkic Dialects
+      by Maḥmūd al-Kāshgharī. sasıg means ‘stinking’. It appears as sası in Kitāb al-
+      ʿidrāk li-lisān al-ʿatrāk with Arabic equivalent ṣınatu’l-bevl. şaruki < Skt. śallakī
+      ‘incense’ (Monier-Williams, 1899: 1059b). tagar < Skt. tagaraka
+      ‘Tabernaemontana coronaria and a fragrant powder prepared from it’ (Monier-
+      Williams, 1899: 432a). tütit- comes to mean ‘to make (something) smoke’
+      (Clauson, 1972: 452a) and is the Old Uighur equivalent of Chinese 熏 xun.
+      tütitil- is in the meaning of ‘to parfume’ and it is the Old Uighur equivalent of
+      Chinese 熏 xun. tütnä- comes to mean ‘to smoke’. yıd means ‘scent, fragrance’.
+      The Chinese equivalents of the word yıd documented in Old Uighur texts are 芳
+      fang, 臭氣 xiu qi, and 氣 qi. yıdı- is in the meaning of ‘to stink’ and it is the Old
+      Uighur equivalent of Chinese 香 xiang. The verb yıdı- is translated into Arabic
+      with the words aḫamma, antana and natina in Compendium of Turkic Dialects
+      by Maḥmūd al-Kāshgharī. yıdıg means ‘smell, odour’. In Old Uighur texts, it has
+      the Chinese equivalents such as 臭穢 and 臭 xiu. The word yıdıg is translated
+      into Arabic with the word muntin in Compendium of Turkic Dialects. yıdla- is in
+      the meaning of ‘to smell’ and its Chinese equivalent documented in Old Uighur
+      texts is 聞 wen. yıdlıg comes to mean ‘having a smell’ and its Chinese equivalent
+      documented in Old Uighur texts is 香 xiang.
+
+      2. Incense and Censer in Old Turkic
+
+      The following words are determinated among the terms related to incense and
+      censer in Turkic runic inscriptions and Old Uighur texts: kokılık means ‘incense’.
+      It can be suggested the form of kok-ı+lık for the expression of the word. küli
+      comes to mean ‘censer’ and Kara and Zieme compare this word with Mongolian
+      külis (1976: 39). küži < Skt. kuśa ‘the sacred grass used at certain religious
+      ceremonies’ (Monier-Williams, 1899: 297a). lug ‘censer’ < Chinese 鑪 lu ‘a
+      stove; a réchaud; a censer; a brazier’ (G. 7416). lukura means ‘incense’ and its
+      Skt. equivalent is guggula (DDB). tupi(m?) < Skt. dhūpa ‘incense, perfume,
+      aromatic vapour or smoke proceeding from gum or resin’ (Monier-Williams,
+      1899: 517c). tütsüg means ‘incense’ and its Chinese equivalents documented in
+      Old Uighur texts are香xiang and 香爐 xianglu. tütsüglük comes to mean
+      ‘censer’ and the form of the word is explained as tüt-üz-üg+lük. The Chinese
+      equivalent of the Old Turkic word is 香爐 xianglu. yıpar is attested in Old Turkic
+
+
+
+         Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+                                                  Eski Türkçede Koku, Tütsü Ve Buhurdan    205
+
+texts as yıd yıpar ‘incense’ in the form of reduplication. Its Chinese equivalents
+documented in Old Uighur texts are 香 xiang.
+
+Conclusion
+
+Thematic analysis of the vocabulary of Old Turkic is important for determining
+the boundaries of the cultural environment in which the Turks live. The
+comparative analysis of this will also shed light on the changes in meaning in
+historical and modern Turkish. In order to better understand the vocabulary of
+Old Turkic texts, it is necessary to examine these texts in their source languages.
+
+
+
+
+  Adıyaman Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, Yıl: 13, Sayı: 34, Nisan 2020
+
