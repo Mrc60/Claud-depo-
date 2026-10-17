@@ -1,17 +1,13 @@
 {
- "bolum": "027_yug",
- "min_w": 700,
- "sorgular": [],
- "incele": [
-  "File:BalBal monuments to a Turkic warrior 02.jpg",
-  "File:Gorkhi-Terelj National Park Kurgan steles in Mongolia (3).jpg",
-  "File:Orkhon River Valley (39129388085).jpg",
-  "File:A simple herder's ger (39317560454).jpg",
-  "File:Kultigin.png",
-  "File:Kul-tegin head (2023-03-07) 01.jpg",
-  "File:Turkic Silver & Gold Deer.jpg",
-  "File:Turkic Silver Bowl (34902055963).jpg",
-  "File:Turkic Gold Diadem, 6th-8th C. AD (35580752341).jpg",
-  "File:Turkic Stele of Koltegin, Replica (34902007803).jpg"
- ]
+  "bolum": "027_yug",
+  "min_w": 900,
+  "sorgular": [
+    "Mongolia autumn yellow larch",
+    "Mongolia autumn steppe yellow",
+    "Orkhon autumn",
+    "Mongolia spring flowers steppe",
+    "Mongolia steppe wildflowers",
+    "Mongolia edelweiss meadow"
+  ],
+  "incele": []
 }
