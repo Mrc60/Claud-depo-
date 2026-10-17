@@ -1,19 +1,21 @@
 {
   "bolum": "026_nikah",
-  "min_w": 600,
+  "min_w": 700,
   "sorgular": [
-    "Turkish villagers 1930s photograph",
-    "Anatolian village women 1930s",
-    "Turkish village children 1930s",
-    "Turkish family 1930s photograph",
-    "Turkish mother and child 1930s",
-    "Turkey village house 1930s",
-    "Turkish peasant couple",
-    "Turkish wedding 1940s",
-    "Turkish civil marriage ceremony",
-    "Halkevi wedding",
-    "Turkish family 1950s photograph",
-    "Anatolia 1920s photograph villagers"
+    "incategory:\"Wedding ceremonies in Turkey\"",
+    "incategory:\"Weddings in Turkey\"",
+    "incategory:\"Mustafa Kemal Atatürk in 1931\" wedding",
+    "Atatürk nikah şahidi",
+    "Atatürk wedding 1930",
+    "incategory:\"Women of Turkey in 1931\"",
+    "incategory:\"Women of Turkey in the 1930s\"",
+    "incategory:\"Children of Turkey\" 1930",
+    "incategory:\"Black and white photographs of Turkey in the 1930s\"",
+    "incategory:\"Black and white photographs of Turkey in the 1920s\"",
+    "incategory:\"Families of Turkey\"",
+    "incategory:\"Villages in Turkey\" 1930",
+    "Turkish bride groom 1930s photograph",
+    "Matson Turkey village 1930s"
   ],
-  "incele": ["File:Bahar (2599760344).jpg", "File:Atatürk'ün 993 815 seri numaralı nüfus hüviyet cüzdanı.jpg"]
+  "incele": []
 }
