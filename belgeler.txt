@@ -1,5 +1,2 @@
-# 028 1 Temmuz — nüfus kanunları
-rg_14189_1972.pdf https://www.resmigazete.gov.tr/arsiv/14189.pdf
-nufusk_1587_qsl.html https://www.qsl.net/ta2iz/KANUN/NUFUSK.htm
-mevzuat_5490.pdf https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5490.pdf
-mevzuat_5490_yon.html https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10869&MevzuatTur=7&MevzuatTertip=5
+# 028 1 Temmuz — 2
+yon_5490_uyg.pdf https://www.mevzuat.gov.tr/mevzuatmetin/3.5.200611081.pdf
