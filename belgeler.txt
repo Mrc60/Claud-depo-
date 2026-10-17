@@ -1,4 +1,7 @@
-# 028 — Manus kaynakları
-cakmak_2013.pdf https://avesis.deu.edu.tr/yayin/2fabaf4f-616b-4481-b009-2cafb9b825e6/cumhuriyet-idaresinin-nufusu-kayit-altina-alma-girisimlerine-bir-ornek1934-yili-nufus-taramasi/document.pdf
-keskin_cavlin_2020.pdf https://distantreader.org/stacks/journals/cpos/cpos-321.pdf
-tnsa_2008.pdf https://fs.hacettepe.edu.tr/hips/dosyalar/Ara%C5%9Ft%C4%B1rmalar%20-%20raporlar/2008%20tnsa/TNSA-2008_ana_Rapor-tr.pdf
+# 028 görsel — LOC kayıtları
+loc_17410_87.json https://www.loc.gov/resource/ppmsca.17410/?sp=87&fo=json
+loc_17410_68.json https://www.loc.gov/resource/ppmsca.17410/?sp=68&fo=json
+loc_2019707491.json https://www.loc.gov/pictures/item/2019707491/?fo=json
+loc_2019707492.json https://www.loc.gov/pictures/item/2019707492/?fo=json
+loc_2007675296.json https://www.loc.gov/pictures/item/2007675296/?fo=json
+siba_1071.html https://gams.uni-graz.at/o:siba.1071
