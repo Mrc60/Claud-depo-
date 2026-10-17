@@ -1,0 +1,540 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 28,
+ "slug": "temmuz",
+ "title": "1 Ocak, 1 Temmuz",
+ "youtube_title": "Doğum gününüz neden 1 Ocak ya da 1 Temmuz? #SıradanDeğil 28",
+ "youtube_description": "Nüfusta doğum tarihleri: 1934 taraması, Ocak yığılması ve 1 Temmuz kuralı.",
+ "sources": [
+  "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc055/kanuntbmmc055/kanuntbmmc05501587.pdf",
+  "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5490.pdf",
+  "https://www.demographic-research.org/volumes/vol37/57/37-57.pdf",
+  "https://avesis.deu.edu.tr/yayin/2fabaf4f-616b-4481-b009-2cafb9b825e6/cumhuriyet-idaresinin-nufusu-kayit-altina-alma-girisimlerine-bir-ornek1934-yili-nufus-taramasi/document.pdf",
+  "https://www.sondakika.com/yerel/haber-nufus-cuzdanina-dogum-tarihi-eklendi-6766463/"
+ ],
+ "dis_ses": {
+  "file": "assets/ses/028_temmuz.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.4
+    ]
+   ],
+   [
+    [
+     4.86,
+     9.19
+    ]
+   ],
+   [
+    [
+     9.69,
+     17.37
+    ]
+   ],
+   [
+    [
+     17.87,
+     22.54
+    ]
+   ],
+   [
+    [
+     23.06,
+     30.62
+    ]
+   ],
+   [
+    [
+     31.06,
+     33.97
+    ]
+   ],
+   [
+    [
+     34.43,
+     40.84
+    ]
+   ],
+   [
+    [
+     41.28,
+     46.97
+    ]
+   ],
+   [
+    [
+     47.38,
+     54.57
+    ]
+   ],
+   [
+    [
+     55.07,
+     59.08
+    ]
+   ],
+   [
+    [
+     59.54,
+     69.3
+    ]
+   ],
+   [
+    [
+     69.75,
+     72.03
+    ]
+   ],
+   [
+    [
+     72.46,
+     83.62
+    ]
+   ],
+   [
+    [
+     84.06,
+     88.85
+    ]
+   ],
+   [
+    [
+     89.26,
+     94.06
+    ]
+   ],
+   [
+    [
+     94.52,
+     100.46
+    ],
+    [
+     100.89,
+     102.41
+    ]
+   ],
+   [
+    [
+     102.88,
+     109.35
+    ]
+   ],
+   [
+    [
+     109.69,
+     115.86
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "1934 yılında Türkiye'de büyük bir nüfus taraması yapıldı.",
+   "caption": "1934 yılında Türkiye'de büyük bir nüfus taraması yapıldı.",
+   "key": [
+    "taraması"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16712.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.186,
+     0.0,
+     0.814,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "1934 taraması",
+   "subtitle": "KAYSERİ · 1935"
+  },
+  {
+   "say": "Amaç, nüfus kayıtlarının dışında kalmış insanları da kayda geçirmekti.",
+   "caption": "Amaç, nüfus kayıtlarının dışında kalmış insanları da kayda geçirmekti.",
+   "key": [
+    "dışında"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16710.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.032,
+     0.0,
+     0.668,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Kayıt dışı insanlar",
+   "subtitle": "KAYSERİ · 1935"
+  },
+  {
+   "say": "Bir akademik çalışmaya göre, yalnızca altı ayda 2,5 milyondan fazla kayıtsız doğum tespit edildi.",
+   "caption": "Bir akademik çalışmaya göre, yalnızca altı ayda 2,5 milyondan fazla kayıtsız doğum tespit edildi.",
+   "key": [
+    "2,5"
+   ],
+   "image": {
+    "file": "File:Cappadocia LOC matpc.12155.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0.0,
+     0.626,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1934 TARAMASI · ÇAKMAK 2013",
+    "baslik": "2.504.289 gizli doğum",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Peki, doğum tarihi tam bilinmeyen bu insanların kayıtlarına ne yazıldı?",
+   "caption": "Peki, doğum tarihi tam bilinmeyen bu insanların kayıtlarına ne yazıldı?",
+   "key": [
+    "ne"
+   ],
+   "image": {
+    "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0.0,
+     0.819,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Ne yazıldı?",
+   "subtitle": "ESKİ NÜFUS HÜVİYET CÜZDANI · SAMSUN KENT MÜZESİ"
+  },
+  {
+   "say": "Büyük bir araştırmaya göre, bugün Türkiye'de 60 yaş üstündeki her üç kişiden biri Ocak ayında doğmuş görünüyor.",
+   "caption": "Büyük bir araştırmaya göre, bugün Türkiye'de 60 yaş üstündeki her üç kişiden biri Ocak ayında doğmuş görünüyor.",
+   "key": [
+    "Ocak"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16711.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.188,
+     0.0,
+     0.812,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "60 YAŞ ÜSTÜ · TORUN & TÜMEN 2017",
+    "baslik": "Her 3 kişiden 1'i: Ocak",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Normalde bu oran on iki kişide bir olmalıydı.",
+   "caption": "Normalde bu oran on iki kişide bir olmalıydı.",
+   "key": [
+    "on",
+    "iki"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16713.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0.0,
+     0.636,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "On iki kişide bir",
+   "subtitle": "KAYSERİ · 1935"
+  },
+  {
+   "say": "Araştırmacılara göre, köyden kasabaya ulaşmanın zor olduğu dönemlerde doğum bildirimi gecikebiliyordu.",
+   "caption": "Araştırmacılara göre, köyden kasabaya ulaşmanın zor olduğu dönemlerde doğum bildirimi gecikebiliyordu.",
+   "key": [
+    "gecikebiliyordu."
+   ],
+   "image": {
+    "file": "File:Cappadocia LOC matpc.12153.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.186,
+     0.0,
+     0.814,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Köyden kasabaya",
+   "subtitle": "KAPADOKYA · 1935"
+  },
+  {
+   "say": "Geç kaydedilen çocukların doğum tarihi çoğu zaman o yılın 1 Ocak'ı olarak yazılırdı.",
+   "caption": "Geç kaydedilen çocukların doğum tarihi çoğu zaman o yılın 1 Ocak'ı olarak yazılırdı.",
+   "key": [
+    "Ocak'ı"
+   ],
+   "image": {
+    "file": "File:Zilve (Zelve) Valley from cliffs, Cappadocia, Turkey LOC matpc.12161.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.185,
+     0.0,
+     0.815,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "GEÇ KAYIT",
+    "baslik": "1 OCAK",
+    "bekle": 0.6
+   }
+  },
+  {
+   "say": "Bazı aileler de çocuklarını okula daha büyük yaşta başlatabilmek için doğum tarihlerini farklı bildirebiliyordu.",
+   "caption": "Bazı aileler de çocuklarını okula daha büyük yaşta başlatabilmek için doğum tarihlerini farklı bildirebiliyordu.",
+   "key": [
+    "okula"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16714.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0.0,
+     0.637,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Okul için",
+   "subtitle": "KAYSERİ · 1935 · OKUL ÇOCUKLARI"
+  },
+  {
+   "say": "Peki, doğum yılı belli ama ayı ve günü bilinmiyorsa?",
+   "caption": "Peki, doğum yılı belli ama ayı ve günü bilinmiyorsa?",
+   "key": [
+    "günü"
+   ],
+   "image": {
+    "file": "File:Mt. Erciyes from Orta Hisar ridge, Cappadocia, Turkey LOC matpc.12156.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.184,
+     0.0,
+     0.816,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Ay ve gün yoksa?",
+   "subtitle": "KAPADOKYA · 1935"
+  },
+  {
+   "say": "Kanunda bunun için bir kural vardı: Doğum yılı biliniyor, ay ve gün bilinmiyorsa 1 Temmuz esas alınıyordu. Bu kural bugün de geçerli.",
+   "caption": "Kanunda bunun için bir kural vardı: Doğum yılı biliniyor, ay ve gün bilinmiyorsa 1 Temmuz esas alınıyordu. Bu kural bugün de geçerli.",
+   "key": [
+    "Temmuz"
+   ],
+   "image": {
+    "file": "File:Cappadocia LOC matpc.12149.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.187,
+     0.0,
+     0.813,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "NÜFUS KANUNU · MADDE 59 / 39",
+    "baslik": "1 TEMMUZ",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Bu uygulamanın gerçek bir örneği de var.",
+   "caption": "Bu uygulamanın gerçek bir örneği de var.",
+   "key": [
+    "gerçek"
+   ],
+   "image": {
+    "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0.0,
+     0.637,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Gerçek bir örnek",
+   "subtitle": "ESKİ NÜFUS HÜVİYET CÜZDANI · SAMSUN KENT MÜZESİ"
+  },
+  {
+   "say": "Aydın'ın Çine ilçesinde 84 yaşındaki bir vatandaşın nüfus cüzdanında doğum tarihi 00.00.1930 olarak yazılmıştı.",
+   "caption": "Aydın'ın Çine ilçesinde 84 yaşındaki bir vatandaşın nüfus cüzdanında doğum tarihi 00.00.1930 olarak yazılmıştı.",
+   "key": [
+    "00.00.1930"
+   ],
+   "image": {
+    "file": "File:Cappadocia LOC matpc.12147.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ÇİNE · AA, 2014",
+    "baslik": "00.00.1930",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "2014 yılında bu kayıt, 1 Temmuz 1930 olarak düzeltildi.",
+   "caption": "2014 yılında bu kayıt, 1 Temmuz 1930 olarak düzeltildi.",
+   "key": [
+    "düzeltildi."
+   ],
+   "image": {
+    "file": "File:Cappadocia LOC matpc.12152.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "DÜZELTİLDİ",
+    "baslik": "01.07.1930",
+    "bekle": 0.6
+   }
+  },
+  {
+   "say": "Yani bazı insanların kimliğinde doğum günü bile tam olarak belli değildi.",
+   "caption": "Yani bazı insanların kimliğinde doğum günü bile tam olarak belli değildi.",
+   "key": [
+    "belli"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16712.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.372,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Doğum günü belli değil",
+   "subtitle": "KAYSERİ · 1935"
+  },
+  {
+   "say": "Peki, sizin ailenizde doğum günü 1 Ocak ya da 1 Temmuz olarak kayıtlı olan biri var mı? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki, sizin ailenizde doğum günü 1 Ocak ya da 1 Temmuz olarak kayıtlı olan biri var mı? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "ailenizde"
+   ],
+   "image": {
+    "file": "File:An early Republican family, 1920s. (15001811137).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Sizin aileniz?",
+   "subtitle": "YORUMLARDA PAYLAŞIN"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16710.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.364,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaynaklar açıklamada",
+   "subtitle": "KAYSERİ · 1935"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:Cappadocia LOC matpc.12159.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.184,
+     0.0,
+     0.816,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "BEĞENİN · TAKİP EDİN"
+  }
+ ],
+ "revizyon": 1
+}
