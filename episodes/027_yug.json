@@ -182,19 +182,19 @@
     "çadıra"
    ],
    "image": {
-    "file": "File:Yurt in Orkhon Valley.jpg",
+    "file": "File:Mongolian Ger.jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.255,
+     0.268,
      0,
-     0.745,
+     0.832,
      1
     ]
    },
    "scene": "photo",
    "title": "Çadır",
-   "subtitle": "ORHON VADİSİ · GÜNÜMÜZDEN GÖRÜNTÜ"
+   "subtitle": "MOĞOL ÇADIRI · GÜNÜMÜZDEN GÖRÜNTÜ"
   },
   {
    "say": "Çocukları ve akrabaları, kadın erkek, koyun ve at kurban ederdi.",
@@ -245,19 +245,17 @@
     "kapısına"
    ],
    "image": {
-    "file": "File:Mongolian Ger.jpg",
+    "file": "File:A simple herder's ger (39317560454).jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.268,
+     0.181,
      0,
-     0.832,
+     0.819,
      1
     ]
    },
    "scene": "photo",
-   "title": "Çadırın kapısında",
-   "subtitle": "MOĞOL ÇADIRI · GÜNÜMÜZDEN GÖRÜNTÜ",
    "anim": {
     "tur": "kart",
     "ust": "BEİ SHİ · SUİ SHU",
@@ -451,8 +449,6 @@
     ]
    },
    "scene": "photo",
-   "title": "Bilge Kağan Yazıtı",
-   "subtitle": "GÜNEY YÜZÜ, 12. SATIR · ORHON VADİSİ",
    "anim": {
     "tur": "kart",
     "ust": "BİLGE KAĞAN YAZITI",
@@ -524,5 +520,5 @@
    "subtitle": "BEĞENİN · TAKİP EDİN"
   }
  ],
- "revizyon": 1
+ "revizyon": 2
 }
