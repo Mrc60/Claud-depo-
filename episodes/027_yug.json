@@ -1,0 +1,528 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 27,
+ "slug": "yug",
+ "title": "Göktürk Yası",
+ "youtube_title": "Göktürkler yasta yüzlerini neden keserdi? #SıradanDeğil 27",
+ "youtube_description": "Göktürklerde yas töreni: Çin tarih kayıtları ve Bilge Kağan Yazıtı.",
+ "sources": [
+  "https://zh.wikisource.org/wiki/北史/卷099",
+  "https://zh.wikisource.org/wiki/周書/卷50",
+  "https://zh.wikisource.org/wiki/隋書/卷84",
+  "https://dergipark.org.tr/tr/download/article-file/1076377",
+  "https://dergipark.org.tr/tr/pub/tariharastirmalari/article/603040",
+  "https://turkoloji.cu.edu.tr/ESKI%20TURK%20DILI/hatice_sirin_user_kan_agla_bas_bagla_deyim_bilge_kagan.pdf"
+ ],
+ "dis_ses": {
+  "file": "assets/ses/027_yug.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.5
+    ]
+   ],
+   [
+    [
+     5.08,
+     10.18
+    ]
+   ],
+   [
+    [
+     10.81,
+     12.69
+    ]
+   ],
+   [
+    [
+     13.21,
+     17.89
+    ]
+   ],
+   [
+    [
+     18.42,
+     22.5
+    ]
+   ],
+   [
+    [
+     23.12,
+     27.54
+    ]
+   ],
+   [
+    [
+     28.06,
+     31.35
+    ]
+   ],
+   [
+    [
+     31.9,
+     37.38
+    ]
+   ],
+   [
+    [
+     37.91,
+     39.67
+    ]
+   ],
+   [
+    [
+     40.23,
+     43.61
+    ]
+   ],
+   [
+    [
+     43.98,
+     47.55
+    ]
+   ],
+   [
+    [
+     48.08,
+     52.82
+    ]
+   ],
+   [
+    [
+     53.34,
+     58.95
+    ]
+   ],
+   [
+    [
+     59.45,
+     63.31
+    ]
+   ],
+   [
+    [
+     63.82,
+     69.75
+    ]
+   ],
+   [
+    [
+     70.43,
+     75.38
+    ],
+    [
+     75.91,
+     77.45
+    ]
+   ],
+   [
+    [
+     78.03,
+     84.46
+    ]
+   ],
+   [
+    [
+     84.81,
+     90.94
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Göktürklerde biri öldüğünde, yakınları yüzlerini bıçakla keserdi.",
+   "caption": "Göktürklerde biri öldüğünde, yakınları yüzlerini bıçakla keserdi.",
+   "key": [
+    "bıçakla"
+   ],
+   "image": {
+    "file": "File:Turkic Head of Koltegin Statue (35324303410).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Göktürk yası",
+   "subtitle": "KÜL TİGİN HEYKELİ · MOĞOLİSTAN ULUSAL MÜZESİ"
+  },
+  {
+   "say": "Bu bir efsane değil. Çin tarih kayıtları bu töreni ayrıntısıyla anlatıyor.",
+   "caption": "Bu bir efsane değil. Çin tarih kayıtları bu töreni ayrıntısıyla anlatıyor.",
+   "key": [
+    "Çin"
+   ],
+   "image": {
+    "file": "File:Orkhon River Valley (39129388085).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Çin tarih kayıtları",
+   "subtitle": "ORHON VADİSİ · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Ölü önce bir çadıra konurdu.",
+   "caption": "Ölü önce bir çadıra konurdu.",
+   "key": [
+    "çadıra"
+   ],
+   "image": {
+    "file": "File:Yurt in Orkhon Valley.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.255,
+     0,
+     0.745,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Çadır",
+   "subtitle": "ORHON VADİSİ · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Çocukları ve akrabaları, kadın erkek, koyun ve at kurban ederdi.",
+   "caption": "Çocukları ve akrabaları, kadın erkek, koyun ve at kurban ederdi.",
+   "key": [
+    "kurban"
+   ],
+   "image": {
+    "file": "File:Goats in Orkhon Valley 02.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.345,
+     0,
+     0.855,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kurban",
+   "subtitle": "ORHON VADİSİ · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Ardından at sırtında çadırın çevresinde yedi tur atarlardı.",
+   "caption": "Ardından at sırtında çadırın çevresinde yedi tur atarlardı.",
+   "key": [
+    "yedi"
+   ],
+   "image": {
+    "file": "File:Jeźdźcy na stepie przed rozpoczęciem lokalnego festiwalu Naadam (01).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.267,
+     0,
+     0.833,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yedi tur",
+   "subtitle": "MOĞOL BOZKIRI · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Çadırın kapısına geldiklerinde ağlayarak yüzlerini bıçakla keserlerdi.",
+   "caption": "Çadırın kapısına geldiklerinde ağlayarak yüzlerini bıçakla keserlerdi.",
+   "key": [
+    "kapısına"
+   ],
+   "image": {
+    "file": "File:Mongolian Ger.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.268,
+     0,
+     0.832,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Çadırın kapısında",
+   "subtitle": "MOĞOL ÇADIRI · GÜNÜMÜZDEN GÖRÜNTÜ",
+   "anim": {
+    "tur": "kart",
+    "ust": "BEİ SHİ · SUİ SHU",
+    "baslik": "Bıçakla yüz kesme",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Kayıtlara göre kan ve gözyaşı birlikte akardı.",
+   "caption": "Kayıtlara göre kan ve gözyaşı birlikte akardı.",
+   "key": [
+    "gözyaşı"
+   ],
+   "image": {
+    "file": "File:Turkic Stone Statue (34869960614).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kan ve gözyaşı",
+   "subtitle": "TÜRK TAŞ HEYKELİ · MOĞOLİSTAN ULUSAL MÜZESİ"
+  },
+  {
+   "say": "Seçilen bir günde ölü, atı ve eşyalarıyla birlikte yakılır, külleri saklanırdı.",
+   "caption": "Seçilen bir günde ölü, atı ve eşyalarıyla birlikte yakılır, külleri saklanırdı.",
+   "key": [
+    "yakılır,"
+   ],
+   "image": {
+    "file": "File:Orkhon River Valley (39317559874).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yakma",
+   "subtitle": "ORHON VADİSİ · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Defin için mevsim beklenirdi.",
+   "caption": "Defin için mevsim beklenirdi.",
+   "key": [
+    "mevsim"
+   ],
+   "image": {
+    "file": "File:202408 Orkhon Valley 02.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.217,
+     0,
+     0.783,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Mevsim beklenirdi",
+   "subtitle": "ORHON VADİSİ · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Baharda ya da yazda ölenler yapraklar sararınca,",
+   "caption": "Baharda ya da yazda ölenler yapraklar sararınca,",
+   "key": [
+    "sararınca,"
+   ],
+   "image": {
+    "file": "File:Mongolian nomads.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0,
+     0.567,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yapraklar sararınca",
+   "subtitle": "MOĞOLİSTAN'DA SONBAHAR · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "güzün ya da kışın ölenler çiçekler açınca gömülürdü.",
+   "caption": "güzün ya da kışın ölenler çiçekler açınca gömülürdü.",
+   "key": [
+    "çiçekler"
+   ],
+   "image": {
+    "file": "File:Blossom in Mongolian steppe.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Çiçekler açınca",
+   "subtitle": "MOĞOL BOZKIRI · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Defin günü, atla ilgili tören ve yüz kesme uygulaması yeniden yapılırdı.",
+   "caption": "Defin günü, atla ilgili tören ve yüz kesme uygulaması yeniden yapılırdı.",
+   "key": [
+    "yeniden"
+   ],
+   "image": {
+    "file": "File:Jeźdźcy na stepie przed rozpoczęciem lokalnego festiwalu Naadam (03).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.267,
+     0,
+     0.833,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Defin günü",
+   "subtitle": "MOĞOL BOZKIRI · GÜNÜMÜZDEN GÖRÜNTÜ"
+  },
+  {
+   "say": "Mezarın başına, ölen kişinin hayattayken öldürdüğü her insan için bir taş dikilirdi.",
+   "caption": "Mezarın başına, ölen kişinin hayattayken öldürdüğü her insan için bir taş dikilirdi.",
+   "key": [
+    "taş"
+   ],
+   "image": {
+    "file": "File:Balbal at Munkh-Khairkhan mount - panoramio.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Her biri için bir taş",
+   "subtitle": "BALBAL · MOĞOLİSTAN"
+  },
+  {
+   "say": "Göktürklerin kendi yazıtları da bu yas geleneğine ışık tutuyor.",
+   "caption": "Göktürklerin kendi yazıtları da bu yas geleneğine ışık tutuyor.",
+   "key": [
+    "yazıtları"
+   ],
+   "image": {
+    "file": "File:Kultigin Monument of Orkhon Inscriptions.jpeg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Göktürk yazıtları",
+   "subtitle": "KÜL TİGİN ANITI · ORHON VADİSİ"
+  },
+  {
+   "say": "Bilge Kağan Yazıtı'na göre, törene gelen bunca insan saçlarını ve kulaklarını kesmişti.",
+   "caption": "Bilge Kağan Yazıtı'na göre, törene gelen bunca insan saçlarını ve kulaklarını kesmişti.",
+   "key": [
+    "kulaklarını"
+   ],
+   "image": {
+    "file": "File:Bilge Khagan monument Mongolia.JPG",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Bilge Kağan Yazıtı",
+   "subtitle": "GÜNEY YÜZÜ, 12. SATIR · ORHON VADİSİ",
+   "anim": {
+    "tur": "kart",
+    "ust": "BİLGE KAĞAN YAZITI",
+    "baslik": "Saç ve kulak kesme",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Peki sizin bölgenizde, büyüklerinizden duyduğunuz eski bir yas geleneği var mı? Yorumlarda bizimle paylaşın!",
+   "caption": "Peki sizin bölgenizde, büyüklerinizden duyduğunuz eski bir yas geleneği var mı? Yorumlarda bizimle paylaşın!",
+   "key": [
+    "yas"
+   ],
+   "image": {
+    "file": "File:Balbal at Mongol Els - panoramio.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sizin bölgenizde?",
+   "subtitle": "YORUMLARDA PAYLAŞIN"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:Turkic Stele of Koltegin, Replica (34902007803).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaynaklar açıklamada",
+   "subtitle": "KÜL TİGİN YAZITI (KOPYA) · MOĞOLİSTAN ULUSAL MÜZESİ"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "file": "File:Kultegin monument Mongolia.JPG",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "BEĞENİN · TAKİP EDİN"
+  }
+ ],
+ "revizyon": 1
+}
