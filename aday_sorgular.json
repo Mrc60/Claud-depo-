@@ -2,25 +2,18 @@
   "bolum": "026_nikah",
   "min_w": 700,
   "sorgular": [
-    "incategory:\"Mustafa Kemal Atatürk in 1929\" düğün OR wedding OR nikah",
-    "incategory:\"Mustafa Kemal Atatürk in 1930\"",
-    "incategory:\"Mustafa Kemal Atatürk in 1932\" wedding OR nikah OR düğün",
-    "Atatürk Sabiha Gökçen wedding OR nikah",
-    "Atatürk Makbule nikah",
-    "incategory:\"Black and white photographs of Ankara in the 1930s\" family OR women OR children",
-    "incategory:\"Women of Turkey in 1930\"",
-    "incategory:\"Women of Turkey in 1934\"",
-    "incategory:\"Children of Turkey in the 1930s\"",
-    "SALT Research family 1930s",
-    "early Republican Turkey family photograph",
-    "Turkish peasant women 1930s Anatolia photograph"
+    "Turkije SFA022 vrouwen",
+    "Turkije SFA022 kinderen",
+    "Turkije SFA022 dorp boeren",
+    "Turkije SFA022 bruiloft OR huwelijk",
+    "Turkije SFA022 Angora",
+    "Turkije Spaarnestad 1930 familie",
+    "Spaarnestad Turkse vrouwen",
+    "incategory:\"Photographs from Spaarnestad Photo before 1929\" Turkije",
+    "Turkish peasants Anatolia 1920s Library of Congress",
+    "Matson collection Turkey Anatolia village",
+    "incategory:\"1930s in Turkey\" village",
+    "Köy kadınları 1930"
   ],
-  "incele": [
-    "File:An early Republican family, 1920s. (15001811137).jpg",
-    "File:Mübadil GENCER Ailesi-(1923).jpg",
-    "File:Turkish bride.jpg",
-    "File:Ataturk visits a school.jpg",
-    "File:Turkish women with a picture of Atatürk.jpg",
-    "File:Ahmet Emin Yalman and family.png"
-  ]
+  "incele": ["File:Mustafa Kemal'in Kavak ziyareti, 1930.jpg", "File:Atatürk Trabzon'da köylü bir aile ile birlikte (28 Kasım 1930).jpg"]
 }
