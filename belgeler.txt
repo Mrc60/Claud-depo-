@@ -1,6 +1,7 @@
-isam_urfa.pdf https://makale.isam.org.tr/server/api/core/bitstreams/f0e511e3-068f-44b9-8daa-3daae821576b/content
-isam_lakap.pdf https://makale.isam.org.tr/server/api/core/bitstreams/64e5ad46-eae8-432a-a4d1-d7de8231b71f/content
-yesiloz2012.pdf https://dergipark.org.tr/tr/download/article-file/184903
-demirci.pdf https://dergipark.org.tr/en/download/article-file/323371
-aileismi.pdf https://dergipark.org.tr/en/download/article-file/3964263
-folklor5886698.pdf https://dergipark.org.tr/tr/download/article-file/5886698
+bakar2013.pdf https://dergipark.org.tr/tr/download/article-file/158426
+dokuyan2013.pdf https://arastirmax.com/tr/system/files/1066/45310387_12dokuyan_sabit_trh-193-210.pdf
+sonmez2011.pdf https://dergipark.org.tr/tr/download/article-file/20507
+rg5010.pdf https://www.resmigazete.gov.tr/arsiv/5010.pdf
+rg6328.pdf https://www.resmigazete.gov.tr/arsiv/6328.pdf
+akyazi_tez.pdf https://nek.istanbul.edu.tr/ekos/TEZ/ET004307.pdf
+tan19420128.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_28_.pdf
