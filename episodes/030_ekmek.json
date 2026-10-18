@@ -155,19 +155,22 @@
     "yetmiyordu"
    ],
    "image": {
-    "file": "File:Bread in Turkey 20170829.jpg",
+    "local": "assets/belgeler/tan420114_firin.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.0,
+     0.011,
      0,
-     1.0,
+     0.989,
      1
     ]
    },
    "scene": "photo",
    "title": "Ekmek",
-   "subtitle": "TAŞ FIRIN EKMEĞİ"
+   "subtitle": "TAN · 14 OCAK 1942"
   },
   {
    "say": "Ekmek karneniz de olmalıydı.",
@@ -176,19 +179,22 @@
     "karneniz"
    ],
    "image": {
-    "file": "File:Turkish bread somun.jpg",
+    "local": "assets/belgeler/tan420114_manset.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.181,
+     0.0,
      0,
-     0.819,
+     1.0,
      1
     ]
    },
    "scene": "photo",
    "title": "Ekmek karnesi",
-   "subtitle": "1942–1946"
+   "subtitle": "TAN · 14 OCAK 1942"
   },
   {
    "say": "Türkiye, İkinci Dünya Savaşı'na girmedi, ama savaşın sıkıntılarından kaçamadı.",
@@ -198,19 +204,22 @@
     "kaçamadı"
    ],
    "image": {
-    "file": "File:Atatürk Boulevard, Radio House, 1940s (17050524392).jpg",
+    "local": "assets/belgeler/tan420114_cephe.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.0,
+     0.094,
      0,
-     1.0,
+     0.906,
      1
     ]
    },
    "scene": "photo",
    "title": "Savaş yılları",
-   "subtitle": "RADYO DERGİSİ · 1940'LAR"
+   "subtitle": "TAN · 14 OCAK 1942 · DOĞU CEPHESİ"
   },
   {
    "say": "13 Ocak 1942'de alınan kararla, ekmek karneyle dağıtılmaya başlandı.",
@@ -227,9 +236,9 @@
     "kaynak": "T.C. Resmî Gazete arşivi",
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/5010.pdf",
     "kirp": [
+     0.001,
      0,
-     0,
-     1,
+     0.999,
      1
     ]
    },
@@ -245,19 +254,22 @@
     "ertesi"
    ],
    "image": {
-    "file": "File:Cibali Cigaratte Factory, İstanbul, 1940's (16944335438).jpg",
+    "local": "assets/belgeler/cum420114_karne.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Cumhuriyet, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ikincikanun_/cumhuriyet_1942_ikincikanun_14_.pdf",
     "kirp": [
      0,
      0,
-     0.448,
-     1
+     1,
+     0.969
     ]
    },
    "scene": "photo",
    "title": "14 Ocak 1942",
-   "subtitle": "İSTANBUL · 1940'LAR"
+   "subtitle": "CUMHURİYET · 14 OCAK 1942"
   },
   {
    "say": "Herkesin günlük ekmek hakkı belliydi.",
@@ -273,9 +285,9 @@
     "kaynak": "T.C. Resmî Gazete arşivi",
     "sayfa": "https://www.resmigazete.gov.tr/arsiv/5010.pdf",
     "kirp": [
+     0.001,
      0,
-     0,
-     1,
+     0.999,
      1
     ]
    },
@@ -290,14 +302,17 @@
     "375"
    ],
    "image": {
-    "file": "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807).jpg",
+    "local": "assets/belgeler/tan420114_gramaj.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.192,
      0,
-     0.808,
-     1
+     0,
+     1,
+     1.0
     ]
    },
    "scene": "photo",
@@ -315,13 +330,16 @@
     "187,5"
    ],
    "image": {
-    "file": "File:Old Houses of Ankara, 1940's (16925975825).jpg",
+    "local": "assets/belgeler/cum420114_kalabalik.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Cumhuriyet, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ikincikanun_/cumhuriyet_1942_ikincikanun_14_.pdf",
     "kirp": [
+     0.025,
      0,
-     0,
-     1,
+     0.875,
      1
     ]
    },
@@ -342,7 +360,7 @@
    "image": {
     "file": "File:Turkey - Harvest in neutral zone LCCN2014715198.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "min_w": 500,
     "kirp": [
      0.19,
      0,
@@ -366,19 +384,22 @@
     "çeyrek"
    ],
    "image": {
-    "file": "File:Turkish bread somun.jpg",
+    "local": "assets/belgeler/tan420114_ekmekler.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
      0,
      0,
-     0.637,
+     0.805,
      1
     ]
    },
    "scene": "photo",
    "title": "Yarım ekmek",
-   "subtitle": "GÜNLÜK PAY"
+   "subtitle": "TAN · 14 OCAK 1942"
   },
   {
    "say": "Üstelik bu miktarlar daha sonra azaltıldı.",
@@ -387,19 +408,19 @@
     "azaltıldı"
    ],
    "image": {
-    "file": "File:Ulus Square in the night, 1940s (16230095284).jpg",
+    "file": "File:Meşrutiyet Street and Pera Palas Hotel.png",
     "fit": "tam",
-    "min_w": 700,
+    "min_w": 500,
     "kirp": [
-     0.186,
+     0.169,
      0,
-     0.814,
+     0.831,
      1
     ]
    },
    "scene": "photo",
    "title": "Daha da azaldı",
-   "subtitle": "ANKARA · ULUS · 1940'LAR"
+   "subtitle": "İSTANBUL · 1941"
   },
   {
    "say": "Bir ay sonra İstanbul'da yetişkinlerin günlük ekmek hakkı 300 grama, çocuklarınki ise 150 grama indirildi.",
@@ -409,23 +430,22 @@
     "150"
    ],
    "image": {
-    "file": "File:19 May Square, Ankara Railway Station, 1940s (16664879068).jpg",
+    "local": "assets/belgeler/cum420228_azaldi.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Cumhuriyet, 28 Şubat 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_subat_/cumhuriyet_1942_subat_28__.pdf",
     "kirp": [
-     0.031,
+     0.003,
      0,
-     0.969,
+     0.997,
      1
     ]
    },
    "scene": "photo",
-   "anim": {
-    "tur": "kart",
-    "ust": "İSTANBUL · 28 ŞUBAT 1942",
-    "baslik": "300 gram · 150 gram",
-    "bekle": 1.0
-   }
+   "title": "300 · 150 gram",
+   "subtitle": "CUMHURİYET · 28 ŞUBAT 1942"
   },
   {
    "say": "Un israfını önlemek için pasta, börek, çörek ve tatlı yapmak bile yasaklandı.",
@@ -435,19 +455,22 @@
     "yasaklandı"
    ],
    "image": {
-    "file": "File:Açma, poğaça ve çörekler.jpg",
+    "local": "assets/belgeler/tan411128_un.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 28 Kasım 1941, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1941/tan_1941_sontesrin_/tan_1941_sontesrin_28_.pdf",
     "kirp": [
-     0.181,
+     0.109,
      0,
-     0.819,
+     0.891,
      1
     ]
    },
    "scene": "photo",
    "title": "Pasta, börek yasak",
-   "subtitle": "UN TASARRUFU · 1941–1944"
+   "subtitle": "TAN · 28 KASIM 1941"
   },
   {
    "say": "Savaş 1945'te sona erdi, ama ekmek karnesi hemen kalkmadı.",
@@ -457,19 +480,22 @@
     "kalkmadı"
    ],
    "image": {
-    "file": "File:Kızılay and Güven Parks, Cemil Uybadın Villa, 1940s (16666318099).jpg",
+    "local": "assets/belgeler/tan411128_cephe.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 28 Kasım 1941, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1941/tan_1941_sontesrin_/tan_1941_sontesrin_28_.pdf",
     "kirp": [
-     0.205,
+     0.105,
      0,
-     0.795,
+     0.895,
      1
     ]
    },
    "scene": "photo",
-   "title": "Karne sürdü",
-   "subtitle": "ANKARA · 1940'LAR"
+   "title": "Savaş bitti, karne sürdü",
+   "subtitle": "TAN · 28 KASIM 1941 · CEPHE"
   },
   {
    "say": "İstanbul, Ankara ve İzmir'de ekmek 9 Eylül 1946'da yeniden serbestçe satılmaya başlandı.",
@@ -479,13 +505,13 @@
     "serbestçe"
    ],
    "image": {
-    "file": "File:Cibali Cigaratte Factory, İstanbul, 1940's (16944335438).jpg",
+    "file": "File:Yavuz (Goeben) battlecruiser Istambul April 1946.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "min_w": 500,
     "kirp": [
-     0.496,
+     0.183,
      0,
-     0.944,
+     0.817,
      1
     ]
    },
@@ -504,19 +530,22 @@
     "soframızdaki"
    ],
    "image": {
-    "file": "File:Gökçen bread Turkish - panoramio.jpg",
+    "local": "assets/belgeler/tan420114_firin.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.181,
+     0.011,
      0,
-     0.819,
+     0.989,
      1
     ]
    },
    "scene": "photo",
    "title": "Bugün",
-   "subtitle": "SOFRADAKİ EKMEK"
+   "subtitle": "TAN · 14 OCAK 1942"
   },
   {
    "say": "Bir zamanlar bu topraklarda ekmek almak için yalnızca para değil, karne de gerekiyordu.",
@@ -525,19 +554,22 @@
     "karne"
    ],
    "image": {
-    "file": "File:Old Houses of Ankara, 1940's (16925975825).jpg",
+    "local": "assets/belgeler/cum420114_kalabalik.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Cumhuriyet, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ikincikanun_/cumhuriyet_1942_ikincikanun_14_.pdf",
     "kirp": [
+     0.15,
      0,
-     0,
-     1,
+     1.0,
      1
     ]
    },
    "scene": "photo",
    "title": "Unutmayalım",
-   "subtitle": "ANKARA · 1940'LAR"
+   "subtitle": "CUMHURİYET · 14 OCAK 1942"
   },
   {
    "say": "Peki sizin evinizde bayat ekmek ne oluyor? Hiç çöpe atılıyor mu? Yorumlarda bizimle paylaşın.",
@@ -548,11 +580,14 @@
     "Yorumlarda"
    ],
    "image": {
-    "file": "File:Turkish bread somun.jpg",
+    "local": "assets/belgeler/tan420114_ekmekler.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "baslik": "Tan gazetesi, 14 Ocak 1942, s. 1",
+    "lisans": "Dönem gazetesi (1941-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.363,
+     0.195,
      0,
      1.0,
      1
@@ -569,19 +604,19 @@
     "kaynaklara"
    ],
    "image": {
-    "file": "File:19 May Square, Ankara Railway Station, Railway Station Club, Building of Directorate General of State Railways, 1940s (16851288402).jpg",
+    "file": "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16713.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "min_w": 500,
     "kirp": [
-     0.192,
+     0.182,
      0,
-     0.808,
+     0.818,
      1
     ]
    },
    "scene": "photo",
    "title": "Kaynaklar açıklamada",
-   "subtitle": "ANKARA GARI · 1940'LAR"
+   "subtitle": "KAYSERİ · 1935"
   },
   {
    "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
@@ -591,20 +626,20 @@
     "takip"
    ],
    "image": {
-    "file": "File:Gökçen ekmeği.Turkish Gökçen bread - panoramio.jpg",
+    "file": "File:Yavuz (Goeben) battlecruiser Istambul April 1946.jpg",
     "fit": "tam",
-    "min_w": 700,
+    "min_w": 500,
     "kirp": [
-     0.181,
      0,
-     0.819,
+     0,
+     0.634,
      1
     ]
    },
    "scene": "photo",
    "title": "Sıradan Değil",
-   "subtitle": "SOFRADAKİ EKMEK"
+   "subtitle": "İSTANBUL · 1946"
   }
  ],
- "revizyon": 2
+ "revizyon": 3
 }
