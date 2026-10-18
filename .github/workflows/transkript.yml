@@ -18,7 +18,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Kur
-        run: pip install -q faster-whisper
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q faster-whisper
       - name: Yazıya dök
         run: |
           f=$(head -1 transkript.txt | cut -d" " -f1)
