@@ -186,9 +186,9 @@
     "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
     "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf",
     "kirp": [
-     0.0,
      0,
-     1.0,
+     0,
+     1,
      1
     ]
    },
@@ -641,5 +641,5 @@
    "subtitle": "İSTANBUL · 1946"
   }
  ],
- "revizyon": 3
+ "revizyon": 4
 }
