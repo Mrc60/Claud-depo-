@@ -1,7 +1,8 @@
-# 028 görsel — LOC kayıtları
-loc_17410_87.json https://www.loc.gov/resource/ppmsca.17410/?sp=87&fo=json
-loc_17410_68.json https://www.loc.gov/resource/ppmsca.17410/?sp=68&fo=json
-loc_2019707491.json https://www.loc.gov/pictures/item/2019707491/?fo=json
-loc_2019707492.json https://www.loc.gov/pictures/item/2019707492/?fo=json
-loc_2007675296.json https://www.loc.gov/pictures/item/2007675296/?fo=json
-siba_1071.html https://gams.uni-graz.at/o:siba.1071
+# 029 kadın seçme seçilme
+tbmm_2599_degisiklik.pdf https://tbmm.gov.tr/files/anayasa/docs/1924/1924-3/3-degisiklik.pdf
+tbmm_2599_sirasayisi.pdf https://tbmm.gov.tr/files/anayasa/docs/1924/1924-3/3-sirasayisi.pdf
+rg_1471_1930.pdf https://www.resmigazete.gov.tr/arsiv/1471.pdf
+rg_2877_1934.pdf https://www.resmigazete.gov.tr/arsiv/2877.pdf
+gunes_2010_muhtar.pdf https://psi421.cankaya.edu.tr/uploads/files/Gunes%2C%20Ilk%20Kadin%20Muhtar%201933.pdf
+ataans_1935.html https://ataturkansiklopedisi.gov.tr/bilgi/kadin-temsiliyeti-ve-1935-secimleri/
+ataans_turkan.html https://ataturkansiklopedisi.gov.tr/bilgi/turkan-bastug-ors-1900-1975/
