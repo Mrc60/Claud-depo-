@@ -1,20 +1,6 @@
-# plaka 1962 RG aralığı
-rg_11208.pdf https://www.resmigazete.gov.tr/arsiv/11208.pdf
-rg_11209.pdf https://www.resmigazete.gov.tr/arsiv/11209.pdf
-rg_11210.pdf https://www.resmigazete.gov.tr/arsiv/11210.pdf
-rg_11211.pdf https://www.resmigazete.gov.tr/arsiv/11211.pdf
-rg_11212.pdf https://www.resmigazete.gov.tr/arsiv/11212.pdf
-rg_11213.pdf https://www.resmigazete.gov.tr/arsiv/11213.pdf
-rg_11214.pdf https://www.resmigazete.gov.tr/arsiv/11214.pdf
-rg_11215.pdf https://www.resmigazete.gov.tr/arsiv/11215.pdf
-rg_11216.pdf https://www.resmigazete.gov.tr/arsiv/11216.pdf
-rg_11217.pdf https://www.resmigazete.gov.tr/arsiv/11217.pdf
-rg_11218.pdf https://www.resmigazete.gov.tr/arsiv/11218.pdf
-rg_11219.pdf https://www.resmigazete.gov.tr/arsiv/11219.pdf
-rg_11220.pdf https://www.resmigazete.gov.tr/arsiv/11220.pdf
-rg_11221.pdf https://www.resmigazete.gov.tr/arsiv/11221.pdf
-rg_11222.pdf https://www.resmigazete.gov.tr/arsiv/11222.pdf
-rg_11223.pdf https://www.resmigazete.gov.tr/arsiv/11223.pdf
-rg_11224.pdf https://www.resmigazete.gov.tr/arsiv/11224.pdf
-rg_11225.pdf https://www.resmigazete.gov.tr/arsiv/11225.pdf
-rg_11226.pdf https://www.resmigazete.gov.tr/arsiv/11226.pdf
+isam_urfa.pdf https://makale.isam.org.tr/server/api/core/bitstreams/f0e511e3-068f-44b9-8daa-3daae821576b/content
+isam_lakap.pdf https://makale.isam.org.tr/server/api/core/bitstreams/64e5ad46-eae8-432a-a4d1-d7de8231b71f/content
+yesiloz2012.pdf https://dergipark.org.tr/tr/download/article-file/184903
+demirci.pdf https://dergipark.org.tr/en/download/article-file/323371
+aileismi.pdf https://dergipark.org.tr/en/download/article-file/3964263
+folklor5886698.pdf https://dergipark.org.tr/tr/download/article-file/5886698
