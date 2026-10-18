@@ -21,9 +21,9 @@ jobs:
         run: pip install -q faster-whisper
       - name: Yazıya dök
         run: |
-          f=$(head -1 transkript.txt)
+          f=$(head -1 transkript.txt | cut -d" " -f1)
           mkdir -p /tmp/t
-          python3 - "$f" <<'PY'
+          python3 - "$f" > /tmp/t/log.txt 2>&1 <<'PY'
           import sys, json
           from faster_whisper import WhisperModel
           m = WhisperModel("medium", device="cpu", compute_type="int8")
@@ -36,6 +36,7 @@ jobs:
           print(" ".join(f"{w[2]}[{w[0]}]" for w in W))
           PY
       - name: Dala yaz
+        if: always()
         run: |
           cd /tmp/t
           export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
