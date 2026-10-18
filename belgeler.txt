@@ -1,7 +1,2 @@
-bakar2013.pdf https://dergipark.org.tr/tr/download/article-file/158426
-dokuyan2013.pdf https://arastirmax.com/tr/system/files/1066/45310387_12dokuyan_sabit_trh-193-210.pdf
-sonmez2011.pdf https://dergipark.org.tr/tr/download/article-file/20507
-rg5010.pdf https://www.resmigazete.gov.tr/arsiv/5010.pdf
-rg6328.pdf https://www.resmigazete.gov.tr/arsiv/6328.pdf
-akyazi_tez.pdf https://nek.istanbul.edu.tr/ekos/TEZ/ET004307.pdf
-tan19420128.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_28_.pdf
+cum19420228.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_subat_/cumhuriyet_1942_subat_28__.pdf
+cum19440929.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1944/cumhuriyet_1944_eylul_/cumhuriyet_1944_eylul_29_.pdf
