@@ -1,1 +1,10 @@
-rg5010.pdf https://www.resmigazete.gov.tr/arsiv/5010.pdf
+tan420114.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_14_.pdf
+tan420113.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1942/tan_1942_sonkanun_/tan_1942_sonkanun_13_.pdf
+cum420114a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ikincikanun_/cumhuriyet_1942_ikincikanun_14_.pdf
+cum420114b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ocak_/cumhuriyet_1942_ocak_14_.pdf
+cum420114c.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ocak_/cumhuriyet_1942_ocak_14__.pdf
+cum420228.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_subat_/cumhuriyet_1942_subat_28__.pdf
+cum460909a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_eylul_/cumhuriyet_1946_eylul_9_.pdf
+cum460909b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_eylul_/cumhuriyet_1946_eylul_9__.pdf
+cum411128a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1941/cumhuriyet_1941_kasim_/cumhuriyet_1941_kasim_28_.pdf
+cum411128b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1941/cumhuriyet_1941_kasim_/cumhuriyet_1941_kasim_28__.pdf
