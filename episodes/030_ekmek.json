@@ -1,0 +1,614 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 30,
+ "slug": "ekmek",
+ "title": "Ekmek Karnesi",
+ "youtube_title": "Türkiye'de ekmek karneyle verildiği günler #SıradanDeğil 30",
+ "youtube_description": "1942-1946 ekmek karnesi uygulaması.",
+ "sources": [
+  "https://www.resmigazete.gov.tr/arsiv/5010.pdf",
+  "https://dergipark.org.tr/tr/download/article-file/158426",
+  "https://dergipark.org.tr/tr/download/article-file/20507",
+  "https://nek.istanbul.edu.tr/ekos/TEZ/ET004307.pdf"
+ ],
+ "dis_ses": {
+  "file": "assets/ses/030_ekmek.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.49
+    ]
+   ],
+   [
+    [
+     4.92,
+     6.55
+    ]
+   ],
+   [
+    [
+     7.15,
+     12.51
+    ]
+   ],
+   [
+    [
+     12.95,
+     18.42
+    ]
+   ],
+   [
+    [
+     18.82,
+     21.34
+    ]
+   ],
+   [
+    [
+     21.79,
+     24.1
+    ]
+   ],
+   [
+    [
+     24.47,
+     27.76
+    ]
+   ],
+   [
+    [
+     27.99,
+     32.06
+    ]
+   ],
+   [
+    [
+     32.41,
+     35.85
+    ]
+   ],
+   [
+    [
+     36.21,
+     42.3
+    ]
+   ],
+   [
+    [
+     42.68,
+     45.34
+    ]
+   ],
+   [
+    [
+     45.74,
+     53.25
+    ]
+   ],
+   [
+    [
+     53.63,
+     59.25
+    ]
+   ],
+   [
+    [
+     59.69,
+     64.93
+    ]
+   ],
+   [
+    [
+     65.33,
+     73.01
+    ]
+   ],
+   [
+    [
+     73.42,
+     75.5
+    ]
+   ],
+   [
+    [
+     76.0,
+     81.8
+    ]
+   ],
+   [
+    [
+     81.8,
+     85.23
+    ],
+    [
+     85.57,
+     86.76
+    ],
+    [
+     87.15,
+     88.73
+    ]
+   ],
+   [
+    [
+     89.15,
+     95.68
+    ]
+   ],
+   [
+    [
+     95.98,
+     102.61
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar, Türkiye'de ekmek almak için paranızın olması yetmiyordu.",
+   "caption": "Bir zamanlar, Türkiye'de ekmek almak için paranızın olması yetmiyordu.",
+   "key": [
+    "ekmek",
+    "yetmiyordu"
+   ],
+   "image": {
+    "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.167,
+     0,
+     0.733,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Ekmek",
+   "subtitle": "MARDİN · FIRIN"
+  },
+  {
+   "say": "Ekmek karneniz de olmalıydı.",
+   "caption": "Ekmek karneniz de olmalıydı.",
+   "key": [
+    "karneniz"
+   ],
+   "image": {
+    "file": "File:Turkish bread somun.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1942–1946",
+    "baslik": "Ekmek karnesi",
+    "bekle": 0.6
+   }
+  },
+  {
+   "say": "Türkiye, İkinci Dünya Savaşı'na girmedi, ama savaşın sıkıntılarından kaçamadı.",
+   "caption": "Türkiye, İkinci Dünya Savaşı'na girmedi, ama savaşın sıkıntılarından kaçamadı.",
+   "key": [
+    "girmedi",
+    "kaçamadı"
+   ],
+   "image": {
+    "file": "File:Atatürk Boulevard, Radio House, 1940s (17050524392).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Savaş yılları",
+   "subtitle": "RADYO DERGİSİ · 1940'LAR"
+  },
+  {
+   "say": "13 Ocak 1942'de alınan kararla, ekmek karneyle dağıtılmaya başlandı.",
+   "caption": "13 Ocak 1942'de alınan kararla, ekmek karneyle dağıtılmaya başlandı.",
+   "key": [
+    "13",
+    "karneyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg5010_1942_karar247_baslik.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 19 Ocak 1942, sayı 5010 (247 sayılı karar)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/5010.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "13 Ocak 1942",
+   "subtitle": "RESMÎ GAZETE · 19 OCAK 1942"
+  },
+  {
+   "say": "İstanbul'da uygulama ertesi gün başladı.",
+   "caption": "İstanbul'da uygulama ertesi gün başladı.",
+   "key": [
+    "İstanbul'da",
+    "ertesi"
+   ],
+   "image": {
+    "file": "File:Cibali Cigaratte Factory, İstanbul, 1940's (16944335438).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0,
+     0.448,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "14 Ocak 1942",
+   "subtitle": "İSTANBUL · 1940'LAR"
+  },
+  {
+   "say": "Herkesin günlük ekmek hakkı belliydi.",
+   "caption": "Herkesin günlük ekmek hakkı belliydi.",
+   "key": [
+    "belliydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/rg5010_1942_karar247_gramaj.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 19 Ocak 1942, sayı 5010 (247 sayılı karar)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/5010.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Günlük hak",
+   "subtitle": "RESMÎ GAZETE · 247 SAYILI KARAR"
+  },
+  {
+   "say": "7 yaşından büyüklere günde 375 gram,",
+   "caption": "7 yaşından büyüklere günde 375 gram,",
+   "key": [
+    "375"
+   ],
+   "image": {
+    "file": "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.192,
+     0,
+     0.808,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "7 YAŞINDAN BÜYÜKLER",
+    "baslik": "375 gram",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "küçük çocuklara 187,5 gram ekmek veriliyordu.",
+   "caption": "küçük çocuklara 187,5 gram ekmek veriliyordu.",
+   "key": [
+    "187,5"
+   ],
+   "image": {
+    "file": "File:Old Houses of Ankara, 1940's (16925975825).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "7 YAŞINDAN KÜÇÜKLER",
+    "baslik": "187,5 gram",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Ağır işlerde çalışanların hakkı ise 750 gramdı.",
+   "caption": "Ağır işlerde çalışanların hakkı ise 750 gramdı.",
+   "key": [
+    "750"
+   ],
+   "image": {
+    "file": "File:Turkey - Harvest in neutral zone LCCN2014715198.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.19,
+     0,
+     0.81,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "AĞIR İŞÇİLER",
+    "baslik": "750 gram",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Yani bir yetişkine yaklaşık yarım ekmek, küçük bir çocuğa ise çeyrek ekmek düşüyordu.",
+   "caption": "Yani bir yetişkine yaklaşık yarım ekmek, küçük bir çocuğa ise çeyrek ekmek düşüyordu.",
+   "key": [
+    "yarım",
+    "çeyrek"
+   ],
+   "image": {
+    "file": "File:Turkish bread somun.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0,
+     0.637,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yarım ekmek",
+   "subtitle": "GÜNLÜK PAY"
+  },
+  {
+   "say": "Üstelik bu miktarlar daha sonra azaltıldı.",
+   "caption": "Üstelik bu miktarlar daha sonra azaltıldı.",
+   "key": [
+    "azaltıldı"
+   ],
+   "image": {
+    "file": "File:Ulus Square in the night, 1940s (16230095284).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.186,
+     0,
+     0.814,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Daha da azaldı",
+   "subtitle": "ANKARA · ULUS · 1940'LAR"
+  },
+  {
+   "say": "Bir ay sonra İstanbul'da yetişkinlerin günlük ekmek hakkı 300 grama, çocuklarınki ise 150 grama indirildi.",
+   "caption": "Bir ay sonra İstanbul'da yetişkinlerin günlük ekmek hakkı 300 grama, çocuklarınki ise 150 grama indirildi.",
+   "key": [
+    "300",
+    "150"
+   ],
+   "image": {
+    "file": "File:19 May Square, Ankara Railway Station, 1940s (16664879068).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.031,
+     0,
+     0.969,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "İSTANBUL · 28 ŞUBAT 1942",
+    "baslik": "300 gram · 150 gram",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Un israfını önlemek için pasta, börek, çörek ve tatlı yapmak bile yasaklandı.",
+   "caption": "Un israfını önlemek için pasta, börek, çörek ve tatlı yapmak bile yasaklandı.",
+   "key": [
+    "pasta",
+    "yasaklandı"
+   ],
+   "image": {
+    "file": "File:Açma, poğaça ve çörekler.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Pasta, börek yasak",
+   "subtitle": "UN TASARRUFU · 1941–1944"
+  },
+  {
+   "say": "Savaş 1945'te sona erdi, ama ekmek karnesi hemen kalkmadı.",
+   "caption": "Savaş 1945'te sona erdi, ama ekmek karnesi hemen kalkmadı.",
+   "key": [
+    "1945'te",
+    "kalkmadı"
+   ],
+   "image": {
+    "file": "File:Kızılay and Güven Parks, Cemil Uybadın Villa, 1940s (16666318099).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.205,
+     0,
+     0.795,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Karne sürdü",
+   "subtitle": "ANKARA · 1940'LAR"
+  },
+  {
+   "say": "İstanbul, Ankara ve İzmir'de ekmek 9 Eylül 1946'da yeniden serbestçe satılmaya başlandı.",
+   "caption": "İstanbul, Ankara ve İzmir'de ekmek 9 Eylül 1946'da yeniden serbestçe satılmaya başlandı.",
+   "key": [
+    "9",
+    "serbestçe"
+   ],
+   "image": {
+    "file": "File:Bread in Turkey 20170829.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "İSTANBUL · ANKARA · İZMİR",
+    "baslik": "9 Eylül 1946",
+    "bekle": 1.0
+   }
+  },
+  {
+   "say": "Bugün soframızdaki ekmeği düşünün.",
+   "caption": "Bugün soframızdaki ekmeği düşünün.",
+   "key": [
+    "soframızdaki"
+   ],
+   "image": {
+    "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.433,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Bugün",
+   "subtitle": "MARDİN · FIRIN"
+  },
+  {
+   "say": "Bir zamanlar bu topraklarda ekmek almak için yalnızca para değil, karne de gerekiyordu.",
+   "caption": "Bir zamanlar bu topraklarda ekmek almak için yalnızca para değil, karne de gerekiyordu.",
+   "key": [
+    "karne"
+   ],
+   "image": {
+    "file": "File:Old Houses of Ankara, 1940's (16925975825).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Unutmayalım",
+   "subtitle": "ANKARA · 1940'LAR"
+  },
+  {
+   "say": "Peki sizin evinizde bayat ekmek ne oluyor? Hiç çöpe atılıyor mu? Yorumlarda bizimle paylaşın.",
+   "caption": "Peki sizin evinizde bayat ekmek ne oluyor? Hiç çöpe atılıyor mu? Yorumlarda bizimle paylaşın.",
+   "key": [
+    "bayat",
+    "çöpe",
+    "Yorumlarda"
+   ],
+   "image": {
+    "file": "File:Turkish bread somun.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.363,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Bayat ekmek",
+   "subtitle": "SİZİN EVDE?"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:19 May Square, Ankara Railway Station, Railway Station Club, Building of Directorate General of State Railways, 1940s (16851288402).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.192,
+     0,
+     0.808,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaynaklar açıklamada",
+   "subtitle": "ANKARA GARI · 1940'LAR"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0,
+     0,
+     0.567,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "MARDİN · FIRIN"
+  }
+ ],
+ "revizyon": 1
+}
