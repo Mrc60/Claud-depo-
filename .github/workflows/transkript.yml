@@ -27,7 +27,10 @@ jobs:
           import sys, json
           from faster_whisper import WhisperModel
           m = WhisperModel("medium", device="cpu", compute_type="int8")
-          segs, _ = m.transcribe(sys.argv[1], language="tr", word_timestamps=True, vad_filter=False)
+          import subprocess, numpy as np
+          raw = subprocess.run(["ffmpeg", "-v", "error", "-i", sys.argv[1], "-f", "f32le", "-ac", "1", "-ar", "16000", "-"], capture_output=True, check=True).stdout
+          audio = np.frombuffer(raw, np.float32)
+          segs, _ = m.transcribe(audio, language="tr", word_timestamps=True, vad_filter=False)
           W = []
           for s in segs:
               for w in s.words:
