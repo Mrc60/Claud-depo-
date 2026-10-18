@@ -1,0 +1,44 @@
+name: Transkript
+
+# transkript.txt içindeki ses dosyasını (repo yolu) kelime zamanlarıyla yazıya döker,
+# sonucu 'transkript' dalına words.json olarak yazar.
+on:
+  push:
+    branches: [main]
+    paths: ["transkript.txt"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  yaz:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kur
+        run: pip install -q faster-whisper
+      - name: Yazıya dök
+        run: |
+          f=$(head -1 transkript.txt)
+          mkdir -p /tmp/t
+          python3 - "$f" <<'PY'
+          import sys, json
+          from faster_whisper import WhisperModel
+          m = WhisperModel("medium", device="cpu", compute_type="int8")
+          segs, _ = m.transcribe(sys.argv[1], language="tr", word_timestamps=True, vad_filter=False)
+          W = []
+          for s in segs:
+              for w in s.words:
+                  W.append([round(w.start, 2), round(w.end, 2), w.word.strip()])
+          json.dump(W, open("/tmp/t/words.json", "w"), ensure_ascii=False)
+          print(" ".join(f"{w[2]}[{w[0]}]" for w in W))
+          PY
+      - name: Dala yaz
+        run: |
+          cd /tmp/t
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          git init -q -b transkript && git add -A && git commit -qm "transkript"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" transkript
