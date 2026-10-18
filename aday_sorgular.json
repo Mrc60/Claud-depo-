@@ -2,18 +2,21 @@
  "bolum": "029_lakap",
  "min_w": 700,
  "sorgular": [
-  "Abdul Hamid II collection students",
-  "Abdul Hamid II collection village",
-  "Ottoman students LOC",
-  "Turkish types LCCN",
-  "Turkish peasant LCCN",
-  "Turkey Bain News Service",
-  "Ottoman Turkish men 1880s",
-  "Anatolia villagers Matson",
-  "Turkey village elders LOC matpc",
-  "Turkish shepherd old photograph",
-  "Ottoman porter hamal",
-  "Turkish village square 1930s"
+  "Konya 1873 costume photograph",
+  "Ankara 1873 costume",
+  "Bursa 1873 costume photograph",
+  "Kastamonu 1873",
+  "Trabzon 1873 costume",
+  "Sivas 1873 costume",
+  "Aydın 1873 costume",
+  "Erzurum 1873 costume"
  ],
- "incele": []
+ "incele": [
+  "File:Diyarbekir shepherd, Mardin Kurd, Aljazeera Kurd, 1873.jpg",
+  "File:Turkish peasant LCCN2014692434.jpg",
+  "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+  "File:BelenKahvesi1.jpg",
+  "File:Turkey - Harvest in neutral zone LCCN2014715198.jpg",
+  "File:Crowd gathered on village hill (all looking at man on house. Turkish flag) LOC matpc.16855.jpg"
+ ]
 }
