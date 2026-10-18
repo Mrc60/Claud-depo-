@@ -151,19 +151,19 @@
     "lakabınızla"
    ],
    "image": {
-    "file": "File:BelenKahvesi2.jpg",
+    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.3,
      0,
-     0.94,
+     0,
+     0.844,
      1
     ]
    },
    "scene": "photo",
    "title": "Lakap",
-   "subtitle": "ÇAYBÜKÜ KÖYÜ · MUĞLA"
+   "subtitle": "BALLIKPINAR KÖYÜ · 1930'LAR"
   },
   {
    "say": "Peki, o lakap ne kadar eski olabilir?",
@@ -419,27 +419,6 @@
     "zorunlu"
    ],
    "image": {
-    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
-    "fit": "tam",
-    "min_w": 700,
-    "kirp": [
-     0,
-     0,
-     0.844,
-     1
-    ]
-   },
-   "scene": "photo",
-   "title": "1934",
-   "subtitle": "BALLIKPINAR KÖYÜ · 1930'LAR"
-  },
-  {
-   "say": "Ancak lakaplar kaybolmadı.",
-   "caption": "Ancak lakaplar kaybolmadı.",
-   "key": [
-    "kaybolmadı"
-   ],
-   "image": {
     "file": "File:Turkey - Harvest in neutral zone LCCN2014715198.jpg",
     "fit": "tam",
     "min_w": 700,
@@ -451,8 +430,29 @@
     ]
    },
    "scene": "photo",
-   "title": "Lakap kalmadı mı?",
+   "title": "1934",
    "subtitle": "TÜRKİYE · HASAT"
+  },
+  {
+   "say": "Ancak lakaplar kaybolmadı.",
+   "caption": "Ancak lakaplar kaybolmadı.",
+   "key": [
+    "kaybolmadı"
+   ],
+   "image": {
+    "file": "File:BelenKahvesi2.jpg",
+    "fit": "tam",
+    "min_w": 700,
+    "kirp": [
+     0.3,
+     0,
+     0.94,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Lakap kaybolmadı",
+   "subtitle": "ÇAYBÜKÜ KÖYÜ · MUĞLA"
   },
   {
    "say": "Farklı bölgelerde yapılan araştırmalar, bazı ailelerin bugün bile soyadlarından çok lakaplarıyla tanındığını ortaya koyuyor.",
@@ -559,5 +559,5 @@
    "subtitle": "ÇAYBÜKÜ KÖYÜ · MUĞLA"
   }
  ],
- "revizyon": 1
+ "revizyon": 2
 }
