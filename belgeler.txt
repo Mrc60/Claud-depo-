@@ -1,8 +1,20 @@
-# 029 kadın seçme seçilme
-tbmm_2599_degisiklik.pdf https://tbmm.gov.tr/files/anayasa/docs/1924/1924-3/3-degisiklik.pdf
-tbmm_2599_sirasayisi.pdf https://tbmm.gov.tr/files/anayasa/docs/1924/1924-3/3-sirasayisi.pdf
-rg_1471_1930.pdf https://www.resmigazete.gov.tr/arsiv/1471.pdf
-rg_2877_1934.pdf https://www.resmigazete.gov.tr/arsiv/2877.pdf
-gunes_2010_muhtar.pdf https://psi421.cankaya.edu.tr/uploads/files/Gunes%2C%20Ilk%20Kadin%20Muhtar%201933.pdf
-ataans_1935.html https://ataturkansiklopedisi.gov.tr/bilgi/kadin-temsiliyeti-ve-1935-secimleri/
-ataans_turkan.html https://ataturkansiklopedisi.gov.tr/bilgi/turkan-bastug-ors-1900-1975/
+# plaka 1962 RG aralığı
+rg_11208.pdf https://www.resmigazete.gov.tr/arsiv/11208.pdf
+rg_11209.pdf https://www.resmigazete.gov.tr/arsiv/11209.pdf
+rg_11210.pdf https://www.resmigazete.gov.tr/arsiv/11210.pdf
+rg_11211.pdf https://www.resmigazete.gov.tr/arsiv/11211.pdf
+rg_11212.pdf https://www.resmigazete.gov.tr/arsiv/11212.pdf
+rg_11213.pdf https://www.resmigazete.gov.tr/arsiv/11213.pdf
+rg_11214.pdf https://www.resmigazete.gov.tr/arsiv/11214.pdf
+rg_11215.pdf https://www.resmigazete.gov.tr/arsiv/11215.pdf
+rg_11216.pdf https://www.resmigazete.gov.tr/arsiv/11216.pdf
+rg_11217.pdf https://www.resmigazete.gov.tr/arsiv/11217.pdf
+rg_11218.pdf https://www.resmigazete.gov.tr/arsiv/11218.pdf
+rg_11219.pdf https://www.resmigazete.gov.tr/arsiv/11219.pdf
+rg_11220.pdf https://www.resmigazete.gov.tr/arsiv/11220.pdf
+rg_11221.pdf https://www.resmigazete.gov.tr/arsiv/11221.pdf
+rg_11222.pdf https://www.resmigazete.gov.tr/arsiv/11222.pdf
+rg_11223.pdf https://www.resmigazete.gov.tr/arsiv/11223.pdf
+rg_11224.pdf https://www.resmigazete.gov.tr/arsiv/11224.pdf
+rg_11225.pdf https://www.resmigazete.gov.tr/arsiv/11225.pdf
+rg_11226.pdf https://www.resmigazete.gov.tr/arsiv/11226.pdf
