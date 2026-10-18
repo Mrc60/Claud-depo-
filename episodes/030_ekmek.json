@@ -155,19 +155,19 @@
     "yetmiyordu"
    ],
    "image": {
-    "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+    "file": "File:Bread in Turkey 20170829.jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.167,
+     0.0,
      0,
-     0.733,
+     1.0,
      1
     ]
    },
    "scene": "photo",
    "title": "Ekmek",
-   "subtitle": "MARDİN · FIRIN"
+   "subtitle": "TAŞ FIRIN EKMEĞİ"
   },
   {
    "say": "Ekmek karneniz de olmalıydı.",
@@ -187,12 +187,8 @@
     ]
    },
    "scene": "photo",
-   "anim": {
-    "tur": "kart",
-    "ust": "1942–1946",
-    "baslik": "Ekmek karnesi",
-    "bekle": 0.6
-   }
+   "title": "Ekmek karnesi",
+   "subtitle": "1942–1946"
   },
   {
    "say": "Türkiye, İkinci Dünya Savaşı'na girmedi, ama savaşın sıkıntılarından kaçamadı.",
@@ -483,13 +479,13 @@
     "serbestçe"
    ],
    "image": {
-    "file": "File:Bread in Turkey 20170829.jpg",
+    "file": "File:Cibali Cigaratte Factory, İstanbul, 1940's (16944335438).jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.0,
+     0.496,
      0,
-     1.0,
+     0.944,
      1
     ]
    },
@@ -508,19 +504,19 @@
     "soframızdaki"
    ],
    "image": {
-    "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+    "file": "File:Gökçen bread Turkish - panoramio.jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
-     0.433,
+     0.181,
      0,
-     1.0,
+     0.819,
      1
     ]
    },
    "scene": "photo",
    "title": "Bugün",
-   "subtitle": "MARDİN · FIRIN"
+   "subtitle": "SOFRADAKİ EKMEK"
   },
   {
    "say": "Bir zamanlar bu topraklarda ekmek almak için yalnızca para değil, karne de gerekiyordu.",
@@ -595,20 +591,20 @@
     "takip"
    ],
    "image": {
-    "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+    "file": "File:Gökçen ekmeği.Turkish Gökçen bread - panoramio.jpg",
     "fit": "tam",
     "min_w": 700,
     "kirp": [
+     0.181,
      0,
-     0,
-     0.567,
+     0.819,
      1
     ]
    },
    "scene": "photo",
    "title": "Sıradan Değil",
-   "subtitle": "MARDİN · FIRIN"
+   "subtitle": "SOFRADAKİ EKMEK"
   }
  ],
- "revizyon": 1
+ "revizyon": 2
 }
