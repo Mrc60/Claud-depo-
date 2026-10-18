@@ -1,14 +1,19 @@
 {
- "bolum": "028_temmuz",
+ "bolum": "029_lakap",
  "min_w": 700,
- "sorgular": [],
- "incele": [
-  "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16710.jpg",
-  "File:Turkey. Kayserie. Decorated street on Constitution Day LOC matpc.16712.jpg",
-  "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16713.jpg",
-  "File:Turkey. Kayserie. Statue of Attaturk (i.e., Ataturk) with groups of people & school children LOC matpc.16714.jpg",
-  "File:Eric Matson, Cones opposite Tchaouch In, Turkey, 1935.jpg",
-  "File:Cappadocia LOC matpc.12154.jpg",
-  "File:Cappadocia LOC matpc.12155.jpg"
- ]
+ "sorgular": [
+  "Elbise-i Osmaniyye Sébah 1873",
+  "incategory:\"Elbise-i Osmaniyye\"",
+  "Ottoman villagers Anatolia 19th century photograph",
+  "Anatolian peasants Abdullah Frères",
+  "Ottoman census register defter",
+  "nüfus defteri Osmanlı",
+  "Turkish village 1930s photograph",
+  "Anatolian village men coffeehouse old photograph",
+  "Turkish village elders kahvehane",
+  "Ottoman family portrait 19th century Anatolia",
+  "Ottoman young men portrait photograph 1880s",
+  "Turkey village LOC matpc"
+ ],
+ "incele": []
 }
