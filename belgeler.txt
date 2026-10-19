@@ -1,10 +1,7 @@
-# kibrit/çakmak tekeli - parti 2 (gazeteler)
-m290624.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1929/milliyet_1929_haziran_/milliyet_1929_haziran_24_.pdf
-m290712.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1929/milliyet_1929_temmuz_/milliyet_1929_temmuz_12_.pdf
-c340520.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1934/cumhuriyet_1934_mayis_/cumhuriyet_1934_mayis_20_.pdf
-sp330209.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1933/son%20posta_1933_subat_/son%20posta_1933_subat_9_.pdf
-v330214.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf
-sp340428.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1934/son%20posta_1934_nisan_/son%20posta_1934_nisan_28_.pdf
-t390420.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1939/tan_1939_nisan_/tan_1939_nisan_20_.pdf
-c460804.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_agustos_/cumhuriyet_1946_agustos_4_.pdf
-c420127.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ikincikanun_/cumhuriyet_1942_ikincikanun_27_.pdf
+# kibrit parti 3
+sp330722.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1933/son%20posta_1933_temmuz_/son%20posta_1933_temmuz_22_.pdf
+ub360908.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/ulusal%20birlik/ulusal%20birlik_1936/ulusal%20birlik_1936_eylul_/ulusal%20birlik_1936_eylul_8_.pdf
+v341101.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_ikincitesrin_/vakit_1934_ikincitesrin_1_.pdf
+v311217a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1931/vakit_1931_birincikanun_/vakit_1931_birincikanun_17_.pdf
+v311217b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1931/vakit_1931_kanunuevvel_/vakit_1931_kanunuevvel_17_.pdf
+m330707.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1933/milliyet_1933_temmuz_/milliyet_1933_temmuz_7_.pdf
