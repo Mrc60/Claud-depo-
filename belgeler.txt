@@ -1,5 +1,8 @@
-# kibrit parti 4
-c320409.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_nisan_/cumhuriyet_1932_nisan_9_.pdf
-c321118a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_ikincitesrin_/cumhuriyet_1932_ikincitesrin_18_.pdf
-c321118b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_tesrinisani_/cumhuriyet_1932_tesrinisani_18_.pdf
-c310530.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1931/cumhuriyet_1931_mayis_/cumhuriyet_1931_mayis_30_.pdf
+# plaka parti 1
+rg11217.pdf https://www.resmigazete.gov.tr/arsiv/11217.pdf
+m620928a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1962/milliyet_1962_eylul_/milliyet_1962_eylul_28_.pdf
+m620928b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1962/milliyet_1962_eylul_/milliyet_1962_eylul_28_.pdf
+m621122a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1962/milliyet_1962_kasim_/milliyet_1962_kasim_22_.pdf
+m621122b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1962/milliyet_1962_kasim_/milliyet_1962_kasim_22_.pdf
+k1657.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401657.pdf
+k3020.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc067/kanuntbmmc067/kanuntbmmc06703020.pdf
