@@ -2,14 +2,57 @@
  "bolum": "032_plaka",
  "min_w": 800,
  "sorgular": [
-  "Paolo Monti Serie fotografica Istanbul 1962",
-  "incategory:\"Photographs by Paolo Monti of Istanbul\"",
-  "Istanbul Turkey 1966 wilford peloquin",
-  "Istanbul 1960s taxi",
-  "Ankara 1960s street cars",
-  "Istanbul 1965 traffic",
-  "Izmir 1960s street",
-  "Turkey 1962 automobile"
+  "Paolo Monti Serie fotografica Istanbul 1962"
  ],
- "incele": []
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Paolo Monti - Serie fotografica (Istanbul, 1962) - BEIC 6328612.jpg",
+   "ad": "a04.jpg"
+  },
+  {
+   "file": "File:Paolo Monti - Serie fotografica (Istanbul, 1962) - BEIC 6328613.jpg",
+   "ad": "a05.jpg"
+  },
+  {
+   "file": "File:Paolo Monti - Serie fotografica (Istanbul, 1962) - BEIC 6328616.jpg",
+   "ad": "a06.jpg"
+  },
+  {
+   "file": "File:Paolo Monti - Serie fotografica (Istanbul, 1962) - BEIC 6328609.jpg",
+   "ad": "a03.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51192080241).jpg",
+   "ad": "a19.jpg"
+  },
+  {
+   "file": "File:66-034 Istanbul Turkey 1966.jpg",
+   "ad": "a13.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51191373592).jpg",
+   "ad": "a17.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51191372862).jpg",
+   "ad": "a22.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51192299238).jpg",
+   "ad": "a14.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51193149465).jpg",
+   "ad": "a15.jpg"
+  },
+  {
+   "file": "File:Photography by Victor Albert Grigas (1919-2017) Ankara Barikan otel 3-70 March 1970 00338 (40734420203).jpg",
+   "ad": "a25.jpg"
+  },
+  {
+   "file": "File:Galata híd déli hídfője, szemben a Süleymaniye mecset. Fortepan 30852.jpg",
+   "ad": "a26.jpg"
+  }
+ ]
 }
