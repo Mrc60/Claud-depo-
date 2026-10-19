@@ -1,8 +1,14 @@
-c460909a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_eylul_/cumhuriyet_1946_eylul_09_.pdf
-c460909b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_eylul/cumhuriyet_1946_eylul_9_.pdf
-c460909c.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1946/cumhuriyet_1946_eylul_/cumhuriyet_1946_eylul_9_.pdf
-c460910a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_eylul_/cumhuriyet_1946_eylul_10_.pdf
-c411128a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1941/cumhuriyet_1941_ikincitesrin_/cumhuriyet_1941_ikincitesrin_28_.pdf
-c411128b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1941/cumhuriyet_1941_ikinciteşrin_/cumhuriyet_1941_ikinciteşrin_28_.pdf
-t411128a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1941/tan_1941_sonteşrin_/tan_1941_sonteşrin_28_.pdf
-t411128b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan/tan_1941/tan_1941_sontesrin_/tan_1941_sontesrin_28_.pdf
+# kibrit/çakmak tekeli - parti 1
+rg1212.pdf https://www.resmigazete.gov.tr/arsiv/1212.pdf
+rg1217.pdf https://www.resmigazete.gov.tr/arsiv/1217.pdf
+k1503.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701503.pdf
+k1722.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801722.pdf
+k5321.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105321.pdf
+k5865.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405865.pdf
+k4426.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504426.pdf
+usta.pdf https://dergipark.org.tr/tr/download/article-file/3552660
+eryaman_fiyat.pdf https://dergipark.org.tr/tr/download/article-file/1466307
+eryaman_inhisar.pdf https://dergipark.org.tr/tr/download/article-file/1730499
+atam.html https://atamdergi.gov.tr/tam-metin/761/tur
+v340309.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mart_/vakit_1934_mart_9_.pdf
+ya350830.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/yeniasir/yeniasir_1935/yeni%20asir_1935_agustos_/yeni%20asir_1935_agustos_30_.pdf
