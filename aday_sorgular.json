@@ -1,11 +1,15 @@
 {
- "bolum": "030_ekmek",
- "min_w": 500,
+ "bolum": "031_kibrit",
+ "min_w": 900,
  "sorgular": [
-  "\"Meşrutiyet Street and Pera Palas Hotel\"",
-  "Yavuz Goeben battlecruiser Istambul April 1946",
-  "Kayserie Statue Attaturk school children matpc 16713",
-  "Turkish Military Mission HMS Nelson Salih Omurtag A16196"
+  "ETH-BIB Constantinopel Dia 247",
+  "Constantinopel Fruchtverkäufer ETH-BIB",
+  "Constantinopel Maisbrater Brotverkäufer",
+  "Sultanahmet Meydanı 1930",
+  "Hippodrome Istanbul 1935",
+  "Büyükdere 1930",
+  "Schwarzenbach Istanbul 1933",
+  "Istanbul street 1930s Nationaal Archief"
  ],
  "incele": []
 }
