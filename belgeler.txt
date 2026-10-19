@@ -1,8 +1,4 @@
-# plaka parti 1
-rg11217.pdf https://www.resmigazete.gov.tr/arsiv/11217.pdf
-m620928a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1962/milliyet_1962_eylul_/milliyet_1962_eylul_28_.pdf
-m620928b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1962/milliyet_1962_eylul_/milliyet_1962_eylul_28_.pdf
-m621122a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1962/milliyet_1962_kasim_/milliyet_1962_kasim_22_.pdf
-m621122b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1962/milliyet_1962_kasim_/milliyet_1962_kasim_22_.pdf
-k1657.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc054/kanuntbmmc054/kanuntbmmc05401657.pdf
-k3020.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc067/kanuntbmmc067/kanuntbmmc06703020.pdf
+# plaka parti 2 (gaste arsivi sayfaları)
+c630430.html https://www.gastearsivi.com/gazete/cumhuriyet/1963-04-30/1
+m620928.html https://www.gastearsivi.com/gazete/milliyet2/1962-09-28/1
+m621122.html https://www.gastearsivi.com/gazete/milliyet2/1962-11-22/7
