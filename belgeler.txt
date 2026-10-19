@@ -1,14 +1,10 @@
-# kibrit/çakmak tekeli - parti 1
-rg1212.pdf https://www.resmigazete.gov.tr/arsiv/1212.pdf
-rg1217.pdf https://www.resmigazete.gov.tr/arsiv/1217.pdf
-k1503.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc007/kanuntbmmc007/kanuntbmmc00701503.pdf
-k1722.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801722.pdf
-k5321.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105321.pdf
-k5865.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405865.pdf
-k4426.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc025/kanuntbmmc025/kanuntbmmc02504426.pdf
-usta.pdf https://dergipark.org.tr/tr/download/article-file/3552660
-eryaman_fiyat.pdf https://dergipark.org.tr/tr/download/article-file/1466307
-eryaman_inhisar.pdf https://dergipark.org.tr/tr/download/article-file/1730499
-atam.html https://atamdergi.gov.tr/tam-metin/761/tur
-v340309.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mart_/vakit_1934_mart_9_.pdf
-ya350830.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/yeniasir/yeniasir_1935/yeni%20asir_1935_agustos_/yeni%20asir_1935_agustos_30_.pdf
+# kibrit/çakmak tekeli - parti 2 (gazeteler)
+m290624.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1929/milliyet_1929_haziran_/milliyet_1929_haziran_24_.pdf
+m290712.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1929/milliyet_1929_temmuz_/milliyet_1929_temmuz_12_.pdf
+c340520.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1934/cumhuriyet_1934_mayis_/cumhuriyet_1934_mayis_20_.pdf
+sp330209.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1933/son%20posta_1933_subat_/son%20posta_1933_subat_9_.pdf
+v330214.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf
+sp340428.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1934/son%20posta_1934_nisan_/son%20posta_1934_nisan_28_.pdf
+t390420.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1939/tan_1939_nisan_/tan_1939_nisan_20_.pdf
+c460804.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1946/cumhuriyet_1946_agustos_/cumhuriyet_1946_agustos_4_.pdf
+c420127.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_ikincikanun_/cumhuriyet_1942_ikincikanun_27_.pdf
