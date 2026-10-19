@@ -1,7 +1,5 @@
-# kibrit parti 3
-sp330722.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1933/son%20posta_1933_temmuz_/son%20posta_1933_temmuz_22_.pdf
-ub360908.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/ulusal%20birlik/ulusal%20birlik_1936/ulusal%20birlik_1936_eylul_/ulusal%20birlik_1936_eylul_8_.pdf
-v341101.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_ikincitesrin_/vakit_1934_ikincitesrin_1_.pdf
-v311217a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1931/vakit_1931_birincikanun_/vakit_1931_birincikanun_17_.pdf
-v311217b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1931/vakit_1931_kanunuevvel_/vakit_1931_kanunuevvel_17_.pdf
-m330707.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1933/milliyet_1933_temmuz_/milliyet_1933_temmuz_7_.pdf
+# kibrit parti 4
+c320409.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_nisan_/cumhuriyet_1932_nisan_9_.pdf
+c321118a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_ikincitesrin_/cumhuriyet_1932_ikincitesrin_18_.pdf
+c321118b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_tesrinisani_/cumhuriyet_1932_tesrinisani_18_.pdf
+c310530.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1931/cumhuriyet_1931_mayis_/cumhuriyet_1931_mayis_30_.pdf
