@@ -1,4 +1,3 @@
-# plaka parti 2 (gaste arsivi sayfaları)
-c630430.html https://www.gastearsivi.com/gazete/cumhuriyet/1963-04-30/1
-m620928.html https://www.gastearsivi.com/gazete/milliyet2/1962-09-28/1
-m621122.html https://www.gastearsivi.com/gazete/milliyet2/1962-11-22/7
+# plaka parti 3
+c630430e.html https://egazete.cumhuriyet.com.tr/en/catalog/192/1963/4/30/1
+c630430t.html https://egazete.cumhuriyet.com.tr/katalog/192/1963/4/30/1
