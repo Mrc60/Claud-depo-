@@ -1,0 +1,987 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 31,
+ "slug": "kibrit",
+ "title": "Kibrit ve Çakmak Tekeli",
+ "youtube_title": "Çakmak taşı bile yasaktı: Kibrit ve çakmak tekeli #SıradanDeğil 31",
+ "youtube_description": "",
+ "sources": [
+  "https://www.resmigazete.gov.tr/arsiv/1212.pdf",
+  "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801722.pdf",
+  "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105321.pdf",
+  "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405865.pdf",
+  "https://atamdergi.gov.tr/tam-metin/761/tur",
+  "https://dergipark.org.tr/tr/download/article-file/3552660",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1933/son%20posta_1933_subat_/son%20posta_1933_subat_9_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mart_/vakit_1934_mart_9_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/yeniasir/yeniasir_1935/yeni%20asir_1935_agustos_/yeni%20asir_1935_agustos_30_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1939/tan_1939_nisan_/tan_1939_nisan_20_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1934/cumhuriyet_1934_mayis_/cumhuriyet_1934_mayis_20_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_tesrinisani_/cumhuriyet_1932_tesrinisani_18_.pdf"
+ ],
+ "dis_ses": {
+  "file": "assets/ses/031_kibrit.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.58
+    ]
+   ],
+   [
+    [
+     4.58,
+     7.22
+    ]
+   ],
+   [
+    [
+     7.46,
+     11.98
+    ]
+   ],
+   [
+    [
+     12.38,
+     15.52
+    ]
+   ],
+   [
+    [
+     15.52,
+     22.2
+    ]
+   ],
+   [
+    [
+     22.42,
+     26.54
+    ]
+   ],
+   [
+    [
+     26.54,
+     31.9
+    ]
+   ],
+   [
+    [
+     32.44,
+     37.14
+    ]
+   ],
+   [
+    [
+     37.72,
+     42.8
+    ]
+   ],
+   [
+    [
+     43.3,
+     46.28
+    ]
+   ],
+   [
+    [
+     46.46,
+     50.26
+    ]
+   ],
+   [
+    [
+     50.46,
+     53.3
+    ]
+   ],
+   [
+    [
+     53.86,
+     59.22
+    ]
+   ],
+   [
+    [
+     59.48,
+     63.7
+    ]
+   ],
+   [
+    [
+     64.04,
+     67.56
+    ]
+   ],
+   [
+    [
+     68.24,
+     72.04
+    ]
+   ],
+   [
+    [
+     72.68,
+     76.74
+    ]
+   ],
+   [
+    [
+     76.96,
+     79.74
+    ]
+   ],
+   [
+    [
+     79.74,
+     83.04
+    ]
+   ],
+   [
+    [
+     83.04,
+     86.66
+    ]
+   ],
+   [
+    [
+     86.78,
+     92.52
+    ]
+   ],
+   [
+    [
+     92.82,
+     98.48
+    ]
+   ],
+   [
+    [
+     99.42,
+     104.48
+    ]
+   ],
+   [
+    [
+     104.48,
+     109.56
+    ]
+   ],
+   [
+    [
+     109.82,
+     113.0
+    ]
+   ],
+   [
+    [
+     113.16,
+     116.9
+    ]
+   ],
+   [
+    [
+     117.46,
+     122.9
+    ]
+   ],
+   [
+    [
+     123.42,
+     127.04
+    ]
+   ],
+   [
+    [
+     127.04,
+     130.48
+    ],
+    [
+     130.98,
+     132.54
+    ]
+   ],
+   [
+    [
+     132.54,
+     138.61
+    ]
+   ],
+   [
+    [
+     139.56,
+     145.58
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "1935'te bir adamın üzerinde iki çakmak taşı bulundu",
+   "caption": "1935'te bir adamın üzerinde iki çakmak taşı bulundu",
+   "key": [
+    "çakmak"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_ya350830_manset.jpg",
+    "fit": "tam",
+    "baslik": "Yeni Asır, 30 Ağustos 1935",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/yeniasir/yeniasir_1935/yeni%20asir_1935_agustos_/yeni%20asir_1935_agustos_30_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaçak çakmak",
+   "subtitle": "YENİ ASIR · 30 AĞUSTOS 1935"
+  },
+  {
+   "say": "ve bu taşlara hemen el konuldu.",
+   "caption": "ve bu taşlara hemen el konuldu.",
+   "key": [
+    "el konuldu"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_ya350830_haber.jpg",
+    "fit": "tam",
+    "baslik": "Yeni Asır, 30 Ağustos 1935",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/yeniasir/yeniasir_1935/yeni%20asir_1935_agustos_/yeni%20asir_1935_agustos_30_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "El konuldu",
+   "subtitle": "YENİ ASIR · 30 AĞUSTOS 1935"
+  },
+  {
+   "say": "Çünkü o yıllarda Türkiye'de çakmak taşı bile devlet tekelindeydi.",
+   "caption": "Çünkü o yıllarda Türkiye'de çakmak taşı bile devlet tekelindeydi.",
+   "key": [
+    "tekelindeydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_tan390420_baslik.jpg",
+    "fit": "tam",
+    "baslik": "Tan, 20 Nisan 1939, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1939/tan_1939_nisan_/tan_1939_nisan_20_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Tekel",
+   "subtitle": "TAN · 20 NİSAN 1939"
+  },
+  {
+   "say": "Haziran 1929'da çıkarılan kanunla",
+   "caption": "Haziran 1929'da çıkarılan kanunla",
+   "key": [
+    "1929'da"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_rg1212_baslik.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 10 Haziran 1929, sayı 1212 (1503 sayılı kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/1212.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "1503 sayılı kanun",
+   "subtitle": "RESMÎ GAZETE · 10 HAZİRAN 1929"
+  },
+  {
+   "say": "kibritin, çakmağın ve çakmak taşının üretimi, ithalatı ve satışı devlet tekeline alındı.",
+   "caption": "kibritin, çakmağın ve çakmak taşının üretimi, ithalatı ve satışı devlet tekeline alındı.",
+   "key": [
+    "üretimi",
+    "satışı"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_rg1212_madde1.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 10 Haziran 1929, sayı 1212 (1503 sayılı kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/1212.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Madde 1",
+   "subtitle": "RESMÎ GAZETE · 10 HAZİRAN 1929"
+  },
+  {
+   "say": "Kaçak yakalanan her çakmak taşı için 25 kuruş ceza vardı.",
+   "caption": "Kaçak yakalanan her çakmak taşı için 25 kuruş ceza vardı.",
+   "key": [
+    "25 kuruş"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_rg1212_madde7.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 10 Haziran 1929, sayı 1212 (1503 sayılı kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/1212.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "HER KAÇAK ÇAKMAK TAŞI",
+    "baslik": "25 kuruş",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "1930 yılındaki fiyatlarla bu, 10 kutu kibritin parasına denk geliyordu.",
+   "caption": "1930 yılındaki fiyatlarla bu, 10 kutu kibritin parasına denk geliyordu.",
+   "key": [
+    "10 kutu"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_k1722_fiyat.jpg",
+    "fit": "tam",
+    "baslik": "1722 sayılı kanun ve sözleşmesi (1930), TBMM",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801722.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1930 FİYATIYLA",
+    "baslik": "10 kutu kibrit",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Kaçak bir çakmağın cezası ise tam 200 kutu kibritin fiyatı kadardı.",
+   "caption": "Kaçak bir çakmağın cezası ise tam 200 kutu kibritin fiyatı kadardı.",
+   "key": [
+    "200 kutu"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_cum340520_cizim.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 20 Mayıs 1934, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1934/cumhuriyet_1934_mayis_/cumhuriyet_1934_mayis_20_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KAÇAK BİR ÇAKMAK",
+    "baslik": "200 kutu kibrit",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Bir yıl sonra devlet, bu tekeli 25 yıllığına bir Amerikan şirketine verdi.",
+   "caption": "Bir yıl sonra devlet, bu tekeli 25 yıllığına bir Amerikan şirketine verdi.",
+   "key": [
+    "Amerikan"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_k1722_madde1.jpg",
+    "fit": "tam",
+    "baslik": "1722 sayılı kanun ve sözleşmesi (1930), TBMM",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801722.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Amerikan şirketi",
+   "subtitle": "1722 SAYILI KANUN · 1930"
+  },
+  {
+   "say": "Karşılığında 10 milyon dolarlık kredi aldı.",
+   "caption": "Karşılığında 10 milyon dolarlık kredi aldı.",
+   "key": [
+    "10 milyon"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_k1722_baslik.jpg",
+    "fit": "tam",
+    "baslik": "1722 sayılı kanun ve sözleşmesi (1930), TBMM",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc008/kanuntbmmc008/kanuntbmmc00801722.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KARŞILIĞINDA",
+    "baslik": "10 milyon dolar",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Şirket, İstanbul Büyükdere'de bir kibrit fabrikası kurdu.",
+   "caption": "Şirket, İstanbul Büyükdere'de bir kibrit fabrikası kurdu.",
+   "key": [
+    "Büyükdere'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_cum310530_fabrika.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 30 Mayıs 1931, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1931/cumhuriyet_1931_mayis_/cumhuriyet_1931_mayis_30_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kibrit fabrikası",
+   "subtitle": "CUMHURİYET · 30 MAYIS 1931"
+  },
+  {
+   "say": "Fabrika 1932'de üretime başladı.",
+   "caption": "Fabrika 1932'de üretime başladı.",
+   "key": [
+    "1932'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_cum320409_yerli.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 9 Nisan 1932, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_nisan_/cumhuriyet_1932_nisan_9_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yerli kibritler",
+   "subtitle": "CUMHURİYET · 9 NİSAN 1932"
+  },
+  {
+   "say": "Ama beklenmedik bir sorun vardı. İnsanlar kibrit yerine çakmak kullanıyordu.",
+   "caption": "Ama beklenmedik bir sorun vardı. İnsanlar kibrit yerine çakmak kullanıyordu.",
+   "key": [
+    "beklenmedik",
+    "çakmak"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_cum321118_zarar.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 18 Kasım 1932, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1932/cumhuriyet_1932_tesrinisani_/cumhuriyet_1932_tesrinisani_18_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Çakmak yüzünden zarar",
+   "subtitle": "CUMHURİYET · 18 KASIM 1932"
+  },
+  {
+   "say": "Şirket, kibrit satışları düşmesin diye çakmak satışını kısıtladı.",
+   "caption": "Şirket, kibrit satışları düşmesin diye çakmak satışını kısıtladı.",
+   "key": [
+    "kısıtladı"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_cum340520_kisti.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 20 Mayıs 1934, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1934/cumhuriyet_1934_mayis_/cumhuriyet_1934_mayis_20_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Çakmak kısıtlandı",
+   "subtitle": "CUMHURİYET · 20 MAYIS 1934"
+  },
+  {
+   "say": "Bunun sonucunda İstanbul'da çakmak bulmak zorlaştı.",
+   "caption": "Bunun sonucunda İstanbul'da çakmak bulmak zorlaştı.",
+   "key": [
+    "zorlaştı"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-005.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.047,
+     0,
+     0.953,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "İstanbul",
+   "subtitle": "İSTANBUL · 1933-34"
+  },
+  {
+   "say": "1939'da bir gazete okurlarına şu cevabı veriyordu:",
+   "caption": "1939'da bir gazete okurlarına şu cevabı veriyordu:",
+   "key": [
+    "1939'da"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_tan390420_soru.jpg",
+    "fit": "tam",
+    "baslik": "Tan, 20 Nisan 1939, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1939/tan_1939_nisan_/tan_1939_nisan_20_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Okur sorusu",
+   "subtitle": "TAN · 20 NİSAN 1939"
+  },
+  {
+   "say": "Şirketin sattığı çakmaklardan başka çakmak kullanmak yasaktır.",
+   "caption": "Şirketin sattığı çakmaklardan başka çakmak kullanmak yasaktır.",
+   "key": [
+    "yasaktır"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_tan390420_cevap.jpg",
+    "fit": "tam",
+    "baslik": "Tan, 20 Nisan 1939, s. 2",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1939/tan_1939_nisan_/tan_1939_nisan_20_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Gazetenin cevabı",
+   "subtitle": "TAN · 20 NİSAN 1939"
+  },
+  {
+   "say": "Bu yasak, kaçakçılığı da beraberinde getirdi.",
+   "caption": "Bu yasak, kaçakçılığı da beraberinde getirdi.",
+   "key": [
+    "kaçakçılığı"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_ub360908_16600.jpg",
+    "fit": "tam",
+    "baslik": "Ulusal Birlik (İzmir), 8 Eylül 1936, s. 1",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/ulusal%20birlik/ulusal%20birlik_1936/ulusal%20birlik_1936_eylul_/ulusal%20birlik_1936_eylul_8_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaçakçılık",
+   "subtitle": "ULUSAL BİRLİK · 8 EYLÜL 1936"
+  },
+  {
+   "say": "1933'te Ortaköy'de bir evde",
+   "caption": "1933'te Ortaköy'de bir evde",
+   "key": [
+    "Ortaköy'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_vak330214_ortakoy.jpg",
+    "fit": "tam",
+    "baslik": "Vakit, 14 Şubat 1933",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Ortaköy",
+   "subtitle": "VAKİT · 14 ŞUBAT 1933"
+  },
+  {
+   "say": "tam 32.800 kaçak çakmak taşı bulundu.",
+   "caption": "tam 32.800 kaçak çakmak taşı bulundu.",
+   "key": [
+    "32.800"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_sp330209_32bin.jpg",
+    "fit": "tam",
+    "baslik": "Son Posta, 9 Şubat 1933, s. 3",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1933/son%20posta_1933_subat_/son%20posta_1933_subat_9_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ORTAKÖY · 1933",
+    "baslik": "32.800 taş",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Kaçak satış, müşteri kılığına giren bir memurun düzenlediği operasyonla ortaya çıkarılmıştı.",
+   "caption": "Kaçak satış, müşteri kılığına giren bir memurun düzenlediği operasyonla ortaya çıkarılmıştı.",
+   "key": [
+    "müşteri kılığına"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_vak330214_memur.jpg",
+    "fit": "tam",
+    "baslik": "Vakit, 14 Şubat 1933",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Müşteri kılığında memur",
+   "subtitle": "VAKİT · 14 ŞUBAT 1933"
+  },
+  {
+   "say": "Mahkeme, taş başına 25 kuruştan, toplam 8.200 lira para cezası verdi.",
+   "caption": "Mahkeme, taş başına 25 kuruştan, toplam 8.200 lira para cezası verdi.",
+   "key": [
+    "8.200 lira"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_vak330214_ceza.jpg",
+    "fit": "tam",
+    "baslik": "Vakit, 14 Şubat 1933",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "TAŞ BAŞINA 25 KURUŞ",
+    "baslik": "8.200 lira",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "1934'te ise bir gümrük memuru, zengin bir halı tüccarı kılığına girdi.",
+   "caption": "1934'te ise bir gümrük memuru, zengin bir halı tüccarı kılığına girdi.",
+   "key": [
+    "halı tüccarı"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_vak340309_baslik.jpg",
+    "fit": "tam",
+    "baslik": "Vakit, 9 Mart 1934, s. 3",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mart_/vakit_1934_mart_9_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Dokuz bin taş",
+   "subtitle": "VAKİT · 9 MART 1934"
+  },
+  {
+   "say": "Sultanahmet Meydanı'nda 9000 kaçak çakmak taşını suçüstü yakaladı.",
+   "caption": "Sultanahmet Meydanı'nda 9000 kaçak çakmak taşını suçüstü yakaladı.",
+   "key": [
+    "suçüstü"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_vak340309_hali.jpg",
+    "fit": "tam",
+    "baslik": "Vakit, 9 Mart 1934, s. 3",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mart_/vakit_1934_mart_9_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sultanahmet",
+   "subtitle": "VAKİT · 9 MART 1934"
+  },
+  {
+   "say": "Çakmak ve çakmak taşı 1949'da,",
+   "caption": "Çakmak ve çakmak taşı 1949'da,",
+   "key": [
+    "1949'da"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_k5321_baslik.jpg",
+    "fit": "tam",
+    "baslik": "5321 sayılı kanun (1949), TBMM",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105321.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ÇAKMAK SERBEST",
+    "baslik": "1949",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "kibrit ise 1952'de devlet tekelinden çıkarıldı.",
+   "caption": "kibrit ise 1952'de devlet tekelinden çıkarıldı.",
+   "key": [
+    "1952'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_k5865_baslik.jpg",
+    "fit": "tam",
+    "baslik": "5865 sayılı kanun (1952), TBMM",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "TBMM / T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc034/kanuntbmmc034/kanuntbmmc03405865.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KİBRİT SERBEST",
+    "baslik": "1952",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Bugün cebimizde taşıdığımız sıradan bir çakmak, bir zamanlar gazete manşetlerine çıkıyordu.",
+   "caption": "Bugün cebimizde taşıdığımız sıradan bir çakmak, bir zamanlar gazete manşetlerine çıkıyordu.",
+   "key": [
+    "manşetlerine"
+   ],
+   "image": {
+    "local": "assets/belgeler/031_vak330214_manset.jpg",
+    "fit": "tam",
+    "baslik": "Vakit, 14 Şubat 1933",
+    "lisans": "Dönem gazetesi (1929-1939)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1933/vakit_1933_subat_/vakit_1933_subat_14_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Manşet",
+   "subtitle": "VAKİT · 14 ŞUBAT 1933"
+  },
+  {
+   "say": "Peki sizce, bugün sıradan gördüğümüz hangi eşya",
+   "caption": "Peki sizce, bugün sıradan gördüğümüz hangi eşya",
+   "key": [
+    "hangi eşya"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Istanbul- Stadtansicht - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-016.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.066,
+     0,
+     0.934,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "İstanbul",
+   "subtitle": "İSTANBUL · 1933-34"
+  },
+  {
+   "say": "yıllar sonra böyle şaşırtıcı bir hikâyeyle hatırlanacak? Yorumlarınızı bekliyorum.",
+   "caption": "yıllar sonra böyle şaşırtıcı bir hikâyeyle hatırlanacak? Yorumlarınızı bekliyorum.",
+   "key": [
+    "hatırlanacak"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-017.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.076,
+     0,
+     0.924,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yorumlarda buluşalım",
+   "subtitle": "SIRADAN DEĞİL"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-013.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.048,
+     0,
+     0.952,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaynaklar",
+   "subtitle": "AÇIKLAMADA"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayın.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayın.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-015.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.048,
+     0,
+     0.952,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP ET"
+  }
+ ],
+ "revizyon": 1
+}
