@@ -1,3 +1,50 @@
-{"bolum":"034_kopek","min_w":800,
- "sorgular":["Constantinople dogs","Chiens de Constantinople","Abdullah Frères chiens","Catsimpoolas dogs Constantinople","Sivriada dogs 1910","Hayırsızada","Istanbul street dogs 1900","Underwood Constantinople dogs","Oxia island dogs"],
- "incele":[]}
+{
+ "bolum": "034_kopek",
+ "min_w": 800,
+ "sorgular": [
+  "Constantinople dogs"
+ ],
+ "incele": [
+  "File:Les chiens des rues - Abdullah Frères. LCCN2003677082.jpg",
+  "File:Le Petit Parisien Supplément littéraire (...) bpt6k9105167 7.jpg",
+  "File:Salut de Constantinople. Groupe de chiens - DPLA - dbc913e7551ccc985842717d81d16d53 (page 1).jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Salut de Constantinople. Groupe de chiens - DPLA - dbc913e7551ccc985842717d81d16d53 (page 1).jpg",
+   "ad": "k17.jpg"
+  },
+  {
+   "file": "File:Les chiens des rues - Abdullah Frères. LCCN2003677082.jpg",
+   "ad": "k19.jpg"
+  },
+  {
+   "file": "File:Dogs choosing their sleeping quarters for the night - Constantinople LCCN2004672931.jpg",
+   "ad": "k04.jpg"
+  },
+  {
+   "file": "File:Le Petit Parisien Supplément littéraire (...) bpt6k9105167 7.jpg",
+   "ad": "k20.jpg"
+  },
+  {
+   "file": "File:Les chiens dans la rue - De Amicis Edmondo - 1883.jpg",
+   "ad": "k13.jpg"
+  },
+  {
+   "file": "File:Turkey. Constantinople. Dogs - DPLA - 548b7ff3a931697cf67084cbc08c3f51.jpg",
+   "ad": "k06.jpg"
+  },
+  {
+   "file": "File:Cobblestones, dirt and dogs in a typical thoroughfare of Constantinople, Turkey LCCN2004672929.jpg",
+   "ad": "k03.jpg"
+  },
+  {
+   "file": "File:Turkey. Constantinople. Dogs - DPLA - a53570959c3b1392e5a74c97c14a733d.jpg",
+   "ad": "k07.jpg"
+  },
+  {
+   "file": "File:Turkey. Constantinople. Dogs - DPLA - d143f3802daeee0b207c62e863e2f667.jpg",
+   "ad": "k08.jpg"
+  }
+ ]
+}
