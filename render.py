@@ -216,7 +216,17 @@ def draw_caption(frame, t):
 def chrome(frame, t):
     d = ImageDraw.Draw(frame)
     # üst marka çubuğu
-    d.text((W / 2, 150), f"{EP['series'].upper()}  ·  #{EP['episode']}", font=F_UI(34), fill=with_alpha(MUTED, 0.95), anchor="mm")
+    # hareketli marka şeridi: aşağıdan yukarı yavaşça yürür, kırpılarak atılamasın diye sabit değil
+    PERIYOT = 22.0                                  # bir tam geçiş (sn)
+    u = (t % PERIYOT) / PERIYOT
+    y = lerp(1000, 230, u)                          # sadece fotoğraf bölgesinde: kart ve altyazıya binmesin
+    xs = (W * 0.5, W * 0.30, W * 0.70)              # her geçişte yatay konum değişir
+    x = xs[int(t // PERIYOT) % 3]
+    txt = f"{EP['series'].upper()}  ·  #{EP['episode']}"
+    wm = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(wm).text((x, y), txt, font=F_UI(34), fill=(255, 255, 255, 110), anchor="mm",
+                            stroke_width=2, stroke_fill=(0, 0, 0, 60))
+    frame.alpha_composite(wm)
     # İlerleme çubuğu kullanılmıyor (TEK1'in tercihi: hiçbir videoda olmasın)
 
 def sc_hook(f, lt, dur, t):
