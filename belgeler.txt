@@ -1,3 +1,10 @@
-# plaka parti 3
-c630430e.html https://egazete.cumhuriyet.com.tr/en/catalog/192/1963/4/30/1
-c630430t.html https://egazete.cumhuriyet.com.tr/katalog/192/1963/4/30/1
+# radyo
+rg3638.pdf https://www.resmigazete.gov.tr/arsiv/3638.pdf
+rg18606.pdf https://www.resmigazete.gov.tr/arsiv/18606.pdf
+m301015a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1930/milliyet_1930_birincitesrin_/milliyet_1930_birincitesrin_15_.pdf
+m301015b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1930/milliyet_1930_tesrinievvel_/milliyet_1930_tesrinievvel_15_.pdf
+m301015c.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet//milliyet_1930/milliyet_1930_birincitesrin_/milliyet_1930_birincitesrin_15_.pdf
+v411212a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1941/vakit_1941_birincikanun_/vakit_1941_birincikanun_12_.pdf
+v411212b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1941/vakit_1941_ilkkanun_/vakit_1941_ilkkanun_12_.pdf
+c421209.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_birincikanun_/cumhuriyet_1942_birincikanun_9_.pdf
+t370831.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1937/tan_1937_agustos_/tan_1937_agustos_31_.pdf
