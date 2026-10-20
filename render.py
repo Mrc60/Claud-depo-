@@ -213,20 +213,24 @@ def draw_caption(frame, t):
     frame.alpha_composite(layer)
 
 # ---------- sahneler ----------
+_WM = None
 def chrome(frame, t):
     d = ImageDraw.Draw(frame)
     # üst marka çubuğu
-    # hareketli marka şeridi: aşağıdan yukarı yavaşça yürür, kırpılarak atılamasın diye sabit değil
-    PERIYOT = 22.0                                  # bir tam geçiş (sn)
-    u = (t % PERIYOT) / PERIYOT
-    y = lerp(1000, 230, u)                          # sadece fotoğraf bölgesinde: kart ve altyazıya binmesin
-    xs = (W * 0.5, W * 0.30, W * 0.70)              # her geçişte yatay konum değişir
-    x = xs[int(t // PERIYOT) % 3]
+    # hareketli marka şeridi: kenarda dikey yazı, aşağıdan yukarı yavaşça yürür; her geçişte sol/sağ kenar değişir
+    global _WM
     txt = f"{EP['series'].upper()}  ·  #{EP['episode']}"
-    wm = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(wm).text((x, y), txt, font=F_UI(34), fill=(255, 255, 255, 110), anchor="mm",
-                            stroke_width=2, stroke_fill=(0, 0, 0, 60))
-    frame.alpha_composite(wm)
+    if "_WM" not in globals() or _WM is None:
+        f = F_UI(30); bb = f.getbbox(txt); tw, th = bb[2] + 8, bb[3] + 8
+        spr = Image.new("RGBA", (tw, th), (0, 0, 0, 0))
+        ImageDraw.Draw(spr).text((4, 4), txt, font=f, fill=(255, 255, 255, 95), stroke_width=2, stroke_fill=(0, 0, 0, 55))
+        _WM = spr.rotate(90, expand=True)
+    PERIYOT = 24.0
+    u = (t % PERIYOT) / PERIYOT
+    cy = lerp(H - 260, 260, u)
+    sol = int(t // PERIYOT) % 2 == 0
+    cx = 58 if sol else W - 58
+    frame.alpha_composite(_WM, (int(cx - _WM.width / 2), int(cy - _WM.height / 2)))
     # İlerleme çubuğu kullanılmıyor (TEK1'in tercihi: hiçbir videoda olmasın)
 
 def sc_hook(f, lt, dur, t):
