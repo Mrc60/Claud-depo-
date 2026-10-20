@@ -425,11 +425,11 @@ def photo_for(seg_idx):
 def photo_scene(layer, seg_idx, lt, dur):
     p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
     u = ease_io(lt / max(dur, 0.1))
-    z = lerp(1.0, 1.07, u)                       # yavaş yakınlaştırma
+    z = lerp(1.0, 1.056, u)                       # yavaş yakınlaştırma
     cw, ch = W / z, H / z
     span_x, span_y = im.width - cw, im.height - ch
     d = -1 if seg_idx % 2 else 1                 # sahneler sırayla sola/sağa kayar
-    x = span_x * (0.5 + d * lerp(-0.45, 0.45, u))
+    x = span_x * (0.5 + d * lerp(-0.36, 0.36, u))
     y = span_y * 0.45
     crop = im.crop((int(x), int(y), int(x + cw), int(y + ch))).resize((W, H), Image.BILINEAR)
     layer.paste(crop.convert("RGBA"), (0, 0))
