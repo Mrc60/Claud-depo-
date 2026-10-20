@@ -225,7 +225,7 @@ def chrome(frame, t):
         spr = Image.new("RGBA", (tw, th), (0, 0, 0, 0))
         ImageDraw.Draw(spr).text((4, 4), txt, font=f, fill=(255, 255, 255, 95), stroke_width=2, stroke_fill=(0, 0, 0, 55))
         _WM = spr.rotate(90, expand=True)
-    PERIYOT = 24.0
+    PERIYOT = 36.0                                  # yavaş: dikkat dağıtmasın
     u = (t % PERIYOT) / PERIYOT
     cy = lerp(H - 260, 260, u)
     sol = int(t // PERIYOT) % 2 == 0
