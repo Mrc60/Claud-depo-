@@ -1,3 +1,50 @@
-{"bolum":"033_radyo","min_w":800,
- "sorgular":["Ankara Radyosu 1930","İstanbul Radyosu 1927","radio listening Turkey 1930s","Turkish family radio 1940s","Ankara radio station 1938","radio receiver 1930s","Schwarzenbach Ankara 1934","Istanbul 1940s street"],
- "incele":[]}
+{
+ "bolum": "033_radyo",
+ "min_w": 800,
+ "sorgular": [
+  "Atatürk Boulevard Radio House 1940s"
+ ],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Atatürk Boulevard, Radio House, 1940s (17050524392).jpg",
+   "ad": "r01.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, Radio House, 1940s (16851412171).jpg",
+   "ad": "r02.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-043.jpg",
+   "ad": "r17.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-048.jpg",
+   "ad": "r18.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Gebäude - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-057.jpg",
+   "ad": "r19.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-063.jpg",
+   "ad": "r21.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-060.jpg",
+   "ad": "r22.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-062.jpg",
+   "ad": "r23.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-064.jpg",
+   "ad": "r24.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Stadtansicht - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-167.jpg",
+   "ad": "r28.jpg"
+  }
+ ]
+}
