@@ -1,0 +1,543 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 33,
+ "slug": "radyo",
+ "title": "Radyo Ruhsatı",
+ "youtube_title": "Radyo dinlemek için ruhsat gerekiyordu! #SıradanDeğil 33",
+ "youtube_description": "",
+ "sources": [
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1930/milliyet_1930_tesrinievvel_/milliyet_1930_tesrinievvel_15_.pdf",
+  "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_birincikanun_/cumhuriyet_1942_birincikanun_9_.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/3638.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/18606.pdf"
+ ],
+ "dis_ses": {
+  "file": "assets/ses/033_radyo.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.9
+    ]
+   ],
+   [
+    [
+     5.3,
+     9.54
+    ]
+   ],
+   [
+    [
+     9.9,
+     12.3
+    ]
+   ],
+   [
+    [
+     12.6,
+     15.78
+    ]
+   ],
+   [
+    [
+     16.4,
+     19.36
+    ]
+   ],
+   [
+    [
+     19.36,
+     26.18
+    ]
+   ],
+   [
+    [
+     26.18,
+     32.46
+    ]
+   ],
+   [
+    [
+     32.6,
+     35.46
+    ]
+   ],
+   [
+    [
+     35.9,
+     40.68
+    ]
+   ],
+   [
+    [
+     40.68,
+     44.56
+    ]
+   ],
+   [
+    [
+     45.0,
+     48.12
+    ]
+   ],
+   [
+    [
+     48.4,
+     50.48
+    ]
+   ],
+   [
+    [
+     50.9,
+     55.22
+    ]
+   ],
+   [
+    [
+     55.22,
+     62.84
+    ]
+   ],
+   [
+    [
+     63.2,
+     66.72
+    ],
+    [
+     67.1,
+     68.28
+    ]
+   ],
+   [
+    [
+     68.4,
+     74.84
+    ]
+   ],
+   [
+    [
+     75.2,
+     80.34
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar evinizde radyo dinlemek için devletten ruhsat almanız gerekiyordu!",
+   "caption": "Bir zamanlar evinizde radyo dinlemek için devletten ruhsat almanız gerekiyordu!",
+   "key": [
+    "ruhsat"
+   ],
+   "image": {
+    "file": "File:Atatürk Boulevard, Radio House, 1940s (17050524392).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0,
+     0.137,
+     1,
+     0.963
+    ]
+   },
+   "scene": "photo",
+   "title": "Radyo başında",
+   "subtitle": "RADYO DERGİSİ · 1940'LAR"
+  },
+  {
+   "say": "15 Ekim 1930'da Milliyet gazetesi şu soruyu sordu:",
+   "caption": "15 Ekim 1930'da Milliyet gazetesi şu soruyu sordu:",
+   "key": [
+    "Milliyet"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_mil301015_ust.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 15 Ekim 1930",
+    "lisans": "Dönem gazetesi (1930-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1930/milliyet_1930_tesrinievvel_/milliyet_1930_tesrinievvel_15_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Milliyet",
+   "subtitle": "MİLLİYET · 15 EKİM 1930"
+  },
+  {
+   "say": "Kaçak radyo kullananların cezası ne?",
+   "caption": "Kaçak radyo kullananların cezası ne?",
+   "key": [
+    "cezası"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_mil301015_manset.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 15 Ekim 1930",
+    "lisans": "Dönem gazetesi (1930-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1930/milliyet_1930_tesrinievvel_/milliyet_1930_tesrinievvel_15_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Cezası ne?",
+   "subtitle": "MİLLİYET · 15 EKİM 1930"
+  },
+  {
+   "say": "Habere göre ceza, en az bir yıl hapisti!",
+   "caption": "Habere göre ceza, en az bir yıl hapisti!",
+   "key": [
+    "hapisti"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_mil301015_cezasi.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 15 Ekim 1930",
+    "lisans": "Dönem gazetesi (1930-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1930/milliyet_1930_tesrinievvel_/milliyet_1930_tesrinievvel_15_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "MİLLİYET · 1930",
+    "baslik": "En az 1 yıl hapis",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "1937'de çıkan Telsiz Kanunu'yla",
+   "caption": "1937'de çıkan Telsiz Kanunu'yla",
+   "key": [
+    "Telsiz"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_rg3638_baslik.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 23 Haziran 1937, sayı 3638 (3222 sayılı Telsiz Kanunu)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/3638.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Telsiz Kanunu",
+   "subtitle": "RESMÎ GAZETE · 1937"
+  },
+  {
+   "say": "ruhsatsız radyo kullananlara 25 liradan 250 liraya kadar ağır para cezası getirildi.",
+   "caption": "ruhsatsız radyo kullananlara 25 liradan 250 liraya kadar ağır para cezası getirildi.",
+   "key": [
+    "250"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_rg3638_m38.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 23 Haziran 1937, sayı 3638 (3222 sayılı Telsiz Kanunu)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/3638.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "RUHSATSIZ RADYO CEZASI",
+    "baslik": "25 – 250 lira",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Aynı yıl yıllık ruhsat ücreti, yaşadığınız yerin nüfusuna göre 5 ya da 10 liraydı.",
+   "caption": "Aynı yıl yıllık ruhsat ücreti, yaşadığınız yerin nüfusuna göre 5 ya da 10 liraydı.",
+   "key": [
+    "10"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-048.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.064,
+     0,
+     0.936,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "YILLIK RUHSAT ÜCRETİ · 1937",
+    "baslik": "5 ya da 10 lira",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Peki, gerçekten hapis cezası alan oldu mu?",
+   "caption": "Peki, gerçekten hapis cezası alan oldu mu?",
+   "key": [
+    "hapis"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-060.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.259,
+     0,
+     0.841,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Gerçekten oldu mu?",
+   "subtitle": "ANKARA · 1933-34"
+  },
+  {
+   "say": "Evet! 1942'de Taksim'de yaşayan bir Japon vatandaşı,",
+   "caption": "Evet! 1942'de Taksim'de yaşayan bir Japon vatandaşı,",
+   "key": [
+    "Japon"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_cum421209_mahkum.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 9 Aralık 1942, s. 3",
+    "lisans": "Dönem gazetesi (1930-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_birincikanun_/cumhuriyet_1942_birincikanun_9_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Ruhsatsız radyo",
+   "subtitle": "CUMHURİYET · 9 ARALIK 1942"
+  },
+  {
+   "say": "ruhsatsız radyo kullandığı için bir ay hapis cezası aldı.",
+   "caption": "ruhsatsız radyo kullandığı için bir ay hapis cezası aldı.",
+   "key": [
+    "bir ay"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_cum421209_mahkum.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 9 Aralık 1942, s. 3",
+    "lisans": "Dönem gazetesi (1930-1942)",
+    "kaynak": "İstanbul Üniversitesi, Gazeteden Tarih Bakış arşivi",
+    "sayfa": "https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet//cumhuriyet_1942/cumhuriyet_1942_birincikanun_/cumhuriyet_1942_birincikanun_9_.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "CUMHURİYET · 1942",
+    "baslik": "Bir ay hapis",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "1984'te yıllık ruhsat ücreti kaldırıldı,",
+   "caption": "1984'te yıllık ruhsat ücreti kaldırıldı,",
+   "key": [
+    "kaldırıldı"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_rg18606_3093.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 15 Aralık 1984, sayı 18606 (3093 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/18606.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "3093 sayılı kanun",
+   "subtitle": "RESMÎ GAZETE · 1984"
+  },
+  {
+   "say": "yerine TRT bandrolü geldi.",
+   "caption": "yerine TRT bandrolü geldi.",
+   "key": [
+    "bandrolü"
+   ],
+   "image": {
+    "local": "assets/belgeler/033_rg18606_3093.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 15 Aralık 1984, sayı 18606 (3093 sayılı Kanun)",
+    "lisans": "Resmî metin (kamu malı)",
+    "kaynak": "T.C. Resmî Gazete arşivi",
+    "sayfa": "https://www.resmigazete.gov.tr/arsiv/18606.pdf",
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1984",
+    "baslik": "TRT bandrolü",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Elektrik faturalarındaki TRT payı ise 2022'de kaldırıldı.",
+   "caption": "Elektrik faturalarındaki TRT payı ise 2022'de kaldırıldı.",
+   "key": [
+    "2022'de"
+   ],
+   "image": {
+    "file": "File:Atatürk Boulevard, Radio House, 1940s (16851412171).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.246,
+     0,
+     0.854,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ELEKTRİK FATURASI",
+    "baslik": "TRT payı 2022'de kalktı",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Ama TRT bandrol ücretini, radyo, televizyon ve telefon alırken fiyatın içinde ödemeye devam ediyoruz.",
+   "caption": "Ama TRT bandrol ücretini, radyo, televizyon ve telefon alırken fiyatın içinde ödemeye devam ediyoruz.",
+   "key": [
+    "devam"
+   ],
+   "image": {
+    "file": "File:Atatürk Boulevard, Radio House, 1940s (17050524392).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0,
+     0.174,
+     1,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "BUGÜN",
+    "baslik": "Bandrol sürüyor",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Evinizde eski bir radyo ya da radyo ruhsatı var mı? Yorumlara yazın.",
+   "caption": "Evinizde eski bir radyo ya da radyo ruhsatı var mı? Yorumlara yazın.",
+   "key": [
+    "Yorumlara"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-064.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.214,
+     0,
+     0.786,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yorumlarda buluşalım",
+   "subtitle": "SIRADAN DEĞİL"
+  },
+  {
+   "say": "Bu tür ilginç tarihî bilgilerin devamı için videoyu beğenmeyi ve Sıradan Değil'i takip etmeyi unutmayın!",
+   "caption": "Bu tür ilginç tarihî bilgilerin devamı için videoyu beğenmeyi ve Sıradan Değil'i takip etmeyi unutmayın!",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Ankara- Gebäude - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-057.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.217,
+     0,
+     0.783,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP ET"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz, kaynaklar açıklamada.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz, kaynaklar açıklamada.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Ankara- Stadtansicht - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-167.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.075,
+     0,
+     0.925,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaynaklar",
+   "subtitle": "AÇIKLAMADA"
+  }
+ ],
+ "revizyon": 1
+}
