@@ -431,7 +431,8 @@ def photo_scene(layer, seg_idx, lt, dur):
     d = -1 if seg_idx % 2 else 1                 # sahneler sırayla sola/sağa kayar
     x = span_x * (0.5 + d * lerp(-0.36, 0.36, u))
     y = span_y * 0.45
-    crop = im.crop((int(x), int(y), int(x + cw), int(y + ch))).resize((W, H), Image.BILINEAR)
+    # alt piksel hassas kırpma: tam sayıya yuvarlama her karede 1 px oynayıp titreme yapıyordu
+    crop = im.resize((W, H), Image.BICUBIC, box=(x, y, x + cw, y + ch))
     layer.paste(crop.convert("RGBA"), (0, 0))
     layer.alpha_composite(SHADE)
     seg = SEGS[seg_idx]
