@@ -1,0 +1,429 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 34,
+ "slug": "kopek",
+ "title": "Köpek Sürgünü",
+ "youtube_title": "1910: İstanbul'un köpekleri adaya sürüldü #SıradanDeğil 34",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/034_kopek.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     5.62
+    ]
+   ],
+   [
+    [
+     5.9,
+     13.64
+    ]
+   ],
+   [
+    [
+     14.1,
+     25.16
+    ]
+   ],
+   [
+    [
+     25.16,
+     32.84
+    ]
+   ],
+   [
+    [
+     33.0,
+     38.96
+    ]
+   ],
+   [
+    [
+     39.4,
+     52.02
+    ]
+   ],
+   [
+    [
+     52.02,
+     60.44
+    ]
+   ],
+   [
+    [
+     60.8,
+     73.14
+    ]
+   ],
+   [
+    [
+     73.3,
+     80.14
+    ]
+   ],
+   [
+    [
+     80.14,
+     86.74
+    ]
+   ],
+   [
+    [
+     86.9,
+     93.72
+    ]
+   ],
+   [
+    [
+     94.0,
+     97.3
+    ],
+    [
+     97.8,
+     100.82
+    ]
+   ],
+   [
+    [
+     101.0,
+     107.6
+    ]
+   ],
+   [
+    [
+     107.6,
+     114.28
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "1910'da İstanbul'un sokak köpekleri toplanıp ıssız bir adaya bırakıldı.",
+   "caption": "1910'da İstanbul'un sokak köpekleri toplanıp ıssız bir adaya bırakıldı.",
+   "key": [
+    "adaya"
+   ],
+   "image": {
+    "file": "File:Le Petit Parisien Supplément littéraire (...) bpt6k9105167 7.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0,
+     0.0,
+     1,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "title": "Adaya sürgün",
+   "subtitle": "LE PETIT PARISIEN · 1910"
+  },
+  {
+   "say": "Yüzyıllar boyunca İstanbul'un her mahallesinin kendi köpekleri vardı. Mahalleli onları tanır, besler, korurdu.",
+   "caption": "Yüzyıllar boyunca İstanbul'un her mahallesinin kendi köpekleri vardı. Mahalleli onları tanır, besler, korurdu.",
+   "key": [
+    "besler"
+   ],
+   "image": {
+    "local": "assets/belgeler/034_abdullah_besleyen.jpg",
+    "fit": "tam",
+    "baslik": "Abdullah Frères, İstanbul, 19. yüzyıl sonu",
+    "lisans": "Dönem fotoğrafı (kamu malı)",
+    "kaynak": "Abdullah Frères, İstanbul, 19. yüzyıl sonu",
+    "sayfa": "",
+    "kirp": [
+     0,
+     0.055,
+     1,
+     0.945
+    ]
+   },
+   "scene": "photo",
+   "title": "Mahallenin köpekleri",
+   "subtitle": "ABDULLAH FRÈRES · İSTANBUL"
+  },
+  {
+   "say": "Aslında onları sürme fikri yeni değildi. 1830'larda II. Mahmud da köpekleri adaya sürmek istemişti. Ama halk direnince emrini geri aldı.",
+   "caption": "Aslında onları sürme fikri yeni değildi. 1830'larda II. Mahmud da köpekleri adaya sürmek istemişti. Ama halk direnince emrini geri aldı.",
+   "key": [
+    "II. Mahmud"
+   ],
+   "image": {
+    "file": "File:Salut de Constantinople. Groupe de chiens - DPLA - dbc913e7551ccc985842717d81d16d53 (page 1).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.063,
+     0,
+     0.637,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1830'LAR",
+    "baslik": "II. Mahmud geri adım attı",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "1908'den sonra yeni yönetim, İstanbul'u Avrupa şehirleri gibi modern ve düzenli göstermek istiyordu.",
+   "caption": "1908'den sonra yeni yönetim, İstanbul'u Avrupa şehirleri gibi modern ve düzenli göstermek istiyordu.",
+   "key": [
+    "modern"
+   ],
+   "image": {
+    "file": "File:Dogs choosing their sleeping quarters for the night - Constantinople LCCN2004672931.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.02,
+     0.045,
+     0.48,
+     0.954
+    ]
+   },
+   "scene": "photo",
+   "title": "Modern şehir",
+   "subtitle": "İSTANBUL · 1911"
+  },
+  {
+   "say": "Sokak köpekleri onların gözünde pisliğin, hastalığın ve geri kalmışlığın işaretiydi.",
+   "caption": "Sokak köpekleri onların gözünde pisliğin, hastalığın ve geri kalmışlığın işaretiydi.",
+   "key": [
+    "işaretiydi"
+   ],
+   "image": {
+    "file": "File:Cobblestones, dirt and dogs in a typical thoroughfare of Constantinople, Turkey LCCN2004672929.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.03,
+     0.07,
+     0.48,
+     0.92
+    ]
+   },
+   "scene": "photo",
+   "title": "Sokaklar",
+   "subtitle": "İSTANBUL · 1911"
+  },
+  {
+   "say": "1910 baharında belediye, köpeklerin kaldırılmasına karar verdi. Toplayanlara köpek başına ödül verildi. Halk köpekleri evlerinde sakladı. Ama bu kez emir geri alınmadı.",
+   "caption": "1910 baharında belediye, köpeklerin kaldırılmasına karar verdi. Toplayanlara köpek başına ödül verildi. Halk köpekleri evlerinde sakladı. Ama bu kez emir geri alınmadı.",
+   "key": [
+    "ödül",
+    "sakladı"
+   ],
+   "image": {
+    "file": "File:Les chiens des rues - Abdullah Frères. LCCN2003677082.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.171,
+     0,
+     0.829,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1910 BAHARI",
+    "baslik": "Belediye kararı",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Köpekler Marmara'daki Hayırsızada'ya götürüldü. Dönem gazeteleri 80.000'den söz etti. Resmî bir sayım yok.",
+   "caption": "Köpekler Marmara'daki Hayırsızada'ya götürüldü. Dönem gazeteleri 80.000'den söz etti. Resmî bir sayım yok.",
+   "key": [
+    "Hayırsızada'ya",
+    "80.000'den"
+   ],
+   "image": {
+    "local": "assets/belgeler/034_weinberg_ada.jpg",
+    "fit": "tam",
+    "baslik": "Jean Weinberg, Servet-i Fünun sayı 995, 1910",
+    "lisans": "Dönem fotoğrafı (kamu malı)",
+    "kaynak": "Jean Weinberg, Servet-i Fünun sayı 995, 1910",
+    "sayfa": "",
+    "kirp": [
+     0.55,
+     0.1,
+     1.0,
+     0.82
+    ]
+   },
+   "scene": "photo",
+   "title": "Hayırsızada",
+   "subtitle": "SERVET-İ FÜNUN · 1910"
+  },
+  {
+   "say": "Belediye adaya ekmek gönderdiğini açıkladı. Ama ada memuruna göre her hafta köpeklerin yüzde üçü ölüyordu. Tanıklar, açlıktan ve susuzluktan ölen köpekleri anlattı.",
+   "caption": "Belediye adaya ekmek gönderdiğini açıkladı. Ama ada memuruna göre her hafta köpeklerin yüzde üçü ölüyordu. Tanıklar, açlıktan ve susuzluktan ölen köpekleri anlattı.",
+   "key": [
+    "yüzde"
+   ],
+   "image": {
+    "file": "File:Le Petit Parisien Supplément littéraire (...) bpt6k9105167 7.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.0,
+     0.52,
+     1.0,
+     0.96
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "ADA MEMURU · 1910",
+    "baslik": "Haftada %3 ölüm",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Sonraki yıllarda yaşanan yangını, depremi ve Balkan yenilgisini halk, köpeklerin ahına bağladı.",
+   "caption": "Sonraki yıllarda yaşanan yangını, depremi ve Balkan yenilgisini halk, köpeklerin ahına bağladı.",
+   "key": [
+    "ahına"
+   ],
+   "image": {
+    "file": "File:Les chiens dans la rue - De Amicis Edmondo - 1883.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.206,
+     0,
+     0.794,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Köpeklerin ahı",
+   "subtitle": "HALK İNANCI"
+  },
+  {
+   "say": "Ama şehirde köpekler yine çoğaldı. 1912'de şehremini olan Cemil Topuzlu,",
+   "caption": "Ama şehirde köpekler yine çoğaldı. 1912'de şehremini olan Cemil Topuzlu,",
+   "key": [
+    "çoğaldı"
+   ],
+   "image": {
+    "file": "File:Turkey. Constantinople. Dogs - DPLA - 548b7ff3a931697cf67084cbc08c3f51.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.155,
+     0,
+     0.845,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yine çoğaldılar",
+   "subtitle": "İSTANBUL"
+  },
+  {
+   "say": "anılarında şöyle yazdı: \"Otuz bine yakın köpek buldum. Bunları yavaş yavaş imha ettirdim.\"",
+   "caption": "anılarında şöyle yazdı: \"Otuz bine yakın köpek buldum. Bunları yavaş yavaş imha ettirdim.\"",
+   "key": [
+    "imha"
+   ],
+   "image": {
+    "file": "File:Turkey. Constantinople. Dogs - DPLA - d143f3802daeee0b207c62e863e2f667.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.153,
+     0,
+     0.847,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "CEMİL TOPUZLU · ANILAR",
+    "baslik": "\"30 bine yakın köpek\"",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Peki, bu acı olayı daha önce duymuş muydunuz? Düşüncelerinizi yorumlarda bizimle paylaşın.",
+   "caption": "Peki, bu acı olayı daha önce duymuş muydunuz? Düşüncelerinizi yorumlarda bizimle paylaşın.",
+   "key": [
+    "yorumlarda"
+   ],
+   "image": {
+    "local": "assets/belgeler/034_hume_slayt.jpg",
+    "fit": "tam",
+    "baslik": "Cam slayt, İstanbul, 19. yüzyıl sonu",
+    "lisans": "Dönem fotoğrafı (kamu malı)",
+    "kaynak": "Cam slayt, İstanbul, 19. yüzyıl sonu",
+    "sayfa": "",
+    "kirp": [
+     0.075,
+     0,
+     0.925,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Yorumlarda buluşalım",
+   "subtitle": "SIRADAN DEĞİL"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:Turkey. Constantinople. Dogs - DPLA - a53570959c3b1392e5a74c97c14a733d.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.155,
+     0,
+     0.845,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Kaynaklar",
+   "subtitle": "AÇIKLAMADA"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:Salut de Constantinople. Groupe de chiens - DPLA - dbc913e7551ccc985842717d81d16d53 (page 1).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.425,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo",
+   "title": "Sıradan Değil",
+   "subtitle": "TAKİP ET"
+  }
+ ],
+ "revizyon": 1
+}
