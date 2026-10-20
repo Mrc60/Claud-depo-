@@ -1,1 +1,1 @@
-assets/ses/033_radyo.mp3 # 033
+assets/ses/034_kopek.mp3 # 034
