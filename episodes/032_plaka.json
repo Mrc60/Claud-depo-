@@ -4,11 +4,15 @@
  "takip_cagrisi": false,
  "episode": 32,
  "slug": "plaka",
- "title": "Plaka Kodları",
+ "title": "Plaka Kodlarının Sırrı",
  "youtube_title": "06 neden Ankara, 34 neden İstanbul? Plaka kodlarının sırrı #SıradanDeğil 32",
  "youtube_description": "",
  "sources": [
-  "https://www.resmigazete.gov.tr/arsiv/11217.pdf"
+  "https://www.resmigazete.gov.tr/arsiv/11217.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/14446.pdf",
+  "https://www.resmigazete.gov.tr/arsiv/18439.pdf",
+  "https://www.resmigazete.gov.tr/eskiler/2002/06/20020628.htm",
+  "https://www.resmigazete.gov.tr/eskiler/2005/01/20050111.htm"
  ],
  "dis_ses": {
   "file": "assets/ses/032_plaka.mp3",
@@ -23,9 +27,7 @@
     [
      3.3,
      4.96
-    ]
-   ],
-   [
+    ],
     [
      5.5,
      7.42
@@ -33,61 +35,55 @@
    ],
    [
     [
-     7.78,
+     7.6,
      11.14
     ]
    ],
    [
     [
-     11.4,
+     11.3,
      14.6
     ]
    ],
    [
     [
-     15.18,
+     14.95,
      18.74
     ]
    ],
    [
     [
-     19.22,
+     19.0,
      22.62
     ]
    ],
    [
     [
-     22.84,
+     22.7,
      25.78
     ]
    ],
    [
     [
-     26.14,
+     26.0,
      27.6
     ]
    ],
    [
     [
-     27.74,
+     27.6,
      29.64
     ]
    ],
    [
     [
      29.64,
-     31.98
-    ]
-   ],
-   [
-    [
-     32.54,
      36.68
     ]
    ],
    [
     [
-     37.26,
+     37.0,
      38.54
     ],
     [
@@ -97,25 +93,25 @@
    ],
    [
     [
-     41.78,
+     41.6,
      44.82
     ]
    ],
    [
     [
-     45.02,
+     44.9,
      48.04
     ]
    ],
    [
     [
-     48.36,
+     48.2,
      52.18
     ]
    ],
    [
     [
-     52.38,
+     52.3,
      54.36
     ],
     [
@@ -131,25 +127,25 @@
    ],
    [
     [
-     61.48,
+     61.3,
      66.48
     ]
    ],
    [
     [
-     67.2,
+     66.9,
      73.0
     ]
    ],
    [
     [
-     73.36,
+     73.2,
      76.72
     ]
    ],
    [
     [
-     77.08,
+     76.9,
      82.84
     ]
    ],
@@ -167,7 +163,7 @@
    ],
    [
     [
-     93.64,
+     93.5,
      95.24
     ],
     [
@@ -177,13 +173,13 @@
    ],
    [
     [
-     99.78,
+     99.6,
      106.24
     ]
    ],
    [
     [
-     106.72,
+     106.5,
      111.66
     ]
    ]
@@ -197,27 +193,6 @@
     "06"
    ],
    "image": {
-    "file": "File:Photography by Victor Albert Grigas (1919-2017) Ankara Barikan otel 3-70 March 1970 00338 (40734420203).jpg",
-    "fit": "tam",
-    "min_w": 500,
-    "kirp": [
-     0.015,
-     0,
-     0.585,
-     1
-    ]
-   },
-   "scene": "photo",
-   "title": "06 Ankara",
-   "subtitle": "ANKARA · 1970"
-  },
-  {
-   "say": "34 neden İstanbul?",
-   "caption": "34 neden İstanbul?",
-   "key": [
-    "34"
-   ],
-   "image": {
     "file": "File:Istanbul Turkey 1966 (51192080241).jpg",
     "fit": "tam",
     "min_w": 500,
@@ -229,13 +204,14 @@
     ]
    },
    "scene": "photo",
-   "title": "34 İstanbul",
+   "title": "34 ER 234",
    "subtitle": "İSTANBUL · 1966"
   },
   {
-   "say": "Bu numaralar rastgele mi seçildi?",
-   "caption": "Bu numaralar rastgele mi seçildi?",
+   "say": "34 neden İstanbul? Bu numaralar rastgele mi seçildi?",
+   "caption": "34 neden İstanbul? Bu numaralar rastgele mi seçildi?",
    "key": [
+    "34",
     "rastgele"
    ],
    "image": {
@@ -243,14 +219,14 @@
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0.284,
+     0.154,
      0,
-     0.816,
+     0.686,
      1
     ]
    },
    "scene": "photo",
-   "title": "Rastgele mi?",
+   "title": "Galata Köprüsü",
    "subtitle": "İSTANBUL · 1966"
   },
   {
@@ -275,8 +251,8 @@
    "subtitle": "İSTANBUL · 1962"
   },
   {
-   "say": "Doğrudan şehrin adı bulunuyordu. İstanbul gibi.",
-   "caption": "Doğrudan şehrin adı bulunuyordu. İstanbul gibi.",
+   "say": "Doğrudan şehrin adı bulunuyordu. İstanbul gibi…",
+   "caption": "Doğrudan şehrin adı bulunuyordu. İstanbul gibi…",
    "key": [
     "İstanbul"
    ],
@@ -292,8 +268,8 @@
     ]
    },
    "scene": "photo",
-   "title": "ISTANBUL",
-   "subtitle": "PAOLO MONTI · İSTANBUL 1962"
+   "title": "ISTANBUL T.60 229",
+   "subtitle": "İSTANBUL · 1962"
   },
   {
    "say": "27 Eylül 1962'de yeni bir yönetmelik çıktı.",
@@ -320,13 +296,13 @@
    "subtitle": "RESMÎ GAZETE · 27 EYLÜL 1962"
   },
   {
-   "say": "O günkü 67 il alfabetik sıraya dizildi.",
-   "caption": "O günkü 67 il alfabetik sıraya dizildi.",
+   "say": "O günkü 67 il, alfabetik sıraya dizildi.",
+   "caption": "O günkü 67 il, alfabetik sıraya dizildi.",
    "key": [
     "alfabetik"
    ],
    "image": {
-    "local": "assets/belgeler/032_rg_m24.jpg",
+    "local": "assets/belgeler/032_rg_cetvel.jpg",
     "fit": "tam",
     "baslik": "Resmî Gazete, 27 Eylül 1962, sayı 11217",
     "lisans": "Resmî metin (kamu malı)",
@@ -340,8 +316,8 @@
     ]
    },
    "scene": "photo",
-   "title": "Alfabetik sıra",
-   "subtitle": "RESMÎ GAZETE · MADDE 24"
+   "title": "67 il, alfabetik",
+   "subtitle": "RESMÎ GAZETE · 27 EYLÜL 1962"
   },
   {
    "say": "Adana 01, Ankara 06,",
@@ -364,8 +340,12 @@
     ]
    },
    "scene": "photo",
-   "title": "01 Adana · 06 Ankara",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "ALFABEDE 6. SIRA",
+    "baslik": "06 Ankara",
+    "bekle": 0.8
+   }
   },
   {
    "say": "İstanbul 34,",
@@ -388,8 +368,12 @@
     ]
    },
    "scene": "photo",
-   "title": "34 İstanbul",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "ALFABEDE 34. SIRA",
+    "baslik": "34 İstanbul",
+    "bekle": 0.8
+   }
   },
   {
    "say": "Zonguldak'sa 67 oldu.",
@@ -412,14 +396,18 @@
     ]
    },
    "scene": "photo",
-   "title": "67 Zonguldak",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "LİSTENİN SONU",
+    "baslik": "67 Zonguldak",
+    "bekle": 0.8
+   }
   },
   {
-   "say": "Ama asıl ilginç ayrıntı şu.",
-   "caption": "Ama asıl ilginç ayrıntı şu.",
+   "say": "Ama asıl ilginç ayrıntı şu: Bazı plaka kodları, şehirlerin eski isimlerini hâlâ taşıyor.",
+   "caption": "Ama asıl ilginç ayrıntı şu: Bazı plaka kodları, şehirlerin eski isimlerini hâlâ taşıyor.",
    "key": [
-    "ilginç"
+    "eski"
    ],
    "image": {
     "file": "File:Paolo Monti - Serie fotografica (Istanbul, 1962) - BEIC 6328616.jpg",
@@ -433,32 +421,8 @@
     ]
    },
    "scene": "photo",
-   "title": "Asıl ayrıntı",
-   "subtitle": "PAOLO MONTI · İSTANBUL 1962"
-  },
-  {
-   "say": "Bazı plaka kodları şehirlerin eski isimlerini hâlâ taşıyor.",
-   "caption": "Bazı plaka kodları şehirlerin eski isimlerini hâlâ taşıyor.",
-   "key": [
-    "eski"
-   ],
-   "image": {
-    "local": "assets/belgeler/032_rg_not2.jpg",
-    "fit": "tam",
-    "baslik": "Resmî Gazete, 27 Eylül 1962, sayı 11217",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/11217.pdf",
-    "kirp": [
-     0,
-     0,
-     1,
-     1
-    ]
-   },
-   "scene": "photo",
-   "title": "İsim değişse de numara değişmez",
-   "subtitle": "RESMÎ GAZETE · 1962"
+   "title": "Eski isimler",
+   "subtitle": "İSTANBUL · 1962"
   },
   {
    "say": "Mersin neden 33? Çünkü o dönemde adı İçel'di.",
@@ -481,8 +445,12 @@
     ]
    },
    "scene": "photo",
-   "title": "33 İçel",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "1962 LİSTESİNDE",
+    "baslik": "33 İçel",
+    "bekle": 0.8
+   }
   },
   {
    "say": "Kahramanmaraş 46. Çünkü Maraş'tı.",
@@ -505,8 +473,12 @@
     ]
    },
    "scene": "photo",
-   "title": "46 Maraş",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "1962 LİSTESİNDE",
+    "baslik": "46 Maraş",
+    "bekle": 0.8
+   }
   },
   {
    "say": "Şanlıurfa 63. Çünkü Urfa'ydı.",
@@ -529,8 +501,12 @@
     ]
    },
    "scene": "photo",
-   "title": "63 Urfa",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "1962 LİSTESİNDE",
+    "baslik": "63 Urfa",
+    "bekle": 0.8
+   }
   },
   {
    "say": "Afyonkarahisar da Afyon adıyla 03 kodunu aldı.",
@@ -553,14 +529,44 @@
     ]
    },
    "scene": "photo",
-   "title": "03 Afyon",
-   "subtitle": "1962 İL CETVELİ"
+   "anim": {
+    "tur": "kart",
+    "ust": "1962 LİSTESİNDE",
+    "baslik": "03 Afyon",
+    "bekle": 0.8
+   }
   },
   {
    "say": "Peki Yalova neden 77? Düzce neden 81?",
    "caption": "Peki Yalova neden 77? Düzce neden 81?",
    "key": [
+    "77",
     "81"
+   ],
+   "image": {
+    "file": "File:Istanbul Turkey 1966 (51191372862).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.334,
+     0,
+     0.866,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "SONRADAN KURULAN İLLER",
+    "baslik": "77 · 81",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Çünkü sonradan kurulan iller alfabetik sıraya göre araya eklenmedi.",
+   "caption": "Çünkü sonradan kurulan iller alfabetik sıraya göre araya eklenmedi.",
+   "key": [
+    "eklenmedi"
    ],
    "image": {
     "local": "assets/belgeler/032_rg_cetvel.jpg",
@@ -577,40 +583,12 @@
     ]
    },
    "scene": "photo",
-   "anim": {
-    "tur": "kart",
-    "ust": "1962 LİSTESİNDE YOKLAR",
-    "baslik": "77 · 81",
-    "bekle": 0.8
-   }
+   "title": "Araya eklenmedi",
+   "subtitle": "RESMÎ GAZETE · 27 EYLÜL 1962"
   },
   {
-   "say": "Çünkü sonradan kurulan iller alfabetik sıraya göre araya eklenmedi.",
-   "caption": "Çünkü sonradan kurulan iller alfabetik sıraya göre araya eklenmedi.",
-   "key": [
-    "eklenmedi"
-   ],
-   "image": {
-    "local": "assets/belgeler/032_rg_son.jpg",
-    "fit": "tam",
-    "baslik": "Resmî Gazete, 27 Eylül 1962, sayı 11217",
-    "lisans": "Resmî metin (kamu malı)",
-    "kaynak": "T.C. Resmî Gazete arşivi",
-    "sayfa": "https://www.resmigazete.gov.tr/arsiv/11217.pdf",
-    "kirp": [
-     0,
-     0,
-     1,
-     1
-    ]
-   },
-   "scene": "photo",
-   "title": "Liste 67'de bitiyor",
-   "subtitle": "1962 İL CETVELİ"
-  },
-  {
-   "say": "Yönetmelik yeni illere 67'den sonraki sayıların verilmesini öngörüyordu.",
-   "caption": "Yönetmelik yeni illere 67'den sonraki sayıların verilmesini öngörüyordu.",
+   "say": "Yönetmelik, yeni illere 67'den sonraki sayıların verilmesini öngörüyordu.",
+   "caption": "Yönetmelik, yeni illere 67'den sonraki sayıların verilmesini öngörüyordu.",
    "key": [
     "67'den"
    ],
@@ -629,8 +607,8 @@
     ]
    },
    "scene": "photo",
-   "title": "67'den sonrası",
-   "subtitle": "RESMÎ GAZETE · 1962"
+   "title": "67'den sonra",
+   "subtitle": "RESMÎ GAZETE · 27 EYLÜL 1962"
   },
   {
    "say": "1962'de Türkiye'de toplam 163.307 motorlu kara taşıtı vardı.",
@@ -643,17 +621,17 @@
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0.214,
+     0.314,
      0,
-     0.686,
+     0.786,
      1
     ]
    },
    "scene": "photo",
    "anim": {
     "tur": "kart",
-    "ust": "1962'DE TÜRKİYE'DE",
-    "baslik": "163.307 araç",
+    "ust": "TÜRKİYE · 1962",
+    "baslik": "163.307 taşıt",
     "bekle": 0.8
    }
   },
@@ -682,8 +660,8 @@
    "subtitle": "RESMÎ GAZETE · MADDE 12"
   },
   {
-   "say": "Başka ile nakledilen ya da geri alınan plakalar ise ortasından kırılarak iptal ediliyordu.",
-   "caption": "Başka ile nakledilen ya da geri alınan plakalar ise ortasından kırılarak iptal ediliyordu.",
+   "say": "Başka ile nakledilen ya da geri alınan plakalarsa ortasından kırılarak iptal ediliyordu.",
+   "caption": "Başka ile nakledilen ya da geri alınan plakalarsa ortasından kırılarak iptal ediliyordu.",
    "key": [
     "kırılarak"
    ],
@@ -712,21 +690,21 @@
     "Cumhuriyet"
    ],
    "image": {
-    "file": "File:Istanbul Turkey 1966 (51192080241).jpg",
+    "file": "File:66-034 Istanbul Turkey 1966.jpg",
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0.0,
-     0.156,
-     0.45,
-     1.0
+     0.354,
+     0,
+     0.886,
+     1
     ]
    },
    "scene": "photo",
    "anim": {
     "tur": "kart",
-    "ust": "CUMHURİYET · 30 NİSAN 1963",
-    "baslik": "Adana'da AF plakası",
+    "ust": "CUMHURİYET",
+    "baslik": "30 Nisan 1963",
     "bekle": 0.8
    }
   },
@@ -734,6 +712,7 @@
    "say": "Adana'da AF serisi plakası taşıyan taksilere rağbetin çok olduğu haber oldu.",
    "caption": "Adana'da AF serisi plakası taşıyan taksilere rağbetin çok olduğu haber oldu.",
    "key": [
+    "AF",
     "taksilere"
    ],
    "image": {
@@ -748,8 +727,12 @@
     ]
    },
    "scene": "photo",
-   "title": "AF plakasına rağbet",
-   "subtitle": "FOTOĞRAF: İSTANBUL TAKSİLERİ · 1966"
+   "anim": {
+    "tur": "kart",
+    "ust": "ADANA · 1963",
+    "baslik": "AF plakasına rağbet",
+    "bekle": 0.8
+   }
   },
   {
    "say": "Peki sizin plakanız kaç? Plaka numaranızı ve hangi şehirden olduğunuzu yorumlara yazın.",
@@ -758,19 +741,19 @@
     "yorumlara"
    ],
    "image": {
-    "file": "File:Istanbul Turkey 1966 (51191372862).jpg",
+    "file": "File:Istanbul Turkey 1966 (51191373592).jpg",
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0.334,
+     0.12,
      0,
-     0.866,
+     0.68,
      1
     ]
    },
    "scene": "photo",
    "title": "Yorumlarda buluşalım",
-   "subtitle": "İSTANBUL · 1966"
+   "subtitle": "SIRADAN DEĞİL"
   },
   {
    "say": "Bu tür ilginç tarihî bilgilerin devamı için videoyu beğenmeyi ve Sıradan Değil'i takip etmeyi unutmayın.",
@@ -780,13 +763,13 @@
     "takip"
    ],
    "image": {
-    "file": "File:66-034 Istanbul Turkey 1966.jpg",
+    "file": "File:Istanbul Turkey 1966 (51193149465).jpg",
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0.134,
+     0.234,
      0,
-     0.666,
+     0.766,
      1
     ]
    },
@@ -801,13 +784,13 @@
     "kaynaklara"
    ],
    "image": {
-    "file": "File:Istanbul Turkey 1966 (51193149465).jpg",
+    "file": "File:66-034 Istanbul Turkey 1966.jpg",
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0.234,
+     0.034,
      0,
-     0.766,
+     0.566,
      1
     ]
    },
