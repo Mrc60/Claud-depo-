@@ -1,0 +1,332 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 35,
+ "slug": "unvan",
+ "title": "Unvanlar Kalktı",
+ "youtube_title": "1934: Artık kimseye Paşa, Bey, Efendi denmeyecekti #SıradanDeğil 35",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/035_unvan.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     8.62
+    ]
+   ],
+   [
+    [
+     8.8,
+     21.88
+    ]
+   ],
+   [
+    [
+     21.88,
+     32.74
+    ]
+   ],
+   [
+    [
+     33.32,
+     40.26
+    ]
+   ],
+   [
+    [
+     40.58,
+     53.08
+    ]
+   ],
+   [
+    [
+     53.3,
+     59.68
+    ],
+    [
+     60.0,
+     65.28
+    ]
+   ],
+   [
+    [
+     65.86,
+     68.1
+    ],
+    [
+     68.7,
+     75.74
+    ]
+   ],
+   [
+    [
+     76.24,
+     82.44
+    ]
+   ],
+   [
+    [
+     82.6,
+     88.66
+    ]
+   ],
+   [
+    [
+     88.86,
+     97.32
+    ]
+   ],
+   [
+    [
+     97.9,
+     103.18
+    ],
+    [
+     103.52,
+     105.07
+    ]
+   ],
+   [
+    [
+     105.71,
+     112.41
+    ]
+   ],
+   [
+    [
+     112.89,
+     119.13
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "1934'te bir kanun çıktı ve kimseye resmen “Paşa”, “Bey” ya da “Efendi” denemeyecekti.",
+   "caption": "1934'te bir kanun çıktı ve kimseye resmen “Paşa”, “Bey” ya da “Efendi” denemeyecekti.",
+   "key": [
+    "Paşa",
+    "Efendi"
+   ],
+   "image": {
+    "local": "assets/belgeler/035_mil_manset.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 27 Kasım 1934, s. 1",
+    "lisans": "Dönem belgesi (kamu malı)",
+    "kaynak": "Milliyet, 27 Kasım 1934, s. 1",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "MİLLİYET · 27 KASIM 1934",
+    "baslik": "Unvanlar kalktı",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Önceki bölümümüzde Soyadı Kanunu'nu anlatmıştık. Ama hikâye orada bitmedi. Soyadı Kanunu'ndan beş ay sonra, 26 Kasım 1934'te Meclis yeni bir kanun kabul etti.",
+   "caption": "Önceki bölümümüzde Soyadı Kanunu'nu anlatmıştık. Ama hikâye orada bitmedi. Soyadı Kanunu'ndan beş ay sonra, 26 Kasım 1934'te Meclis yeni bir kanun kabul etti.",
+   "key": [
+    "Soyadı",
+    "Meclis"
+   ],
+   "image": {
+    "local": "assets/belgeler/035_mil_meclis.jpg",
+    "fit": "tam",
+    "baslik": "Meclis'te kanunu konuşanlar, Milliyet, 27 Kasım 1934, s. 1",
+    "lisans": "Dönem belgesi (kamu malı)",
+    "kaynak": "Milliyet, 27 Kasım 1934, s. 1",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "26 KASIM 1934",
+    "baslik": "Meclis'te kabul",
+    "bekle": 4.5
+   }
+  },
+  {
+   "say": "Bu kanunla ağa, hacı, hafız, hoca, molla, efendi, bey, paşa, hanım ve hazretleri gibi unvanlar kaldırıldı.",
+   "caption": "Bu kanunla ağa, hacı, hafız, hoca, molla, efendi, bey, paşa, hanım ve hazretleri gibi unvanlar kaldırıldı.",
+   "key": [
+    "kaldırıldı"
+   ],
+   "image": {
+    "local": "assets/belgeler/035_rg_madde1.jpg",
+    "fit": "tam",
+    "baslik": "2590 sayılı Kanun, 1. madde, Resmî Gazete, 29 Kasım 1934, sayı 2867",
+    "lisans": "Dönem belgesi (kamu malı)",
+    "kaynak": "Resmî Gazete, 29 Kasım 1934, sayı 2867",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "KANUN NO 2590",
+    "baslik": "Resmî Gazete",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Artık kadın erkek herkes, kanun önünde ve resmî belgelerde yalnızca adıyla anılacaktı.",
+   "caption": "Artık kadın erkek herkes, kanun önünde ve resmî belgelerde yalnızca adıyla anılacaktı.",
+   "key": [
+    "adıyla"
+   ],
+   "image": {
+    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Çünkü o güne kadar adınızın yanındaki kelime, toplumdaki yerinizi belli ediyordu. Paşa yüksek rütbeli askerdi, ağa köyün güçlüsüydü, efendi okumuş kişiydi.",
+   "caption": "Çünkü o güne kadar adınızın yanındaki kelime, toplumdaki yerinizi belli ediyordu. Paşa yüksek rütbeli askerdi, ağa köyün güçlüsüydü, efendi okumuş kişiydi.",
+   "key": [
+    "yerinizi",
+    "Paşa"
+   ],
+   "image": {
+    "file": "File:Çerkes Abdi Pasha.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kanun sivil rütbeleri ve nişanları da kaldırdı. Yalnızca savaş madalyalarına dokunulmadı. Ordudaki paşalar ise artık “general”, “amiral” ya da “mareşal” olacaktı.",
+   "caption": "Kanun sivil rütbeleri ve nişanları da kaldırdı. Yalnızca savaş madalyalarına dokunulmadı. Ordudaki paşalar ise artık “general”, “amiral” ya da “mareşal” olacaktı.",
+   "key": [
+    "nişanları",
+    "general"
+   ],
+   "image": {
+    "file": "File:Shefket Pasha (portrait) - btv1b69216817.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki, “Bey” yerine ne denecekti? Ertesi gün Milliyet gazetesi manşetten duyurdu: Erkeğe “Bay”, kadına “Bayan” denecekti.",
+   "caption": "Peki, “Bey” yerine ne denecekti? Ertesi gün Milliyet gazetesi manşetten duyurdu: Erkeğe “Bay”, kadına “Bayan” denecekti.",
+   "key": [
+    "Bay",
+    "Bayan"
+   ],
+   "image": {
+    "local": "assets/belgeler/035_mil_bay.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 27 Kasım 1934, s. 1",
+    "lisans": "Dönem belgesi (kamu malı)",
+    "kaynak": "Milliyet, 27 Kasım 1934, s. 1",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "MİLLİYET · 27 KASIM 1934",
+    "baslik": "Erkeğe Bay, kadına Bayan",
+    "bekle": 3.2
+   }
+  },
+  {
+   "say": "İlginçtir, bu kelimeler kanunda geçmiyordu. Kanunda hiçbir ceza maddesi de yoktu.",
+   "caption": "İlginçtir, bu kelimeler kanunda geçmiyordu. Kanunda hiçbir ceza maddesi de yoktu.",
+   "key": [
+    "geçmiyordu",
+    "ceza"
+   ],
+   "image": {
+    "local": "assets/belgeler/035_rg_kanun.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 29 Kasım 1934, sayı 2867",
+    "lisans": "Dönem belgesi (kamu malı)",
+    "kaynak": "Resmî Gazete, 29 Kasım 1934, sayı 2867",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu kanundan sadece iki gün önce Meclis, Mustafa Kemal'e “Atatürk” soyadını vermişti.",
+   "caption": "Bu kanundan sadece iki gün önce Meclis, Mustafa Kemal'e “Atatürk” soyadını vermişti.",
+   "key": [
+    "Atatürk"
+   ],
+   "image": {
+    "file": "File:Atatürk, Ankara, 9 Mayıs 1935.png",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "24 KASIM 1934",
+    "baslik": "Atatürk soyadı",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Kanun resmî belgeleri değiştirdi. Ama halkın dilinden “Bey” ve “Hanım” hiç çıkmadı. Bugün hâlâ kullanıyoruz.",
+   "caption": "Kanun resmî belgeleri değiştirdi. Ama halkın dilinden “Bey” ve “Hanım” hiç çıkmadı. Bugün hâlâ kullanıyoruz.",
+   "key": [
+    "Bey",
+    "Hanım"
+   ],
+   "image": {
+    "file": "File:Turkey. Ankara. An old parliament building. Bus in front LOC matpc.16726.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki, sizin ailenizde “Ağa”, “Hoca” ya da “Hacı” diye anılan biri var mı? Yorumlarda bizimle paylaşın.",
+   "caption": "Peki, sizin ailenizde “Ağa”, “Hoca” ya da “Hacı” diye anılan biri var mı? Yorumlarda bizimle paylaşın.",
+   "key": [
+    "ailenizde",
+    "Yorumlarda"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-017.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:Ali Saib Pasha (2).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:SeyhunBinzet Ataturk 16.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  }
+ ],
+ "revizyon": 1
+}
