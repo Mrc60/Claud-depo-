@@ -1,16 +1,48 @@
 {
  "bolum": "036_koca_izni",
  "min_w": 800,
- "sorgular": [
-  "Ottoman Bank Personnel",
-  "tobacco workers women Turkey",
-  "Izmir tobacco women",
-  "SALT Research women workers",
-  "Turkish women telephone operators",
-  "Turkish woman teacher 1930s",
-  "women weaving Anatolia 1930s",
-  "Turkey in Photographs DGPI women"
- ],
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Ottoman Bank Personnel, Hadiye Cezmi (13080339214).jpg",
+   "ad": "k01.jpg"
+  },
+  {
+   "file": "File:Ottoman Bank Personnel, Rebecca Benveniste (13080145973).jpg",
+   "ad": "k02.jpg"
+  },
+  {
+   "file": "File:Ottoman Bank Personnel, Suzette Agah Hasib (13080147473).jpg",
+   "ad": "k03.jpg"
+  },
+  {
+   "file": "File:Ottoman Bank Personnel, Haydoux Valentine (13080338794).jpg",
+   "ad": "k04.jpg"
+  },
+  {
+   "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+   "ad": "k05.jpg"
+  },
+  {
+   "file": "File:Turkish holiday.jpg",
+   "ad": "k06.jpg"
+  },
+  {
+   "file": "File:Tamburasaz-Baglamasaz.jpg",
+   "ad": "k07.jpg"
+  },
+  {
+   "file": "File:Izmir Alsancak Kordon 6342.jpg",
+   "ad": "k08.jpg"
+  },
+  {
+   "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+   "ad": "k09.jpg"
+  },
+  {
+   "file": "File:Kordon, 2005.jpg",
+   "ad": "k10.jpg"
+  }
+ ]
 }
