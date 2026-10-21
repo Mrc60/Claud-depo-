@@ -1,5 +1,5 @@
-# unvan
-rg2867.pdf https://www.resmigazete.gov.tr/arsiv/2867.pdf
-cum341127.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1934/cumhuriyet_1934_tesrinisani_/cumhuriyet_1934_tesrinisani_27_.pdf
-ya341128.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/yeniasir/yeniasir_1934/yeni%20asir_1934_tesrinisani_/yeni%20asir_1934_tesrinisani_28_.pdf
-mil341127.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1934/milliyet_1934_tesrinisani_/milliyet_1934_tesrinisani_27_.pdf
+# koca izni
+rg339.pdf https://www.resmigazete.gov.tr/arsiv/339T.pdf
+rg21272.pdf https://www.resmigazete.gov.tr/arsiv/21272.pdf
+mil901130.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1990/milliyet_1990_kasim_/milliyet_1990_kasim_30_.pdf
+mil901201.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1990/milliyet_1990_aralik_/milliyet_1990_aralik_1_.pdf
