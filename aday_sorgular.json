@@ -1,20 +1,56 @@
 {
  "bolum": "035_unvan",
  "min_w": 800,
- "sorgular": [
-  "Ottoman pasha portrait photograph",
-  "Abdullah Frères pasha",
-  "Ottoman hodja photograph 19th century",
-  "Ottoman agha village photograph",
-  "Grand National Assembly of Turkey 1930s",
-  "Fevzi Çakmak marshal",
-  "Ottoman orders decorations Medjidie",
-  "Istanbul street 1930s",
-  "Ankara 1930s people",
-  "Turkish village elders 1930s",
-  "Annemarie Schwarzenbach Türkei 1934",
-  "Ottoman effendi photograph"
- ],
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Shefket Pasha (portrait) - btv1b69216817.jpg",
+   "ad": "u03.jpg"
+  },
+  {
+   "file": "File:Ali Saib Pasha (2).jpg",
+   "ad": "u07.jpg"
+  },
+  {
+   "file": "File:Çerkes Abdi Pasha.jpg",
+   "ad": "u08.jpg"
+  },
+  {
+   "file": "File:Turkey. Ankara. An old parliament building. Bus in front LOC matpc.16726.jpg",
+   "ad": "u13.jpg"
+  },
+  {
+   "file": "File:SeyhunBinzet Ataturk 16.jpg",
+   "ad": "u15.jpg"
+  },
+  {
+   "file": "File:Atatürk, Trakya Manevraları (4).jpg",
+   "ad": "u18.jpg"
+  },
+  {
+   "file": "File:Medal, order (AM 809240-1).jpg",
+   "ad": "u21.jpg"
+  },
+  {
+   "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+   "ad": "u40.jpg"
+  },
+  {
+   "file": "File:Atatürk, Ankara, 9 Mayıs 1935.png",
+   "ad": "u41.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-017.jpg",
+   "ad": "u44.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-013.jpg",
+   "ad": "u43.jpg"
+  },
+  {
+   "file": "File:10th Anniversary Speech.jpg",
+   "ad": "u16.jpg"
+  }
+ ]
 }
