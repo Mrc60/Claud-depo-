@@ -1,0 +1,358 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 36,
+ "slug": "koca_izni",
+ "title": "Koca İzni",
+ "youtube_title": "1990'a kadar kadın çalışmak için kocasından izin alırdı #SıradanDeğil 36",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/036_koca_izni.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     3.84
+    ]
+   ],
+   [
+    [
+     4.66,
+     10.52
+    ]
+   ],
+   [
+    [
+     10.8,
+     20.28
+    ]
+   ],
+   [
+    [
+     20.92,
+     23.34
+    ],
+    [
+     23.86,
+     30.9
+    ]
+   ],
+   [
+    [
+     31.18,
+     41.28
+    ]
+   ],
+   [
+    [
+     41.46,
+     51.1
+    ]
+   ],
+   [
+    [
+     51.32,
+     57.36
+    ]
+   ],
+   [
+    [
+     57.6,
+     65.62
+    ]
+   ],
+   [
+    [
+     66.22,
+     74.54
+    ]
+   ],
+   [
+    [
+     75.18,
+     81.54
+    ]
+   ],
+   [
+    [
+     81.94,
+     89.86
+    ]
+   ],
+   [
+    [
+     90.58,
+     96.0
+    ],
+    [
+     96.52,
+     98.8
+    ]
+   ],
+   [
+    [
+     99.02,
+     105.44
+    ]
+   ],
+   [
+    [
+     105.44,
+     112.18
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir türkücü kadın, 60 yıllık bir kanunu yıktı.",
+   "caption": "Bir türkücü kadın, 60 yıllık bir kanunu yıktı.",
+   "key": [
+    "türkücü",
+    "yıktı"
+   ],
+   "image": {
+    "file": "File:Tamburasaz-Baglamasaz.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "BİR TÜRKÜCÜ KADIN",
+    "baslik": "60 yıllık kanunu yıktı",
+    "bekle": 0.0
+   }
+  },
+  {
+   "say": "1926'dan beri evli bir kadının çalışması, kanunen kocasının iznine bağlıydı.",
+   "caption": "1926'dan beri evli bir kadının çalışması, kanunen kocasının iznine bağlıydı.",
+   "key": [
+    "kocasının",
+    "iznine"
+   ],
+   "image": {
+    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0,
+     0,
+     0.55,
+     1
+    ]
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1926",
+    "baslik": "Kocanın izni",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Medeni Kanun'un 159. maddesi şöyle diyordu: Kadın, kocasının açık ya da örtülü izniyle bir iş veya sanatla uğraşabilirdi.",
+   "caption": "Medeni Kanun'un 159. maddesi şöyle diyordu: Kadın, kocasının açık ya da örtülü izniyle bir iş veya sanatla uğraşabilirdi.",
+   "key": [
+    "159.",
+    "izniyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/036_rg339_m159.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 4 Nisan 1926, sayı 339",
+    "lisans": "Resmî belge (kamu malı)",
+    "kaynak": "Resmî Gazete, 4 Nisan 1926, sayı 339",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "MEDENİ KANUN",
+    "baslik": "Madde 159",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Peki, koca izin vermezse ne oluyordu? Kadın mahkemeye gidebiliyordu. Ama çalışmasının ailenin yararına olduğunu ispat etmek zorundaydı.",
+   "caption": "Peki, koca izin vermezse ne oluyordu? Kadın mahkemeye gidebiliyordu. Ama çalışmasının ailenin yararına olduğunu ispat etmek zorundaydı.",
+   "key": [
+    "mahkemeye",
+    "ispat"
+   ],
+   "image": {
+    "file": "File:Ottoman Bank Personnel, Rebecca Benveniste (13080145973).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Koca isterse karısını çalışmaktan men edebiliyor, bunu noter aracılığıyla ilan ettirebiliyordu. Bu kural 60 yılı aşkın süre yürürlükte kaldı.",
+   "caption": "Koca isterse karısını çalışmaktan men edebiliyor, bunu noter aracılığıyla ilan ettirebiliyordu. Bu kural 60 yılı aşkın süre yürürlükte kaldı.",
+   "key": [
+    "men",
+    "60"
+   ],
+   "image": {
+    "file": "File:Ottoman Bank Personnel, Haydoux Valentine (13080338794).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ta ki İzmir'deki bir davaya kadar. Turistik mekânlarda türkü söyleyen bir kadın sanatçının kocası, önce çalışmasına izin vermişti.",
+   "caption": "Ta ki İzmir'deki bir davaya kadar. Turistik mekânlarda türkü söyleyen bir kadın sanatçının kocası, önce çalışmasına izin vermişti.",
+   "key": [
+    "İzmir'deki",
+    "türkü"
+   ],
+   "image": {
+    "file": "File:Kordon, 2005.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "İZMİR",
+    "baslik": "Bir türkücünün davası",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Kadın boşanma davası açınca, koca iznini geri aldı. Kadın mahkemeye başvurdu.",
+   "caption": "Kadın boşanma davası açınca, koca iznini geri aldı. Kadın mahkemeye başvurdu.",
+   "key": [
+    "geri",
+    "başvurdu"
+   ],
+   "image": {
+    "file": "File:Tamburasaz-Baglamasaz.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "İzmir 4. Sulh Hukuk Mahkemesi, bu maddenin Anayasa'ya aykırı olduğunu düşündü ve konuyu Anayasa Mahkemesi'ne taşıdı.",
+   "caption": "İzmir 4. Sulh Hukuk Mahkemesi, bu maddenin Anayasa'ya aykırı olduğunu düşündü ve konuyu Anayasa Mahkemesi'ne taşıdı.",
+   "key": [
+    "Anayasa"
+   ],
+   "image": {
+    "local": "assets/belgeler/036_rg21272_aym.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 2 Temmuz 1992, sayı 21272",
+    "lisans": "Resmî belge (kamu malı)",
+    "kaynak": "Resmî Gazete, 2 Temmuz 1992, sayı 21272",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "29 Kasım 1990'da Anayasa Mahkemesi, maddeyi eşitlik ilkesine aykırı bularak oybirliğiyle iptal etti.",
+   "caption": "29 Kasım 1990'da Anayasa Mahkemesi, maddeyi eşitlik ilkesine aykırı bularak oybirliğiyle iptal etti.",
+   "key": [
+    "eşitlik",
+    "iptal"
+   ],
+   "image": {
+    "file": "File:Ottoman Bank Personnel, Suzette Agah Hasib (13080147473).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "29 KASIM 1990",
+    "baslik": "Oybirliğiyle iptal",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Yani bir türkücü kadının davası, 60 yılı aşkın süredir yürürlükte olan bir kuralı değiştirdi.",
+   "caption": "Yani bir türkücü kadının davası, 60 yılı aşkın süredir yürürlükte olan bir kuralı değiştirdi.",
+   "key": [
+    "değiştirdi"
+   ],
+   "image": {
+    "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama “koca birliğin reisidir” hükmü, 2001'de yeni Medeni Kanun kabul edilene kadar kanunda kaldı.",
+   "caption": "Ama “koca birliğin reisidir” hükmü, 2001'de yeni Medeni Kanun kabul edilene kadar kanunda kaldı.",
+   "key": [
+    "reisidir",
+    "2001'de"
+   ],
+   "image": {
+    "file": "File:Turkish holiday.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "2001",
+    "baslik": "Yeni Medeni Kanun",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Sizce bir kadının çalışmak için kocasından izin almak zorunda olması nasıl bir durumdu? Yorumlarda düşüncelerinizi paylaşın.",
+   "caption": "Sizce bir kadının çalışmak için kocasından izin almak zorunda olması nasıl bir durumdu? Yorumlarda düşüncelerinizi paylaşın.",
+   "key": [
+    "izin",
+    "Yorumlarda"
+   ],
+   "image": {
+    "file": "File:Ottoman Bank Personnel, Hadiye Cezmi (13080339214).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:Izmir Alsancak Kordon 6342.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo"
+  }
+ ],
+ "revizyon": 1
+}
