@@ -1,0 +1,283 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 38,
+ "slug": "bisiklet",
+ "title": "Bisiklet Ehliyeti",
+ "youtube_title": "1934'te İstanbul'da bisiklete ehliyetsiz binmek yasaktı! #SıradanDeğil 38",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/038_bisiklet.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     5.3
+    ]
+   ],
+   [
+    [
+     5.52,
+     15.02
+    ]
+   ],
+   [
+    [
+     15.22,
+     23.34
+    ]
+   ],
+   [
+    [
+     23.56,
+     25.62
+    ],
+    [
+     25.62,
+     30.42
+    ]
+   ],
+   [
+    [
+     30.6,
+     38.56
+    ]
+   ],
+   [
+    [
+     39.02,
+     43.92
+    ]
+   ],
+   [
+    [
+     44.32,
+     56.28
+    ]
+   ],
+   [
+    [
+     56.78,
+     70.96
+    ]
+   ],
+   [
+    [
+     71.56,
+     89.98
+    ]
+   ],
+   [
+    [
+     90.52,
+     98.06
+    ]
+   ],
+   [
+    [
+     98.52,
+     114.92
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1,
+ "segments": [
+  {
+   "say": "1934'te İstanbul'da ehliyetsiz bisiklete binmek yasaktı!",
+   "caption": "1934'te İstanbul'da ehliyetsiz bisiklete binmek yasaktı!",
+   "key": [
+    "ehliyetsiz",
+    "yasaktı!"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_ehliyetname_ust.jpg",
+    "fit": "tam",
+    "baslik": "Bisiklet Ehliyetnamesi, 1950",
+    "lisans": "",
+    "kaynak": "İnternet paylaşımı, özgün kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aralık 1934'te İstanbul Belediyesi gazetelere bir ilan verdi. Bisiklet kullanmak isteyen herkes ehliyet almak zorundaydı.",
+   "caption": "Aralık 1934'te İstanbul Belediyesi gazetelere bir ilan verdi. Bisiklet kullanmak isteyen herkes ehliyet almak zorundaydı.",
+   "key": [
+    "ilan",
+    "ehliyet"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_cum341218_ilan.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 18 Aralık 1934",
+    "lisans": "",
+    "kaynak": "Cumhuriyet, 18 Birincikânun 1934",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bisikleti olanlara bir ay süre tanındı. Bu süre içinde ehliyet almayanların bisikletle sokağa çıkması yasaklanacaktı.",
+   "caption": "Bisikleti olanlara bir ay süre tanındı. Bu süre içinde ehliyet almayanların bisikletle sokağa çıkması yasaklanacaktı.",
+   "key": [
+    "bir",
+    "ay",
+    "yasaklanacaktı."
+   ],
+   "image": {
+    "local": "assets/belgeler/038_talimhane1929.jpg",
+    "fit": "tam",
+    "baslik": "Talimhane, İstanbul, 1929",
+    "lisans": "",
+    "kaynak": "SIBA Graz (Cengiz Kahraman koleksiyonu), CC BY-NC-SA",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki, ehliyet nasıl alınıyordu? Emniyete dilekçe verilecek, üç vesikalık fotoğraf eklenecekti.",
+   "caption": "Peki, ehliyet nasıl alınıyordu? Emniyete dilekçe verilecek, üç vesikalık fotoğraf eklenecekti.",
+   "key": [
+    "dilekçe",
+    "fotoğraf"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_cum341218_madde4.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 18 Aralık 1934",
+    "lisans": "",
+    "kaynak": "Cumhuriyet, 18 Birincikânun 1934",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "On yaşını doldurmayanlar ehliyet alamıyordu. Ehliyet ücretsizdi; yalnızca cüzdanı için yirmi beş kuruş alınıyordu.",
+   "caption": "On yaşını doldurmayanlar ehliyet alamıyordu. Ehliyet ücretsizdi; yalnızca cüzdanı için yirmi beş kuruş alınıyordu.",
+   "key": [
+    "On",
+    "yaşını",
+    "yirmi",
+    "beş",
+    "kuruş"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_foto_tahir.jpg",
+    "fit": "tam",
+    "baslik": "Bisiklet takımı, Foto Tahir",
+    "lisans": "",
+    "kaynak": "Özgün kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Üstelik ehliyetsiz bir çocuk kurala uymazsa hesabını velisi verecekti.",
+   "caption": "Üstelik ehliyetsiz bir çocuk kurala uymazsa hesabını velisi verecekti.",
+   "key": [
+    "velisi"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_cum341218_madde10.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 18 Aralık 1934",
+    "lisans": "",
+    "kaynak": "Cumhuriyet, 18 Birincikânun 1934",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama hikâye burada başlamıyordu. 1906'da İstanbul'da her bisiklete bir numara verildi. Sahibinin adı deftere kaydedildi ve bisiklet başına yarım lira alındı.",
+   "caption": "Ama hikâye burada başlamıyordu. 1906'da İstanbul'da her bisiklete bir numara verildi. Sahibinin adı deftere kaydedildi ve bisiklet başına yarım lira alındı.",
+   "key": [
+    "numara",
+    "yarım",
+    "lira"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_postacilar.jpg",
+    "fit": "tam",
+    "baslik": "Bisikletli postacılar, İstanbul, y. 1890-1910",
+    "lisans": "",
+    "kaynak": "Wikimedia Commons, PTT Müzesi, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1948'de çıkarılan kanunla belediyelerin bisikletlere numara plakası vermesi kurala bağlandı. Bisikletlerden ayda en fazla elli kuruş alınabiliyordu. Kişisel bisikletler içinse bunun yarısı ödeniyordu.",
+   "caption": "1948'de çıkarılan kanunla belediyelerin bisikletlere numara plakası vermesi kurala bağlandı. Bisikletlerden ayda en fazla elli kuruş alınabiliyordu. Kişisel bisikletler içinse bunun yarısı ödeniyordu.",
+   "key": [
+    "plakası",
+    "elli",
+    "kuruş",
+    "yarısı"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_bisiklet_kadin.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "Özgün kaynak doğrulanmadı (Base44: SIBA Graz)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yıllar sonra Hatay'da yaşayan Mehmet Fatih Kılıç, 1960'larda belediyenin sınavına girerek bisiklet ehliyeti aldı. Bir gün yoldan geçen birinin üzerine su sıçrattığı için beş lira ceza yedi. Üstelik anlattığına göre bu ceza, ehliyetinde hâlâ yazıyor.",
+   "caption": "Yıllar sonra Hatay'da yaşayan Mehmet Fatih Kılıç, 1960'larda belediyenin sınavına girerek bisiklet ehliyeti aldı. Bir gün yoldan geçen birinin üzerine su sıçrattığı için beş lira ceza yedi. Üstelik anlattığına göre bu ceza, ehliyetinde hâlâ yazıyor.",
+   "key": [
+    "sınavına",
+    "beş",
+    "lira",
+    "ceza"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_ehliyetname.jpg",
+    "fit": "tam",
+    "baslik": "Bisiklet Ehliyetnamesi, 1950",
+    "lisans": "",
+    "kaynak": "İnternet paylaşımı, özgün kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bugün bisiklete binmek için ehliyet gerekmiyor. Peki siz o yıllarda yaşasaydınız, bu kurala tepkiniz ne olurdu?",
+   "caption": "Bugün bisiklete binmek için ehliyet gerekmiyor. Peki siz o yıllarda yaşasaydınız, bu kurala tepkiniz ne olurdu?",
+   "key": [
+    "tepkiniz"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_mecidiyekoy1930.jpg",
+    "fit": "tam",
+    "baslik": "Mecidiyeköy, 1 Mayıs 1930",
+    "lisans": "",
+    "kaynak": "SALT (Base44'e göre)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/038_simsek_kart.jpg",
+    "fit": "tam",
+    "baslik": "Galata, bisiklet ticarethanesi kartviziti",
+    "lisans": "",
+    "kaynak": "SALT (Base44'e göre)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
