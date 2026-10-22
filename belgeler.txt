@@ -1,5 +1,5 @@
-# koca izni
-rg339.pdf https://www.resmigazete.gov.tr/arsiv/339T.pdf
-rg21272.pdf https://www.resmigazete.gov.tr/arsiv/21272.pdf
-mil901130.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1990/milliyet_1990_kasim_/milliyet_1990_kasim_30_.pdf
-mil901201.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/milliyet/milliyet_1990/milliyet_1990_aralik_/milliyet_1990_aralik_1_.pdf
+# salvar
+cum350109.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1935/cumhuriyet_1935_ikincikanun_/cumhuriyet_1935_ikincikanun_9_.pdf
+aks350722.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1935/aksam_1935_temmuz_/aksam_1935_temmuz_22_.pdf
+aks520501.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1952/aksam_1952_mayis_/aksam_1952_mayis_1_.pdf
+aks520502.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1952/aksam_1952_mayis_/aksam_1952_mayis_2_.pdf
