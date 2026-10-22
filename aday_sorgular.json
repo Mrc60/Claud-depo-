@@ -1,24 +1,19 @@
 {
  "bolum": "038_bisiklet",
- "min_w": 600,
- "sorgular": [
-  "Turkey in Photographs bicycle",
-  "DGPI bicycle",
-  "bisiklet 1930",
-  "bisiklet 1950",
-  "bisikletli",
-  "Cumhuriyet bisiklet",
-  "Aksam bisiklet",
-  "bicycle Turkey 1930s village",
-  "Turkish soldier bicycle",
-  "Bisiklet yarışı 1930",
-  "bicycle LOC matpc Turkey",
-  "Ankara bicycle 1930s photo",
-  "Istanbul 1950s street bicycle",
-  "Izmir 1930s bicycle",
-  "velocipede Constantinople",
-  "Ara Güler bisiklet"
+ "min_w": 500,
+ "sorgular": [],
+ "incele": [
+  "File:Turkish postmen.jpg",
+  "File:Bicycle Beyoglu 4715.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Turkish postmen.jpg",
+   "ad": "b01.jpg"
+  },
+  {
+   "file": "File:Bicycle Beyoglu 4715.jpg",
+   "ad": "b02.jpg"
+  }
+ ]
 }
