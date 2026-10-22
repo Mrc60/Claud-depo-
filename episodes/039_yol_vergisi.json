@@ -1,0 +1,301 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 39,
+ "slug": "yol_vergisi",
+ "title": "Yol Vergisi",
+ "youtube_title": "Ödenmemiş 6 lira yol parası yüzünden sobası satıldı! #SıradanDeğil 39",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/039_yol_vergisi.mp3",
+  "kesimler": [
+   [
+    [
+     0.98,
+     6.9
+    ],
+    [
+     7.08,
+     9.8
+    ]
+   ],
+   [
+    [
+     10.1,
+     13.56
+    ]
+   ],
+   [
+    [
+     14.52,
+     23.1
+    ]
+   ],
+   [
+    [
+     23.3,
+     32.48
+    ]
+   ],
+   [
+    [
+     32.86,
+     39.04
+    ]
+   ],
+   [
+    [
+     39.94,
+     50.62
+    ]
+   ],
+   [
+    [
+     50.78,
+     61.16
+    ]
+   ],
+   [
+    [
+     61.64,
+     73.62
+    ]
+   ],
+   [
+    [
+     74.16,
+     78.7
+    ]
+   ],
+   [
+    [
+     79.14,
+     87.14
+    ]
+   ],
+   [
+    [
+     87.58,
+     93.44
+    ]
+   ],
+   [
+    [
+     93.72,
+     110.32
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1,
+ "segments": [
+  {
+   "say": "1935'te İstanbul'da eski bir soba ile bir karyola satışa çıkarıldı. Sebebi? Ödenmemiş altı lira yol parası.",
+   "caption": "1935'te İstanbul'da eski bir soba ile bir karyola satışa çıkarıldı. Sebebi? Ödenmemiş altı lira yol parası.",
+   "key": [
+    "soba",
+    "karyola",
+    "altı",
+    "lira"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_17_istanbul_el_arabasi.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bir zamanlar Türkiye'de yol yapmak, halkın da göreviydi.",
+   "caption": "Bir zamanlar Türkiye'de yol yapmak, halkın da göreviydi.",
+   "key": [
+    "halkın",
+    "göreviydi."
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_12.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1929'da çıkan Şose ve Köprüler Kanunu'na göre, on sekiz yaşından altmış yaşına kadar her erkek yol mükellefiydi.",
+   "caption": "1929'da çıkan Şose ve Köprüler Kanunu'na göre, on sekiz yaşından altmış yaşına kadar her erkek yol mükellefiydi.",
+   "key": [
+    "her",
+    "erkek"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_rg1214_ust.jpg",
+    "fit": "tam",
+    "baslik": "Resmî Gazete, 12 Haziran 1929",
+    "lisans": "",
+    "kaynak": "Resmî Gazete, sayı 1214",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Her yıl on günlük iş kadar yol ve köprü yapımında bedenen çalışacaktı. Evinden on iki saat uzaklıktaki bir yolda bile çalıştırılabilirdi.",
+   "caption": "Her yıl on günlük iş kadar yol ve köprü yapımında bedenen çalışacaktı. Evinden on iki saat uzaklıktaki bir yolda bile çalıştırılabilirdi.",
+   "key": [
+    "on",
+    "günlük",
+    "on",
+    "iki",
+    "saat"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_08.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Çalışmak istemeyense sekiz lira yol parası ödeyecekti. Peki sekiz lira ne demekti?",
+   "caption": "Çalışmak istemeyense sekiz lira yol parası ödeyecekti. Peki sekiz lira ne demekti?",
+   "key": [
+    "sekiz",
+    "lira"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_10.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1930'da bir gazetede yazana göre, bir rençber günde yaklaşık bir lira kazanıyordu. Yani yol parası, bir haftadan uzun bir emeğin karşılığıydı.",
+   "caption": "1930'da bir gazetede yazana göre, bir rençber günde yaklaşık bir lira kazanıyordu. Yani yol parası, bir haftadan uzun bir emeğin karşılığıydı.",
+   "key": [
+    "bir",
+    "lira",
+    "bir",
+    "haftadan"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kanun bazılarını muaf tutuyordu. Öğrenciler, askerler ve sakatlığı belgeli yoksullar bu yükten kurtuluyordu. Hayatta beş çocuğu olan babalar da öyle.",
+   "caption": "Kanun bazılarını muaf tutuyordu. Öğrenciler, askerler ve sakatlığı belgeli yoksullar bu yükten kurtuluyordu. Hayatta beş çocuğu olan babalar da öyle.",
+   "key": [
+    "muaf",
+    "beş",
+    "çocuğu"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_06.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama vergi, zengine de fakire de aynıydı. 1930'da bir gazete şöyle yazdı: \"Bir çoban, bir köylü ve Samsun'daki bir milyoner de on lirayı veriyor.\"",
+   "caption": "Ama vergi, zengine de fakire de aynıydı. 1930'da bir gazete şöyle yazdı: \"Bir çoban, bir köylü ve Samsun'daki bir milyoner de on lirayı veriyor.\"",
+   "key": [
+    "zengine",
+    "fakire",
+    "milyoner"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_07.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ödeyemeyenlerin eşyasına haciz konuldu, bazıları hapse bile girdi.",
+   "caption": "Ödeyemeyenlerin eşyasına haciz konuldu, bazıları hapse bile girdi.",
+   "key": [
+    "haciz",
+    "hapse"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu uygulama 1952'de kaldırıldı. Yolların parası artık akaryakıttan alınan vergiyle karşılanacaktı.",
+   "caption": "Bu uygulama 1952'de kaldırıldı. Yolların parası artık akaryakıttan alınan vergiyle karşılanacaktı.",
+   "key": [
+    "1952'de",
+    "akaryakıttan"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_18_aksaray_makine.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki sizin ailenizde yol parası ödediğini ya da yolda çalıştığını anlatan biri oldu mu?",
+   "caption": "Peki sizin ailenizde yol parası ödediğini ya da yolda çalıştığını anlatan biri oldu mu?",
+   "key": [
+    "ailenizde"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_02.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/039_yol_09.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "TEK1 tarafından sağlandı, kaynak doğrulanmadı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
