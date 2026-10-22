@@ -1,5 +1,4 @@
-# salvar
-cum350109.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1935/cumhuriyet_1935_ikincikanun_/cumhuriyet_1935_ikincikanun_9_.pdf
-aks350722.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1935/aksam_1935_temmuz_/aksam_1935_temmuz_22_.pdf
-aks520501.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1952/aksam_1952_mayis_/aksam_1952_mayis_1_.pdf
-aks520502.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1952/aksam_1952_mayis_/aksam_1952_mayis_2_.pdf
+# salvar 2
+cum341118.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1934/cumhuriyet_1934_tesrinisani_/cumhuriyet_1934_tesrinisani_18_.pdf
+aks340307.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1934/aksam_1934_mart_/aksam_1934_mart_7_.pdf
+vak340522.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mayis_/vakit_1934_mayis_22_.pdf
