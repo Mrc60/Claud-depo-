@@ -1,4 +1,2 @@
-# salvar 2
-cum341118.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1934/cumhuriyet_1934_tesrinisani_/cumhuriyet_1934_tesrinisani_18_.pdf
-aks340307.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/aksam/aksam_1934/aksam_1934_mart_/aksam_1934_mart_7_.pdf
-vak340522.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1934/vakit_1934_mayis_/vakit_1934_mayis_22_.pdf
+# bisiklet
+rg1471.pdf https://www.resmigazete.gov.tr/arsiv/1471.pdf
