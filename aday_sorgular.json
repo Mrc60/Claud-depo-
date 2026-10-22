@@ -1,18 +1,40 @@
 {
  "bolum": "037_salvar",
  "min_w": 800,
- "sorgular": [
-  "Studio portrait of models wearing traditional clothing from the province of Adana",
-  "Studio portrait traditional clothing province Ottoman Empire LCCN",
-  "Matson Turkey peasants",
-  "Turkey village men LOC matpc",
-  "Zeybek photograph",
-  "Anatolian peasant men 1920s photograph",
-  "Annemarie Schwarzenbach Türkei Bauern",
-  "Turkey in Photographs farmers 1930s",
-  "Turkey in Photographs cotton",
-  "Ottoman porter hamal photograph"
- ],
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Studio portrait of models wearing traditional clothing from the province of Adana, Ottoman Empire LCCN2004666948.jpg",
+   "ad": "s01.jpg"
+  },
+  {
+   "file": "File:Studio portrait of models wearing traditional clothing from the province of Sivas, Ottoman Empire LCCN2004666911.jpg",
+   "ad": "s02.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-122.jpg",
+   "ad": "s03.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
+   "ad": "s04.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
+   "ad": "s05.jpg"
+  },
+  {
+   "file": "File:Tadeusz Vetulani w Turcji odwiedza rolników.jpg",
+   "ad": "s06.jpg"
+  },
+  {
+   "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+   "ad": "s07.jpg"
+  },
+  {
+   "file": "File:Mersina. Mersina from the sea LOC matpc.02199.jpg",
+   "ad": "s08.jpg"
+  }
+ ]
 }
