@@ -141,13 +141,7 @@
     "kaynak": "Cumhuriyet, 9 Ocak 1935",
     "sayfa": ""
    },
-   "scene": "photo",
-   "anim": {
-    "tur": "kart",
-    "ust": "1935 · ADANA",
-    "baslik": "Şalvar yasak!",
-    "bekle": 0.0
-   }
+   "scene": "photo"
   },
   {
    "say": "Bu yasak, Ankara'dan çıkan bir kanunla değil, Adana'nın kendi meclislerinin aldığı kararla geldi.",
@@ -323,13 +317,7 @@
     "kaynak": "Cumhuriyet, 9 Ocak 1935",
     "sayfa": ""
    },
-   "scene": "photo",
-   "anim": {
-    "tur": "kart",
-    "ust": "DÜN · BUGÜN",
-    "baslik": "Aynı adam",
-    "bekle": 0.8
-   }
+   "scene": "photo"
   },
   {
    "say": "Ama şalvar gerçekten tarihe karıştı mı? Hayır. Yıllar içinde yeniden sokaklara döndü.",
@@ -361,7 +349,13 @@
    "image": {
     "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-122.jpg",
     "fit": "tam",
-    "min_w": 500
+    "min_w": 500,
+    "kirp": [
+     0.52,
+     0.12,
+     0.97,
+     0.92
+    ]
    },
    "scene": "photo",
    "anim": {
@@ -395,7 +389,13 @@
    "image": {
     "file": "File:Mersina. Mersina from the sea LOC matpc.02199.jpg",
     "fit": "tam",
-    "min_w": 500
+    "min_w": 500,
+    "kirp": [
+     0.02,
+     0.05,
+     0.49,
+     0.95
+    ]
    },
    "scene": "photo"
   },
@@ -439,5 +439,5 @@
    "scene": "photo"
   }
  ],
- "revizyon": 1
+ "revizyon": 2
 }
