@@ -1,0 +1,443 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 37,
+ "slug": "salvar",
+ "title": "Şalvar Yasağı",
+ "youtube_title": "1935'te Adana'da şalvar giymek yasaktı! #SıradanDeğil 37",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/037_salvar.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.18
+    ]
+   ],
+   [
+    [
+     4.36,
+     10.62
+    ]
+   ],
+   [
+    [
+     11.14,
+     21.22
+    ]
+   ],
+   [
+    [
+     21.78,
+     32.64
+    ]
+   ],
+   [
+    [
+     32.82,
+     35.36
+    ],
+    [
+     35.88,
+     43.58
+    ]
+   ],
+   [
+    [
+     43.72,
+     50.82
+    ]
+   ],
+   [
+    [
+     50.82,
+     60.32
+    ]
+   ],
+   [
+    [
+     60.58,
+     66.62
+    ]
+   ],
+   [
+    [
+     67.2,
+     74.28
+    ]
+   ],
+   [
+    [
+     74.48,
+     80.72
+    ]
+   ],
+   [
+    [
+     81.28,
+     83.74
+    ],
+    [
+     84.26,
+     87.84
+    ]
+   ],
+   [
+    [
+     88.48,
+     97.06
+    ]
+   ],
+   [
+    [
+     97.24,
+     100.32
+    ],
+    [
+     100.84,
+     109.56
+    ]
+   ],
+   [
+    [
+     110.02,
+     113.5
+    ],
+    [
+     113.72,
+     115.72
+    ]
+   ],
+   [
+    [
+     116.12,
+     122.54
+    ]
+   ],
+   [
+    [
+     122.98,
+     128.94
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "1935'te Adana'da şalvar giymek yasaktı.",
+   "caption": "1935'te Adana'da şalvar giymek yasaktı.",
+   "key": [
+    "şalvar",
+    "yasaktı"
+   ],
+   "image": {
+    "local": "assets/belgeler/salvar_cum350109_foto.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 9 Ocak 1935",
+    "lisans": "Dönem gazetesi (kamu malı)",
+    "kaynak": "Cumhuriyet, 9 Ocak 1935",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1935 · ADANA",
+    "baslik": "Şalvar yasak!",
+    "bekle": 0.0
+   }
+  },
+  {
+   "say": "Bu yasak, Ankara'dan çıkan bir kanunla değil, Adana'nın kendi meclislerinin aldığı kararla geldi.",
+   "caption": "Bu yasak, Ankara'dan çıkan bir kanunla değil, Adana'nın kendi meclislerinin aldığı kararla geldi.",
+   "key": [
+    "Adana'nın",
+    "kararla"
+   ],
+   "image": {
+    "file": "File:Studio portrait of models wearing traditional clothing from the province of Adana, Ottoman Empire LCCN2004666948.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.2,
+     0.18,
+     0.86,
+     0.8
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Mart 1934'te Adana Vilayet Meclisi'ne bir önerge verildi. Akşam gazetesine göre gerekçe şuydu: Karadon, külhanbeyliği besliyordu.",
+   "caption": "Mart 1934'te Adana Vilayet Meclisi'ne bir önerge verildi. Akşam gazetesine göre gerekçe şuydu: Karadon, külhanbeyliği besliyordu.",
+   "key": [
+    "önerge",
+    "külhanbeyliği"
+   ],
+   "image": {
+    "local": "assets/belgeler/salvar_aks340307.jpg",
+    "fit": "tam",
+    "baslik": "Akşam, 7 Mart 1934, s. 2",
+    "lisans": "Dönem gazetesi (kamu malı)",
+    "kaynak": "Akşam, 7 Mart 1934, s. 2",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "AKŞAM · 7 MART 1934",
+    "baslik": "Kara don yasak",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Önerge kabul edildi. 1 Ocak 1935'ten itibaren Adana şehir merkezinde ve merkeze bağlı köylerde karadon ve şalvar giymek yasaklandı.",
+   "caption": "Önerge kabul edildi. 1 Ocak 1935'ten itibaren Adana şehir merkezinde ve merkeze bağlı köylerde karadon ve şalvar giymek yasaklandı.",
+   "key": [
+    "1 Ocak 1935'ten",
+    "yasaklandı"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1 OCAK 1935",
+    "baslik": "Yasak başladı",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Peki yasağa uymayanları ne bekliyordu? Tarihçi Önder Duman'ın araştırmasına göre valiliğin ilanı açıktı: Her erkek yurttaş pantolon giyecekti.",
+   "caption": "Peki yasağa uymayanları ne bekliyordu? Tarihçi Önder Duman'ın araştırmasına göre valiliğin ilanı açıktı: Her erkek yurttaş pantolon giyecekti.",
+   "key": [
+    "pantolon"
+   ],
+   "image": {
+    "file": "File:Studio portrait of models wearing traditional clothing from the province of Sivas, Ottoman Empire LCCN2004666911.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.2,
+     0.18,
+     0.86,
+     0.8
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Uymayanlara 5 liradan 25 liraya kadar para cezası verilecekti. Üstelik itiraz hakkı da yoktu.",
+   "caption": "Uymayanlara 5 liradan 25 liraya kadar para cezası verilecekti. Üstelik itiraz hakkı da yoktu.",
+   "key": [
+    "cezası",
+    "itiraz"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "CEZA",
+    "baslik": "5 – 25 lira",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "O yıllarda bir pantolon 1 ila 1,5 liraya dikilebiliyordu. Yani en yüksek ceza yaklaşık 20 pantolon parasıydı.",
+   "caption": "O yıllarda bir pantolon 1 ila 1,5 liraya dikilebiliyordu. Yani en yüksek ceza yaklaşık 20 pantolon parasıydı.",
+   "key": [
+    "pantolon",
+    "20"
+   ],
+   "image": {
+    "file": "File:Tadeusz Vetulani w Turcji odwiedza rolników.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "EN YÜKSEK CEZA",
+    "baslik": "≈ 20 pantolon",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Yasağın ilk günlerinde bazıları külot giydi, bazıları ise şalvarlarına pantolon biçimi verdi.",
+   "caption": "Yasağın ilk günlerinde bazıları külot giydi, bazıları ise şalvarlarına pantolon biçimi verdi.",
+   "key": [
+    "külot",
+    "biçimi"
+   ],
+   "image": {
+    "file": "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.2,
+     0.2,
+     0.84,
+     0.74
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "9 gün sonra Cumhuriyet gazetesi şu başlığı attı: Adana'da karadon ve şalvar tarihe karıştı.",
+   "caption": "9 gün sonra Cumhuriyet gazetesi şu başlığı attı: Adana'da karadon ve şalvar tarihe karıştı.",
+   "key": [
+    "tarihe",
+    "karıştı"
+   ],
+   "image": {
+    "local": "assets/belgeler/salvar_cum350109.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 9 Ocak 1935",
+    "lisans": "Dönem gazetesi (kamu malı)",
+    "kaynak": "Cumhuriyet, 9 Ocak 1935",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Haberde aynı adamın iki fotoğrafı vardı. Biri dün şalvarlı, diğeri bugün pantolonlu.",
+   "caption": "Haberde aynı adamın iki fotoğrafı vardı. Biri dün şalvarlı, diğeri bugün pantolonlu.",
+   "key": [
+    "dün",
+    "bugün"
+   ],
+   "image": {
+    "local": "assets/belgeler/salvar_cum350109_foto.jpg",
+    "fit": "tam",
+    "baslik": "Cumhuriyet, 9 Ocak 1935",
+    "lisans": "Dönem gazetesi (kamu malı)",
+    "kaynak": "Cumhuriyet, 9 Ocak 1935",
+    "sayfa": ""
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "DÜN · BUGÜN",
+    "baslik": "Aynı adam",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Ama şalvar gerçekten tarihe karıştı mı? Hayır. Yıllar içinde yeniden sokaklara döndü.",
+   "caption": "Ama şalvar gerçekten tarihe karıştı mı? Hayır. Yıllar içinde yeniden sokaklara döndü.",
+   "key": [
+    "Hayır",
+    "sokaklara"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.45,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1952'de Demokrat Parti döneminde Adana'da yasak yeniden uygulandı ve bazı kişilere 15 lira para cezası verildi.",
+   "caption": "1952'de Demokrat Parti döneminde Adana'da yasak yeniden uygulandı ve bazı kişilere 15 lira para cezası verildi.",
+   "key": [
+    "1952'de",
+    "15"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-122.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1952",
+    "baslik": "Yasak geri döndü",
+    "bekle": 0.8
+   }
+  },
+  {
+   "say": "Peki köylüler neden şalvar giymeye devam ediyordu? Dönemin basınına yansıyan bir köylü sözü şöyleydi: Bu karadon çok rahattır beyim. Pantolon dar geliyor. Karadon daha ucuzdur.",
+   "caption": "Peki köylüler neden şalvar giymeye devam ediyordu? Dönemin basınına yansıyan bir köylü sözü şöyleydi: Bu karadon çok rahattır beyim. Pantolon dar geliyor. Karadon daha ucuzdur.",
+   "key": [
+    "rahattır",
+    "ucuzdur"
+   ],
+   "image": {
+    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki siz bu şalvar yasağı hakkında ne düşünüyorsunuz? Yorumlarınızı bizimle paylaşın.",
+   "caption": "Peki siz bu şalvar yasağı hakkında ne düşünüyorsunuz? Yorumlarınızı bizimle paylaşın.",
+   "key": [
+    "düşünüyorsunuz",
+    "Yorumlarınızı"
+   ],
+   "image": {
+    "file": "File:Mersina. Mersina from the sea LOC matpc.02199.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0.5,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayın.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi unutmayın.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
+    "fit": "tam",
+    "min_w": 500,
+    "kirp": [
+     0,
+     0,
+     0.6,
+     1
+    ]
+   },
+   "scene": "photo"
+  }
+ ],
+ "revizyon": 1
+}
