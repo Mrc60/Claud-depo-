@@ -1,40 +1,24 @@
 {
- "bolum": "037_salvar",
- "min_w": 800,
- "sorgular": [],
+ "bolum": "038_bisiklet",
+ "min_w": 700,
+ "sorgular": [
+  "bicycle Constantinople",
+  "bicycle Istanbul 1930s",
+  "bicycle Turkey 1940s",
+  "bisiklet İstanbul",
+  "bicycle Ankara 1930",
+  "cyclist Turkey 1950s",
+  "Turkish postmen bicycle",
+  "bicycle Smyrna",
+  "bicycle race Turkey 1930s",
+  "Bisiklet yarışı",
+  "bicycle Konya",
+  "Schwarzenbach Türkei Fahrrad",
+  "bicycle Beyoglu",
+  "policeman bicycle Turkey",
+  "bicycle Ottoman",
+  "Cumhuriyet 1934 newspaper"
+ ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:Studio portrait of models wearing traditional clothing from the province of Adana, Ottoman Empire LCCN2004666948.jpg",
-   "ad": "s01.jpg"
-  },
-  {
-   "file": "File:Studio portrait of models wearing traditional clothing from the province of Sivas, Ottoman Empire LCCN2004666911.jpg",
-   "ad": "s02.jpg"
-  },
-  {
-   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-122.jpg",
-   "ad": "s03.jpg"
-  },
-  {
-   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
-   "ad": "s04.jpg"
-  },
-  {
-   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
-   "ad": "s05.jpg"
-  },
-  {
-   "file": "File:Tadeusz Vetulani w Turcji odwiedza rolników.jpg",
-   "ad": "s06.jpg"
-  },
-  {
-   "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
-   "ad": "s07.jpg"
-  },
-  {
-   "file": "File:Mersina. Mersina from the sea LOC matpc.02199.jpg",
-   "ad": "s08.jpg"
-  }
- ]
+ "indir": []
 }
