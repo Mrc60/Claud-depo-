@@ -36,18 +36,30 @@
     ],
     [
      23.86,
+     25.88
+    ]
+   ],
+   [
+    [
+     25.88,
      30.9
     ]
    ],
    [
     [
      31.18,
-     41.28
+     37.4
     ]
    ],
    [
     [
-     41.46,
+     37.92,
+     44.08
+    ]
+   ],
+   [
+    [
+     44.72,
      51.1
     ]
    ],
@@ -114,7 +126,7 @@
     "yıktı"
    ],
    "image": {
-    "file": "File:Tamburasaz-Baglamasaz.jpg",
+    "file": "File:Osman Hamdi Bey - Two Musician Girls - Google Art Project.jpg",
     "fit": "tam",
     "min_w": 500
    },
@@ -134,14 +146,14 @@
     "iznine"
    ],
    "image": {
-    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+    "file": "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
     "fit": "tam",
     "min_w": 500,
     "kirp": [
-     0,
-     0,
-     0.55,
-     1
+     0.2,
+     0.2,
+     0.84,
+     0.74
     ]
    },
    "scene": "photo",
@@ -176,42 +188,60 @@
    }
   },
   {
-   "say": "Peki, koca izin vermezse ne oluyordu? Kadın mahkemeye gidebiliyordu. Ama çalışmasının ailenin yararına olduğunu ispat etmek zorundaydı.",
-   "caption": "Peki, koca izin vermezse ne oluyordu? Kadın mahkemeye gidebiliyordu. Ama çalışmasının ailenin yararına olduğunu ispat etmek zorundaydı.",
+   "say": "Peki, koca izin vermezse ne oluyordu? Kadın mahkemeye gidebiliyordu.",
+   "caption": "Peki, koca izin vermezse ne oluyordu? Kadın mahkemeye gidebiliyordu.",
    "key": [
-    "mahkemeye",
+    "mahkemeye"
+   ],
+   "image": {
+    "file": "File:Turkey. Ankara. Modernistic building Court de Coute LOC matpc.16733.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama çalışmasının ailenin yararına olduğunu ispat etmek zorundaydı.",
+   "caption": "Ama çalışmasının ailenin yararına olduğunu ispat etmek zorundaydı.",
+   "key": [
     "ispat"
    ],
    "image": {
-    "file": "File:Ottoman Bank Personnel, Rebecca Benveniste (13080145973).jpg",
+    "file": "File:Turkish woman, full-length portrait, seated, facing front, holding parasol LCCN2003677088.jpg",
     "fit": "tam",
-    "min_w": 500
+    "min_w": 500,
+    "kirp": [
+     0.05,
+     0.03,
+     0.95,
+     0.97
+    ]
    },
    "scene": "photo"
   },
   {
-   "say": "Koca isterse karısını çalışmaktan men edebiliyor, bunu noter aracılığıyla ilan ettirebiliyordu. Bu kural 60 yılı aşkın süre yürürlükte kaldı.",
-   "caption": "Koca isterse karısını çalışmaktan men edebiliyor, bunu noter aracılığıyla ilan ettirebiliyordu. Bu kural 60 yılı aşkın süre yürürlükte kaldı.",
+   "say": "Koca isterse karısını çalışmaktan men edebiliyor, bunu noter aracılığıyla ilan ettirebiliyordu.",
+   "caption": "Koca isterse karısını çalışmaktan men edebiliyor, bunu noter aracılığıyla ilan ettirebiliyordu.",
    "key": [
     "men",
-    "60"
+    "noter"
    ],
    "image": {
-    "file": "File:Ottoman Bank Personnel, Haydoux Valentine (13080338794).jpg",
+    "file": "File:Assyrian Malke Family of Harput.jpg",
     "fit": "tam",
     "min_w": 500
    },
    "scene": "photo"
   },
   {
-   "say": "Ta ki İzmir'deki bir davaya kadar. Turistik mekânlarda türkü söyleyen bir kadın sanatçının kocası, önce çalışmasına izin vermişti.",
-   "caption": "Ta ki İzmir'deki bir davaya kadar. Turistik mekânlarda türkü söyleyen bir kadın sanatçının kocası, önce çalışmasına izin vermişti.",
+   "say": "Bu kural 60 yılı aşkın süre yürürlükte kaldı. Ta ki İzmir'deki bir davaya kadar.",
+   "caption": "Bu kural 60 yılı aşkın süre yürürlükte kaldı. Ta ki İzmir'deki bir davaya kadar.",
    "key": [
-    "İzmir'deki",
-    "türkü"
+    "60",
+    "İzmir'deki"
    ],
    "image": {
-    "file": "File:Kordon, 2005.jpg",
+    "file": "File:Kade met flessenkratten, koetsen, tramrails, zeelieden en omstanders in Smyrna, RP-F-F00998-AQ.jpg",
     "fit": "tam",
     "min_w": 500
    },
@@ -224,16 +254,36 @@
    }
   },
   {
+   "say": "Turistik mekânlarda türkü söyleyen bir kadın sanatçının kocası, önce çalışmasına izin vermişti.",
+   "caption": "Turistik mekânlarda türkü söyleyen bir kadın sanatçının kocası, önce çalışmasına izin vermişti.",
+   "key": [
+    "türkü",
+    "izin"
+   ],
+   "image": {
+    "file": "File:Quais de Smyrne (CNews) - btv1b53076942d.jpg",
+    "fit": "tam",
+    "min_w": 500
+   },
+   "scene": "photo"
+  },
+  {
    "say": "Kadın boşanma davası açınca, koca iznini geri aldı. Kadın mahkemeye başvurdu.",
    "caption": "Kadın boşanma davası açınca, koca iznini geri aldı. Kadın mahkemeye başvurdu.",
    "key": [
-    "geri",
-    "başvurdu"
+    "boşanma",
+    "geri"
    ],
    "image": {
-    "file": "File:Tamburasaz-Baglamasaz.jpg",
+    "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
     "fit": "tam",
-    "min_w": 500
+    "min_w": 500,
+    "kirp": [
+     0,
+     0,
+     0.55,
+     1
+    ]
    },
    "scene": "photo"
   },
@@ -261,7 +311,7 @@
     "iptal"
    ],
    "image": {
-    "file": "File:Ottoman Bank Personnel, Suzette Agah Hasib (13080147473).jpg",
+    "file": "File:Constitutional Court of Turkey.jpg",
     "fit": "tam",
     "min_w": 500
    },
@@ -294,15 +344,15 @@
     "2001'de"
    ],
    "image": {
-    "file": "File:Turkish holiday.jpg",
+    "file": "File:Assyrian Hirmiz Family of Midyat.jpg",
     "fit": "tam",
     "min_w": 500
    },
    "scene": "photo",
    "anim": {
     "tur": "kart",
-    "ust": "2001",
-    "baslik": "Yeni Medeni Kanun",
+    "ust": "MADDE 152",
+    "baslik": "Koca birliğin reisidir",
     "bekle": 0.8
    }
   },
@@ -327,7 +377,7 @@
     "kaynaklara"
    ],
    "image": {
-    "file": "File:Izmir Alsancak Kordon 6342.jpg",
+    "file": "File:Ottoman Bank Personnel, Suzette Agah Hasib (13080147473).jpg",
     "fit": "tam",
     "min_w": 500
    },
@@ -341,18 +391,12 @@
     "takip"
    ],
    "image": {
-    "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+    "file": "File:Ottoman Bank Personnel, Rebecca Benveniste (13080145973).jpg",
     "fit": "tam",
-    "min_w": 500,
-    "kirp": [
-     0,
-     0,
-     1,
-     1
-    ]
+    "min_w": 500
    },
    "scene": "photo"
   }
  ],
- "revizyon": 1
+ "revizyon": 2
 }
