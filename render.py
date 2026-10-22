@@ -187,6 +187,61 @@ def build_captions():
     return caps
 CAPS = build_captions()
 
+# ---------- daktilo: yıllar söylenirken tuş sesi + üst kenarda harf harf yazılan yıl ----------
+import re as _re
+TUS_ARA = 0.075                                    # tuşlar arası süre (sn)
+def build_daktilo():
+    if not EP.get("daktilo"): return []
+    out = []
+    for c in CAPS:
+        for w in c["words"]:
+            m = _re.match(r"^(1[5-9]\d\d|20\d\d)", w["w"])
+            if m:
+                out.append({"t0": w["t0"], "yil": m.group(1)})
+    return out
+DAKTILO = build_daktilo()
+def _mono(s):
+    for p in ["/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf",
+              "/usr/share/fonts/truetype/liberation/LiberationMono-Bold.ttf"]:
+        if os.path.exists(p): return font(p, s)
+    return F_SERIF(s)
+
+def draw_daktilo(frame, t):
+    cur = next((d for d in DAKTILO if d["t0"] <= t < d["t0"] + 1.9), None)
+    if not cur: return
+    lt = t - cur["t0"]
+    n = min(len(cur["yil"]), int(lt / TUS_ARA) + 1)
+    a = min(1.0, ease((1.9 - lt) / 0.35))
+    f = _mono(118)
+    layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer)
+    full_w = d.textlength(cur["yil"], font=f)
+    x0 = W / 2 - full_w / 2
+    # imleç yanıp söner; yazı fotoğrafın önüne kutu koymaz, sadece ince kontur
+    d.text((x0, 210), cur["yil"][:n], font=f, fill=with_alpha(CREAM, a), anchor="lm",
+           stroke_width=6, stroke_fill=(5, 10, 18, int(200 * a)))
+    if n == len(cur["yil"]) and int(lt * 4) % 2 == 0 and lt < 1.5:
+        cx = x0 + d.textlength(cur["yil"], font=f) + 10
+        d.rectangle([cx, 250, cx + 52, 260], fill=with_alpha(AMBER, a))
+    frame.alpha_composite(layer)
+
+def make_daktilo_sfx(path, dur, sr=44100):
+    n = int(dur * sr); out = np.zeros(n)
+    rng = np.random.default_rng(11)
+    for dk in DAKTILO:
+        for k in range(len(dk["yil"])):
+            p0 = int((dk["t0"] + k * TUS_ARA) * sr); ln = int(0.05 * sr)
+            if p0 + ln > n: continue
+            tt = np.arange(ln) / sr
+            klik = rng.normal(0, 1, ln) * np.exp(-tt * 260)                      # metalik tık
+            gum = np.sin(2 * np.pi * 140 * tt) * np.exp(-tt * 90) * 0.6           # tuşun alt vuruşu
+            out[p0:p0 + ln] += (klik * 0.5 + gum) * (0.85 + 0.3 * rng.random())
+    out = np.clip(out * 0.5, -1, 1)
+    import wave
+    with wave.open(path, "w") as w:
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)
+        w.writeframes((out * 32767).astype(np.int16).tobytes())
+
 def draw_caption(frame, t):
     cur = next((c for c in CAPS if c["t0"] - 0.04 <= t < c["show_until"]), None)
     if not cur: return
@@ -693,6 +748,7 @@ def render_frame(t, idx):
                 a = layer.getchannel("A").point(lambda v: int(v * fade)); layer.putalpha(a)
             f.alpha_composite(layer)
     chrome(f, t)
+    draw_daktilo(f, t)
     draw_caption(f, t)
     rgb = f.convert("RGB")
     # hafif film greni
@@ -752,11 +808,14 @@ def main():
         if i % 150 == 0: print(f"kare {i}/{nf}", flush=True)
     p.stdin.close(); p.wait()
     voice = os.path.join(build, "voice.wav")
-    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", silent, "-i", voice, "-i", music,
+    sfx = os.path.join(build, "daktilo.wav")
+    make_daktilo_sfx(sfx, DUR)
+    subprocess.run(["ffmpeg", "-y", "-v", "error", "-i", silent, "-i", voice, "-i", music, "-i", sfx,
                     "-filter_complex",
                     "[1:a]highpass=f=80,acompressor=threshold=-18dB:ratio=3,volume=1.6,asplit=2[v][vsc];"
                     "[2:a]volume=0.55[m];[m][vsc]sidechaincompress=threshold=0.03:ratio=6:release=300[md];"
-                    "[v][md]amix=inputs=2:normalize=0,loudnorm=I=-14:TP=-1.5[a]",
+                    "[3:a]volume=0.7[s];"
+                    "[v][md][s]amix=inputs=3:normalize=0,loudnorm=I=-14:TP=-1.5[a]",
                     "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
                     "-ar", "44100", "-movflags", "+faststart", "-shortest", out_path], check=True)
     print("hazır:", out_path)
