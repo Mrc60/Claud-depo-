@@ -1,3 +1,5 @@
-# bisiklet 4
-cum340119a.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1934/cumhuriyet_1934_kanunusani_/cumhuriyet_1934_kanunusani_19_.pdf
-cum340119b.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1934/cumhuriyet_1934_ikincikanun_/cumhuriyet_1934_ikincikanun_19.pdf
+# yol vergisi
+rg1214.pdf https://www.resmigazete.gov.tr/arsiv/1214.pdf
+kgm1923.html https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Galeri/GecmistenBuguneKgmFoto/kgmtarihfoto19231940.aspx
+tan350510.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1935/tan_1935_mayis_/tan_1935_mayis_10_.pdf
+ozdemir.pdf https://dergipark.org.tr/tr/download/article-file/781231
