@@ -1,0 +1,315 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 40,
+ "slug": "almanya",
+ "title": "Almanya Muayenesi",
+ "youtube_title": "Almanya'ya gitmek için önce soyunup muayene oldular! #SıradanDeğil 40",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/040_almanya.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     5.86
+    ]
+   ],
+   [
+    [
+     6.12,
+     12.78
+    ]
+   ],
+   [
+    [
+     13.16,
+     22.96
+    ]
+   ],
+   [
+    [
+     23.2,
+     29.48
+    ]
+   ],
+   [
+    [
+     29.48,
+     35.62
+    ],
+    [
+     36.56,
+     42.86
+    ],
+    [
+     43.38,
+     49.12
+    ]
+   ],
+   [
+    [
+     49.64,
+     58.24
+    ],
+    [
+     58.24,
+     65.94
+    ]
+   ],
+   [
+    [
+     66.5,
+     73.08
+    ]
+   ],
+   [
+    [
+     73.32,
+     83.5
+    ]
+   ],
+   [
+    [
+     83.5,
+     92.0
+    ]
+   ],
+   [
+    [
+     92.52,
+     97.74
+    ]
+   ],
+   [
+    [
+     98.46,
+     102.2
+    ]
+   ],
+   [
+    [
+     102.42,
+     118.52
+    ]
+   ]
+  ]
+ },
+ "revizyon": 1,
+ "segments": [
+  {
+   "say": "Almanya'ya gitmek isteyen işçiler, önce iç çamaşırına kadar soyunup muayene edildi.",
+   "caption": "Almanya'ya gitmek isteyen işçiler, önce iç çamaşırına kadar soyunup muayene edildi.",
+   "key": [
+    "muayene"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_muayene.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Jean Mohr / DOMiD-Archiv",
+    "lisans": "",
+    "kaynak": "Foto: Jean Mohr / DOMiD-Archiv",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "30 Ekim 1961'de Türkiye ile Federal Almanya arasında işgücü anlaşması imzalandı.",
+   "caption": "30 Ekim 1961'de Türkiye ile Federal Almanya arasında işgücü anlaşması imzalandı.",
+   "key": [
+    "30",
+    "Ekim",
+    "1961'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_anlasma.jpg",
+    "fit": "tam",
+    "baslik": "T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
+    "lisans": "",
+    "kaynak": "T.C. Çalışma ve Sosyal Güvenlik Bakanlığı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1961 ile 1973 arasında iki buçuk milyonu aşkın kişi başvurdu. Açılan iş sayısı ise yaklaşık 650 bindi.",
+   "caption": "1961 ile 1973 arasında iki buçuk milyonu aşkın kişi başvurdu. Açılan iş sayısı ise yaklaşık 650 bindi.",
+   "key": [
+    "iki",
+    "buçuk",
+    "milyonu",
+    "650"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_istanbul_sokak.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Adaylar İstanbul'daki Alman İrtibat Bürosu'na çağrılıyordu.",
+   "caption": "Adaylar İstanbul'daki Alman İrtibat Bürosu'na çağrılıyordu.",
+   "key": [
+    "İrtibat"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_tophane.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Muayene gruplar hâlinde yapılıyordu. Gözler, kulaklar, dişler, hatta mahrem bölgeler tek tek kontrol ediliyordu. 1965'te bir aday, yirmi beş kişinin aynı odada tamamen soyunmasının istendiğini anlatıyor. Akciğer filmindeki küçücük bir gölge, eski bir ameliyat izi bile elenmeye yetebiliyordu.",
+   "caption": "Muayene gruplar hâlinde yapılıyordu. Gözler, kulaklar, dişler, hatta mahrem bölgeler tek tek kontrol ediliyordu. 1965'te bir aday, yirmi beş kişinin aynı odada tamamen soyunmasının istendiğini anlatıyor. Akciğer filmindeki küçücük bir gölge, eski bir ameliyat izi bile elenmeye yetebiliyordu.",
+   "key": [
+    "mahrem",
+    "yirmi",
+    "beş",
+    "gölge"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_muayene.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Jean Mohr / DOMiD-Archiv",
+    "lisans": "",
+    "kaynak": "Foto: Jean Mohr / DOMiD-Archiv",
+    "sayfa": "",
+    "kirp": [
+     0.38,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sağlam idrar bile alınıp satılıyordu. O günleri yaşayan Ali Başar'a göre sağlam bir idrar on beş, yirmi liraya satılabiliyordu. Ve şöyle diyor: \"Kötü sonuç alanlar çoğu zaman ağlıyordu. Ret alanlar bütün umutlarını kaybediyordu.\"",
+   "caption": "Sağlam idrar bile alınıp satılıyordu. O günleri yaşayan Ali Başar'a göre sağlam bir idrar on beş, yirmi liraya satılabiliyordu. Ve şöyle diyor: \"Kötü sonuç alanlar çoğu zaman ağlıyordu. Ret alanlar bütün umutlarını kaybediyordu.\"",
+   "key": [
+    "idrar",
+    "ağlıyordu."
+   ],
+   "image": {
+    "local": "assets/belgeler/040_sonuc_bekleyen.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Jean Mohr / DOMiD-Archiv",
+    "lisans": "",
+    "kaynak": "Foto: Jean Mohr / DOMiD-Archiv",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Seçilenler Sirkeci'den trene bindi. Peronda eşler, çocuklar, anneler geride kaldı.",
+   "caption": "Seçilenler Sirkeci'den trene bindi. Peronda eşler, çocuklar, anneler geride kaldı.",
+   "key": [
+    "Sirkeci'den",
+    "geride"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_sirkeci_kadinlar.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Münih'e kadar yolculuk yaklaşık elli saat sürdü. Trenler tıklım tıklımdı; yiyecek ve su yetmiyor, kimi zaman ne ışık ne ısıtma oluyordu.",
+   "caption": "Münih'e kadar yolculuk yaklaşık elli saat sürdü. Trenler tıklım tıklımdı; yiyecek ve su yetmiyor, kimi zaman ne ışık ne ısıtma oluyordu.",
+   "key": [
+    "elli",
+    "saat"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_munih_gar_1.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Almanya'da bazı yurtlarda bir odada yirmi dört kişiye kadar kalınıyordu. Kişi başına düşen yer, yaklaşık dört metrekareydi.",
+   "caption": "Almanya'da bazı yurtlarda bir odada yirmi dört kişiye kadar kalınıyordu. Kişi başına düşen yer, yaklaşık dört metrekareydi.",
+   "key": [
+    "yirmi",
+    "dört",
+    "metrekareydi."
+   ],
+   "image": {
+    "local": "assets/belgeler/040_yurt.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Çoğu birkaç yıl çalışıp dönmeyi düşünüyordu. Ama birçoğu geri dönmedi.",
+   "caption": "Çoğu birkaç yıl çalışıp dönmeyi düşünüyordu. Ama birçoğu geri dönmedi.",
+   "key": [
+    "dönmedi."
+   ],
+   "image": {
+    "local": "assets/belgeler/040_munih_gar_2.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizin ailenizden de Almanya'ya işçi olarak giden oldu mu?",
+   "caption": "Sizin ailenizden de Almanya'ya işçi olarak giden oldu mu?",
+   "key": [
+    "ailenizden"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_sirkeci_tel.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "beğenmeyi",
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/040_sirkeci_bekleme.jpg",
+    "fit": "tam",
+    "baslik": "",
+    "lisans": "",
+    "kaynak": "",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
