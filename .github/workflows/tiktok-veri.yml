@@ -1,0 +1,37 @@
+name: TikTok veri
+
+# PostProxy API'den (sadece okuma, GET) profil ve gönderi istatistiklerini çeker,
+# 'tiktok-veri' dalına JSON olarak yazar. Anahtar: secrets.TIKTOK_API_KEY
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cek:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Çek
+        env:
+          K: ${{ secrets.TIKTOK_API_KEY }}
+        run: |
+          mkdir -p /tmp/v && cd /tmp/v
+          A="https://api.postproxy.dev/api"
+          g(){ curl -sS -m 60 -H "Authorization: Bearer $K" -w "\n%{http_code}" "$A/$1"; }
+          g profiles > profiles.raw
+          tail -1 profiles.raw > kodlar.txt; sed '$d' profiles.raw > profiles.json
+          for id in $(python3 -c "import json;d=json.load(open('profiles.json'));d=d.get('data',d) if isinstance(d,dict) else d;print(' '.join(p['id'] for p in d))" 2>/dev/null); do
+            g "profiles/$id/stats" > s.raw; echo "stats $id $(tail -1 s.raw)" >> kodlar.txt; sed '$d' s.raw > "stats_$id.json"
+            g "profiles/$id/daily_stats" > s.raw; echo "daily $id $(tail -1 s.raw)" >> kodlar.txt; sed '$d' s.raw > "daily_$id.json"
+          done
+          g "posts?per_page=100" > p.raw; echo "posts $(tail -1 p.raw)" >> kodlar.txt; sed '$d' p.raw > posts.json
+          ids=$(python3 -c "
+          import json;d=json.load(open('posts.json'));d=d.get('data',d) if isinstance(d,dict) else d
+          print(','.join(p['id'] for p in d[:100]))" 2>/dev/null)
+          if [ -n "$ids" ]; then g "posts/stats?post_ids=$ids" > ps.raw; echo "poststats $(tail -1 ps.raw)" >> kodlar.txt; sed '$d' ps.raw > post_stats.json; fi
+          rm -f *.raw; cat kodlar.txt
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          git init -q -b tiktok-veri && git add -A && git commit -qm veri
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" tiktok-veri
