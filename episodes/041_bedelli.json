@@ -1,0 +1,273 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 41,
+ "slug": "bedelli",
+ "title": "Osmanlı'da Bedelli Askerlik",
+ "youtube_title": "Bankerin oğlu ile köylü aynı bedeli ödedi! #SıradanDeğil 41",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/041_bedelli.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     7.3
+    ]
+   ],
+   [
+    [
+     7.54,
+     16.2
+    ]
+   ],
+   [
+    [
+     16.42,
+     25.2
+    ]
+   ],
+   [
+    [
+     25.56,
+     39.8
+    ]
+   ],
+   [
+    [
+     40.06,
+     46.9
+    ]
+   ],
+   [
+    [
+     47.4,
+     61.4
+    ]
+   ],
+   [
+    [
+     61.7,
+     74.9
+    ]
+   ],
+   [
+    [
+     75.38,
+     82.3
+    ]
+   ],
+   [
+    [
+     82.36,
+     91.6
+    ]
+   ],
+   [
+    [
+     91.82,
+     100.6
+    ]
+   ],
+   [
+    [
+     100.9,
+     108.2
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir çift öküzü olan bir köylü ile bir bankerin oğlu, askerlikten kurtulmak için aynı parayı ödemek zorundaydı.",
+   "caption": "Bir çift öküzü olan bir köylü ile bir bankerin oğlu, askerlikten kurtulmak için aynı parayı ödemek zorundaydı.",
+   "key": [
+    "öküz",
+    "banker"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_lystra.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Underwood & Underwood, 1915 / Library of Congress",
+    "lisans": "",
+    "kaynak": "Foto: Underwood & Underwood, 1915 / Library of Congress",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Osmanlı'da buna bedel-i nakdî deniyordu. Belli bir parayı ödeyen, uzun askerlik yerine kısa bir eğitimle işini bitirebiliyordu.",
+   "caption": "Osmanlı'da buna bedel-i nakdî deniyordu. Belli bir parayı ödeyen, uzun askerlik yerine kısa bir eğitimle işini bitirebiliyordu.",
+   "key": [
+    "bedel-i nakdî"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_galata.jpg",
+    "fit": "tam",
+    "baslik": "Galata ve Osmanlı Bankası. Foto: Abdullah Frères / Library of Congress",
+    "lisans": "",
+    "kaynak": "Galata ve Osmanlı Bankası. Foto: Abdullah Frères / Library of Congress",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1914'te çıkan kanuna göre bu bedel elli Osmanlı altınıydı. Bedeli ödeyen de altı ay askerî eğitim görüyordu.",
+   "caption": "1914'te çıkan kanuna göre bu bedel elli Osmanlı altınıydı. Bedeli ödeyen de altı ay askerî eğitim görüyordu.",
+   "key": [
+    "elli Osmanlı altını"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_piyade.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Bain News Service / Library of Congress",
+    "lisans": "",
+    "kaynak": "Foto: Bain News Service / Library of Congress",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Daha önceki bir düzenlemede ise bir şart vardı: Bedel ödeyecek kişi bu parayı bağını, bahçesini, tarlasını, evini satmadan bulabilecek güçte olmalıydı. Yani bedel, malını satmadan ödeyebilenler içindi.",
+   "caption": "Daha önceki bir düzenlemede ise bir şart vardı: Bedel ödeyecek kişi bu parayı bağını, bahçesini, tarlasını, evini satmadan bulabilecek güçte olmalıydı. Yani bedel, malını satmadan ödeyebilenler içindi.",
+   "key": [
+    "satmadan"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_lystra.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Underwood & Underwood, 1915 / Library of Congress",
+    "lisans": "",
+    "kaynak": "Foto: Underwood & Underwood, 1915 / Library of Congress",
+    "sayfa": "",
+    "kirp": [
+     0.0,
+     0.0,
+     0.62,
+     0.55
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Birinci Dünya Savaşı sürerken, 1915'in Şubat ayında Meclis-i Mebusan'da bu konu tartışıldı.",
+   "caption": "Birinci Dünya Savaşı sürerken, 1915'in Şubat ayında Meclis-i Mebusan'da bu konu tartışıldı.",
+   "key": [
+    "Meclis-i Mebusan"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_meclis.jpg",
+    "fit": "tam",
+    "baslik": "Meclis-i Mebusan / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Meclis-i Mebusan / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Afyonkarahisar mebusu Rıza Paşa'ya göre bir bankerin oğlu oturduğu yerde bin, iki bin lira kazanıyordu. Bir çiftçinin ise geçimini ancak sağlayan bir çift öküzü vardı. Ama ikisi de aynı bedeli veriyordu.",
+   "caption": "Afyonkarahisar mebusu Rıza Paşa'ya göre bir bankerin oğlu oturduğu yerde bin, iki bin lira kazanıyordu. Bir çiftçinin ise geçimini ancak sağlayan bir çift öküzü vardı. Ama ikisi de aynı bedeli veriyordu.",
+   "key": [
+    "Rıza Paşa"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_meclis.jpg",
+    "fit": "tam",
+    "baslik": "Meclis-i Mebusan / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Meclis-i Mebusan / Wikimedia Commons",
+    "sayfa": "",
+    "kirp": [
+     0.35,
+     0.3,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aynı oturumda Erzurum mebusu Vartkes Efendi, yoksulların bedeli taksitle ödeyebilmesini istedi ve şöyle dedi: \"Zengin verip kurtulsun, fukara gidip orada ölsün. Bu, vatanperverlik değil.\"",
+   "caption": "Aynı oturumda Erzurum mebusu Vartkes Efendi, yoksulların bedeli taksitle ödeyebilmesini istedi ve şöyle dedi: \"Zengin verip kurtulsun, fukara gidip orada ölsün. Bu, vatanperverlik değil.\"",
+   "key": [
+    "Vartkes Efendi"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_bando.jpg",
+    "fit": "tam",
+    "baslik": "İstanbul, y. 1917. Australian War Memorial H12410 / IWM Q45359",
+    "lisans": "",
+    "kaynak": "İstanbul, y. 1917. Australian War Memorial H12410 / IWM Q45359",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bedeli ödeyemeyenlerin oğulları cepheye gitti: Balkanlar'a, Çanakkale'ye, Kafkasya'ya...",
+   "caption": "Bedeli ödeyemeyenlerin oğulları cepheye gitti: Balkanlar'a, Çanakkale'ye, Kafkasya'ya...",
+   "key": [
+    "cepheye"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_balkan1912.jpg",
+    "fit": "tam",
+    "baslik": "Balkan Savaşı, 1912. Genelkurmay Arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Balkan Savaşı, 1912. Genelkurmay Arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Pek çoğu şehit düştü, bir daha köyüne dönemedi. Sizin ailenizden, köyünüzden o savaşlara gidip dönemeyen oldu mu?",
+   "caption": "Pek çoğu şehit düştü, bir daha köyüne dönemedi. Sizin ailenizden, köyünüzden o savaşlara gidip dönemeyen oldu mu?",
+   "key": [
+    "şehit"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_asker_wwi.jpg",
+    "fit": "tam",
+    "baslik": "Foto: İsrail Millî Kütüphanesi / Wikimedia Commons (CC BY-SA 3.0)",
+    "lisans": "",
+    "kaynak": "Foto: İsrail Millî Kütüphanesi / Wikimedia Commons (CC BY-SA 3.0)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Yorumlarınızı bizimle paylaşın. Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_yarali.jpg",
+    "fit": "tam",
+    "baslik": "Gelibolu, 1915. Australian War Memorial A03770",
+    "lisans": "",
+    "kaynak": "Gelibolu, 1915. Australian War Memorial A03770",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/041_asker_1917.jpg",
+    "fit": "tam",
+    "baslik": "Osmanlı askerleri, 1917 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Osmanlı askerleri, 1917 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
