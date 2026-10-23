@@ -1,2 +1,4 @@
-# almanya 2
-csgb_anlasma.pdf https://www.csgb.gov.tr/Media/aj5ftgr3/trkiye-almanya-isgc-anlasmasi-ve-protokol.pdf
+# bedelli: awm sayfaları
+awm_A03770.html https://www.awm.gov.au/collection/A03770
+awm_G00311.html https://www.awm.gov.au/collection/G00311
+awm_P02282.028.html https://www.awm.gov.au/collection/P02282.028
