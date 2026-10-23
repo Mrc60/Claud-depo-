@@ -1,20 +1,48 @@
 {
  "bolum": "040_almanya",
- "min_w": 700,
+ "min_w": 500,
  "sorgular": [
-  "Gastarbeiter Türkei",
-  "türkische Gastarbeiter",
-  "Turkish guest workers Germany",
-  "Bundesarchiv Gastarbeiter",
-  "Gastarbeiter Bahnhof",
-  "Gastarbeiter 1960er",
-  "türkische Arbeiter Fabrik 1960s",
-  "Gastarbeiter Wohnheim",
-  "Sirkeci station 1960s",
-  "Anwerbung Gastarbeiter",
-  "Gastarbeiter Ankunft München",
-  "Ford Köln Gastarbeiter"
+  "Bundesarchiv B 145 Gastarbeiter Türkei",
+  "Bundesarchiv B 145 türkische Gastarbeiter",
+  "Bundesarchiv B 145 Gastarbeiter Ankunft"
  ],
- "incele": [],
- "indir": []
+ "incele": [
+  "File:Bundesarchiv B 145 Bild-F013093-0001, Köln, Schokoladenfabrik Stollwerck, Gastarbeiterinnen.jpg",
+  "File:Bundesarchiv B 145 Bild-F013068-0017, Walsum, Kohlebergbau, Gastarbeiter.jpg",
+  "File:Bundesarchiv B 145 Bild-F013070-0005, Walsum, Unterricht Gastarbeiter.jpg",
+  "File:Bundesarchiv B 145 Bild-F038815-0002, Wolfsburg, VW Autowerk, Unterkunft Gastarbeiter.jpg",
+  "File:Bundesarchiv B 145 Bild-F038813-0020, Wolfsburg, Volkswagen, Kantine, Kasse.jpg",
+  "File:Bundesarchiv B 145 Bild-F040746-0034, Wolfsburg, Gastarbeiterfamilie mit ihrem Auto.jpg",
+  "File:Unterkunft für Menschen aus der Türkei im Teichtor 12 in Heikendorf (Kiel 41.863).jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F013093-0001, Köln, Schokoladenfabrik Stollwerck, Gastarbeiterinnen.jpg",
+   "ad": "a01.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F013068-0017, Walsum, Kohlebergbau, Gastarbeiter.jpg",
+   "ad": "a02.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F013070-0005, Walsum, Unterricht Gastarbeiter.jpg",
+   "ad": "a03.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F038815-0002, Wolfsburg, VW Autowerk, Unterkunft Gastarbeiter.jpg",
+   "ad": "a04.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F038813-0020, Wolfsburg, Volkswagen, Kantine, Kasse.jpg",
+   "ad": "a05.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F040746-0034, Wolfsburg, Gastarbeiterfamilie mit ihrem Auto.jpg",
+   "ad": "a06.jpg"
+  },
+  {
+   "file": "File:Unterkunft für Menschen aus der Türkei im Teichtor 12 in Heikendorf (Kiel 41.863).jpg",
+   "ad": "a07.jpg"
+  }
+ ]
 }
