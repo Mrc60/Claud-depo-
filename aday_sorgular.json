@@ -1,18 +1,39 @@
 {
  "bolum": "040_almanya",
- "min_w": 600,
- "sorgular": [
-  "Sirkeci station 1960",
-  "Sirkeci railway station old",
-  "München Hauptbahnhof 1960",
-  "München Hauptbahnhof 1964",
-  "Tophane İstanbul 1960",
-  "Orient Express Sirkeci",
-  "Gastarbeiter Koffer",
-  "Istanbul 1960s street",
-  "Volkswagen Wolfsburg Gastarbeiter",
-  "Bundesarchiv B 145 Wolfsburg Gastarbeiter"
+ "min_w": 500,
+ "sorgular": [],
+ "incele": [
+  "File:Tophane városrész, Nusretiye mecset. Fortepan 20171.jpg",
+  "File:Divanyolu, İstanbul (12984586613).jpg",
+  "File:Divanyolu, İstanbul (12984451555).jpg",
+  "File:Istanbul, water seller 1966 (51191065441).jpg",
+  "File:Freiburg- Hauptbahnhof; wartende Gruppe mit Koffer - LABW - Staatsarchiv Freiburg W 134 Nr. 076930a.jpg",
+  "File:Bundesarchiv B 145 Bild-F040747-0009, Wolfsburg, Gastarbeiterfamilie in ihrer Wohnung.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Tophane városrész, Nusretiye mecset. Fortepan 20171.jpg",
+   "ad": "b01.jpg"
+  },
+  {
+   "file": "File:Divanyolu, İstanbul (12984586613).jpg",
+   "ad": "b02.jpg"
+  },
+  {
+   "file": "File:Divanyolu, İstanbul (12984451555).jpg",
+   "ad": "b03.jpg"
+  },
+  {
+   "file": "File:Istanbul, water seller 1966 (51191065441).jpg",
+   "ad": "b04.jpg"
+  },
+  {
+   "file": "File:Freiburg- Hauptbahnhof; wartende Gruppe mit Koffer - LABW - Staatsarchiv Freiburg W 134 Nr. 076930a.jpg",
+   "ad": "b05.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F040747-0009, Wolfsburg, Gastarbeiterfamilie in ihrer Wohnung.jpg",
+   "ad": "b06.jpg"
+  }
+ ]
 }
