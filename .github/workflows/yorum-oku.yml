@@ -1,0 +1,32 @@
+name: Yorum oku
+
+# PostProxy'den verilen gönderilerin yorumlarını SADECE OKUR (GET), 'yorumlar' dalına yazar.
+on:
+  workflow_dispatch:
+    inputs:
+      postlar:
+        description: "Virgülle ayrılmış PostProxy post id'leri"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  oku:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Oku
+        env:
+          K: ${{ secrets.TIKTOK_API_KEY }}
+          POSTLAR: ${{ github.event.inputs.postlar }}
+        run: |
+          mkdir -p /tmp/y && cd /tmp/y
+          for id in $(echo "$POSTLAR" | tr ',' ' '); do
+            code=$(curl -sS -m 60 -H "Authorization: Bearer $K" -o "yorum_$id.json" -w "%{http_code}" "https://api.postproxy.dev/api/posts/$id/comments?per_page=100")
+            echo "$id $code" >> kodlar.txt
+          done
+          cat kodlar.txt
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          git init -q -b yorumlar && git add -A && git commit -qm yorumlar
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" yorumlar
