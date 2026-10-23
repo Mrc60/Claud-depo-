@@ -1,4 +1,3 @@
-# bedelli: awm sayfaları
-awm_A03770.html https://www.awm.gov.au/collection/A03770
-awm_G00311.html https://www.awm.gov.au/collection/G00311
-awm_P02282.028.html https://www.awm.gov.au/collection/P02282.028
+# bedelli: awm görseller
+awm_A03770.jpg https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/A03770/screen/6058609.JPG
+awm_G00311.jpg https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/G00311/screen/4169367.JPG
