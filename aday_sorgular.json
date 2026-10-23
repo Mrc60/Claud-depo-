@@ -1,19 +1,20 @@
 {
- "bolum": "038_bisiklet",
- "min_w": 500,
- "sorgular": [],
- "incele": [
-  "File:Turkish postmen.jpg",
-  "File:Bicycle Beyoglu 4715.jpg"
+ "bolum": "040_almanya",
+ "min_w": 700,
+ "sorgular": [
+  "Gastarbeiter Türkei",
+  "türkische Gastarbeiter",
+  "Turkish guest workers Germany",
+  "Bundesarchiv Gastarbeiter",
+  "Gastarbeiter Bahnhof",
+  "Gastarbeiter 1960er",
+  "türkische Arbeiter Fabrik 1960s",
+  "Gastarbeiter Wohnheim",
+  "Sirkeci station 1960s",
+  "Anwerbung Gastarbeiter",
+  "Gastarbeiter Ankunft München",
+  "Ford Köln Gastarbeiter"
  ],
- "indir": [
-  {
-   "file": "File:Turkish postmen.jpg",
-   "ad": "b01.jpg"
-  },
-  {
-   "file": "File:Bicycle Beyoglu 4715.jpg",
-   "ad": "b02.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }

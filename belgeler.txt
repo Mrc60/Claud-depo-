@@ -1,5 +1,4 @@
-# yol vergisi
-rg1214.pdf https://www.resmigazete.gov.tr/arsiv/1214.pdf
-kgm1923.html https://www.kgm.gov.tr/Sayfalar/KGM/SiteTr/Galeri/GecmistenBuguneKgmFoto/kgmtarihfoto19231940.aspx
-tan350510.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tan//tan_1935/tan_1935_mayis_/tan_1935_mayis_10_.pdf
-ozdemir.pdf https://dergipark.org.tr/tr/download/article-file/781231
+# almanya
+bpb_dayi2011.pdf https://www.bpb.de/system/files/pdf/M3YYO0.pdf
+bpb_basar.html https://www.bpb.de/themen/migration-integration/anwerbeabkommen/43217/mit-den-peitschenstriemen-der-armut-kam-ich-hierher/
+bpb_abkommen.html https://www.bpb.de/themen/migration-integration/anwerbeabkommen/43264/regelung-der-vermittlung-tuerkischer-arbeitnehmer-nach-der-bundesrepublik-deutschland/
