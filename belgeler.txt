@@ -1,7 +1,2 @@
-# bedelli: doğrulama kaynakları
-mmz_1914_02_02.pdf http://www.tbmm.gov.tr/tutanaklar/TUTANAK/MECMEB/mmbd03ic01c001/mmbd03ic01c001ink026.pdf
-kara_catma_2017.pdf https://jasstudies.com/api/articles/431f70f0-de26-43d1-82b8-b33b632c7996/pdf?download=1
-kandil_karagoz_2021.pdf https://dergipark.org.tr/tr/download/article-file/2558852
-gulsoy_2002.pdf https://dergipark.org.tr/tr/download/article-file/101953
-fil_2023.pdf https://journalofsocial.com/api/articles/19ef9567-23da-44a4-b189-5cbe1755fed6/pdf?download=1
-canakkale_resmi.pdf https://canakkaletarihialan.gov.tr/data/uploads/corporate/files/am8epVxvC8FNhfVLeQFoaHvX56nRfukeN97lWsvV.pdf
+# bando
+awm_H12410.html https://www.awm.gov.au/collection/C329312
