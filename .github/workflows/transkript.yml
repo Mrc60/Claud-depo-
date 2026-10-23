@@ -19,7 +19,16 @@ jobs:
       - uses: actions/checkout@v4
       - name: Kur
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          # apt bazen takılıyor: önce hazır ffmpeg, olmazsa süre sınırlı apt
+          if ! command -v ffmpeg >/dev/null; then
+            if timeout 180 curl -fsSL https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz -o /tmp/ff.tar.xz; then
+              mkdir -p /tmp/ff && tar -xJf /tmp/ff.tar.xz -C /tmp/ff --strip-components=1
+              sudo cp /tmp/ff/ffmpeg /tmp/ff/ffprobe /usr/local/bin/
+            else
+              timeout 300 sudo apt-get update -qq || true
+              timeout 300 sudo apt-get install -y -qq ffmpeg
+            fi
+          fi
           pip install -q faster-whisper
       - name: Yazıya dök
         run: |
