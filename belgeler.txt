@@ -1,2 +1,7 @@
-# bando
-awm_H12410.html https://www.awm.gov.au/collection/C329312
+# 041 bedelli görseller
+loc_galata_r.jpg https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11600/3g11646r.jpg
+loc_galata_v.jpg https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11600/3g11646v.jpg
+loc_piyade_r.jpg https://tile.loc.gov/storage-services/service/pnp/ggbain/18800/18814r.jpg
+loc_piyade_v.jpg https://tile.loc.gov/storage-services/service/pnp/ggbain/18800/18814v.jpg
+awm_H12410.jpg https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/H12410/screen/4278887.JPG
+awm_A03770.jpg https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/A03770/screen/6058609.JPG

@@ -1,39 +1,28 @@
 {
- "bolum": "040_almanya",
+ "bolum": "041_bedelli",
  "min_w": 500,
- "sorgular": [],
- "incele": [
-  "File:Tophane városrész, Nusretiye mecset. Fortepan 20171.jpg",
-  "File:Divanyolu, İstanbul (12984586613).jpg",
-  "File:Divanyolu, İstanbul (12984451555).jpg",
-  "File:Istanbul, water seller 1966 (51191065441).jpg",
-  "File:Freiburg- Hauptbahnhof; wartende Gruppe mit Koffer - LABW - Staatsarchiv Freiburg W 134 Nr. 076930a.jpg",
-  "File:Bundesarchiv B 145 Bild-F040747-0009, Wolfsburg, Gastarbeiterfamilie in ihrer Wohnung.jpg"
+ "sorgular": [
+  "Ottoman parliament 1908",
+  "Meclis-i Mebusan",
+  "Ottoman Chamber of Deputies"
  ],
+ "incele": [],
  "indir": [
   {
-   "file": "File:Tophane városrész, Nusretiye mecset. Fortepan 20171.jpg",
-   "ad": "b01.jpg"
+   "file": "File:Ottoman soldiers WWI.jpg",
+   "ad": "c01.jpg"
   },
   {
-   "file": "File:Divanyolu, İstanbul (12984586613).jpg",
-   "ad": "b02.jpg"
+   "file": "File:Ottoman soldiers 1917.jpeg",
+   "ad": "c02.jpg"
   },
   {
-   "file": "File:Divanyolu, İstanbul (12984451555).jpg",
-   "ad": "b03.jpg"
+   "file": "File:Turkish volunteers join the army in the Balkan Wars, 1912.jpg",
+   "ad": "c03.jpg"
   },
   {
-   "file": "File:Istanbul, water seller 1966 (51191065441).jpg",
-   "ad": "b04.jpg"
-  },
-  {
-   "file": "File:Freiburg- Hauptbahnhof; wartende Gruppe mit Koffer - LABW - Staatsarchiv Freiburg W 134 Nr. 076930a.jpg",
-   "ad": "b05.jpg"
-  },
-  {
-   "file": "File:Bundesarchiv B 145 Bild-F040747-0009, Wolfsburg, Gastarbeiterfamilie in ihrer Wohnung.jpg",
-   "ad": "b06.jpg"
+   "file": "File:Turkish Infantry Column at rest (LOC).jpg",
+   "ad": "c04.jpg"
   }
  ]
 }
