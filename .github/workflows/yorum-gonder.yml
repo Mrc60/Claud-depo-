@@ -1,0 +1,48 @@
+name: Yorum gönder
+
+# yorum/gonder.json içindeki, TEK1'in onayladığı cevapları PostProxy ile gönderir
+# ve cevaplanan yorumları beğenir (beğeni yalnız destekleyen platformlarda).
+# Sadece elle çalışır. Profillere girmez, kimseyi takip etmez.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gonder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gönder
+        env:
+          K: ${{ secrets.TIKTOK_API_KEY }}
+        run: |
+          mkdir -p /tmp/g
+          python3 - <<'PY'
+          import json, os, urllib.request
+          K=os.environ["K"]; A="https://api.postproxy.dev/api"
+          def req(method, url, data=None):
+              r=urllib.request.Request(url, method=method, data=json.dumps(data).encode() if data is not None else None,
+                  headers={"Authorization":"Bearer "+K,"Content-Type":"application/json"})
+              try:
+                  with urllib.request.urlopen(r, timeout=60) as x: return x.status, x.read().decode()[:300]
+              except urllib.error.HTTPError as e: return e.code, e.read().decode()[:300]
+          out=[]
+          for it in json.load(open("yorum/gonder.json")):
+              p=it["post"]; pr=it["profil"]; c=it["yorum"]
+              s,b=req("POST", f"{A}/posts/{p}/comments?profile_id={pr}", {"body":it["cevap"],"parent_id":c})
+              line=f"{p} {c} cevap:{s}"
+              if it.get("begen"):
+                  s2,b2=req("POST", f"{A}/posts/{p}/comments/{c}/like?profile_id={pr}")
+                  line+=f" begeni:{s2}"
+                  if s2>=400: line+=f" ({b2[:120]})"
+              if s>=400: line+=f" HATA: {b[:150]}"
+              out.append(line); print(line)
+          open("/tmp/g/sonuc.txt","w").write("\n".join(out)+"\n")
+          PY
+          cd /tmp/g
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          git init -q -b yorum-sonuc && git add -A && git commit -qm sonuc
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" yorum-sonuc
