@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       postlar:
-        description: "Virgülle ayrılmış PostProxy post id'leri"
+        description: "Virgülle ayrılmış post:profil çiftleri (ör. abc:L2UJK4)"
         required: true
 
 permissions:
@@ -21,8 +21,9 @@ jobs:
           POSTLAR: ${{ github.event.inputs.postlar }}
         run: |
           mkdir -p /tmp/y && cd /tmp/y
-          for id in $(echo "$POSTLAR" | tr ',' ' '); do
-            code=$(curl -sS -m 60 -H "Authorization: Bearer $K" -o "yorum_$id.json" -w "%{http_code}" "https://api.postproxy.dev/api/posts/$id/comments?per_page=100")
+          for c in $(echo "$POSTLAR" | tr ',' ' '); do
+            id=${c%%:*}; pr=${c##*:}
+            code=$(curl -sS -m 60 -H "Authorization: Bearer $K" -o "yorum_$id.json" -w "%{http_code}" "https://api.postproxy.dev/api/posts/$id/comments?profile_id=$pr&per_page=100")
             echo "$id $code" >> kodlar.txt
           done
           cat kodlar.txt
