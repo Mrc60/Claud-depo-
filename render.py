@@ -757,8 +757,40 @@ def render_frame(t, idx):
     return rgb
 
 # ---------- müzik + efekt (kodla üretilir, telifsiz) ----------
+def make_music_duygusal(path, dur, sr=44100):
+    """Yavaş, hüzünlü fon: Am–F–Dm–E, yumuşak yaylı pad + seyrek piyano notaları (kodla üretilir, telifsiz)."""
+    n = int(dur * sr); t = np.arange(n) / sr
+    chords = [[45, 57, 60, 64], [41, 57, 60, 65], [38, 57, 62, 65], [40, 56, 59, 64]]  # Am F Dm E
+    melody = [76, 72, 74, 71, 72, 69, 71, 68]   # her akorda 2 nota, inen hüzünlü çizgi
+    mus = np.zeros(n); bar = 5.0
+    for b in range(int(dur / bar) + 1):
+        s0 = int(b * bar * sr)
+        if s0 >= n: break
+        s1 = int(min(dur, (b + 1) * bar + 1.5) * sr); tt = t[s0:s1] - b * bar
+        env = np.minimum(1, tt / 1.6) * np.exp(-np.maximum(0, tt - bar) * 2)
+        for m in chords[b % 4]:
+            fq = 440 * 2 ** ((m - 69) / 12)
+            vib = 1 + 0.002 * np.sin(2 * np.pi * 5 * tt)
+            mus[s0:s1] += env * (np.sin(2 * np.pi * fq * vib * tt) + 0.3 * np.sin(2 * np.pi * 2 * fq * tt)
+                                 + 0.15 * np.sin(2 * np.pi * 3 * fq * tt)) * 0.035
+        for k in range(2):
+            p0 = s0 + int((0.4 + k * bar / 2) * sr); ln = int(2.4 * sr)
+            if p0 + ln > n: continue
+            pt = np.arange(ln) / sr; fq = 440 * 2 ** ((melody[(b % 4) * 2 + k] - 69) / 12)
+            mus[p0:p0 + ln] += (np.sin(2 * np.pi * fq * pt) + 0.4 * np.sin(2 * np.pi * 2 * fq * pt)) * np.exp(-pt * 2.2) * 0.06
+    # basit yankı
+    d = int(0.33 * sr); ech = np.zeros(n); ech[d:] = mus[:-d] * 0.35; mus += ech
+    fade = np.minimum(1, np.minimum(t / 1.5, (dur - t) / 2.5))
+    mus = np.clip(mus * fade, -1, 1)
+    import wave
+    with wave.open(path, "w") as w:
+        w.setnchannels(1); w.setsampwidth(2); w.setframerate(sr)
+        w.writeframes((mus * 32767).astype(np.int16).tobytes())
+
 def make_music(path, dur, sr=44100):
     n = int(dur * sr); t = np.arange(n) / sr
+    if EP.get("muzik") == "duygusal":
+        return make_music_duygusal(path, dur, sr)
     chords = [[57, 60, 64], [53, 57, 60], [48, 52, 55], [55, 59, 62]]  # Am F C G
     mus = np.zeros(n)
     bar = 3.2
