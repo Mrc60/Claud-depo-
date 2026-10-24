@@ -1,26 +1,24 @@
 {
  "bolum": "042_gelin",
- "min_w": 800,
- "sorgular": [
-  "CH-NB Türkei Menschen Schwarzenbach Mann",
-  "CH-NB Türkei Anatolien Menschen Schwarzenbach",
-  "CH-NB Türkei Kayseri Menschen Schwarzenbach",
-  "CH-NB Türkei Sivas Menschen Schwarzenbach",
-  "CH-NB Türkei Hochzeit"
- ],
+ "min_w": 500,
+ "sorgular": [],
  "incele": [],
  "indir": [
   {
-   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-056.jpg",
-   "ad": "h056.jpg"
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-049.jpg",
+   "ad": "k04.jpg"
   },
   {
-   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-174.jpg",
-   "ad": "h174.jpg"
+   "file": "File:CH-NB - Türkei, Kaiserie (Kayseri)- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-248.jpg",
+   "ad": "k10.jpg"
   },
   {
-   "file": "File:CH-NB - Türkei, Sultan Han- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-227.jpg",
-   "ad": "h227.jpg"
+   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
+   "ad": "k11.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
+   "ad": "k12.jpg"
   }
  ]
 }
