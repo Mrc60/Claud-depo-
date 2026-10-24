@@ -23,7 +23,8 @@ jobs:
           mkdir -p /tmp/f
           for is in $ISLER; do
             f=${is%%|*}; u=${is#*|}
-            r=$(curl -sS -m 120 -X POST -F "file=@$f;type=image/jpeg" "$u" | head -c 300)
+            case "$f" in *.png) t=image/png;; *) t=image/jpeg;; esac
+            r=$(curl -sS -m 120 -X POST -F "file=@$f;type=$t" "$u" | head -c 300)
             echo "$f -> $r" | tee -a /tmp/f/sonuc.txt
           done
           cd /tmp/f
