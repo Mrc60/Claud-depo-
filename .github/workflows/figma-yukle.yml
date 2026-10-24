@@ -1,0 +1,33 @@
+name: Figma yükle
+
+# Depodaki görselleri Figma MCP'nin verdiği tek kullanımlık yükleme adreslerine gönderir.
+on:
+  workflow_dispatch:
+    inputs:
+      isler:
+        description: "Boşlukla ayrılmış dosya|url çiftleri"
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  yukle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Yükle
+        env:
+          ISLER: ${{ github.event.inputs.isler }}
+        run: |
+          mkdir -p /tmp/f
+          for is in $ISLER; do
+            f=${is%%|*}; u=${is#*|}
+            r=$(curl -sS -m 120 -X POST -F "file=@$f;type=image/jpeg" "$u" | head -c 300)
+            echo "$f -> $r" | tee -a /tmp/f/sonuc.txt
+          done
+          cd /tmp/f
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          git init -q -b figma-sonuc && git add -A && git commit -qm sonuc
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" figma-sonuc
