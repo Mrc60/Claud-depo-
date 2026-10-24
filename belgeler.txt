@@ -1,3 +1,7 @@
-# gelin 2
-karaca_sivas_2016.pdf https://dergipark.org.tr/tr/download/article-file/237016
-acha_2016.html https://cyberleninka.ru/article/n/assessment-of-the-rules-regulating-the-relationship-between-the-bride-and-new-family-members-among-altai-tuva-and-anatolian-turks
+# gelin alayi adaylari
+matson_sayfa.html https://www.loc.gov/pictures/item/2020630721/
+matson_json.json https://www.loc.gov/item/2020630721/?fo=json
+golkoy_bilgi.json https://commons.wikimedia.org/w/api.php?action=query&titles=File:G%C3%B6lk%C3%B6y.JPG&prop=imageinfo&iiprop=url|extmetadata|size&format=json
+korez_bilgi.json https://commons.wikimedia.org/w/api.php?action=query&titles=File:K%C3%B6rez,_Kula_k%C3%B6y%C3%BCndeki_d%C3%BC%C2%9F%C3%BCn_alay%C4%B1.jpg&prop=imageinfo&iiprop=url|extmetadata|size&format=json
+golkoy.jpg https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6lk%C3%B6y.JPG
+korez.jpg https://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6rez,_Kula_k%C3%B6y%C3%BCndeki_d%C3%BC%C2%9F%C3%BCn_alay%C4%B1.jpg?width=1600
