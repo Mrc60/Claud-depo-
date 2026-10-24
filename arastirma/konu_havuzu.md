@@ -13,6 +13,10 @@
 - Başlık parası
 - Arzuhalciler (okuma yazma bilmeyenlere dilekçe/mektup yazanlar)
 - Okulda saç, tırnak ve yaka kontrolü
+- Askerliğin 3 yıl sürdüğü yıllar
+- Köy ebeleri (evde doğum)
+- "Kız çocuğu okumaz" (1935 sayımı okuryazarlık oranları)
+- Gelinin kayınpederiyle konuşmaması (dil bağlama; belge zayıf olabilir)
 - "Telgraf geldi" korkusu (telgraf çoğu zaman ölüm/asker haberi getirirdi)
 
 Elenenler: şipşakçı, tramvayda kadın bölümü, Afife Jale, veresiye defteri, yardım pulu, yurt dışı çıkış harcı, bayram kartı, köye elektrik, yaş büyütme/küçültme, yazlık sinema, okul sütü, fenersiz sokak yasağı, beyaz eşya sırası, gurbetçi eşyaları-gümrük, Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
