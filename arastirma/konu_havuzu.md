@@ -17,9 +17,11 @@
 - Köy ebeleri (evde doğum)
 - "Kız çocuğu okumaz" (1935 sayımı okuryazarlık oranları)
 - Gelinin kayınpederiyle konuşmaması (dil bağlama; belge zayıf olabilir)
+- Tayyare Piyangosu (1926, Milli Piyango'nun atası)
+- Çeyiz sandığı ve çeyiz sergisi
 - "Telgraf geldi" korkusu (telgraf çoğu zaman ölüm/asker haberi getirirdi)
 
-Elenenler: şipşakçı, tramvayda kadın bölümü, Afife Jale, veresiye defteri, yardım pulu, yurt dışı çıkış harcı, bayram kartı, köye elektrik, yaş büyütme/küçültme, yazlık sinema, okul sütü, fenersiz sokak yasağı, beyaz eşya sırası, gurbetçi eşyaları-gümrük, Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
+Elenenler: Tünel (1875), kasetle sesli mektup, şipşakçı, tramvayda kadın bölümü, Afife Jale, veresiye defteri, yardım pulu, yurt dışı çıkış harcı, bayram kartı, köye elektrik, yaş büyütme/küçültme, yazlık sinema, okul sütü, fenersiz sokak yasağı, beyaz eşya sırası, gurbetçi eşyaları-gümrük, Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
 Sonraya: nüfus sayımı, yabancıların gözünden Türkiye, Sarıkamış (21 Aralık), Erzincan depremi (26 Aralık), bedelli (yayında).
 
 Not: Ülkümen (#20), aşı (#11), nikâh (#26) zaten yapıldı — öneriden önce episodes/ listesine bak.
