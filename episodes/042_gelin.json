@@ -14,83 +14,83 @@
    [
     [
      0.0,
-     6.45
+     8.1
     ]
    ],
    [
     [
-     6.45,
-     12.9
+     8.1,
+     14.8
     ]
    ],
    [
     [
-     12.9,
-     18.75
+     14.8,
+     20.4
     ]
    ],
    [
     [
-     18.75,
-     26.0
+     20.4,
+     28.3
     ]
    ],
    [
     [
-     26.0,
-     31.95
+     28.3,
+     33.65
     ]
    ],
    [
     [
-     31.95,
-     43.05
+     33.65,
+     44.5
     ]
    ],
    [
     [
-     43.05,
-     54.0
+     44.5,
+     54.95
     ]
    ],
    [
     [
-     54.0,
-     60.65
+     54.95,
+     61.5
     ]
    ],
    [
     [
-     60.65,
-     66.9
+     61.5,
+     67.9
     ]
    ],
    [
     [
-     66.9,
-     73.1
+     67.9,
+     73.95
     ]
    ],
    [
     [
-     73.1,
-     79.8
+     73.95,
+     80.15
     ]
    ],
    [
     [
-     79.8,
-     86.9
+     80.15,
+     87.3
     ]
    ]
   ]
  },
  "segments": [
   {
-   "say": "Doksana yakın yaşta bir adam, ölüm döşeğinde son bir şey istedi: Gelininin sesini duymak.",
-   "caption": "Doksana yakın yaşta bir adam, ölüm döşeğinde son bir şey istedi: Gelininin sesini duymak.",
+   "say": "Doksana yakın yaşta bir adam, ölüm döşeğinde son bir şey istedi: Gelininin, kendisiyle bir kez olsun konuşmasını.",
+   "caption": "Doksana yakın yaşta bir adam, ölüm döşeğinde son bir şey istedi: Gelininin, kendisiyle bir kez olsun konuşmasını.",
    "key": [
-    "gelininin sesini"
+    "bir kez olsun"
    ],
    "image": {
     "local": "assets/belgeler/042_yasli.jpg",
