@@ -1,7 +1,2 @@
-# 041 bedelli görseller
-loc_galata_r.jpg https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11600/3g11646r.jpg
-loc_galata_v.jpg https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g11000/3g11600/3g11646v.jpg
-loc_piyade_r.jpg https://tile.loc.gov/storage-services/service/pnp/ggbain/18800/18814r.jpg
-loc_piyade_v.jpg https://tile.loc.gov/storage-services/service/pnp/ggbain/18800/18814v.jpg
-awm_H12410.jpg https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/H12410/screen/4278887.JPG
-awm_A03770.jpg https://s3-ap-southeast-2.amazonaws.com/awm-media/collection/A03770/screen/6058609.JPG
+# kapak
+kapak_040_almanya.png https://www.figma.com/api/mcp/asset/7eb7f82a-5c4b-4120-8587-a9c22a7525e7.png
