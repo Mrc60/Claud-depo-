@@ -11,6 +11,9 @@
 - Tek kanal TRT dönemi (mahallede tek televizyon, yayın akşam başlar, İstiklal Marşı ile kapanır)
 - "Yaşarsa nüfusa yazdırırız": çocuk ölümleri yüzünden bebeklerin geç nüfusa yazdırılması
 - Başlık parası
+- "Telgraf geldi" korkusu (telgraf çoğu zaman ölüm/asker haberi getirirdi)
 
-Elenenler: gurbetçi eşyaları-gümrük, Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
+Elenenler: okul sütü, fenersiz sokak yasağı, beyaz eşya sırası, gurbetçi eşyaları-gümrük, Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
 Sonraya: nüfus sayımı, yabancıların gözünden Türkiye, Sarıkamış (21 Aralık), Erzincan depremi (26 Aralık), bedelli (yayında).
+
+Not: Ülkümen (#20), aşı (#11), nikâh (#26) zaten yapıldı — öneriden önce episodes/ listesine bak.
