@@ -1,0 +1,289 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 42,
+ "slug": "gelin",
+ "title": "Kayınbabasıyla Konuşmayan Gelin",
+ "youtube_title": "47 yıl kayınbabasıyla tek kelime konuşmadı! #SıradanDeğil 42",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/042_gelin.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     6.45
+    ]
+   ],
+   [
+    [
+     6.45,
+     12.9
+    ]
+   ],
+   [
+    [
+     12.9,
+     18.75
+    ]
+   ],
+   [
+    [
+     18.75,
+     26.0
+    ]
+   ],
+   [
+    [
+     26.0,
+     31.95
+    ]
+   ],
+   [
+    [
+     31.95,
+     43.05
+    ]
+   ],
+   [
+    [
+     43.05,
+     54.0
+    ]
+   ],
+   [
+    [
+     54.0,
+     60.65
+    ]
+   ],
+   [
+    [
+     60.65,
+     66.9
+    ]
+   ],
+   [
+    [
+     66.9,
+     73.1
+    ]
+   ],
+   [
+    [
+     73.1,
+     79.8
+    ]
+   ],
+   [
+    [
+     79.8,
+     86.9
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Doksana yakın yaşta bir adam, ölüm döşeğinde son bir şey istedi: Gelininin sesini duymak.",
+   "caption": "Doksana yakın yaşta bir adam, ölüm döşeğinde son bir şey istedi: Gelininin sesini duymak.",
+   "key": [
+    "gelininin sesini"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_yasli.jpg",
+    "fit": "tam",
+    "baslik": "Kayseri. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Kayseri. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kırk yedi yıldır aynı evde yaşıyorlardı. Ama gelini, onunla bir kez bile konuşmamıştı.",
+   "caption": "Kırk yedi yıldır aynı evde yaşıyorlardı. Ama gelini, onunla bir kez bile konuşmamıştı.",
+   "key": [
+    "kırk yedi yıl"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_kadinlar.jpg",
+    "fit": "tam",
+    "baslik": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu olay, 1961 yılında Gaziantep Kültür Dergisi'nde anlatıldı.",
+   "caption": "Bu olay, 1961 yılında Gaziantep Kültür Dergisi'nde anlatıldı.",
+   "key": [
+    "1961"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_koy.jpg",
+    "fit": "tam",
+    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Anadolu'nun birçok yöresinde yeni gelin, kayınbabasıyla konuşmazdı. Bazı yörelerde buna gelinlik yapmak denirdi.",
+   "caption": "Anadolu'nun birçok yöresinde yeni gelin, kayınbabasıyla konuşmazdı. Bazı yörelerde buna gelinlik yapmak denirdi.",
+   "key": [
+    "gelinlik yapmak"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_alay.jpg",
+    "fit": "tam",
+    "baslik": "Toros yolunda gelin alayı. Foto: Herman H. Kreider / Library of Congress",
+    "lisans": "",
+    "kaynak": "Toros yolunda gelin alayı. Foto: Herman H. Kreider / Library of Congress",
+    "sayfa": "",
+    "kirp": [
+     0.18,
+     0.3,
+     0.82,
+     0.98
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Gelin, sorulara eliyle, başıyla ya da gözleriyle işaret ederek cevap verirdi.",
+   "caption": "Gelin, sorulara eliyle, başıyla ya da gözleriyle işaret ederek cevap verirdi.",
+   "key": [
+    "işaret"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_hamur.jpg",
+    "fit": "tam",
+    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Gaziantep'teki kayda göre bu, bir küskünlük değildi. Gelin, kayınbabasının her işini seve seve yapardı. Ne kadar uzun süre susarsa, o kadar makbul sayılırdı.",
+   "caption": "Gaziantep'teki kayda göre bu, bir küskünlük değildi. Gelin, kayınbabasının her işini seve seve yapardı. Ne kadar uzun süre susarsa, o kadar makbul sayılırdı.",
+   "key": [
+    "küskünlük değildi",
+    "makbul"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_ekmek.jpg",
+    "fit": "tam",
+    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu suskunluk, ancak kayınbaba bir hediye verince bozulurdu. Adıyaman'da altın, Erzurum'da elbiselik, yüzük ya da bilezik... Buna dil açma denirdi.",
+   "caption": "Bu suskunluk, ancak kayınbaba bir hediye verince bozulurdu. Adıyaman'da altın, Erzurum'da elbiselik, yüzük ya da bilezik... Buna dil açma denirdi.",
+   "key": [
+    "dil açma"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_carsi.jpg",
+    "fit": "tam",
+    "baslik": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Erzurum'dan derlenen bir kayda göre, hediye verilmezse gelin bir ömür boyu konuşmayabilirdi.",
+   "caption": "Erzurum'dan derlenen bir kayda göre, hediye verilmezse gelin bir ömür boyu konuşmayabilirdi.",
+   "key": [
+    "bir ömür boyu"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_yalniz.jpg",
+    "fit": "tam",
+    "baslik": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Gaziantep'teki kayıtta, bu geleneğin 1961 yılında bile çok azaldığı yazılıyordu.",
+   "caption": "Gaziantep'teki kayıtta, bu geleneğin 1961 yılında bile çok azaldığı yazılıyordu.",
+   "key": [
+    "çok azaldığı"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_cocuklar.jpg",
+    "fit": "tam",
+    "baslik": "Anadolu. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Anadolu. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizin büyüklerinizden bu geleneği yaşayan ya da anlatan oldu mu? Yorumlarınızı bizimle paylaşın.",
+   "caption": "Sizin büyüklerinizden bu geleneği yaşayan ya da anlatan oldu mu? Yorumlarınızı bizimle paylaşın.",
+   "key": [
+    "büyüklerinizden"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_kadin2.jpg",
+    "fit": "tam",
+    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_yol.jpg",
+    "fit": "tam",
+    "baslik": "Anadolu. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Anadolu. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_esnaf.jpg",
+    "fit": "tam",
+    "baslik": "Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
