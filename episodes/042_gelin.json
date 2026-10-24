@@ -142,16 +142,16 @@
    ],
    "image": {
     "local": "assets/belgeler/042_alay.jpg",
-    "fit": "tam",
+    "fit": "doldur",
     "baslik": "Toros yolunda gelin alayı. Foto: Herman H. Kreider / Library of Congress",
     "lisans": "",
     "kaynak": "Toros yolunda gelin alayı. Foto: Herman H. Kreider / Library of Congress",
     "sayfa": "",
     "kirp": [
-     0.18,
-     0.3,
-     0.82,
-     0.98
+     0.22,
+     0.22,
+     0.64,
+     1.0
     ]
    },
    "scene": "photo"
