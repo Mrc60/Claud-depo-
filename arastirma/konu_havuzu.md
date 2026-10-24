@@ -8,6 +8,9 @@
 - 1989 Bulgaristan göçü
 - Paradan altı sıfırın atılması (2005)
 - Mübadele (1923–24)
+- Tek kanal TRT dönemi (mahallede tek televizyon, yayın akşam başlar, İstiklal Marşı ile kapanır)
+- "Yaşarsa nüfusa yazdırırız": çocuk ölümleri yüzünden bebeklerin geç nüfusa yazdırılması
+- Başlık parası
 
-Elenenler: Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
+Elenenler: gurbetçi eşyaları-gümrük, Nazi döneminde Türk diplomatlar, Milli Korunma Kanunu, karartma geceleri, trahom, sıtma/Çukurova, kürsü, cebinde dolar, düzgün, kurban derisi-THK, Angora→Ankara, kaçak tuz, kaçak tütün, hafta tatili.
 Sonraya: nüfus sayımı, yabancıların gözünden Türkiye, Sarıkamış (21 Aralık), Erzincan depremi (26 Aralık), bedelli (yayında).
