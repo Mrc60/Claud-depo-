@@ -1,0 +1,2 @@
+assets/kapak/brush_siyah_hafif.png -> {"success":true,"imageHash":"837ed0361b39636c3817443f14d0ef37f3446175","sizeBytes":35470,"contentType":"image/png","placedOnNodeId":"4:2"}
+assets/kapak/brush_kirmizi_hafif.png -> {"success":true,"imageHash":"9ae0ad49ea5a14b6cf37c013192c557b77859cad","sizeBytes":27671,"contentType":"image/png","placedOnNodeId":"1:8"}
