@@ -1,28 +1,15 @@
 {
- "bolum": "041_bedelli",
- "min_w": 500,
+ "bolum": "042_gelin",
+ "min_w": 800,
  "sorgular": [
-  "Ottoman parliament 1908",
-  "Meclis-i Mebusan",
-  "Ottoman Chamber of Deputies"
+  "Annemarie Schwarzenbach Türkei Frauen",
+  "CH-NB Türkei Dorf Frau",
+  "CH-NB Türkei Bäuerin",
+  "Turkish bride 1930",
+  "Turkish village women 1930s",
+  "Anatolia village family old photograph",
+  "Turkish wedding procession old"
  ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:Ottoman soldiers WWI.jpg",
-   "ad": "c01.jpg"
-  },
-  {
-   "file": "File:Ottoman soldiers 1917.jpeg",
-   "ad": "c02.jpg"
-  },
-  {
-   "file": "File:Turkish volunteers join the army in the Balkan Wars, 1912.jpg",
-   "ad": "c03.jpg"
-  },
-  {
-   "file": "File:Turkish Infantry Column at rest (LOC).jpg",
-   "ad": "c04.jpg"
-  }
- ]
+ "indir": []
 }

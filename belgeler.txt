@@ -1,2 +1,7 @@
-# kapak
-kapak_040_almanya_v4.png https://www.figma.com/api/mcp/asset/6da7adca-2425-461c-ba68-44e9b89896f4.png
+# gelin: doğrulama kaynakları
+alptekin_2022.pdf https://dergipark.org.tr/tr/download/article-file/3603091
+uysal_adiyaman_2019.pdf https://dergipark.org.tr/tr/download/article-file/837275
+topal_nevsehir.pdf https://acikerisim.nevsehir.edu.tr/bitstream/handle/20.500.11787/1456/AY%C5%9EE%20TOPAL.pdf?sequence=1&isAllowed=y
+erzurum_pehlivanli.pdf https://erzurum.edu.tr/Content/menu_dosyalar/e93f1dcd-56a1-46ca-bd6e-ef3c9016bfeb.pdf
+barlas_1961.html https://www.yayinlasak.com/dergiarsiv/yazi-detay-geline-bakmak-ve-el-opmek-2608
+cukurova_7054.pdf http://libratez.cu.edu.tr/tezler/7054.pdf
