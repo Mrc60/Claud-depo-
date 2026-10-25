@@ -1,44 +1,14 @@
 {
  "bolum": "043_okuma",
- "min_w": 600,
+ "min_w": 300,
  "sorgular": [
-  "Milliyet 1929 Millet mektebi",
-  "19290120 Milliyet",
-  "Cumhuriyet 1929 Millet Mektebi",
-  "Millet mektebi hanımlar"
+  "19290103 Milliyet",
+  "19290104 Milliyet",
+  "19290105 Milliyet",
+  "Cumhuriyet 19290104",
+  "Kadınların Hücumu Milliyet",
+  "Milliyet 1929 Ocak"
  ],
- "incele": [
-  "File:19290102 Milliyet 2.jpg",
-  "File:19290102 Milliyet 3.jpg",
-  "File:19290111 Milliyet 1.jpg",
-  "File:19290116 Milliyet.jpg",
-  "File:Turken maken kennis met Latijnse alfabet - Introduction of the Latin alphabet in Turkey (6941437163).jpg",
-  "File:19290106 Milliyet 1.jpg"
- ],
- "indir": [
-  {
-   "file": "File:19290102 Milliyet 2.jpg",
-   "ad": "m19.jpg"
-  },
-  {
-   "file": "File:19290102 Milliyet 3.jpg",
-   "ad": "m21.jpg"
-  },
-  {
-   "file": "File:19290111 Milliyet 1.jpg",
-   "ad": "m23.jpg"
-  },
-  {
-   "file": "File:19290116 Milliyet.jpg",
-   "ad": "m25.jpg"
-  },
-  {
-   "file": "File:Turken maken kennis met Latijnse alfabet - Introduction of the Latin alphabet in Turkey (6941437163).jpg",
-   "ad": "n18.jpg"
-  },
-  {
-   "file": "File:19290106 Milliyet 1.jpg",
-   "ad": "m22.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
