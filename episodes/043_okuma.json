@@ -1,0 +1,260 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 43,
+ "slug": "okuma",
+ "title": "Sınıflara Sığmayan Kadınlar",
+ "youtube_title": "Kadınlar sınıflara sığmadı! #SıradanDeğil 43",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/043_okuma.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     10.1
+    ]
+   ],
+   [
+    [
+     10.1,
+     17.0
+    ]
+   ],
+   [
+    [
+     17.0,
+     25.6
+    ]
+   ],
+   [
+    [
+     25.6,
+     33.0
+    ]
+   ],
+   [
+    [
+     33.0,
+     40.0
+    ]
+   ],
+   [
+    [
+     40.0,
+     51.9
+    ]
+   ],
+   [
+    [
+     51.9,
+     62.2
+    ]
+   ],
+   [
+    [
+     62.2,
+     74.2
+    ]
+   ],
+   [
+    [
+     74.2,
+     80.6
+    ]
+   ],
+   [
+    [
+     80.6,
+     87.6
+    ]
+   ],
+   [
+    [
+     87.6,
+     94.8
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Okuma yazma kursuna o kadar çok kadın geldi ki… kadın sınıflarına sığmadılar. Yer bulamayanlar, erkeklerin sınıfına gidip derse devam etti.",
+   "caption": "Okuma yazma kursuna o kadar çok kadın geldi ki… kadın sınıflarına sığmadılar. Yer bulamayanlar, erkeklerin sınıfına gidip derse devam etti.",
+   "key": [
+    "sığmadılar"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_sinif.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 11 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 11 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu haber, 11 Ocak 1929 tarihli Milliyet gazetesinde, fotoğrafıyla yayımlandı.",
+   "caption": "Bu haber, 11 Ocak 1929 tarihli Milliyet gazetesinde, fotoğrafıyla yayımlandı.",
+   "key": [
+    "Milliyet"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_sinif_yakin.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 11 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 11 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Arap harfleri bırakılmış, bugün kullandığımız harfler kabul edilmişti. 1929 yılının ilk günü Millet Mektepleri açıldı.",
+   "caption": "Arap harfleri bırakılmış, bugün kullandığımız harfler kabul edilmişti. 1929 yılının ilk günü Millet Mektepleri açıldı.",
+   "key": [
+    "Millet Mektepleri"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_alfabe.jpg",
+    "fit": "tam",
+    "baslik": "Nationaal Archief / Spaarnestad (Wikimedia Commons)",
+    "lisans": "",
+    "kaynak": "Nationaal Archief / Spaarnestad (Wikimedia Commons)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu okullarda kadın erkek, genç yaşlı herkese yeni harflerle okuma yazma öğretiliyordu.",
+   "caption": "Bu okullarda kadın erkek, genç yaşlı herkese yeni harflerle okuma yazma öğretiliyordu.",
+   "key": [
+    "herkese"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_yuruyus.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 3 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 3 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Oysa 1927 sayımında… okuma bilen her dört kişiden yalnızca biri kadındı.",
+   "caption": "Oysa 1927 sayımında… okuma bilen her dört kişiden yalnızca biri kadındı.",
+   "key": [
+    "dörtte bir"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_koy_kadinlar.jpg",
+    "fit": "tam",
+    "baslik": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Ankara. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kolay değildi. Kadınların dersleri haftada iki gün, öğleden sonraya konmuştu. Erkekler ise akşamları okuyordu. Buna rağmen İstanbul'da okullara büyük bir rağbet gösterildi.",
+   "caption": "Kolay değildi. Kadınların dersleri haftada iki gün, öğleden sonraya konmuştu. Erkekler ise akşamları okuyordu. Buna rağmen İstanbul'da okullara büyük bir rağbet gösterildi.",
+   "key": [
+    "rağbet"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_ankara.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 16 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 16 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Galatasaray'da açılan yeni bir dershanede… bir hanım, sınava girebileceğini söyledi. Tahtaya kalktı… ve öğretmenin gösterdiği yazıyı başarıyla yazdı.",
+   "caption": "Galatasaray'da açılan yeni bir dershanede… bir hanım, sınava girebileceğini söyledi. Tahtaya kalktı… ve öğretmenin gösterdiği yazıyı başarıyla yazdı.",
+   "key": [
+    "tahtaya"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_tahta.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 2 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 2 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bir ay sonra İstanbul'daki rakamlar açıklandı. Kayıt yaptıran 104 bin kişinin… 55 bininden fazlası kadındı. Kayıtlarda kadınların sayısı, erkeklerden fazlaydı.",
+   "caption": "Bir ay sonra İstanbul'daki rakamlar açıklandı. Kayıt yaptıran 104 bin kişinin… 55 bininden fazlası kadındı. Kayıtlarda kadınların sayısı, erkeklerden fazlaydı.",
+   "key": [
+    "55 bin"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_pankart.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 3 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 3 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizin ailenizde okuma yazmayı sonradan öğrenen bir büyüğünüz var mıydı? Yorumlarınızı bizimle paylaşın.",
+   "caption": "Sizin ailenizde okuma yazmayı sonradan öğrenen bir büyüğünüz var mıydı? Yorumlarınızı bizimle paylaşın.",
+   "key": [
+    "büyüğünüz"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_kadin.jpg",
+    "fit": "tam",
+    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_ankara_grup.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 16 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 16 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_sokak.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 3 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "lisans": "",
+    "kaynak": "Milliyet, 3 Ocak 1929 / İBB Atatürk Kitaplığı (Wikimedia Commons, kamu malı)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
