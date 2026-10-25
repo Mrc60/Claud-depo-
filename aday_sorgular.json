@@ -1,44 +1,21 @@
 {
- "bolum": "045_mubadele",
+ "bolum": "046_lozan",
  "min_w": 700,
- "sorgular": [],
- "incele": [
-  "File:Lausanne - la délégation turque - Ismet Pacha - btv1b90539548.jpg",
-  "File:Conférence de Lausanne sur les affaires du Proche-Orient, délégation turque 1923.jpg",
-  "File:Turkish Christian book with Greek alphabet.png",
-  "File:IONIA, Near East death ship LCCN2014715750.jpg",
-  "File:Greek and Armenian refugee children near Athens, 1923.jpg",
-  "File:كريد جزيره سى ختيطه سى （Map of the Island Krete）. (IA dr ---map-of-the-island-krete-10874000).jpg",
-  "File:Turkey Kirkhraman Pontic Greeks letter Karamanlidika c1910.jpg"
- ],
- "indir": [
-  {
-   "file": "File:Lausanne - la délégation turque - Ismet Pacha - btv1b90539548.jpg",
-   "ad": "lozan1.jpg"
-  },
-  {
-   "file": "File:Conférence de Lausanne sur les affaires du Proche-Orient, délégation turque 1923.jpg",
-   "ad": "lozan2.jpg"
-  },
-  {
-   "file": "File:Turkish Christian book with Greek alphabet.png",
-   "ad": "karaman_kitap.jpg"
-  },
-  {
-   "file": "File:IONIA, Near East death ship LCCN2014715750.jpg",
-   "ad": "gemi.jpg"
-  },
-  {
-   "file": "File:Greek and Armenian refugee children near Athens, 1923.jpg",
-   "ad": "cocuklar.jpg"
-  },
-  {
-   "file": "File:كريد جزيره سى ختيطه سى （Map of the Island Krete）. (IA dr ---map-of-the-island-krete-10874000).jpg",
-   "ad": "girit_harita.jpg"
-  },
-  {
-   "file": "File:Turkey Kirkhraman Pontic Greeks letter Karamanlidika c1910.jpg",
-   "ad": "karaman_mektup.jpg"
-  }
+ "sorgular": [
+  "Treaty of Lausanne signing 1923",
+  "Conference of Lausanne 1923",
+  "Lausanne 1923 photograph",
+  "Ouchy Lausanne 1920s",
+  "Ismet Inonu Lausanne",
+  "Curzon Lausanne conference",
+  "Karaağaç Edirne station",
+  "Edirne 1920s photograph",
+  "Imbros 1920s",
+  "Tenedos old photograph",
+  "Dardanelles 1920s photograph",
+  "Bosphorus 1920s photograph",
+  "Mosul 1920s photograph",
+  "Rhodes 1920s photograph",
+  "Cyprus 1920s photograph"
  ]
 }
