@@ -1,21 +1,39 @@
 {
  "bolum": "045_mubadele",
  "min_w": 600,
- "sorgular": [
-  "mübadele 1923",
-  "mübadil",
-  "Population exchange Greece Turkey",
-  "Muslim refugees 1923 Greece",
-  "Muslim refugees Salonica",
-  "Turkish refugees Salonica 1923",
-  "Cretan Turks",
-  "Cretan Muslims",
-  "Crete Muslim refugees 1923",
-  "exchange of populations 1924",
-  "Tuzla tahaffuzhane",
-  "Muslim refugees from Macedonia 1923",
-  "Turkish refugees 1924"
+ "sorgular": [],
+ "incele": [
+  "File:Mübadil GENCER Ailesi-(1923).jpg",
+  "File:Mübadele-Göçü-İç-Anadolu.jpg",
+  "File:Mübadil Hüviyeti.jpg",
+  "File:Cretan Turks.jpg",
+  "File:Crete Costume La Canee.JPG",
+  "File:Cretan Turkish woman.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Mübadil GENCER Ailesi-(1923).jpg",
+   "ad": "m1.jpg"
+  },
+  {
+   "file": "File:Mübadele-Göçü-İç-Anadolu.jpg",
+   "ad": "m2.jpg"
+  },
+  {
+   "file": "File:Mübadil Hüviyeti.jpg",
+   "ad": "m3.jpg"
+  },
+  {
+   "file": "File:Cretan Turks.jpg",
+   "ad": "m4.jpg"
+  },
+  {
+   "file": "File:Crete Costume La Canee.JPG",
+   "ad": "m5.jpg"
+  },
+  {
+   "file": "File:Cretan Turkish woman.jpg",
+   "ad": "m6.jpg"
+  }
+ ]
 }
