@@ -1,0 +1,495 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 46,
+ "slug": "lozan",
+ "title": "Lozan",
+ "youtube_title": "Lozan masasında neler yaşandı? #SıradanDeğil 46",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/046_lozan.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     6.9
+    ]
+   ],
+   [
+    [
+     6.9,
+     13.3
+    ]
+   ],
+   [
+    [
+     13.3,
+     19.9
+    ]
+   ],
+   [
+    [
+     19.9,
+     26.1
+    ]
+   ],
+   [
+    [
+     26.1,
+     35.4
+    ]
+   ],
+   [
+    [
+     35.4,
+     42.8
+    ]
+   ],
+   [
+    [
+     42.8,
+     50.0
+    ]
+   ],
+   [
+    [
+     50.0,
+     60.9
+    ]
+   ],
+   [
+    [
+     60.9,
+     70.4
+    ]
+   ],
+   [
+    [
+     70.4,
+     76.4
+    ]
+   ],
+   [
+    [
+     76.4,
+     83.2
+    ]
+   ],
+   [
+    [
+     83.2,
+     90.9
+    ]
+   ],
+   [
+    [
+     90.9,
+     99.7
+    ]
+   ],
+   [
+    [
+     99.7,
+     106.9
+    ]
+   ],
+   [
+    [
+     106.9,
+     114.8
+    ]
+   ],
+   [
+    [
+     114.8,
+     122.1
+    ]
+   ],
+   [
+    [
+     122.1,
+     131.8
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Lozan Antlaşmasını hepimiz duyduk. Peki o masada gerçekte neler yaşandığını biliyor musunuz?",
+   "caption": "Lozan Antlaşmasını hepimiz duyduk. Peki o masada gerçekte neler yaşandığını biliyor musunuz?",
+   "key": [
+    "neler yaşandığını"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_ismet_portre.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.05,
+     0.9,
+     0.95
+    ],
+    "baslik": "İsmet Paşa, Lozan Konferansı, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "İsmet Paşa, Lozan Konferansı, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Masaya oturdular… iki buçuk ay pazarlık ettiler… ve masa dağıldı.",
+   "caption": "Masaya oturdular… iki buçuk ay pazarlık ettiler… ve masa dağıldı.",
+   "key": [
+    "masa dağıldı"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_heyet1922.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.05,
+     0.1,
+     0.75,
+     1.0
+    ],
+    "baslik": "Lozan, Türk heyeti, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan, Türk heyeti, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Burası İsviçrenin Lozan kenti. Kurtuluş Savaşını yeni kazanmış Türkiye, 20 Kasım 1922de burada barış için masaya oturdu.",
+   "caption": "Burası İsviçrenin Lozan kenti. Kurtuluş Savaşını yeni kazanmış Türkiye, 20 Kasım 1922de burada barış için masaya oturdu.",
+   "key": [
+    "Lozan"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_ouchy.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.0,
+     0.15,
+     1.0,
+     0.85
+    ],
+    "baslik": "Konferansın yapıldığı Ouchy Şatosu Oteli, Lozan, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Konferansın yapıldığı Ouchy Şatosu Oteli, Lozan, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Türk heyetinin başında İsmet Paşa vardı.",
+   "caption": "Türk heyetinin başında İsmet Paşa vardı.",
+   "key": [
+    "İsmet Paşa"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_ismet_otel.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.2,
+     0.0,
+     0.8,
+     1.0
+    ],
+    "baslik": "İsmet Paşa Château d'Ouchy'den çıkarken, Lozan, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "İsmet Paşa Château d'Ouchy'den çıkarken, Lozan, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama anlaşmazlıklar bitmedi. Musul, kapitülasyonlar, Osmanlı borçları… 4 Şubat 1923te görüşmeler kesildi.",
+   "caption": "Ama anlaşmazlıklar bitmedi. Musul, kapitülasyonlar, Osmanlı borçları… 4 Şubat 1923te görüşmeler kesildi.",
+   "key": [
+    "görüşmeler kesildi"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_curzon.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Lord Curzon, Mussolini ve Poincaré, Lozan, 20 Kasım 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lord Curzon, Mussolini ve Poincaré, Lozan, 20 Kasım 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Türk heyeti, anlaşma olmadan yurda döndü. İki buçuk ay sonra, 23 Nisanda masa yeniden kuruldu.",
+   "caption": "Türk heyeti, anlaşma olmadan yurda döndü. İki buçuk ay sonra, 23 Nisanda masa yeniden kuruldu.",
+   "key": [
+    "yeniden kuruldu"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_heyet_bank.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.1,
+     0.85,
+     0.95
+    ],
+    "baslik": "Lozan Konferansı, Türk heyeti, 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan Konferansı, Türk heyeti, 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve 24 Temmuz 1923te antlaşma imzalandı. Peki Lozanda neler elde edildi?",
+   "caption": "Ve 24 Temmuz 1923te antlaşma imzalandı. Peki Lozanda neler elde edildi?",
+   "key": [
+    "imzalandı"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_heyet.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.05,
+     0.9,
+     0.95
+    ],
+    "baslik": "Lozana giden Türk heyeti, 1923 · Frank and Frances Carpenter Collection, Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozana giden Türk heyeti, 1923 · Frank and Frances Carpenter Collection, Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yeni Türk devleti, dünyanın büyük devletlerince tanındı. Osmanlı döneminden kalan, yabancılara tanınmış ayrıcalıklar, yani kapitülasyonlar, tamamen kaldırıldı.",
+   "caption": "Yeni Türk devleti, dünyanın büyük devletlerince tanındı. Osmanlı döneminden kalan, yabancılara tanınmış ayrıcalıklar, yani kapitülasyonlar, tamamen kaldırıldı.",
+   "key": [
+    "kapitülasyonlar"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_donus.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "İsmet Paşa Lozan dönüşü İstanbulda, Babıâli, 10 Ağustos 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "İsmet Paşa Lozan dönüşü İstanbulda, Babıâli, 10 Ağustos 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Batıda Meriç nehri sınır oldu. Edirnenin karşısındaki Karaağaç, Yunanistanın ödemesi gereken savaş tazminatına karşılık Türkiyeye bırakıldı.",
+   "caption": "Batıda Meriç nehri sınır oldu. Edirnenin karşısındaki Karaağaç, Yunanistanın ödemesi gereken savaş tazminatına karşılık Türkiyeye bırakıldı.",
+   "key": [
+    "Karaağaç"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_edirne.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Türk birliklerinin Edirneye girişi, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türk birliklerinin Edirneye girişi, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "İmroz ve Bozcaada Türkiyede kaldı. Peki nelerden vazgeçtik?",
+   "caption": "İmroz ve Bozcaada Türkiyede kaldı. Peki nelerden vazgeçtik?",
+   "key": [
+    "Bozcaada"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_bozcaada.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Bozcaada (Ténédos), köy, 1915 · F. Masnou, Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Bozcaada (Ténédos), köy, 1915 · F. Masnou, Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Midilli, Sakız, Sisam gibi Ege adaları Yunanistanda kaldı. Rodos ve Onikiada İtalyaya bırakıldı.",
+   "caption": "Midilli, Sakız, Sisam gibi Ege adaları Yunanistanda kaldı. Rodos ve Onikiada İtalyaya bırakıldı.",
+   "key": [
+    "Ege adaları"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_sisam.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.3,
+     0.0,
+     0.62,
+     1.0
+    ],
+    "baslik": "Sisam, Vathi limanı, 1912 · Réginald Kann, LIllustration / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Sisam, Vathi limanı, 1912 · Réginald Kann, LIllustration / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kıbrısın İngiltereye bağlanması kabul edildi. Mısır, Sudan ve Trablusgarp üzerindeki haklardan vazgeçildi.",
+   "caption": "Kıbrısın İngiltereye bağlanması kabul edildi. Mısır, Sudan ve Trablusgarp üzerindeki haklardan vazgeçildi.",
+   "key": [
+    "Kıbrıs"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_kibris.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Kıbrıs, Mağusa, Lala Mustafa Paşa Türbesi, 1908 · My Experiences of Cyprus / Internet Archive / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Kıbrıs, Mağusa, Lala Mustafa Paşa Türbesi, 1908 · My Experiences of Cyprus / Internet Archive / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Boğazların iki yakası silahtan arındırıldı. Gemilerin geçişini, başkanı Türk olan uluslararası bir komisyon denetleyecekti.",
+   "caption": "Boğazların iki yakası silahtan arındırıldı. Gemilerin geçişini, başkanı Türk olan uluslararası bir komisyon denetleyecekti.",
+   "key": [
+    "Boğazların"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_bogaz.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Boğaz kıyısı, 1920-1950 arası · Dr. Julij Felaher arşivi, Slovenya Dijital Kütüphanesi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Boğaz kıyısı, 1920-1950 arası · Dr. Julij Felaher arşivi, Slovenya Dijital Kütüphanesi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve Musul… Türkiye ile İngiltere dokuz ay içinde anlaşacaktı. Ama bu mesele Lozanda çözülemedi.",
+   "caption": "Ve Musul… Türkiye ile İngiltere dokuz ay içinde anlaşacaktı. Ama bu mesele Lozanda çözülemedi.",
+   "key": [
+    "Musul"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_musul.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Musul, Dicle üzerinde tekne köprüsü, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Musul, Dicle üzerinde tekne köprüsü, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bir önceki videomuzda anlattığımız mübadele sözleşmesi de, bu görüşmeler sürerken, 30 Ocak 1923te imzalanmıştı.",
+   "caption": "Bir önceki videomuzda anlattığımız mübadele sözleşmesi de, bu görüşmeler sürerken, 30 Ocak 1923te imzalanmıştı.",
+   "key": [
+    "mübadele"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_aile.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.12,
+     0.0,
+     0.88,
+     1.0
+    ],
+    "baslik": "Mübadil Gencer ailesi, Kandiye → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Mübadil Gencer ailesi, Kandiye → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizce Lozan… bir zafer miydi, yoksa bir kayıp mı? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce Lozan… bir zafer miydi, yoksa bir kayıp mı? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "zafer",
+    "kayıp"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_heyet1922.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.4,
+     0.1,
+     1.0,
+     1.0
+    ],
+    "baslik": "Lozan, Türk heyeti, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan, Türk heyeti, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_ouchy.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.0,
+     0.3,
+     1.0,
+     0.75
+    ],
+    "baslik": "Ouchy Şatosu Oteli, Lozan, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Ouchy Şatosu Oteli, Lozan, 1922 · Agence Meurisse / Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
