@@ -1,0 +1,300 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 45,
+ "slug": "mubadele",
+ "title": "Mübadele",
+ "youtube_title": "Müslüman diye gönderildiler, burada gâvur dendi! #SıradanDeğil 45",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/045_mubadele.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     9.65
+    ]
+   ],
+   [
+    [
+     9.65,
+     16.85
+    ]
+   ],
+   [
+    [
+     16.85,
+     23.05
+    ]
+   ],
+   [
+    [
+     23.05,
+     33.15
+    ]
+   ],
+   [
+    [
+     33.15,
+     43.05
+    ]
+   ],
+   [
+    [
+     43.05,
+     52.35
+    ]
+   ],
+   [
+    [
+     52.35,
+     59.95
+    ]
+   ],
+   [
+    [
+     59.95,
+     66.35
+    ]
+   ],
+   [
+    [
+     66.35,
+     73.85
+    ]
+   ],
+   [
+    [
+     73.85,
+     83.25
+    ]
+   ],
+   [
+    [
+     83.25,
+     94.35
+    ]
+   ],
+   [
+    [
+     94.35,
+     104.2
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Müslüman oldukları için doğdukları adadan gönderildiler. Türkiyeye geldiklerinde ise bazıları onlara… yarım gâvur dedi.",
+   "caption": "Müslüman oldukları için doğdukları adadan gönderildiler. Türkiyeye geldiklerinde ise bazıları onlara… yarım gâvur dedi.",
+   "key": [
+    "yarım gâvur"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_aile.jpg",
+    "fit": "tam",
+    "baslik": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu insanlar Giritliydi. Girit, Akdenizde, o yıllarda Yunanistana bağlı büyük bir ada.",
+   "caption": "Bu insanlar Giritliydi. Girit, Akdenizde, o yıllarda Yunanistana bağlı büyük bir ada.",
+   "key": [
+    "Giritliydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_girit_harita.jpg",
+    "fit": "tam",
+    "baslik": "Harita: Girit adası, Osmanlı Harbiye Nezareti Matbaası, 1891 · David Rumsey koleksiyonu / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Girit adası, Osmanlı Harbiye Nezareti Matbaası, 1891 · David Rumsey koleksiyonu / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1923 yılında Lozanda, Türkiye ile Yunanistan arasında bir sözleşme imzalandı.",
+   "caption": "1923 yılında Lozanda, Türkiye ile Yunanistan arasında bir sözleşme imzalandı.",
+   "key": [
+    "Lozanda"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_lozan2.jpg",
+    "fit": "tam",
+    "baslik": "Lozan Konferansı, Türk heyeti (soldan ikinci İsmet Paşa), 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan Konferansı, Türk heyeti (soldan ikinci İsmet Paşa), 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Buna mübadele denir. Yani nüfus değişimi. Yunanistandaki Müslümanlar Türkiyeye, Türkiyedeki Ortodoks Rumlar Yunanistana gönderilecekti.",
+   "caption": "Buna mübadele denir. Yani nüfus değişimi. Yunanistandaki Müslümanlar Türkiyeye, Türkiyedeki Ortodoks Rumlar Yunanistana gönderilecekti.",
+   "key": [
+    "mübadele"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_lozan1.jpg",
+    "fit": "tam",
+    "baslik": "Lozan, Türk heyeti, 1922 · Agence Meurisse, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan, Türk heyeti, 1922 · Agence Meurisse, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu bir seçim değildi. Zorunluydu. Giden, izin almadan geri dönüp yaşayamayacaktı. Yüz binlerce insan evini, toprağını bıraktı.",
+   "caption": "Bu bir seçim değildi. Zorunluydu. Giden, izin almadan geri dönüp yaşayamayacaktı. Yüz binlerce insan evini, toprağını bıraktı.",
+   "key": [
+    "Zorunluydu"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_aile.jpg",
+    "fit": "doldur",
+    "baslik": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
+    "sayfa": "",
+    "kirp": [
+     0.52,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama Giritlilerin bir sorunu vardı. Adada gündelik hayatta Rumca konuşuyorlardı. Çoğu, ekmek su isteyecek kadar bile Türkçe bilmiyordu.",
+   "caption": "Ama Giritlilerin bir sorunu vardı. Adada gündelik hayatta Rumca konuşuyorlardı. Çoğu, ekmek su isteyecek kadar bile Türkçe bilmiyordu.",
+   "key": [
+    "Türkçe bilmiyordu"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_giritli.jpg",
+    "fit": "tam",
+    "baslik": "Kartpostal: Giritli Türkler, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Kartpostal: Giritli Türkler, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yeni yurtlarında kendilerini anlatmakta zorlandılar. Rumca konuştukları için bazıları onları gâvur gibi gördü.",
+   "caption": "Yeni yurtlarında kendilerini anlatmakta zorlandılar. Rumca konuştukları için bazıları onları gâvur gibi gördü.",
+   "key": [
+    "zorlandılar"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_kadin.jpg",
+    "fit": "tam",
+    "baslik": "Kartpostal: Giritli Türk kadını, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Kartpostal: Giritli Türk kadını, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aynı şey öbür tarafta da yaşandı. Anadoludan, Türkçe konuşan Ortodokslar da Yunanistana gönderildi.",
+   "caption": "Aynı şey öbür tarafta da yaşandı. Anadoludan, Türkçe konuşan Ortodokslar da Yunanistana gönderildi.",
+   "key": [
+    "öbür tarafta"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_gemi.jpg",
+    "fit": "tam",
+    "baslik": "Trabzondan Pireye göçmen taşıyan Ionia gemisi, 1922-23 · Bain News Service, Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Trabzondan Pireye göçmen taşıyan Ionia gemisi, 1922-23 · Bain News Service, Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu insanlar Türkçeyi Rum harfleriyle yazıyordu. Yani kimin gideceğini dil değil… din belirledi.",
+   "caption": "Bu insanlar Türkçeyi Rum harfleriyle yazıyordu. Yani kimin gideceğini dil değil… din belirledi.",
+   "key": [
+    "din belirledi"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_karaman_kitap.jpg",
+    "fit": "tam",
+    "baslik": "Rum harfleriyle Türkçe (Karamanlıca) kitap, İstanbul, 1836 · British Library / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Rum harfleriyle Türkçe (Karamanlıca) kitap, İstanbul, 1836 · British Library / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Orada Müslüman oldukları için gönderildiler. Burada Rumca konuştukları için dışlandılar. Ama bu topraklarda… yeniden hayat kurdular.",
+   "caption": "Orada Müslüman oldukları için gönderildiler. Burada Rumca konuştukları için dışlandılar. Ama bu topraklarda… yeniden hayat kurdular.",
+   "key": [
+    "yeniden hayat kurdular"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_aile.jpg",
+    "fit": "doldur",
+    "baslik": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
+    "sayfa": "",
+    "kirp": [
+     0.0,
+     0.0,
+     0.5,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizin ailenizde de başka bir yerden gelip yeni bir hayat kuran büyükleriniz var mı? Hikâyenizi yorumlarda paylaşın. Sıradan Değilde tarihî bilgileri kaynaklara dayandırıyoruz.",
+   "caption": "Sizin ailenizde de başka bir yerden gelip yeni bir hayat kuran büyükleriniz var mı? Hikâyenizi yorumlarda paylaşın. Sıradan Değilde tarihî bilgileri kaynaklara dayandırıyoruz.",
+   "key": [
+    "büyükleriniz"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_hanya.jpg",
+    "fit": "tam",
+    "baslik": "Kartpostal: Giritli Türk, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Kartpostal: Giritli Türk, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/045_giritli.jpg",
+    "fit": "doldur",
+    "baslik": "Kartpostal: Giritli Türkler, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Kartpostal: Giritli Türkler, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+    "sayfa": "",
+    "kirp": [
+     0.15,
+     0.2,
+     0.85,
+     0.8
+    ]
+   },
+   "scene": "photo"
+  }
+ ]
+}
