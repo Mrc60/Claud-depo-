@@ -1,13 +1,22 @@
 {
- "bolum": "043_okuma",
- "min_w": 300,
+ "bolum": "044_arzuhalci",
+ "min_w": 600,
  "sorgular": [
-  "19290103 Milliyet",
-  "19290104 Milliyet",
-  "19290105 Milliyet",
-  "Cumhuriyet 19290104",
-  "Kadınların Hücumu Milliyet",
-  "Milliyet 1929 Ocak"
+  "public letter writer Constantinople",
+  "letter writer Constantinople",
+  "public scribe Istanbul",
+  "arzuhalci",
+  "arzuhalciler",
+  "Schreiber Konstantinopel",
+  "écrivain public Constantinople",
+  "letter writer Turkey",
+  "public writer Smyrna",
+  "street letter writer Ottoman",
+  "scribe Stamboul mosque",
+  "Türkei Schreiber Schwarzenbach",
+  "yazıcı İstanbul postane",
+  "letter-writer Constantinople Underwood",
+  "public letter writer Turkey 1920"
  ],
  "incele": [],
  "indir": []
