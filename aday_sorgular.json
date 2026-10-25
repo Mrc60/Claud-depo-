@@ -1,39 +1,16 @@
 {
  "bolum": "045_mubadele",
- "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:Mübadil GENCER Ailesi-(1923).jpg",
-  "File:Mübadele-Göçü-İç-Anadolu.jpg",
-  "File:Mübadil Hüviyeti.jpg",
-  "File:Cretan Turks.jpg",
-  "File:Crete Costume La Canee.JPG",
-  "File:Cretan Turkish woman.jpg"
- ],
- "indir": [
-  {
-   "file": "File:Mübadil GENCER Ailesi-(1923).jpg",
-   "ad": "m1.jpg"
-  },
-  {
-   "file": "File:Mübadele-Göçü-İç-Anadolu.jpg",
-   "ad": "m2.jpg"
-  },
-  {
-   "file": "File:Mübadil Hüviyeti.jpg",
-   "ad": "m3.jpg"
-  },
-  {
-   "file": "File:Cretan Turks.jpg",
-   "ad": "m4.jpg"
-  },
-  {
-   "file": "File:Crete Costume La Canee.JPG",
-   "ad": "m5.jpg"
-  },
-  {
-   "file": "File:Cretan Turkish woman.jpg",
-   "ad": "m6.jpg"
-  }
+ "min_w": 700,
+ "sorgular": [
+  "Lausanne Conference 1923 delegation photograph",
+  "Lausanne conference 1922 Ismet Pasha delegation",
+  "Karamanlides",
+  "Karamanlidika",
+  "Sinasos Mustafapaşa old photograph",
+  "Greek refugees 1923 ship photograph",
+  "population exchange 1923 refugees",
+  "Muslim refugees Thessaloniki 1923",
+  "Crete Muslims 1900 photograph",
+  "Candia Crete 1900s photograph"
  ]
 }
