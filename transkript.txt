@@ -1,2 +1,1 @@
-assets/ses/042_gelin.mp3
-# yeni ses 1792858792
+assets/ses/043_okuma.mp3
