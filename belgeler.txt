@@ -1,4 +1,4 @@
-# okuma: engeller
-gpt_cocuk_bakimi.pdf https://dergipark.org.tr/en/download/issue-full-file/85149
-cunbur_kadin_egitimi.pdf https://dergipark.org.tr/tr/download/article-file/1166401
-aslan_avar.pdf https://ctad.hacettepe.edu.tr/21_42/05.pdf
+# arzuhalci dogrulama
+kocu_arzuhalci.html https://istanbulansiklopedisi.org/handle/rek/4599
+tdv_arzuhal.html https://islamansiklopedisi.org.tr/arzuhal
+ekinci.html https://www.ekrembugraekinci.com/article/?ID=1183&ipten-adam-alan-arzuhalci
