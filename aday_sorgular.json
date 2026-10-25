@@ -1,24 +1,23 @@
 {
- "bolum": "042_gelin",
- "min_w": 500,
- "sorgular": [],
+ "bolum": "043_okuma",
+ "min_w": 600,
+ "sorgular": [
+  "Millet Mektebi",
+  "Millet Mektepleri kadın",
+  "Türk kadınları okuma yazma 1929",
+  "Turkish women alphabet 1928",
+  "Turkey new alphabet lesson women",
+  "Kız mektebi talebeleri",
+  "kız öğrenciler 1930 Türkiye",
+  "Turkish schoolgirls 1930s",
+  "köy okulu 1930 Türkiye",
+  "Turkey village school 1930s",
+  "Türkei Schule Mädchen Schwarzenbach",
+  "Kadın öğretmen 1930 Türkiye",
+  "Türkei Frauen Schwarzenbach",
+  "Anatolian village women 1930s",
+  "harf inkılabı ders"
+ ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-049.jpg",
-   "ad": "k04.jpg"
-  },
-  {
-   "file": "File:CH-NB - Türkei, Kaiserie (Kayseri)- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-248.jpg",
-   "ad": "k10.jpg"
-  },
-  {
-   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
-   "ad": "k11.jpg"
-  },
-  {
-   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
-   "ad": "k12.jpg"
-  }
- ]
+ "indir": []
 }
