@@ -1,16 +1,44 @@
 {
  "bolum": "045_mubadele",
  "min_w": 700,
- "sorgular": [
-  "Lausanne Conference 1923 delegation photograph",
-  "Lausanne conference 1922 Ismet Pasha delegation",
-  "Karamanlides",
-  "Karamanlidika",
-  "Sinasos Mustafapaşa old photograph",
-  "Greek refugees 1923 ship photograph",
-  "population exchange 1923 refugees",
-  "Muslim refugees Thessaloniki 1923",
-  "Crete Muslims 1900 photograph",
-  "Candia Crete 1900s photograph"
+ "sorgular": [],
+ "incele": [
+  "File:Lausanne - la délégation turque - Ismet Pacha - btv1b90539548.jpg",
+  "File:Conférence de Lausanne sur les affaires du Proche-Orient, délégation turque 1923.jpg",
+  "File:Turkish Christian book with Greek alphabet.png",
+  "File:IONIA, Near East death ship LCCN2014715750.jpg",
+  "File:Greek and Armenian refugee children near Athens, 1923.jpg",
+  "File:كريد جزيره سى ختيطه سى （Map of the Island Krete）. (IA dr ---map-of-the-island-krete-10874000).jpg",
+  "File:Turkey Kirkhraman Pontic Greeks letter Karamanlidika c1910.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Lausanne - la délégation turque - Ismet Pacha - btv1b90539548.jpg",
+   "ad": "lozan1.jpg"
+  },
+  {
+   "file": "File:Conférence de Lausanne sur les affaires du Proche-Orient, délégation turque 1923.jpg",
+   "ad": "lozan2.jpg"
+  },
+  {
+   "file": "File:Turkish Christian book with Greek alphabet.png",
+   "ad": "karaman_kitap.jpg"
+  },
+  {
+   "file": "File:IONIA, Near East death ship LCCN2014715750.jpg",
+   "ad": "gemi.jpg"
+  },
+  {
+   "file": "File:Greek and Armenian refugee children near Athens, 1923.jpg",
+   "ad": "cocuklar.jpg"
+  },
+  {
+   "file": "File:كريد جزيره سى ختيطه سى （Map of the Island Krete）. (IA dr ---map-of-the-island-krete-10874000).jpg",
+   "ad": "girit_harita.jpg"
+  },
+  {
+   "file": "File:Turkey Kirkhraman Pontic Greeks letter Karamanlidika c1910.jpg",
+   "ad": "karaman_mektup.jpg"
+  }
  ]
 }
