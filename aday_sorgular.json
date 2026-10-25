@@ -1,23 +1,19 @@
 {
  "bolum": "044_arzuhalci",
- "min_w": 600,
+ "min_w": 800,
  "sorgular": [
-  "public letter writer Constantinople",
-  "letter writer Constantinople",
-  "public scribe Istanbul",
-  "arzuhalci",
-  "arzuhalciler",
-  "Schreiber Konstantinopel",
-  "écrivain public Constantinople",
-  "letter writer Turkey",
-  "public writer Smyrna",
-  "street letter writer Ottoman",
-  "scribe Stamboul mosque",
-  "Türkei Schreiber Schwarzenbach",
-  "yazıcı İstanbul postane",
-  "letter-writer Constantinople Underwood",
-  "public letter writer Turkey 1920"
+  "Kılıç Ali Paşa Mosque Abdullah Frères",
+  "Kilic Ali Pasha Mosque Tophane 19th century photograph",
+  "Tophane fountain Abdullah Frères",
+  "Yeni Cami Eminönü Abdullah Frères",
+  "Yeni Valide Mosque Sebah",
+  "Helmuth von Moltke portrait photograph",
+  "Preziosi arzuhalci",
+  "Amadeo Preziosi scribe"
  ],
- "incele": [],
+ "incele": [
+  "File:Osman Hamdi Bey - Arzuhalci , Public Scribe - Google Art Project.jpg",
+  "File:Les Turcs- écrivain public - De Amicis Edmondo - 1883.jpg"
+ ],
  "indir": []
 }
