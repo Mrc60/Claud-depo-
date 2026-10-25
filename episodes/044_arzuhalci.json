@@ -1,0 +1,282 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 44,
+ "slug": "arzuhalci",
+ "title": "Arzuhalciler",
+ "youtube_title": "Sırlarını bir yabancıya anlatmak zorundaydılar! #SıradanDeğil 44",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/044_arzuhalci.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     8.4
+    ]
+   ],
+   [
+    [
+     8.4,
+     17.6
+    ]
+   ],
+   [
+    [
+     17.6,
+     26.1
+    ]
+   ],
+   [
+    [
+     26.1,
+     32.4
+    ]
+   ],
+   [
+    [
+     32.4,
+     45.9
+    ]
+   ],
+   [
+    [
+     45.9,
+     53.5
+    ]
+   ],
+   [
+    [
+     53.5,
+     64.8
+    ]
+   ],
+   [
+    [
+     64.8,
+     73.6
+    ]
+   ],
+   [
+    [
+     73.6,
+     80.8
+    ]
+   ],
+   [
+    [
+     80.8,
+     88.6
+    ]
+   ],
+   [
+    [
+     88.6,
+     95.4
+    ]
+   ],
+   [
+    [
+     95.4,
+     102.6
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Yüzü örtülü kadınlar… en gizli dertlerini bir yabancıya anlatıyordu. Üstelik elleriyle işaretler yaparak…",
+   "caption": "Yüzü örtülü kadınlar… en gizli dertlerini bir yabancıya anlatıyordu. Üstelik elleriyle işaretler yaparak…",
+   "key": [
+    "gizli dertlerini"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_gravur.jpg",
+    "fit": "tam",
+    "baslik": "Gravür: \"Les Turcs: écrivain public\", E. de Amicis, Constantinople, 1883",
+    "lisans": "",
+    "kaynak": "Gravür: \"Les Turcs: écrivain public\", E. de Amicis, Constantinople, 1883",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Çünkü o yıllarda okuma yazma bilen çok azdı. Mektup yazdırmak ya da devlete dilekçe vermek isteyenler, arzuhalcilere başvuruyordu.",
+   "caption": "Çünkü o yıllarda okuma yazma bilen çok azdı. Mektup yazdırmak ya da devlete dilekçe vermek isteyenler, arzuhalcilere başvuruyordu.",
+   "key": [
+    "arzuhalcilere"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_tablo.jpg",
+    "fit": "tam",
+    "baslik": "Osman Hamdi Bey, \"Arzuhalci\" (tablo), 1910 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Osman Hamdi Bey, \"Arzuhalci\" (tablo), 1910 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1836 yılında, Tophane'de bir cami avlusunda… dizinde kâğıt, elinde kamış kalemle bir arzuhalci oturuyordu.",
+   "caption": "1836 yılında, Tophane'de bir cami avlusunda… dizinde kâğıt, elinde kamış kalemle bir arzuhalci oturuyordu.",
+   "key": [
+    "kamış kalem"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_galata.jpg",
+    "fit": "tam",
+    "baslik": "Galata, 1880–1893. Foto: Abdullah Frères / Library of Congress",
+    "lisans": "",
+    "kaynak": "Galata, 1880–1893. Foto: Abdullah Frères / Library of Congress",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Prusyalı subay Moltke, İstanbul'dan annesine yazdığı mektupta bu sahneyi anlatmıştı.",
+   "caption": "Prusyalı subay Moltke, İstanbul'dan annesine yazdığı mektupta bu sahneyi anlatmıştı.",
+   "key": [
+    "Moltke"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_moltke.jpg",
+    "fit": "tam",
+    "baslik": "Helmuth von Moltke, y. 1889 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Helmuth von Moltke, y. 1889 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Arzuhalci, karşısına gelen insanların sırlarını dinliyor… dava dilekçelerini ve ölüm haberlerini yazıyordu. Sonra kâğıdı katlıyor, kırmızı mumla mühürlüyor… karşılığında yirmi para alıyordu.",
+   "caption": "Arzuhalci, karşısına gelen insanların sırlarını dinliyor… dava dilekçelerini ve ölüm haberlerini yazıyordu. Sonra kâğıdı katlıyor, kırmızı mumla mühürlüyor… karşılığında yirmi para alıyordu.",
+   "key": [
+    "yirmi para"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_tablo_yakin.jpg",
+    "fit": "tam",
+    "baslik": "Osman Hamdi Bey, \"Arzuhalci\" (tablo), 1910 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Osman Hamdi Bey, \"Arzuhalci\" (tablo), 1910 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama bu meslekte yalnızca güzel yazı yazmak yetmiyordu. Arzuhalcinin güvenilir biri olup olmadığı da önem taşıyordu.",
+   "caption": "Ama bu meslekte yalnızca güzel yazı yazmak yetmiyordu. Arzuhalcinin güvenilir biri olup olmadığı da önem taşıyordu.",
+   "key": [
+    "güvenilir"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_ayasofya.jpg",
+    "fit": "tam",
+    "baslik": "Ayasofya Meydanı, y. 1880. Foto: Abdullah Frères / Library of Congress",
+    "lisans": "",
+    "kaynak": "Ayasofya Meydanı, y. 1880. Foto: Abdullah Frères / Library of Congress",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kiminin adliyede bir davası vardı… kiminin taşrada çocuğu, eşi ya da sevdiği. Her biri, içindekileri kâğıda dökmek için arzuhalciye geliyordu.",
+   "caption": "Kiminin adliyede bir davası vardı… kiminin taşrada çocuğu, eşi ya da sevdiği. Her biri, içindekileri kâğıda dökmek için arzuhalciye geliyordu.",
+   "key": [
+    "taşrada"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_postane.jpg",
+    "fit": "tam",
+    "baslik": "Osmanlı postanesi, y. 1910 (kartpostal) / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Osmanlı postanesi, y. 1910 (kartpostal) / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sonra yeni harfler kabul edildi. Arzuhalciler azalmaya başladı. 1933 yılında Yedigün dergisi şöyle yazıyordu:",
+   "caption": "Sonra yeni harfler kabul edildi. Arzuhalciler azalmaya başladı. 1933 yılında Yedigün dergisi şöyle yazıyordu:",
+   "key": [
+    "yeni harfler"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_yenicami.jpg",
+    "fit": "tam",
+    "baslik": "Yeni Cami ve Eminönü, y. 1890–1900 (fotokrom) / Library of Congress",
+    "lisans": "",
+    "kaynak": "Yeni Cami ve Eminönü, y. 1890–1900 (fotokrom) / Library of Congress",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "\"Herkes kendi mektubunu kendi karalıyor. Böylece mahremiyetini yabancıların önüne yaymaktan kurtuluyor.\"",
+   "caption": "\"Herkes kendi mektubunu kendi karalıyor. Böylece mahremiyetini yabancıların önüne yaymaktan kurtuluyor.\"",
+   "key": [
+    "mahremiyetini"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_sinif.jpg",
+    "fit": "tam",
+    "baslik": "Milliyet, 11 Ocak 1929 / İBB Atatürk Kitaplığı",
+    "lisans": "",
+    "kaynak": "Milliyet, 11 Ocak 1929 / İBB Atatürk Kitaplığı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki, sizin ailenizde mektubunu başkasına yazdıran bir büyüğünüz oldu mu? Hikâyenizi yorumlarda paylaşın.",
+   "caption": "Peki, sizin ailenizde mektubunu başkasına yazdıran bir büyüğünüz oldu mu? Hikâyenizi yorumlarda paylaşın.",
+   "key": [
+    "büyüğünüz"
+   ],
+   "image": {
+    "local": "assets/belgeler/042_kadin2.jpg",
+    "fit": "tam",
+    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "lisans": "",
+    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sıradan Değil'de tarihî bilgileri kaynaklara dayandırıyoruz. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "kaynaklara"
+   ],
+   "image": {
+    "local": "assets/belgeler/044_tablo_kadinlar.jpg",
+    "fit": "tam",
+    "baslik": "Osman Hamdi Bey, \"Arzuhalci\" (tablo), 1910 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Osman Hamdi Bey, \"Arzuhalci\" (tablo), 1910 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/043_alfabe.jpg",
+    "fit": "tam",
+    "baslik": "Nationaal Archief / Spaarnestad (Wikimedia Commons)",
+    "lisans": "",
+    "kaynak": "Nationaal Archief / Spaarnestad (Wikimedia Commons)",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
