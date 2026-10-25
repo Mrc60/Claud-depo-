@@ -94,11 +94,17 @@
    ],
    "image": {
     "local": "assets/belgeler/045_aile.jpg",
-    "fit": "tam",
+    "fit": "doldur",
     "baslik": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
     "lisans": "",
     "kaynak": "Mübadil Gencer ailesi, Kandiye (Girit) → Çeşme, 1923 · Lozan Mübadilleri Vakfı, Y. Gönülşen aile arşivi / Wikimedia Commons",
-    "sayfa": ""
+    "sayfa": "",
+    "kirp": [
+     0.12,
+     0.0,
+     0.88,
+     1.0
+    ]
    },
    "scene": "photo"
   },
@@ -126,11 +132,17 @@
    ],
    "image": {
     "local": "assets/belgeler/045_lozan2.jpg",
-    "fit": "tam",
+    "fit": "doldur",
     "baslik": "Lozan Konferansı, Türk heyeti (soldan ikinci İsmet Paşa), 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
     "lisans": "",
     "kaynak": "Lozan Konferansı, Türk heyeti (soldan ikinci İsmet Paşa), 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
-    "sayfa": ""
+    "sayfa": "",
+    "kirp": [
+     0.22,
+     0.15,
+     0.88,
+     0.95
+    ]
    },
    "scene": "photo"
   },
@@ -142,11 +154,17 @@
    ],
    "image": {
     "local": "assets/belgeler/045_lozan1.jpg",
-    "fit": "tam",
+    "fit": "doldur",
     "baslik": "Lozan, Türk heyeti, 1922 · Agence Meurisse, BnF Gallica / Wikimedia Commons",
     "lisans": "",
     "kaynak": "Lozan, Türk heyeti, 1922 · Agence Meurisse, BnF Gallica / Wikimedia Commons",
-    "sayfa": ""
+    "sayfa": "",
+    "kirp": [
+     0.28,
+     0.08,
+     0.78,
+     0.95
+    ]
    },
    "scene": "photo"
   },
@@ -212,11 +230,17 @@
    ],
    "image": {
     "local": "assets/belgeler/045_gemi.jpg",
-    "fit": "tam",
+    "fit": "doldur",
     "baslik": "Trabzondan Pireye göçmen taşıyan Ionia gemisi, 1922-23 · Bain News Service, Library of Congress / Wikimedia Commons",
     "lisans": "",
     "kaynak": "Trabzondan Pireye göçmen taşıyan Ionia gemisi, 1922-23 · Bain News Service, Library of Congress / Wikimedia Commons",
-    "sayfa": ""
+    "sayfa": "",
+    "kirp": [
+     0.12,
+     0.15,
+     0.72,
+     0.85
+    ]
    },
    "scene": "photo"
   },
