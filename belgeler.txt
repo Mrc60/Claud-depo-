@@ -1,4 +1,2 @@
-# arzuhalci dogrulama
-kocu_arzuhalci.html https://istanbulansiklopedisi.org/handle/rek/4599
-tdv_arzuhal.html https://islamansiklopedisi.org.tr/arzuhal
-ekinci.html https://www.ekrembugraekinci.com/article/?ID=1183&ipten-adam-alan-arzuhalci
+# tanyer
+tanyer_2004.pdf https://tbbdergisi.barobirlik.org.tr/ViewPDF-eski-istanbulda-arzuhalciler-50
