@@ -1,40 +1,19 @@
 {
  "bolum": "044_arzuhalci",
  "min_w": 900,
- "sorgular": [
-  "Hagia Sophia Abdullah Frères LOC",
-  "Sainte Sophie Constantinople 1890 photograph LOC",
-  "Yeni Cami Constantinople photochrom",
-  "New Mosque Constantinople Sébah Joaillier",
-  "Eminönü 1900 photograph LOC"
- ],
+ "sorgular": [],
  "incele": [
-  "File:Osman Hamdi Bey - Arzuhalci , Public Scribe - Google Art Project.jpg",
-  "File:Les Turcs- écrivain public - De Amicis Edmondo - 1883.jpg",
-  "File:Helmuth von Moltke Photo ca. 1889.jpg",
-  "File:Street in Galata, Istanbul, Turkey by Abdullah Frères, ca. 1880-1893 (LOC).jpg",
-  "File:Istanbul general post office 1909.jpg"
+  "File:St. Sophie - Abdullah Frères. LCCN2003677065.jpg",
+  "File:Yeni Cami mosque and Eminönü bazaar.jpg"
  ],
  "indir": [
   {
-   "file": "File:Osman Hamdi Bey - Arzuhalci , Public Scribe - Google Art Project.jpg",
-   "ad": "oh.jpg"
+   "file": "File:St. Sophie - Abdullah Frères. LCCN2003677065.jpg",
+   "ad": "ayasofya.jpg"
   },
   {
-   "file": "File:Les Turcs- écrivain public - De Amicis Edmondo - 1883.jpg",
-   "ad": "gravur.jpg"
-  },
-  {
-   "file": "File:Helmuth von Moltke Photo ca. 1889.jpg",
-   "ad": "moltke.jpg"
-  },
-  {
-   "file": "File:Street in Galata, Istanbul, Turkey by Abdullah Frères, ca. 1880-1893 (LOC).jpg",
-   "ad": "galata.jpg"
-  },
-  {
-   "file": "File:Istanbul general post office 1909.jpg",
-   "ad": "postane.jpg"
+   "file": "File:Yeni Cami mosque and Eminönü bazaar.jpg",
+   "ad": "yenicami.jpg"
   }
  ]
 }
