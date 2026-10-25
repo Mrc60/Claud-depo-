@@ -1,7 +1,3 @@
-# mubadele dogrulama
-emgili_mersin.html https://www.lozanmubadilleri.org.tr/arastirma/turk-yunan-nufus-mubadelesinin-mersinin-sosyo-ekonomik-yapisina-etkileri-fahriye-emgili/
-menekse_sayfa.html https://dergipark.org.tr/en/pub/canakkalearastirmalari/article/867078
-cetin_denizli.pdf https://makale.isam.org.tr/server/api/core/bitstreams/199c1810-1d58-4bbb-b21a-343a88a14203/content
-guvenc_selanik.html http://www.lozanmubadilleri.org.tr/arastirma/selaniklilik-kimligi-uzerine-bir-deneme-sefer-guvenc/
-emgili_barinma.pdf https://dergipark.org.tr/tr/download/article-file/1799736
-gencer_commons.html https://commons.wikimedia.org/wiki/File:M%C3%BCbadil_GENCER_Ailesi-(1923).jpg
+# mubadele 2
+menekse.pdf https://dergipark.org.tr/en/download/article-file/1529033
+emgili_mersin.html http://www.lozanmubadilleri.org.tr/arastirma/turk-yunan-nufus-mubadelesinin-mersinin-sosyo-ekonomik-yapisina-etkileri-fahriye-emgili/
