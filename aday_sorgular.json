@@ -1,45 +1,34 @@
 {
  "bolum": "048_hatay",
  "min_w": 500,
- "sorgular": [
-  "Hatay State 1938",
-  "Hatay 1938 photograph",
-  "Sanjak of Alexandretta 1937",
-  "Antakya 1938",
-  "İskenderun 1938"
- ],
+ "sorgular": [],
  "incele": [
-  "File:Sanjak of Alexandretta.jpg",
-  "File:Antakya'ya giren Türk süvarileri, 6 Temmuz 1938.jpg",
-  "File:French-Turkish agreement, July 3, 1938.jpg",
-  "File:İsmet İnönü Hatay'da (1939).jpg",
-  "File:Hatay Devleti icra heyeti.jpg",
-  "File:Asım Gündüz and Robert Collet in Hatay.jpg"
+  "File:TurkishArmyAlexandretta.jpeg",
+  "File:Cevat Açıkalın and Robert Collet in Antakya.jpg",
+  "File:Turkish Army entered Alexandretta July 5, 1938.jpg",
+  "File:Le Temps - 22 Mart 1939.png",
+  "File:Reglement Organique of the Sandjak of Alexandretta, within the State of Syria, 14 May 1930.png"
  ],
  "indir": [
   {
-   "file": "File:Sanjak of Alexandretta.jpg",
-   "ad": "harita.jpg"
+   "file": "File:TurkishArmyAlexandretta.jpeg",
+   "ad": "ordu_isk.jpg"
   },
   {
-   "file": "File:Antakya'ya giren Türk süvarileri, 6 Temmuz 1938.jpg",
-   "ad": "suvari1938.jpg"
+   "file": "File:Cevat Açıkalın and Robert Collet in Antakya.jpg",
+   "ad": "acikalin.jpg"
   },
   {
-   "file": "File:French-Turkish agreement, July 3, 1938.jpg",
-   "ad": "anlasma1938.jpg"
+   "file": "File:Turkish Army entered Alexandretta July 5, 1938.jpg",
+   "ad": "ordu1938.jpg"
   },
   {
-   "file": "File:İsmet İnönü Hatay'da (1939).jpg",
-   "ad": "inonu1939.jpg"
+   "file": "File:Le Temps - 22 Mart 1939.png",
+   "ad": "letemps.jpg"
   },
   {
-   "file": "File:Hatay Devleti icra heyeti.jpg",
-   "ad": "icra.jpg"
-  },
-  {
-   "file": "File:Asım Gündüz and Robert Collet in Hatay.jpg",
-   "ad": "gunduz.jpg"
+   "file": "File:Reglement Organique of the Sandjak of Alexandretta, within the State of Syria, 14 May 1930.png",
+   "ad": "reglement.jpg"
   }
  ]
 }
