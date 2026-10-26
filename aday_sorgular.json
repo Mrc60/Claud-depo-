@@ -1,44 +1,45 @@
 {
- "bolum": "047_sinirlar",
- "min_w": 600,
- "sorgular": [],
+ "bolum": "048_hatay",
+ "min_w": 500,
+ "sorgular": [
+  "Hatay State 1938",
+  "Hatay 1938 photograph",
+  "Sanjak of Alexandretta 1937",
+  "Antakya 1938",
+  "İskenderun 1938"
+ ],
  "incele": [
-  "File:Batum LCCN2014698257.jpg",
-  "File:OLD FORT AT KARS, ARMENIA, overlooking the city of Kars, Armenia - DPLA - 3808f2ad5094533c3881817fca7494cf.jpg",
-  "File:Antioch from bridge LOC matpc.06166.jpg",
-  "File:Alexandretta LOC matpc.07193.jpg",
-  "File:Turkish army parade in Hatay governorate, 1939.jpg",
-  "File:Asım Gündüz and Robert Collet in Hatay.jpg",
-  "File:10-8-20, manufacture de Sèvres, signature de la paix turque - btv1b530515180.jpg"
+  "File:Sanjak of Alexandretta.jpg",
+  "File:Antakya'ya giren Türk süvarileri, 6 Temmuz 1938.jpg",
+  "File:French-Turkish agreement, July 3, 1938.jpg",
+  "File:İsmet İnönü Hatay'da (1939).jpg",
+  "File:Hatay Devleti icra heyeti.jpg",
+  "File:Asım Gündüz and Robert Collet in Hatay.jpg"
  ],
  "indir": [
   {
-   "file": "File:Batum LCCN2014698257.jpg",
-   "ad": "batum.jpg"
+   "file": "File:Sanjak of Alexandretta.jpg",
+   "ad": "harita.jpg"
   },
   {
-   "file": "File:OLD FORT AT KARS, ARMENIA, overlooking the city of Kars, Armenia - DPLA - 3808f2ad5094533c3881817fca7494cf.jpg",
-   "ad": "kars.jpg"
+   "file": "File:Antakya'ya giren Türk süvarileri, 6 Temmuz 1938.jpg",
+   "ad": "suvari1938.jpg"
   },
   {
-   "file": "File:Antioch from bridge LOC matpc.06166.jpg",
-   "ad": "antakya.jpg"
+   "file": "File:French-Turkish agreement, July 3, 1938.jpg",
+   "ad": "anlasma1938.jpg"
   },
   {
-   "file": "File:Alexandretta LOC matpc.07193.jpg",
-   "ad": "iskenderun.jpg"
+   "file": "File:İsmet İnönü Hatay'da (1939).jpg",
+   "ad": "inonu1939.jpg"
   },
   {
-   "file": "File:Turkish army parade in Hatay governorate, 1939.jpg",
-   "ad": "hatay1939.jpg"
+   "file": "File:Hatay Devleti icra heyeti.jpg",
+   "ad": "icra.jpg"
   },
   {
    "file": "File:Asım Gündüz and Robert Collet in Hatay.jpg",
-   "ad": "hatay_gunduz.jpg"
-  },
-  {
-   "file": "File:10-8-20, manufacture de Sèvres, signature de la paix turque - btv1b530515180.jpg",
-   "ad": "sevr2.jpg"
+   "ad": "gunduz.jpg"
   }
  ]
 }
