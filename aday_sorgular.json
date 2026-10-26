@@ -1,26 +1,44 @@
 {
  "bolum": "047_sinirlar",
  "min_w": 600,
- "sorgular": [
-  "Batum LCCN",
-  "Batum harbor Bain",
-  "Kars 1920s photograph",
-  "Kars city old photograph",
-  "Antioch matpc",
-  "Alexandretta matpc",
-  "Antakya 1930s",
-  "Iskenderun 1930s",
-  "Hatay 1939",
-  "Sevres 1920 signature paix turque"
- ],
+ "sorgular": [],
  "incele": [
-  "File:Sèvres, 10-8-20, signature de la paix turque - btv1b53051498x.jpg",
-  "File:Ceremonial signing of the Treaty of Moscow, March 16, 1921.jpg"
+  "File:Batum LCCN2014698257.jpg",
+  "File:OLD FORT AT KARS, ARMENIA, overlooking the city of Kars, Armenia - DPLA - 3808f2ad5094533c3881817fca7494cf.jpg",
+  "File:Antioch from bridge LOC matpc.06166.jpg",
+  "File:Alexandretta LOC matpc.07193.jpg",
+  "File:Turkish army parade in Hatay governorate, 1939.jpg",
+  "File:Asım Gündüz and Robert Collet in Hatay.jpg",
+  "File:10-8-20, manufacture de Sèvres, signature de la paix turque - btv1b530515180.jpg"
  ],
  "indir": [
   {
-   "file": "File:Sèvres, 10-8-20, signature de la paix turque - btv1b53051498x.jpg",
-   "ad": "sevr.jpg"
+   "file": "File:Batum LCCN2014698257.jpg",
+   "ad": "batum.jpg"
+  },
+  {
+   "file": "File:OLD FORT AT KARS, ARMENIA, overlooking the city of Kars, Armenia - DPLA - 3808f2ad5094533c3881817fca7494cf.jpg",
+   "ad": "kars.jpg"
+  },
+  {
+   "file": "File:Antioch from bridge LOC matpc.06166.jpg",
+   "ad": "antakya.jpg"
+  },
+  {
+   "file": "File:Alexandretta LOC matpc.07193.jpg",
+   "ad": "iskenderun.jpg"
+  },
+  {
+   "file": "File:Turkish army parade in Hatay governorate, 1939.jpg",
+   "ad": "hatay1939.jpg"
+  },
+  {
+   "file": "File:Asım Gündüz and Robert Collet in Hatay.jpg",
+   "ad": "hatay_gunduz.jpg"
+  },
+  {
+   "file": "File:10-8-20, manufacture de Sèvres, signature de la paix turque - btv1b530515180.jpg",
+   "ad": "sevr2.jpg"
   }
  ]
 }
