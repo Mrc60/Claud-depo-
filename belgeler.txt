@@ -1,3 +1,5 @@
 # mubadele 2
 menekse.pdf https://dergipark.org.tr/en/download/article-file/1529033
 emgili_mersin.html http://www.lozanmubadilleri.org.tr/arastirma/turk-yunan-nufus-mubadelesinin-mersinin-sosyo-ekonomik-yapisina-etkileri-fahriye-emgili/
+# sinirlar dogrulama
+cosar_musul.pdf https://dergipark.org.tr/en/download/article-file/845071
