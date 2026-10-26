@@ -1,0 +1,354 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 47,
+ "slug": "sinirlar",
+ "title": "Sınırlar",
+ "youtube_title": "Türkiyenin sınırları nasıl çizildi? #SıradanDeğil 47",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/047_sinirlar.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.2
+    ]
+   ],
+   [
+    [
+     7.2,
+     13.7
+    ]
+   ],
+   [
+    [
+     13.7,
+     26.0
+    ]
+   ],
+   [
+    [
+     26.0,
+     33.6
+    ]
+   ],
+   [
+    [
+     33.6,
+     40.2
+    ]
+   ],
+   [
+    [
+     40.2,
+     50.4
+    ]
+   ],
+   [
+    [
+     50.4,
+     62.3
+    ]
+   ],
+   [
+    [
+     62.3,
+     74.3
+    ]
+   ],
+   [
+    [
+     74.3,
+     85.3
+    ]
+   ],
+   [
+    [
+     85.3,
+     97.5
+    ]
+   ],
+   [
+    [
+     97.5,
+     106.3
+    ]
+   ],
+   [
+    [
+     106.3,
+     113.7
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Lozan imzalandı… Peki Türkiyenin haritası tamamen belli olmuş muydu?",
+   "caption": "Lozan imzalandı… Peki Türkiyenin haritası tamamen belli olmuş muydu?",
+   "key": [
+    "haritası"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_heyet.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.05,
+     0.9,
+     0.95
+    ],
+    "baslik": "Lozana giden Türk heyeti, 1923 · Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozana giden Türk heyeti, 1923 · Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Hayır. Bugünkü sınırlar tek bir antlaşmayla değil… yıllar süren bir mücadeleyle çizildi.",
+   "caption": "Hayır. Bugünkü sınırlar tek bir antlaşmayla değil… yıllar süren bir mücadeleyle çizildi.",
+   "key": [
+    "mücadeleyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_edirne.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Türk birliklerinin Edirneye girişi, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türk birliklerinin Edirneye girişi, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Birinci Dünya Savaşından sonra, 1920de imzalanan Sevr Antlaşması, Osmanlı topraklarını parçalamayı öngörüyordu. Ankarada toplanan Büyük Millet Meclisi bu antlaşmaya karşı çıktı.",
+   "caption": "Birinci Dünya Savaşından sonra, 1920de imzalanan Sevr Antlaşması, Osmanlı topraklarını parçalamayı öngörüyordu. Ankarada toplanan Büyük Millet Meclisi bu antlaşmaya karşı çıktı.",
+   "key": [
+    "Sevr"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_sevr2.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.85,
+     0.92
+    ],
+    "baslik": "Sevr Antlaşmasının imzası, Sèvres, 10 Ağustos 1920 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Sevr Antlaşmasının imzası, Sèvres, 10 Ağustos 1920 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Doğuda, 1921 yılında Moskova ve Kars antlaşmalarıyla sınır büyük ölçüde belirlendi.",
+   "caption": "Doğuda, 1921 yılında Moskova ve Kars antlaşmalarıyla sınır büyük ölçüde belirlendi.",
+   "key": [
+    "Kars"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_kars.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.6,
+     0.07,
+     0.99,
+     0.5
+    ],
+    "baslik": "Kars, eski kale ve şehir, 27 Eylül 1919 · ABD Ordusu, National Archives / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Kars, eski kale ve şehir, 27 Eylül 1919 · ABD Ordusu, National Archives / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kars, Ardahan ve Artvin Türkiyede kaldı. Ama Batum, Sovyet Gürcistanına bırakıldı.",
+   "caption": "Kars, Ardahan ve Artvin Türkiyede kaldı. Ama Batum, Sovyet Gürcistanına bırakıldı.",
+   "key": [
+    "Batum"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_batum.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.05,
+     0.75,
+     1.0
+    ],
+    "baslik": "Batum limanı, 1910 civarı · Bain News Service, Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Batum limanı, 1910 civarı · Bain News Service, Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Güneyde, aynı yıl Fransa ile Ankara Antlaşması imzalandı. İskenderun Sancağı ise sınırın dışında kaldı… ve özel yönetimli bir bölge oldu.",
+   "caption": "Güneyde, aynı yıl Fransa ile Ankara Antlaşması imzalandı. İskenderun Sancağı ise sınırın dışında kaldı… ve özel yönetimli bir bölge oldu.",
+   "key": [
+    "İskenderun"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_iskenderun.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.2,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "İskenderun, 1898-1946 arası · Matson Koleksiyonu, Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "İskenderun, 1898-1946 arası · Matson Koleksiyonu, Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Batıda sınırı Lozan çizdi. Ama Musul meselesi açıkta kaldı. Türkiye ile İngiltere anlaşamadı. Mesele Milletler Cemiyetine taşındı.",
+   "caption": "Batıda sınırı Lozan çizdi. Ama Musul meselesi açıkta kaldı. Türkiye ile İngiltere anlaşamadı. Mesele Milletler Cemiyetine taşındı.",
+   "key": [
+    "Musul"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_musul.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Musul, Dicle üzerinde tekne köprüsü, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Musul, Dicle üzerinde tekne köprüsü, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve 1926da imzalanan Ankara Antlaşmasıyla Musul, Iraka bırakıldı. Karşılığında Türkiyeye, Musul petrollerinin gelirinden 25 yıl boyunca yüzde 10 pay verilmesi kararlaştırıldı.",
+   "caption": "Ve 1926da imzalanan Ankara Antlaşmasıyla Musul, Iraka bırakıldı. Karşılığında Türkiyeye, Musul petrollerinin gelirinden 25 yıl boyunca yüzde 10 pay verilmesi kararlaştırıldı.",
+   "key": [
+    "yüzde 10"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_musul.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.4,
+     0.0,
+     1.0,
+     1.0
+    ],
+    "baslik": "Musul, Dicle üzerinde tekne köprüsü, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Musul, Dicle üzerinde tekne köprüsü, Ocak 1923 · Agence Rol, BnF Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Haritanın son parçası güneydeydi. İskenderun Sancağı yıllarca Fransız yönetiminde kaldı. 23 Haziran 1939da Fransa ile anlaşma imzalandı.",
+   "caption": "Haritanın son parçası güneydeydi. İskenderun Sancağı yıllarca Fransız yönetiminde kaldı. 23 Haziran 1939da Fransa ile anlaşma imzalandı.",
+   "key": [
+    "1939"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_antakya.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.52,
+     0.05,
+     0.98,
+     0.95
+    ],
+    "baslik": "Antakya, Asi nehri, 1898-1946 arası · Matson Koleksiyonu, Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Antakya, Asi nehri, 1898-1946 arası · Matson Koleksiyonu, Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve aynı ay, Hatay Meclisi Türkiyeye katılma kararı aldı. Yani bugün haritada gördüğümüz sınırlar… yaklaşık yirmi yılda, hem savaşla hem masada çizildi.",
+   "caption": "Ve aynı ay, Hatay Meclisi Türkiyeye katılma kararı aldı. Yani bugün haritada gördüğümüz sınırlar… yaklaşık yirmi yılda, hem savaşla hem masada çizildi.",
+   "key": [
+    "Hatay"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_hatay_gunduz.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.2,
+     0.0,
+     0.8,
+     1.0
+    ],
+    "baslik": "Asım Gündüz ve Fransız Albay Robert Collet, Hatay, 1939 · Cumhuriyetin 75 Yılı, YKY 1998 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Asım Gündüz ve Fransız Albay Robert Collet, Hatay, 1939 · Cumhuriyetin 75 Yılı, YKY 1998 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizce bu yolda alınan en zor karar hangisiydi? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce bu yolda alınan en zor karar hangisiydi? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "en zor karar"
+   ],
+   "image": {
+    "local": "assets/belgeler/046_heyet_bank.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.1,
+     0.85,
+     0.95
+    ],
+    "baslik": "Lozan Konferansı, Türk heyeti, 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan Konferansı, Türk heyeti, 1923 · F.-H. Jullien, BGE Cenevre / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/047_batum.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.45,
+     0.05,
+     1.0,
+     1.0
+    ],
+    "baslik": "Batum limanı, 1910 civarı · Bain News Service, Library of Congress / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Batum limanı, 1910 civarı · Bain News Service, Library of Congress / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
