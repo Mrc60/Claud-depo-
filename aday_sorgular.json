@@ -1,1 +1,26 @@
-{"bolum": "046_lozan", "min_w": 600, "sorgular": [], "incele": ["File:Razgled na obmorski del mesta 1920-50.jpg"]}
+{
+ "bolum": "047_sinirlar",
+ "min_w": 600,
+ "sorgular": [
+  "Batum LCCN",
+  "Batum harbor Bain",
+  "Kars 1920s photograph",
+  "Kars city old photograph",
+  "Antioch matpc",
+  "Alexandretta matpc",
+  "Antakya 1930s",
+  "Iskenderun 1930s",
+  "Hatay 1939",
+  "Sevres 1920 signature paix turque"
+ ],
+ "incele": [
+  "File:Sèvres, 10-8-20, signature de la paix turque - btv1b53051498x.jpg",
+  "File:Ceremonial signing of the Treaty of Moscow, March 16, 1921.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Sèvres, 10-8-20, signature de la paix turque - btv1b53051498x.jpg",
+   "ad": "sevr.jpg"
+  }
+ ]
+}
