@@ -1,0 +1,270 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 48,
+ "slug": "hatay",
+ "title": "Hatay",
+ "youtube_title": "Hatay Türkiyeye nasıl katıldı? #SıradanDeğil 48",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/048_hatay.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     11.1
+    ]
+   ],
+   [
+    [
+     11.1,
+     23.7
+    ]
+   ],
+   [
+    [
+     23.7,
+     35.6
+    ]
+   ],
+   [
+    [
+     35.6,
+     49.9
+    ]
+   ],
+   [
+    [
+     49.9,
+     55.3
+    ]
+   ],
+   [
+    [
+     55.3,
+     64.8
+    ]
+   ],
+   [
+    [
+     64.8,
+     72.4
+    ]
+   ],
+   [
+    [
+     72.4,
+     82.7
+    ]
+   ],
+   [
+    [
+     82.7,
+     94.7
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Hatay, Türkiyeye nasıl katıldı? Tabii ki tek bir imzayla değil. Bu hikâyenin arkasında tam 18 yıla yayılan bir süreç vardı.",
+   "caption": "Hatay, Türkiyeye nasıl katıldı? Tabii ki tek bir imzayla değil. Bu hikâyenin arkasında tam 18 yıla yayılan bir süreç vardı.",
+   "key": [
+    "18 yıla"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_ordu1938.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.0,
+     0.0,
+     1.0,
+     0.75
+    ],
+    "baslik": "Türk ordusunun İskenderun Sancağına girişi, 5 Temmuz 1938 · NTV Tarih 43, A. İ. Gökçen arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türk ordusunun İskenderun Sancağına girişi, 5 Temmuz 1938 · NTV Tarih 43, A. İ. Gökçen arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1921de Türkiye ile Fransa, Ankara Antlaşmasını imzaladı. İskenderun Sancağı sınırın dışında, Fransız yönetimindeki Suriyenin içinde kaldı. Ama özel yönetimli bir bölge oldu.",
+   "caption": "1921de Türkiye ile Fransa, Ankara Antlaşmasını imzaladı. İskenderun Sancağı sınırın dışında, Fransız yönetimindeki Suriyenin içinde kaldı. Ama özel yönetimli bir bölge oldu.",
+   "key": [
+    "İskenderun Sancağı"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_harita.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.0,
+     0.0,
+     0.6,
+     1.0
+    ],
+    "baslik": "Harita: Hatay (İskenderun, Antakya ve Harbiye), 1930lar · Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Hatay (İskenderun, Antakya ve Harbiye), 1930lar · Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "15 yıl sonra, 1936da Fransa, Suriyeye bağımsızlık sözü veren bir anlaşma yaptı. Bu gelişme üzerine Türkiye, sancak meselesini yeniden masaya getirdi.",
+   "caption": "15 yıl sonra, 1936da Fransa, Suriyeye bağımsızlık sözü veren bir anlaşma yaptı. Bu gelişme üzerine Türkiye, sancak meselesini yeniden masaya getirdi.",
+   "key": [
+    "1936"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_reglement.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.85,
+     1.0
+    ],
+    "baslik": "Belge: İskenderun Sancağı Tüzüğü, Fransız Yüksek Komiserliği, 14 Mayıs 1930 · Aix-Marseille Üniv. / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Belge: İskenderun Sancağı Tüzüğü, Fransız Yüksek Komiserliği, 14 Mayıs 1930 · Aix-Marseille Üniv. / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Mesele Milletler Cemiyetine taşındı. 1937de sancak için ayrı bir statü kabul edildi. Sancak içişlerinde bağımsızdı… ama dışişlerinde ve gümrükte hâlâ Suriyeye bağlıydı.",
+   "caption": "Mesele Milletler Cemiyetine taşındı. 1937de sancak için ayrı bir statü kabul edildi. Sancak içişlerinde bağımsızdı… ama dışişlerinde ve gümrükte hâlâ Suriyeye bağlıydı.",
+   "key": [
+    "Milletler Cemiyetine"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_harita.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.2,
+     0.1,
+     0.75,
+     0.9
+    ],
+    "baslik": "Harita: Hatay (İskenderun, Antakya ve Harbiye), 1930lar · Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Hatay (İskenderun, Antakya ve Harbiye), 1930lar · Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1938de sancakta bir meclis kuruldu. Ve Hatay Devleti doğdu.",
+   "caption": "1938de sancakta bir meclis kuruldu. Ve Hatay Devleti doğdu.",
+   "key": [
+    "Hatay Devleti"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_suvari1938.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.85,
+     1.0
+    ],
+    "baslik": "Antakyaya giren Türk süvarileri, 6 Temmuz 1938 · NTV Tarih 43, S. Kayserilioğlu arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Antakyaya giren Türk süvarileri, 6 Temmuz 1938 · NTV Tarih 43, S. Kayserilioğlu arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "23 Haziran 1939da Türkiye ile Fransa yeni bir antlaşma imzaladı. Fransa, Hatayın Türkiyeye katılmasını kabul etti.",
+   "caption": "23 Haziran 1939da Türkiye ile Fransa yeni bir antlaşma imzaladı. Fransa, Hatayın Türkiyeye katılmasını kabul etti.",
+   "key": [
+    "23 Haziran 1939"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_anlasma1938.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.85,
+     1.0
+    ],
+    "baslik": "Türk ve Fransız heyetleri, Antakya, 3 Temmuz 1938 · Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türk ve Fransız heyetleri, Antakya, 3 Temmuz 1938 · Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aynı ay, Hatay Meclisi oybirliğiyle Türkiyeye katılma kararı aldı… ve bu kararla kendini dağıttı.",
+   "caption": "Aynı ay, Hatay Meclisi oybirliğiyle Türkiyeye katılma kararı aldı… ve bu kararla kendini dağıttı.",
+   "key": [
+    "oybirliğiyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_gunduz.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.2,
+     0.0,
+     0.8,
+     1.0
+    ],
+    "baslik": "Asım Gündüz ve Fransız Albay Robert Collet, Hatay, 1939 · Cumhuriyetin 75 Yılı, YKY 1998 / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Asım Gündüz ve Fransız Albay Robert Collet, Hatay, 1939 · Cumhuriyetin 75 Yılı, YKY 1998 / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "On sekiz yıllık bekleyiş… 1939 yazında sona erdi. Sizce Hatayın Türkiyeye katılmasında en belirleyici adım hangisiydi?",
+   "caption": "On sekiz yıllık bekleyiş… 1939 yazında sona erdi. Sizce Hatayın Türkiyeye katılmasında en belirleyici adım hangisiydi?",
+   "key": [
+    "sona erdi"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_ordu1938.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.0,
+     0.45,
+     1.0,
+     1.0
+    ],
+    "baslik": "Türk ordusunun İskenderun Sancağına girişi, 5 Temmuz 1938 · NTV Tarih 43, A. İ. Gökçen arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türk ordusunun İskenderun Sancağına girişi, 5 Temmuz 1938 · NTV Tarih 43, A. İ. Gökçen arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/048_ordu_isk.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.85,
+     1.0
+    ],
+    "baslik": "Türk ordusunun İskenderuna girişi, 5 Temmuz 1938 · Hürriyet arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türk ordusunun İskenderuna girişi, 5 Temmuz 1938 · Hürriyet arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
