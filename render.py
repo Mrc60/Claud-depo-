@@ -442,6 +442,7 @@ for i, s in enumerate(SEGS):
 # ---------- gerçek fotoğraflar ----------
 PHOTOS = {}
 SS = 2  # fotoğraflar ekranın 2 katı çözünürlükte tutulur
+KAMERA_HIZI = 45  # ekran pikseli / saniye
 _img_json = os.path.join(build, "images.json")
 if os.path.exists(_img_json):
     for k, v in json.load(open(_img_json, encoding="utf-8")).items():
@@ -496,12 +497,17 @@ def photo_for(seg_idx):
 
 def photo_scene(layer, seg_idx, lt, dur):
     p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
-    u = ease_io(lt / max(dur, 0.1))
-    z = lerp(1.0, 1.04, u)                        # yavaş yakınlaştırma
+    # Sabit hızlı hareket: çok yavaş ya da yavaşlayıp duran kamera "takılıyor" gibi algılanıyordu.
+    # Her sahnede kenarlar saniyede KAMERA_HIZI piksel akar; önce yana kayma, yetmezse yakınlaştırma.
+    u = clamp(lt / max(dur, 0.1))
+    yol = KAMERA_HIZI * dur
+    pan = min(yol, 0.8 * (im.width / SS - W))     # yana kaymaya ayrılabilecek ekran pikseli
+    z_son = min(1.12, 1 + max(0.0, yol - pan) / (H / 2))
+    z = lerp(1.0, z_son, u)
     cw, ch = W * SS / z, H * SS / z
     span_x, span_y = im.width - cw, im.height - ch
     d = -1 if seg_idx % 2 else 1                 # sahneler sırayla sola/sağa kayar
-    x = span_x * (0.5 + d * lerp(-0.2, 0.2, u))  # yavaş kayma
+    x = span_x / 2 + d * lerp(-pan / 2, pan / 2, u) * SS
     y = span_y * 0.45
     # alt piksel hassas kırpma: tam sayıya yuvarlama her karede 1 px oynayıp titreme yapıyordu
     crop = im.resize((W, H), Image.LANCZOS, box=(x, y, x + cw, y + ch))
