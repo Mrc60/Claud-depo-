@@ -14,3 +14,6 @@ arslan_devrim.pdf https://dergipark.org.tr/en/download/article-file/1787576
 sahinkaya_devrim.pdf https://dergipark.org.tr/tr/download/article-file/522
 turasas_devrim.html http://devrimarabasi.com.tr/bir-basari-oykusu/
 dha_devrim.html https://www.dha.com.tr/gundem/siyah-devrim-otomobilinin-58-yillik-sirri-1746626
+# 052 devrim 2
+arslan_devrim2.pdf https://dergipark.org.tr/tr/download/article-file/1787576
+emo_devrim.pdf https://www.emo.org.tr/ekler/e84320349c4aa97_ek.pdf?dergi=4
