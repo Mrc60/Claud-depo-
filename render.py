@@ -498,15 +498,17 @@ def photo_scene(layer, seg_idx, lt, dur):
     p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
     u = clamp(lt / max(dur, 0.1))                 # doğrusal: kamera sahne başında/sonunda yavaşlayıp durmasın
     # En düşük kamera hızı: kare başına 1 pikselin altı "takılma" gibi görünüyor (dikey/dar fotoğraflar, uzun sahneler)
-    VMIN = 1.2                                    # ekran px / kare
+    # sahneye özel hız çarpanı (bölüm JSON'unda image.hiz, ör. banknotlar için 0.5)
+    hiz = float(((SEGS[seg_idx].get("image") or {}) if seg_idx < len(SEGS) else {}).get("hiz", 1.0))
+    VMIN = 1.2 * hiz                              # ekran px / kare
     need = VMIN * FPS * dur * SS                  # sahne boyunca gereken kayma (fotoğraf pikseli)
     span0 = im.width - W * SS
-    frac = 0.72
+    frac = 0.72 * hiz
     if span0 * frac < need:
-        frac = min(0.95, need / max(span0, 1))
-    z_end = 1.056
+        frac = min(0.95 * hiz, need / max(span0, 1))
+    z_end = 1 + 0.056 * hiz
     if span0 * frac < need:                       # kayma payı yetmiyorsa eksik hızı yakınlaşmayla tamamla
-        z_end = min(1.12, 1.056 + (need - span0 * frac) / (W * SS))
+        z_end = min(1 + 0.12 * hiz, z_end + (need - span0 * frac) / (W * SS))
     z = lerp(1.0, z_end, u)                       # yavaş yakınlaştırma
     cw, ch = W * SS / z, H * SS / z
     span_x, span_y = im.width - cw, im.height - ch
