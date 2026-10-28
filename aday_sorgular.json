@@ -1,24 +1,39 @@
 {
  "bolum": "050_ege",
  "min_w": 800,
- "sorgular": [
-  "Rhodes old photograph",
-  "Rhodes 1930s",
-  "Rhodes 1940s",
-  "Lesbos Mytilene old photograph",
-  "Chios old photograph",
-  "Samos old photograph",
-  "Aegean fishing boats old photograph",
-  "Aegean Sea sailing boat 1920s",
-  "Bozcaada old photograph",
-  "Tenedos castle photograph",
-  "Imbros Gökçeada village",
-  "offshore drilling 1970s",
-  "oil drilling rig 1970s",
-  "research vessel 1970s",
-  "seismic survey ship",
-  "Aegean coast 1930s photograph"
+ "sorgular": [],
+ "incele": [
+  "File:Rhodes; a gateway in the old walls of the city. Photograph, Wellcome V0030974.jpg",
+  "File:Tenedos (Relation d un voyage du Levant).jpg",
+  "File:Vue de la Ville de Ténedos - Choiseul-gouffier Gabriel Florent Auguste De - 1822.jpg",
+  "File:Bill Woodward pointing to data on the seismic plotter.jpg",
+  "File:Bill Woodward with seismic plotter.jpg",
+  "File:Data reading from seismic plotter.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Rhodes; a gateway in the old walls of the city. Photograph, Wellcome V0030974.jpg",
+   "ad": "050_rodos.jpg"
+  },
+  {
+   "file": "File:Tenedos (Relation d un voyage du Levant).jpg",
+   "ad": "050_bozcaada1.jpg"
+  },
+  {
+   "file": "File:Vue de la Ville de Ténedos - Choiseul-gouffier Gabriel Florent Auguste De - 1822.jpg",
+   "ad": "050_bozcaada2.jpg"
+  },
+  {
+   "file": "File:Bill Woodward pointing to data on the seismic plotter.jpg",
+   "ad": "050_sismik_a.jpg"
+  },
+  {
+   "file": "File:Bill Woodward with seismic plotter.jpg",
+   "ad": "050_sismik_b.jpg"
+  },
+  {
+   "file": "File:Data reading from seismic plotter.jpg",
+   "ad": "050_sismik_kesit.jpg"
+  }
+ ]
 }
