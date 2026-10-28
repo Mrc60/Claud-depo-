@@ -1,5 +1,25 @@
-# mubadele 2
-menekse.pdf https://dergipark.org.tr/en/download/article-file/1529033
-emgili_mersin.html http://www.lozanmubadilleri.org.tr/arastirma/turk-yunan-nufus-mubadelesinin-mersinin-sosyo-ekonomik-yapisina-etkileri-fahriye-emgili/
-# sinirlar dogrulama
+# 049 musul dogrulama
 cosar_musul.pdf https://dergipark.org.tr/en/download/article-file/845071
+aa_musul.pdf https://ataturkansiklopedisi.gov.tr/bilgi/musul-meselesi/?pdf=3449
+aa_irak.pdf https://ataturkansiklopedisi.gov.tr/bilgi/turkiye-irak-iliskileri/?pdf=3298
+aa_seyhsait.html https://ataturkansiklopedisi.gov.tr/bilgi/seyh-said-isyani/
+aa_misak.html https://ataturkansiklopedisi.gov.tr/bilgi/misak-i-milli/
+tdv_musul.html https://islamansiklopedisi.org.tr/musul
+tdv_seyhsait.html https://islamansiklopedisi.org.tr/seyh-said-isyani
+yazici_musul.pdf https://ayk.gov.tr/wp-content/uploads/2015/01/YAZICI-Nevin-1926-1955-YILLARI-ARASINDA-MUSUL-SORUNUNUN-T%C3%9CRK-DI%C5%9E-POL%C4%B0T%C4%B0KASINA-YANSIMASI.pdf
+lozan_en.html https://groong.com/treaties/lausanne.html
+lozan_ws.html https://en.wikisource.org/wiki/Treaty_of_Lausanne/Part_I
+ankara1926.pdf https://treaties.fcdo.gov.uk/data/Library2/pdf/1926-TS0010.pdf
+ankara1926_lnts.html https://www.worldlii.org/int/other/treaties/LNTSer/1927/120.html
+# 049 musul gorsel kayitlari (Museums Victoria)
+mv_1176550.json https://collections.museumsvictoria.com.au/api/items/1176550
+mv_1176112.json https://collections.museumsvictoria.com.au/api/items/1176112
+mv_1176345.json https://collections.museumsvictoria.com.au/api/items/1176345
+mv_1175969.json https://collections.museumsvictoria.com.au/api/items/1175969
+mv_1176158.json https://collections.museumsvictoria.com.au/api/items/1176158
+mv_1176134.json https://collections.museumsvictoria.com.au/api/items/1176134
+mv_1175900.json https://collections.museumsvictoria.com.au/api/items/1175900
+mv_1176552.json https://collections.museumsvictoria.com.au/api/items/1176552
+mv_1176338.json https://collections.museumsvictoria.com.au/api/items/1176338
+mv_1175684.json https://collections.museumsvictoria.com.au/api/items/1175684
+mv_1176227.json https://collections.museumsvictoria.com.au/api/items/1176227
