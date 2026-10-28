@@ -442,7 +442,6 @@ for i, s in enumerate(SEGS):
 # ---------- gerçek fotoğraflar ----------
 PHOTOS = {}
 SS = 2  # fotoğraflar ekranın 2 katı çözünürlükte tutulur
-KAMERA_HIZI = 45  # ekran pikseli / saniye
 _img_json = os.path.join(build, "images.json")
 if os.path.exists(_img_json):
     for k, v in json.load(open(_img_json, encoding="utf-8")).items():
@@ -497,17 +496,12 @@ def photo_for(seg_idx):
 
 def photo_scene(layer, seg_idx, lt, dur):
     p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
-    # Sabit hızlı hareket: çok yavaş ya da yavaşlayıp duran kamera "takılıyor" gibi algılanıyordu.
-    # Her sahnede kenarlar saniyede KAMERA_HIZI piksel akar; önce yana kayma, yetmezse yakınlaştırma.
-    u = clamp(lt / max(dur, 0.1))
-    yol = KAMERA_HIZI * dur
-    pan = min(yol, 0.8 * (im.width / SS - W))     # yana kaymaya ayrılabilecek ekran pikseli
-    z_son = min(1.12, 1 + max(0.0, yol - pan) / (H / 2))
-    z = lerp(1.0, z_son, u)
+    u = clamp(lt / max(dur, 0.1))                 # doğrusal: kamera sahne başında/sonunda yavaşlayıp durmasın
+    z = lerp(1.0, 1.056, u)                       # yavaş yakınlaştırma
     cw, ch = W * SS / z, H * SS / z
     span_x, span_y = im.width - cw, im.height - ch
     d = -1 if seg_idx % 2 else 1                 # sahneler sırayla sola/sağa kayar
-    x = span_x / 2 + d * lerp(-pan / 2, pan / 2, u) * SS
+    x = span_x * (0.5 + d * lerp(-0.36, 0.36, u))
     y = span_y * 0.45
     # alt piksel hassas kırpma: tam sayıya yuvarlama her karede 1 px oynayıp titreme yapıyordu
     crop = im.resize((W, H), Image.LANCZOS, box=(x, y, x + cw, y + ch))
@@ -841,7 +835,8 @@ def main():
     make_music(music, DUR)
     silent = os.path.join(build, "video_silent.mp4")
     p = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
-                          "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "medium", "-crf", "19",
+                          "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-tune", "film",
+                          "-x264-params", "deadzone-inter=0:deadzone-intra=0:aq-mode=3",
                           "-pix_fmt", "yuv420p", silent], stdin=subprocess.PIPE)
     nf = int(DUR * FPS)
     for i in range(nf):
