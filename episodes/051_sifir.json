@@ -1,0 +1,244 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 51,
+ "slug": "sifir",
+ "title": "Altı Sıfır",
+ "youtube_title": "Türk lirasından neden 6 sıfır atıldı? #SıradanDeğil 51",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/051_sifir.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     9.4
+    ]
+   ],
+   [
+    [
+     9.4,
+     16.1
+    ]
+   ],
+   [
+    [
+     16.1,
+     23.0
+    ]
+   ],
+   [
+    [
+     23.0,
+     32.9
+    ]
+   ],
+   [
+    [
+     32.9,
+     43.1
+    ]
+   ],
+   [
+    [
+     43.1,
+     56.1
+    ]
+   ],
+   [
+    [
+     56.1,
+     65.6
+    ]
+   ],
+   [
+    [
+     65.6,
+     75.9
+    ]
+   ],
+   [
+    [
+     75.9,
+     83.9
+    ]
+   ],
+   [
+    [
+     83.9,
+     96.2
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar Türkiyede 20 milyon liralık banknot vardı. Peki paramızın üzerinde neden bu kadar çok sıfır vardı?",
+   "caption": "Bir zamanlar Türkiyede 20 milyon liralık banknot vardı. Peki paramızın üzerinde neden bu kadar çok sıfır vardı?",
+   "key": [
+    "20 milyon"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_on20.jpg",
+    "fit": "doldur",
+    "baslik": "20.000.000 TL banknot, ön yüz, 2001 · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "lisans": "",
+    "kaynak": "20.000.000 TL banknot, ön yüz, 2001 · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yıllarca süren yüksek enflasyon yüzünden fiyatlar milyonlara, hatta milyarlara ulaşmıştı.",
+   "caption": "Yıllarca süren yüksek enflasyon yüzünden fiyatlar milyonlara, hatta milyarlara ulaşmıştı.",
+   "key": [
+    "milyarlara"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_kolaj.jpg",
+    "fit": "doldur",
+    "baslik": "1, 5, 10 ve 20 milyon TL banknotlar · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "lisans": "",
+    "kaynak": "1, 5, 10 ve 20 milyon TL banknotlar · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "2004te bir işçinin aylık brüt asgari ücreti, tam 444 milyon 150 bin liraydı.",
+   "caption": "2004te bir işçinin aylık brüt asgari ücreti, tam 444 milyon 150 bin liraydı.",
+   "key": [
+    "444 milyon"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_arka20.jpg",
+    "fit": "doldur",
+    "baslik": "20.000.000 TL banknot, arka yüz · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "lisans": "",
+    "kaynak": "20.000.000 TL banknot, arka yüz · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yani asgari ücretle çalışan herkes, kâğıt üzerinde milyonerdi. Ama bu kadar çok sıfır, alışverişte ve hesaplarda sorun yaratıyordu.",
+   "caption": "Yani asgari ücretle çalışan herkes, kâğıt üzerinde milyonerdi. Ama bu kadar çok sıfır, alışverişte ve hesaplarda sorun yaratıyordu.",
+   "key": [
+    "milyonerdi"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_arka10bin.jpg",
+    "fit": "doldur",
+    "baslik": "10.000 TL banknot, arka yüz · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "lisans": "",
+    "kaynak": "10.000 TL banknot, arka yüz · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Türkiye bu sorunu çözmek için önemli bir karar aldı. 2004te çıkarılan bir kanunla, 1 Ocak 2005te Türk lirasından altı sıfır atıldı.",
+   "caption": "Türkiye bu sorunu çözmek için önemli bir karar aldı. 2004te çıkarılan bir kanunla, 1 Ocak 2005te Türk lirasından altı sıfır atıldı.",
+   "key": [
+    "altı sıfır"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_tcmb1940.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiye Cumhuriyet Merkez Bankası binası, Ankara, 1940lar · Basın Yayın ve Enformasyon Genel Müdürlüğü arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türkiye Cumhuriyet Merkez Bankası binası, Ankara, 1940lar · Basın Yayın ve Enformasyon Genel Müdürlüğü arşivi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki bu ne demekti? Bir milyon eski lira, 1 Yeni Türk lirası oldu. 10 milyon eski lira, 10 Yeni Türk lirasına dönüştü. 20 milyon eski lira ise 20 Yeni Türk lirası oldu.",
+   "caption": "Peki bu ne demekti? Bir milyon eski lira, 1 Yeni Türk lirası oldu. 10 milyon eski lira, 10 Yeni Türk lirasına dönüştü. 20 milyon eski lira ise 20 Yeni Türk lirası oldu.",
+   "key": [
+    "Yeni Türk lirası"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_ytlset.jpg",
+    "fit": "doldur",
+    "baslik": "Yeni Türk lirası banknot ve madeni paraları, 2005 (SPECIMEN) · TCMB / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Yeni Türk lirası banknot ve madeni paraları, 2005 (SPECIMEN) · TCMB / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama bu, insanların bir anda zenginleştiği ya da fiyatların ucuzladığı anlamına gelmiyordu. Sadece paranın birimi sadeleşmişti.",
+   "caption": "Ama bu, insanların bir anda zenginleştiği ya da fiyatların ucuzladığı anlamına gelmiyordu. Sadece paranın birimi sadeleşmişti.",
+   "key": [
+    "sadeleşmişti"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_spec20.jpg",
+    "fit": "doldur",
+    "baslik": "20.000.000 TL banknot (SPECIMEN) · TCMB / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "20.000.000 TL banknot (SPECIMEN) · TCMB / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "2009da ise paranın adındaki Yeni kelimesi kaldırıldı. Ve yeniden Türk lirası adını kullanmaya başladık. Altı sıfır atmak hesapları kolaylaştırdı.",
+   "caption": "2009da ise paranın adındaki Yeni kelimesi kaldırıldı. Ve yeniden Türk lirası adını kullanmaya başladık. Altı sıfır atmak hesapları kolaylaştırdı.",
+   "key": [
+    "Türk lirası"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_tcmb1940.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiye Cumhuriyet Merkez Bankası binası, Ankara, 1940lar · Basın Yayın ve Enformasyon Genel Müdürlüğü arşivi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Türkiye Cumhuriyet Merkez Bankası binası, Ankara, 1940lar · Basın Yayın ve Enformasyon Genel Müdürlüğü arşivi / Wikimedia Commons",
+    "sayfa": "",
+    "kirp": [
+     0.35,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama paranın değerini korumak için asıl mücadele, enflasyonla yapılmalıydı. Siz eski milyonlu paraları hatırlıyor musunuz?",
+   "caption": "Ama paranın değerini korumak için asıl mücadele, enflasyonla yapılmalıydı. Siz eski milyonlu paraları hatırlıyor musunuz?",
+   "key": [
+    "hatırlıyor musunuz"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_kolaj.jpg",
+    "fit": "doldur",
+    "baslik": "1, 5, 10 ve 20 milyon TL banknotlar · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "lisans": "",
+    "kaynak": "1, 5, 10 ve 20 milyon TL banknotlar · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Hatıralarınızı yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Hatıralarınızı yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/051_on20b.jpg",
+    "fit": "doldur",
+    "baslik": "20.000.000 TL banknot, ön yüz · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "lisans": "",
+    "kaynak": "20.000.000 TL banknot, ön yüz · Türkiye Cumhuriyet Merkez Bankası banknot görseli · Wikimedia Commons · TCMB kuralı gereği “Örnektir Geçmez”",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
