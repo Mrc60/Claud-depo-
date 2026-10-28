@@ -441,6 +441,7 @@ for i, s in enumerate(SEGS):
 
 # ---------- gerçek fotoğraflar ----------
 PHOTOS = {}
+SS = 2  # fotoğraflar ekranın 2 katı çözünürlükte tutulur
 _img_json = os.path.join(build, "images.json")
 if os.path.exists(_img_json):
     for k, v in json.load(open(_img_json, encoding="utf-8")).items():
@@ -471,6 +472,8 @@ if os.path.exists(_img_json):
             # ekranı kaplayacak şekilde ölçekle (+%12 hareket payı)
             sc = max(W2 / im.width, H2 / im.height)
             im = im.resize((int(im.width * sc), int(im.height * sc)), Image.LANCZOS)
+        # 2 kat çözünürlükte tut: her karede yarım piksel kaymada netlik değişip fotoğraf "kaynıyordu" (titreme)
+        im = im.resize((im.width * SS, im.height * SS), Image.LANCZOS)
         own = v.get("license") == "Kanalın kendi çekimi"
         PHOTOS[int(k)] = {"img": im, "credit": "" if own else f"Foto: {v['artist']} · {v['license']} · Wikimedia Commons"}
 
@@ -494,14 +497,14 @@ def photo_for(seg_idx):
 def photo_scene(layer, seg_idx, lt, dur):
     p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
     u = ease_io(lt / max(dur, 0.1))
-    z = lerp(1.0, 1.056, u)                       # yavaş yakınlaştırma
-    cw, ch = W / z, H / z
+    z = lerp(1.0, 1.04, u)                        # yavaş yakınlaştırma
+    cw, ch = W * SS / z, H * SS / z
     span_x, span_y = im.width - cw, im.height - ch
     d = -1 if seg_idx % 2 else 1                 # sahneler sırayla sola/sağa kayar
-    x = span_x * (0.5 + d * lerp(-0.36, 0.36, u))
+    x = span_x * (0.5 + d * lerp(-0.2, 0.2, u))  # yavaş kayma
     y = span_y * 0.45
     # alt piksel hassas kırpma: tam sayıya yuvarlama her karede 1 px oynayıp titreme yapıyordu
-    crop = im.resize((W, H), Image.BICUBIC, box=(x, y, x + cw, y + ch))
+    crop = im.resize((W, H), Image.LANCZOS, box=(x, y, x + cw, y + ch))
     layer.paste(crop.convert("RGBA"), (0, 0))
     layer.alpha_composite(SHADE)
     seg = SEGS[seg_idx]
