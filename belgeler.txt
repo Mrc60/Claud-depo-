@@ -1,8 +1,11 @@
-# 049 musul dogrulama - 2. tur
-cosar_musul.pdf https://dergipark.org.tr/en/download/article-file/845071
-kilic_lozan.pdf https://dergipark.org.tr/tr/download/article-file/676945
-musul_irak.pdf https://dergipark.org.tr/en/download/article-file/107864
-ataturkyolu_20656.pdf https://dergipark.org.tr/tr/download/article-file/20656
-ozden_seyhsait.pdf https://dergipark.org.tr/en/download/article-file/837212
-nasturi_seyhsait.pdf https://dergipark.org.tr/en/download/article-file/2526832
-ankara1926_ts18.pdf https://bnk.institutkurde.org/images/pdf/E8MPHVFKNJ.pdf
+# 050 ege dogrulama
+icj_1978.pdf https://www.icj-cij.org/sites/default/files/case-related/62/062-19781219-JUD-01-00-EN.pdf
+icj_1976_ord.pdf https://www.icj-cij.org/sites/default/files/case-related/62/062-19760911-ORD-01-00-EN.pdf
+unsc395.html https://www.refworld.org/legal/resolution/unsc/1976/en/113031
+italy1947_bevans.pdf https://www.loc.gov/law/help/us-treaties/bevans/m-ust000004-0311.pdf
+italy1947_unts.pdf https://treaties.un.org/doc/Publication/UNTS/Volume%2049/volume-49-I-747-English.pdf
+mta_sismik1.html https://www.mta.gov.tr/v3.0/arastirmalar/sismik1
+ege_soguksavas.pdf https://dergipark.org.tr/tr/download/article-file/5103275
+saglam_ege.pdf https://dergipark.org.tr/tr/download/article-file/3622430
+ege_ab.pdf https://dergipark.org.tr/tr/download/article-file/107649
+ege_stratejik.pdf https://dergipark.org.tr/tr/download/article-file/3033300

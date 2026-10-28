@@ -1,69 +1,24 @@
 {
- "bolum": "049_musul",
+ "bolum": "050_ege",
  "min_w": 800,
- "sorgular": [],
- "incele": [
-  "File:Mosul viewed from the bridge, early twentieth century.jpg",
-  "File:سور الموصل بين باب البيض وراس الجادة.jpg",
-  "File:Ethnographical Map of the contested territory (1922-1924) (Mosul vilayet).jpg",
-  "File:Lausanne - arrivée de Lord Curzon - btv1b90539014.jpg",
-  "File:Conférence de Lausanne, 21-11-22, lord Curzon - btv1b53094602j.jpg",
-  "File:Tigrisbrücke bei Mosul 1920-50.jpg",
-  "File:11-12-23, séance de la Société des Nations à l'Hôtel de Ville (de g. à d. Benes, Quiñones de León, Hanotaux, Branting, sir Eric Drummond, Souza-Dantas, lord Robert Cecil, Ishii, Hymans) - btv1b53122817c.jpg",
-  "File:1930 04 15 Politika Tevfik Rustu Aras.jpg",
-  "File:Bridges of Mosul 1920s.png",
-  "File:Ancient Mosul, a Yezidi shrine to the left and the Nouri Mosque minaret to the right.jpg",
-  "File:Mosul, (Iraq); The Leaning Tower LCCN2003653633.jpg",
-  "File:Mossoul, pont de bateaux sur le Tigre - btv1b530968183.jpg"
+ "sorgular": [
+  "Treaty of Lausanne 1923 delegates",
+  "Lausanne conference 1923",
+  "Paris Peace Treaties 1947 signing",
+  "Dodecanese 1947",
+  "Rhodes 1947",
+  "Aegean Sea old map",
+  "Aegean islands map 1923",
+  "Lemnos 1920s",
+  "Imbros Gökçeada old photograph",
+  "Tenedos Bozcaada old photograph",
+  "Sismik 1 ship",
+  "MTA Sismik",
+  "Peace Palace The Hague",
+  "International Court of Justice 1970s"
  ],
- "indir": [
-  {
-   "file": "File:Mosul viewed from the bridge, early twentieth century.jpg",
-   "ad": "049_01_kopru.jpg"
-  },
-  {
-   "file": "File:سور الموصل بين باب البيض وراس الجادة.jpg",
-   "ad": "049_02_surlar.jpg"
-  },
-  {
-   "file": "File:Ethnographical Map of the contested territory (1922-1924) (Mosul vilayet).jpg",
-   "ad": "049_03_harita.jpg"
-  },
-  {
-   "file": "File:Lausanne - arrivée de Lord Curzon - btv1b90539014.jpg",
-   "ad": "049_04_curzon.jpg"
-  },
-  {
-   "file": "File:Conférence de Lausanne, 21-11-22, lord Curzon - btv1b53094602j.jpg",
-   "ad": "049_05_lozan.jpg"
-  },
-  {
-   "file": "File:Tigrisbrücke bei Mosul 1920-50.jpg",
-   "ad": "049_06_dicle.jpg"
-  },
-  {
-   "file": "File:11-12-23, séance de la Société des Nations à l'Hôtel de Ville (de g. à d. Benes, Quiñones de León, Hanotaux, Branting, sir Eric Drummond, Souza-Dantas, lord Robert Cecil, Ishii, Hymans) - btv1b53122817c.jpg",
-   "ad": "049_07_cemiyet.jpg"
-  },
-  {
-   "file": "File:1930 04 15 Politika Tevfik Rustu Aras.jpg",
-   "ad": "049_08_aras.jpg"
-  },
-  {
-   "file": "File:Bridges of Mosul 1920s.png",
-   "ad": "049_09_havadan.jpg"
-  },
-  {
-   "file": "File:Ancient Mosul, a Yezidi shrine to the left and the Nouri Mosque minaret to the right.jpg",
-   "ad": "049_10_minare.jpg"
-  },
-  {
-   "file": "File:Mosul, (Iraq); The Leaning Tower LCCN2003653633.jpg",
-   "ad": "049_11_egik.jpg"
-  },
-  {
-   "file": "File:Mossoul, pont de bateaux sur le Tigre - btv1b530968183.jpg",
-   "ad": "049_yedek_kayik.jpg"
-  }
- ]
+ "incele": [
+  "File:Portrait de groupe de délégués aux négociations précédant la signature du traité de paix (traité de Lausanne) 1923.jpg"
+ ],
+ "indir": []
 }
