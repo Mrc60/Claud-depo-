@@ -1,34 +1,39 @@
 {
- "bolum": "048_hatay",
- "min_w": 500,
+ "bolum": "050_ege",
+ "min_w": 800,
  "sorgular": [],
  "incele": [
-  "File:TurkishArmyAlexandretta.jpeg",
-  "File:Cevat Açıkalın and Robert Collet in Antakya.jpg",
-  "File:Turkish Army entered Alexandretta July 5, 1938.jpg",
-  "File:Le Temps - 22 Mart 1939.png",
-  "File:Reglement Organique of the Sandjak of Alexandretta, within the State of Syria, 14 May 1930.png"
+  "File:Rhodes; a gateway in the old walls of the city. Photograph, Wellcome V0030974.jpg",
+  "File:Tenedos (Relation d un voyage du Levant).jpg",
+  "File:Vue de la Ville de Ténedos - Choiseul-gouffier Gabriel Florent Auguste De - 1822.jpg",
+  "File:Bill Woodward pointing to data on the seismic plotter.jpg",
+  "File:Bill Woodward with seismic plotter.jpg",
+  "File:Data reading from seismic plotter.jpg"
  ],
  "indir": [
   {
-   "file": "File:TurkishArmyAlexandretta.jpeg",
-   "ad": "ordu_isk.jpg"
+   "file": "File:Rhodes; a gateway in the old walls of the city. Photograph, Wellcome V0030974.jpg",
+   "ad": "050_rodos.jpg"
   },
   {
-   "file": "File:Cevat Açıkalın and Robert Collet in Antakya.jpg",
-   "ad": "acikalin.jpg"
+   "file": "File:Tenedos (Relation d un voyage du Levant).jpg",
+   "ad": "050_bozcaada1.jpg"
   },
   {
-   "file": "File:Turkish Army entered Alexandretta July 5, 1938.jpg",
-   "ad": "ordu1938.jpg"
+   "file": "File:Vue de la Ville de Ténedos - Choiseul-gouffier Gabriel Florent Auguste De - 1822.jpg",
+   "ad": "050_bozcaada2.jpg"
   },
   {
-   "file": "File:Le Temps - 22 Mart 1939.png",
-   "ad": "letemps.jpg"
+   "file": "File:Bill Woodward pointing to data on the seismic plotter.jpg",
+   "ad": "050_sismik_a.jpg"
   },
   {
-   "file": "File:Reglement Organique of the Sandjak of Alexandretta, within the State of Syria, 14 May 1930.png",
-   "ad": "reglement.jpg"
+   "file": "File:Bill Woodward with seismic plotter.jpg",
+   "ad": "050_sismik_b.jpg"
+  },
+  {
+   "file": "File:Data reading from seismic plotter.jpg",
+   "ad": "050_sismik_kesit.jpg"
   }
  ]
 }
