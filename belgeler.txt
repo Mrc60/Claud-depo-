@@ -9,3 +9,8 @@ ege_soguksavas.pdf https://dergipark.org.tr/tr/download/article-file/5103275
 saglam_ege.pdf https://dergipark.org.tr/tr/download/article-file/3622430
 ege_ab.pdf https://dergipark.org.tr/tr/download/article-file/107649
 ege_stratejik.pdf https://dergipark.org.tr/tr/download/article-file/3033300
+# 052 devrim dogrulama
+arslan_devrim.pdf https://dergipark.org.tr/en/download/article-file/1787576
+sahinkaya_devrim.pdf https://dergipark.org.tr/tr/download/article-file/522
+turasas_devrim.html http://devrimarabasi.com.tr/bir-basari-oykusu/
+dha_devrim.html https://www.dha.com.tr/gundem/siyah-devrim-otomobilinin-58-yillik-sirri-1746626
