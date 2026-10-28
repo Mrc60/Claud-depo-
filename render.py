@@ -845,7 +845,7 @@ def main():
     make_music(music, DUR)
     silent = os.path.join(build, "video_silent.mp4")
     p = subprocess.Popen(["ffmpeg", "-y", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
-                          "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "slow", "-crf", "16", "-tune", "film",
+                          "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "slow", "-crf", "18", "-maxrate", "5M", "-bufsize", "10M", "-tune", "film",
                           "-x264-params", "deadzone-inter=0:deadzone-intra=0:aq-mode=3",
                           "-pix_fmt", "yuv420p", silent], stdin=subprocess.PIPE)
     nf = int(DUR * FPS)
