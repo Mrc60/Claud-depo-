@@ -1,54 +1,24 @@
 {
  "bolum": "050_ege",
  "min_w": 800,
- "sorgular": [],
- "incele": [
-  "File:Lausanne - la délégation turque - Ismet Pacha - btv1b90539548.jpg",
-  "File:Aegean Sea 1886.jpg",
-  "File:Piri Reis - Map of the Upper Aegean Sea with the Islands of Imbros and Bozca - Walters W65839B - Full Page.jpg",
-  "File:1685 map of the Aegean Sea by Giacomo Cantelli da Vignola.jpg",
-  "File:Ca. 1730 map of the Northwestern Aegean Sea by Johannes van Keulen.jpg",
-  "File:Ca. 1717 van Keulen chart of the Aegean Sea and the Sea of Marmara.jpg",
-  "File:1559 Portolan chart of the Aegean Sea and the Sea of Marmara by Diogo Homem.jpg",
-  "File:Peace Palace in the Hague in 1922.jpg",
-  "File:Lausanne - Ismet Pacha sortant de l'Hôtel du Château - btv1b9053962t.jpg"
+ "sorgular": [
+  "Rhodes old photograph",
+  "Rhodes 1930s",
+  "Rhodes 1940s",
+  "Lesbos Mytilene old photograph",
+  "Chios old photograph",
+  "Samos old photograph",
+  "Aegean fishing boats old photograph",
+  "Aegean Sea sailing boat 1920s",
+  "Bozcaada old photograph",
+  "Tenedos castle photograph",
+  "Imbros Gökçeada village",
+  "offshore drilling 1970s",
+  "oil drilling rig 1970s",
+  "research vessel 1970s",
+  "seismic survey ship",
+  "Aegean coast 1930s photograph"
  ],
- "indir": [
-  {
-   "file": "File:Lausanne - la délégation turque - Ismet Pacha - btv1b90539548.jpg",
-   "ad": "050_heyet.jpg"
-  },
-  {
-   "file": "File:Aegean Sea 1886.jpg",
-   "ad": "050_ege1886.jpg"
-  },
-  {
-   "file": "File:Piri Reis - Map of the Upper Aegean Sea with the Islands of Imbros and Bozca - Walters W65839B - Full Page.jpg",
-   "ad": "050_pirireis.jpg"
-  },
-  {
-   "file": "File:1685 map of the Aegean Sea by Giacomo Cantelli da Vignola.jpg",
-   "ad": "050_ege1685.jpg"
-  },
-  {
-   "file": "File:Ca. 1730 map of the Northwestern Aegean Sea by Johannes van Keulen.jpg",
-   "ad": "050_ege1730.jpg"
-  },
-  {
-   "file": "File:Ca. 1717 van Keulen chart of the Aegean Sea and the Sea of Marmara.jpg",
-   "ad": "050_ege1717.jpg"
-  },
-  {
-   "file": "File:1559 Portolan chart of the Aegean Sea and the Sea of Marmara by Diogo Homem.jpg",
-   "ad": "050_portolan1559.jpg"
-  },
-  {
-   "file": "File:Peace Palace in the Hague in 1922.jpg",
-   "ad": "050_lahey1922.jpg"
-  },
-  {
-   "file": "File:Lausanne - Ismet Pacha sortant de l'Hôtel du Château - btv1b9053962t.jpg",
-   "ad": "050_ismet.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
