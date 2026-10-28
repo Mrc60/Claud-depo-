@@ -1,2 +1,44 @@
-{"bolum":"051_sifir","min_w":300,
-"sorgular":["E7 20.000.000","E7 10.000.000","E7 1.000.000","E8 1 Yeni Türk Lirası","Turkish lira banknote 2005 New Turkish lira","Türkiye Cumhuriyet Merkez Bankası building Ankara","Turkish lira 20000000 banknote"]}
+{
+ "bolum": "051_sifir",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [
+  "File:E7 20.000.000 ön yüz.jpg",
+  "File:E7 20.000.000 arka yüz.jpg",
+  "File:20million.JPG",
+  "File:Old Turkish banknotes used during the inflation (one million, five millions, ten millions and twenty millions).png",
+  "File:New Turkish Lira-set.jpg",
+  "File:Atatürk Boulevard, the Central Bank of the Republic of Turkey, 1940s (16664874708).jpg",
+  "File:E7 10 000 TL arka yüz.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:E7 20.000.000 ön yüz.jpg",
+   "ad": "on20.jpg"
+  },
+  {
+   "file": "File:E7 20.000.000 arka yüz.jpg",
+   "ad": "arka20.jpg"
+  },
+  {
+   "file": "File:20million.JPG",
+   "ad": "spec20.jpg"
+  },
+  {
+   "file": "File:Old Turkish banknotes used during the inflation (one million, five millions, ten millions and twenty millions).png",
+   "ad": "kolaj.jpg"
+  },
+  {
+   "file": "File:New Turkish Lira-set.jpg",
+   "ad": "ytlset.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, the Central Bank of the Republic of Turkey, 1940s (16664874708).jpg",
+   "ad": "tcmb1940.jpg"
+  },
+  {
+   "file": "File:E7 10 000 TL arka yüz.jpg",
+   "ad": "arka10bin.jpg"
+  }
+ ]
+}
