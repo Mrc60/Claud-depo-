@@ -14,10 +14,6 @@
    [
     [
      0,
-     3.71
-    ],
-    [
-     4.69,
      11.49
     ]
    ],
@@ -84,10 +80,6 @@
    [
     [
      106.3,
-     110.2
-    ],
-    [
-     110.8,
      112.9
     ]
    ],
@@ -108,17 +100,11 @@
     "1970lerde"
    ],
    "image": {
-    "local": "assets/belgeler/050_heyet.jpg",
+    "local": "assets/belgeler/050_pirireis.jpg",
     "fit": "doldur",
-    "kirp": [
-     0.1,
-     0.05,
-     0.6,
-     0.95
-    ],
-    "baslik": "Lozan Konferansında Türk heyeti ve İsmet Paşa, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "baslik": "Harita: Kuzey Ege, Gökçeada ve Bozcaada · Piri Reis, Kitab-ı Bahriye, 17. yüzyıl nüshası, Walters Sanat Müzesi / Wikimedia Commons",
     "lisans": "",
-    "kaynak": "Lozan Konferansında Türk heyeti ve İsmet Paşa, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "kaynak": "Harita: Kuzey Ege, Gökçeada ve Bozcaada · Piri Reis, Kitab-ı Bahriye, 17. yüzyıl nüshası, Walters Sanat Müzesi / Wikimedia Commons",
     "sayfa": ""
    },
    "scene": "photo"
@@ -249,17 +235,11 @@
     "protesto"
    ],
    "image": {
-    "local": "assets/belgeler/050_sismik_a.jpg",
+    "local": "assets/belgeler/050_ege1685.jpg",
     "fit": "doldur",
-    "kirp": [
-     0.05,
-     0.0,
-     0.7,
-     1.0
-    ],
-    "baslik": "ABD araştırma gemisi USNS Kanede sismik kayıt cihazı, 1968 · AIP Emilio Segrè Arşivi / Wikimedia Commons",
+    "baslik": "Harita: Ege Denizi, 1685 · Giacomo Cantelli da Vignola / Wikimedia Commons",
     "lisans": "",
-    "kaynak": "ABD araştırma gemisi USNS Kanede sismik kayıt cihazı, 1968 · AIP Emilio Segrè Arşivi / Wikimedia Commons",
+    "kaynak": "Harita: Ege Denizi, 1685 · Giacomo Cantelli da Vignola / Wikimedia Commons",
     "sayfa": ""
    },
    "scene": "photo"
@@ -295,17 +275,11 @@
     "Sismik-1"
    ],
    "image": {
-    "local": "assets/belgeler/050_sismik_b.jpg",
+    "local": "assets/belgeler/050_ege1730.jpg",
     "fit": "doldur",
-    "kirp": [
-     0.1,
-     0.0,
-     0.75,
-     1.0
-    ],
-    "baslik": "ABD araştırma gemisi USNS Kanede sismik kayıt cihazı, 1968 · AIP Emilio Segrè Arşivi / Wikimedia Commons",
+    "baslik": "Harita: Kuzeybatı Ege, yaklaşık 1730 · Johannes van Keulen / Wikimedia Commons",
     "lisans": "",
-    "kaynak": "ABD araştırma gemisi USNS Kanede sismik kayıt cihazı, 1968 · AIP Emilio Segrè Arşivi / Wikimedia Commons",
+    "kaynak": "Harita: Kuzeybatı Ege, yaklaşık 1730 · Johannes van Keulen / Wikimedia Commons",
     "sayfa": ""
    },
    "scene": "photo"
@@ -341,17 +315,11 @@
     "süreli"
    ],
    "image": {
-    "local": "assets/belgeler/050_bozcaada2.jpg",
+    "local": "assets/belgeler/050_portolan1559.jpg",
     "fit": "doldur",
-    "kirp": [
-     0.05,
-     0.1,
-     0.4,
-     0.85
-    ],
-    "baslik": "Bozcaada, 1822 gravürü · Choiseul-Gouffier, Voyage pittoresque de la Grèce / Wikimedia Commons",
+    "baslik": "Harita: Ege ve Marmara portolanı, 1559 · Diogo Homem, Gallica / Wikimedia Commons",
     "lisans": "",
-    "kaynak": "Bozcaada, 1822 gravürü · Choiseul-Gouffier, Voyage pittoresque de la Grèce / Wikimedia Commons",
+    "kaynak": "Harita: Ege ve Marmara portolanı, 1559 · Diogo Homem, Gallica / Wikimedia Commons",
     "sayfa": ""
    },
    "scene": "photo"
@@ -364,17 +332,17 @@
     "noktası"
    ],
    "image": {
-    "local": "assets/belgeler/050_ismet.jpg",
+    "local": "assets/belgeler/050_lahey1922.jpg",
     "fit": "doldur",
     "kirp": [
-     0.25,
-     0.05,
-     0.75,
-     0.95
+     0.3,
+     0.0,
+     1.0,
+     1.0
     ],
-    "baslik": "İsmet Paşa Lozanda, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "baslik": "Lahey Barış Sarayı, 1922 · Agence Rol / Wikimedia Commons",
     "lisans": "",
-    "kaynak": "İsmet Paşa Lozanda, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "kaynak": "Lahey Barış Sarayı, 1922 · Agence Rol / Wikimedia Commons",
     "sayfa": ""
    },
    "scene": "photo"

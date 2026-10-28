@@ -497,11 +497,21 @@ def photo_for(seg_idx):
 def photo_scene(layer, seg_idx, lt, dur):
     p = PHOTOS[photo_for(seg_idx)]; im = p["img"]
     u = clamp(lt / max(dur, 0.1))                 # doğrusal: kamera sahne başında/sonunda yavaşlayıp durmasın
-    z = lerp(1.0, 1.056, u)                       # yavaş yakınlaştırma
+    # En düşük kamera hızı: kare başına 1 pikselin altı "takılma" gibi görünüyor (dikey/dar fotoğraflar, uzun sahneler)
+    VMIN = 1.2                                    # ekran px / kare
+    need = VMIN * FPS * dur * SS                  # sahne boyunca gereken kayma (fotoğraf pikseli)
+    span0 = im.width - W * SS
+    frac = 0.72
+    if span0 * frac < need:
+        frac = min(0.95, need / max(span0, 1))
+    z_end = 1.056
+    if span0 * frac < need:                       # kayma payı yetmiyorsa eksik hızı yakınlaşmayla tamamla
+        z_end = min(1.12, 1.056 + (need - span0 * frac) / (W * SS))
+    z = lerp(1.0, z_end, u)                       # yavaş yakınlaştırma
     cw, ch = W * SS / z, H * SS / z
     span_x, span_y = im.width - cw, im.height - ch
     d = -1 if seg_idx % 2 else 1                 # sahneler sırayla sola/sağa kayar
-    x = span_x * (0.5 + d * lerp(-0.36, 0.36, u))
+    x = span_x * (0.5 + d * lerp(-frac / 2, frac / 2, u))
     y = span_y * 0.45
     # alt piksel hassas kırpma: tam sayıya yuvarlama her karede 1 px oynayıp titreme yapıyordu
     crop = im.resize((W, H), Image.LANCZOS, box=(x, y, x + cw, y + ch))
