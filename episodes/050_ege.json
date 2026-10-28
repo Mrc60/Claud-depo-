@@ -1,0 +1,406 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 50,
+ "slug": "ege",
+ "title": "Ege",
+ "youtube_title": "Ege sorunu nasıl başladı? #SıradanDeğil 50",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/050_ege.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     3.71
+    ],
+    [
+     4.69,
+     11.49
+    ]
+   ],
+   [
+    [
+     11.49,
+     18.45
+    ]
+   ],
+   [
+    [
+     18.45,
+     30.5
+    ]
+   ],
+   [
+    [
+     30.5,
+     38.65
+    ]
+   ],
+   [
+    [
+     38.65,
+     47.25
+    ]
+   ],
+   [
+    [
+     47.25,
+     55.2
+    ]
+   ],
+   [
+    [
+     55.2,
+     63.2
+    ]
+   ],
+   [
+    [
+     63.2,
+     77.35
+    ]
+   ],
+   [
+    [
+     77.35,
+     85.5
+    ]
+   ],
+   [
+    [
+     85.5,
+     97.35
+    ]
+   ],
+   [
+    [
+     97.35,
+     106.3
+    ]
+   ],
+   [
+    [
+     106.3,
+     110.2
+    ],
+    [
+     110.8,
+     112.9
+    ]
+   ],
+   [
+    [
+     112.9,
+     122.75
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Türkiye ile Yunanistan arasındaki Ege sorunu nasıl başladı? Bu anlaşmazlık bir günde başlamadı. Bugünkü kıta sahanlığı sorunu ise 1970lerde belirginleşti.",
+   "caption": "Türkiye ile Yunanistan arasındaki Ege sorunu nasıl başladı? Bu anlaşmazlık bir günde başlamadı. Bugünkü kıta sahanlığı sorunu ise 1970lerde belirginleşti.",
+   "key": [
+    "Ege",
+    "1970lerde"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_heyet.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.1,
+     0.05,
+     0.6,
+     0.95
+    ],
+    "baslik": "Lozan Konferansında Türk heyeti ve İsmet Paşa, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan Konferansında Türk heyeti ve İsmet Paşa, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kıta sahanlığı, yani kıyıdan denize doğru uzanan deniz tabanı ve onun altındaki kaynaklar.",
+   "caption": "Kıta sahanlığı, yani kıyıdan denize doğru uzanan deniz tabanı ve onun altındaki kaynaklar.",
+   "key": [
+    "Kıta",
+    "sahanlığı,"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1685.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.15,
+     0.0,
+     0.85,
+     1.0
+    ],
+    "baslik": "Harita: Ege Denizi, 1685 · Giacomo Cantelli da Vignola / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege Denizi, 1685 · Giacomo Cantelli da Vignola / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1923 Lozan Antlaşmasıyla Midilli, Sakız, Sisam ve Limni gibi büyük Ege adaları Yunanistanda kaldı. Gökçeada ve Bozcaada ise Türkiyeye bırakıldı.",
+   "caption": "1923 Lozan Antlaşmasıyla Midilli, Sakız, Sisam ve Limni gibi büyük Ege adaları Yunanistanda kaldı. Gökçeada ve Bozcaada ise Türkiyeye bırakıldı.",
+   "key": [
+    "Gökçeada",
+    "Bozcaada"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1886.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.5,
+     0.0,
+     0.8,
+     0.55
+    ],
+    "baslik": "Harita: Ege Denizi, 1886 · T. Fitz-Patrick, An Autumn Cruise in the Ægean / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege Denizi, 1886 · T. Fitz-Patrick, An Autumn Cruise in the Ægean / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "İkinci Dünya Savaşından sonra, 1947 Paris Barış Antlaşmasıyla On İki Ada İtalyadan Yunanistana geçti.",
+   "caption": "İkinci Dünya Savaşından sonra, 1947 Paris Barış Antlaşmasıyla On İki Ada İtalyadan Yunanistana geçti.",
+   "key": [
+    "1947",
+    "On",
+    "İki",
+    "Ada"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1886.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.6,
+     0.35,
+     0.88,
+     0.85
+    ],
+    "baslik": "Harita: Ege Denizi, 1886 · T. Fitz-Patrick, An Autumn Cruise in the Ægean / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege Denizi, 1886 · T. Fitz-Patrick, An Autumn Cruise in the Ægean / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ancak asıl mesele, adaların kime ait olduğu değildi. Mesele, bu adaların deniz tabanındaki hakları nasıl etkileyeceğiydi.",
+   "caption": "Ancak asıl mesele, adaların kime ait olduğu değildi. Mesele, bu adaların deniz tabanındaki hakları nasıl etkileyeceğiydi.",
+   "key": [
+    "deniz",
+    "tabanındaki"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_portolan1559.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.45,
+     0.1,
+     0.85,
+     0.95
+    ],
+    "baslik": "Harita: Ege ve Marmara portolanı, 1559 · Diogo Homem, Gallica / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege ve Marmara portolanı, 1559 · Diogo Homem, Gallica / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1973te Türkiye, Egede petrol aramak için Türkiye Petrolleri Anonim Ortaklığına 27 ruhsat verdi.",
+   "caption": "1973te Türkiye, Egede petrol aramak için Türkiye Petrolleri Anonim Ortaklığına 27 ruhsat verdi.",
+   "key": [
+    "1973te",
+    "27",
+    "ruhsat"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1717.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.35,
+     0.0,
+     0.65,
+     1.0
+    ],
+    "baslik": "Harita: Ege ve Marmara, yaklaşık 1717 · Johannes van Keulen / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege ve Marmara, yaklaşık 1717 · Johannes van Keulen / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1974te Çandarlı gemisi bölgede araştırma yaptı. Yunanistan iki adımı da notayla protesto etti.",
+   "caption": "1974te Çandarlı gemisi bölgede araştırma yaptı. Yunanistan iki adımı da notayla protesto etti.",
+   "key": [
+    "Çandarlı",
+    "protesto"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1730.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.3,
+     0.0,
+     0.75,
+     0.75
+    ],
+    "baslik": "Harita: Kuzeybatı Ege, yaklaşık 1730 · Johannes van Keulen / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Kuzeybatı Ege, yaklaşık 1730 · Johannes van Keulen / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yunanistan, adaların çevresindeki deniz tabanının kendisine ait olduğunu savundu. Türkiye ise Egenin yarı kapalı bir deniz olduğunu ve deniz tabanının Anadolunun doğal uzantısı sayılması gerektiğini ileri sürdü.",
+   "caption": "Yunanistan, adaların çevresindeki deniz tabanının kendisine ait olduğunu savundu. Türkiye ise Egenin yarı kapalı bir deniz olduğunu ve deniz tabanının Anadolunun doğal uzantısı sayılması gerektiğini ileri sürdü.",
+   "key": [
+    "doğal",
+    "uzantısı"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_pirireis.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.25,
+     0.38,
+     0.85,
+     0.95
+    ],
+    "baslik": "Harita: Kuzey Ege, Gökçeada ve Bozcaada · Piri Reis, Kitab-ı Bahriye, 17. yüzyıl nüshası, Walters Sanat Müzesi / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Kuzey Ege, Gökçeada ve Bozcaada · Piri Reis, Kitab-ı Bahriye, 17. yüzyıl nüshası, Walters Sanat Müzesi / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1976da gerilim arttı. Türkiye, eski adı Hora olan MTA Sismik-1 araştırma gemisini Egeye gönderdi.",
+   "caption": "1976da gerilim arttı. Türkiye, eski adı Hora olan MTA Sismik-1 araştırma gemisini Egeye gönderdi.",
+   "key": [
+    "Hora",
+    "Sismik-1"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1685.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.25,
+     0.35,
+     0.75,
+     1.0
+    ],
+    "baslik": "Harita: Ege Denizi, 1685 · Giacomo Cantelli da Vignola / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege Denizi, 1685 · Giacomo Cantelli da Vignola / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yunanistan konuyu Uluslararası Adalet Divanına götürdü. Divan, 1978de davaya bakma yetkisi olmadığına karar verdi. Yani sorunun özüne hiç girmedi.",
+   "caption": "Yunanistan konuyu Uluslararası Adalet Divanına götürdü. Divan, 1978de davaya bakma yetkisi olmadığına karar verdi. Yani sorunun özüne hiç girmedi.",
+   "key": [
+    "1978de",
+    "yetkisi"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_lahey1922.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.05,
+     0.0,
+     0.5,
+     0.9
+    ],
+    "baslik": "Lahey Barış Sarayı, 1922 · Agence Rol / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lahey Barış Sarayı, 1922 · Agence Rol / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böylece kıta sahanlığı anlaşmazlığı, Türkiye ile Yunanistan arasındaki uzun süreli hukuki ve diplomatik sorunlardan biri hâline geldi.",
+   "caption": "Böylece kıta sahanlığı anlaşmazlığı, Türkiye ile Yunanistan arasındaki uzun süreli hukuki ve diplomatik sorunlardan biri hâline geldi.",
+   "key": [
+    "uzun",
+    "süreli"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ege1886.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.3,
+     0.0,
+     0.75,
+     1.0
+    ],
+    "baslik": "Harita: Ege Denizi, 1886 · T. Fitz-Patrick, An Autumn Cruise in the Ægean / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Harita: Ege Denizi, 1886 · T. Fitz-Patrick, An Autumn Cruise in the Ægean / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizce Ege sorununda en kritik dönüm noktası hangisiydi? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce Ege sorununda en kritik dönüm noktası hangisiydi? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "dönüm",
+    "noktası"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_ismet.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.25,
+     0.05,
+     0.75,
+     0.95
+    ],
+    "baslik": "İsmet Paşa Lozanda, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "İsmet Paşa Lozanda, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip",
+    "etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/050_heyet.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.35,
+     0.05,
+     0.85,
+     0.95
+    ],
+    "baslik": "Lozan Konferansında Türk heyeti ve İsmet Paşa, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "Lozan Konferansında Türk heyeti ve İsmet Paşa, 1922 · Agence Meurisse, BnF / Wikimedia Commons",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
