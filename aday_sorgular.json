@@ -1,34 +1,22 @@
 {
- "bolum": "048_hatay",
- "min_w": 500,
- "sorgular": [],
- "incele": [
-  "File:TurkishArmyAlexandretta.jpeg",
-  "File:Cevat Açıkalın and Robert Collet in Antakya.jpg",
-  "File:Turkish Army entered Alexandretta July 5, 1938.jpg",
-  "File:Le Temps - 22 Mart 1939.png",
-  "File:Reglement Organique of the Sandjak of Alexandretta, within the State of Syria, 14 May 1930.png"
+ "bolum": "049_musul",
+ "min_w": 800,
+ "sorgular": [
+  "Mosul 1918",
+  "Mosul 1919",
+  "Mosul Tigris bridge old photograph",
+  "Mosul 1920s",
+  "Mosul 1932",
+  "British troops Mosul 1918",
+  "Mudros armistice 1918 Agamemnon",
+  "Lausanne conference 1923 Ismet Pasha",
+  "Lord Curzon Lausanne 1922",
+  "League of Nations Council 1925",
+  "Mosul commission League of Nations 1925",
+  "Sheikh Said 1925",
+  "Kirkuk 1920s",
+  "Tevfik Rüştü Aras"
  ],
- "indir": [
-  {
-   "file": "File:TurkishArmyAlexandretta.jpeg",
-   "ad": "ordu_isk.jpg"
-  },
-  {
-   "file": "File:Cevat Açıkalın and Robert Collet in Antakya.jpg",
-   "ad": "acikalin.jpg"
-  },
-  {
-   "file": "File:Turkish Army entered Alexandretta July 5, 1938.jpg",
-   "ad": "ordu1938.jpg"
-  },
-  {
-   "file": "File:Le Temps - 22 Mart 1939.png",
-   "ad": "letemps.jpg"
-  },
-  {
-   "file": "File:Reglement Organique of the Sandjak of Alexandretta, within the State of Syria, 14 May 1930.png",
-   "ad": "reglement.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
