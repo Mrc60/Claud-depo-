@@ -112,7 +112,8 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
     3. Defter: yorumlar/defter.json. Gönderilen her cevabı (yorum_id, kullanıcı, yorum, cevap_id) kaydet. Defterdeki yoruma tekrar yazma.
   - Aynı kişi aynı videoya FARKLI yeni bir yorum yazarsa ona cevap verilebilir.
   - Göndermeden hemen önce tekrar kontrol et. Son 10 dakikayı (önbellek) göremeyebilirsin, bunu belirt.
-  - Kanal yorumunun altındaki bir yanıta cevap: comment_id = kanal yorumu, mesaj "@kullanıcı ..." ile başlar.
+  - SADECE ANA YORUMLARA cevap ver (TEK1 kararı, 29.10.2026). Yanıtlara (sabit yorum altındaki konuşmalar dahil) cevap verme; Instagram 3. katı açmaz, cevap listenin sonuna düşer.
+  - Her gönderimde comment_id ver ve dönüşte isReply: true olduğunu kontrol et.
 - Instagram'da yorum beğenisi API ile yapılamaz (canLike: false). Beğeniyi TEK1 isterse kendisi yapar.
 
 ## 9. TEKNİK ALTYAPI
