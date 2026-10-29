@@ -145,6 +145,8 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - dis_ses: {file, kesimler: [[[bas, bit]], …]}
   - segments: [{say, caption, key[], image:{local, fit:"doldur", kirp:[x0,y0,x1,y1], baslik, kaynak}, scene:"photo"}]
   - Görseller assets/belgeler/NNN_*.jpg, ses assets/ses/NNN_slug.mp3
+  - "acilis": "Satır 1\nSatır 2" → ilk 3 sn üstte büyük merak yazısı (render.py draw_acilis). Her yeni bölümde kullan (TikTok verisi: izleyicilerin çoğu 3. sn'de ayrılıyor, 29.10.2026).
+- Hedef video süresi 60–75 sn (TikTok'ta 105–120 sn videoların sonuna kadar izlenme oranı %2'nin altında).
 - Bekleme (TEK1 kararı, 29.10.2026): 10 sn arayla kontrol ETME. Videoyu gönderdikten sonra arka planda çalışan tek bir komut başlat (run_in_background): önce 5 dk bekler, sonra run "completed" olana kadar 1 dk arayla kendisi kontrol eder ve bitince haber verir. Bu sırada ayrıca kontrol yapma (kullanım harcar).
 - Kare kontrolü: kareleri tek tek değil, tek bir pano görselinde toplu kontrol et.
 - Video bitince kareleri çıkarıp kontrol et (ffmpeg), sonra gönder.
