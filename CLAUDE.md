@@ -25,6 +25,16 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - Yeni sohbet açmayı önerme.
 - Diğer yapay zekâlara (GPT, Manus, Perplexity) prompt yazarken sonuna şunu ekle: "Cevabını bana kopyalanabilir formatta ver."
 
+## 2b. KULLANIM TASARRUFU (TEK1 kararı, 29.10.2026)
+Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
+- Yorumlar: sadece en yeni 20–30 ana yorumu çek. Tam tarama yapma; zaman sınırını defter.json'daki "sinir_notu"ndan al. Tam tarama sadece ilk kez bakılan videoda bir kez yapılır, sınır deftere yazılır.
+- Büyük araç çıktılarını sohbete dökme; dosyaya kaydet, python/jq ile sadece gereken alanları çıkar.
+- Görseller: aday fotoğrafları ve video karelerini tek pano görselinde incele, tek tek açma.
+- Aynı dosyayı/veriyi tekrar okuma; sadece gereken kısmı oku.
+- Video beklemesi: arka plan komutu (bkz. bölüm 9), ara kontrol yok.
+- Araştırma: ağır taramayı GPT/Manus/Perplexity yapsın, sen kontrol et. Doğrulama protokolü (bölüm 4) aynen geçerli.
+- Mesajlar kısa ve net. Model değiştirme önerme.
+
 ## 3. KONU SEÇİMİ
 - Konu önermeden önce episodes/ klasörüne bak, tekrar olmasın.
 - Konuyu TEK1 onaylamadan seçme. Seçenekleri karşılaştırıp gerekçeli öneri ver.
