@@ -135,7 +135,8 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - dis_ses: {file, kesimler: [[[bas, bit]], …]}
   - segments: [{say, caption, key[], image:{local, fit:"doldur", kirp:[x0,y0,x1,y1], baslik, kaynak}, scene:"photo"}]
   - Görseller assets/belgeler/NNN_*.jpg, ses assets/ses/NNN_slug.mp3
-- Bekleme döngüsü: run durumu "completed <commit kısa hash>" olana kadar 10 sn arayla kontrol et.
+- Bekleme (TEK1 kararı, 29.10.2026): 10 sn arayla kontrol ETME. Videoyu gönderdikten sonra arka planda çalışan tek bir komut başlat (run_in_background): önce 5 dk bekler, sonra run "completed" olana kadar 1 dk arayla kendisi kontrol eder ve bitince haber verir. Bu sırada ayrıca kontrol yapma (kullanım harcar).
+- Kare kontrolü: kareleri tek tek değil, tek bir pano görselinde toplu kontrol et.
 - Video bitince kareleri çıkarıp kontrol et (ffmpeg), sonra gönder.
 - Zernio (yorum cevabı):
   - Instagram hesabı 6ade30e2924b817a8f5f9a8a, TikTok hesabı 6ade311b2981fad19e1d90f3
