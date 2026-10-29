@@ -480,9 +480,11 @@ if os.path.exists(_img_json):
 def make_shade():
     a = np.zeros((H, W), np.float32)
     y = np.arange(H)[:, None].astype(np.float32)
-    a += np.clip((380 - y) / 380, 0, 1) * 0.55             # üst: marka çubuğu okunsun
-    a += np.clip((y - 880) / 700, 0, 1) ** 1.2 * 0.88       # alt: başlık + altyazı okunsun
-    a = np.clip(a + 0.12, 0, 0.92)
+    # Facebook koyu alt/üst şeritleri "kenarlık" sayıyor: kenarlar karanlık kalmasın,
+    # gölge sadece altyazı bandında (y≈1470) yumuşak bir tepe yapsın; yazıların konturu okunurluğu taşır
+    a += np.clip((260 - y) / 260, 0, 1) * 0.22                       # üst: hafif
+    a += np.exp(-((y - 1430) / 260) ** 2) * 0.42                     # altyazı bandı
+    a = np.clip(a, 0, 0.45)
     out = np.zeros((H, W, 4), np.uint8); out[..., 3] = (a * 255).astype(np.uint8)
     out[..., :3] = (4, 8, 14)
     return Image.fromarray(out, "RGBA")
