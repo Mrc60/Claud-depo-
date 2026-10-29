@@ -30,7 +30,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Yorumlar: sadece en yeni 20–30 ana yorumu çek. Tam tarama yapma; zaman sınırını defter.json'daki "sinir_notu"ndan al. Tam tarama sadece ilk kez bakılan videoda bir kez yapılır, sınır deftere yazılır.
 - Büyük araç çıktılarını sohbete dökme; dosyaya kaydet, python/jq ile sadece gereken alanları çıkar.
 - Görseller: aday fotoğrafları ve video karelerini tek pano görselinde incele, tek tek açma.
-- Aynı dosyayı/veriyi tekrar okuma; sadece gereken kısmı oku.
+- Değişmemiş dosyayı/veriyi boşuna tekrar okuma; sadece gereken kısmı oku. AMA şu durumlarda mutlaka yeniden oku/kontrol et: dosya değiştiyse; geri alınamaz işten önce (yorum göndermeden önce son kontrol, main'e push); kaynak doğrulamada; emin olmadığında.
 - Video beklemesi: arka plan komutu (bkz. bölüm 9), ara kontrol yok.
 - Araştırma: ağır taramayı GPT/Manus/Perplexity yapsın, sen kontrol et. Doğrulama protokolü (bölüm 4) aynen geçerli.
 - Mesajlar kısa ve net. Model değiştirme önerme.
