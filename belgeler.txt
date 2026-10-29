@@ -1,19 +1,7 @@
-# 050 ege dogrulama
-icj_1978.pdf https://www.icj-cij.org/sites/default/files/case-related/62/062-19781219-JUD-01-00-EN.pdf
-icj_1976_ord.pdf https://www.icj-cij.org/sites/default/files/case-related/62/062-19760911-ORD-01-00-EN.pdf
-unsc395.html https://www.refworld.org/legal/resolution/unsc/1976/en/113031
-italy1947_bevans.pdf https://www.loc.gov/law/help/us-treaties/bevans/m-ust000004-0311.pdf
-italy1947_unts.pdf https://treaties.un.org/doc/Publication/UNTS/Volume%2049/volume-49-I-747-English.pdf
-mta_sismik1.html https://www.mta.gov.tr/v3.0/arastirmalar/sismik1
-ege_soguksavas.pdf https://dergipark.org.tr/tr/download/article-file/5103275
-saglam_ege.pdf https://dergipark.org.tr/tr/download/article-file/3622430
-ege_ab.pdf https://dergipark.org.tr/tr/download/article-file/107649
-ege_stratejik.pdf https://dergipark.org.tr/tr/download/article-file/3033300
-# 052 devrim dogrulama
-arslan_devrim.pdf https://dergipark.org.tr/en/download/article-file/1787576
-sahinkaya_devrim.pdf https://dergipark.org.tr/tr/download/article-file/522
-turasas_devrim.html http://devrimarabasi.com.tr/bir-basari-oykusu/
-dha_devrim.html https://www.dha.com.tr/gundem/siyah-devrim-otomobilinin-58-yillik-sirri-1746626
-# 052 devrim 2
-arslan_devrim2.pdf https://dergipark.org.tr/tr/download/article-file/1787576
-emo_devrim.pdf https://www.emo.org.tr/ekler/e84320349c4aa97_ek.pdf?dergi=4
+# 053 bekarlik vergisi dogrulama
+kanun5421.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105421.pdf
+rg7228.pdf https://www.resmigazete.gov.tr/arsiv/7228.pdf
+ozer2013.pdf https://dergipark.org.tr/tr/download/article-file/73880
+akkoyun2000.pdf https://dergipark.org.tr/en/download/article-file/58458
+semiz2010.pdf https://dergipark.org.tr/tr/download/article-file/258473
+gvk193.pdf https://www.mevzuat.gov.tr/MevzuatMetin/1.4.193.pdf
