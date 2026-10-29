@@ -1,0 +1,21 @@
+{
+  "aciklama": "Zernio ile gönderilen yorum cevapları. Anahtar: platform/post_id. Her kayıt: yorum_id, kullanici, yorum, cevap_id, tarih.",
+  "instagram/18020789228731773": {
+    "video": "042 Gelin",
+    "sinir_notu": "Kime yazıldığı belli olmayan son kanal cevabı: 2026-10-25T19:44Z. Öncesindeki yorumlara dokunma.",
+    "kayitlar": [
+      {"yorum_id": "18115124783027912", "kullanici": "haticeilhan3425", "yorum": "Bende yaşadım iki sene gelinlik yaptım çok yapamadim", "cevap_id": "17911261299572920", "tarih": "2026-10-29"},
+      {"yorum_id": "17970061497197447", "kullanici": "luizka_askarova", "yorum": "Ahiska Türklerinde hala var bu geleneğ", "cevap_id": "18120203917956957", "tarih": "2026-10-29"},
+      {"yorum_id": "17924766294431611", "kullanici": "fatih.42akb", "yorum": "Evet halen de böyle bir şey var ağrı'da ben de kayın babam da 7 yıl konuşmadım", "cevap_id": "18096225071475679", "tarih": "2026-10-29"},
+      {"yorum_id": "18148015705604074", "kullanici": "nurcan.uc.94", "yorum": "Ben de konuşmadım", "cevap_id": "18113594150579651", "tarih": "2026-10-29"},
+      {"yorum_id": "18014077280761614", "kullanici": "hediye.kanmaz", "yorum": "Ever ne yazıkk ben iki üç yıl konuşmadım ama çok saçmaydı iyiki bu gelenek kalktı", "cevap_id": "18126396478904256", "tarih": "2026-10-29"},
+      {"yorum_id": "18113903126270433", "kullanici": "neslihankaya5288", "yorum": "@siradandegill  annem gelinlik tutma derler dedem altın vermiş 50 yıl önce Bafra", "cevap_id": "18137935660642019", "tarih": "2026-10-29"},
+      {"yorum_id": "17997796167052569", "kullanici": "olmezzfatos", "yorum": "@siradandegill benim annemde dedem ölünceye kadar konuşmadı😢", "cevap_id": "17956605867330171", "tarih": "2026-10-29"},
+      {"yorum_id": "18014737382993453", "kullanici": "balabanoglusevda777", "yorum": "@siradandegill evet çok Erzurum", "cevap_id": "18097175303677024", "tarih": "2026-10-29"},
+      {"yorum_id": "18125420830912404", "kullanici": "tansu_adg", "yorum": "@siradandegill ben 14 yildir evliyim hâla konuşmuyorum", "cevap_id": "18112380137187307", "tarih": "2026-10-29"}
+    ],
+    "elle_cevaplanan": [
+      {"yorum_id": "18118179218111597", "kullanici": "aynur7979", "not": "TEK1 elle cevapladı"}
+    ]
+  }
+}

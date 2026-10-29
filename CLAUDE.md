@@ -103,7 +103,16 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - Yanlış bilgi verene: tartışma, karttaki doğru bilgiyi yumuşakça söyle.
   - Başka yöre/topluluk anlatana ("bizde de vardı"): onaylama ya da reddetme, teşekkür et. Kaynakta olmayan yeri doğrulama.
   - Konu dışı, siyasi, hakaret: cevap yok, listede "atlandı" diye işaretle.
-- Instagram (Zernio): kanalın cevapları ana listede ayrı yorum olarak görünür, replyCount güvenilmez. Cevap vermeden önce her yorumu comment_id ile aç ve listedeki siradandegill yorumlarını tara.
+- Cevaplarda sürekli "kaynaklarda" deme. Kaynağı sadece soran olursa söyle. Az empati, abartma yok.
+- ÇİFT CEVAP ÖNLEME (TEK1 ekran görüntüsü vermez, sistem kendisi çözmeli):
+  - Instagram API'si kanalın eski cevaplarının çoğunu "hangi yoruma" bilgisi olmadan, ana listede ayrı yorum olarak verir. replyCount güvenilmez. Kanal yorumunun (sabit yorum) altındaki yanıtların bir kısmı comment_id ile de gelmez.
+  - Kurallar her video için ayrı çalışır:
+    1. Zaman sınırı: Tüm sayfaları tara. Kime yazıldığı belli olmayan (@isim yok, defterde yok) en son kanal yorumunu bul. Ondan önceki yorumlara cevap verme.
+    2. İsim kontrolü: "@kullanıcı" ile başlayan kanal yorumu olan kişinin o yorumuna tekrar yazma.
+    3. Defter: yorumlar/defter.json. Gönderilen her cevabı (yorum_id, kullanıcı, yorum, cevap_id) kaydet. Defterdeki yoruma tekrar yazma.
+  - Aynı kişi aynı videoya FARKLI yeni bir yorum yazarsa ona cevap verilebilir.
+  - Göndermeden hemen önce tekrar kontrol et. Son 10 dakikayı (önbellek) göremeyebilirsin, bunu belirt.
+  - Kanal yorumunun altındaki bir yanıta cevap: comment_id = kanal yorumu, mesaj "@kullanıcı ..." ile başlar.
 - Instagram'da yorum beğenisi API ile yapılamaz (canLike: false). Beğeniyi TEK1 isterse kendisi yapar.
 
 ## 9. TEKNİK ALTYAPI
