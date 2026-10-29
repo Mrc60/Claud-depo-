@@ -1,59 +1,20 @@
 {
- "bolum": "052_devrim",
- "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:Devrim at Tülomsaş.jpg",
-  "File:Devrim Automobile Turkey.jpg",
-  "File:Devrim Automobile Turkey 2.jpg",
-  "File:Devrim - 20.10.23.jpg",
-  "File:Devrim car in August 2026.jpg",
-  "File:Odunpazarı, Eskişehir, Turkey 15.jpg",
-  "File:Cemal Gürsel (1960).jpg",
-  "File:Steam locomotive No.56375 Ankara museum.jpg",
-  "File:Tülomsaş Museum 2.jpg",
-  "File:Steam locomotive No.45174 Ankara Museum.JPG"
+ "bolum": "053_bekar",
+ "min_w": 700,
+ "sorgular": [
+  "Grand National Assembly of Turkey 1920s",
+  "Türkiye Büyük Millet Meclisi 1930",
+  "Süleyman Sırrı İçöz",
+  "Turkish wedding 1930s",
+  "Turkey wedding 1940s",
+  "Istanbul 1930s street men",
+  "Ankara 1929",
+  "Turkish women office workers 1930s",
+  "Istanbul coffeehouse 1930s",
+  "Turkish newspaper reading 1930s",
+  "Ankara Ulus 1930s",
+  "Turkey 1949"
  ],
- "indir": [
-  {
-   "file": "File:Devrim at Tülomsaş.jpg",
-   "ad": "garaj.jpg"
-  },
-  {
-   "file": "File:Devrim Automobile Turkey.jpg",
-   "ad": "on.jpg"
-  },
-  {
-   "file": "File:Devrim Automobile Turkey 2.jpg",
-   "ad": "on2.jpg"
-  },
-  {
-   "file": "File:Devrim - 20.10.23.jpg",
-   "ad": "yan.jpg"
-  },
-  {
-   "file": "File:Devrim car in August 2026.jpg",
-   "ad": "on3.jpg"
-  },
-  {
-   "file": "File:Odunpazarı, Eskişehir, Turkey 15.jpg",
-   "ad": "muze.jpg"
-  },
-  {
-   "file": "File:Cemal Gürsel (1960).jpg",
-   "ad": "gursel.jpg"
-  },
-  {
-   "file": "File:Steam locomotive No.56375 Ankara museum.jpg",
-   "ad": "lokomotif.jpg"
-  },
-  {
-   "file": "File:Tülomsaş Museum 2.jpg",
-   "ad": "tulomsas_lok.jpg"
-  },
-  {
-   "file": "File:Steam locomotive No.45174 Ankara Museum.JPG",
-   "ad": "lokomotif2.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
