@@ -97,6 +97,14 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - Kanalın zaten cevap verdiği yorumlara cevap verme. Aynı kişiye iki kez cevap verme.
 - Profillere girme, kimseyi takip etme.
 - Taslakları göster, TEK1 onaylamadan gönderme. Zernio'da beğeni yapma.
+- Cevaptan önce videonun bilgi kartını hazırla (episodes/NNN_*.json metni + açıklamadaki kaynaklar). Cevaplar bu karta bağlı kalsın, insan gibi doğal ve konuya uygun olsun.
+  - Kendi hikâyesini anlatana: dinleyen biri gibi kısa cevap, uygunsa karttan bir bilgiyle bağla.
+  - Soru sorana: sadece karttaki bilgiyle cevap ver. Kartta yoksa bilgi uydurma, nazikçe teşekkür et.
+  - Yanlış bilgi verene: tartışma, karttaki doğru bilgiyi yumuşakça söyle.
+  - Başka yöre/topluluk anlatana ("bizde de vardı"): onaylama ya da reddetme, teşekkür et. Kaynakta olmayan yeri doğrulama.
+  - Konu dışı, siyasi, hakaret: cevap yok, listede "atlandı" diye işaretle.
+- Instagram (Zernio): kanalın cevapları ana listede ayrı yorum olarak görünür, replyCount güvenilmez. Cevap vermeden önce her yorumu comment_id ile aç ve listedeki siradandegill yorumlarını tara.
+- Instagram'da yorum beğenisi API ile yapılamaz (canLike: false). Beğeniyi TEK1 isterse kendisi yapar.
 
 ## 9. TEKNİK ALTYAPI
 - GitHub Actions. Tetiklemek için (gh varsa): gh api -X POST repos/Mrc60/Claud-depo-/actions/workflows/X.yml/dispatches -f ref=main
