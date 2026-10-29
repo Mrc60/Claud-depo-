@@ -1,20 +1,59 @@
 {
  "bolum": "053_bekar",
  "min_w": 600,
- "sorgular": [
-  "Süleyman Sırrı Bey Yozgat milletvekili",
-  "Yozgat deputy 1920s Turkey",
-  "Turkish women working 1930s office",
-  "women typists Turkey 1930s",
-  "Türk kadınları 1930 memur",
-  "Turkey women 1930s Ankara",
-  "Cumhuriyet gazetesi 1929",
-  "Istanbul newspaper seller 1930s",
-  "man reading newspaper Istanbul",
-  "Turkish men coffeehouse 1940s",
-  "Istanbul 1940s street",
-  "Turkey 1950s office"
+ "sorgular": [],
+ "incele": [
+  "File:Grand National Assembly of Turkey (1928).jpg",
+  "File:I.-Türkiye-Büyük-Millet-Meclisi-Ankara-1920.jpg",
+  "File:Ankara Adliye Hukuk Mektebi Hocaları.jpg",
+  "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+  "File:Republic Boulevard, late 1930s (16851418951).jpg",
+  "File:TGNA circa 1920.jpg",
+  "File:Atatürk Boulevard, Grand Movie Theater and the Office Block, 1950s (16666319379).jpg",
+  "File:Anafartalar Boulevard, Köklü Office Building and shops, 1950s (16645159247).jpg",
+  "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+  "File:Turkish holiday.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Grand National Assembly of Turkey (1928).jpg",
+   "ad": "meclis1928.jpg"
+  },
+  {
+   "file": "File:I.-Türkiye-Büyük-Millet-Meclisi-Ankara-1920.jpg",
+   "ad": "meclis1920.jpg"
+  },
+  {
+   "file": "File:Ankara Adliye Hukuk Mektebi Hocaları.jpg",
+   "ad": "hukuk.jpg"
+  },
+  {
+   "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+   "ad": "musiki.jpg"
+  },
+  {
+   "file": "File:Republic Boulevard, late 1930s (16851418951).jpg",
+   "ad": "bulvar.jpg"
+  },
+  {
+   "file": "File:TGNA circa 1920.jpg",
+   "ad": "tgna.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, Grand Movie Theater and the Office Block, 1950s (16666319379).jpg",
+   "ad": "ataturkblv.jpg"
+  },
+  {
+   "file": "File:Anafartalar Boulevard, Köklü Office Building and shops, 1950s (16645159247).jpg",
+   "ad": "anafartalar.jpg"
+  },
+  {
+   "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
+   "ad": "dugun.jpg"
+  },
+  {
+   "file": "File:Turkish holiday.jpg",
+   "ad": "bayram.jpg"
+  }
+ ]
 }
