@@ -139,6 +139,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - Zernio (yorum cevabı):
   - Instagram hesabı 6ade30e2924b817a8f5f9a8a, TikTok hesabı 6ade311b2981fad19e1d90f3
   - Instagram'da beğeni yok.
+  - TikTok: cevap gönderme test edildi (29.10.2026, Lozan 7700989622838480146). Yanıtlar doğru yorumun altında gelir, replyCount güvenilir. Lozan/Musul yorumları çoğunlukla gergin ve siyasi: savunmacı olmayan, yumuşak, kısa cevap.
   - Post ID'leri: gelin 18020789228731773, okuma 18129154627891169
   - Sonuçlar 10 dakika önbellekte kalabilir.
 - Buffer (bağlı, ücretsiz plan, yorum cevabı yok):
@@ -167,7 +168,6 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 ## 11. YAPILACAKLAR / AÇIK İŞLER
 - Gelin videosu, Instagram yorumları: yorumları yeniden çek, TEK1'in zaten cevapladıklarını çıkar, taslak göster, onay al, Zernio ile gönder, beğenme.
 - İsteğe bağlı: arzuhalci videosundaki Osman Hamdi tablosunu siyah-beyaz yap (teklif edildi, cevap yok).
-- İsteğe bağlı: Zernio ile TikTok yorum cevabını test et.
 - Kurulmuş hatırlatmalar: Sarıkamış (19 Aralık), Erzincan depremi (24 Aralık).
 - Sıradaki konu: TEK1 karar verecek. Önce episodes/ klasörünü kontrol et (son bölüm: 048_hatay).
 - Bilinmiyor, TEK1'e sor: #45–#48 videoları yayınlandı mı?
