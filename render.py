@@ -267,6 +267,27 @@ def draw_caption(frame, t):
         x += wd + gap
     frame.alpha_composite(layer)
 
+def draw_acilis(frame, t):
+    """Açılış merak yazısı: bölüm JSON'unda "acilis" varsa ilk ~3 sn ekranın üst kısmında büyük yazı.
+    Koyu kutu yok (fotoğrafı kapatmasın), sadece kontur. Satırlar "\n" ile ayrılır."""
+    txt = EP.get("acilis")
+    SURE = float(EP.get("acilis_sure", 3.0))
+    if not txt or t >= SURE: return
+    a = min(1.0, ease(t / 0.15)) * min(1.0, (SURE - t) / 0.4)
+    lines = txt.replace("i", "İ").replace("ı", "I").upper().split("\n")  # Türkçe büyük harf
+    layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ld = ImageDraw.Draw(layer)
+    size = 118
+    f = F_CAP(size)
+    while max(ld.textlength(l, font=f) for l in lines) > W - 140 and size > 60:
+        size -= 6; f = F_CAP(size)
+    y = 360 - (len(lines) - 1) * size * 0.55
+    for i, l in enumerate(lines):
+        col = AMBER if i == len(lines) - 1 and len(lines) > 1 else CREAM
+        ld.text((W / 2, y + i * size * 1.1), l, font=f, fill=with_alpha(col, a), anchor="mm",
+                stroke_width=9, stroke_fill=(5, 10, 18, int(235 * a)))
+    frame.alpha_composite(layer)
+
 # ---------- sahneler ----------
 _WM = None
 def chrome(frame, t):
@@ -766,6 +787,7 @@ def render_frame(t, idx):
             f.alpha_composite(layer)
     chrome(f, t)
     draw_daktilo(f, t)
+    draw_acilis(f, t)
     draw_caption(f, t)
     rgb = f.convert("RGB")
     # hafif film greni
