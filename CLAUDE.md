@@ -103,6 +103,11 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - Yanlış bilgi verene: tartışma, karttaki doğru bilgiyi yumuşakça söyle.
   - Başka yöre/topluluk anlatana ("bizde de vardı"): onaylama ya da reddetme, teşekkür et. Kaynakta olmayan yeri doğrulama.
   - Konu dışı, siyasi, hakaret: cevap yok, listede "atlandı" diye işaretle.
+- Teşekkürü her cevaba koyma. Yorumcu nazik ise teşekkür et, değilse sadece yoruma karşılık ver. Cevaplar birbirine benzemesin.
+- Bir seferde en fazla 10 cevap, aralarına birkaç saniye (toplu gönderim spam riski).
+- Listeyi en yeniden eskiye ver ve bunu listenin başında belirt (Instagram ekran sırası herkese aynı değil).
+- Öncelik: soru soranlar ve en yeni yorumlar.
+- Kullanıcıların birbiriyle tartışmasına (etnik köken, siyaset vb.) hiç girme.
 - Cevaplarda sürekli "kaynaklarda" deme. Kaynağı sadece soran olursa söyle. Az empati, abartma yok.
 - ÇİFT CEVAP ÖNLEME (TEK1 ekran görüntüsü vermez, sistem kendisi çözmeli):
   - Instagram API'si kanalın eski cevaplarının çoğunu "hangi yoruma" bilgisi olmadan, ana listede ayrı yorum olarak verir. replyCount güvenilmez. Kanal yorumunun (sabit yorum) altındaki yanıtların bir kısmı comment_id ile de gelmez.
