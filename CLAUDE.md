@@ -86,6 +86,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - Instagram: açıklama, sabit yorum
   - Facebook: metin, sabit yorum
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
+- Facebook + Instagram (29.10.2026'dan itibaren): TEK1 ikisini Meta Business Suite'ten TEK paylaşımla atar. Tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Bağlantılı tam kaynak listesi sabit yorumda.
 
 ## 8. YORUM CEVAPLARI
 - Listenin başına platform, video ve hesap yaz: "Instagram · Gelin videosu · @siradandegill".
