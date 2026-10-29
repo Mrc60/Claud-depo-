@@ -1,0 +1,350 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 52,
+ "slug": "devrim",
+ "title": "Devrim",
+ "youtube_title": "Bizde otomobil yapılamaz dediler! #SıradanDeğil 52",
+ "youtube_description": "",
+ "sources": [],
+ "dis_ses": {
+  "file": "assets/ses/052_devrim.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.9
+    ]
+   ],
+   [
+    [
+     8.9,
+     17.7
+    ]
+   ],
+   [
+    [
+     17.7,
+     24.9
+    ]
+   ],
+   [
+    [
+     24.9,
+     31.2
+    ]
+   ],
+   [
+    [
+     31.2,
+     37.8
+    ]
+   ],
+   [
+    [
+     37.8,
+     44.5
+    ]
+   ],
+   [
+    [
+     44.5,
+     50.4
+    ]
+   ],
+   [
+    [
+     50.4,
+     55.9
+    ]
+   ],
+   [
+    [
+     55.9,
+     66.3
+    ]
+   ],
+   [
+    [
+     66.3,
+     77.6
+    ]
+   ],
+   [
+    [
+     77.6,
+     88.6
+    ]
+   ],
+   [
+    [
+     88.6,
+     98.5
+    ]
+   ],
+   [
+    [
+     98.5,
+     108.2
+    ]
+   ],
+   [
+    [
+     108.2,
+     120.6
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bizde otomobil yapılamaz dediler… Onlar ise dört aydan biraz fazla bir sürede, ilk yerli otomobili yaptılar.",
+   "caption": "Bizde otomobil yapılamaz dediler… Onlar ise dört aydan biraz fazla bir sürede, ilk yerli otomobili yaptılar.",
+   "key": [
+    "yapılamaz"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_yan.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, Eskişehir, 2023 (güncel fotoğraf) · Onur / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, Eskişehir, 2023 (güncel fotoğraf) · Onur / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Cumhurbaşkanı Cemal Gürsel, Devlet Demiryollarına bir görev verdi. 29 Ekim törenine yerli bir otomobil yetiştirilecekti.",
+   "caption": "Cumhurbaşkanı Cemal Gürsel, Devlet Demiryollarına bir görev verdi. 29 Ekim törenine yerli bir otomobil yetiştirilecekti.",
+   "key": [
+    "Cemal Gürsel"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_gursel.jpg",
+    "fit": "doldur",
+    "baslik": "Cemal Gürsel, 1960 · Nationaal Archief / Wikimedia Commons, CC0",
+    "lisans": "",
+    "kaynak": "Cemal Gürsel, 1960 · Nationaal Archief / Wikimedia Commons, CC0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "İş, Eskişehirdeki Demiryolu Fabrikalarına verildi. Burada vagon yapılıyordu… otomobil değil.",
+   "caption": "İş, Eskişehirdeki Demiryolu Fabrikalarına verildi. Burada vagon yapılıyordu… otomobil değil.",
+   "key": [
+    "vagon"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_tulomsas_lok.jpg",
+    "fit": "doldur",
+    "baslik": "TÜLOMSAŞ müzesinde buharlı lokomotif, Eskişehir, 2018 (güncel fotoğraf) · Nedim Ardoğa / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "TÜLOMSAŞ müzesinde buharlı lokomotif, Eskişehir, 2018 (güncel fotoğraf) · Nedim Ardoğa / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Modern bir otomobil fabrikası yoktu. Araçların neredeyse tamamı el emeğiyle yapıldı.",
+   "caption": "Modern bir otomobil fabrikası yoktu. Araçların neredeyse tamamı el emeğiyle yapıldı.",
+   "key": [
+    "el emeğiyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_muze.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, Eskişehir, 2019 (güncel fotoğraf) · Murat Özsoy / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, Eskişehir, 2019 (güncel fotoğraf) · Murat Özsoy / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve 29 Ekim 1961 geldi. Otomobiller Ankaraya trenle götürüldü.",
+   "caption": "Ve 29 Ekim 1961 geldi. Otomobiller Ankaraya trenle götürüldü.",
+   "key": [
+    "trenle"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_lokomotif.jpg",
+    "fit": "doldur",
+    "baslik": "TCDD buharlı lokomotifi, Ankara Buharlı Lokomotif Müzesi (güncel fotoğraf) · Ex13 / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "TCDD buharlı lokomotifi, Ankara Buharlı Lokomotif Müzesi (güncel fotoğraf) · Ex13 / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Buharlı lokomotifin kıvılcımları tehlikeli olabilirdi. Bu yüzden benzin depoları boşaltılmıştı.",
+   "caption": "Buharlı lokomotifin kıvılcımları tehlikeli olabilirdi. Bu yüzden benzin depoları boşaltılmıştı.",
+   "key": [
+    "kıvılcımları"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_lokomotif2.jpg",
+    "fit": "doldur",
+    "baslik": "TCDD buharlı lokomotifi, Ankara Buharlı Lokomotif Müzesi (güncel fotoğraf) · Ex13 / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "TCDD buharlı lokomotifi, Ankara Buharlı Lokomotif Müzesi (güncel fotoğraf) · Ex13 / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Cemal Gürsel otomobile bindi. Ama araç kısa bir mesafe gittikten sonra durdu.",
+   "caption": "Cemal Gürsel otomobile bindi. Ama araç kısa bir mesafe gittikten sonra durdu.",
+   "key": [
+    "durdu"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_gursel.jpg",
+    "fit": "doldur",
+    "baslik": "Cemal Gürsel, 1960 · Nationaal Archief / Wikimedia Commons, CC0",
+    "lisans": "",
+    "kaynak": "Cemal Gürsel, 1960 · Nationaal Archief / Wikimedia Commons, CC0",
+    "sayfa": "",
+    "kirp": [
+     0.25,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Benzin bitmişti. Gürselden özür dilendi, yolculuk diğer otomobille sürdü.",
+   "caption": "Benzin bitmişti. Gürselden özür dilendi, yolculuk diğer otomobille sürdü.",
+   "key": [
+    "Benzin bitmişti"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_on2.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, TÜLOMSAŞ, Eskişehir, 2018 (güncel fotoğraf) · Raicem / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, TÜLOMSAŞ, Eskişehir, 2018 (güncel fotoğraf) · Raicem / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ertesi gün bir gazete şu başlığı attı: Avrupa kafası ile otomobil yaptık. Ama Şark kafası ile benzin koyduk ve burada kaldık.",
+   "caption": "Ertesi gün bir gazete şu başlığı attı: Avrupa kafası ile otomobil yaptık. Ama Şark kafası ile benzin koyduk ve burada kaldık.",
+   "key": [
+    "burada kaldık"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_on.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, TÜLOMSAŞ, Eskişehir, 2018 (güncel fotoğraf) · Raicem / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, TÜLOMSAŞ, Eskişehir, 2018 (güncel fotoğraf) · Raicem / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama başka bir gazete de şunu yazdı: Bir aşağılık duygusu ile bizde otomobil yapılamaz diyenler utansınlar. Hayır, işte bizde de otomobil yapılabiliyor.",
+   "caption": "Ama başka bir gazete de şunu yazdı: Bir aşağılık duygusu ile bizde otomobil yapılamaz diyenler utansınlar. Hayır, işte bizde de otomobil yapılabiliyor.",
+   "key": [
+    "yapılabiliyor"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_yan.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, Eskişehir, 2023 (güncel fotoğraf) · Onur / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, Eskişehir, 2023 (güncel fotoğraf) · Onur / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.3,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sonraki günlerde tartışma büyüdü. Kimi gazete maliyeti eleştirdi. Kimi de sordu: Önce otomobilden mi, yoksa traktör ve kamyondan mı başlamalıydık?",
+   "caption": "Sonraki günlerde tartışma büyüdü. Kimi gazete maliyeti eleştirdi. Kimi de sordu: Önce otomobilden mi, yoksa traktör ve kamyondan mı başlamalıydık?",
+   "key": [
+    "traktör ve kamyondan"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_garaj.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, TÜLOMSAŞ cam garajı (güncel fotoğraf) · Makalp / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, TÜLOMSAŞ cam garajı (güncel fotoğraf) · Makalp / Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aslında bu otomobiller bir deneme üretimiydi. Seri üretim için modern fabrikalar gerekiyordu. Ve Devrim, seri üretime hiç geçmedi.",
+   "caption": "Aslında bu otomobiller bir deneme üretimiydi. Seri üretim için modern fabrikalar gerekiyordu. Ve Devrim, seri üretime hiç geçmedi.",
+   "key": [
+    "seri üretime"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_on3.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, Eskişehir, 2026 (güncel fotoğraf) · Kurmanbek / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, Eskişehir, 2026 (güncel fotoğraf) · Kurmanbek / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bugün bir Devrim otomobili, Eskişehirde bir müzede sergileniyor. Sizce Devrim seri üretime geçseydi, bugün neler değişirdi?",
+   "caption": "Bugün bir Devrim otomobili, Eskişehirde bir müzede sergileniyor. Sizce Devrim seri üretime geçseydi, bugün neler değişirdi?",
+   "key": [
+    "neler değişirdi"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_muze.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, Eskişehir, 2019 (güncel fotoğraf) · Murat Özsoy / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, Eskişehir, 2019 (güncel fotoğraf) · Murat Özsoy / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.3,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/052_on2.jpg",
+    "fit": "doldur",
+    "baslik": "Devrim otomobili, TÜLOMSAŞ, Eskişehir, 2018 (güncel fotoğraf) · Raicem / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Devrim otomobili, TÜLOMSAŞ, Eskişehir, 2018 (güncel fotoğraf) · Raicem / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.0,
+     0.0,
+     0.7,
+     1.0
+    ]
+   },
+   "scene": "photo"
+  }
+ ]
+}
