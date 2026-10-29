@@ -1,0 +1,240 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 53,
+ "slug": "bekar",
+ "title": "Bekârlık Vergisi",
+ "youtube_title": "Bekârsan daha fazla vergi! #SıradanDeğil 53",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Bekârsan\ndaha fazla vergi",
+ "dis_ses": {
+  "file": "assets/ses/053_bekar.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.7
+    ]
+   ],
+   [
+    [
+     8.7,
+     16.2
+    ]
+   ],
+   [
+    [
+     16.2,
+     24.7
+    ]
+   ],
+   [
+    [
+     24.7,
+     30.7
+    ]
+   ],
+   [
+    [
+     30.7,
+     39.5
+    ]
+   ],
+   [
+    [
+     39.5,
+     46.5
+    ]
+   ],
+   [
+    [
+     46.5,
+     58.0
+    ]
+   ],
+   [
+    [
+     58.0,
+     64.97
+    ]
+   ],
+   [
+    [
+     64.97,
+     76.8
+    ]
+   ],
+   [
+    [
+     76.8,
+     94.04
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Evlenmiyorsan, devlete daha fazla vergi ödeyeceksin. Bu teklif, bir zamanlar Türkiye Büyük Millet Meclisine gerçekten verildi.",
+   "caption": "Evlenmiyorsan, devlete daha fazla vergi ödeyeceksin. Bu teklif, bir zamanlar Türkiye Büyük Millet Meclisine gerçekten verildi.",
+   "key": [
+    "daha fazla vergi"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_meclis1928.jpg",
+    "fit": "doldur",
+    "baslik": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1929 yılında Yozgat Milletvekili Süleyman Sırrı Bey, nüfusu artırmak için bir kanun teklifi hazırladı.",
+   "caption": "1929 yılında Yozgat Milletvekili Süleyman Sırrı Bey, nüfusu artırmak için bir kanun teklifi hazırladı.",
+   "key": [
+    "Süleyman Sırrı Bey"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_meclis1920.jpg",
+    "fit": "doldur",
+    "baslik": "Birinci Meclis binası, Ankara · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Birinci Meclis binası, Ankara · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Teklife göre 25 ile 45 yaş arasındaki bekâr erkekler, ödedikleri bazı vergiler kadar bir de bekârlık vergisi ödeyecekti.",
+   "caption": "Teklife göre 25 ile 45 yaş arasındaki bekâr erkekler, ödedikleri bazı vergiler kadar bir de bekârlık vergisi ödeyecekti.",
+   "key": [
+    "bekârlık vergisi"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_hukuk.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara Adliye Hukuk Mektebi hocaları · Jean Weinberg · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Ankara Adliye Hukuk Mektebi hocaları · Jean Weinberg · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Devlet dairesinden maaş alan, 20 ile 35 yaş arasındaki bekâr kadınlar da buna dahildi.",
+   "caption": "Devlet dairesinden maaş alan, 20 ile 35 yaş arasındaki bekâr kadınlar da buna dahildi.",
+   "key": [
+    "bekâr kadınlar"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_musiki.jpg",
+    "fit": "doldur",
+    "baslik": "Musiki Muallim Mektebi, Ankara, 1930'lar · Wikimedia Commons, kısıtlamasız",
+    "lisans": "",
+    "kaynak": "Musiki Muallim Mektebi, Ankara, 1930'lar · Wikimedia Commons, kısıtlamasız",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Gazeteler konuyu bekârlara sordu. Cumhuriyet gazetesinde şu söz yer aldı: Ceketimi satar vergiyi öderim, fakat evlenmem.",
+   "caption": "Gazeteler konuyu bekârlara sordu. Cumhuriyet gazetesinde şu söz yer aldı: Ceketimi satar vergiyi öderim, fakat evlenmem.",
+   "key": [
+    "Ceketimi satar"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_bulvar.jpg",
+    "fit": "doldur",
+    "baslik": "Cumhuriyet Bulvarı, Ankara, 1930'ların sonu · Wikimedia Commons, kısıtlamasız",
+    "lisans": "",
+    "kaynak": "Cumhuriyet Bulvarı, Ankara, 1930'ların sonu · Wikimedia Commons, kısıtlamasız",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Meclisin maliye komisyonu teklifi reddetti. Gerekçesi şuydu: Evlilik vergiyle teşvik edilmezdi.",
+   "caption": "Meclisin maliye komisyonu teklifi reddetti. Gerekçesi şuydu: Evlilik vergiyle teşvik edilmezdi.",
+   "key": [
+    "reddetti"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_tgna.jpg",
+    "fit": "doldur",
+    "baslik": "TBMM binası, Ankara, 1920'ler · Library of Congress · Wikimedia Commons, kısıtlamasız",
+    "lisans": "",
+    "kaynak": "TBMM binası, Ankara, 1920'ler · Library of Congress · Wikimedia Commons, kısıtlamasız",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama Süleyman Sırrı Bey vazgeçmedi. Teklifini 1931de, 1940ta ve 1944te yeniden getirdi. Hiçbiri kanunlaşmadı.",
+   "caption": "Ama Süleyman Sırrı Bey vazgeçmedi. Teklifini 1931de, 1940ta ve 1944te yeniden getirdi. Hiçbiri kanunlaşmadı.",
+   "key": [
+    "vazgeçmedi"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_meclis1928.jpg",
+    "fit": "doldur",
+    "baslik": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sonra 1949 geldi. Reddedilen fikir, yirmi yıl sonra başka bir adla kanuna girdi.",
+   "caption": "Sonra 1949 geldi. Reddedilen fikir, yirmi yıl sonra başka bir adla kanuna girdi.",
+   "key": [
+    "yirmi yıl sonra"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_ataturkblv.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk Bulvarı, Ankara, 1950'ler · Wikimedia Commons, kısıtlamasız",
+    "lisans": "",
+    "kaynak": "Atatürk Bulvarı, Ankara, 1950'ler · Wikimedia Commons, kısıtlamasız",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yeni Gelir Vergisi Kanununa göre bekâr mükelleflerin gelir vergisine yüzde beş zam yapılacaktı. Adı: bekârlık zammı. Bu kanun, 1961de yürürlükten kalktı.",
+   "caption": "Yeni Gelir Vergisi Kanununa göre bekâr mükelleflerin gelir vergisine yüzde beş zam yapılacaktı. Adı: bekârlık zammı. Bu kanun, 1961de yürürlükten kalktı.",
+   "key": [
+    "yüzde beş",
+    "bekârlık zammı"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_anafartalar.jpg",
+    "fit": "doldur",
+    "baslik": "Anafartalar Caddesi, Ankara, 1950'ler · Wikimedia Commons, kısıtlamasız",
+    "lisans": "",
+    "kaynak": "Anafartalar Caddesi, Ankara, 1950'ler · Wikimedia Commons, kısıtlamasız",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizce bugün böyle bir vergi olsaydı, evlenenlerin sayısı artar mıydı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım. Hoşçakalın.",
+   "caption": "Sizce bugün böyle bir vergi olsaydı, evlenenlerin sayısı artar mıydı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım. Hoşçakalın.",
+   "key": [
+    "evlenenlerin sayısı"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_dugun.jpg",
+    "fit": "doldur",
+    "baslik": "Fevzi Çakmak'ın kızının düğünü · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Fevzi Çakmak'ın kızının düğünü · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
