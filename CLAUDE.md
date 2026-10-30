@@ -97,6 +97,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - Instagram: açıklama, sabit yorum
   - Facebook: metin, sabit yorum
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
+- Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
 - Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Bağlantılı tam kaynak listesi sabit yorumda.
 
 ## 8. YORUM CEVAPLARI
@@ -148,6 +149,8 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - Görseller assets/belgeler/NNN_*.jpg, ses assets/ses/NNN_slug.mp3
   - "acilis": "Satır 1\nSatır 2" → ilk 3 sn üstte büyük merak yazısı (render.py draw_acilis). Her yeni bölümde kullan (TikTok verisi: izleyicilerin çoğu 3. sn'de ayrılıyor, 29.10.2026).
 - Hedef video süresi 60–75 sn (TikTok'ta 105–120 sn videoların sonuna kadar izlenme oranı %2'nin altında).
+- DENEME (30.10.2026): Bekârlıktan sonraki ilk video 60 sn altında olacak; FB tamamlanma oranı önceki videolarla (%1,9) karşılaştırılacak.
+- Kenarlık uyarısı: sebebi kenardaki koyu gölgeydi, Devrim'de azaltıldı (Devrim ve Bekârlık 9/9). Gölgeyi tekrar koyulaştırma.
 - Bekleme (TEK1 kararı, 29.10.2026): 10 sn arayla kontrol ETME. Videoyu gönderdikten sonra arka planda çalışan tek bir komut başlat (run_in_background): önce 5 dk bekler, sonra run "completed" olana kadar 1 dk arayla kendisi kontrol eder ve bitince haber verir. Bu sırada ayrıca kontrol yapma (kullanım harcar).
 - Kare kontrolü: kareleri tek tek değil, tek bir pano görselinde toplu kontrol et.
 - Video bitince kareleri çıkarıp kontrol et (ffmpeg), sonra gönder.
