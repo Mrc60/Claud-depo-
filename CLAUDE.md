@@ -37,6 +37,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Mesajlar kısa ve net. Model değiştirme önerme.
 
 ## 3. KONU SEÇİMİ
+- KANAL DİZİNİ: DIZIN.md (python3 dizin.py ile güncelle). Konu ve görsel tekrarını önce buradan kontrol et; yeni bölüm eklenince dizini yenile. Not: aynı fotoğraf farklı dosya adıyla indirildiyse dizin yakalamaz, Commons dosya adını/LCCN numarasını da grep'le.
 - Konu önermeden önce episodes/ klasörüne bak, tekrar olmasın.
 - Konuyu TEK1 onaylamadan seçme. Seçenekleri karşılaştırıp gerekçeli öneri ver.
 - 15 yaştan en yaşlıya, kadın ve erkek herkese hitap etsin. Çocukça olmasın.
