@@ -82,13 +82,18 @@
     "yüksek faiz"
    ],
    "image": {
-    "local": "assets/belgeler/054_5000on_k.jpg",
+    "local": "assets/belgeler/054_sokak1981.jpg",
     "fit": "doldur",
-    "baslik": "5.000 TL banknot, 1981 · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "baslik": "İstanbul, Edirnekapı, Ağustos 1981 · Daniel Villafruela / Wikimedia Commons, CC BY 3.0",
     "lisans": "",
-    "kaynak": "5.000 TL banknot, 1981 · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "kaynak": "İstanbul, Edirnekapı, Ağustos 1981 · Daniel Villafruela / Wikimedia Commons, CC BY 3.0",
     "sayfa": "",
-    "hiz": 0.5
+    "kirp": [
+     0.05,
+     0,
+     0.75,
+     1
+    ]
    },
    "scene": "photo"
   },
@@ -121,13 +126,12 @@
     "bankerler"
    ],
    "image": {
-    "local": "assets/belgeler/054_5000arka_k.jpg",
+    "local": "assets/belgeler/054_eminonu1982.jpg",
     "fit": "doldur",
-    "baslik": "5.000 TL banknot, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "baslik": "Yeni Cami ve Eminönü, İstanbul · W. Bulach / Wikimedia Commons, CC BY-SA 4.0",
     "lisans": "",
-    "kaynak": "5.000 TL banknot, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
-    "sayfa": "",
-    "hiz": 0.5
+    "kaynak": "Yeni Cami ve Eminönü, İstanbul · W. Bulach / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
    },
    "scene": "photo"
   },
@@ -182,18 +186,13 @@
     "Banker Kastelli"
    ],
    "image": {
-    "local": "assets/belgeler/054_mezar.jpg",
+    "local": "assets/belgeler/054_mezar_k.jpg",
     "fit": "doldur",
     "baslik": "Cevher Özdenin mezar taşı, İstanbul · Wikimedia Commons, CC0",
     "lisans": "",
     "kaynak": "Cevher Özdenin mezar taşı, İstanbul · Wikimedia Commons, CC0",
     "sayfa": "",
-    "kirp": [
-     0.3,
-     0,
-     0.72,
-     1
-    ]
+    "hiz": 0.5
    },
    "scene": "photo"
   },
@@ -204,13 +203,12 @@
     "binlerce aile"
    ],
    "image": {
-    "local": "assets/belgeler/054_10000arka_k.jpg",
+    "local": "assets/belgeler/054_evler1981.jpg",
     "fit": "doldur",
-    "baslik": "10.000 TL banknot, 1982, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "baslik": "İstanbul, eski mahalleler, Ağustos 1981 · Daniel Villafruela / Wikimedia Commons, CC BY 3.0",
     "lisans": "",
-    "kaynak": "10.000 TL banknot, 1982, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
-    "sayfa": "",
-    "hiz": 0.5
+    "kaynak": "İstanbul, eski mahalleler, Ağustos 1981 · Daniel Villafruela / Wikimedia Commons, CC BY 3.0",
+    "sayfa": ""
    },
    "scene": "photo"
   },
