@@ -1,4 +1,5 @@
-# 054 banker: TCMB 7. emisyon 5000 ve 10000 TL sayfaları + çoğaltma kuralı
-e7_5000_1.html https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banknotlar/Cumhuriyet+Donemi+Banknotlari/Emisyon+Gruplari/7+Emisyon+Grubu/emisyon9
-e7_10000_1.html https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banknotlar/Cumhuriyet+Donemi+Banknotlari/Emisyon+Gruplari/7+Emisyon+Grubu/emisyon13
-cogaltma.html https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banknotlar/Banknotlarin+Cogaltilmasi
+# 054 banker: TCMB E7 banknot görselleri (5000 TL 02.11.1981, 10000 TL 25.10.1982)
+tcmb_5000_on.jpg https://www.tcmb.gov.tr/wps/wcm/connect/2248c4d5-c3d9-449a-bffd-8dadd2d856b4/1/275_1.jpg?MOD=AJPERES
+tcmb_5000_arka.jpg https://www.tcmb.gov.tr/wps/wcm/connect/2248c4d5-c3d9-449a-bffd-8dadd2d856b4/2/275_2.jpg?MOD=AJPERES
+tcmb_10000_on.jpg https://www.tcmb.gov.tr/wps/wcm/connect/061ef448-5c2e-4771-b1d4-eeb5cf37cce3/1/285_1.jpg?MOD=AJPERES
+tcmb_10000_arka.jpg https://www.tcmb.gov.tr/wps/wcm/connect/061ef448-5c2e-4771-b1d4-eeb5cf37cce3/2/285_2.jpg?MOD=AJPERES
