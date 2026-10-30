@@ -23,6 +23,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - Tahmini doğrulanmış bilgiden ayır. Dosya gerçekten oluşmadan "hazır" deme.
 - İş bitince şunları raporla: ne yapıldı, ne kontrol edildi, ne kontrol edilemedi, onay gerekiyor mu.
 - Yeni sohbet açmayı önerme.
+- PROAKTİF OL (TEK1 kararı, 30.10.2026): Yönlendirme bekleme. TEK1'in ana hedefi para kazanmak ve kanalı büyütmek; bunu her işte aklında tut. Fırsat, risk ya da daha iyi bir yol görürsen kendin söyle ve "bunu böyle yapalım" diye gerekçeli öneri getir. Öneri getirmek serbest; uygulamak yine TEK1'in onayına bağlı.
 - Diğer yapay zekâlara (GPT, Manus, Perplexity) prompt yazarken sonuna şunu ekle: "Cevabını bana kopyalanabilir formatta ver."
 
 ## 2b. KULLANIM TASARRUFU (TEK1 kararı, 29.10.2026)
@@ -96,7 +97,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - Instagram: açıklama, sabit yorum
   - Facebook: metin, sabit yorum
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
-- Facebook + Instagram (29.10.2026'dan itibaren): TEK1 ikisini Meta Business Suite'ten TEK paylaşımla atar. Tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Bağlantılı tam kaynak listesi sabit yorumda.
+- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Bağlantılı tam kaynak listesi sabit yorumda.
 
 ## 8. YORUM CEVAPLARI
 - Listenin başına platform, video ve hesap yaz: "Instagram · Gelin videosu · @siradandegill".
