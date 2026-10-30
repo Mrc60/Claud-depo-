@@ -189,3 +189,16 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Kurulmuş hatırlatmalar: Sarıkamış (19 Aralık), Erzincan depremi (24 Aralık).
 - Sıradaki konu: TEK1 karar verecek. Önce episodes/ klasörünü kontrol et (son bölüm: 048_hatay).
 - Bilinmiyor, TEK1'e sor: #45–#48 videoları yayınlandı mı?
+
+## 12. DERSLER (kendi hatalarım; 30.10.2026 gözden geçirme)
+- Görsel önermeden önce fotoğrafı AÇ (pano). Künyeye bakıp önerdim; düğün fotoğrafında Atatürk vardı.
+- Yorum taslağı: TEK taslak ver, soru yok (dolaylı da yok: "merak ettik", "paylaşırsanız seviniriz"). Göstermeden önce kontrol listesinden geçir.
+- Zernio gönderimi: cevapları TEK TEK sırayla gönder, toplu/paralel gönderme.
+- Yorum taraması: sınırı "son kanal cevabının saati" değil "taramanın yapıldığı saat" olarak deftere yaz; yeni taramada önceki sınıra yakın, işaretlenmemiş yorumları da kontrol et (Devrim'de mstfksk28 kaçtı).
+- Senaryo: hikâyenin SONUCU olmalı ("paralar ne oldu?"). Sonuçsuz bırakma; kaynaklarda sonucu ara.
+- Senaryo dili: rapor gibi değil konuşur gibi, geçişlerde soru ("Peki, bankerler ne yapıyordu?"). TEK1'in yazdığı akış daha iyiydi.
+- İzleyiciyi karıştıran teknik ayrıntıyı (ör. mevduat sertifikası kapsamı) sona koyma; net sonuç cümlesi kullan.
+- Aşırı temkin de hata: "kaçtı" için elimdeki kaynakları (Çukurova, Wikipedia, Sözcü) taramadan "çıktı" dedim. Karar vermeden önce mevcut kaynaklarda ara.
+- Diğer yapay zekâların (GPT, Manus) söylediği kaynak değildir; kaynağı kendim açıp okurum.
+- Uzun metin yazarken karakterleri kontrol et (beceri metnine Kiril harf karıştı).
+- Videodan önce süreyi hesapla: hedef ≤60 sn deneme; ~2,3 kelime/sn.
