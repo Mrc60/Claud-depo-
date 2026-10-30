@@ -1,11 +1,7 @@
 {
- "bolum": "054_banker",
- "min_w": 700,
- "sorgular": [],
- "incele": ["File:Istambul-Fortifications byzantines-1981.jpg","File:Istambul-Lost-1981.jpg","File:00 1578 Hagia Sophia, Istanbul (Türkei).jpg"],
- "indir": [
-  {"file": "File:Istambul-Fortifications byzantines-1981.jpg", "ad": "sokak1981.jpg"},
-  {"file": "File:Istambul-Lost-1981.jpg", "ad": "evler1981.jpg"},
-  {"file": "File:00 1578 Hagia Sophia, Istanbul (Türkei).jpg", "ad": "eminonu1982.jpg"}
- ]
+ "bolum": "055_tuz",
+ "min_w": 500,
+ "sorgular": ["Atatürk Tuz Gölü tuz taşıyan köylüler Gölbaşı 1921", "tuz taşıyan köylüler 1921", "incategory:\"1921 in Turkey\" Ankara"],
+ "incele": ["File:Cihanbeyli_20_03_1973_Salzfabrik_Salzlieferung.jpg","File:Yavşan_Tuzlası_07_06_1989_Salzdepot_Abbaubagger.jpg","File:Tuz_Gölü_10_09_1972_Ostseite_mit_Şereflikoçhisar-Aksaray_Sırtı.jpg"],
+ "indir": []
 }
