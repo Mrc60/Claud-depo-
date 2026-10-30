@@ -1,12 +1,20 @@
 {
  "bolum": "054_banker",
- "min_w": 500,
- "sorgular": [],
- "incele": ["File:Turkish 10000 lira banknote (52162732758).jpg"],
- "indir": [
-  {"file": "File:Istanbul trolleybus 18 on route 34 in 1981.jpg", "ad": "troleybus.jpg"},
-  {"file": "File:The Pudding shop 1982 and 2012 - 50449732222 (cropped) 1982.jpg", "ad": "ist1982.jpg"},
-  {"file": "File:Abidin Cevher Özden grave2.jpg", "ad": "mezar.jpg"},
-  {"file": "File:Turkish 10000 lira banknote (52162732758).jpg", "ad": "10000foto.jpg"}
- ]
+ "min_w": 700,
+ "sorgular": [
+  "Grand Bazaar Istanbul 1981",
+  "Kapalıçarşı 1980s",
+  "Eminönü 1982",
+  "Sirkeci 1981",
+  "Istanbul 1984 street people",
+  "Ankara 1981",
+  "Kızılay Ankara 1980s",
+  "Istiklal Avenue 1980s",
+  "Turkish family 1980s",
+  "Istanbul bank 1980",
+  "Galata Bridge 1981",
+  "Taksim 1982"
+ ],
+ "incele": [],
+ "indir": []
 }
