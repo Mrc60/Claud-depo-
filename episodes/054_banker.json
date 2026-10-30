@@ -1,0 +1,279 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 54,
+ "slug": "banker",
+ "title": "Bankerler",
+ "youtube_title": "Bankaya mı, bankere mi? #SıradanDeğil 54",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Bankaya mı?\nBankere mi?",
+ "dis_ses": {
+  "file": "assets/ses/054_banker.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.0
+    ]
+   ],
+   [
+    [
+     8.0,
+     14.6
+    ]
+   ],
+   [
+    [
+     14.6,
+     22.4
+    ]
+   ],
+   [
+    [
+     22.4,
+     28.6
+    ]
+   ],
+   [
+    [
+     28.6,
+     38.4
+    ]
+   ],
+   [
+    [
+     38.4,
+     49.0
+    ]
+   ],
+   [
+    [
+     49.0,
+     56.0
+    ]
+   ],
+   [
+    [
+     56.0,
+     64.5
+    ]
+   ],
+   [
+    [
+     64.5,
+     73.5
+    ]
+   ],
+   [
+    [
+     73.5,
+     85.39
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir düşünün… Birikiminizi bankaya yatırmak yerine, size bankadan çok daha yüksek faiz vaat eden birine emanet eder miydiniz?",
+   "caption": "Bir düşünün… Birikiminizi bankaya yatırmak yerine, size bankadan çok daha yüksek faiz vaat eden birine emanet eder miydiniz?",
+   "key": [
+    "yüksek faiz"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_5000on_k.jpg",
+    "fit": "doldur",
+    "baslik": "5.000 TL banknot, 1981 · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "lisans": "",
+    "kaynak": "5.000 TL banknot, 1981 · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "sayfa": "",
+    "hiz": 0.5
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1980 yılında Türkiyede faizler serbest bırakıldı ve büyük bir yarış başladı.",
+   "caption": "1980 yılında Türkiyede faizler serbest bırakıldı ve büyük bir yarış başladı.",
+   "key": [
+    "faizler serbest"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_troleybus.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul, Ekim 1981 · Merle L. Morgan / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "İstanbul, Ekim 1981 · Merle L. Morgan / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.22,
+     0,
+     0.88,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bankalar müşteri çekmeye çalışırken, bankerler çok daha yüksek kazanç vaadiyle ortaya çıktı. Peki, bankerler ne yapıyordu?",
+   "caption": "Bankalar müşteri çekmeye çalışırken, bankerler çok daha yüksek kazanç vaadiyle ortaya çıktı. Peki, bankerler ne yapıyordu?",
+   "key": [
+    "bankerler"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_5000arka_k.jpg",
+    "fit": "doldur",
+    "baslik": "5.000 TL banknot, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "lisans": "",
+    "kaynak": "5.000 TL banknot, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "sayfa": "",
+    "hiz": 0.5
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Halktan para topluyor, bankaların mevduat sertifikalarını yüksek faiz vaadiyle satıyorlardı.",
+   "caption": "Halktan para topluyor, bankaların mevduat sertifikalarını yüksek faiz vaadiyle satıyorlardı.",
+   "key": [
+    "mevduat sertifikalarını"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_ist1982.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul, 1982 · Mike McBey / Wikimedia Commons, CC BY 2.0",
+    "lisans": "",
+    "kaynak": "İstanbul, 1982 · Mike McBey / Wikimedia Commons, CC BY 2.0",
+    "sayfa": "",
+    "kirp": [
+     0.18,
+     0,
+     0.78,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama parlak görünen bu kazancın arkasında büyük bir tehlike vardı. Eski müşterilerin faizini ödemek için sürekli yeni müşterilerin parasına ihtiyaç vardı.",
+   "caption": "Ama parlak görünen bu kazancın arkasında büyük bir tehlike vardı. Eski müşterilerin faizini ödemek için sürekli yeni müşterilerin parasına ihtiyaç vardı.",
+   "key": [
+    "yeni müşterilerin parasına"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_10000foto.jpg",
+    "fit": "doldur",
+    "baslik": "10.000 TL banknot · Chi Ho Chan / Wikimedia Commons, CC BY 2.0",
+    "lisans": "",
+    "kaynak": "10.000 TL banknot · Chi Ho Chan / Wikimedia Commons, CC BY 2.0",
+    "sayfa": "",
+    "kirp": [
+     0.0,
+     0,
+     0.8,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve kriz geldi. Haziran 1982de, Banker Kastelli adıyla tanınan Cevher Özden yurt dışına kaçtı. Şirketleri tasfiye sürecine girdi.",
+   "caption": "Ve kriz geldi. Haziran 1982de, Banker Kastelli adıyla tanınan Cevher Özden yurt dışına kaçtı. Şirketleri tasfiye sürecine girdi.",
+   "key": [
+    "Banker Kastelli"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_mezar.jpg",
+    "fit": "doldur",
+    "baslik": "Cevher Özdenin mezar taşı, İstanbul · Wikimedia Commons, CC0",
+    "lisans": "",
+    "kaynak": "Cevher Özdenin mezar taşı, İstanbul · Wikimedia Commons, CC0",
+    "sayfa": "",
+    "kirp": [
+     0.3,
+     0,
+     0.72,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Birikimlerini bu sisteme emanet eden binlerce aile, paralarını kaybetme tehlikesiyle karşı karşıya kaldı.",
+   "caption": "Birikimlerini bu sisteme emanet eden binlerce aile, paralarını kaybetme tehlikesiyle karşı karşıya kaldı.",
+   "key": [
+    "binlerce aile"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_10000arka_k.jpg",
+    "fit": "doldur",
+    "baslik": "10.000 TL banknot, 1982, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "lisans": "",
+    "kaynak": "10.000 TL banknot, 1982, arka yüz · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "sayfa": "",
+    "hiz": 0.5
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1983te çıkan kanunla devlet devreye girdi. Ama sadece anaparanın 200 bin liraya kadar olan kısmı güvenceye alındı.",
+   "caption": "1983te çıkan kanunla devlet devreye girdi. Ama sadece anaparanın 200 bin liraya kadar olan kısmı güvenceye alındı.",
+   "key": [
+    "200 bin lira"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_10000on_k.jpg",
+    "fit": "doldur",
+    "baslik": "10.000 TL banknot, 1982 · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "lisans": "",
+    "kaynak": "10.000 TL banknot, 1982 · TCMB, 7. Emisyon Grubu banknot görseli (“Örnektir Geçmez”), tcmb.gov.tr",
+    "sayfa": "",
+    "hiz": 0.5
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Vaat edilen o yüksek faizler ise bu güvencenin dışında kaldı. Sizin ailenizde o yıllarda parasını bankerlere emanet eden biri var mıydı?",
+   "caption": "Vaat edilen o yüksek faizler ise bu güvencenin dışında kaldı. Sizin ailenizde o yıllarda parasını bankerlere emanet eden biri var mıydı?",
+   "key": [
+    "yüksek faizler"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_ist1982.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul, 1982 · Mike McBey / Wikimedia Commons, CC BY 2.0",
+    "lisans": "",
+    "kaynak": "İstanbul, 1982 · Mike McBey / Wikimedia Commons, CC BY 2.0",
+    "sayfa": "",
+    "kirp": [
+     0.45,
+     0,
+     1.0,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "yorumlarda"
+   ],
+   "image": {
+    "local": "assets/belgeler/054_troleybus.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul, Ekim 1981 · Merle L. Morgan / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "İstanbul, Ekim 1981 · Merle L. Morgan / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.0,
+     0,
+     0.6,
+     1
+    ]
+   },
+   "scene": "photo"
+  }
+ ]
+}
