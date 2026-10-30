@@ -97,6 +97,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - Instagram: açıklama, sabit yorum
   - Facebook: metin, sabit yorum
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
+- FB/IG AÇIKLAMA BAYT SINIRI (30.10.2026, doğrulandı): Facebook "10-400 karakter" uyarısında karakteri değil UTF-8 BAYTI sayıyor (Türkçe harf 2, emoji 4 bayt). Açıklama en fazla 370 BAYT olsun, her seferinde python ile `len(t.encode())` ölç. 📚 emojisi ve · işareti kullanma. (Banker 410 bayt 8/9 → 356 bayt 9/9; Altı Sıfır ve Ege aynı.) Uyarı erişimi öldürmüyor ama 9/9 hedef.
 - Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
 - Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Bağlantılı tam kaynak listesi sabit yorumda.
 
@@ -133,6 +134,12 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - SADECE ANA YORUMLARA cevap ver (TEK1 kararı, 29.10.2026). Yanıtlara (sabit yorum altındaki konuşmalar dahil) cevap verme; Instagram 3. katı açmaz, cevap listenin sonuna düşer.
   - Her gönderimde comment_id ver ve dönüşte isReply: true olduğunu kontrol et.
 - Instagram'da yorum beğenisi API ile yapılamaz (canLike: false). Beğeniyi TEK1 isterse kendisi yapar.
+
+## 8b. GÜNLÜK 3 YORUM HİKÂYESİ (TEK1 kararı, 30.10.2026)
+- Her gün o gün yayınlanan İKİ videonun yorumlarından toplam 3 güzel yorum seçilir, ertesi gün hikâyede paylaşılır.
+- TEK1 "dünün yorumları" der. IG yorumlarını Zernio ile çek; FB yorumlarını TEK1 yapıştırır.
+- Seçim: kendi hikâyesini/büyüklerinden duyduğunu anlatan, saygılı, siyaset ve kavga içermeyen. Önce 3 yorumu göster, onaydan sonra kanal tarzında (eski kâğıt, siyah-beyaz) hikâye görseli hazırla; her yorumun altında hangi videoya yazıldığı küçük yazsın.
+- Duyuru metni: "Her gün iki videomuza yazılan en güzel 3 yorumu ertesi gün hikâyemizde paylaşıyoruz. Düşüncelerinizi yorumlarda yazın 👇"
 
 ## 9. TEKNİK ALTYAPI
 - GitHub Actions. Tetiklemek için (gh varsa): gh api -X POST repos/Mrc60/Claud-depo-/actions/workflows/X.yml/dispatches -f ref=main
@@ -202,3 +209,8 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Diğer yapay zekâların (GPT, Manus) söylediği kaynak değildir; kaynağı kendim açıp okurum.
 - Uzun metin yazarken karakterleri kontrol et (beceri metnine Kiril harf karıştı).
 - Videodan önce süreyi hesapla: hedef ≤60 sn deneme; ~2,3 kelime/sn.
+- SENARYO DİLİ (TEK1 iki kez GPT'ye düzeltti): Rapor gibi resmî yazma. Önce bilgileri doğrula, sonra metni "bir arkadaşa anlatır gibi" yeniden yaz: kısa cümle, günlük dil, bugünden başlayan açılış ("Bugün markette…"). Zorlama soru sorma ("büyükleriniz tuzu nereden alırdı" gibi); kapanış sorusu videonun en şaşırtıcı bilgisine bağlansın. Zor birimi benzetmeyle aç (okka → "bir kilo tuz için beş on kilo buğday").
+- GÖRSEL TEKRARI: Görsel seçmeden önce `grep` ile episodes/ içinde daha önce kullanılmış mı kontrol et (Tuz'da Lakaplar videosunun köylü fotoğrafı tekrar kullanıldı).
+- KARARTMA YOK: Küçük/düşük çözünürlüklü görsellerde arka planı KOYULAŞTIRMA (brightness düşürme yok); sadece hafif bulanık bırak, görseli tam genişliğe büyüt. Açılış karesi asla koyu görünmesin.
+- GÖNDERİM: `git push HEAD:main` bekleyen TÜM kayıtları gönderir. Push'tan önce `git log origin/main..HEAD` ile bak; onaylanmamış kayıt varsa önce onay al.
+- Kareleri kontrol ederken sadece "küçük pencere" değil, parlaklık/karartma da raporla.
