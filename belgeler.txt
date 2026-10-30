@@ -1,5 +1,6 @@
-# 054 banker: TCMB E7 banknot görselleri (5000 TL 02.11.1981, 10000 TL 25.10.1982)
-tcmb_5000_on.jpg https://www.tcmb.gov.tr/wps/wcm/connect/2248c4d5-c3d9-449a-bffd-8dadd2d856b4/1/275_1.jpg?MOD=AJPERES
-tcmb_5000_arka.jpg https://www.tcmb.gov.tr/wps/wcm/connect/2248c4d5-c3d9-449a-bffd-8dadd2d856b4/2/275_2.jpg?MOD=AJPERES
-tcmb_10000_on.jpg https://www.tcmb.gov.tr/wps/wcm/connect/061ef448-5c2e-4771-b1d4-eeb5cf37cce3/1/285_1.jpg?MOD=AJPERES
-tcmb_10000_arka.jpg https://www.tcmb.gov.tr/wps/wcm/connect/061ef448-5c2e-4771-b1d4-eeb5cf37cce3/2/285_2.jpg?MOD=AJPERES
+# 054 banker: doğrulama kaynakları
+cukurova.html https://dergipark.org.tr/tr/pub/cuiibfd/article/1385920
+baskent.pdf https://acikerisim.baskent.edu.tr/server/api/core/bitstreams/aa62918d-313f-443f-9ac1-3d3177e89d9c/content
+kanun2874.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602874.pdf
+tcmb1981.pdf https://www.tcmb.gov.tr/wps/wcm/connect/2626306d-5d69-4a3d-9a59-18bdbcfda1e3/1981_Yillik_Rapor.pdf
+gaste_arastirma.html https://www.gastearsivi.com/arastirma/1982-banker-krizi
