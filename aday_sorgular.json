@@ -1,25 +1,12 @@
 {
  "bolum": "054_banker",
  "min_w": 500,
- "sorgular": [
-  "Turkey 5000 lira banknote",
-  "Turkey 10000 lira banknote",
-  "Turkish lira 1000 banknote 1980s",
-  "7th emission group banknotes Turkey",
-  "Türk lirası 5000 lira",
-  "Türkiye Cumhuriyet Merkez Bankası banknot 1981",
-  "Istanbul 1980 SALT",
-  "Galata 1980s black and white"
- ],
- "incele": [
-  "File:Tarlabaşı, İstanbul (12984456025).jpg",
-  "File:Tarlabaşı, İstanbul (12984576033).jpg",
-  "File:Tarlabaşı, İstanbul (12984439265).jpg",
-  "File:Tarlabaşı, İstanbul (12984854044).jpg",
-  "File:Ottoman Bank, Beyoğlu Branch - SALT Beyoğlu, İstanbul (12965607394).jpg",
-  "File:Abidin Cevher Özden grave2.jpg",
-  "File:The Pudding shop 1982 and 2012 - 50449732222 (cropped) 1982.jpg",
-  "File:Istanbul trolleybus 18 on route 34 in 1981.jpg"
- ],
- "indir": []
+ "sorgular": [],
+ "incele": ["File:Turkish 10000 lira banknote (52162732758).jpg"],
+ "indir": [
+  {"file": "File:Istanbul trolleybus 18 on route 34 in 1981.jpg", "ad": "troleybus.jpg"},
+  {"file": "File:The Pudding shop 1982 and 2012 - 50449732222 (cropped) 1982.jpg", "ad": "ist1982.jpg"},
+  {"file": "File:Abidin Cevher Özden grave2.jpg", "ad": "mezar.jpg"},
+  {"file": "File:Turkish 10000 lira banknote (52162732758).jpg", "ad": "10000foto.jpg"}
+ ]
 }
