@@ -1,0 +1,215 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 55,
+ "slug": "tuz",
+ "title": "Tuz Tekeli",
+ "youtube_title": "Tuz bile devletindi #SıradanDeğil 55",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Tuz bile\ndevletindi",
+ "dis_ses": {
+  "file": "assets/ses/055_tuz.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.2
+    ]
+   ],
+   [
+    [
+     8.2,
+     16.2
+    ]
+   ],
+   [
+    [
+     16.2,
+     25.3
+    ]
+   ],
+   [
+    [
+     25.3,
+     36.0
+    ]
+   ],
+   [
+    [
+     36.0,
+     42.2
+    ]
+   ],
+   [
+    [
+     42.2,
+     49.8
+    ]
+   ],
+   [
+    [
+     49.8,
+     58.3
+    ]
+   ],
+   [
+    [
+     58.3,
+     65.41
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bugün markette birkaç liraya aldığımız tuz… bir zamanlar köylünün en büyük derdiydi. Tuz devletin tekelindeydi.",
+   "caption": "Bugün markette birkaç liraya aldığımız tuz… bir zamanlar köylünün en büyük derdiydi. Tuz devletin tekelindeydi.",
+   "key": [
+    "en büyük derdiydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/055_foca_yigin_k.jpg",
+    "fit": "doldur",
+    "baslik": "Foça tuzlası, tuz yığan işçiler · Servet-i Fünun, 1910 (dergi fotoğrafı) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Foça tuzlası, tuz yığan işçiler · Servet-i Fünun, 1910 (dergi fotoğrafı) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 0.5
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Fiyatını devlet belirliyordu. Tuzlada kilosu üç kuruştu. Ama halkın eline geçene kadar on, on beş kuruşu buluyordu.",
+   "caption": "Fiyatını devlet belirliyordu. Tuzlada kilosu üç kuruştu. Ama halkın eline geçene kadar on, on beş kuruşu buluyordu.",
+   "key": [
+    "on, on beş kuruşu"
+   ],
+   "image": {
+    "local": "assets/belgeler/055_camalti_dekovil_k.jpg",
+    "fit": "doldur",
+    "baslik": "Çamaltı tuzlası · Servet-i Fünun, 1910 (dergi fotoğrafı) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Çamaltı tuzlası · Servet-i Fünun, 1910 (dergi fotoğrafı) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 0.5
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1924te bu konu Mecliste konuşuldu. Tuzu en çok fakir köylünün kullandığı söylendi. Ama vergi yine de artırıldı.",
+   "caption": "1924te bu konu Mecliste konuşuldu. Tuzu en çok fakir köylünün kullandığı söylendi. Ama vergi yine de artırıldı.",
+   "key": [
+    "fakir köylünün"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_meclis1920.jpg",
+    "fit": "doldur",
+    "baslik": "Birinci Meclis binası, Ankara · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Birinci Meclis binası, Ankara · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aradan sekiz yıl geçti, dert bitmedi. Bir milletvekili Mecliste şöyle dedi: Zavallı köylü, bir okka tuz için beş, on okka buğday satıyor.",
+   "caption": "Aradan sekiz yıl geçti, dert bitmedi. Bir milletvekili Mecliste şöyle dedi: Zavallı köylü, bir okka tuz için beş, on okka buğday satıyor.",
+   "key": [
+    "buğday satıyor"
+   ],
+   "image": {
+    "local": "assets/belgeler/053_meclis1928.jpg",
+    "fit": "doldur",
+    "baslik": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yani bir kilo tuz için, beş on kilo buğday. Pahalı tuz, kaçakçılığı da büyüttü.",
+   "caption": "Yani bir kilo tuz için, beş on kilo buğday. Pahalı tuz, kaçakçılığı da büyüttü.",
+   "key": [
+    "beş on kilo buğday"
+   ],
+   "image": {
+    "local": "assets/belgeler/055_koylu1910.jpg",
+    "fit": "doldur",
+    "baslik": "Türk köylüsü, 1910 · Bain News Service / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk köylüsü, 1910 · Bain News Service / Library of Congress, kamu malı",
+    "sayfa": "",
+    "kirp": [
+     0,
+     0.05,
+     1,
+     0.85
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sonunda tuz ucuzlatıldı, satışlar da hızla arttı. Tuzdaki devlet tekeli ise ancak 2001de kalktı.",
+   "caption": "Sonunda tuz ucuzlatıldı, satışlar da hızla arttı. Tuzdaki devlet tekeli ise ancak 2001de kalktı.",
+   "key": [
+    "2001de"
+   ],
+   "image": {
+    "local": "assets/belgeler/055_cihanbeyli1973.jpg",
+    "fit": "doldur",
+    "baslik": "Cihanbeyli, tuz teslimatı, 1973 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Cihanbeyli, tuz teslimatı, 1973 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.05,
+     0,
+     0.75,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu kadar yakın bir zamana kadar sürdüğünü biliyor muydunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Bu kadar yakın bir zamana kadar sürdüğünü biliyor muydunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "biliyor muydunuz"
+   ],
+   "image": {
+    "local": "assets/belgeler/055_yavsan1989.jpg",
+    "fit": "doldur",
+    "baslik": "Yavşan Tuzlası, 1989 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Yavşan Tuzlası, 1989 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.25,
+     0,
+     0.95,
+     1
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip etmeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/055_tuzgolu1972.jpg",
+    "fit": "doldur",
+    "baslik": "Tuz Gölü, 1972 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Tuz Gölü, 1972 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
