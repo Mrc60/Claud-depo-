@@ -1,7 +1,4 @@
-# 053 bekarlik vergisi dogrulama
-kanun5421.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc031/kanuntbmmc031/kanuntbmmc03105421.pdf
-rg7228.pdf https://www.resmigazete.gov.tr/arsiv/7228.pdf
-ozer2013.pdf https://dergipark.org.tr/tr/download/article-file/73880
-akkoyun2000.pdf https://dergipark.org.tr/en/download/article-file/58458
-semiz2010.pdf https://dergipark.org.tr/tr/download/article-file/258473
-gvk193.pdf https://www.mevzuat.gov.tr/MevzuatMetin/1.4.193.pdf
+# 054 banker: TCMB 7. emisyon 5000 ve 10000 TL sayfaları + çoğaltma kuralı
+e7_5000_1.html https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banknotlar/Cumhuriyet+Donemi+Banknotlari/Emisyon+Gruplari/7+Emisyon+Grubu/emisyon9
+e7_10000_1.html https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banknotlar/Cumhuriyet+Donemi+Banknotlari/Emisyon+Gruplari/7+Emisyon+Grubu/emisyon13
+cogaltma.html https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Banknotlar/Banknotlarin+Cogaltilmasi
