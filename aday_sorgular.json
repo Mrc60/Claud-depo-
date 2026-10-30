@@ -1,7 +1,39 @@
 {
  "bolum": "055_tuz",
- "min_w": 500,
- "sorgular": ["Atatürk Tuz Gölü tuz taşıyan köylüler Gölbaşı 1921", "tuz taşıyan köylüler 1921", "incategory:\"1921 in Turkey\" Ankara"],
- "incele": ["File:Cihanbeyli_20_03_1973_Salzfabrik_Salzlieferung.jpg","File:Yavşan_Tuzlası_07_06_1989_Salzdepot_Abbaubagger.jpg","File:Tuz_Gölü_10_09_1972_Ostseite_mit_Şereflikoçhisar-Aksaray_Sırtı.jpg"],
- "indir": []
+ "min_w": 400,
+ "sorgular": [],
+ "incele": [
+  "File:Une_vue_des_salines_de_Phocee_(autrefoils)_-_Salt_being_piled_by_hand._Foça_saltpan,_1910_-_‘Foça_Tuzlası’,_in_Servet-i_Fünun,_Vol._40,_No._1019,_(2_Kanunevvel_1326),_105.png",
+  "File:Lignes_Decauville_aux_salines_de_Phocee_-_Décauville_rail_lines_on_the_Çamaltı_saltpan_of_Foçateyn,_1910_-_‘Foça_Tuzlası’,_in_Servet-i_Fünun,_Vol._40,_No._1019,_(2_Kanunevvel_1326),_101.).jpg",
+  "File:Turkish_peasant_LCCN2014692434.jpg",
+  "File:Tuz_Gölü_10_09_1972_Ostseite_mit_Şereflikoçhisar-Aksaray_Sırtı.jpg",
+  "File:Cihanbeyli_20_03_1973_Salzfabrik_Salzlieferung.jpg",
+  "File:Yavşan_Tuzlası_07_06_1989_Salzdepot_Abbaubagger.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Une_vue_des_salines_de_Phocee_(autrefoils)_-_Salt_being_piled_by_hand._Foça_saltpan,_1910_-_‘Foça_Tuzlası’,_in_Servet-i_Fünun,_Vol._40,_No._1019,_(2_Kanunevvel_1326),_105.png",
+   "ad": "foca_yigin.png"
+  },
+  {
+   "file": "File:Lignes_Decauville_aux_salines_de_Phocee_-_Décauville_rail_lines_on_the_Çamaltı_saltpan_of_Foçateyn,_1910_-_‘Foça_Tuzlası’,_in_Servet-i_Fünun,_Vol._40,_No._1019,_(2_Kanunevvel_1326),_101.).jpg",
+   "ad": "camalti_dekovil.jpg"
+  },
+  {
+   "file": "File:Turkish_peasant_LCCN2014692434.jpg",
+   "ad": "koylu1910.jpg"
+  },
+  {
+   "file": "File:Tuz_Gölü_10_09_1972_Ostseite_mit_Şereflikoçhisar-Aksaray_Sırtı.jpg",
+   "ad": "tuzgolu1972.jpg"
+  },
+  {
+   "file": "File:Cihanbeyli_20_03_1973_Salzfabrik_Salzlieferung.jpg",
+   "ad": "cihanbeyli1973.jpg"
+  },
+  {
+   "file": "File:Yavşan_Tuzlası_07_06_1989_Salzdepot_Abbaubagger.jpg",
+   "ad": "yavsan1989.jpg"
+  }
+ ]
 }
