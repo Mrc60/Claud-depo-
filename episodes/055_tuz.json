@@ -136,18 +136,12 @@
     "beş on kilo buğday"
    ],
    "image": {
-    "local": "assets/belgeler/055_koylu1910.jpg",
+    "local": "assets/belgeler/055_tuzgolu1972.jpg",
     "fit": "doldur",
-    "baslik": "Türk köylüsü, 1910 · Bain News Service / Library of Congress, kamu malı",
+    "baslik": "Tuz Gölü, 1972 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
     "lisans": "",
-    "kaynak": "Türk köylüsü, 1910 · Bain News Service / Library of Congress, kamu malı",
-    "sayfa": "",
-    "kirp": [
-     0,
-     0.05,
-     1,
-     0.85
-    ]
+    "kaynak": "Tuz Gölü, 1972 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
    },
    "scene": "photo"
   },
@@ -202,12 +196,18 @@
     "takip etmeyi"
    ],
    "image": {
-    "local": "assets/belgeler/055_tuzgolu1972.jpg",
+    "local": "assets/belgeler/055_cihanbeyli1973.jpg",
     "fit": "doldur",
-    "baslik": "Tuz Gölü, 1972 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "baslik": "Cihanbeyli, tuz teslimatı, 1973 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
     "lisans": "",
-    "kaynak": "Tuz Gölü, 1972 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
-    "sayfa": ""
+    "kaynak": "Cihanbeyli, tuz teslimatı, 1973 · Volker Höhfeld / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.45,
+     0,
+     1,
+     1
+    ]
    },
    "scene": "photo"
   }
