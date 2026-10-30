@@ -1,6 +1,2 @@
-# 054 banker: doğrulama kaynakları
-cukurova.html https://dergipark.org.tr/tr/pub/cuiibfd/article/1385920
-baskent.pdf https://acikerisim.baskent.edu.tr/server/api/core/bitstreams/aa62918d-313f-443f-9ac1-3d3177e89d9c/content
-kanun2874.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc066/kanundmc066/kanundmc06602874.pdf
-tcmb1981.pdf https://www.tcmb.gov.tr/wps/wcm/connect/2626306d-5d69-4a3d-9a59-18bdbcfda1e3/1981_Yillik_Rapor.pdf
-gaste_arastirma.html https://www.gastearsivi.com/arastirma/1982-banker-krizi
+# 054 banker: Çukurova tam metin
+cukurova.pdf https://dergipark.org.tr/tr/download/article-file/3516210
