@@ -1,2 +1,8 @@
-# 054 banker: Çukurova tam metin
-cukurova.pdf https://dergipark.org.tr/tr/download/article-file/3516210
+# 055 tuz: doğrulama kaynakları
+kanun3078.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc017/kanuntbmmc017/kanuntbmmc01703078.pdf
+kanun4683.html https://cdn.tbmm.gov.tr/KKBSPublicFile/D21/Y2/T2/KanunMetni/7e37548d-3f93-45f4-be94-f86cfa5b000a.html
+ctad.pdf https://ctad.hacettepe.edu.tr/15_30/9.pdf
+metinsoy.pdf https://cdn.istanbul.edu.tr/file/JTA6CLJ8T5/E1BD49E79E244DA193018576BAEA531E
+dp3002938.pdf https://dergipark.org.tr/tr/download/article-file/3002938
+dp233469.pdf https://dergipark.org.tr/tr/download/article-file/233469
+hurriyet2001.html https://www.hurriyet.com.tr/ekonomi/tuzda-devlet-tekeli-kalkti-39251070
