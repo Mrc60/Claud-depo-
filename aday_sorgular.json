@@ -1,59 +1,24 @@
 {
- "bolum": "053_bekar",
+ "bolum": "054_banker",
  "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:Grand National Assembly of Turkey (1928).jpg",
-  "File:I.-Türkiye-Büyük-Millet-Meclisi-Ankara-1920.jpg",
-  "File:Ankara Adliye Hukuk Mektebi Hocaları.jpg",
-  "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
-  "File:Republic Boulevard, late 1930s (16851418951).jpg",
-  "File:TGNA circa 1920.jpg",
-  "File:Atatürk Boulevard, Grand Movie Theater and the Office Block, 1950s (16666319379).jpg",
-  "File:Anafartalar Boulevard, Köklü Office Building and shops, 1950s (16645159247).jpg",
-  "File:The wedding of the daughter of Fevzi Çakmak.jpg",
-  "File:Turkish holiday.jpg"
+ "sorgular": [
+  "Banker Kastelli",
+  "Cevher Özden",
+  "Turkish lira banknote 1980s",
+  "Türk lirası banknot 1981",
+  "5000 lira 1981 banknote Turkey",
+  "10000 lira banknote Turkey 1982",
+  "Istanbul 1982",
+  "Istanbul 1981 street",
+  "Ankara 1982",
+  "Istanbul 1980s bank",
+  "Istanbul 1983",
+  "Turkey 1980s queue people",
+  "Karaköy 1980s",
+  "Beyoğlu 1980s",
+  "newspaper kiosk Istanbul 1980s",
+  "Turkey 1982 people street"
  ],
- "indir": [
-  {
-   "file": "File:Grand National Assembly of Turkey (1928).jpg",
-   "ad": "meclis1928.jpg"
-  },
-  {
-   "file": "File:I.-Türkiye-Büyük-Millet-Meclisi-Ankara-1920.jpg",
-   "ad": "meclis1920.jpg"
-  },
-  {
-   "file": "File:Ankara Adliye Hukuk Mektebi Hocaları.jpg",
-   "ad": "hukuk.jpg"
-  },
-  {
-   "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
-   "ad": "musiki.jpg"
-  },
-  {
-   "file": "File:Republic Boulevard, late 1930s (16851418951).jpg",
-   "ad": "bulvar.jpg"
-  },
-  {
-   "file": "File:TGNA circa 1920.jpg",
-   "ad": "tgna.jpg"
-  },
-  {
-   "file": "File:Atatürk Boulevard, Grand Movie Theater and the Office Block, 1950s (16666319379).jpg",
-   "ad": "ataturkblv.jpg"
-  },
-  {
-   "file": "File:Anafartalar Boulevard, Köklü Office Building and shops, 1950s (16645159247).jpg",
-   "ad": "anafartalar.jpg"
-  },
-  {
-   "file": "File:The wedding of the daughter of Fevzi Çakmak.jpg",
-   "ad": "dugun.jpg"
-  },
-  {
-   "file": "File:Turkish holiday.jpg",
-   "ad": "bayram.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
