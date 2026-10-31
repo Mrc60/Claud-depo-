@@ -1,40 +1,35 @@
 {
  "bolum": "056_baslik",
- "min_w": 600,
+ "min_w": 700,
  "sorgular": [
-  "Abdullah Frères bride",
-  "Sébah Joaillier bride",
-  "Ottoman wedding photograph",
-  "Turkish peasant women LCCN",
-  "Anatolia village 1920s photograph",
-  "Turkish village family photograph",
-  "Ottoman school children photograph",
-  "Turkish court of cassation building",
-  "Ankara courthouse old photograph",
-  "Turkish wedding 1950s photograph"
+  "Matson Turkey wedding",
+  "Matson Taurus Mountains",
+  "American Colony Turkey village",
+  "Turkish bride in her wedding dress",
+  "LCCN Turkey wedding",
+  "Turkey village women 1920s Matson",
+  "Anatolian peasants 1900 photograph LCCN",
+  "Turkish village school 1930s",
+  "Köy okulu",
+  "Yargıtay eski bina"
  ],
  "incele": [
-  "File:Turkish bride.jpg",
-  "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
-  "File:Studio portrait of models wearing clothing from İstanbul, Ottoman Empire LCCN2004666974.jpg",
-  "File:Turkish Wedding.jpg"
+  "File:Wedding procession in the Ottoman Empire.jpg",
+  "File:Turkish Court of Cassation.jpg",
+  "File:Court of Cassation in Ankara (cropped).jpg"
  ],
  "indir": [
   {
-   "file": "File:Turkish bride.jpg",
-   "ad": "gelin_stereo.jpg"
+   "file": "File:Wedding procession in the Ottoman Empire.jpg",
+   "ad": "osm_dugun_alayi.jpg"
   },
   {
-   "file": "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
-   "ad": "elbise_hudavendigar.jpg"
+   "file": "File:Turkish Court of Cassation.jpg",
+   "ad": "yargitay_eski.jpg"
   },
   {
-   "file": "File:Studio portrait of models wearing clothing from İstanbul, Ottoman Empire LCCN2004666974.jpg",
-   "ad": "elbise_istanbul.jpg"
-  },
-  {
-   "file": "File:Turkish Wedding.jpg",
-   "ad": "vanmour_dugun.jpg"
+   "file": "File:Court of Cassation in Ankara (cropped).jpg",
+   "ad": "yargitay_yeni.jpg"
   }
  ]
 }
