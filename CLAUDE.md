@@ -198,7 +198,8 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 ## 11. YAPILACAKLAR / AÇIK İŞLER
 - Gelin videosu, Instagram yorumları: yorumları yeniden çek, TEK1'in zaten cevapladıklarını çıkar, taslak göster, onay al, Zernio ile gönder, beğenme.
 - İsteğe bağlı: arzuhalci videosundaki Osman Hamdi tablosunu siyah-beyaz yap (teklif edildi, cevap yok).
-- Kurulmuş hatırlatmalar: Sarıkamış (19 Aralık), Erzincan depremi (24 Aralık).
+- Kurulmuş hatırlatmalar: Sarıkamış (19 Aralık), Erzincan depremi (24 Aralık), KKTC videosu (13 Kasım).
+- PLANLI: 15 Kasım KKTC yıl dönümü videosu: "Bir ada nasıl iki devlet oldu? Neden KKTC, neden Rum kesimi?" Akış: 1960 ortak cumhuriyet (garantörler TR, YU, İng) → ortaklığın bozulması (1963 "çıkarıldı/çekildi" tartışmalı, yazma) → 15 Temmuz 1974 darbe, 20 Temmuz müdahale → 1975 Federe Devlet, 15 Kasım 1983 KKTC → BMGK 541, sadece TR tanıyor, Rum tarafı 2004 AB. Tarafsız, belgeli olaylar. Diğer Kıbrıs fikirleri: Yeşil Hat, 1878 devir, Kanlı Noel (21 Aralık), Kıbrıs Türklerinin göçü, Kıbrıs Türkçesi.
 - Sıradaki konu: TEK1 karar verecek. Önce episodes/ klasörünü kontrol et (son bölüm: 048_hatay).
 - Bilinmiyor, TEK1'e sor: #45–#48 videoları yayınlandı mı?
 
