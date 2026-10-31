@@ -1,34 +1,24 @@
 {
- "bolum": "056_baslik",
+ "bolum": "057_ebe",
  "min_w": 700,
- "sorgular": [],
- "incele": [
-  "File:Wedding in Anatolia 3.jpg",
-  "File:Wedding in Anatolia 7.jpg",
-  "File:Wedding in Anatolia 34.jpg",
-  "File:Wedding Dinner.jpg",
-  "File:Wedding in Anatolia 4.jpg"
- ],
- "indir": [
-  {
-   "file": "File:Wedding in Anatolia 3.jpg",
-   "ad": "anadolu_dugun3.jpg"
-  },
-  {
-   "file": "File:Wedding in Anatolia 7.jpg",
-   "ad": "anadolu_dugun7.jpg"
-  },
-  {
-   "file": "File:Wedding in Anatolia 34.jpg",
-   "ad": "anadolu_dugun34.jpg"
-  },
-  {
-   "file": "File:Wedding Dinner.jpg",
-   "ad": "dugun_yemegi.jpg"
-  },
-  {
-   "file": "File:Wedding in Anatolia 4.jpg",
-   "ad": "anadolu_dugun4.jpg"
-  }
+ "incele": [],
+ "indir": [],
+ "sorgular": [
+  "Turkish village women 1930s",
+  "Anatolian village woman child",
+  "Turkish village 1920s photograph",
+  "Turkish mother and baby",
+  "Armenian woman and her children from Geghi",
+  "Turkish women Constantinople 1919",
+  "Hasköy Hospital for Women Constantinople",
+  "Photographs of Lebanon, Turkey, and Syria 1930",
+  "Turkey village houses 1930",
+  "Turkish peasant women 1910",
+  "Turkish nurse 1930s",
+  "Turkey hospital 1930s",
+  "Turkish children village 1930s",
+  "Ottoman village women Anatolia",
+  "Turkey rural clinic",
+  "Turkish woman with baby cradle"
  ]
 }
