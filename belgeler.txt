@@ -1,2 +1,9 @@
-# 055 tuz: 1932 TBMM tutanağı (Memet Bey, buğday-tuz)
-tbmm1932.pdf https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d04/c008/tbmm04008053.pdf
+# 056 baslik parasi: TAYA tablolari, 1917 HAK md.90, TDV, Yargitay
+taya_tr.pdf https://ekutuphane.aile.gov.tr/media/yijg1qpb/t%C3%BCrk-aile-yap%C4%B1s%C4%B1-ara%C5%9Ft%C4%B1rmas%C4%B1.pdf
+taya_en.pdf https://aile.gov.tr/media/50224/turkiye-aile-yapisi-arastirmasi-tespitler-oneeriler_eng.pdf
+hak1917.pdf https://www.mehir.org/storage/publications/QvlAbyHmY1tT0p0F1cQ0ZAuN6GiJyPRx9NTYjyFc.pdf
+tdv_baslik.html https://islamansiklopedisi.org.tr/baslik
+tdv_hak.html https://islamansiklopedisi.org.tr/hukuk-i-aile-kararnamesi
+yargitay2016.html https://harunavsar.com/yargitay-karari/baslik-parasi-iade-edilmez-3-hukuk-dairesi-2015-13389-e/
+yargitay2018.html https://mevzuat.adalet.gov.tr/ictihat/769947500
+gezer.pdf https://dergipark.org.tr/tr/download/article-file/368123
