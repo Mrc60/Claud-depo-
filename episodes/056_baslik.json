@@ -1,0 +1,215 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 56,
+ "slug": "baslik",
+ "title": "Başlık Parası",
+ "youtube_title": "Kızın babasına para ödenirdi #SıradanDeğil 56",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kızın babasına\npara ödenirdi",
+ "dis_ses": {
+  "file": "assets/ses/056_baslik.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     10.8
+    ]
+   ],
+   [
+    [
+     10.8,
+     23.1
+    ]
+   ],
+   [
+    [
+     23.1,
+     29.5
+    ]
+   ],
+   [
+    [
+     29.5,
+     35.8
+    ]
+   ],
+   [
+    [
+     35.8,
+     43.0
+    ]
+   ],
+   [
+    [
+     43.0,
+     49.2
+    ]
+   ],
+   [
+    [
+     49.2,
+     61.9
+    ]
+   ],
+   [
+    [
+     61.9,
+     69.9
+    ]
+   ],
+   [
+    [
+     69.9,
+     76.43
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir kızın evlenebilmesi için babasına para ödenirdi. Adı da başlık parasıydı. Peki, bu gelenek ne zaman bitti? Cevap sizi şaşırtabilir.",
+   "caption": "Bir kızın evlenebilmesi için babasına para ödenirdi. Adı da başlık parasıydı. Peki, bu gelenek ne zaman bitti? Cevap sizi şaşırtabilir.",
+   "key": [
+    "babasına para ödenirdi"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_gelin1914.jpg",
+    "fit": "doldur",
+    "baslik": "Türk gelini ve yakınları, yaklaşık 1914 · Underwood & Underwood / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk gelini ve yakınları, yaklaşık 1914 · Underwood & Underwood / Library of Congress, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Başlık parası, damat tarafının kızın babasına ya da ailesine verdiği paraydı. Kimi zaman para, kimi zaman tarla ya da hayvan. Yani bu para kıza değil, babaya veriliyordu.",
+   "caption": "Başlık parası, damat tarafının kızın babasına ya da ailesine verdiği paraydı. Kimi zaman para, kimi zaman tarla ya da hayvan. Yani bu para kıza değil, babaya veriliyordu.",
+   "key": [
+    "kıza değil, babaya"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_gelin_altin.jpg",
+    "fit": "doldur",
+    "baslik": "Anadoluda köy düğünü, gelin (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Anadoluda köy düğünü, gelin (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Aile Bakanlığının araştırmasına göre, 2006da ilk evliliklerin yüzde on sekizinde başlık verilmişti.",
+   "caption": "Aile Bakanlığının araştırmasına göre, 2006da ilk evliliklerin yüzde on sekizinde başlık verilmişti.",
+   "key": [
+    "yüzde on sekizinde"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_halay.jpg",
+    "fit": "doldur",
+    "baslik": "Anadoluda köy düğünü, halay (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Anadoluda köy düğünü, halay (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "2011de bu oran yüzde on altıydı. Yani beş yılda neredeyse hiç değişmedi.",
+   "caption": "2011de bu oran yüzde on altıydı. Yani beş yılda neredeyse hiç değişmedi.",
+   "key": [
+    "neredeyse hiç değişmedi"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_kadin_halay.jpg",
+    "fit": "doldur",
+    "baslik": "Anadoluda köy düğünü (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Anadoluda köy düğünü (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Köylerde ise her dört evlilikten birine yaklaşıyordu. Okula hiç gitmemişlerde on kişiden dördü başlık vermişti.",
+   "caption": "Köylerde ise her dört evlilikten birine yaklaşıyordu. Okula hiç gitmemişlerde on kişiden dördü başlık vermişti.",
+   "key": [
+    "dört evlilikten birine"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_dugun_yemegi.jpg",
+    "fit": "doldur",
+    "baslik": "Köyde düğün yemeği (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Köyde düğün yemeği (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Üniversite mezunlarında ise elli kişiden sadece biri. Peki, hukuk ne diyor?",
+   "caption": "Üniversite mezunlarında ise elli kişiden sadece biri. Peki, hukuk ne diyor?",
+   "key": [
+    "elli kişiden sadece biri"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_okul.jpg",
+    "fit": "doldur",
+    "baslik": "Çörten İlkokulu (günümüz) · TutuşAltaylı / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Çörten İlkokulu (günümüz) · TutuşAltaylı / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yargıtay 2016da, kızın babasının evliliğe razı olmak karşılığında para almasını hukuka ve genel ahlaka aykırı buldu. Verilen başlık parasının da geri istenemeyeceğine karar verdi.",
+   "caption": "Yargıtay 2016da, kızın babasının evliliğe razı olmak karşılığında para almasını hukuka ve genel ahlaka aykırı buldu. Verilen başlık parasının da geri istenemeyeceğine karar verdi.",
+   "key": [
+    "genel ahlaka aykırı"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_yargitay.jpg",
+    "fit": "doldur",
+    "baslik": "Yargıtay binası, Ankara (günümüz) · Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Yargıtay binası, Ankara (günümüz) · Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizin çevrenizde başlık parası hâlâ var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Sizin çevrenizde başlık parası hâlâ var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "hâlâ var mı"
+   ],
+   "image": {
+    "local": "assets/belgeler/056_gelin_hazirlik.jpg",
+    "fit": "doldur",
+    "baslik": "Anadoluda köy düğünü, gelin (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Anadoluda köy düğünü, gelin (günümüz) · Gezer947 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/056_osmanli_kadin.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı dönemi kadın portresi · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı dönemi kadın portresi · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}

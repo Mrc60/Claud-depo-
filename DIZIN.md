@@ -61,6 +61,7 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 | 053 | Bekârlık Vergisi | Bekârsan / daha fazla vergi | 9 |
 | 054 | Bankerler | Bankaya mı? / Bankere mi? | 8 |
 | 055 | Tuz Tekeli | Tuz bile / devletindi | 7 |
+| 056 | Başlık Parası | Kızın babasına / para ödenirdi | 9 |
 
 ## Birden fazla bölümde kullanılan görseller
 
@@ -155,3 +156,4 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 - **053 Bekârlık Vergisi**: 053_meclis1928.jpg, 053_meclis1920.jpg, 053_hukuk.jpg, 053_musiki.jpg, 053_bulvar.jpg, 053_tgna.jpg, 053_ataturkblv.jpg, 053_anafartalar.jpg, 053_dugun.jpg
 - **054 Bankerler**: 054_sokak1981.jpg, 054_troleybus.jpg, 054_eminonu1982.jpg, 054_ist1982.jpg, 054_10000foto.jpg, 054_mezar_k.jpg, 054_evler1981.jpg, 054_10000on_k.jpg
 - **055 Tuz Tekeli**: 055_foca_yigin_k.jpg, 055_camalti_dekovil_k.jpg, 053_meclis1920.jpg, 053_meclis1928.jpg, 055_tuzgolu1972.jpg, 055_cihanbeyli1973.jpg, 055_yavsan1989.jpg
+- **056 Başlık Parası**: 056_gelin1914.jpg, 056_gelin_altin.jpg, 056_halay.jpg, 056_kadin_halay.jpg, 056_dugun_yemegi.jpg, 056_okul.jpg, 056_yargitay.jpg, 056_gelin_hazirlik.jpg, 056_osmanli_kadin.jpg
