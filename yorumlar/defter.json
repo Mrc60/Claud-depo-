@@ -375,10 +375,12 @@
         "yorum_id": "18220239250357519",
         "kullanici": "el_emek_dantel",
         "cevap_id": "18117935338821806"
+      },
+      {
+        "yorum_id": "18098887520208242",
+        "kullanici": "erdal14376",
+        "cevap_id": "17910047760325813"
       }
-    ],
-    "bekleyen": [
-      "18098887520208242 erdal14376 (TEK1 taslağı beğenmedi, yeni taslak)"
     ]
   }
 }
