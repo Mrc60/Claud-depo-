@@ -34,6 +34,10 @@ TEK1 iki Claude hesabıyla çalışır; ikisi de bu repoyu kullanır. Ortak haf�
 - Aynı anda iki hesap çalışmaz. İş bitince DURUM.md'yi güncelle ve (TEK1 onayıyla) GitHub'a gönder ki diğer hesap görsün.
 - Yeni kalıcı tercih/ders öğrenince HAFIZA.md ve CLAUDE.md'ye yaz.
 - Bağlantılar (Zernio, Buffer, vidIQ, ElevenLabs) ve hatırlatmalar hesaba bağlıdır; ikinci hesapta ayrıca bağlanır/kurulur.
+- HESAP ETİKETİ: Her kayıt mesajının sonuna `Hesap: 1` ya da `Hesap: 2` satırı ekle (birinci hesap = Claude Code bulut oturumu, ilk kurulan). Böylece kimin ne yaptığı belli olur.
+- MESAJLAR.md: Hesaplar arası not defteri (bilgi, iş, hata, soru). Oturum başında önce bunu oku, sana yazılanı cevapla.
+- KARŞILIKLI DENETİM: Oturum başında diğer hesabın son kontrolden beri yaptığı kayıtları (`git log`) incele: kaynak, senaryo, yükleme seti kuralları, yorum cevapları, defter. Hata bulursan TEK1'e söyle ve MESAJLAR.md'ye HATA olarak yaz. Düzeltmeyi TEK1 onayıyla yap.
+- GECE KONTROLÜ (TEK1 kararı, 31.10.2026): Her gün Hesap 1 ~04:30, Hesap 2 ~05:30 (İstanbul) zamanlanmış görevle çalışır: repo'yu çeker, MESAJLAR.md ve diğer hesabın son kayıtlarını denetler, bulguları MESAJLAR.md'ye, durumu DURUM.md'ye yazar ve SADECE bu iki dosyayı main'e gönderir (TEK1 bu gönderime genel onay verdi). Başka hiçbir iş yapmaz (yorum cevabı, video, yayın yok). Karar her zaman TEK1'in.
 
 ## 2b. KULLANIM TASARRUFU (TEK1 kararı, 29.10.2026)
 Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
