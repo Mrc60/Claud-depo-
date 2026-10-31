@@ -1,61 +1,34 @@
 {
  "bolum": "056_baslik",
  "min_w": 700,
- "sorgular": [
-  "Wedding in Anatolia"
- ],
+ "sorgular": [],
  "incele": [
-  "File:A Turkish bride in her wedding dress LCCN2004672922.tif",
-  "File:Turkish woman, full-length portrait, seated, facing front, holding parasol and flowers.jpg",
-  "File:Wedding of Kiazim and Idjlal in 1924.jpg",
-  "File:Turkish women, Constantinople, Turkey LCCN2010650578.jpg",
-  "File:Wedding in Anatolia 1.jpg",
-  "File:Wedding in Anatolia 2.jpg",
-  "File:Wedding in Anatolia 15.jpg",
-  "File:Wedding in Anatolia 19.jpg",
-  "File:Çörtenİlkokulu.jpg",
-  "File:Köy okulu 23 Nisan etkinliği.jpg"
+  "File:Wedding in Anatolia 3.jpg",
+  "File:Wedding in Anatolia 7.jpg",
+  "File:Wedding in Anatolia 34.jpg",
+  "File:Wedding Dinner.jpg",
+  "File:Wedding in Anatolia 4.jpg"
  ],
  "indir": [
   {
-   "file": "File:A Turkish bride in her wedding dress LCCN2004672922.tif",
-   "ad": "gelin1914.tif"
+   "file": "File:Wedding in Anatolia 3.jpg",
+   "ad": "anadolu_dugun3.jpg"
   },
   {
-   "file": "File:Turkish woman, full-length portrait, seated, facing front, holding parasol and flowers.jpg",
-   "ad": "kadin_semsiye.jpg"
+   "file": "File:Wedding in Anatolia 7.jpg",
+   "ad": "anadolu_dugun7.jpg"
   },
   {
-   "file": "File:Wedding of Kiazim and Idjlal in 1924.jpg",
-   "ad": "dugun1924.jpg"
+   "file": "File:Wedding in Anatolia 34.jpg",
+   "ad": "anadolu_dugun34.jpg"
   },
   {
-   "file": "File:Turkish women, Constantinople, Turkey LCCN2010650578.jpg",
-   "ad": "istanbul_kadinlar.jpg"
+   "file": "File:Wedding Dinner.jpg",
+   "ad": "dugun_yemegi.jpg"
   },
   {
-   "file": "File:Wedding in Anatolia 1.jpg",
-   "ad": "anadolu_dugun1.jpg"
-  },
-  {
-   "file": "File:Wedding in Anatolia 2.jpg",
-   "ad": "anadolu_dugun2.jpg"
-  },
-  {
-   "file": "File:Wedding in Anatolia 15.jpg",
-   "ad": "anadolu_dugun15.jpg"
-  },
-  {
-   "file": "File:Wedding in Anatolia 19.jpg",
-   "ad": "anadolu_dugun19.jpg"
-  },
-  {
-   "file": "File:Çörtenİlkokulu.jpg",
-   "ad": "cortenokul.jpg"
-  },
-  {
-   "file": "File:Köy okulu 23 Nisan etkinliği.jpg",
-   "ad": "koyokulu.jpg"
+   "file": "File:Wedding in Anatolia 4.jpg",
+   "ad": "anadolu_dugun4.jpg"
   }
  ]
 }
