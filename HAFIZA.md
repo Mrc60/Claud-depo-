@@ -66,7 +66,7 @@
 - Her alan ayrı kopyalanabilir blok: YouTube başlık, açıklama, etiketler, sabit yorum, diğer alanlar; TikTok açıklama + sabit yorum; Instagram açıklama + sabit yorum; Facebook metin + sabit yorum.
 - Her platformun açıklamasında kendi kaynak listesi.
 - FB+IG tek ortak açıklama (~350 karakter + etiketler, 400 altı; FB bayt sayar, ≤370 bayt). Instagram'ı TEK1 IG uygulamasından ayrı paylaşır.
-- Sabit yorum hariç hiçbir alanda emoji yok (FB ve TikTok'ta sorun çıkarıyor). Sabit yorum kuru kaynak listesi olmasın. Yayındaki örnek (Banker IG): tek kısa soru.
+- Sabit yorum hariç hiçbir alanda emoji yok (FB ve TikTok'ta sorun çıkarıyor). Sabit yorum her platformda SADECE tek kısa soru; kaynak ve link yok (kaynaklar açıklamada).
 
 ## Yorum cevapları
 - Taslağı önce göster; onaysız gönderme. Profillere girme, kimseyi takip etme.
