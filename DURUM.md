@@ -14,6 +14,7 @@
 
 ## Bekleyen / ertelenen
 - Facebook'ta eski güçlü videoları yeniden paylaşma: TEK1 "biraz zaman geçsin" dedi.
+- #56 görsel atfı ("Görseller: Gezer947, TutuşAltaylı, Metuboy (CC BY-SA 4.0), LOC"): Instagram ve Facebook'a eklendi. TikTok'ta yanlış yere yapıştı (kaynak satırının ortası); TikTok bugün düzenlemeye izin vermiyor, TEK1 gece 00:00'dan sonra düzeltilmiş tam metni yapıştıracak.
 - TikTok Altı Sıfır açıklamasında 📚 ve · duruyor; istenirse emojisiz metin ver.
 
 ## Hatırlatmalar ve gece kontrolü (Hesap 1'de kurulu)
