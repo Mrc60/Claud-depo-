@@ -29,7 +29,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 
 ## 2a. İKİ HESAP, TEK BEYİN (TEK1 kararı, 31.10.2026)
 TEK1 iki Claude hesabıyla çalışır; ikisi de AYNI dosyalarla, AYNI kurallarla, eşit yetkiyle çalışır (ayrıcalık yok, tek beyin). Ortak hafıza GitHub'dadır. Karar her zaman TEK1'in.
-- Oturum başında oku: CLAUDE.md, HAFIZA.md (kalıcı tercihler, birinci hesabın hafıza kopyası), DURUM.md (şu anki işler). Yorum işi için beceriler/yorum-cevapla/SKILL.md.
+- Oturum başında oku: CLAUDE.md, HAFIZA.md (kalıcı tercihler), INCE_AYARLAR.md (TEK1'in hassas olduğu ince ayrıntılar, yorum tonu örnekleri; MUTLAKA), DURUM.md (şu anki işler), MESAJLAR.md. Yorum işi için beceriler/yorum-cevapla/SKILL.md + INCE_AYARLAR.md bölüm E.
 - Her iş başında `git pull`; yorum cevaplamadan hemen önce yorumlar/defter.json'u yeniden çek ve oku (iki hesap aynı yoruma yazmasın).
 - Aynı anda iki hesap çalışmaz. İş bitince DURUM.md'yi güncelle ve (TEK1 onayıyla) GitHub'a gönder ki diğer hesap görsün.
 - Yeni kalıcı tercih/ders öğrenince HAFIZA.md ve CLAUDE.md'ye yaz.

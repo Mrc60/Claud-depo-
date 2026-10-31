@@ -3,6 +3,8 @@ name: "yorum-cevapla"
 description: "Sıradan Değil kanalının TikTok, Instagram, Facebook ve YouTube yorumlarına cevap taslağı hazırlar ve gönderir. TEK1 yorum yapıştırdığında ya da 'Yorum:' dediğinde kullan."
 ---
 
+> ÖNCE OKU: repo kökündeki INCE_AYARLAR.md bölüm E (TEK1'in onayladığı/reddettiği cevap örnekleri ve ton kuralları).
+
 # Yorum cevaplama — Sıradan Değil
 
 Depo: /home/claude/claud-depo- (yoksa github.com/Mrc60/Claud-depo- klonla). Önce CLAUDE.md bölüm 8'i oku; bu beceri onun uygulamasıdır, çelişirse CLAUDE.md geçerli.
