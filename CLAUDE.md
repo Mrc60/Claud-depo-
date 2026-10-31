@@ -27,6 +27,14 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - Diğer yapay zekâlara (GPT, Manus, Perplexity) prompt yazarken sonuna şunu ekle: "Cevabını bana kopyalanabilir formatta ver."
 - RAPOR ADI (TEK1 kararı, 31.10.2026): Her araştırma raporunun EN BAŞINDA hangi uygulamanın yazdığı yazsın: "Claude raporu", "Manus raporu", "GPT raporu", "Perplexity raporu" vb. Diğer yapay zekâlara yazılan her araştırma promptuna şunu ekle: "Cevabının en başına '[Uygulama adın] raporu' yaz." Kendi raporlarımı "Claude raporu" diye başlat.
 
+## 2a. İKİ HESAP, TEK BEYİN (TEK1 kararı, 31.10.2026)
+TEK1 iki Claude hesabıyla çalışır; ikisi de bu repoyu kullanır. Ortak hafıza GitHub'dadır.
+- Oturum başında oku: CLAUDE.md, HAFIZA.md (kalıcı tercihler, birinci hesabın hafıza kopyası), DURUM.md (şu anki işler). Yorum işi için beceriler/yorum-cevapla/SKILL.md.
+- Her iş başında `git pull`; yorum cevaplamadan hemen önce yorumlar/defter.json'u yeniden çek ve oku (iki hesap aynı yoruma yazmasın).
+- Aynı anda iki hesap çalışmaz. İş bitince DURUM.md'yi güncelle ve (TEK1 onayıyla) GitHub'a gönder ki diğer hesap görsün.
+- Yeni kalıcı tercih/ders öğrenince HAFIZA.md ve CLAUDE.md'ye yaz.
+- Bağlantılar (Zernio, Buffer, vidIQ, ElevenLabs) ve hatırlatmalar hesaba bağlıdır; ikinci hesapta ayrıca bağlanır/kurulur.
+
 ## 2b. KULLANIM TASARRUFU (TEK1 kararı, 29.10.2026)
 Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Yorumlar: sadece en yeni 20–30 ana yorumu çek. Tam tarama yapma; zaman sınırını defter.json'daki "sinir_notu"ndan al. Tam tarama sadece ilk kez bakılan videoda bir kez yapılır, sınır deftere yazılır.
