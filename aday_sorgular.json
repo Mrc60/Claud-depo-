@@ -1,20 +1,40 @@
 {
  "bolum": "056_baslik",
- "min_w": 500,
+ "min_w": 600,
  "sorgular": [
-  "Turkish wedding 1920s",
-  "Turkish village wedding",
-  "Anatolian wedding",
-  "Turkish bride 1930",
-  "Ottoman bride",
-  "Turkish peasant bride",
-  "düğün köy Anadolu",
-  "gelin Türkiye 1950",
-  "Turkish wedding procession",
-  "Turkey village bride horse",
-  "Kurdish wedding 1930s",
-  "Turkish wedding LCCN"
+  "Abdullah Frères bride",
+  "Sébah Joaillier bride",
+  "Ottoman wedding photograph",
+  "Turkish peasant women LCCN",
+  "Anatolia village 1920s photograph",
+  "Turkish village family photograph",
+  "Ottoman school children photograph",
+  "Turkish court of cassation building",
+  "Ankara courthouse old photograph",
+  "Turkish wedding 1950s photograph"
  ],
- "incele": [],
- "indir": []
+ "incele": [
+  "File:Turkish bride.jpg",
+  "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
+  "File:Studio portrait of models wearing clothing from İstanbul, Ottoman Empire LCCN2004666974.jpg",
+  "File:Turkish Wedding.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Turkish bride.jpg",
+   "ad": "gelin_stereo.jpg"
+  },
+  {
+   "file": "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
+   "ad": "elbise_hudavendigar.jpg"
+  },
+  {
+   "file": "File:Studio portrait of models wearing clothing from İstanbul, Ottoman Empire LCCN2004666974.jpg",
+   "ad": "elbise_istanbul.jpg"
+  },
+  {
+   "file": "File:Turkish Wedding.jpg",
+   "ad": "vanmour_dugun.jpg"
+  }
+ ]
 }
