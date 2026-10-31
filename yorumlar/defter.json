@@ -293,5 +293,33 @@
         "not": "TEK1 elle yazdı, 31.10.2026"
       }
     ]
+  },
+  "tiktok/7702595325965520149": {
+    "video": "Tuz Tekeli #55",
+    "sinir_notu": "2026-10-31T07:50Z tarandı",
+    "cevaplar": [
+      {
+        "yorum_id": "7702725121223721749",
+        "kullanici": "07havali58",
+        "yorum": "81 doğumlu ... tuz işletmecisiydi",
+        "cevap_id": "7702727507648201479"
+      },
+      {
+        "yorum_id": "7702720434383110933",
+        "kullanici": "uayipbek",
+        "yorum": "kaya tuzu, taş dibek",
+        "cevap_id": "7702722182564807442"
+      },
+      {
+        "yorum_id": "7702711800516625172",
+        "kullanici": "haso38697",
+        "yorum": "76 yaşındayım, en ucuz ürün tuz",
+        "cevap_id": "7702722030914978581"
+      }
+    ],
+    "atlanan": [
+      "7702716991137055508 hakaret",
+      "7702701591917019922 gizli/hakaret"
+    ]
   }
 }
