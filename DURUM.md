@@ -1,9 +1,9 @@
 # DURUM — şu anki işler (son güncelleme: 31.10.2026 17:50, Hesap 1)
 
-## #56 Başlık Parası — video bitti
+## #56 Başlık Parası — YAYINLANDI (31.10.2026 akşam)
 - Video: 'videolar' dalı 056_baslik.mp4 (77 sn), TEK1'e gönderildi. Yükleme seti ve kapak (3 fotoğraf + başlık fikri "KIZIN BABASINA PARA ÖDENİRDİ") verildi.
 - Sabit yorum (tüm platformlar): "Sizin çevrenizde başlık parası hâlâ var mı? 👇" (kaynak YOK).
-- Açık: 10–23. sn altınlı gelin sahnesinde (056_gelin_kadinlar) yüz kadraj üstünde kesik; TEK1'e düzeltme önerildi, cevap bekleniyor. Düzeltme: episodes/056_baslik.json 2. segmente kirp ekle (görselin üst kısmı), main'e push → yeni render.
+- Video olduğu gibi yayınlandı (altınlı gelin kadraj düzeltmesi yapılmadı, gerek kalmadı).
 - Kaynaklar (Hesap 1 okudu): TAYA 2006-2011 (aile.gov.tr, s.138-140), Yargıtay 3. HD 24.05.2016 E.2015/13389 K.2016/7993, Gezer (YYÜ İlahiyat). Çıkarılanlar: 1917 HAK md.90, 1920 kanunu, bölge oranları.
 - Görsel künyeleri: Underwood & Underwood/LOC (kamu malı), Gezer947 "Wedding in Anatolia" serisi + Wedding Dinner (CC BY-SA 4.0), TutuşAltaylı Çörten İlkokulu, Metuboy Yargıtay (CC BY-SA 4.0).
 
