@@ -113,11 +113,11 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
 - FB/IG AÇIKLAMA BAYT SINIRI (30.10.2026, doğrulandı): Facebook "10-400 karakter" uyarısında karakteri değil UTF-8 BAYTI sayıyor (Türkçe harf 2, emoji 4 bayt). Açıklama en fazla 370 BAYT olsun, her seferinde python ile `len(t.encode())` ölç. 📚 emojisi ve · işareti kullanma. (Banker 410 bayt 8/9 → 356 bayt 9/9; Altı Sıfır ve Ege aynı.) Uyarı erişimi öldürmüyor ama 9/9 hedef.
 - EMOJİ YOK (TEK1 kararı, 31.10.2026): Sabit yorum HARİÇ hiçbir alanda emoji yok: başlık, açıklama, etiket; YouTube, TikTok, Instagram, Facebook hepsi. Sabit yorumda emoji serbest (ör. Banker IG sabit yorumu 👇 ile bitiyordu). Facebook ve TikTok açıklamasında emoji sorun çıkarıyor.
-- SABİT YORUM = merak cümlesi (videodaki en çarpıcı doğrulanmış bilgi) + videonun kapanış sorusu + kaynaklar (YouTube'da kaynaklar açıklamada olduğu için yorumda gerekmez). Kuru kaynak listesi ya da açıklamanın tekrarı olmaz.
+- SABİT YORUM (TEK1 kararı, 31.10.2026, kesin): Tüm platformlarda SADECE videoya özel TEK kısa soru (videonun kapanış sorusu), istenirse sonunda emoji. KAYNAK YOK, link yok, açıklama tekrarı yok. Kaynaklar her platformun AÇIKLAMASINDA. (Tuz ve Başlık'ta kaynakları sabit yoruma koydum, hata.)
 - Soru videonun kendi kapanış sorusuyla aynı olsun; "büyükleriniz ne anlatırdı" gibi zorlama soru yok.
 - TESLİMDEN ÖNCE ZORUNLU KONTROL: Seti göndermeden önce tüm blokları python ile tara: emoji var mı, · var mı, FB/IG açıklaması ≤370 bayt mı, açıklamada link/"beğen"/"paylaş" var mı. Sonucu teslimde tek satırla yaz. Seti TEK SEFERDE, tüm alanlar eksiksiz ver; parça parça düzeltme gönderme.
 - Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
-- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Bağlantılı tam kaynak listesi sabit yorumda.
+- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
 
 ## 8. YORUM CEVAPLARI
 - Listenin başına platform, video ve hesap yaz: "Instagram · Gelin videosu · @siradandegill".
