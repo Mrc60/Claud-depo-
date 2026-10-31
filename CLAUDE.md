@@ -25,6 +25,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - Yeni sohbet açmayı önerme.
 - PROAKTİF OL (TEK1 kararı, 30.10.2026): Yönlendirme bekleme. TEK1'in ana hedefi para kazanmak ve kanalı büyütmek; bunu her işte aklında tut. Fırsat, risk ya da daha iyi bir yol görürsen kendin söyle ve "bunu böyle yapalım" diye gerekçeli öneri getir. Öneri getirmek serbest; uygulamak yine TEK1'in onayına bağlı.
 - Diğer yapay zekâlara (GPT, Manus, Perplexity) prompt yazarken sonuna şunu ekle: "Cevabını bana kopyalanabilir formatta ver."
+- RAPOR ADI (TEK1 kararı, 31.10.2026): Her araştırma raporunun EN BAŞINDA hangi uygulamanın yazdığı yazsın: "Claude raporu", "Manus raporu", "GPT raporu", "Perplexity raporu" vb. Diğer yapay zekâlara yazılan her araştırma promptuna şunu ekle: "Cevabının en başına '[Uygulama adın] raporu' yaz." Kendi raporlarımı "Claude raporu" diye başlat.
 
 ## 2b. KULLANIM TASARRUFU (TEK1 kararı, 29.10.2026)
 Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
