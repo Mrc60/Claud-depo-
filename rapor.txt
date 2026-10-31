@@ -1,0 +1,8 @@
+taya_tr.pdf | 200 | text/html | 1865 bayt
+taya_en.pdf | 200 | application/pdf | 5356158 bayt
+hak1917.pdf | 000hata | cannot open `hak1917.pdf' (No such file or directory) |  bayt
+tdv_baslik.html | 403 | text/html | 5295 bayt
+tdv_hak.html | 403 | text/html | 5370 bayt
+yargitay2016.html | 200 | text/html | 90453 bayt
+yargitay2018.html | 200 | text/html | 1235 bayt
+gezer.pdf | 200 | application/pdf | 446146 bayt
