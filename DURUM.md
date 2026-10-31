@@ -1,5 +1,7 @@
 # DURUM — şu anki işler (son güncelleme: 31.10.2026 18:30, Hesap 2)
 
+**SIRADAKİ VİDEO: #57 Köy ebeleri ve evde doğum** (TEK1 sırası; ondan sonra #58 Nüfus cüzdanı neden pembe ve mavi). Araştırmayı Manus yapacak (prompt TEK1'de), Hesap kontrol edip senaryoyu yazacak.
+
 ## #56 Başlık Parası — YAYINLANDI (31.10.2026 akşam)
 - Video: 'videolar' dalı 056_baslik.mp4 (77 sn), TEK1'e gönderildi. Yükleme seti ve kapak (3 fotoğraf + başlık fikri "KIZIN BABASINA PARA ÖDENİRDİ") verildi.
 - Sabit yorum (tüm platformlar): "Sizin çevrenizde başlık parası hâlâ var mı? 👇" (kaynak YOK).
