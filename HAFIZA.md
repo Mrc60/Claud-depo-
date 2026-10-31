@@ -1,6 +1,6 @@
-# HAFIZA — TEK1'in kalıcı tercihleri ve kanal bilgisi (birinci hesabın hafızasından kopya, 31.10.2026)
+# HAFIZA — TEK1'in kalıcı tercihleri ve kanal bilgisi (iki hesabın ORTAK hafızası, 31.10.2026)
 
-İkinci hesap: Bu dosya birinci hesabın Claude hafızasının kopyasıdır. CLAUDE.md ile birlikte oku. Çelişki olursa CLAUDE.md'deki daha yeni kural geçerli. Yeni kalıcı tercih öğrenince BU dosyaya ve CLAUDE.md'ye ekle, GitHub'a gönder ki diğer hesap da görsün.
+İki hesap da bu dosyayı aynı şekilde kullanır, ayrıcalık yok; ikisi de okur, ikisi de yazar. CLAUDE.md ile birlikte oku. Çelişki olursa CLAUDE.md'deki daha yeni kural geçerli. Yeni kalıcı tercih öğrenince BU dosyaya ve CLAUDE.md'ye ekle, GitHub'a gönder ki diğer hesap da görsün.
 
 ## Kim
 - TEK1, İstanbul. Bilgisayarı yok; sadece telefon ve tablet. GitHub: Mrc60.

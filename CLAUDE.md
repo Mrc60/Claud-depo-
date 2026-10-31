@@ -28,7 +28,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
 - RAPOR ADI (TEK1 kararı, 31.10.2026): Her araştırma raporunun EN BAŞINDA hangi uygulamanın yazdığı yazsın: "Claude raporu", "Manus raporu", "GPT raporu", "Perplexity raporu" vb. Diğer yapay zekâlara yazılan her araştırma promptuna şunu ekle: "Cevabının en başına '[Uygulama adın] raporu' yaz." Kendi raporlarımı "Claude raporu" diye başlat.
 
 ## 2a. İKİ HESAP, TEK BEYİN (TEK1 kararı, 31.10.2026)
-TEK1 iki Claude hesabıyla çalışır; ikisi de bu repoyu kullanır. Ortak hafıza GitHub'dadır.
+TEK1 iki Claude hesabıyla çalışır; ikisi de AYNI dosyalarla, AYNI kurallarla, eşit yetkiyle çalışır (ayrıcalık yok, tek beyin). Ortak hafıza GitHub'dadır. Karar her zaman TEK1'in.
 - Oturum başında oku: CLAUDE.md, HAFIZA.md (kalıcı tercihler, birinci hesabın hafıza kopyası), DURUM.md (şu anki işler). Yorum işi için beceriler/yorum-cevapla/SKILL.md.
 - Her iş başında `git pull`; yorum cevaplamadan hemen önce yorumlar/defter.json'u yeniden çek ve oku (iki hesap aynı yoruma yazmasın).
 - Aynı anda iki hesap çalışmaz. İş bitince DURUM.md'yi güncelle ve (TEK1 onayıyla) GitHub'a gönder ki diğer hesap görsün.
