@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 01.11.2026 04:15, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 01.11.2026 04:35, Hesap 1 gece kontrolü)
 
 **SIRADAKİ VİDEO: #57 Renk Körlüğü (yapım aşamasında).** Köy ebeleri (eski #57) ve Nüfus cüzdanı sıraya sonra girer. Aydemir (058) rafta.
 
@@ -8,9 +8,10 @@
 - Kaynaklar (Hesap 2 okudu): Royal Society (Dalton), Hunt ve ark. Science 1995 özeti, HathiTrust, NEI, MedlinePlus, Purves/NCBI, Ceyhan-Yaşar TOD 2011, StatPearls.
 - Görseller: Wellcome Collection (CC BY 4.0), Albarubescens (CC BY-SA 4.0), kamu malı Turner gravürü ve DPLA makale sayfası. Yükleme setinde atıf var.
 - Yükleme seti TEK1'e verildi; "ilk" geçen başlık ("Renk körlüğünü ilk o anlattı") KULLANILMAZ. Yeni başlık: "Gözlerinin ölümünden sonra incelenmesini istedi #SıradanDeğil 57"; açıklama/TikTok/FB-IG metinlerinde 941 cümlesi ve "ilk" yok, ama kaynak listesinden Citirik 2005 çıkarılmalı.
+- Video: 'videolar' dalı 057_renk.mp4 (01.11 04:23, son ses ve sahne sınırlarıyla). TEK1 kontrolü ve yayın kararı bekleniyor.
+- Hesap 1 gece kontrolü (01.11 04:35): ciddi hata yok; küçük anlatım notu ("Bunu anlatan kişi John Dalton" X kromozomu cümlesine bağlanıyor) MESAJLAR.md'de.
 
 
-**SIRADAKİ VİDEO: #57 Köy ebeleri ve evde doğum** (TEK1 sırası; ondan sonra #58 Nüfus cüzdanı neden pembe ve mavi). Araştırmayı Manus yapacak (prompt TEK1'de), Hesap kontrol edip senaryoyu yazacak.
 
 ## #56 Başlık Parası — YAYINLANDI (31.10.2026 akşam)
 - Video: 'videolar' dalı 056_baslik.mp4 (77 sn), TEK1'e gönderildi. Yükleme seti ve kapak (3 fotoğraf + başlık fikri "KIZIN BABASINA PARA ÖDENİRDİ") verildi.
@@ -20,7 +21,7 @@
 - Görsel künyeleri: Underwood & Underwood/LOC (kamu malı), Gezer947 "Wedding in Anatolia" serisi + Wedding Dinner (CC BY-SA 4.0), TutuşAltaylı Çörten İlkokulu, Metuboy Yargıtay (CC BY-SA 4.0).
 
 ## Sıradaki konular (TEK1 sırası)
-1. Köy ebeleri / evde doğum (araştırma başlanmadı)
+1. Köy ebeleri / evde doğum (araştırma başlanmadı; Manus promptu TEK1'de)
 2. Nüfus cüzdanı neden pembe ve mavi
 - PLANLI: 15 Kasım KKTC videosu (hatırlatma 13 Kasım 09:00, Hesap 1'de). Plan CLAUDE.md bölüm 11.
 

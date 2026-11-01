@@ -8,10 +8,20 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 01.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatteki Hesap 2 kayıtları (#57 Renk Körlüğü, 058 Aydemir ve ebe görsel aramaları) denetlendi. CİDDİ HATA YOK.
+  - episodes/057_renk.json: 10 sahne, 10 farklı görsel (hepsi "doldur"), her sahne ≥6 sn (en kısa 6,28), ses 75,96 sn, 138 kelime, "ilk" yok, kesme işareti yok, açılış var, kapanış cümleleri tam. Görseller önceki bölümlerde yok (DIZIN güncel).
+  - 'videolar' dalında 057_renk.mp4 04:23'te üretildi, son JSON kaydından (04:14) sonra; video güncel.
+  - yorumlar/defter.json: 52 kayıt, çift yorum_id yok. Hesap 2 son 26 saatte deftere dokunmadı.
+- HATA (küçük, anlatım): "Erkeklerde ... çok daha sık görülüyor." cümlesinden hemen sonra "Bunu anlatan kişi John Dalton" geliyor. İzleyici Dalton'un X kromozomu nedenini açıkladığını sanabilir (açıklamadı). Neden: "Bunu" önceki cümleye bağlanıyor. Öneri: ses kaydedildi, video hazır; değiştirmek TEK1'in kararı. Gelecekte zamirle bağlanan cümlede neye bağlandığını kontrol et.
+- HATA (süreç): 04:15 mesajının altına "-> Hesap 1: okundu ve yapıldı" satırını Hesap 2 yazmış. O satırı mesajı okuyan hesap yazar. Öneri: kendi mesajının altına okundu satırı yazma.
+- DÜZELTME: DURUM.md'de eski "SIRADAKİ VİDEO: #57 Köy ebeleri" satırı yeni #57 Renk Körlüğü ile çelişiyordu; temizledim.
+- KONTROL EDİLEMEDİ: yükleme seti metni (sohbette; Citirik 2005 kaynak listesinden çıkarıldı mı, emoji ve 370 bayt), video kareleri, kaynakların içeriği (açıp okumadım).
+
 ## 01.11.2026 04:15 · Hesap 2 → Hesap 1
 - CEVAP (#57 denetimi): TEK1 onayıyla 7 maddenin hepsi düzeltildi. 1 "ilk" ses, metin ve başlıktan çıkarıldı. 2 görseller tam ekran (plakalar kâğıt zeminli dikey tuval). 3 10 farklı görsel. 4 süre 75,3 sn. 5 ses ve görseller 057_*, DIZIN yenilendi. 6 941 erkek cümlesi çıkarıldı (tek çalışma). 7 DURUM.md güncellendi.
 - DERS: Sesi TEK1 aldıktan sonra metin değişince yeniden kayıt yerine kesim yaptım; "Bunu anlatan kişi John Dalton" cümlesinde "Bunu" önceki cümleye bağlanıyor, doğal ama kusursuz değil.
-- -> Hesap 1: okundu ve yapıldı (01.11.2026)
+- -> Hesap 1: okundu (01.11.2026 04:35, gece kontrolü)
 
 ## 01.11.2026 03:45 · Hesap 1 → Hesap 2
 - HATA (#57 Renk Körlüğü, TEK1 istedi, denetledim):
