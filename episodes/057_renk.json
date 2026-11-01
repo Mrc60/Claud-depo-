@@ -1,0 +1,271 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 57,
+ "slug": "renk",
+ "title": "Renk Körlüğü",
+ "youtube_title": "Renk körlüğünü ilk o anlattı #SıradanDeğil 57",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kırmızı ile yeşili\nkarıştıran biri var mı?",
+ "dis_ses": {
+  "file": "assets/ses/059_renk.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     6.85
+    ]
+   ],
+   [
+    [
+     6.85,
+     16.6
+    ]
+   ],
+   [
+    [
+     16.6,
+     26.75
+    ]
+   ],
+   [
+    [
+     26.75,
+     33.25
+    ]
+   ],
+   [
+    [
+     33.25,
+     41.35
+    ]
+   ],
+   [
+    [
+     41.35,
+     48.45
+    ]
+   ],
+   [
+    [
+     48.45,
+     54.5
+    ]
+   ],
+   [
+    [
+     54.5,
+     62.9
+    ]
+   ],
+   [
+    [
+     62.9,
+     69.7
+    ]
+   ],
+   [
+    [
+     69.7,
+     78.8
+    ]
+   ],
+   [
+    [
+     78.8,
+     85.89
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Çevrenizde kırmızı ile yeşili ayırt edemeyen biri var mı? Belki o kişi bunu kendisi de bilmiyordur.",
+   "caption": "Çevrenizde kırmızı ile yeşili ayırt edemeyen biri var mı? Belki o kişi bunu kendisi de bilmiyordur.",
+   "key": [
+    "ayırt edemeyen biri"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_ishihara6.jpg",
+    "fit": "tam",
+    "baslik": "Ishihara renk körlüğü test plakası · Shinobu Ishihara / Wellcome Collection, kamu malı",
+    "lisans": "",
+    "kaynak": "Ishihara renk körlüğü test plakası · Shinobu Ishihara / Wellcome Collection, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Buna renk körlüğü deniyor ama adı yanıltıcı. Çoğu kişi renkleri görüyor, sadece bazılarını karıştırıyor. En sık da kırmızı ile yeşili.",
+   "caption": "Buna renk körlüğü deniyor ama adı yanıltıcı. Çoğu kişi renkleri görüyor, sadece bazılarını karıştırıyor. En sık da kırmızı ile yeşili.",
+   "key": [
+    "adı yanıltıcı"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_holmgren.jpg",
+    "fit": "tam",
+    "baslik": "Holmgren yün iplik renk körlüğü testi, müze kutusu · Wellcome Collection, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "Holmgren yün iplik renk körlüğü testi, müze kutusu · Wellcome Collection, CC BY 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Gözümüzde üç tür renk algılayıcısı var. Biri eksik ya da farklı olursa renkler karışıyor. Bu kalıtsal ve ilgili genler X kromozomunda.",
+   "caption": "Gözümüzde üç tür renk algılayıcısı var. Biri eksik ya da farklı olursa renkler karışıyor. Bu kalıtsal ve ilgili genler X kromozomunda.",
+   "key": [
+    "üç tür renk algılayıcısı"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_ishihara42.jpg",
+    "fit": "tam",
+    "baslik": "Ishihara test plakası · Wellcome Collection, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "Ishihara test plakası · Wellcome Collection, CC BY 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Erkeklerde tek, kadınlarda iki X var. Bu yüzden erkeklerde çok daha sık görülüyor.",
+   "caption": "Erkeklerde tek, kadınlarda iki X var. Bu yüzden erkeklerde çok daha sık görülüyor.",
+   "key": [
+    "erkeklerde çok daha sık"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_ishihara_plaka.jpg",
+    "fit": "tam",
+    "baslik": "Ishihara test plakası · Wellcome Collection, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "Ishihara test plakası · Wellcome Collection, CC BY 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Türk ordusundan 941 erkekle yapılan bir çalışmada kırmızı yeşil renk körlüğü oranı yüzde 7,3 çıktı.",
+   "caption": "Türk ordusundan 941 erkekle yapılan bir çalışmada kırmızı yeşil renk körlüğü oranı yüzde 7,3 çıktı.",
+   "key": [
+    "yüzde 7,3"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_ishihara_kitap.jpg",
+    "fit": "tam",
+    "baslik": "Ishihara test kitabı, Londra, 1948 · Wellcome Collection, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "Ishihara test kitabı, Londra, 1948 · Wellcome Collection, CC BY 4.0",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bunu ilk anlatan kişi John Dalton. 1794te kırmızıyı yeşille karıştırdığını yazdı.",
+   "caption": "Bunu ilk anlatan kişi John Dalton. 1794te kırmızıyı yeşille karıştırdığını yazdı.",
+   "key": [
+    "John Dalton"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_dalton_turner.jpg",
+    "fit": "doldur",
+    "baslik": "John Dalton, Charles Turner gravürü · kamu malı",
+    "lisans": "",
+    "kaynak": "John Dalton, Charles Turner gravürü · kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Gözündeki sıvının mavi olduğunu düşünüyordu. Öldükten sonra gözlerinin incelenmesini istedi.",
+   "caption": "Gözündeki sıvının mavi olduğunu düşünüyordu. Öldükten sonra gözlerinin incelenmesini istedi.",
+   "key": [
+    "gözlerinin incelenmesini istedi"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_makale.jpg",
+    "fit": "doldur",
+    "baslik": "Dalton, Extraordinary Facts Relating to the Vision of Colours, sayfa 38 · DPLA / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Dalton, Extraordinary Facts Relating to the Vision of Colours, sayfa 38 · DPLA / Wikimedia Commons, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sıvı berraktı. Teori yanlıştı. Gerçeği 151 yıl sonra, 1995te DNA gösterdi.",
+   "caption": "Sıvı berraktı. Teori yanlıştı. Gerçeği 151 yıl sonra, 1995te DNA gösterdi.",
+   "key": [
+    "Teori yanlıştı"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_mezar.jpg",
+    "fit": "tam",
+    "baslik": "John Dalton ve Manchesterdaki mezarı, eski basılı sayfa · kamu malı",
+    "lisans": "",
+    "kaynak": "John Dalton ve Manchesterdaki mezarı, eski basılı sayfa · kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yeşile duyarlı algılayıcısı yoktu. Bu durum bugün hâlâ onun adıyla anılıyor: daltonizm.",
+   "caption": "Yeşile duyarlı algılayıcısı yoktu. Bu durum bugün hâlâ onun adıyla anılıyor: daltonizm.",
+   "key": [
+    "daltonizm"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_dalton_baski.jpg",
+    "fit": "doldur",
+    "baslik": "John Dalton, J. Lonsdale resminden Charles Turner gravürü · kamu malı",
+    "lisans": "",
+    "kaynak": "John Dalton, J. Lonsdale resminden Charles Turner gravürü · kamu malı",
+    "sayfa": "",
+    "kirp": [
+     0.17,
+     0.07,
+     0.83,
+     0.6
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki sizin çevrenizde renkleri farklı gören biri var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Peki sizin çevrenizde renkleri farklı gören biri var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "renkleri farklı gören biri"
+   ],
+   "image": {
+    "local": "assets/belgeler/059_dalton_mezzotint.jpg",
+    "fit": "doldur",
+    "baslik": "John Dalton, Turner mezzotinti, 1834 · Wellcome Collection, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "John Dalton, Turner mezzotinti, 1834 · Wellcome Collection, CC BY 4.0",
+    "sayfa": "",
+    "kirp": [
+     0.1,
+     0.06,
+     0.9,
+     0.6
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/059_ishihara6.jpg",
+    "fit": "tam",
+    "baslik": "Ishihara renk körlüğü test plakası · Shinobu Ishihara / Wellcome Collection, kamu malı",
+    "lisans": "",
+    "kaynak": "Ishihara renk körlüğü test plakası · Shinobu Ishihara / Wellcome Collection, kamu malı",
+    "sayfa": ""
+   },
+   "scene": "photo"
+  }
+ ]
+}
