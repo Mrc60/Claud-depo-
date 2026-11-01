@@ -88,12 +88,12 @@
     "lisans": "",
     "kaynak": "Soy adı Kanunu, Resmî Gazete, 2 Temmuz 1934, sayı 2741, madde 4 · kamu malı",
     "sayfa": "",
-    "hiz": 0.3,
+    "hiz": 1.0,
     "kirp": [
      0.03,
-     0.27,
+     0.1,
      0.52,
-     0.89
+     0.95
     ]
    },
    "scene": "photo"
