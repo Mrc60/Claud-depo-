@@ -1,29 +1,20 @@
 {
- "bolum": "060_soyadi_kadin_adaylar",
- "min_w": 800,
+ "bolum": "060_soyadi_kadin_adaylar2",
+ "min_w": 600,
  "sorgular": [
-  "wedding Turkey 1930s bride groom photograph",
-  "Turkish bride 1930s",
-  "Turkish family portrait 1920s",
-  "Turkish women 1930s photograph",
-  "Ottoman family photograph women 1910",
-  "Rukiye Erkin wedding",
-  "Izzettin Calislar daughter wedding",
-  "Constitutional Court of Turkey building Ankara",
-  "European Court of Human Rights Strasbourg",
-  "Turkish courtroom judge 1930s",
-  "Turkish identity card nüfus cüzdanı old",
-  "Turkish woman lawyer 1930s"
+  "Women of Turkey in 1930",
+  "Wedding ceremonies in Turkey",
+  "Turkish wedding 1930s",
+  "Turkish bride groom 1920s",
+  "Turkish woman 1920s portrait",
+  "Turkish family village 1930s",
+  "Turkish school girls 1930s",
+  "Turkish women Republic era 1930s",
+  "Ankara 1930s women",
+  "Anayasa Mahkemesi binası",
+  "Turkish couple portrait 1930",
+  "Turkish judge court 1930s"
  ],
- "incele": [
-  "File:The wedding of Rukiye Erkin.jpg",
-  "File:The wedding of the daughter of Izzettin Calislar.jpg",
-  "File:Strasbourg- European Court of Human Rights.jpg"
- ],
- "indir": [
-  {
-   "file": "File:Strasbourg- European Court of Human Rights.jpg",
-   "ad": "060_aihm_salon.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
