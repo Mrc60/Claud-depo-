@@ -1,20 +1,9 @@
-{
- "bolum": "060_soyadi_kadin_adaylar2",
- "min_w": 600,
- "sorgular": [
-  "Women of Turkey in 1930",
-  "Wedding ceremonies in Turkey",
-  "Turkish wedding 1930s",
-  "Turkish bride groom 1920s",
-  "Turkish woman 1920s portrait",
-  "Turkish family village 1930s",
-  "Turkish school girls 1930s",
-  "Turkish women Republic era 1930s",
-  "Ankara 1930s women",
-  "Anayasa Mahkemesi binası",
-  "Turkish couple portrait 1930",
-  "Turkish judge court 1930s"
- ],
- "incele": [],
- "indir": []
-}
+{"bolum":"061_telefon_adaylar","min_w":600,
+ "sorgular":["Istanbul telephone exchange","Ankara telephone 1930s","Ottoman telephone","Turkish post office PTT 1930s","telephone operators Turkey","telephone directory Istanbul","Istanbul 1930s street telephone","Telephone Turkey 1920s"],
+ "incele":[],
+ "indir":[
+  {"file":"File:Miss Turkije 1930 - Miss Turkey 1930 (6941437253).jpg","ad":"060_miss1930.jpg"},
+  {"file":"File:Political cartoon commenting on women's voting rights in Quebec.jpg","ad":"060_karikatur.jpg"},
+  {"file":"File:Alîşêr Efendî & Zarîfe Xatun.jpg","ad":"060_alisher.jpg"},
+  {"file":"File:Strasbourg- European Court of Human Rights.jpg","ad":"060_aihm_salon.jpg"}
+ ]}
