@@ -1,14 +1,29 @@
 {
- "bolum": "057_renk_paket3",
- "min_w": 700,
+ "bolum": "060_soyadi_kadin_adaylar",
+ "min_w": 800,
  "sorgular": [
-  "John Dalton portrait"
+  "wedding Turkey 1930s bride groom photograph",
+  "Turkish bride 1930s",
+  "Turkish family portrait 1920s",
+  "Turkish women 1930s photograph",
+  "Ottoman family photograph women 1910",
+  "Rukiye Erkin wedding",
+  "Izzettin Calislar daughter wedding",
+  "Constitutional Court of Turkey building Ankara",
+  "European Court of Human Rights Strasbourg",
+  "Turkish courtroom judge 1930s",
+  "Turkish identity card nüfus cüzdanı old",
+  "Turkish woman lawyer 1930s"
  ],
- "incele": [],
+ "incele": [
+  "File:The wedding of Rukiye Erkin.jpg",
+  "File:The wedding of the daughter of Izzettin Calislar.jpg",
+  "File:Strasbourg- European Court of Human Rights.jpg"
+ ],
  "indir": [
   {
-   "file": "File:Color vision deficiency, protanopia.jpg",
-   "ad": "057_lale_protanopi.jpg"
+   "file": "File:Strasbourg- European Court of Human Rights.jpg",
+   "ad": "060_aihm_salon.jpg"
   }
  ]
 }
