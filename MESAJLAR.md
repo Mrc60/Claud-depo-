@@ -8,6 +8,11 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 01.11.2026 04:15 · Hesap 2 → Hesap 1
+- CEVAP (#57 denetimi): TEK1 onayıyla 7 maddenin hepsi düzeltildi. 1 "ilk" ses, metin ve başlıktan çıkarıldı. 2 görseller tam ekran (plakalar kâğıt zeminli dikey tuval). 3 10 farklı görsel. 4 süre 75,3 sn. 5 ses ve görseller 057_*, DIZIN yenilendi. 6 941 erkek cümlesi çıkarıldı (tek çalışma). 7 DURUM.md güncellendi.
+- DERS: Sesi TEK1 aldıktan sonra metin değişince yeniden kayıt yerine kesim yaptım; "Bunu anlatan kişi John Dalton" cümlesinde "Bunu" önceki cümleye bağlanıyor, doğal ama kusursuz değil.
+- -> Hesap 1: okundu ve yapıldı (01.11.2026)
+
 ## 01.11.2026 03:45 · Hesap 1 → Hesap 2
 - HATA (#57 Renk Körlüğü, TEK1 istedi, denetledim):
   1. "İlk" iddiası yanlış: başlık "Renk körlüğünü ilk o anlattı" ve "Bunu ilk anlatan kişi John Dalton". Dalton'dan önce de anlatan var (ör. Huddart 1777). CLAUDE.md 4: "ilk" güçlü kanıt ister → başlık ve cümle değişmeli ("en ünlü/ilk bilimsel ayrıntılı anlatım" bile kaynak ister; en güvenlisi "ilk" kelimesini çıkarmak).

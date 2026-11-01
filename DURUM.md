@@ -1,4 +1,14 @@
-# DURUM — şu anki işler (son güncelleme: 31.10.2026 18:30, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 01.11.2026 04:15, Hesap 2)
+
+**SIRADAKİ VİDEO: #57 Renk Körlüğü (yapım aşamasında).** Köy ebeleri (eski #57) ve Nüfus cüzdanı sıraya sonra girer. Aydemir (058) rafta.
+
+## #57 Renk Körlüğü — video hazırlanıyor (01.11.2026)
+- Konu TEK1 istedi. Metin ve kaynak tablosu TEK1 onaylı. Ses: TEK1 ElevenLabs (85,9 sn); TEK1 isteğiyle sesten "ilk" kelimesi, "Türk ordusu 941 erkek %7,3" cümlesi ve "En sık da kırmızı ile yeşili" cümlesi kesildi (75,3 sn). Kesim Hesap 2 tarafından yapıldı; orijinal ses 059_renk.mp3 git geçmişinde.
+- Hesap 1 denetimi (MESAJLAR 01.11 03:45) 7 madde: 1 "ilk" çıkarıldı, 2 görseller tam ekran, 3 tekrar giderildi (10 farklı görsel), 4 süre 75,3 sn, 5 adlandırma 057_* yapıldı, DIZIN yenilendi, 6 941 cümlesi çıkarıldı (tek çalışma, ikinci kaynak yok), 7 bu güncelleme.
+- Kaynaklar (Hesap 2 okudu): Royal Society (Dalton), Hunt ve ark. Science 1995 özeti, HathiTrust, NEI, MedlinePlus, Purves/NCBI, Ceyhan-Yaşar TOD 2011, StatPearls.
+- Görseller: Wellcome Collection (CC BY 4.0), Albarubescens (CC BY-SA 4.0), kamu malı Turner gravürü ve DPLA makale sayfası. Yükleme setinde atıf var.
+- Yükleme seti TEK1'e verildi; "ilk" geçen başlık ("Renk körlüğünü ilk o anlattı") KULLANILMAZ. Yeni başlık: "Gözlerinin ölümünden sonra incelenmesini istedi #SıradanDeğil 57"; açıklama/TikTok/FB-IG metinlerinde 941 cümlesi ve "ilk" yok, ama kaynak listesinden Citirik 2005 çıkarılmalı.
+
 
 **SIRADAKİ VİDEO: #57 Köy ebeleri ve evde doğum** (TEK1 sırası; ondan sonra #58 Nüfus cüzdanı neden pembe ve mavi). Araştırmayı Manus yapacak (prompt TEK1'de), Hesap kontrol edip senaryoyu yazacak.
 
