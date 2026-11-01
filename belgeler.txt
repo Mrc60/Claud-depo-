@@ -1,9 +1,5 @@
-# 056 baslik parasi: TAYA tablolari, 1917 HAK md.90, TDV, Yargitay
-taya_tr.pdf https://ekutuphane.aile.gov.tr/media/yijg1qpb/t%C3%BCrk-aile-yap%C4%B1s%C4%B1-ara%C5%9Ft%C4%B1rmas%C4%B1.pdf
-taya_en.pdf https://aile.gov.tr/media/50224/turkiye-aile-yapisi-arastirmasi-tespitler-oneeriler_eng.pdf
-hak1917.pdf https://www.mehir.org/storage/publications/QvlAbyHmY1tT0p0F1cQ0ZAuN6GiJyPRx9NTYjyFc.pdf
-tdv_baslik.html https://islamansiklopedisi.org.tr/baslik
-tdv_hak.html https://islamansiklopedisi.org.tr/hukuk-i-aile-kararnamesi
-yargitay2016.html https://harunavsar.com/yargitay-karari/baslik-parasi-iade-edilmez-3-hukuk-dairesi-2015-13389-e/
-yargitay2018.html https://mevzuat.adalet.gov.tr/ictihat/769947500
-gezer.pdf https://dergipark.org.tr/tr/download/article-file/368123
+# 060 soyadi kadin: AYM 2023 karari, Resmi Gazete 1934 (Soyadi Kanunu)
+aym2023_38.pdf https://normkararlarbilgibankasi.anayasa.gov.tr/Dosyalar/Kararlar/KararPDF/2023-38-nrm.pdf
+aym2023_38_b.pdf https://normkararlarbilgibankasi.anayasa.gov.tr/Dosyalar/Kararlar/KararPDF/2022-155-nrm.pdf
+rg1934_2741.pdf https://www.resmigazete.gov.tr/arsiv/2741.pdf
+rg1934_2741_b.pdf https://www.resmigazete.gov.tr/arsiv/2741_1.pdf
