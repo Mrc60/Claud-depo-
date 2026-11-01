@@ -1,7 +1,9 @@
-{"bolum":"060_soyadi_adaylar3","min_w":800,
- "sorgular":["Constitutional Court of Turkey","Anayasa Mahkemesi Ankara","Grand National Assembly of Turkey old building Ankara","Yargıtay Ankara building","Turkish Civil Code 1926","Turkish women Ankara 1920s","Istanbul women street 1930s","Turkish family portrait 1920s","Turkish judges 1930s","Ankara 1930s street"],
+{"bolum":"060_soyadi_indir4","min_w":800,
+ "sorgular":["Turkish women 1930s Ankara"],
  "incele":[],
  "indir":[
-  {"file":"File:Cour européenne des droits de l'homme (Strasbourg) (2).jpg","ad":"060_aihm_dis.jpg"},
-  {"file":"File:European Court of Human Rights (ECtHR)- Court room.jpg","ad":"060_aihm_salon2.jpg"}
+  {"file":"File:Constitutional Court of Turkey.jpg","ad":"060_aym_bina.jpg"},
+  {"file":"File:Banks Street (Atatürk Boulevard) the Building of Ziraat Bankası (Agricultural Bank), 1930s (16851406391).jpg","ad":"060_ankara_banka.jpg"},
+  {"file":"File:Turkey. Ankara. Modernistic building Court de Coute LOC matpc.16733.jpg","ad":"060_ankara_bina.jpg"},
+  {"file":"File:Ethnography Museum of Ankara, 1930s (16230092164).jpg","ad":"060_ankara_muze.jpg"}
  ]}
