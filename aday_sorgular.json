@@ -1,9 +1,74 @@
-{"bolum":"060_soyadi_indir4","min_w":800,
- "sorgular":["Turkish women 1930s Ankara"],
- "incele":[],
- "indir":[
-  {"file":"File:Constitutional Court of Turkey.jpg","ad":"060_aym_bina.jpg"},
-  {"file":"File:Banks Street (Atatürk Boulevard) the Building of Ziraat Bankası (Agricultural Bank), 1930s (16851406391).jpg","ad":"060_ankara_banka.jpg"},
-  {"file":"File:Turkey. Ankara. Modernistic building Court de Coute LOC matpc.16733.jpg","ad":"060_ankara_bina.jpg"},
-  {"file":"File:Ethnography Museum of Ankara, 1930s (16230092164).jpg","ad":"060_ankara_muze.jpg"}
- ]}
+{
+ "bolum": "eski021_gorseller",
+ "min_w": 600,
+ "sorgular": [
+  "Turkey 1934 surname law"
+ ],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG",
+   "ad": "eski021_01.jpg"
+  },
+  {
+   "file": "File:Palu Nüfus Defteri, Palu'ya Bağlı Nahiye ve Köyler.png",
+   "ad": "eski021_02.jpg"
+  },
+  {
+   "file": "File:241 photogr. d'Istanboul et du Bosphore, monuments et types ethniques, la plupart par Abdullah frères, don de l'amiral Pâris en 1882 - btv1b53151756s (037 of 252).jpg",
+   "ad": "eski021_03.jpg"
+  },
+  {
+   "file": "File:Studio portrait of models wearing traditional clothing from İstanbul, Ottoman Empire LCCN2003690022.jpg",
+   "ad": "eski021_04.jpg"
+  },
+  {
+   "file": "File:Edirne Belediye meclisi üyeleri 1930.jpg",
+   "ad": "eski021_05.jpg"
+  },
+  {
+   "file": "File:Ottoman Men conscription WWI.png",
+   "ad": "eski021_06.jpg"
+  },
+  {
+   "file": "File:Atatürk TBMM'den çıkarken.jpg",
+   "ad": "eski021_07.jpg"
+  },
+  {
+   "file": "File:Atatürk'ün nüfus hüviyet cüzdanı (Zafer Müzesi).jpg",
+   "ad": "eski021_08.jpg"
+  },
+  {
+   "file": "File:Turkey. Ankara. Street with castle in distance LOC matpc.16720.jpg",
+   "ad": "eski021_09.jpg"
+  },
+  {
+   "file": "File:Victory Monument in Ulus Square, 1st Turkish Grand National Assembly, 1930's (17075286852).jpg",
+   "ad": "eski021_10.jpg"
+  },
+  {
+   "file": "File:1934 11 13 Cumhuriyet Ataturk Sumerbank.jpg",
+   "ad": "eski021_11.jpg"
+  },
+  {
+   "file": "File:Atatürk'ün 993 814 seri numaralı nüfus cüzdanı.jpg",
+   "ad": "eski021_12.jpg"
+  },
+  {
+   "file": "File:Republic Boulevard, late 1930s (16851418951).jpg",
+   "ad": "eski021_13.jpg"
+  },
+  {
+   "file": "File:Turkish holiday.jpg",
+   "ad": "eski021_14.jpg"
+  },
+  {
+   "file": "File:Musiki Muallim Mektebi (Music Teachers’ School, later Ankara State Conservatory, 1930s).jpg",
+   "ad": "eski021_15.jpg"
+  },
+  {
+   "file": "File:1934 10 07 Cumhuriyet Istanbulun Kurtuslusu 2.jpg",
+   "ad": "eski021_16.jpg"
+  }
+ ]
+}
