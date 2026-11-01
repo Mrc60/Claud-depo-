@@ -1,32 +1,50 @@
 {
- "bolum": "059_renk_korlugu",
+ "bolum": "059_renk_korlugu_paket",
  "min_w": 700,
- "incele": [],
- "indir": [],
  "sorgular": [
-  "John Dalton portrait",
-  "John Dalton 1834",
-  "John Dalton Manchester",
-  "John Dalton statue Manchester",
-  "Dalton colour blindness",
-  "Extraordinary facts relating to the vision of colours",
-  "Ishihara test plate",
-  "Ishihara color test",
-  "Color blindness test 1920",
-  "Eye examination old photograph",
-  "Eye test military recruits 1918",
-  "Pseudoisochromatic plates",
-  "Holmgren wool test",
-  "Railway signal lamp red green",
-  "Traffic light 1930",
-  "Istanbul tramvay 1930",
-  "Istanbul trafik 1950",
-  "Turkish pilot 1930s",
-  "Turk Hava Kurumu pilot",
-  "Turkish locomotive driver 1930",
-  "Turkish soldiers medical examination",
-  "Ottoman military doctor eye",
-  "Istanbul bus 1960",
-  "Ankara traffic policeman 1950"
+  "John Dalton portrait"
+ ],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059155.jpg",
+   "ad": "059_ishihara6.jpg"
+  },
+  {
+   "file": "File:Holmgren's coloured wool test for colour blindness, Europe, Wellcome L0058974 (cropped).jpg",
+   "ad": "059_holmgren.jpg"
+  },
+  {
+   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059160.jpg",
+   "ad": "059_ishihara42.jpg"
+  },
+  {
+   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059162.jpg",
+   "ad": "059_ishihara_plaka.jpg"
+  },
+  {
+   "file": "File:John Dalton by Charles Turner.jpg",
+   "ad": "059_dalton_turner.jpg"
+  },
+  {
+   "file": "File:Extraordinary Facts Relating to the Vision of Colours- With Observations - DPLA - 9888a1fc5bcf7520ccdf81a15a0ed40f (page 6).jpg",
+   "ad": "059_makale.jpg"
+  },
+  {
+   "file": "File:John Dalton and his tomb in Manchester.png",
+   "ad": "059_mezar.jpg"
+  },
+  {
+   "file": "File:Dr. Dalton, F.R.S. - president of the Literary & Philosophical Society, Manchester - painted by J. Lonsdale Esqre. ; engraved by C. Turner, A.R.A. LCCN2004671522.jpg",
+   "ad": "059_dalton_baski.jpg"
+  },
+  {
+   "file": "File:Ishihara colour blindness test, London, England, 1948 Wellcome L0058975.jpg",
+   "ad": "059_ishihara_kitap.jpg"
+  },
+  {
+   "file": "File:John Dalton. Mezzotint by C. Turner, 1834, after J. Lonsdale Wellcome V0001446.jpg",
+   "ad": "059_dalton_mezzotint.jpg"
+  }
  ]
 }
