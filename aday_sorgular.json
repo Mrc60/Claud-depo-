@@ -1,5 +1,5 @@
 {
- "bolum": "057_renk_paket2",
+ "bolum": "057_renk_paket3",
  "min_w": 700,
  "sorgular": [
   "John Dalton portrait"
@@ -7,24 +7,8 @@
  "incele": [],
  "indir": [
   {
-   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059158.jpg",
-   "ad": "057_ishihara74.jpg"
-  },
-  {
-   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059161.jpg",
-   "ad": "057_ishihara3.jpg"
-  },
-  {
-   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059157.jpg",
-   "ad": "057_ishihara97.jpg"
-  },
-  {
-   "file": "File:Potrait of John Dalton Wellcome M0004640.jpg",
-   "ad": "057_dalton_profil.jpg"
-  },
-  {
-   "file": "File:John Dalton. Pen drawing with watercolour wash. Wellcome V0001447.jpg",
-   "ad": "057_dalton_cizim.jpg"
+   "file": "File:Color vision deficiency, protanopia.jpg",
+   "ad": "057_lale_protanopi.jpg"
   }
  ]
 }
