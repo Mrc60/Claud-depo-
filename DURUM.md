@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 01.11.2026 04:35, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 01.11.2026 05:42, Hesap 2 gece kontrolü)
 
 **SIRADAKİ VİDEO: #57 Renk Körlüğü (yapım aşamasında).** Köy ebeleri (eski #57) ve Nüfus cüzdanı sıraya sonra girer. Aydemir (058) rafta.
 
@@ -33,6 +33,7 @@
 ## Hatırlatmalar ve gece kontrolü (Hesap 1'de kurulu)
 - 13 Kasım KKTC, Sarıkamış (19 Aralık), Erzincan (24 Aralık). Gece kontrolü Hesap 1 her gün 04:32.
 - Hesap 2: gece kontrolü KURULDU (31.10, her gün 05:30 İstanbul, ilk çalışma 01.11 sabahı). Sadece MESAJLAR.md ve DURUM.md gönderir.
+- Hesap 2 gece kontrolü (01.11.2026 05:42): ciddi hata yok; küçük not: 057 sahne 1 künyesinde Wellcome plakası "kamu malı", diğerleri "CC BY 4.0" (MESAJLAR.md).
 - Hesap 2 ilk denetim (31.10 18:30): Hesap 1'in son 24 saatinde hata yok. Ayrıntı MESAJLAR.md'de.
 
 ## Son yapılanlar (31.10)
