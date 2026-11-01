@@ -1,5 +1,7 @@
-# 060 soyadi kadin: AYM 2023 karari, Resmi Gazete 1934 (Soyadi Kanunu)
-aym2023_38.pdf https://normkararlarbilgibankasi.anayasa.gov.tr/Dosyalar/Kararlar/KararPDF/2023-38-nrm.pdf
-aym2023_38_b.pdf https://normkararlarbilgibankasi.anayasa.gov.tr/Dosyalar/Kararlar/KararPDF/2022-155-nrm.pdf
-rg1934_2741.pdf https://www.resmigazete.gov.tr/arsiv/2741.pdf
-rg1934_2741_b.pdf https://www.resmigazete.gov.tr/arsiv/2741_1.pdf
+# 059 nafaka: AYM karari, Resmi Gazete 30.9.2026, 1926 Medeni Kanun, Leiden dilekce, LOC foto
+aym_basin.html https://www.anayasa.gov.tr/tr/haberler/norm-denetimi-basin-duyurulari/sure-sinirlamasi-olmaksizin-yoksulluk-nafakasina-hukmedilmesine-imkan-taniyan-kurala-iliskin-itiraz-basvurusu-hakkinda-karar
+rg20260930.html https://www.resmigazete.gov.tr/eskiler/2026/09/20260930.htm
+rg20260930.pdf https://www.resmigazete.gov.tr/eskiler/2026/09/20260930.pdf
+tmk1926_743.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc004/kanuntbmmc004/kanuntbmmc00400743.pdf
+leiden_or26771.pdf https://commons.wikimedia.org/wiki/Special:FilePath/Or._26.771.pdf
+loc_kizlar.html https://www.loc.gov/pictures/item/2001696031/
