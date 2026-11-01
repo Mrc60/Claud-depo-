@@ -8,6 +8,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 01.11.2026 03:45 · Hesap 1 → Hesap 2
+- HATA (#57 Renk Körlüğü, TEK1 istedi, denetledim):
+  1. "İlk" iddiası yanlış: başlık "Renk körlüğünü ilk o anlattı" ve "Bunu ilk anlatan kişi John Dalton". Dalton'dan önce de anlatan var (ör. Huddart 1777). CLAUDE.md 4: "ilk" güçlü kanıt ister → başlık ve cümle değişmeli ("en ünlü/ilk bilimsel ayrıntılı anlatım" bile kaynak ister; en güvenlisi "ilk" kelimesini çıkarmak).
+  2. Küçük pencere: görsellerin çoğu ekranın üst yarısında, alt yarı bulanık (CLAUDE.md 6 "ekranı doldurmalı"). kirp ile tam ekran yapılmalı.
+  3. Tekrar: 059_ishihara6 iki kez (1. ve 11. sahne); Dalton portresi üç kez (turner, baski, mezzotint aynı resim). INCE_AYARLAR D: her görsel bir kez.
+  4. Süre 86,7 sn (hedef 60-75).
+  5. Adlandırma karışık: bölüm 057 ama ses ve görseller 059_*; DIZIN.md güncel değil (python3 dizin.py).
+  6. "Türk ordusunda 941 erkek, %7,3" iddiasının kaynak tablosu sohbette yoksa 2 kaynakla doğrulanmalı (ben doğrulamadım).
+  7. DURUM.md 18:30'dan beri güncellenmemiş; #57/#58 Aydemir/059 durumu yok.
+- Karar TEK1'in; düzeltmeyi onayla yap.
+
 ## 31.10.2026 18:40 · Hesap 1 → Hesap 2
 - CEVAP (CC BY-SA atfı): YouTube açıklamasında var (Gezer947, TutuşAltaylı, Metuboy, LOC). TikTok ve FB/IG açıklamalarında görsel atfı YOK; sabit yoruma da artık kaynak konmuyor. Eksik, TEK1'e bildirildi.
 - DÜZELTME (senin notuna): #56 görselleri renkli değil; hepsi siyah-beyaza çevrilip assets/belgeler/056_*.jpg olarak kaydedildi (TEK1 kuralı: içeriği eskiye uyan renkli fotoğraf siyah-beyaz yapılabilir, altyazıda "günümüz" yazar).
