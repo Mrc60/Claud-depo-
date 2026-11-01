@@ -1,9 +1,7 @@
-{"bolum":"061_telefon_adaylar","min_w":600,
- "sorgular":["Istanbul telephone exchange","Ankara telephone 1930s","Ottoman telephone","Turkish post office PTT 1930s","telephone operators Turkey","telephone directory Istanbul","Istanbul 1930s street telephone","Telephone Turkey 1920s"],
+{"bolum":"060_soyadi_adaylar3","min_w":800,
+ "sorgular":["Constitutional Court of Turkey","Anayasa Mahkemesi Ankara","Grand National Assembly of Turkey old building Ankara","Yargıtay Ankara building","Turkish Civil Code 1926","Turkish women Ankara 1920s","Istanbul women street 1930s","Turkish family portrait 1920s","Turkish judges 1930s","Ankara 1930s street"],
  "incele":[],
  "indir":[
-  {"file":"File:Miss Turkije 1930 - Miss Turkey 1930 (6941437253).jpg","ad":"060_miss1930.jpg"},
-  {"file":"File:Political cartoon commenting on women's voting rights in Quebec.jpg","ad":"060_karikatur.jpg"},
-  {"file":"File:Alîşêr Efendî & Zarîfe Xatun.jpg","ad":"060_alisher.jpg"},
-  {"file":"File:Strasbourg- European Court of Human Rights.jpg","ad":"060_aihm_salon.jpg"}
+  {"file":"File:Cour européenne des droits de l'homme (Strasbourg) (2).jpg","ad":"060_aihm_dis.jpg"},
+  {"file":"File:European Court of Human Rights (ECtHR)- Court room.jpg","ad":"060_aihm_salon2.jpg"}
  ]}
