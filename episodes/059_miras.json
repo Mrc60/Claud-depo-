@@ -1,287 +1,287 @@
 {
- "series": "Sıradan Değil",
- "voice": "ana",
- "takip_cagrisi": false,
- "episode": 59,
- "slug": "miras",
- "title": "Kadın ve Erkeğin Miras Payı",
- "youtube_title": "Kız ile erkek kardeşin miras payı hep aynı mıydı? #SıradanDeğil 59",
- "youtube_description": "",
- "sources": [],
- "acilis": "Kız ile erkek kardeşin\nmiras payı hep aynı mıydı?",
- "dis_ses": {
-  "file": "assets/ses/059_miras.mp3",
-  "kesimler": [
-   [
-    [
-     0,
-     12.35
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "episode": 59,
+  "slug": "miras",
+  "title": "Kadın ve Erkeğin Miras Payı",
+  "youtube_title": "Kız ile erkek kardeşin miras payı hep aynı mıydı? #SıradanDeğil 59",
+  "youtube_description": "",
+  "sources": [],
+  "acilis": "Kız ile erkek kardeşin\nmiras payı hep aynı mıydı?",
+  "dis_ses": {
+    "file": "assets/ses/059_miras.mp3",
+    "kesimler": [
+      [
+        [
+          0,
+          12.35
+        ]
+      ],
+      [
+        [
+          12.35,
+          18.75
+        ]
+      ],
+      [
+        [
+          18.75,
+          33.15
+        ]
+      ],
+      [
+        [
+          33.15,
+          44.35
+        ]
+      ],
+      [
+        [
+          44.35,
+          50.25
+        ]
+      ],
+      [
+        [
+          50.25,
+          57.15
+        ]
+      ],
+      [
+        [
+          57.15,
+          63.55
+        ]
+      ],
+      [
+        [
+          63.55,
+          70.65
+        ]
+      ],
+      [
+        [
+          70.65,
+          78.95
+        ]
+      ],
+      [
+        [
+          78.95,
+          88.75
+        ]
+      ],
+      [
+        [
+          88.75,
+          98.586
+        ]
+      ]
     ]
-   ],
-   [
-    [
-     12.35,
-     18.75
-    ]
-   ],
-   [
-    [
-     18.75,
-     33.15
-    ]
-   ],
-   [
-    [
-     33.15,
-     44.35
-    ]
-   ],
-   [
-    [
-     44.35,
-     50.25
-    ]
-   ],
-   [
-    [
-     50.25,
-     57.15
-    ]
-   ],
-   [
-    [
-     57.15,
-     63.55
-    ]
-   ],
-   [
-    [
-     63.55,
-     70.65
-    ]
-   ],
-   [
-    [
-     70.65,
-     78.95
-    ]
-   ],
-   [
-    [
-     78.95,
-     88.75
-    ]
-   ],
-   [
-    [
-     88.75,
-     98.586
-    ]
-   ]
+  },
+  "segments": [
+    {
+      "say": "Kadın miras alabilir mi? Kız ile erkek kardeşin miras payı hep aynı mıydı? Cevap, hangi döneme baktığımıza göre değişiyor. İslam miras hukuku şöyle diyor.",
+      "caption": "Kadın miras alabilir mi? Kız ile erkek kardeşin miras payı hep aynı mıydı? Cevap, hangi döneme baktığımıza göre değişiyor. İslam miras hukuku şöyle diyor.",
+      "key": [
+        "miras alabilir mi"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_ferait.jpg",
+        "fit": "doldur",
+        "baslik": "Hanefî miras hukuku el yazması · Temple Üniversitesi Kütüphaneleri / DPLA, kamu malı",
+        "lisans": "",
+        "kaynak": "Hanefî miras hukuku el yazması · Temple Üniversitesi Kütüphaneleri / DPLA, kamu malı",
+        "sayfa": "",
+        "hiz": 1.0,
+        "kirp": [
+          0.06,
+          0.12,
+          0.84,
+          0.88
+        ]
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Nisâ suresinin yedinci ayeti: Erkeklerin de kadınların da mirastan payı vardır.",
+      "caption": "Nisâ suresinin yedinci ayeti: Erkeklerin de kadınların da mirastan payı vardır.",
+      "key": [
+        "payı vardır"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_ayet_4_7.jpg",
+        "fit": "doldur",
+        "baslik": "",
+        "lisans": "",
+        "kaynak": "",
+        "sayfa": "",
+        "hiz": 0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Diyelim ki anne ile baba vefat etti. Geriye iki kardeş kaldı: bir erkek, bir kız. Diyelim ki kalan miras 300 bin lira. Nisâ suresine göre erkek kardeş iki pay alır, kız kardeş bir pay.",
+      "caption": "Diyelim ki anne ile baba vefat etti. Geriye iki kardeş kaldı: bir erkek, bir kız. Diyelim ki kalan miras 300 bin lira. Nisâ suresine göre erkek kardeş iki pay alır, kız kardeş bir pay.",
+      "key": [
+        "iki pay alır",
+        "bir pay"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_ayet_4_11.jpg",
+        "fit": "doldur",
+        "baslik": "",
+        "lisans": "",
+        "kaynak": "",
+        "sayfa": "",
+        "hiz": 0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Yani erkek kardeş 200 bin lira, kız kardeş 100 bin lira. Ama bu kural her miras durumunda geçerli değildir. Mirasçılar değişince paylar da değişir.",
+      "caption": "Yani erkek kardeş 200 bin lira, kız kardeş 100 bin lira. Ama bu kural her miras durumunda geçerli değildir. Mirasçılar değişince paylar da değişir.",
+      "key": [
+        "200 bin",
+        "100 bin"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_graf_islam.jpg",
+        "fit": "doldur",
+        "baslik": "",
+        "lisans": "",
+        "kaynak": "",
+        "sayfa": "",
+        "hiz": 0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Medeni Kanunsa şöyle diyor. 1926 tarihli kanunda da, bugünkü kanunda da",
+      "caption": "Medeni Kanunsa şöyle diyor. 1926 tarihli kanunda da, bugünkü kanunda da",
+      "key": [
+        "1926 tarihli kanunda"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_kanun_karti.jpg",
+        "fit": "doldur",
+        "baslik": "",
+        "lisans": "",
+        "kaynak": "743 sayılı Kanun, madde 439 · Resmî Ceride 4 Nisan 1926 · TBMM arşivi · kamu malı (tam sayfa)",
+        "sayfa": "",
+        "hiz": 0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "çocuklar eşit mirasçıdır. Aynı 300 bin liralık mirasta iki kardeş de 150 bin lira alır.",
+      "caption": "çocuklar eşit mirasçıdır. Aynı 300 bin liralık mirasta iki kardeş de 150 bin lira alır.",
+      "key": [
+        "eşit mirasçıdır",
+        "150 bin"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_graf_mk.jpg",
+        "fit": "doldur",
+        "baslik": "",
+        "lisans": "",
+        "kaynak": "Medeni Kanun m.439 (1926) ve m.495 (4721 sayılı Kanun) · kamu malı",
+        "sayfa": "",
+        "hiz": 0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Bugünkü kanunun 495. maddesi: Çocuklar eşit olarak mirasçıdırlar.",
+      "caption": "Bugünkü kanunun 495. maddesi: Çocuklar eşit olarak mirasçıdırlar.",
+      "key": [
+        "eşit olarak"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_tmk495.jpg",
+        "fit": "doldur",
+        "baslik": "",
+        "lisans": "",
+        "kaynak": "",
+        "sayfa": "",
+        "hiz": 0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Peki bu kurallar uygulamada nasıldı? Konya, Vidin ve Amasyadaki Osmanlı mahkeme kayıtlarında",
+      "caption": "Peki bu kurallar uygulamada nasıldı? Konya, Vidin ve Amasyadaki Osmanlı mahkeme kayıtlarında",
+      "key": [
+        "uygulamada nasıldı"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_giritli_kadin.jpg",
+        "fit": "doldur",
+        "baslik": "Kartpostal: Giritli Türk kadını, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+        "lisans": "",
+        "kaynak": "Kartpostal: Giritli Türk kadını, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
+        "sayfa": "",
+        "hiz": 1.0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "kadınların mirasla ilgili başvurularına rastlıyoruz. Ama bu kayıtlar, paylaşımın her zaman kurallara uymadığını da gösteriyor.",
+      "caption": "kadınların mirasla ilgili başvurularına rastlıyoruz. Ama bu kayıtlar, paylaşımın her zaman kurallara uymadığını da gösteriyor.",
+      "key": [
+        "başvurularına rastlıyoruz"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_leiden.jpg",
+        "fit": "doldur",
+        "baslik": "Osmanlı belgesi · Leiden Üniversitesi Kütüphaneleri, Or. 26.771 · CC BY 4.0",
+        "lisans": "",
+        "kaynak": "Osmanlı belgesi · Leiden Üniversitesi Kütüphaneleri, Or. 26.771 · CC BY 4.0",
+        "sayfa": "",
+        "hiz": 1.0,
+        "kirp": [
+          0.0,
+          0.22,
+          0.56,
+          0.62
+        ]
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Peki sizin ailenizde ya da çevrenizde, miras kız ve erkek kardeşler arasında eşit paylaşıldı mı? Düşüncelerinizi yorumlarda paylaşın.",
+      "caption": "Peki sizin ailenizde ya da çevrenizde, miras kız ve erkek kardeşler arasında eşit paylaşıldı mı? Düşüncelerinizi yorumlarda paylaşın.",
+      "key": [
+        "eşit paylaşıldı mı"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_sultanhani_koy.jpg",
+        "fit": "doldur",
+        "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+        "lisans": "",
+        "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+        "sayfa": "",
+        "hiz": 1.0
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+      "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+      "key": [
+        "takip etmeyi"
+      ],
+      "image": {
+        "local": "assets/belgeler/059_sultanhani_hamur.jpg",
+        "fit": "doldur",
+        "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+        "lisans": "",
+        "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
+        "sayfa": "",
+        "hiz": 1.0
+      },
+      "scene": "photo"
+    }
   ]
- },
- "segments": [
-  {
-   "say": "Kadın miras alabilir mi? Kız ile erkek kardeşin miras payı hep aynı mıydı? Cevap, hangi döneme baktığımıza göre değişiyor. İslam miras hukuku şöyle diyor.",
-   "caption": "Kadın miras alabilir mi? Kız ile erkek kardeşin miras payı hep aynı mıydı? Cevap, hangi döneme baktığımıza göre değişiyor. İslam miras hukuku şöyle diyor.",
-   "key": [
-    "miras alabilir mi"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_ferait.jpg",
-    "fit": "doldur",
-    "baslik": "Hanefî miras hukuku el yazması · Temple Üniversitesi Kütüphaneleri / DPLA, kamu malı",
-    "lisans": "",
-    "kaynak": "Hanefî miras hukuku el yazması · Temple Üniversitesi Kütüphaneleri / DPLA, kamu malı",
-    "sayfa": "",
-    "hiz": 1.0,
-    "kirp": [
-     0.06,
-     0.12,
-     0.84,
-     0.88
-    ]
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Nisâ suresinin yedinci ayeti: Erkeklerin de kadınların da mirastan payı vardır.",
-   "caption": "Nisâ suresinin yedinci ayeti: Erkeklerin de kadınların da mirastan payı vardır.",
-   "key": [
-    "payı vardır"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_ayet_4_7.jpg",
-    "fit": "doldur",
-    "baslik": "",
-    "lisans": "",
-    "kaynak": "",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Diyelim ki anne ile baba vefat etti. Geriye iki kardeş kaldı: bir erkek, bir kız. Diyelim ki kalan miras 300 bin lira. Nisâ suresine göre erkek kardeş iki pay alır, kız kardeş bir pay.",
-   "caption": "Diyelim ki anne ile baba vefat etti. Geriye iki kardeş kaldı: bir erkek, bir kız. Diyelim ki kalan miras 300 bin lira. Nisâ suresine göre erkek kardeş iki pay alır, kız kardeş bir pay.",
-   "key": [
-    "iki pay alır",
-    "bir pay"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_ayet_4_11.jpg",
-    "fit": "doldur",
-    "baslik": "",
-    "lisans": "",
-    "kaynak": "",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Yani erkek kardeş 200 bin lira, kız kardeş 100 bin lira. Ama bu kural her miras durumunda geçerli değildir. Mirasçılar değişince paylar da değişir.",
-   "caption": "Yani erkek kardeş 200 bin lira, kız kardeş 100 bin lira. Ama bu kural her miras durumunda geçerli değildir. Mirasçılar değişince paylar da değişir.",
-   "key": [
-    "200 bin",
-    "100 bin"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_graf_islam.jpg",
-    "fit": "doldur",
-    "baslik": "",
-    "lisans": "",
-    "kaynak": "",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Medeni Kanunsa şöyle diyor. 1926 tarihli kanunda da, bugünkü kanunda da",
-   "caption": "Medeni Kanunsa şöyle diyor. 1926 tarihli kanunda da, bugünkü kanunda da",
-   "key": [
-    "1926 tarihli kanunda"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_kanun_karti.jpg",
-    "fit": "doldur",
-    "baslik": "",
-    "lisans": "",
-    "kaynak": "743 sayılı Kanun, madde 439 · Resmî Ceride 4 Nisan 1926 · TBMM arşivi · kamu malı (tam sayfa)",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "çocuklar eşit mirasçıdır. Aynı 300 bin liralık mirasta iki kardeş de 150 bin lira alır.",
-   "caption": "çocuklar eşit mirasçıdır. Aynı 300 bin liralık mirasta iki kardeş de 150 bin lira alır.",
-   "key": [
-    "eşit mirasçıdır",
-    "150 bin"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_graf_mk.jpg",
-    "fit": "doldur",
-    "baslik": "",
-    "lisans": "",
-    "kaynak": "Medeni Kanun m.439 (1926) ve m.495 (4721 sayılı Kanun) · kamu malı",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Bugünkü kanunun 495. maddesi: Çocuklar eşit olarak mirasçıdırlar.",
-   "caption": "Bugünkü kanunun 495. maddesi: Çocuklar eşit olarak mirasçıdırlar.",
-   "key": [
-    "eşit olarak"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_tmk495.jpg",
-    "fit": "doldur",
-    "baslik": "",
-    "lisans": "",
-    "kaynak": "",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Peki bu kurallar uygulamada nasıldı? Konya, Vidin ve Amasyadaki Osmanlı mahkeme kayıtlarında",
-   "caption": "Peki bu kurallar uygulamada nasıldı? Konya, Vidin ve Amasyadaki Osmanlı mahkeme kayıtlarında",
-   "key": [
-    "uygulamada nasıldı"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_giritli_kadin.jpg",
-    "fit": "doldur",
-    "baslik": "Kartpostal: Giritli Türk kadını, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
-    "lisans": "",
-    "kaynak": "Kartpostal: Giritli Türk kadını, Hanya, 1900 civarı · E. A. Cavaliero / Wikimedia Commons",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "kadınların mirasla ilgili başvurularına rastlıyoruz. Ama bu kayıtlar, paylaşımın her zaman kurallara uymadığını da gösteriyor.",
-   "caption": "kadınların mirasla ilgili başvurularına rastlıyoruz. Ama bu kayıtlar, paylaşımın her zaman kurallara uymadığını da gösteriyor.",
-   "key": [
-    "başvurularına rastlıyoruz"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_leiden.jpg",
-    "fit": "doldur",
-    "baslik": "Osmanlı belgesi · Leiden Üniversitesi Kütüphaneleri, Or. 26.771 · CC BY 4.0",
-    "lisans": "",
-    "kaynak": "Osmanlı belgesi · Leiden Üniversitesi Kütüphaneleri, Or. 26.771 · CC BY 4.0",
-    "sayfa": "",
-    "hiz": 1.0,
-    "kirp": [
-     0.0,
-     0.22,
-     0.56,
-     0.62
-    ]
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Peki sizin ailenizde ya da çevrenizde, miras kız ve erkek kardeşler arasında eşit paylaşıldı mı? Düşüncelerinizi yorumlarda paylaşın.",
-   "caption": "Peki sizin ailenizde ya da çevrenizde, miras kız ve erkek kardeşler arasında eşit paylaşıldı mı? Düşüncelerinizi yorumlarda paylaşın.",
-   "key": [
-    "eşit paylaşıldı mı"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_sultanhani_koy.jpg",
-    "fit": "doldur",
-    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
-    "lisans": "",
-    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "key": [
-    "takip etmeyi"
-   ],
-   "image": {
-    "local": "assets/belgeler/059_sultanhani_hamur.jpg",
-    "fit": "doldur",
-    "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
-    "lisans": "",
-    "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo"
-  }
- ]
 }
