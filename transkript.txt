@@ -1,2 +1,1 @@
-assets/ses/057_renk.mp3
-
+assets/ses/058_soyadi_kadin.mp3
