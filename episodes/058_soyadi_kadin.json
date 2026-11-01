@@ -1,0 +1,255 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 58,
+ "slug": "soyadi_kadin",
+ "title": "Evli Kadının Soyadı",
+ "youtube_title": "Evlenen kadın soyadını kim seçerdi? #SıradanDeğil 58",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Evlenen kadın soyadını\nkim seçerdi?",
+ "dis_ses": {
+  "file": "assets/ses/058_soyadi_kadin.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     10.75
+    ]
+   ],
+   [
+    [
+     10.75,
+     21.95
+    ]
+   ],
+   [
+    [
+     21.95,
+     31.05
+    ]
+   ],
+   [
+    [
+     31.05,
+     39.45
+    ]
+   ],
+   [
+    [
+     39.45,
+     46.75
+    ]
+   ],
+   [
+    [
+     46.75,
+     55.15
+    ]
+   ],
+   [
+    [
+     55.15,
+     62.95
+    ]
+   ],
+   [
+    [
+     62.95,
+     72.65
+    ]
+   ],
+   [
+    [
+     72.65,
+     81.65
+    ]
+   ],
+   [
+    [
+     81.65,
+     93.884
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir kadın evlenince soyadını kim seçerdi? Soyadı Kanununa göre soyadı seçme hakkı ve görevi, evlilik birliğinin reisi olan kocaya aitti.",
+   "caption": "Bir kadın evlenince soyadını kim seçerdi? Soyadı Kanununa göre soyadı seçme hakkı ve görevi, evlilik birliğinin reisi olan kocaya aitti.",
+   "key": [
+    "kocaya aitti"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_rg1934.jpg",
+    "fit": "doldur",
+    "baslik": "Soy adı Kanunu, Resmî Gazete, 2 Temmuz 1934, sayı 2741, madde 4 · kamu malı",
+    "lisans": "",
+    "kaynak": "Soy adı Kanunu, Resmî Gazete, 2 Temmuz 1934, sayı 2741, madde 4 · kamu malı",
+    "sayfa": "",
+    "hiz": 0.3,
+    "kirp": [
+     0.03,
+     0.27,
+     0.52,
+     0.89
+    ]
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Medeni Kanunun 187. maddesi de kadının evlenince kocasının soyadını alacağını söylüyordu. Kendi soyadını ancak kocasının soyadının önünde kullanabiliyordu.",
+   "caption": "Medeni Kanunun 187. maddesi de kadının evlenince kocasının soyadını alacağını söylüyordu. Kendi soyadını ancak kocasının soyadının önünde kullanabiliyordu.",
+   "key": [
+    "kocasının soyadını alacağını"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_nufus_cuzdani.jpg",
+    "fit": "doldur",
+    "baslik": "Eski bir nüfus hüviyet cüzdanı · Cobija / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Eski bir nüfus hüviyet cüzdanı · Cobija / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yani kadın, kendi soyadını tek başına koruyamıyordu. Ayten Ünal Tekeli, evlendikten sonra yalnızca kendi soyadını kullanmak istedi.",
+   "caption": "Yani kadın, kendi soyadını tek başına koruyamıyordu. Ayten Ünal Tekeli, evlendikten sonra yalnızca kendi soyadını kullanmak istedi.",
+   "key": [
+    "tek başına koruyamıyordu"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_miss1930.jpg",
+    "fit": "doldur",
+    "baslik": "1930 Türkiye güzeli · Nationaal Archief, kısıtlama yok",
+    "lisans": "",
+    "kaynak": "1930 Türkiye güzeli · Nationaal Archief, kısıtlama yok",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Türkiyedeki mahkemeler bunu kabul etmedi. Avrupa İnsan Hakları Mahkemesi ise 2004te bunun ayrımcılık olduğuna karar verdi.",
+   "caption": "Türkiyedeki mahkemeler bunu kabul etmedi. Avrupa İnsan Hakları Mahkemesi ise 2004te bunun ayrımcılık olduğuna karar verdi.",
+   "key": [
+    "ayrımcılık"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_aihm_dis.jpg",
+    "fit": "doldur",
+    "baslik": "Avrupa İnsan Hakları Mahkemesi, Strazburg · Gzen92 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Avrupa İnsan Hakları Mahkemesi, Strazburg · Gzen92 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Buna rağmen kural değişmedi. Anayasa Mahkemesi 2011de iptal istemini oy çokluğuyla reddetti.",
+   "caption": "Buna rağmen kural değişmedi. Anayasa Mahkemesi 2011de iptal istemini oy çokluğuyla reddetti.",
+   "key": [
+    "kural değişmedi"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_ankara_bina.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara, 1930lar · Matson Collection / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Ankara, 1930lar · Matson Collection / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ancak 2023te kuralı iptal etti. Yani kaldırdı. Gerekçesi şuydu. Soyadı, kişilik hakkının bir parçasıydı.",
+   "caption": "Ancak 2023te kuralı iptal etti. Yani kaldırdı. Gerekçesi şuydu. Soyadı, kişilik hakkının bir parçasıydı.",
+   "key": [
+    "kişilik hakkının bir parçasıydı"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_aym_bina.jpg",
+    "fit": "doldur",
+    "baslik": "Anayasa Mahkemesi binası, Ankara · Murat Karabulut (VOA), kamu malı",
+    "lisans": "",
+    "kaynak": "Anayasa Mahkemesi binası, Ankara · Murat Karabulut (VOA), kamu malı",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Erkek evlendikten sonra soyadını koruyabilirken kadının bunu yapamaması, cinsiyete dayalı farklı muameleydi.",
+   "caption": "Erkek evlendikten sonra soyadını koruyabilirken kadının bunu yapamaması, cinsiyete dayalı farklı muameleydi.",
+   "key": [
+    "cinsiyete dayalı farklı muameleydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_aihm_salon.jpg",
+    "fit": "doldur",
+    "baslik": "Avrupa İnsan Hakları Mahkemesi salonu · CherryX / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Avrupa İnsan Hakları Mahkemesi salonu · CherryX / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Mahkeme, Meclise düzenleme yapması için dokuz ay süre verdi. Bu süre doldu ve iptal 28 Ocak 2024te yürürlüğe girdi.",
+   "caption": "Mahkeme, Meclise düzenleme yapması için dokuz ay süre verdi. Bu süre doldu ve iptal 28 Ocak 2024te yürürlüğe girdi.",
+   "key": [
+    "28 Ocak 2024"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_tbmm.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk TBMMden çıkarken, tarihsiz fotoğraf · kamu malı",
+    "lisans": "",
+    "kaynak": "Atatürk TBMMden çıkarken, tarihsiz fotoğraf · kamu malı",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki, çevrenizde evlendikten sonra yalnızca kendi soyadını kullanmak isteyen ya da bunun için hukuki mücadele veren bir kadın oldu mu?",
+   "caption": "Peki, çevrenizde evlendikten sonra yalnızca kendi soyadını kullanmak isteyen ya da bunun için hukuki mücadele veren bir kadın oldu mu?",
+   "key": [
+    "hukuki mücadele veren bir kadın"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_holiday.jpg",
+    "fit": "doldur",
+    "baslik": "Stadyumda geçit yapan genç kadınlar, tarihsiz fotoğraf · WikiTyrcaen / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Stadyumda geçit yapan genç kadınlar, tarihsiz fotoğraf · WikiTyrcaen / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "Kaynakları video açıklamasında"
+   ],
+   "image": {
+    "local": "assets/belgeler/058_ankara_muze.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara Etnografya Müzesi, 1930lar · DGPI Arşivi, kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Ankara Etnografya Müzesi, 1930lar · DGPI Arşivi, kısıtlama yok",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  }
+ ]
+}
