@@ -88,19 +88,13 @@
         "miras alabilir mi"
       ],
       "image": {
-        "local": "assets/belgeler/059_ferait.jpg",
+        "local": "assets/belgeler/059_sultanhani_koy.jpg",
         "fit": "doldur",
-        "baslik": "Hanefî miras hukuku el yazması · Temple Üniversitesi Kütüphaneleri / DPLA, kamu malı",
+        "baslik": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
         "lisans": "",
-        "kaynak": "Hanefî miras hukuku el yazması · Temple Üniversitesi Kütüphaneleri / DPLA, kamu malı",
+        "kaynak": "Sultanhanı. Foto: Annemarie Schwarzenbach / İsviçre Ulusal Kütüphanesi",
         "sayfa": "",
-        "hiz": 1.0,
-        "kirp": [
-          0.06,
-          0.12,
-          0.84,
-          0.88
-        ]
+        "hiz": 1.0
       },
       "scene": "photo"
     },
