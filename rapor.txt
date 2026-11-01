@@ -1,0 +1,7 @@
+aym_basin.html | 000hata | cannot open `aym_basin.html' (No such file or directory) |  bayt
+rg20260930.html | 200 | text/html | 9712 bayt
+rg20260930.pdf | 200 | application/pdf | 33739593 bayt
+tmk1926_743.pdf | 200 | application/pdf | 10536413 bayt
+leiden_or26771.pdf | 200 | application/pdf | 1823421 bayt
+  metin yok/az (0) -> OCR
+loc_kizlar.html | 403 | text/html | 5466 bayt
