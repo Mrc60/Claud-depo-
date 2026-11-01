@@ -1,5 +1,5 @@
 {
- "bolum": "059_renk_korlugu_paket",
+ "bolum": "057_renk_paket2",
  "min_w": 700,
  "sorgular": [
   "John Dalton portrait"
@@ -7,44 +7,24 @@
  "incele": [],
  "indir": [
   {
-   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059155.jpg",
-   "ad": "059_ishihara6.jpg"
+   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059158.jpg",
+   "ad": "057_ishihara74.jpg"
   },
   {
-   "file": "File:Holmgren's coloured wool test for colour blindness, Europe, Wellcome L0058974 (cropped).jpg",
-   "ad": "059_holmgren.jpg"
+   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059161.jpg",
+   "ad": "057_ishihara3.jpg"
   },
   {
-   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059160.jpg",
-   "ad": "059_ishihara42.jpg"
+   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059157.jpg",
+   "ad": "057_ishihara97.jpg"
   },
   {
-   "file": "File:Eight Ishihara charts for testing colour blindness, Europe Wellcome L0059162.jpg",
-   "ad": "059_ishihara_plaka.jpg"
+   "file": "File:Potrait of John Dalton Wellcome M0004640.jpg",
+   "ad": "057_dalton_profil.jpg"
   },
   {
-   "file": "File:John Dalton by Charles Turner.jpg",
-   "ad": "059_dalton_turner.jpg"
-  },
-  {
-   "file": "File:Extraordinary Facts Relating to the Vision of Colours- With Observations - DPLA - 9888a1fc5bcf7520ccdf81a15a0ed40f (page 6).jpg",
-   "ad": "059_makale.jpg"
-  },
-  {
-   "file": "File:John Dalton and his tomb in Manchester.png",
-   "ad": "059_mezar.jpg"
-  },
-  {
-   "file": "File:Dr. Dalton, F.R.S. - president of the Literary & Philosophical Society, Manchester - painted by J. Lonsdale Esqre. ; engraved by C. Turner, A.R.A. LCCN2004671522.jpg",
-   "ad": "059_dalton_baski.jpg"
-  },
-  {
-   "file": "File:Ishihara colour blindness test, London, England, 1948 Wellcome L0058975.jpg",
-   "ad": "059_ishihara_kitap.jpg"
-  },
-  {
-   "file": "File:John Dalton. Mezzotint by C. Turner, 1834, after J. Lonsdale Wellcome V0001446.jpg",
-   "ad": "059_dalton_mezzotint.jpg"
+   "file": "File:John Dalton. Pen drawing with watercolour wash. Wellcome V0001447.jpg",
+   "ad": "057_dalton_cizim.jpg"
   }
  ]
 }
