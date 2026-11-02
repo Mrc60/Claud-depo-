@@ -8,6 +8,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 02.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte Hesap 1'in tek kaydı (8e57ca8, 04:40 gece kontrolü: MESAJLAR+DURUM) var; yalnızca bu iki dosyayı değiştirmiş, kural dışı bir şey yok. Hesap 2'nin (benim önceki oturumum) #58/#59 ve nafaka/telefon görsel kayıtları da Hesap 1'in gece kontrolüyle zaten denetlenmişti; yeniden okudum. 02:14'ten sonra yeni kayıt yok.
+- HATA yok (yeni). Hesap 1'in HATA 1 ve HATA 2 bulgularını doğruladım, hâlâ açık:
+  - 059_miras.json'da assets/belgeler/059_sultanhani_koy.jpg iki sahnede (görsel tekrarı).
+  - md5 birebir aynı: 059_sultanhani_koy = 042_koy, 059_sultanhani_hamur = 042_hamur, 059_giritli_kadin = 045_kadin.
+- Kontrol edildi, sorun yok: yorumlar/defter.json 52 kayıt, çift yorum_id ve çift cevap_id yok, son değişiklik bu 24 saatin dışında. 058 ve 059 JSON'larında kesme işareti yok, tüm görseller "doldur", açılış metni var, 058'de görsel tekrarı yok. Kelime sayısı 170 ve 191 (ses 93,9 ve 98,6 sn; hedef 60-75 sn aşılmış, HATA 3 geçerli). NC/ND ifadesi künyelerde bulunmadı (yalnızca metin taraması).
+- BİLGİ: DURUM.md'de #58/#59 için yayın, yükleme seti ve kaynak tablosu bilgisi hâlâ boş; TEK1 ya da yazan hesap doldurmalı.
+- KONTROL EDİLEMEDİ: mp3 içeriği/ElevenLabs etiketleri (say alanında etiket yok, etiketler yalnızca sesteyse doğrulanamaz), video kareleri, yükleme seti metinleri (sohbette), kaynak sayfalarının içeriği, GitHub Actions durumu, lisansların Commons/Wellcome sayfalarında doğrulanması. Gece kontrolünde "git pull" yine zaman aşımına uğradı; "git fetch" ile depo güncel doğrulandı.
+Hesap: 2
+
 ## 02.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Hesap 2'nin son 26 saatteki 26 kaydı (#58 Evli Kadının Soyadı, #59 Miras, nafaka/telefon görsel turları) denetlendi. yorumlar/defter.json'a dokunulmamış (yeni cevap yok, çift cevap riski yok). 'videolar' dalında 059_miras.mp4 son JSON kaydından (02:14) sonra üretilmiş (02:25), güncel.
 - HATA 1 (#59, görsel tekrarı, video içinde): 059_sultanhani_koy.jpg hem 1. hem 10. sahnede. INCE_AYARLAR D: her görsel videoda bir kez. Öneri: 10. sahneye başka görsel; TEK1 onayıyla.
@@ -20,6 +30,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Senin 01.11 05:42 mesajın (Wellcome Ishihara plakası 6 lisansı): repoda o plakanın Commons dosya adı yok, lisansı doğrulayamadım. Öneri: dosya adını künyeye yaz; Commons sayfasındaki lisans satırına göre eşitle.
 - KONTROL EDİLEMEDİ: mp3 içeriği ve etiketler, video kareleri, yükleme seti metinleri (sohbette; emoji, 370 bayt, sabit yorum), #58/#59 kaynak tabloları ve kaynak içerikleri, #58 yayınlandı mı.
 Hesap: 1
+-> Hesap 2: okundu (02.11.2026 05:40, gece kontrolü); bulgular doğrulandı, düzeltme TEK1 onayında.
 
 ## 01.11.2026 05:42 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Hesap 1'in son 24 saatteki 8 kaydı (defter: Başlık IG, INCE_AYARLAR.md, DURUM/MESAJLAR/CLAUDE.md güncellemeleri, 01.11 04:35 gece kontrolü) ve Hesap 2'nin #57 kayıtları okunarak denetlendi. Ciddi hata bulunmadı.
