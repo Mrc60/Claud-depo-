@@ -45,12 +45,6 @@
       [
         [
           40.35,
-          47.3
-        ]
-      ],
-      [
-        [
-          47.3,
           53.74
         ]
       ],
@@ -88,11 +82,11 @@
         }
       ],
       "image": {
-        "local": "assets/belgeler/060_ocakli.jpg",
+        "local": "assets/belgeler/060_kizlar.jpg",
         "fit": "doldur",
-        "baslik": "Ocaklı Köyü İlkokulu · arşivimizden",
+        "baslik": "Arşivimizden bir okul fotoğrafı",
         "lisans": "",
-        "kaynak": "Ocaklı Köyü İlkokulu · arşivimizden",
+        "kaynak": "Arşivimizden bir okul fotoğrafı",
         "sayfa": "",
         "hiz": 0.6
       },
@@ -176,11 +170,11 @@
         }
       ],
       "image": {
-        "local": "assets/belgeler/060_portre.jpg",
+        "local": "assets/belgeler/060_ocakli.jpg",
         "fit": "doldur",
-        "baslik": "Arşivimizden bir okul fotoğrafı",
+        "baslik": "Ocaklı Köyü İlkokulu · arşivimizden",
         "lisans": "",
-        "kaynak": "Arşivimizden bir okul fotoğrafı",
+        "kaynak": "Ocaklı Köyü İlkokulu · arşivimizden",
         "sayfa": "",
         "hiz": 0.6
       },
@@ -210,47 +204,29 @@
         }
       ],
       "image": {
-        "local": "assets/belgeler/060_kart_1981.jpg",
+        "local": "assets/belgeler/060_portre.jpg",
         "fit": "doldur",
-        "baslik": "Resmî Gazete 7.12.1981, sayı 17537 · madde 10",
+        "baslik": "Arşivimizden bir okul fotoğrafı",
         "lisans": "",
-        "kaynak": "Resmî Gazete 7.12.1981, sayı 17537 · madde 10",
+        "kaynak": "Arşivimizden bir okul fotoğrafı",
         "sayfa": "",
         "hiz": 0.6
       },
       "scene": "photo"
     },
     {
-      "say": "Sonra renk değişti. Eylül 1990da İzmir Milli Eğitim Müdürlüğü, öğrencinin isterse mavi giyebileceğini açıkladı.",
-      "caption": "Sonra renk değişti. Eylül 1990da İzmir Milli Eğitim Müdürlüğü, öğrencinin isterse mavi giyebileceğini açıkladı.",
+      "say": "Sonra renk değişti. Eylül 1990da İzmir Milli Eğitim Müdürlüğü, öğrencinin isterse mavi giyebileceğini açıkladı. Bir yıl sonra vitrinler maviydi. Mağaza sahipleri elde kalan siyah önlüklerden yakınıyordu.",
+      "caption": "Sonra renk değişti. Eylül 1990da İzmir Milli Eğitim Müdürlüğü, öğrencinin isterse mavi giyebileceğini açıkladı. Bir yıl sonra vitrinler maviydi. Mağaza sahipleri elde kalan siyah önlüklerden yakınıyordu.",
       "key": [
-        "mavi giyebileceğini"
+        "mavi giyebileceğini",
+        "vitrinler maviydi"
       ],
       "bolumler": [
         {
           "start": 40.58,
           "end": 47.15,
           "n": 14
-        }
-      ],
-      "image": {
-        "local": "assets/belgeler/060_kart_1990.jpg",
-        "fit": "doldur",
-        "baslik": "Cumhuriyet, 5 Eylül 1990, sayfa 20",
-        "lisans": "",
-        "kaynak": "Cumhuriyet, 5 Eylül 1990, sayfa 20",
-        "sayfa": "",
-        "hiz": 0.6
-      },
-      "scene": "photo"
-    },
-    {
-      "say": "Bir yıl sonra vitrinler maviydi. Mağaza sahipleri elde kalan siyah önlüklerden yakınıyordu.",
-      "caption": "Bir yıl sonra vitrinler maviydi. Mağaza sahipleri elde kalan siyah önlüklerden yakınıyordu.",
-      "key": [
-        "vitrinler maviydi"
-      ],
-      "bolumler": [
+        },
         {
           "start": 47.48,
           "end": 49.6,
@@ -292,11 +268,11 @@
         }
       ],
       "image": {
-        "local": "assets/belgeler/060_kart_2012.jpg",
+        "local": "assets/belgeler/060_tablo.jpg",
         "fit": "doldur",
-        "baslik": "Resmî Gazete 27.11.2012, sayı 28480 · madde 3",
+        "baslik": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
         "lisans": "",
-        "kaynak": "Resmî Gazete 27.11.2012, sayı 28480 · madde 3",
+        "kaynak": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
         "sayfa": "",
         "hiz": 0.6
       },
