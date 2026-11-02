@@ -76,13 +76,13 @@
         }
       ],
       "image": {
-        "local": "assets/belgeler/060_tablo.jpg",
+        "local": "assets/belgeler/060_tablo_acilis.jpg",
         "fit": "doldur",
         "baslik": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
         "lisans": "",
         "kaynak": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
         "sayfa": "",
-        "hiz": 0.6
+        "hiz": 0.3
       },
       "scene": "photo"
     },
