@@ -60,6 +60,10 @@ Ton:
 - "Yok", "Yok yok" gibi tek kelime: çok kısa sıcak cevap ("Bunu duymak sevindirici.").
 - Kullanıcı adı "(null)" görünüyorsa Instagram cevabın başına "@(null)" koyar; sorun değil.
 
+- Yer tahmini yazan (fotoğraf paylaşımı, "Ulus, statyum", "İstasyon caddesi"): sadece sade teşekkür ("Paylaşımınız için teşekkür ederiz." / "Yorumunuz için teşekkür ederiz."). Açıklama ekleme ("Elimizdeki bilgi sınırlı" gibi) ve savunma yapma. (TEK1 düzeltti, 02.11.2026)
+- Kısa nostaljik yorumu ("İyi,güzel günler" = "iyi ve güzel günlerdi") yanlış okuma; selam sanma. Cevap: "O günleri hatırladığınız için teşekkür ederiz." (TEK1 düzeltti, 02.11.2026)
+- Yorumun anlamı belirsizse cevap yazmadan önce yorumu iki türlü oku; emin değilsen atla ya da sade teşekkür et.
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.
