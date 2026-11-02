@@ -30,6 +30,7 @@ Bu dosya CLAUDE.md ve HAFIZA.md'nin üstüne gelen, sohbetlerde öğrenilmiş in
 - Konuşur gibi, kısa cümle, resmî rapor dili yok.
 - Bölge kıyaslaması (Doğu %40, Ege %5 gibi) koyma: etnik/bölgesel kavga çıkarır.
 - Dönemi net söyle: izleyici bugünü düşünüp "yalan" demesin (Tuz'da "tuz hep ucuzdu" yorumları geldi).
+- SÜRE: hedef 60-75 sn ama TEK1 bazen bilerek daha uzun ses istiyor. 75'i geçerse hata sayma; sadece bir cümleyle bildir ("ses X sn"), kısaltmayı TEK1 isterse yap.
 - Tarihi olay kadar "bugün hâlâ" boyutu ilgi çekiyor; ama veri yoksa "hâlâ sürüyor" deme, soruyu izleyiciye bırak.
 
 ## D. Görsel zevki
