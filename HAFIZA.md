@@ -85,3 +85,5 @@
 - ChatGPT Go planında (Google Drive desteklemiyor).
 - Araştırma ekibi: Manus, Perplexity, Grok, ChatGPT, Base44; Claude doğrulayan ve birleştiren merkez.
 - Uzun video fikri (haftada 2) ve İngilizce ikinci kanal fikri beklemede.
+
+- EKRAN GÖRÜNTÜSÜ (TEK1 kararı, 02.11.2026): Ekran görüntüsü atınca ekranda ne olduğunu anlat, bana faydalı mı zararlı mı söyle, net öneri ver. Geri soru sorma, "bilmiyorum, sen söyle" deme; elimdeki bilgiyle öner, emin olmadığımı ayrıca belirt.

@@ -216,6 +216,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Sıradaki konu ve güncel iş listesi DURUM.md'de (en üstte "SIRADAKİ VİDEO"). Son bölüm: 056_baslik.
 
 ## 12. DERSLER (kendi hatalarım; 30.10.2026 gözden geçirme)
+- EKRAN GÖRÜNTÜSÜ (TEK1 kararı, 02.11.2026): Ekran görüntüsü atınca ekranda ne olduğunu anlat, bana faydalı mı zararlı mı söyle, net öneri ver. Geri soru sorma, "bilmiyorum, sen söyle" deme; elimdeki bilgiyle öner, emin olmadığımı ayrıca belirt.
 - Görsel önermeden önce fotoğrafı AÇ (pano). Künyeye bakıp önerdim; düğün fotoğrafında Atatürk vardı.
 - Yorum taslağı: TEK taslak ver, soru yok (dolaylı da yok: "merak ettik", "paylaşırsanız seviniriz"). Göstermeden önce kontrol listesinden geçir.
 - Zernio gönderimi: cevapları TEK TEK sırayla gönder, toplu/paralel gönderme.
