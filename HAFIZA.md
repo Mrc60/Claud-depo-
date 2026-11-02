@@ -77,6 +77,12 @@
 - Yorumcunun yazdığına insan gibi cevap ver ama videonun konusu ve kaynaklarına bağlı kal; uydurma yok. Sürekli "kaynaklarda" deme; az empati.
 - Sadece kanalın cevap vermediği ana yorumlara; aynı yoruma iki kez yazma (sistem çözer, TEK1 ekran görüntüsü vermez). Yanıtlara/sabit yorum altındakilere cevap yok.
 
+## Ek kanal notları (02.11.2026, Hesap 1 belleğinden)
+- "Sıradan Değil · #N" etiketi kenarda hareketli, çünkü videoyu alan biri sabit etiketi kırpıp atabilir.
+- TEK1 kamerada görünmüyor (yüzsüz kanal).
+- Konu Türkiye dışından da olabilir (izleyicinin empati kuracağı ya da çok şaşırtıcı bir olay); asıl amaç izleyiciyi ekrana bağlamak.
+- Bekleyen konu fikri: "Yabancıların gözünden Türkiye".
+
 ## Kanal ve araçlar
 - Kanal: Sıradan Değil. YouTube @siradan.degil, TikTok @siradan.degil, Instagram @siradandegill, Facebook sayfası (en büyük kitle FB, sonra IG, sonra TikTok; YouTube çok yavaş büyüyor).
 - Günde 2 video (sabah ve 18:00). Threads'te de paylaşılıyor. X bırakıldı. TikTok ücretli tanıtım bırakıldı.
