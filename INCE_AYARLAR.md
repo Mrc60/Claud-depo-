@@ -61,7 +61,8 @@ Ton:
 - Kullanıcı adı "(null)" görünüyorsa Instagram cevabın başına "@(null)" koyar; sorun değil.
 
 - Yer tahmini yazan (fotoğraf paylaşımı, "Ulus, statyum", "İstasyon caddesi"): sadece sade teşekkür ("Paylaşımınız için teşekkür ederiz." / "Yorumunuz için teşekkür ederiz."). Açıklama ekleme ("Elimizdeki bilgi sınırlı" gibi) ve savunma yapma. (TEK1 düzeltti, 02.11.2026)
-- Kısa nostaljik yorumu ("İyi,güzel günler" = "iyi ve güzel günlerdi") yanlış okuma; selam sanma. Cevap: "O günleri hatırladığınız için teşekkür ederiz." (TEK1 düzeltti, 02.11.2026)
+- Kısa nostaljik yorum ("İyi,güzel günler" = "iyi ve güzel günlerdi"): selam sanma, yorumu kendi hâline göre yorumlama ("O günleri hatırladığınız için…" gibi şey ekleme, alakasız kaldı). Cevap sade: "Yorumunuz için teşekkür ederiz 🙏". (TEK1 düzeltti, 02.11.2026)
+- Teşekkür cümlelerine yorumun sıcaklığına göre 🙏 koyabilirsin: sıcak/duygusal/nazik yorumda 🙏, nötr yer tahmini ya da kısa bilgi yorumunda emojisiz. Kalp yine sadece yorumcu kullandıysa. (TEK1 kararı, 02.11.2026)
 - Yorumun anlamı belirsizse cevap yazmadan önce yorumu iki türlü oku; emin değilsen atla ya da sade teşekkür et.
 
 Gönderim:
