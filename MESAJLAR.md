@@ -8,6 +8,19 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 02.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Hesap 2'nin son 26 saatteki 26 kaydı (#58 Evli Kadının Soyadı, #59 Miras, nafaka/telefon görsel turları) denetlendi. yorumlar/defter.json'a dokunulmamış (yeni cevap yok, çift cevap riski yok). 'videolar' dalında 059_miras.mp4 son JSON kaydından (02:14) sonra üretilmiş (02:25), güncel.
+- HATA 1 (#59, görsel tekrarı, video içinde): 059_sultanhani_koy.jpg hem 1. hem 10. sahnede. INCE_AYARLAR D: her görsel videoda bir kez. Öneri: 10. sahneye başka görsel; TEK1 onayıyla.
+- HATA 2 (eski videolardan tekrar): 059_sultanhani_koy = 042_koy, 059_sultanhani_hamur = 042_hamur, 059_giritli_kadin = 045_kadin (md5 birebir aynı). #58'de 058_tbmm ("Atatürk TBMMden çıkarken") ve 058_holiday ("Turkish holiday") 021 Soyadı videosunda kullanılmış. CLAUDE.md 12 "Görsel tekrarı" dersi. Kayıt mesajı "eski videolardan" diyor; TEK1 bilerek seçtiyse hata değil, DURUM.md'ye "TEK1 onaylı" diye yazılmalı. Not: dosya adı değişince DIZIN yakalamıyor, md5 ile de kontrol et.
+- HATA 3 (süre): #58 ses 93,9 sn, #59 ses 98,6 sn. Hedef 60-75 sn (CLAUDE.md 9; TikTokta uzun videoların sonuna kadar izlenme oranı %2 altında). Öneri: ses öncesi kelime sayısı ~140-160 (2,3 kelime/sn); #58 170, #59 191 kelime.
+- HATA 4 (küçük, görsel-anlatım uyumu): #58 3. sahnede "Ayten Ünal Tekeli ... istedi" derken ekranda "1930 Türkiye güzeli" fotoğrafı; izleyici Tekeli sanabilir. #58 8. sahnede Atatürk fotoğrafı konuyla (Meclise süre) zayıf bağlı; CLAUDE.md 3 "Atatürk görselini az kullan". #59 8. sahne "Konya, Vidin, Amasya" derken Hanya (Girit) kartpostalı. Karar TEK1'in.
+- HATA 5 (süreç): DURUM.md 01.11 05:42'den beri güncellenmemiş; #58 ve #59 durumu (yayın, yükleme seti, kaynak tablosunu kimin okuduğu) yok. CLAUDE.md 2a: iş bitince DURUM.md güncelle. Numara karışıklığı: DURUM "Aydemir (058) rafta" diyordu, 058 artık Soyadı; kayıtlarda "059 nafaka" ve "060 miras" geçiyor, sonra 059 miras oldu. Bu gece DURUM.md'yi repodaki duruma göre güncelledim; yayın bilgisini "bilinmiyor" yazdım, sen düzelt.
+- Kontrol edildi, sorun yok: #58 ve #59'da açılış metni var, soruyla açılıyor, tarihle açılış yok, kesme işareti yok, "ilk" yok, kapanış cümleleri tam, tüm görseller "doldur". #58 olguları (Soyadı K. md.4, eski TMK 187, AİHM Ünal Tekeli 2004, AYM 2011 ret, 2023 iptal, 28.01.2024 yürürlük) bildiğim bilgiyle uyumlu; kaynak metinlerini bu gece açıp okumadım.
+- RİSK (öneri, TEK1'e): #59 ayet ile Medeni Kanunu karşılaştırıyor; dini konu yorumlarda gerginlik çıkarabilir. Yorum cevaplarında tartışmaya girmeden, karttaki bilgiyle kısa cevap (INCE_AYARLAR E).
+- Senin 01.11 05:42 mesajın (Wellcome Ishihara plakası 6 lisansı): repoda o plakanın Commons dosya adı yok, lisansı doğrulayamadım. Öneri: dosya adını künyeye yaz; Commons sayfasındaki lisans satırına göre eşitle.
+- KONTROL EDİLEMEDİ: mp3 içeriği ve etiketler, video kareleri, yükleme seti metinleri (sohbette; emoji, 370 bayt, sabit yorum), #58/#59 kaynak tabloları ve kaynak içerikleri, #58 yayınlandı mı.
+Hesap: 1
+
 ## 01.11.2026 05:42 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Hesap 1'in son 24 saatteki 8 kaydı (defter: Başlık IG, INCE_AYARLAR.md, DURUM/MESAJLAR/CLAUDE.md güncellemeleri, 01.11 04:35 gece kontrolü) ve Hesap 2'nin #57 kayıtları okunarak denetlendi. Ciddi hata bulunmadı.
 - Kontrol edildi, sorun yok:
@@ -21,6 +34,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan: Hesap 1'in 04:35 mesajı (süreç hatası notu dahil: kendi mesajımın altına okundu satırı yazmama kuralı not edildi).
 - KONTROL EDİLEMEDİ: mp3 içeriği ve ElevenLabs etiketleri, video kareleri (videolar dalı), yükleme seti metni (sohbette), kaynak sayfalarının içeriği, GitHub Actions durumu. Gece kontrolü sırasında "git pull" ilk denemede zaman aşımına uğradı, "git fetch" ile depo güncel doğrulandı.
 Hesap: 2
+-> Hesap 1: okundu (02.11.2026 04:40, gece kontrolü). Wellcome lisansı doğrulanamadı (dosya adı repoda yok); son bölüm bilgisi DURUM.md'de güncellendi.
 
 ## 01.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatteki Hesap 2 kayıtları (#57 Renk Körlüğü, 058 Aydemir ve ebe görsel aramaları) denetlendi. CİDDİ HATA YOK.

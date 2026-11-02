@@ -1,8 +1,19 @@
-# DURUM — şu anki işler (son güncelleme: 01.11.2026 05:42, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 02.11.2026 04:40, Hesap 1 gece kontrolü)
 
-**SIRADAKİ VİDEO: #57 Renk Körlüğü (yapım aşamasında).** Köy ebeleri (eski #57) ve Nüfus cüzdanı sıraya sonra girer. Aydemir (058) rafta.
+**SON BÖLÜMLER: #58 Evli Kadının Soyadı ve #59 Miras (videolar hazır, yayın durumu DURUM'a yazılmamış).** Köy ebeleri ve Nüfus cüzdanı sıraya sonra girer. Aydemir rafta (numarası artık 058 değil). Nafaka konusu için belge/görsel turu yapıldı (01.11), durumu yazılmamış.
 
-## #57 Renk Körlüğü — video hazırlanıyor (01.11.2026)
+## #59 Miras — video hazır (02.11.2026, Hesap 2) [Hesap 1 gece kontrolüyle repodan yazıldı]
+- episodes/059_miras.json, 11 sahne, 191 kelime, ses 98,6 sn (TEK1 ElevenLabs). 'videolar' dalı 059_miras.mp4 (02.11 02:25).
+- Gece kontrolü notları (MESAJLAR 02.11 04:40): 059_sultanhani_koy 1. ve 10. sahnede iki kez; 3 görsel 042/045 videolarıyla aynı dosya; süre hedefin üstünde.
+- Yayın, yükleme seti, kaynak tablosu: bilgi yok (Hesap 2 yazmalı).
+
+## #58 Evli Kadının Soyadı — video hazır (01.11.2026, Hesap 2) [Hesap 1 gece kontrolüyle repodan yazıldı]
+- episodes/058_soyadi_kadin.json, 10 sahne, 170 kelime, ses 93,9 sn.
+- Gece kontrolü notları: 058_tbmm (Atatürk) ve 058_holiday 021 Soyadı videosunda kullanılmış; Tekeli cümlesinde "1930 Türkiye güzeli" fotoğrafı; süre hedefin üstünde.
+- Yayın, yükleme seti, kaynak tablosu: bilgi yok (Hesap 2 yazmalı).
+
+
+## #57 Renk Körlüğü — video hazır (01.11.2026; yayın durumu yazılmamış)
 - Konu TEK1 istedi. Metin ve kaynak tablosu TEK1 onaylı. Ses: TEK1 ElevenLabs (85,9 sn); TEK1 isteğiyle sesten "ilk" kelimesi, "Türk ordusu 941 erkek %7,3" cümlesi ve "En sık da kırmızı ile yeşili" cümlesi kesildi (75,3 sn). Kesim Hesap 2 tarafından yapıldı; orijinal ses 059_renk.mp3 git geçmişinde.
 - Hesap 1 denetimi (MESAJLAR 01.11 03:45) 7 madde: 1 "ilk" çıkarıldı, 2 görseller tam ekran, 3 tekrar giderildi (10 farklı görsel), 4 süre 75,3 sn, 5 adlandırma 057_* yapıldı, DIZIN yenilendi, 6 941 cümlesi çıkarıldı (tek çalışma, ikinci kaynak yok), 7 bu güncelleme.
 - Kaynaklar (Hesap 2 okudu): Royal Society (Dalton), Hunt ve ark. Science 1995 özeti, HathiTrust, NEI, MedlinePlus, Purves/NCBI, Ceyhan-Yaşar TOD 2011, StatPearls.
@@ -33,6 +44,7 @@
 ## Hatırlatmalar ve gece kontrolü (Hesap 1'de kurulu)
 - 13 Kasım KKTC, Sarıkamış (19 Aralık), Erzincan (24 Aralık). Gece kontrolü Hesap 1 her gün 04:32.
 - Hesap 2: gece kontrolü KURULDU (31.10, her gün 05:30 İstanbul, ilk çalışma 01.11 sabahı). Sadece MESAJLAR.md ve DURUM.md gönderir.
+- Hesap 1 gece kontrolü (02.11.2026 04:40): #58/#59 görsel tekrarı, süre ve DURUM eksikliği notları (MESAJLAR.md). TEK1 kararı gerekiyor.
 - Hesap 2 gece kontrolü (01.11.2026 05:42): ciddi hata yok; küçük not: 057 sahne 1 künyesinde Wellcome plakası "kamu malı", diğerleri "CC BY 4.0" (MESAJLAR.md).
 - Hesap 2 ilk denetim (31.10 18:30): Hesap 1'in son 24 saatinde hata yok. Ayrıntı MESAJLAR.md'de.
 
