@@ -94,13 +94,13 @@
     }
    ],
    "image": {
-    "local": "assets/belgeler/061_acilis.jpg",
+    "local": "assets/belgeler/061_kopru.jpg",
     "fit": "doldur",
-    "baslik": "İstanbulda peçeli ve çarşaflı kadınlar, 1900 dolayı · kartpostal, siyah-beyaza çevrildi · Library of Congress",
+    "baslik": "Galata Köprüsünde kadınlar, 1923 · Frank G. Carpenter · Library of Congress",
     "lisans": "",
-    "kaynak": "İstanbulda peçeli ve çarşaflı kadınlar, 1900 dolayı · kartpostal, siyah-beyaza çevrildi · Library of Congress",
+    "kaynak": "Galata Köprüsünde kadınlar, 1923 · Frank G. Carpenter · Library of Congress",
     "sayfa": "",
-    "hiz": 0.3
+    "hiz": 0.2
    },
    "scene": "photo"
   },
@@ -191,11 +191,11 @@
     }
    ],
    "image": {
-    "local": "assets/belgeler/061_kopru.jpg",
+    "local": "assets/belgeler/061_acilis.jpg",
     "fit": "doldur",
-    "baslik": "Galata Köprüsünde kadınlar, 1923 · Frank G. Carpenter · Library of Congress",
+    "baslik": "İstanbulda peçeli ve çarşaflı kadınlar, 1900 dolayı · kartpostal, siyah-beyaza çevrildi · Library of Congress",
     "lisans": "",
-    "kaynak": "Galata Köprüsünde kadınlar, 1923 · Frank G. Carpenter · Library of Congress",
+    "kaynak": "İstanbulda peçeli ve çarşaflı kadınlar, 1900 dolayı · kartpostal, siyah-beyaza çevrildi · Library of Congress",
     "sayfa": "",
     "hiz": 0.15
    },
@@ -237,7 +237,7 @@
     "lisans": "",
     "kaynak": "Üsküdar mezarlığında çarşaflı kadınlar, 1909 · Library of Congress",
     "sayfa": "",
-    "hiz": 0.2
+    "hiz": 0.15
    },
    "scene": "photo"
   },
@@ -277,7 +277,7 @@
     "lisans": "",
     "kaynak": "Hemşirelik öğrencileri, İstanbul, 1925 · Library of Congress",
     "sayfa": "",
-    "hiz": 0.2
+    "hiz": 0.15
    },
    "scene": "photo"
   },
@@ -311,7 +311,7 @@
     "lisans": "",
     "kaynak": "İstanbulda kadınlar, 1920 · Library of Congress",
     "sayfa": "",
-    "hiz": 0.2
+    "hiz": 0.15
    },
    "scene": "photo"
   },
