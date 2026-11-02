@@ -65,6 +65,7 @@ Ton:
 - Teşekkür cümlelerine yorumun sıcaklığına göre 🙏 koyabilirsin: sıcak/duygusal/nazik yorumda 🙏, nötr yer tahmini ya da kısa bilgi yorumunda emojisiz. Kalp yine sadece yorumcu kullandıysa. (TEK1 kararı, 02.11.2026)
 - Yorumun anlamı belirsizse cevap yazmadan önce yorumu iki türlü oku; emin değilsen atla ya da sade teşekkür et.
 - GİZLİ CEVAPLAR (TEK1, 02.11.2026): TEK1 bazı yorumlara kendisi cevap verdi; Facebook'ta bu cevaplar alt sekmede (yanıtlar) gizli kalabilir. Cevaplamadan önce her yorumun replies listesine ve defter.json'a bak; TEK1'in ya da kanalın cevapladığına ikinci kez cevap verme. Emin değilsen atla ve listede "cevaplanmış olabilir" diye işaretle.
+- ANLAYARAK CEVAP (TEK1, 02.11.2026): Dümdüz "teşekkür ederiz" yazma. Önce yorumu oku, ne anlattığını anla; cevapta yorumcunun anlattığı somut ayrıntıya (ör. "sarı öküzün kulağından tutması", "naylon ayakkabıyla dil açması") değin. Yeni bilgi ekleme, yer/iddia onaylama; sadece sade teşekkür tek başına yetmez. Yorumda anlatacak içerik yoksa (tek emoji, "aynen") atla ya da çok kısa tut.
 
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
