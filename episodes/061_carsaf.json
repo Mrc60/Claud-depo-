@@ -1,0 +1,416 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 61,
+ "slug": "carsaf",
+ "title": "Çarşaf Neden Yasaklandı",
+ "youtube_title": "Çarşaf neden yasaklandı? #SıradanDeğil 61",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Çarşaf neden\nyasaklandı?",
+ "dis_ses": {
+  "file": "assets/ses/061_carsaf.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     9.05
+    ]
+   ],
+   [
+    [
+     9.05,
+     17.6
+    ]
+   ],
+   [
+    [
+     17.6,
+     24.33
+    ]
+   ],
+   [
+    [
+     24.33,
+     33.36
+    ]
+   ],
+   [
+    [
+     33.36,
+     45.09
+    ]
+   ],
+   [
+    [
+     45.09,
+     58.23
+    ]
+   ],
+   [
+    [
+     58.23,
+     69.78
+    ]
+   ],
+   [
+    [
+     69.78,
+     77.78
+    ]
+   ],
+   [
+    [
+     77.78,
+     84.65
+    ]
+   ],
+   [
+    [
+     84.65,
+     101.72
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir kadının çarşafı neden yasaklanır? Bu soru hem Osmanlıda hem Cumhuriyette soruldu, ama cevaplar çok farklıydı.",
+   "caption": "Bir kadının çarşafı neden yasaklanır? Bu soru hem Osmanlıda hem Cumhuriyette soruldu, ama cevaplar çok farklıydı.",
+   "key": [
+    "neden yasaklanır"
+   ],
+   "bolumler": [
+    {
+     "start": 0.05,
+     "end": 2.58,
+     "n": 5
+    },
+    {
+     "start": 3.35,
+     "end": 8.73,
+     "n": 11
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_acilis.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda peçeli ve çarşaflı kadınlar, 1900 dolayı · kartpostal, siyah-beyaza çevrildi · Library of Congress",
+    "lisans": "",
+    "kaynak": "İstanbulda peçeli ve çarşaflı kadınlar, 1900 dolayı · kartpostal, siyah-beyaza çevrildi · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.3
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Osmanlıda kadınlar sokağa feraceyle çıkardı. Ama ferace zamanla modaya dönüştü. Yakalar büyüdü, renkler açıldı.",
+   "caption": "Osmanlıda kadınlar sokağa feraceyle çıkardı. Ama ferace zamanla modaya dönüştü. Yakalar büyüdü, renkler açıldı.",
+   "key": [
+    "ferace"
+   ],
+   "bolumler": [
+    {
+     "start": 9.38,
+     "end": 12.27,
+     "n": 5
+    },
+    {
+     "start": 12.66,
+     "end": 14.84,
+     "n": 5
+    },
+    {
+     "start": 15.09,
+     "end": 17.31,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_yasmak.jpg",
+    "fit": "doldur",
+    "baslik": "Ferace: sokakta giyilen uzun üstlük · İstanbul, 1869 · Abdullah Frères · Library of Congress",
+    "lisans": "",
+    "kaynak": "Ferace: sokakta giyilen uzun üstlük · İstanbul, 1869 · Abdullah Frères · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Lale Devrinde İstanbulda bir ferman çıktı. Ferace yakası bir karıştan büyük olmayacaktı.",
+   "caption": "Lale Devrinde İstanbulda bir ferman çıktı. Ferace yakası bir karıştan büyük olmayacaktı.",
+   "key": [
+    "bir karıştan"
+   ],
+   "bolumler": [
+    {
+     "start": 17.89,
+     "end": 20.56,
+     "n": 6
+    },
+    {
+     "start": 20.92,
+     "end": 24.06,
+     "n": 6
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_istanbul1873.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul kıyafetleri, 1873 · Elbise-i Osmaniyye, Sébah · Library of Congress",
+    "lisans": "",
+    "kaynak": "İstanbul kıyafetleri, 1873 · Elbise-i Osmaniyye, Sébah · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki uymayanlara ne olacaktı? Yakası sokakta kesilecek, elbisesi yırtılacaktı. Israr eden başka şehre sürülecekti.",
+   "caption": "Peki uymayanlara ne olacaktı? Yakası sokakta kesilecek, elbisesi yırtılacaktı. Israr eden başka şehre sürülecekti.",
+   "key": [
+    "sokakta kesilecek"
+   ],
+   "bolumler": [
+    {
+     "start": 24.6,
+     "end": 26.54,
+     "n": 4
+    },
+    {
+     "start": 27.08,
+     "end": 30.33,
+     "n": 5
+    },
+    {
+     "start": 30.81,
+     "end": 33.02,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_kopru.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Köprüsünde kadınlar, 1923 · Frank G. Carpenter · Library of Congress",
+    "lisans": "",
+    "kaynak": "Galata Köprüsünde kadınlar, 1923 · Frank G. Carpenter · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sonra çarşaf yaygınlaştı. 1892de İkinci Abdülhamid çarşafı yasakladı. Gerekçesi güvenlikti: Bazı erkekler çarşafa girip kimliğini gizliyordu.",
+   "caption": "Sonra çarşaf yaygınlaştı. 1892de İkinci Abdülhamid çarşafı yasakladı. Gerekçesi güvenlikti: Bazı erkekler çarşafa girip kimliğini gizliyordu.",
+   "key": [
+    "çarşafı yasakladı",
+    "güvenlikti"
+   ],
+   "bolumler": [
+    {
+     "start": 33.69,
+     "end": 35.48,
+     "n": 3
+    },
+    {
+     "start": 35.9,
+     "end": 39.68,
+     "n": 5
+    },
+    {
+     "start": 40.06,
+     "end": 41.42,
+     "n": 2
+    },
+    {
+     "start": 41.87,
+     "end": 44.8,
+     "n": 6
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_uskudar.jpg",
+    "fit": "doldur",
+    "baslik": "Üsküdar mezarlığında çarşaflı kadınlar, 1909 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Üsküdar mezarlığında çarşaflı kadınlar, 1909 · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.2
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki Cumhuriyette ne değişti? Ülke çapında bir yasak çıkmadı, karar yerel yönetimlere kaldı. Yöneticilere göre peçe ve çarşaf geri kalmışlığın simgesiydi. Amaç modernleşmekti.",
+   "caption": "Peki Cumhuriyette ne değişti? Ülke çapında bir yasak çıkmadı, karar yerel yönetimlere kaldı. Yöneticilere göre peçe ve çarşaf geri kalmışlığın simgesiydi. Amaç modernleşmekti.",
+   "key": [
+    "Cumhuriyette",
+    "modernleşmekti"
+   ],
+   "bolumler": [
+    {
+     "start": 45.38,
+     "end": 47.38,
+     "n": 4
+    },
+    {
+     "start": 47.95,
+     "end": 51.88,
+     "n": 9
+    },
+    {
+     "start": 52.41,
+     "end": 56.26,
+     "n": 8
+    },
+    {
+     "start": 56.67,
+     "end": 58.04,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_hemsire.jpg",
+    "fit": "doldur",
+    "baslik": "Hemşirelik öğrencileri, İstanbul, 1925 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Hemşirelik öğrencileri, İstanbul, 1925 · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.2
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve belediye meclisleri devreye girdi. Adanadan Konyaya, Trabzondan Maraşa, birçok yerde peçe ve çarşaf yasaklandı. Uymayanlara para cezası kesildi.",
+   "caption": "Ve belediye meclisleri devreye girdi. Adanadan Konyaya, Trabzondan Maraşa, birçok yerde peçe ve çarşaf yasaklandı. Uymayanlara para cezası kesildi.",
+   "key": [
+    "para cezası"
+   ],
+   "bolumler": [
+    {
+     "start": 58.43,
+     "end": 60.69,
+     "n": 5
+    },
+    {
+     "start": 61.23,
+     "end": 67.0,
+     "n": 10
+    },
+    {
+     "start": 67.6,
+     "end": 69.53,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_grup1920.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda kadınlar, 1920 · Library of Congress",
+    "lisans": "",
+    "kaynak": "İstanbulda kadınlar, 1920 · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.2
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama birçok kadın yine de peçe ve çarşafla sokağa çıktı. Bazıları yüzünü peçe yerine şemsiyeyle kapattı.",
+   "caption": "Ama birçok kadın yine de peçe ve çarşafla sokağa çıktı. Bazıları yüzünü peçe yerine şemsiyeyle kapattı.",
+   "key": [
+    "şemsiyeyle"
+   ],
+   "bolumler": [
+    {
+     "start": 70.03,
+     "end": 73.69,
+     "n": 10
+    },
+    {
+     "start": 74.27,
+     "end": 77.51,
+     "n": 6
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_yasli.jpg",
+    "fit": "doldur",
+    "baslik": "Örtülü yaşlı kadın, İstanbul, 1919 · Amerikan Kızılhaçı · Library of Congress",
+    "lisans": "",
+    "kaynak": "Örtülü yaşlı kadın, İstanbul, 1919 · Amerikan Kızılhaçı · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yani iki yüzyıl içinde kurallar tam tersine döndü. Ama kuralı koyan hep başkalarıydı.",
+   "caption": "Yani iki yüzyıl içinde kurallar tam tersine döndü. Ama kuralı koyan hep başkalarıydı.",
+   "key": [
+    "hep başkalarıydı"
+   ],
+   "bolumler": [
+    {
+     "start": 78.05,
+     "end": 81.67,
+     "n": 8
+    },
+    {
+     "start": 82.19,
+     "end": 84.34,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_trabzon.jpg",
+    "fit": "doldur",
+    "baslik": "Trabzon kıyafetleri, 1873 · Elbise-i Osmaniyye, Sébah · Library of Congress",
+    "lisans": "",
+    "kaynak": "Trabzon kıyafetleri, 1873 · Elbise-i Osmaniyye, Sébah · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Siz o dönemde yaşasaydınız, bu yasaklara tepkiniz ne olurdu? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Siz o dönemde yaşasaydınız, bu yasaklara tepkiniz ne olurdu? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "tepkiniz ne olurdu"
+   ],
+   "bolumler": [
+    {
+     "start": 84.96,
+     "end": 88.9,
+     "n": 9
+    },
+    {
+     "start": 89.43,
+     "end": 91.39,
+     "n": 3
+    },
+    {
+     "start": 91.77,
+     "end": 94.27,
+     "n": 4
+    },
+    {
+     "start": 94.63,
+     "end": 101.62,
+     "n": 15
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/061_ankara.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara kıyafetleri, 1873 · Elbise-i Osmaniyye, Sébah · Library of Congress",
+    "lisans": "",
+    "kaynak": "Ankara kıyafetleri, 1873 · Elbise-i Osmaniyye, Sébah · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  }
+ ]
+}
