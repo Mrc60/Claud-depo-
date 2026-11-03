@@ -52,3 +52,10 @@
 - #55 Tuz yayınlandı; TikTok'ta 3 yorum cevabı + IG'de TEK1'in elle cevabı deftere işlendi.
 - TikTok açıklamaları emojisiz yeniden verildi: Faiz Kapanı, Bekârlık, Devrim, Ege.
 - İki hesap düzeni kuruldu (CLAUDE.md 2a, HAFIZA.md, MESAJLAR.md, beceriler/).
+
+## FB PARA KAZANMA DURUMU (03.11.2026, TEK1 ekran görüntüsü, Hesap 2)
+- Sayfa durumu: sorun yok, Tavsiyeler aktif.
+- Yıldızlar: 3/4 şart tamam; eksik: 500 takipçiyi 30 gün korumak (03.11'de 16. gün, ~17.11'de dolar).
+- İçeriklerden para kazanma: bekleme listesi (davetle). Son 28 gün: ort. Reels izlenme 29,5 sn (hedef 33,3 sn), toplam görüntüleme 1,7 Mn (hedef 10 Mn).
+- #62 Savaşlar FB'de takipçi olmayanlara hiç önerilmedi (tahmin: siyasi/hassas konu). FB için savaş/din/siyaset konusu seçme.
+- #63 Düğün: senaryo, 14 görsel, set taslağı hazır (dal ccr-hesap2-dugun); TEK1'in mp3'ü bekleniyor.
