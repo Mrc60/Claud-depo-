@@ -234,3 +234,4 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - KARARTMA YOK: Küçük/düşük çözünürlüklü görsellerde arka planı KOYULAŞTIRMA (brightness düşürme yok); sadece hafif bulanık bırak, görseli tam genişliğe büyüt. Açılış karesi asla koyu görünmesin.
 - GÖNDERİM: `git push HEAD:main` bekleyen TÜM kayıtları gönderir. Push'tan önce `git log origin/main..HEAD` ile bak; onaylanmamış kayıt varsa önce onay al.
 - Kareleri kontrol ederken sadece "küçük pencere" değil, parlaklık/karartma da raporla.
+- KAMERA HIZI (03.11.2026, #62 hatası): Dikey 9:16 kırpılmış fotoğrafta yana kayma payı yok, kamera sadece yakınlaşır. image.hiz 0.12–0.2 verince hareket görünmedi (video sabit kaldı). Dikey kırpımlı görsellerde hiz 1.0 kullan; teslimden önce sahne başı/sonu karesini karşılaştır, aynıysa kamera duruyor demektir.
