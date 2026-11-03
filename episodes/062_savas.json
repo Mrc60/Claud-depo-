@@ -1,200 +1,200 @@
 {
- "series": "Sıradan Değil",
- "voice": "ana",
- "takip_cagrisi": false,
- "episode": 62,
- "slug": "savas",
- "title": "Savaşlar Neden Müslüman Ülkelerde",
- "youtube_title": "Savaşlar neden Müslüman ülkelerde? #SıradanDeğil 62",
- "youtube_description": "",
- "sources": [],
- "acilis": "Savaşlar neden\nMüslüman ülkelerde?",
- "dis_ses": {
-  "file": "assets/ses/062_savas.mp3",
-  "kesimler": []
- },
- "segments": [
-  {
-   "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
-   "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
-   "key": [
-    "savaş haberlerinin"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_bagdat1917.jpg",
-    "fit": "doldur",
-    "baslik": "İngiliz askerleri Bağdatta, 11 Mart 1917 · Bain News Service · Library of Congress",
-    "lisans": "",
-    "kaynak": "İngiliz askerleri Bağdatta, 11 Mart 1917 · Bain News Service · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.2
-   },
-   "scene": "photo"
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "episode": 62,
+  "slug": "savas",
+  "title": "Savaşlar Neden Müslüman Ülkelerde",
+  "youtube_title": "Savaşlar neden Müslüman ülkelerde? #SıradanDeğil 62",
+  "youtube_description": "",
+  "sources": [],
+  "acilis": "Savaşlar neden\nMüslüman ülkelerde?",
+  "dis_ses": {
+    "file": "assets/ses/062_savas.mp3",
+    "kesimler": []
   },
-  {
-   "say": "Norveçteki Oslo Barış Araştırmaları Enstitüsü, İkinci Dünya Savaşından bu yana yaşanan iç savaşları inceledi.",
-   "caption": "Norveçteki Oslo Barış Araştırmaları Enstitüsü, İkinci Dünya Savaşından bu yana yaşanan iç savaşları inceledi.",
-   "key": [
-    "Oslo"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_bagdat1932.jpg",
-    "fit": "doldur",
-    "baslik": "Bağdat, 1932 · American Colony · Library of Congress",
-    "lisans": "",
-    "kaynak": "Bağdat, 1932 · American Colony · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Soğuk Savaş, yani Amerika ile Sovyetler arasındaki yarış bitince, dünyadaki iç savaşlar yaklaşık yarıya indi. Ama Müslüman ülkelerdeki savaşlar bitmedi. Bu yüzden son yıllarda iç savaşların neredeyse hepsi bu ülkelerde.",
-   "caption": "Soğuk Savaş, yani Amerika ile Sovyetler arasındaki yarış bitince, dünyadaki iç savaşlar yaklaşık yarıya indi. Ama Müslüman ülkelerdeki savaşlar bitmedi. Bu yüzden son yıllarda iç savaşların neredeyse hepsi bu ülkelerde.",
-   "key": [
-    "yarıya indi"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_afganistan.jpg",
-    "fit": "doldur",
-    "baslik": "Afganistanda koalisyon askerleri, 2002 dolayı · ABD Savunma Bakanlığı, kamu malı (siyah-beyaza çevrildi)",
-    "lisans": "",
-    "kaynak": "Afganistanda koalisyon askerleri, 2002 dolayı · ABD Savunma Bakanlığı, kamu malı (siyah-beyaza çevrildi)",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Peki bu savaşların kökü nerede? Bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiltere ve Fransa gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
-   "caption": "Peki bu savaşların kökü nerede? Bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiltere ve Fransa gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
-   "key": [
-    "Sykes",
-    "Picot"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_harita.jpg",
-    "fit": "doldur",
-    "baslik": "Sykes-Picot haritası, 8 Mayıs 1916 (harita) · İngiliz Ulusal Arşivi MPK1-426, kamu malı",
-    "lisans": "",
-    "kaynak": "Sykes-Picot haritası, 8 Mayıs 1916 (harita) · İngiliz Ulusal Arşivi MPK1-426, kamu malı",
-    "sayfa": "",
-    "hiz": 0.12
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Anlaşma bir yıl sonra ortaya çıktı: 1917de Rusyada devrim yapan yeni yönetim, belgeleri gazetede yayımladı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti. Yani sınırları bölge halkı değil, bu iki ülke çizdi.",
-   "caption": "Anlaşma bir yıl sonra ortaya çıktı: 1917de Rusyada devrim yapan yeni yönetim, belgeleri gazetede yayımladı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti. Yani sınırları bölge halkı değil, bu iki ülke çizdi.",
-   "key": [
-    "gazetede"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_kudus1917.jpg",
-    "fit": "doldur",
-    "baslik": "Allenbynin Kudüse girişi, 11 Aralık 1917 · American Colony · Library of Congress",
-    "lisans": "",
-    "kaynak": "Allenbynin Kudüse girişi, 11 Aralık 1917 · American Colony · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Sonra petrol devreye girdi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında da İran ve Suudi Arabistan karşı tarafları destekledi.",
-   "caption": "Sonra petrol devreye girdi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında da İran ve Suudi Arabistan karşı tarafları destekledi.",
-   "key": [
-    "petrol"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_petrol.jpg",
-    "fit": "doldur",
-    "baslik": "Kerkükte yanan petrol kuyusu, 1932 · Library of Congress",
-    "lisans": "",
-    "kaynak": "Kerkükte yanan petrol kuyusu, 1932 · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "2001de Afganistana, 2003te Iraka yapılan müdahalelerden sonra çatışmalar daha da arttı.",
-   "caption": "2001de Afganistana, 2003te Iraka yapılan müdahalelerden sonra çatışmalar daha da arttı.",
-   "key": [
-    "müdahalelerden"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_bagdat2003.jpg",
-    "fit": "doldur",
-    "baslik": "Bağdatta ABD tankı, Nisan 2003 · ABD Deniz Piyadeleri, kamu malı (siyah-beyaza çevrildi)",
-    "lisans": "",
-    "kaynak": "Bağdatta ABD tankı, Nisan 2003 · ABD Deniz Piyadeleri, kamu malı (siyah-beyaza çevrildi)",
-    "sayfa": "",
-    "hiz": 0.12
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Peki sorun İslamda mı? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Saydıkları sebeplerin çoğu ise din dışında: sınırlar, petrol, müdahaleler ve yoksulluk.",
-   "caption": "Peki sorun İslamda mı? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Saydıkları sebeplerin çoğu ise din dışında: sınırlar, petrol, müdahaleler ve yoksulluk.",
-   "key": [
-    "din dışında"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_saraybosna.jpg",
-    "fit": "doldur",
-    "baslik": "Saraybosnada akşam namazı, 1919 · Library of Congress",
-    "lisans": "",
-    "kaynak": "Saraybosnada akşam namazı, 1919 · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Ve en acı gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşlarda en çok acı çeken yine Müslümanlar.",
-   "caption": "Ve en acı gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşlarda en çok acı çeken yine Müslümanlar.",
-   "key": [
-    "yüzde 94ü"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_cami_aileler.jpg",
-    "fit": "doldur",
-    "baslik": "Üç yıldır yüz ailenin barındığı bir cami, 1919 · Library of Congress",
-    "lisans": "",
-    "kaynak": "Üç yıldır yüz ailenin barındığı bir cami, 1919 · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  },
-  {
-   "say": "Sizce bu savaşların en büyük sebebi ne? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "caption": "Sizce bu savaşların en büyük sebebi ne? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "key": [
-    "en büyük sebebi"
-   ],
-   "bolumler": [],
-   "image": {
-    "local": "assets/belgeler/062_bagdat_kutlama.jpg",
-    "fit": "doldur",
-    "baslik": "Irakın Milletler Cemiyetine girişi kutlaması, Bağdat, 1932 · American Colony · Library of Congress",
-    "lisans": "",
-    "kaynak": "Irakın Milletler Cemiyetine girişi kutlaması, Bağdat, 1932 · American Colony · Library of Congress",
-    "sayfa": "",
-    "hiz": 0.15
-   },
-   "scene": "photo"
-  }
- ],
- "not_": "TASLAK: ses gelince kesimler ve bolumler doldurulacak (Hesap 2)"
+  "segments": [
+    {
+      "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
+      "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
+      "key": [
+        "savaş haberlerinin"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_bagdat1917.jpg",
+        "fit": "doldur",
+        "baslik": "İngiliz askerleri Bağdatta, 11 Mart 1917 · Bain News Service · Library of Congress",
+        "lisans": "",
+        "kaynak": "İngiliz askerleri Bağdatta, 11 Mart 1917 · Bain News Service · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.2
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Norveçteki Oslo Barış Araştırmaları Enstitüsü, İkinci Dünya Savaşından bu yana yaşanan iç savaşları inceledi.",
+      "caption": "Norveçteki Oslo Barış Araştırmaları Enstitüsü, İkinci Dünya Savaşından bu yana yaşanan iç savaşları inceledi.",
+      "key": [
+        "Oslo"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_bagdat1932.jpg",
+        "fit": "doldur",
+        "baslik": "Bağdat, 1932 · American Colony · Library of Congress",
+        "lisans": "",
+        "kaynak": "Bağdat, 1932 · American Colony · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Soğuk Savaş, yani Amerika ile Sovyetler arasındaki yarış bitince, dünyadaki iç savaşlar yaklaşık yarıya indi. Ama Müslüman ülkelerdeki savaşlar bitmedi. Bu yüzden son yıllarda iç savaşların neredeyse hepsi bu ülkelerde.",
+      "caption": "Soğuk Savaş, yani Amerika ile Sovyetler arasındaki yarış bitince, dünyadaki iç savaşlar yaklaşık yarıya indi. Ama Müslüman ülkelerdeki savaşlar bitmedi. Bu yüzden son yıllarda iç savaşların neredeyse hepsi bu ülkelerde.",
+      "key": [
+        "yarıya indi"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_afganistan.jpg",
+        "fit": "doldur",
+        "baslik": "Afganistanda koalisyon askerleri, 2002 dolayı · ABD Savunma Bakanlığı, kamu malı (siyah-beyaza çevrildi)",
+        "lisans": "",
+        "kaynak": "Afganistanda koalisyon askerleri, 2002 dolayı · ABD Savunma Bakanlığı, kamu malı (siyah-beyaza çevrildi)",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Peki bu savaşların kökü nerede? Bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiltere ve Fransa gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
+      "caption": "Peki bu savaşların kökü nerede? Bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiltere ve Fransa gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
+      "key": [
+        "Sykes",
+        "Picot"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_harita.jpg",
+        "fit": "doldur",
+        "baslik": "Sykes-Picot haritası, 8 Mayıs 1916 (harita) · İngiliz Ulusal Arşivi MPK1-426, kamu malı",
+        "lisans": "",
+        "kaynak": "Sykes-Picot haritası, 8 Mayıs 1916 (harita) · İngiliz Ulusal Arşivi MPK1-426, kamu malı",
+        "sayfa": "",
+        "hiz": 0.12
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Anlaşma bir yıl sonra ortaya çıktı: 1917de Rusyada devrim yapan yeni yönetim, belgeleri gazetede yayımladı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti. Yani sınırları bölge halkı değil, bu iki ülke çizdi.",
+      "caption": "Anlaşma bir yıl sonra ortaya çıktı: 1917de Rusyada devrim yapan yeni yönetim, belgeleri gazetede yayımladı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti. Yani sınırları bölge halkı değil, bu iki ülke çizdi.",
+      "key": [
+        "gazetede"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_kudus1917.jpg",
+        "fit": "doldur",
+        "baslik": "Allenbynin Kudüse girişi, 11 Aralık 1917 · American Colony · Library of Congress",
+        "lisans": "",
+        "kaynak": "Allenbynin Kudüse girişi, 11 Aralık 1917 · American Colony · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Sonra petrol devreye girdi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında İran, Esad hükümetini; Suudi Arabistan ise hükümete karşı savaşan muhalifleri destekledi. 2015te Rusya da hükümetin yanında savaşa girdi. Yani bu bir din kavgası değil, bölgede güç kavgasıydı.",
+      "caption": "Sonra petrol devreye girdi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında İran, Esad hükümetini; Suudi Arabistan ise hükümete karşı savaşan muhalifleri destekledi. 2015te Rusya da hükümetin yanında savaşa girdi. Yani bu bir din kavgası değil, bölgede güç kavgasıydı.",
+      "key": [
+        "petrol"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_petrol.jpg",
+        "fit": "doldur",
+        "baslik": "Kerkükte yanan petrol kuyusu, 1932 · Library of Congress",
+        "lisans": "",
+        "kaynak": "Kerkükte yanan petrol kuyusu, 1932 · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "2001de Afganistana, 2003te Iraka yapılan müdahalelerden sonra çatışmalar daha da arttı.",
+      "caption": "2001de Afganistana, 2003te Iraka yapılan müdahalelerden sonra çatışmalar daha da arttı.",
+      "key": [
+        "müdahalelerden"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_bagdat2003.jpg",
+        "fit": "doldur",
+        "baslik": "Bağdatta ABD tankı, Nisan 2003 · ABD Deniz Piyadeleri, kamu malı (siyah-beyaza çevrildi)",
+        "lisans": "",
+        "kaynak": "Bağdatta ABD tankı, Nisan 2003 · ABD Deniz Piyadeleri, kamu malı (siyah-beyaza çevrildi)",
+        "sayfa": "",
+        "hiz": 0.12
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Peki sorun İslamda mı? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Saydıkları sebeplerin çoğu ise din dışında: sınırlar, petrol, müdahaleler ve yoksulluk.",
+      "caption": "Peki sorun İslamda mı? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Saydıkları sebeplerin çoğu ise din dışında: sınırlar, petrol, müdahaleler ve yoksulluk.",
+      "key": [
+        "din dışında"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_saraybosna.jpg",
+        "fit": "doldur",
+        "baslik": "Saraybosnada akşam namazı, 1919 · Library of Congress",
+        "lisans": "",
+        "kaynak": "Saraybosnada akşam namazı, 1919 · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Ve en acı gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşlarda en çok acı çeken yine Müslümanlar.",
+      "caption": "Ve en acı gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşlarda en çok acı çeken yine Müslümanlar.",
+      "key": [
+        "yüzde 94ü"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_cami_aileler.jpg",
+        "fit": "doldur",
+        "baslik": "Üç yıldır yüz ailenin barındığı bir cami, 1919 · Library of Congress",
+        "lisans": "",
+        "kaynak": "Üç yıldır yüz ailenin barındığı bir cami, 1919 · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Sizce bu savaşların en büyük sebebi ne? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+      "caption": "Sizce bu savaşların en büyük sebebi ne? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+      "key": [
+        "en büyük sebebi"
+      ],
+      "bolumler": [],
+      "image": {
+        "local": "assets/belgeler/062_bagdat_kutlama.jpg",
+        "fit": "doldur",
+        "baslik": "Irakın Milletler Cemiyetine girişi kutlaması, Bağdat, 1932 · American Colony · Library of Congress",
+        "lisans": "",
+        "kaynak": "Irakın Milletler Cemiyetine girişi kutlaması, Bağdat, 1932 · American Colony · Library of Congress",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    }
+  ],
+  "not_": "TASLAK: ses gelince kesimler ve bolumler doldurulacak (Hesap 2)"
 }
