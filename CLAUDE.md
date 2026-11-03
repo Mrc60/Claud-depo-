@@ -10,7 +10,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - Instagram: @siradandegill
   - Facebook
 - Repo: github.com/Mrc60/Claud-depo-
-- Günde 2 video: sabah ve akşam 18:00.
+- Günde 2 video: 12:00 ve 16:00, tüm platformlarda (TEK1 kararı, 04.11.2026; 1 haftalık deneme, 11.11'de istatistik dalıyla karşılaştır). Eski düzen: sabah ~07:00 ve akşam 18:00. Veri: 18-21 arası TikTok/IG'de en zayıf, 12-17 arası en iyi.
 - İletişim Türkçe, kısa ve sade. Emin değilsen "emin değilim" de, hatanı kendin söyle.
 
 ## 2. GENEL ÇALIŞMA KURALLARI

@@ -95,3 +95,4 @@
 - İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
 - ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.
 - ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
+- Günde 2 video: 12:00 ve 16:00, tüm platformlarda (TEK1 kararı, 04.11.2026; 1 haftalık deneme, 11.11'de istatistik dalıyla karşılaştır). Eski düzen: sabah ~07:00 ve akşam 18:00. Veri: 18-21 arası TikTok/IG'de en zayıf, 12-17 arası en iyi.

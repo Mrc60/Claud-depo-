@@ -62,3 +62,6 @@
 - 16-28 Ekim hitleri (kibrit 385B, Lozan 250B, bisiklet 198B, Adana 155B, yol parası 101B) gündelik eşya + eski yasak/vergi formatında; 29 Ekim'den beri hiçbir video 12B'yi geçmedi. Öneri: bu formata dön.
 - FB'de sabah videosu 15:00, akşam 18:00 önerildi. FB oynatma listesi "Cumhuriyetle Değişen Hayat" açıldı (12 video).
 - #62 Savaşlar ve #63 Düğün: video bitti (dallar ccr-hesap2-savas, ccr-hesap2-dugun). #63 yükleme seti TEK1 onayı bekliyor.
+
+## PAYLAŞIM SAATİ DENEMESİ (04.11.2026, TEK1 kararı)
+- 4-10 Kasım: 1. video 12:00, 2. video 16:00, tüm platformlar. 11 Kasım'da istatistik dalındaki ozet.md ile eski saatleri (07:00/18:00) karşılaştır.
