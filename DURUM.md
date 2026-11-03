@@ -54,3 +54,11 @@
 - #55 Tuz yayınlandı; TikTok'ta 3 yorum cevabı + IG'de TEK1'in elle cevabı deftere işlendi.
 - TikTok açıklamaları emojisiz yeniden verildi: Faiz Kapanı, Bekârlık, Devrim, Ege.
 - İki hesap düzeni kuruldu (CLAUDE.md 2a, HAFIZA.md, MESAJLAR.md, beceriler/).
+
+## FB PARA KAZANMA DURUMU (03.11.2026, TEK1 ekran görüntüsü, Hesap 2)
+- Sayfa durumu: sorun yok, Tavsiyeler aktif. Takipçi 7.586 (Zernio).
+- Yıldızlar: 3/4 şart tamam; eksik: 500 takipçiyi 30 gün korumak (03.11'de 16. gün, ~17.11'de dolar).
+- İçeriklerden para kazanma: bekleme listesi (davetle). Son 28 gün: ort. Reels izlenme 29,5 sn (hedef 33,3 sn), toplam görüntüleme 1,7 Mn (hedef 10 Mn).
+- 16-28 Ekim hitleri (kibrit 385B, Lozan 250B, bisiklet 198B, Adana 155B, yol parası 101B) gündelik eşya + eski yasak/vergi formatında; 29 Ekim'den beri hiçbir video 12B'yi geçmedi. Öneri: bu formata dön.
+- FB'de sabah videosu 15:00, akşam 18:00 önerildi. FB oynatma listesi "Cumhuriyetle Değişen Hayat" açıldı (12 video).
+- #62 Savaşlar ve #63 Düğün: video bitti (dallar ccr-hesap2-savas, ccr-hesap2-dugun). #63 yükleme seti TEK1 onayı bekliyor.

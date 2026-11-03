@@ -118,6 +118,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - KONTROL.PY (TEK1 kararı, 02.11.2026): Teslimden önce MUTLAKA çalıştır: `python3 kontrol.py metin senaryo.txt` (ses metni), `python3 kontrol.py bolum episodes/NNN_x.json` (görsel tekrarı, tam ekran, süre, sahne ≥6 sn), `python3 kontrol.py set set.txt` (yükleme seti; alanlar "=== YT_BASLIK ===" gibi başlıklarla). HATA varsa teslim etme. Süre 75 üstü sadece UYARI, TEK1e bir cümleyle söyle. md5 farklı kırpımla indirilen aynı fotoğrafı yakalamaz, panoda göz kontrolü yine şart. Sonuç satırını teslimde yaz.
 - TESLİMDEN ÖNCE ZORUNLU KONTROL: Seti göndermeden önce tüm blokları python ile tara: emoji var mı, · var mı, FB/IG açıklaması ≤370 bayt mı, açıklamada link/"beğen"/"paylaş" var mı. Sonucu teslimde tek satırla yaz. Seti TEK SEFERDE, tüm alanlar eksiksiz ver; parça parça düzeltme gönderme.
 - Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
+- ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
 - Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
 
 ## 8. YORUM CEVAPLARI
@@ -233,3 +234,6 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - KARARTMA YOK: Küçük/düşük çözünürlüklü görsellerde arka planı KOYULAŞTIRMA (brightness düşürme yok); sadece hafif bulanık bırak, görseli tam genişliğe büyüt. Açılış karesi asla koyu görünmesin.
 - GÖNDERİM: `git push HEAD:main` bekleyen TÜM kayıtları gönderir. Push'tan önce `git log origin/main..HEAD` ile bak; onaylanmamış kayıt varsa önce onay al.
 - Kareleri kontrol ederken sadece "küçük pencere" değil, parlaklık/karartma da raporla.
+- KAMERA HIZI (03.11.2026, #62 hatası): Dikey 9:16 kırpılmış fotoğrafta yana kayma payı yok, kamera sadece yakınlaşır. image.hiz 0.12–0.2 verince hareket görünmedi (video sabit kaldı). Dikey kırpımlı görsellerde hiz 1.0 kullan; teslimden önce sahne başı/sonu karesini karşılaştır, aynıysa kamera duruyor demektir.
+- İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
+- ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.

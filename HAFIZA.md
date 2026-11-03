@@ -91,3 +91,7 @@
 - ChatGPT Go planında (Google Drive desteklemiyor).
 - Araştırma ekibi: Manus, Perplexity, Grok, ChatGPT, Base44; Claude doğrulayan ve birleştiren merkez.
 - Uzun video fikri (haftada 2) ve İngilizce ikinci kanal fikri beklemede.
+- KAMERA HIZI (03.11.2026, #62 hatası): Dikey 9:16 kırpılmış fotoğrafta yana kayma payı yok, kamera sadece yakınlaşır. image.hiz 0.12–0.2 verince hareket görünmedi (video sabit kaldı). Dikey kırpımlı görsellerde hiz 1.0 kullan; teslimden önce sahne başı/sonu karesini karşılaştır, aynıysa kamera duruyor demektir.
+- İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
+- ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.
+- ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
