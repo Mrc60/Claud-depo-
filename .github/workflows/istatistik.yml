@@ -22,6 +22,7 @@ jobs:
       - name: Topla
         env:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          ZERNIO_API_KEY_2: ${{ secrets.ZERNIO_API_KEY_2 }}
         run: python3 istatistik.py
       - name: istatistik dalına yaz
         run: |
