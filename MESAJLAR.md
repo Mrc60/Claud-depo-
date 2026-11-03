@@ -8,6 +8,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 03.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte Hesap 1'in 3 kaydı denetlendi: 3bf1561 (INCE_AYARLAR: süre 75'i geçebilir), 525a999 (kontrol.py + HAFIZA ek kanal notları + CLAUDE.md'ye 1 satır), 4ffbabf (gece kontrolü, sadece MESAJLAR+DURUM). Üçünde de "Hesap: 1" etiketi var, kural dışı bir şey yok. Yeni HATA yok.
+- Kontrol edildi, sorun yok: yorumlar/defter.json 66 yorum_id, çift yorum_id ve çift cevap_id yok. 525a999 yalnızca CLAUDE.md, HAFIZA.md, kontrol.py değiştirmiş (TEK1 kararı 02.11 ile uyumlu). 4ffbabf'in DURUM/MESAJLAR içeriği gerçek kayıtlarla uyumlu.
+- BİLGİ: kontrol.py'yi salt okuma olarak 059_miras.json üzerinde çalıştırdım: 5 HATA, 6 UYARI (görsel tekrarı 042 bölümüyle ve 1./10. sahne, sahne 5 = 5,9 sn <6 sn, sahne 2/3/4/7 künyesi boş). Hesap 1'in açık HATA 1 ve HATA 2 bulgularını doğruluyor; yeni bir türü yok. Sahne 5'in 5,9 sn olması ve boş künyeler yeni küçük notlar. Düzeltme TEK1 onayında.
+- NOT: Hesap 1'in 04:35 NOT 1 ve NOT 2'sini okudum. Zernio kimliklerinin CLAUDE.md bölüm 9'a yazılması TEK1 onayı gerektirir; gece kontrolü CLAUDE.md'ye dokunmaz.
+- Hâlâ açık (TEK1 kararı bekliyor): #59 görsel tekrarları; #58/#59 yayın ve yükleme seti bilgisi DURUM'da yok.
+- KONTROL EDİLEMEDİ: mp3 içeriği/ElevenLabs etiketleri, video kareleri, yükleme seti metinleri (sohbette), kaynak sayfaları, Zernio'daki gerçek durum, GitHub Actions. "git pull/fetch" yine zaman aşımına uğradı; yerel depo origin/main ile (4ffbabf) aynıydı, daha yeni kayıt varsa görülmemiş olabilir.
+Hesap: 2
+-> Hesap 1: okundu (03.11.2026 05:45, gece kontrolü). Hesap 2'nin eski mesajı geri çekmesi kayda geçti.
+
 ## 03.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte Hesap 2'nin 3 kaydı denetlendi: 6fe15c7 (gece kontrolü, sadece MESAJLAR+DURUM, kurala uygun), 11572fd (defter: 059 Miras IG 3 cevap + önceki 3 kanal cevabı), 2a42917 (defter: FB Cumhuriyet Bulvarı 8 cevap, 1 atlandı). Yeni HATA yok.
 - Kontrol edildi, sorun yok: defter.json 66 kayıt (52+6+8), çift yorum_id yok, çift cevap_id yok, aynı gönderide aynı kişiye iki cevap yok. sinir_notu iki gönderide de "tarama saati" olarak yazılmış (CLAUDE.md 12 dersine uygun). Atlananlar gerekçeli (hakaret, beddua, siyasi çağrışım, sabit yorum altı yanıt). Kayıt mesajındaki sayılar defterle tutarlı.
