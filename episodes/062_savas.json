@@ -15,8 +15,8 @@
  },
  "segments": [
   {
-   "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki bu bir tesadüf mü?",
-   "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki bu bir tesadüf mü?",
+   "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
+   "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
    "key": [
     "savaş haberlerinin"
    ],
@@ -51,8 +51,8 @@
    "scene": "photo"
   },
   {
-   "say": "Sonuç şuydu: Soğuk Savaş bitince dünyadaki iç savaşlar yaklaşık yarıya indi. Müslüman ülkelerdeki savaşlar ise sürdü. Böylece son yıllarda iç savaşların neredeyse hepsi bu ülkelerde kaldı.",
-   "caption": "Sonuç şuydu: Soğuk Savaş bitince dünyadaki iç savaşlar yaklaşık yarıya indi. Müslüman ülkelerdeki savaşlar ise sürdü. Böylece son yıllarda iç savaşların neredeyse hepsi bu ülkelerde kaldı.",
+   "say": "Soğuk Savaş, yani Amerika ile Sovyetler arasındaki yarış bitince, dünyadaki iç savaşlar yaklaşık yarıya indi. Ama Müslüman ülkelerdeki savaşlar bitmedi. Bu yüzden son yıllarda iç savaşların neredeyse hepsi bu ülkelerde.",
+   "caption": "Soğuk Savaş, yani Amerika ile Sovyetler arasındaki yarış bitince, dünyadaki iç savaşlar yaklaşık yarıya indi. Ama Müslüman ülkelerdeki savaşlar bitmedi. Bu yüzden son yıllarda iç savaşların neredeyse hepsi bu ülkelerde.",
    "key": [
     "yarıya indi"
    ],
@@ -69,8 +69,8 @@
    "scene": "photo"
   },
   {
-   "say": "Peki bu savaşların kökü nerede? Hikâyenin bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiliz diplomat Sykes ile Fransız diplomat Picot gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
-   "caption": "Peki bu savaşların kökü nerede? Hikâyenin bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiliz diplomat Sykes ile Fransız diplomat Picot gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
+   "say": "Peki bu savaşların kökü nerede? Bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiltere ve Fransa gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
+   "caption": "Peki bu savaşların kökü nerede? Bir ucu Osmanlının son günlerine uzanıyor. 1916da İngiltere ve Fransa gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
    "key": [
     "Sykes",
     "Picot"
@@ -88,10 +88,10 @@
    "scene": "photo"
   },
   {
-   "say": "Anlaşma ancak 1917de, Rusyada Bolşevikler belgeleri yayımlayınca ortaya çıktı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti.",
-   "caption": "Anlaşma ancak 1917de, Rusyada Bolşevikler belgeleri yayımlayınca ortaya çıktı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti.",
+   "say": "Anlaşma bir yıl sonra ortaya çıktı: 1917de Rusyada devrim yapan yeni yönetim, belgeleri gazetede yayımladı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti. Yani sınırları bölge halkı değil, bu iki ülke çizdi.",
+   "caption": "Anlaşma bir yıl sonra ortaya çıktı: 1917de Rusyada devrim yapan yeni yönetim, belgeleri gazetede yayımladı. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yönetti. Yani sınırları bölge halkı değil, bu iki ülke çizdi.",
    "key": [
-    "Bolşevikler"
+    "gazetede"
    ],
    "bolumler": [],
    "image": {
@@ -106,8 +106,8 @@
    "scene": "photo"
   },
   {
-   "say": "Sonra petrol geldi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında da İran ve Suudi Arabistan karşı tarafları destekledi.",
-   "caption": "Sonra petrol geldi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında da İran ve Suudi Arabistan karşı tarafları destekledi.",
+   "say": "Sonra petrol devreye girdi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında da İran ve Suudi Arabistan karşı tarafları destekledi.",
+   "caption": "Sonra petrol devreye girdi. Petrol zengini ülkeler, rakiplerindeki muhalif grupları parayla destekledi. Suriye savaşında da İran ve Suudi Arabistan karşı tarafları destekledi.",
    "key": [
     "petrol"
    ],
@@ -142,10 +142,10 @@
    "scene": "photo"
   },
   {
-   "say": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var.",
-   "caption": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var.",
+   "say": "Peki sorun İslamda mı? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Saydıkları sebeplerin çoğu ise din dışında: sınırlar, petrol, müdahaleler ve yoksulluk.",
+   "caption": "Peki sorun İslamda mı? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Saydıkları sebeplerin çoğu ise din dışında: sınırlar, petrol, müdahaleler ve yoksulluk.",
    "key": [
-    "İslama"
+    "din dışında"
    ],
    "bolumler": [],
    "image": {
@@ -160,8 +160,8 @@
    "scene": "photo"
   },
   {
-   "say": "Ve acı bir gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani asıl kurban yine Müslümanlar.",
-   "caption": "Ve acı bir gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani asıl kurban yine Müslümanlar.",
+   "say": "Ve en acı gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşlarda en çok acı çeken yine Müslümanlar.",
+   "caption": "Ve en acı gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşlarda en çok acı çeken yine Müslümanlar.",
    "key": [
     "yüzde 94ü"
    ],
