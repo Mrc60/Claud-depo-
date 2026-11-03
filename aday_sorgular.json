@@ -1,4 +1,23 @@
-{"bolum":"062_savas","min_w":800,
- "sorgular":["Izvestia 1917 secret treaties publication","US Army soldiers Afghanistan 2001 2002","US Marines Baghdad April 2003","Aleppo destruction 2016","Zaatari refugee camp Jordan"],
- "incele":[],
- "indir":[{"file":"File:MPK1-426 Sykes Picot Agreement Map signed 8 May 1916.jpg","ad":"sykes_picot_harita.jpg"}]}
+{
+ "bolum": "062_savas_indir",
+ "min_w": 800,
+ "sorgular": [],
+ "incele": [
+  "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
+  "File:USMarineTankinBaghdad.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:USMarineTankinBaghdad.jpg",
+   "ad": "bagdat2003_tank.jpg"
+  },
+  {
+   "file": "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
+   "ad": "afganistan_dag.jpg"
+  },
+  {
+   "file": "File:MPK1-426 Sykes Picot Agreement Map signed 8 May 1916.jpg",
+   "ad": "sykes_picot_harita.jpg"
+  }
+ ]
+}
