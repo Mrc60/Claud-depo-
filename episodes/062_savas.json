@@ -15,8 +15,8 @@
  },
  "segments": [
   {
-   "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
-   "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
+   "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki bu bir tesadüf mü?",
+   "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki bu bir tesadüf mü?",
    "key": [
     "savaş haberlerinin"
    ],
@@ -33,10 +33,10 @@
    "scene": "photo"
   },
   {
-   "say": "Norveçteki Oslo Barış Araştırmaları Enstitüsü bu soruyu inceledi. Cevap sanıldığı gibi değildi. Soğuk Savaş bitince dünyadaki savaşların çoğu sona erdi. Müslüman ülkelerdeki savaşlar ise sürdü. Bu yüzden payları büyüdü.",
-   "caption": "Norveçteki Oslo Barış Araştırmaları Enstitüsü bu soruyu inceledi. Cevap sanıldığı gibi değildi. Soğuk Savaş bitince dünyadaki savaşların çoğu sona erdi. Müslüman ülkelerdeki savaşlar ise sürdü. Bu yüzden payları büyüdü.",
+   "say": "Bu soruyu Norveçteki Oslo Barış Araştırmaları Enstitüsü inceledi. Araştırmacılar İkinci Dünya Savaşından bu yana yaşanan iç savaşların kayıtlarını inceledi.",
+   "caption": "Bu soruyu Norveçteki Oslo Barış Araştırmaları Enstitüsü inceledi. Araştırmacılar İkinci Dünya Savaşından bu yana yaşanan iç savaşların kayıtlarını inceledi.",
    "key": [
-    "Soğuk Savaş"
+    "Oslo"
    ],
    "bolumler": [],
    "image": {
@@ -51,10 +51,47 @@
    "scene": "photo"
   },
   {
-   "say": "Peki bu savaşları ne besliyor? Hikâyenin bir ucu yüz yıl önceye uzanıyor. 1916da İngiltere ve Fransa, Osmanlının Arap topraklarını gizli bir anlaşmayla aralarında paylaştı. Savaştan sonra bölgeyi yıllarca bu iki ülke yönetti.",
-   "caption": "Peki bu savaşları ne besliyor? Hikâyenin bir ucu yüz yıl önceye uzanıyor. 1916da İngiltere ve Fransa, Osmanlının Arap topraklarını gizli bir anlaşmayla aralarında paylaştı. Savaştan sonra bölgeyi yıllarca bu iki ülke yönetti.",
+   "say": "Çıkan sonuç şuydu: Soğuk Savaş bitince dünyadaki iç savaşların sayısı yaklaşık yarıya indi. Dünyanın başka yerlerindeki birçok savaş sona erdi. Müslüman ülkelerdeki savaşlar ise sürdü. Böylece son yıllarda iç savaşların neredeyse hepsi bu ülkelerde kaldı.",
+   "caption": "Çıkan sonuç şuydu: Soğuk Savaş bitince dünyadaki iç savaşların sayısı yaklaşık yarıya indi. Dünyanın başka yerlerindeki birçok savaş sona erdi. Müslüman ülkelerdeki savaşlar ise sürdü. Böylece son yıllarda iç savaşların neredeyse hepsi bu ülkelerde kaldı.",
    "key": [
-    "1916da"
+    "yarıya indi"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_afganistan.jpg",
+    "fit": "doldur",
+    "baslik": "Afganistanda koalisyon askerleri, 2002 dolayı · ABD Savunma Bakanlığı, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Afganistanda koalisyon askerleri, 2002 dolayı · ABD Savunma Bakanlığı, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki bu savaşların kökü nerede? Hikâyenin bir ucu yüz yıl önceye, Osmanlının son günlerine uzanıyor. 1916da İngiliz diplomat Sykes ile Fransız diplomat Picot gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
+   "caption": "Peki bu savaşların kökü nerede? Hikâyenin bir ucu yüz yıl önceye, Osmanlının son günlerine uzanıyor. 1916da İngiliz diplomat Sykes ile Fransız diplomat Picot gizlice bir harita çizdi. Osmanlının Arap toprakları bu haritada iki ülke arasında bölüşüldü.",
+   "key": [
+    "Sykes",
+    "Picot"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_harita.jpg",
+    "fit": "doldur",
+    "baslik": "Sykes-Picot haritası, 8 Mayıs 1916 (harita) · İngiliz Ulusal Arşivi MPK1-426, kamu malı",
+    "lisans": "",
+    "kaynak": "Sykes-Picot haritası, 8 Mayıs 1916 (harita) · İngiliz Ulusal Arşivi MPK1-426, kamu malı",
+    "sayfa": "",
+    "hiz": 0.12
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Anlaşma gizliydi. 1917de Rusyada iktidara gelen Bolşevikler belgeleri gazetede yayımlayınca herkes öğrendi. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yıllarca yönetti.",
+   "caption": "Anlaşma gizliydi. 1917de Rusyada iktidara gelen Bolşevikler belgeleri gazetede yayımlayınca herkes öğrendi. Savaştan sonra Suriye ve Lübnanı Fransa, Irakı ve Filistini İngiltere yıllarca yönetti.",
+   "key": [
+    "Bolşevikler"
    ],
    "bolumler": [],
    "image": {
@@ -69,8 +106,8 @@
    "scene": "photo"
   },
   {
-   "say": "Araştırmacılar başka sebepler de sayıyor: büyük güçlerin müdahaleleri, petrol ve yoksulluk. Afganistan ve Irak müdahalelerinden sonra çatışmalar arttı.",
-   "caption": "Araştırmacılar başka sebepler de sayıyor: büyük güçlerin müdahaleleri, petrol ve yoksulluk. Afganistan ve Irak müdahalelerinden sonra çatışmalar arttı.",
+   "say": "Sonra petrol geldi. Araştırmacılara göre petrol zengini ülkeler, rakip ülkelerdeki muhalif grupları parayla destekledi. Örneğin Suriye savaşında İran ve Suudi Arabistan karşı tarafları destekledi.",
+   "caption": "Sonra petrol geldi. Araştırmacılara göre petrol zengini ülkeler, rakip ülkelerdeki muhalif grupları parayla destekledi. Örneğin Suriye savaşında İran ve Suudi Arabistan karşı tarafları destekledi.",
    "key": [
     "petrol"
    ],
@@ -87,8 +124,26 @@
    "scene": "photo"
   },
   {
-   "say": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var.",
-   "caption": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var.",
+   "say": "Bir de büyük güçlerin müdahaleleri var. 2001de Afganistana, 2003te Iraka yapılan müdahalelerden sonra Müslüman ülkelerdeki çatışmalar arttı.",
+   "caption": "Bir de büyük güçlerin müdahaleleri var. 2001de Afganistana, 2003te Iraka yapılan müdahalelerden sonra Müslüman ülkelerdeki çatışmalar arttı.",
+   "key": [
+    "müdahalelerden"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_bagdat2003.jpg",
+    "fit": "doldur",
+    "baslik": "Bağdatta ABD tankı, Nisan 2003 · ABD Deniz Piyadeleri, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Bağdatta ABD tankı, Nisan 2003 · ABD Deniz Piyadeleri, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 0.12
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Başka bir araştırmaya göre de din farkı, dil farkından daha çok savaş çıkarmıyor.",
+   "caption": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var. Başka bir araştırmaya göre de din farkı, dil farkından daha çok savaş çıkarmıyor.",
    "key": [
     "İslama"
    ],
@@ -105,8 +160,8 @@
    "scene": "photo"
   },
   {
-   "say": "Ve acı bir gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşların asıl kurbanı yine Müslümanlar.",
-   "caption": "Ve acı bir gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşların asıl kurbanı yine Müslümanlar.",
+   "say": "Ve acı bir gerçek: 2010 ile 2014 arasında dünyada iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşların asıl kurbanı yine Müslümanlar.",
+   "caption": "Ve acı bir gerçek: 2010 ile 2014 arasında dünyada iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşların asıl kurbanı yine Müslümanlar.",
    "key": [
     "yüzde 94ü"
    ],
