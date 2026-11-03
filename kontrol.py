@@ -72,7 +72,7 @@ def metin_kontrol(yol):
     if "dede" in duz.lower():
         uyari("'dede' çerçevesi geçiyor (her videoda kullanma)")
     kelime = len(duz.split())
-    sn = kelime / 2.3
+    sn = kelime / 1.7  # gerçek ElevenLabs hızı (061: 174 kelime = 101,7 sn), 03.11.2026
     print(f"kelime: {kelime}, tahmini süre: {sn:.0f} sn")
     if sn > 75:
         uyari(f"tahmini süre {sn:.0f} sn (75 üstü; TEK1 isterse sorun değil)")

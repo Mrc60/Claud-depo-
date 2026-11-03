@@ -217,6 +217,8 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Sıradaki konu ve güncel iş listesi DURUM.md'de (en üstte "SIRADAKİ VİDEO"). Son bölüm: 056_baslik.
 
 ## 12. DERSLER (kendi hatalarım; 30.10.2026 gözden geçirme)
+- YATAY FOTOĞRAF (03.11.2026): Yatay fotoğrafı bulanık zemine koyup ekranın üstüne yerleştirme (altı boş/bulanık kalıyor, TEK1 iki kez yakaladı: Önlük ve Çarşaf). Dikey 9:16 kırp (kişiler kadrajda kalsın), ekranı tamamen doldursun.
+- EKRAN GÖRÜNTÜSÜ (TEK1 kararı, 02.11.2026): Ekran görüntüsü atınca ekranda ne olduğunu anlat, faydalı mı zararlı mı söyle, net öneri ver; geri soru sorma.
 - Görsel önermeden önce fotoğrafı AÇ (pano). Künyeye bakıp önerdim; düğün fotoğrafında Atatürk vardı.
 - Yorum taslağı: TEK taslak ver, soru yok (dolaylı da yok: "merak ettik", "paylaşırsanız seviniriz"). Göstermeden önce kontrol listesinden geçir.
 - Zernio gönderimi: cevapları TEK TEK sırayla gönder, toplu/paralel gönderme.
@@ -227,7 +229,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Aşırı temkin de hata: "kaçtı" için elimdeki kaynakları (Çukurova, Wikipedia, Sözcü) taramadan "çıktı" dedim. Karar vermeden önce mevcut kaynaklarda ara.
 - Diğer yapay zekâların (GPT, Manus) söylediği kaynak değildir; kaynağı kendim açıp okurum.
 - Uzun metin yazarken karakterleri kontrol et (beceri metnine Kiril harf karıştı).
-- Videodan önce süreyi hesapla: hedef ≤60 sn deneme; ~2,3 kelime/sn.
+- Videodan önce süreyi hesapla: ~1,7 kelime/sn (ElevenLabs gerçek hızı, duraklamalar dahil; 061: 174 kelime = 101,7 sn). Eski 2,3 değeri yanlıştı, süreyi az gösteriyordu.
 - SENARYO DİLİ (TEK1 iki kez GPT'ye düzeltti): Rapor gibi resmî yazma. Önce bilgileri doğrula, sonra metni "bir arkadaşa anlatır gibi" yeniden yaz: kısa cümle, günlük dil, bugünden başlayan açılış ("Bugün markette…"). Zorlama soru sorma ("büyükleriniz tuzu nereden alırdı" gibi); kapanış sorusu videonun en şaşırtıcı bilgisine bağlansın. Zor birimi benzetmeyle aç (okka → "bir kilo tuz için beş on kilo buğday").
 - GÖRSEL TEKRARI: Görsel seçmeden önce `grep` ile episodes/ içinde daha önce kullanılmış mı kontrol et (Tuz'da Lakaplar videosunun köylü fotoğrafı tekrar kullanıldı).
 - KARARTMA YOK: Küçük/düşük çözünürlüklü görsellerde arka planı KOYULAŞTIRMA (brightness düşürme yok); sadece hafif bulanık bırak, görseli tam genişliğe büyüt. Açılış karesi asla koyu görünmesin.

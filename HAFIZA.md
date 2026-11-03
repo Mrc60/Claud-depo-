@@ -91,3 +91,7 @@
 - ChatGPT Go planında (Google Drive desteklemiyor).
 - Araştırma ekibi: Manus, Perplexity, Grok, ChatGPT, Base44; Claude doğrulayan ve birleştiren merkez.
 - Uzun video fikri (haftada 2) ve İngilizce ikinci kanal fikri beklemede.
+
+- YATAY FOTOĞRAF (03.11.2026): Bulanık zemin yok; yatay fotoğraf dikey 9:16 kırpılır, ekranı doldurur.
+- SÜRE (03.11.2026): Ses süresi ~1,7 kelime/sn ile hesaplanır (kontrol.py düzeltildi).
+- EKRAN GÖRÜNTÜSÜ (02.11.2026): Ekranı anlat, faydalı/zararlı söyle, net öneri ver; geri soru sorma.
