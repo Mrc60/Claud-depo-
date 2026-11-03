@@ -1,0 +1,242 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 64,
+ "slug": "telefon",
+ "title": "Telefon İçin Yıllarca Sıra",
+ "youtube_title": "Telefon için yıllarca sıra beklenirdi #SıradanDeğil 64",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Telefon için\nyıllarca sıra!",
+ "dis_ses": {
+  "file": "assets/ses/064_telefon.mp3",
+  "kesimler": []
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar Türkiyede evine telefon bağlatmak isteyen, yıllarca sıra beklerdi. Bazıları neredeyse on yıl. Peki neden?",
+   "caption": "Bir zamanlar Türkiyede evine telefon bağlatmak isteyen, yıllarca sıra beklerdi. Bazıları neredeyse on yıl. Peki neden?",
+   "key": [
+    "yıllarca"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_telefon_w51.jpg",
+    "fit": "doldur",
+    "baslik": "Siyah bakalit çevirmeli telefon (W51) · Hubert Berberich / Wikimedia Commons, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Siyah bakalit çevirmeli telefon (W51) · Hubert Berberich / Wikimedia Commons, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "O yıllarda telefonu sadece devlet bağlayabiliyordu. Bu iş PTTnin, yani Posta Telgraf ve Telefon idaresinin tekelindeydi. Ama santral ve hat çok azdı, yeni hatlar da çok yavaş açılıyordu.",
+   "caption": "O yıllarda telefonu sadece devlet bağlayabiliyordu. Bu iş PTTnin, yani Posta Telgraf ve Telefon idaresinin tekelindeydi. Ama santral ve hat çok azdı, yeni hatlar da çok yavaş açılıyordu.",
+   "key": [
+    "PTTnin,"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_buyuk_postane.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul Büyük Postanesi, 1900ler · Underwood & Underwood · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "İstanbul Büyük Postanesi, 1900ler · Underwood & Underwood · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "1983 başında Türkiyede 1 milyon 675 bin telefon abonesi vardı. Telefon için başvurup sırada bekleyen ise 1 milyon 750 bin kişiydi. Yani bekleyenler, telefonu olanlardan fazlaydı. Köylerin çoğunda ise hiç telefon yoktu.",
+   "caption": "1983 başında Türkiyede 1 milyon 675 bin telefon abonesi vardı. Telefon için başvurup sırada bekleyen ise 1 milyon 750 bin kişiydi. Yani bekleyenler, telefonu olanlardan fazlaydı. Köylerin çoğunda ise hiç telefon yoktu.",
+   "key": [
+    "fazlaydı."
+   ],
+   "image": {
+    "local": "assets/belgeler/064_ptt_santral.jpg",
+    "fit": "doldur",
+    "baslik": "Eski telefon santrali, PTT Müzesi Ankara · Furkan Akkurt / Wikimedia Commons, CC BY-SA 4.0 (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Eski telefon santrali, PTT Müzesi Ankara · Furkan Akkurt / Wikimedia Commons, CC BY-SA 4.0 (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "1983 BAŞI",
+    "baslik": "Telefon sırası",
+    "bekle": 0.6,
+    "maddeler": [
+     "Abone: 1.675.000",
+     "Sırada bekleyen: 1.750.000"
+    ]
+   }
+  },
+  {
+   "say": "Peki insanlar o yıllarda nasıl haberleşirdi? Telefonu olmayan, telefonu olan komşusuna giderdi. Telefon çoğu zaman zenginlerin ve önemli kişilerin evinde bulunurdu.",
+   "caption": "Peki insanlar o yıllarda nasıl haberleşirdi? Telefonu olmayan, telefonu olan komşusuna giderdi. Telefon çoğu zaman zenginlerin ve önemli kişilerin evinde bulunurdu.",
+   "key": [
+    "komşusuna"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_karagoz.jpg",
+    "fit": "doldur",
+    "baslik": "Telefonla konuşan Karagöz, 1914 (karikatür) · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Telefonla konuşan Karagöz, 1914 (karikatür) · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Başka bir şehri aramak da kolay değildi. Şehirlerarası bir görüşmenin bağlanması için saatlerce beklenirdi.",
+   "caption": "Başka bir şehri aramak da kolay değildi. Şehirlerarası bir görüşmenin bağlanması için saatlerce beklenirdi.",
+   "key": [
+    "saatlerce"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_kuyruk.jpg",
+    "fit": "doldur",
+    "baslik": "Telefon kulübesi önünde sıra bekleyen gençler, Belgrad, 1959 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Telefon kulübesi önünde sıra bekleyen gençler, Belgrad, 1959 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sırayı öne almak için fazladan para ödeyenler de vardı. 1975te mühendisler bile telefon dağıtımında kayırma yapıldığını yazıyor, bunun önlenmesini istiyordu.",
+   "caption": "Sırayı öne almak için fazladan para ödeyenler de vardı. 1975te mühendisler bile telefon dağıtımında kayırma yapıldığını yazıyor, bunun önlenmesini istiyordu.",
+   "key": [
+    "fazladan"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_operator1922.jpg",
+    "fit": "doldur",
+    "baslik": "Santral memuru, 1922 dolayı · National Photo Company · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Santral memuru, 1922 dolayı · National Photo Company · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki bu sıra nasıl eridi? 1980lerin başında PTT büyük bir plan hazırladı: 1983-1993 Haberleşme Ana Planı.",
+   "caption": "Peki bu sıra nasıl eridi? 1980lerin başında PTT büyük bir plan hazırladı: 1983-1993 Haberleşme Ana Planı.",
+   "key": [
+    "Haberleşme"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_santral_eski.jpg",
+    "fit": "doldur",
+    "baslik": "Şehirlerarası telefon santrali, 1900ler · Sears, Roebuck & Co. stereografı · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Şehirlerarası telefon santrali, 1900ler · Sears, Roebuck & Co. stereografı · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Yeni, sayısal yani bilgisayarlı santraller kuruldu. Bunların bir kısmı Türkiyede üretildi.",
+   "caption": "Yeni, sayısal yani bilgisayarlı santraller kuruldu. Bunların bir kısmı Türkiyede üretildi.",
+   "key": [
+    "sayısal"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_operatorler.jpg",
+    "fit": "doldur",
+    "baslik": "Santral memurları, 1945 · ABD Ulusal Arşivi (NARA) / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Santral memurları, 1945 · ABD Ulusal Arşivi (NARA) / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sonuç hızlı geldi. On yılda milyonlarca yeni hat döşendi.",
+   "caption": "Sonuç hızlı geldi. On yılda milyonlarca yeni hat döşendi.",
+   "key": [
+    "milyonlarca"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_hat_isci1.jpg",
+    "fit": "doldur",
+    "baslik": "Telefon direğinde hat işçisi, 1937 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Telefon direğinde hat işçisi, 1937 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Her 100 kişiye düşen telefon sayısı 3ten neredeyse 20ye çıktı. Sıra böylece eridi.",
+   "caption": "Her 100 kişiye düşen telefon sayısı 3ten neredeyse 20ye çıktı. Sıra böylece eridi.",
+   "key": [
+    "20ye"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_hat_isci2.jpg",
+    "fit": "doldur",
+    "baslik": "Telefon direğinde hat işçisi, 1940 · Farm Security Administration · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Telefon direğinde hat işçisi, 1940 · Farm Security Administration · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "100 KİŞİYE DÜŞEN TELEFON",
+    "baslik": "On yılda",
+    "bekle": 0.6,
+    "maddeler": [
+     "1983: 3",
+     "1993: neredeyse 20"
+    ]
+   }
+  },
+  {
+   "say": "Bugün ise neredeyse herkesin cebinde bir telefon var. Ama bundan kırk yıl önce, tek bir ev telefonu için yıllarca beklenirdi.",
+   "caption": "Bugün ise neredeyse herkesin cebinde bir telefon var. Ama bundan kırk yıl önce, tek bir ev telefonu için yıllarca beklenirdi.",
+   "key": [
+    "cebinde"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_akilli_telefon.jpg",
+    "fit": "doldur",
+    "baslik": "Akıllı telefon · Wikimedia Commons, CC0 (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Akıllı telefon · Wikimedia Commons, CC0 (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizin evinize ilk telefon ne zaman bağlandı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizin evinize ilk telefon ne zaman bağlandı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "bağlandı?"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_operator1941.jpg",
+    "fit": "doldur",
+    "baslik": "Santral memuru, Washington, 1941 · Farm Security Administration · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Santral memuru, Washington, 1941 · Farm Security Administration · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  }
+ ]
+}
