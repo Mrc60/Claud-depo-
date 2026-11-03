@@ -1,0 +1,145 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 62,
+ "slug": "savas",
+ "title": "Savaşlar Neden Müslüman Ülkelerde",
+ "youtube_title": "Savaşlar neden Müslüman ülkelerde? #SıradanDeğil 62",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Savaşlar neden\nMüslüman ülkelerde?",
+ "dis_ses": {
+  "file": "assets/ses/062_savas.mp3",
+  "kesimler": []
+ },
+ "segments": [
+  {
+   "say": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
+   "caption": "Haberleri açın, savaş haberlerinin çoğu Müslüman ülkelerden geliyor. Peki neden?",
+   "key": [
+    "savaş haberlerinin"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_bagdat1917.jpg",
+    "fit": "doldur",
+    "baslik": "İngiliz askerleri Bağdatta, 11 Mart 1917 · Bain News Service · Library of Congress",
+    "lisans": "",
+    "kaynak": "İngiliz askerleri Bağdatta, 11 Mart 1917 · Bain News Service · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.2
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Norveçteki Oslo Barış Araştırmaları Enstitüsü bu soruyu inceledi. Cevap sanıldığı gibi değildi. Soğuk Savaş bitince dünyadaki savaşların çoğu sona erdi. Müslüman ülkelerdeki savaşlar ise sürdü. Bu yüzden payları büyüdü.",
+   "caption": "Norveçteki Oslo Barış Araştırmaları Enstitüsü bu soruyu inceledi. Cevap sanıldığı gibi değildi. Soğuk Savaş bitince dünyadaki savaşların çoğu sona erdi. Müslüman ülkelerdeki savaşlar ise sürdü. Bu yüzden payları büyüdü.",
+   "key": [
+    "Soğuk Savaş"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_bagdat1932.jpg",
+    "fit": "doldur",
+    "baslik": "Bağdat, 1932 · American Colony · Library of Congress",
+    "lisans": "",
+    "kaynak": "Bağdat, 1932 · American Colony · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki bu savaşları ne besliyor? Hikâyenin bir ucu yüz yıl önceye uzanıyor. 1916da İngiltere ve Fransa, Osmanlının Arap topraklarını gizli bir anlaşmayla aralarında paylaştı. Savaştan sonra bölgeyi yıllarca bu iki ülke yönetti.",
+   "caption": "Peki bu savaşları ne besliyor? Hikâyenin bir ucu yüz yıl önceye uzanıyor. 1916da İngiltere ve Fransa, Osmanlının Arap topraklarını gizli bir anlaşmayla aralarında paylaştı. Savaştan sonra bölgeyi yıllarca bu iki ülke yönetti.",
+   "key": [
+    "1916da"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_kudus1917.jpg",
+    "fit": "doldur",
+    "baslik": "Allenbynin Kudüse girişi, 11 Aralık 1917 · American Colony · Library of Congress",
+    "lisans": "",
+    "kaynak": "Allenbynin Kudüse girişi, 11 Aralık 1917 · American Colony · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Araştırmacılar başka sebepler de sayıyor: büyük güçlerin müdahaleleri, petrol ve yoksulluk. Afganistan ve Irak müdahalelerinden sonra çatışmalar arttı.",
+   "caption": "Araştırmacılar başka sebepler de sayıyor: büyük güçlerin müdahaleleri, petrol ve yoksulluk. Afganistan ve Irak müdahalelerinden sonra çatışmalar arttı.",
+   "key": [
+    "petrol"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_petrol.jpg",
+    "fit": "doldur",
+    "baslik": "Kerkükte yanan petrol kuyusu, 1932 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Kerkükte yanan petrol kuyusu, 1932 · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var.",
+   "caption": "Peki ya din? Araştırmacılar savaşları tek başına İslama bağlamıyor. Neredeyse bütün dinlerde hem barışçı hem şiddet içeren yorumlar var.",
+   "key": [
+    "İslama"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_saraybosna.jpg",
+    "fit": "doldur",
+    "baslik": "Saraybosnada akşam namazı, 1919 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Saraybosnada akşam namazı, 1919 · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ve acı bir gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşların asıl kurbanı yine Müslümanlar.",
+   "caption": "Ve acı bir gerçek: 2010 ile 2014 arasında iç savaşlarda ölenlerin yüzde 94ü Müslüman ülkelerdeydi. Yani bu savaşların asıl kurbanı yine Müslümanlar.",
+   "key": [
+    "yüzde 94ü"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_cami_aileler.jpg",
+    "fit": "doldur",
+    "baslik": "Üç yıldır yüz ailenin barındığı bir cami, 1919 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Üç yıldır yüz ailenin barındığı bir cami, 1919 · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Sizce bu savaşların en büyük sebebi ne? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce bu savaşların en büyük sebebi ne? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "en büyük sebebi"
+   ],
+   "bolumler": [],
+   "image": {
+    "local": "assets/belgeler/062_bagdat_kutlama.jpg",
+    "fit": "doldur",
+    "baslik": "Irakın Milletler Cemiyetine girişi kutlaması, Bağdat, 1932 · American Colony · Library of Congress",
+    "lisans": "",
+    "kaynak": "Irakın Milletler Cemiyetine girişi kutlaması, Bağdat, 1932 · American Colony · Library of Congress",
+    "sayfa": "",
+    "hiz": 0.15
+   },
+   "scene": "photo"
+  }
+ ],
+ "not_": "TASLAK: ses gelince kesimler ve bolumler doldurulacak (Hesap 2)"
+}
