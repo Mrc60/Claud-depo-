@@ -91,3 +91,5 @@
 - ChatGPT Go planında (Google Drive desteklemiyor).
 - Araştırma ekibi: Manus, Perplexity, Grok, ChatGPT, Base44; Claude doğrulayan ve birleştiren merkez.
 - Uzun video fikri (haftada 2) ve İngilizce ikinci kanal fikri beklemede.
+
+- SENARYO AYRINTISI (TEK1 kararı, 03.11.2026): Senaryo ayrıntılı, akıcı ve anlaşılır olsun; ucu kapalı, sıkıştırılmış anlatım yok. Her bölümde olayı, kimin neyi neden yaptığını ve sonucunu açıkça anlat; adları ve terimleri açıkla. Kısa tutmak için bilgiyi kırpma; süre uzarsa TEK1 karar verir.

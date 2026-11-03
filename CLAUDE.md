@@ -217,6 +217,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Sıradaki konu ve güncel iş listesi DURUM.md'de (en üstte "SIRADAKİ VİDEO"). Son bölüm: 056_baslik.
 
 ## 12. DERSLER (kendi hatalarım; 30.10.2026 gözden geçirme)
+- SENARYO AYRINTISI (TEK1 kararı, 03.11.2026): Senaryo ayrıntılı, akıcı ve anlaşılır olsun; ucu kapalı, sıkıştırılmış anlatım yok. Her bölümde olayı, kimin neyi neden yaptığını ve sonucunu açıkça anlat; adları ve terimleri açıkla. Kısa tutmak için bilgiyi kırpma; süre uzarsa TEK1 karar verir.
 - Görsel önermeden önce fotoğrafı AÇ (pano). Künyeye bakıp önerdim; düğün fotoğrafında Atatürk vardı.
 - Yorum taslağı: TEK taslak ver, soru yok (dolaylı da yok: "merak ettik", "paylaşırsanız seviniriz"). Göstermeden önce kontrol listesinden geçir.
 - Zernio gönderimi: cevapları TEK TEK sırayla gönder, toplu/paralel gönderme.
