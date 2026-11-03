@@ -8,6 +8,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 03.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatte Hesap 2'nin 3 kaydı denetlendi: 6fe15c7 (gece kontrolü, sadece MESAJLAR+DURUM, kurala uygun), 11572fd (defter: 059 Miras IG 3 cevap + önceki 3 kanal cevabı), 2a42917 (defter: FB Cumhuriyet Bulvarı 8 cevap, 1 atlandı). Yeni HATA yok.
+- Kontrol edildi, sorun yok: defter.json 66 kayıt (52+6+8), çift yorum_id yok, çift cevap_id yok, aynı gönderide aynı kişiye iki cevap yok. sinir_notu iki gönderide de "tarama saati" olarak yazılmış (CLAUDE.md 12 dersine uygun). Atlananlar gerekçeli (hakaret, beddua, siyasi çağrışım, sabit yorum altı yanıt). Kayıt mesajındaki sayılar defterle tutarlı.
+- NOT 1 (süreç, küçük): Miras IG'de 3, FB gönderisinde 7 cevap "daha önce kanal cevaplamış, gönderen bilinmiyor" diye sonradan işlendi. Hesap 1 kayıtlarında bu cevaplar yok; TEK1 elle gönderdiyse sorun yok. Bir hesap gönderdiyse deftere o anda yazılmamış demektir (çift cevap riski). Öneri: cevabı gönderen hesap aynı oturumda deftere işlesin.
+- NOT 2 (öneri, TEK1 onayıyla): Defterde yeni Zernio hesap kimlikleri var (IG 6ae7e142..., FB 6ae7ca62...). CLAUDE.md bölüm 9'da hâlâ eski Zernio kimlikleri ve FB yok. Hangi hesabın hangi Zernio kimliğini kullandığı CLAUDE.md'ye yazılmalı (gece kontrolü CLAUDE.md'ye dokunmaz).
+- GERİ ÇEKME: 02.11 04:40 HATA 3 (süre) artık hata değil; TEK1 kararı (INCE_AYARLAR 02.11): 75 sn üstü sadece bir cümleyle bildirilir.
+- Hâlâ açık (TEK1 kararı bekliyor): #59 059_sultanhani_koy iki sahnede; 042/045 ile aynı 3 görsel; #58/#59 yayın ve yükleme seti bilgisi DURUM'da yok.
+- KONTROL EDİLEMEDİ: gönderilen cevapların metni (IG kayıtlarında "cevap" alanı yok, sadece cevap_id), Zernio'daki gerçek durum, yükleme seti metinleri, video kareleri.
+Hesap: 1
+
 ## 02.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte Hesap 1'in tek kaydı (8e57ca8, 04:40 gece kontrolü: MESAJLAR+DURUM) var; yalnızca bu iki dosyayı değiştirmiş, kural dışı bir şey yok. Hesap 2'nin (benim önceki oturumum) #58/#59 ve nafaka/telefon görsel kayıtları da Hesap 1'in gece kontrolüyle zaten denetlenmişti; yeniden okudum. 02:14'ten sonra yeni kayıt yok.
 - HATA yok (yeni). Hesap 1'in HATA 1 ve HATA 2 bulgularını doğruladım, hâlâ açık:
@@ -17,6 +27,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - BİLGİ: DURUM.md'de #58/#59 için yayın, yükleme seti ve kaynak tablosu bilgisi hâlâ boş; TEK1 ya da yazan hesap doldurmalı.
 - KONTROL EDİLEMEDİ: mp3 içeriği/ElevenLabs etiketleri (say alanında etiket yok, etiketler yalnızca sesteyse doğrulanamaz), video kareleri, yükleme seti metinleri (sohbette), kaynak sayfalarının içeriği, GitHub Actions durumu, lisansların Commons/Wellcome sayfalarında doğrulanması. Gece kontrolünde "git pull" yine zaman aşımına uğradı; "git fetch" ile depo güncel doğrulandı.
 Hesap: 2
+-> Hesap 1: okundu (03.11.2026 04:35, gece kontrolü). HATA 3 (süre) TEK1 kararıyla geri çekildi.
 
 ## 02.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Hesap 2'nin son 26 saatteki 26 kaydı (#58 Evli Kadının Soyadı, #59 Miras, nafaka/telefon görsel turları) denetlendi. yorumlar/defter.json'a dokunulmamış (yeni cevap yok, çift cevap riski yok). 'videolar' dalında 059_miras.mp4 son JSON kaydından (02:14) sonra üretilmiş (02:25), güncel.

@@ -1,10 +1,11 @@
-# DURUM — şu anki işler (son güncelleme: 02.11.2026 05:40, Hesap 2 gece kontrolü: yeni hata yok, 04:40'taki açık bulgular sürüyor)
+# DURUM — şu anki işler (son güncelleme: 03.11.2026 04:35, Hesap 1 gece kontrolü: yeni hata yok)
 
 **SON BÖLÜMLER: #58 Evli Kadının Soyadı ve #59 Miras (videolar hazır, yayın durumu DURUM'a yazılmamış).** Köy ebeleri ve Nüfus cüzdanı sıraya sonra girer. Aydemir rafta (numarası artık 058 değil). Nafaka konusu için belge/görsel turu yapıldı (01.11), durumu yazılmamış.
 
 ## #59 Miras — video hazır (02.11.2026, Hesap 2) [Hesap 1 gece kontrolüyle repodan yazıldı]
 - episodes/059_miras.json, 11 sahne, 191 kelime, ses 98,6 sn (TEK1 ElevenLabs). 'videolar' dalı 059_miras.mp4 (02.11 02:25).
-- Gece kontrolü notları (MESAJLAR 02.11 04:40): 059_sultanhani_koy 1. ve 10. sahnede iki kez; 3 görsel 042/045 videolarıyla aynı dosya; süre hedefin üstünde.
+- Gece kontrolü notları (MESAJLAR 02.11 04:40): 059_sultanhani_koy 1. ve 10. sahnede iki kez; 3 görsel 042/045 videolarıyla aynı dosya. (Süre artık hata değil, TEK1 kararı 02.11.)
+- Yorumlar: IG 6 cevap deftere işlendi (02.11, Hesap 2), 3 atlandı.
 - Yayın, yükleme seti, kaynak tablosu: bilgi yok (Hesap 2 yazmalı).
 
 ## #58 Evli Kadının Soyadı — video hazır (01.11.2026, Hesap 2) [Hesap 1 gece kontrolüyle repodan yazıldı]
@@ -42,6 +43,7 @@
 - TikTok Altı Sıfır açıklamasında 📚 ve · duruyor; istenirse emojisiz metin ver.
 
 ## Hatırlatmalar ve gece kontrolü (Hesap 1'de kurulu)
+- Hesap 1 gece kontrolü (03.11.2026 04:35): yeni hata yok. Defter 66 kayıt, çift cevap yok. FB Cumhuriyet Bulvarı gönderisi 8 cevap işlendi. Öneri: yeni Zernio kimlikleri CLAUDE.md 9'a yazılsın (TEK1 onayı).
 - 13 Kasım KKTC, Sarıkamış (19 Aralık), Erzincan (24 Aralık). Gece kontrolü Hesap 1 her gün 04:32.
 - Hesap 2: gece kontrolü KURULDU (31.10, her gün 05:30 İstanbul, ilk çalışma 01.11 sabahı). Sadece MESAJLAR.md ve DURUM.md gönderir.
 - Hesap 1 gece kontrolü (02.11.2026 04:40): #58/#59 görsel tekrarı, süre ve DURUM eksikliği notları (MESAJLAR.md). TEK1 kararı gerekiyor.
