@@ -1,3 +1,1 @@
-{"bolum":"064_telefon","min_w":800,
- "sorgular":["rotary dial telephone black and white","bakelite telephone vintage","telefon jetonu","PTT telefon santrali","Türk Telekom eski telefon","telephone token Turkey","old telephone switchboard Turkey","manual telephone exchange operators women","telephone directory old","payphone Turkey jeton","smartphone hand","Ankara 1930s street"],
- "incele":[],"indir":[]}
+{"bolum": "064_telefon_indir", "min_w": 800, "sorgular": [], "incele": [], "indir": [{"file": "File:RueckfrageApparat W51-01.jpg", "ad": "064_telefon_w51.jpg"}, {"file": "File:Telephone switchboard PTT Museum Ankara 2025.jpg", "ad": "064_ptt_santral_ankara.jpg"}, {"file": "File:WAC telephone operators operate the Victory switchboard during the Potsdam Conference in their headquarters in... - NARA - 199007.jpg", "ad": "064_santral_operatorler.jpg"}, {"file": "File:Hand-smartphone-technology-calling.jpg", "ad": "064_akilli_telefon.jpg"}]}
