@@ -63,6 +63,10 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 | 055 | Tuz Tekeli | Tuz bile / devletindi | 7 |
 | 056 | Başlık Parası | Kızın babasına / para ödenirdi | 10 |
 | 057 | Renk Körlüğü | Kırmızı ile yeşili / karıştıran biri var mı? | 10 |
+| 058 | Evli Kadının Soyadı | Evlenen kadın soyadını / kim seçerdi? | 10 |
+| 059 | Kadın ve Erkeğin Miras Payı | Kız ile erkek kardeşin / miras payı hep aynı mıydı? | 10 |
+| 062 | Savaşlar Neden Müslüman Ülkelerde | Savaşlar neden / Müslüman ülkelerde? | 10 |
+| 063 | Düğün Masrafını Neden Erkek Öder | Düğünü neden / erkek öder? | 10 |
 
 ## Birden fazla bölümde kullanılan görseller
 
@@ -159,3 +163,7 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 - **055 Tuz Tekeli**: 055_foca_yigin_k.jpg, 055_camalti_dekovil_k.jpg, 053_meclis1920.jpg, 053_meclis1928.jpg, 055_tuzgolu1972.jpg, 055_cihanbeyli1973.jpg, 055_yavsan1989.jpg
 - **056 Başlık Parası**: 056_gelin1914.jpg, 056_gelin_kadinlar.jpg, 056_halay.jpg, 056_kadin_halay2.jpg, 056_dugun_yemegi.jpg, 056_okul.jpg, 056_yargitay.jpg, 056_gelin_altin.jpg, 056_gelin_hazirlik.jpg, 056_kadin_halay.jpg
 - **057 Renk Körlüğü**: 057_plaka_6.jpg, 057_lale_protanopi.jpg, 057_holmgren.jpg, 057_plaka_42.jpg, 057_dalton_turner.jpg, 057_makale.jpg, 057_dalton_profil.jpg, 057_dalton_cizim.jpg, 057_plaka_74.jpg, 057_plaka_3.jpg
+- **058 Evli Kadının Soyadı**: 058_rg1934.jpg, 058_nufus_cuzdani.jpg, 058_miss1930.jpg, 058_aihm_dis.jpg, 058_ankara_bina.jpg, 058_aym_bina.jpg, 058_aihm_salon.jpg, 058_tbmm.jpg, 058_holiday.jpg, 058_ankara_muze.jpg
+- **059 Kadın ve Erkeğin Miras Payı**: 059_sultanhani_koy.jpg, 059_ayet_4_7.jpg, 059_ayet_4_11.jpg, 059_graf_islam.jpg, 059_kanun_karti.jpg, 059_graf_mk.jpg, 059_tmk495.jpg, 059_giritli_kadin.jpg, 059_leiden.jpg, 059_sultanhani_hamur.jpg
+- **062 Savaşlar Neden Müslüman Ülkelerde**: 062_bagdat1917.jpg, 062_bagdat1932.jpg, 062_afganistan.jpg, 062_harita.jpg, 062_kudus1917.jpg, 062_petrol.jpg, 062_bagdat2003.jpg, 062_saraybosna.jpg, 062_cami_aileler.jpg, 062_bagdat_kutlama.jpg
+- **063 Düğün Masrafını Neden Erkek Öder**: 063_hediye.jpg, 063_damat.jpg, 063_gelin.jpg, 063_nikah.jpg, 063_gelin_at.jpg, 063_meclis1921.jpg, 063_cibali1935.jpg, 063_dinar1921.jpg, 063_karsilama.jpg, 063_kalin_yurt.jpg

@@ -1,0 +1,209 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "youtube_description": "",
+ "sources": [],
+ "episode": 63,
+ "slug": "dugun",
+ "title": "Düğün Masrafını Neden Erkek Öder",
+ "youtube_title": "Düğün masrafını neden erkek öder? #SıradanDeğil 63",
+ "acilis": "Düğünü neden\nerkek öder?",
+ "dis_ses": {
+  "file": "assets/ses/063_dugun.mp3",
+  "kesimler": []
+ },
+ "segments": [
+  {
+   "say": "Düğün salonu, takılar, ev eşyası. Bu masrafların çoğu neden hep erkek tarafına çıkar? Peki erkek buna gerçekten zorunlu mu?",
+   "caption": "Düğün salonu, takılar, ev eşyası. Bu masrafların çoğu neden hep erkek tarafına çıkar? Peki erkek buna gerçekten zorunlu mu?",
+   "key": [
+    "erkek tarafına"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_hediye.jpg",
+    "fit": "doldur",
+    "baslik": "Düğün hediyelerini taşıyan erkekler, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Düğün hediyelerini taşıyan erkekler, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu geleneğin kökü çok eskiye, İslamdan önceki Türklere uzanıyor. Eski Türklerde evlenecek erkek, kız tarafına kalın denen bir mal ya da para verirdi.",
+   "caption": "Bu geleneğin kökü çok eskiye, İslamdan önceki Türklere uzanıyor. Eski Türklerde evlenecek erkek, kız tarafına kalın denen bir mal ya da para verirdi.",
+   "key": [
+    "kalın"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_damat.jpg",
+    "fit": "doldur",
+    "baslik": "Kırgız damat, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kırgız damat, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Bu mal kızın ailesine verilirdi ve çoğu zaman düğün masraflarına, kızın çeyizine harcanırdı. Kız tarafı da çeyiz hazırlayarak yeni evin kurulmasına katılırdı.",
+   "caption": "Bu mal kızın ailesine verilirdi ve çoğu zaman düğün masraflarına, kızın çeyizine harcanırdı. Kız tarafı da çeyiz hazırlayarak yeni evin kurulmasına katılırdı.",
+   "key": [
+    "çeyiz"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_gelin.jpg",
+    "fit": "doldur",
+    "baslik": "Kırgız gelin (kalındık), 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kırgız gelin (kalındık), 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Türkler Müslüman olunca kalının yerini mehir aldı. Mehir, nikâhla birlikte erkeğin kadına ödemek zorunda olduğu para ya da maldır. Kalından farkı şu: mehir ailesine değil, doğrudan kadının kendisine verilir ve tamamen onun malıdır.",
+   "caption": "Türkler Müslüman olunca kalının yerini mehir aldı. Mehir, nikâhla birlikte erkeğin kadına ödemek zorunda olduğu para ya da maldır. Kalından farkı şu: mehir ailesine değil, doğrudan kadının kendisine verilir ve tamamen onun malıdır.",
+   "key": [
+    "mehir"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_nikah.jpg",
+    "fit": "doldur",
+    "baslik": "Nikâh töreni, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Nikâh töreni, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Ama halk arasında kalın geleneği bitmedi. Başlık adıyla yaşamaya devam etti. Böylece düğünün yükü yüzyıllarca erkek tarafında kaldı.",
+   "caption": "Ama halk arasında kalın geleneği bitmedi. Başlık adıyla yaşamaya devam etti. Böylece düğünün yükü yüzyıllarca erkek tarafında kaldı.",
+   "key": [
+    "Başlık"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_gelin_at.jpg",
+    "fit": "doldur",
+    "baslik": "Gelinin baba evinden damadın evine götürülmesi, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Gelinin baba evinden damadın evine götürülmesi, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Peki Cumhuriyette ne değişti? 1926da kabul edilen Medeni Kanun açıkça şunu yazıyordu: Koca, birliğin reisidir. Evi seçmek, karısını ve çocuklarını geçindirmek kocanın göreviydi.",
+   "caption": "Peki Cumhuriyette ne değişti? 1926da kabul edilen Medeni Kanun açıkça şunu yazıyordu: Koca, birliğin reisidir. Evi seçmek, karısını ve çocuklarını geçindirmek kocanın göreviydi.",
+   "key": [
+    "birliğin reisidir"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_meclis1921.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiye Büyük Millet Meclisi, Ankara, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Türkiye Büyük Millet Meclisi, Ankara, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "2002de yeni Medeni Kanun yürürlüğe girdi ve bu madde kaldırıldı. Artık eşler oturacakları evi birlikte seçiyor, evi birlikte yönetiyor ve evin giderlerine güçleri oranında birlikte katılıyor.",
+   "caption": "2002de yeni Medeni Kanun yürürlüğe girdi ve bu madde kaldırıldı. Artık eşler oturacakları evi birlikte seçiyor, evi birlikte yönetiyor ve evin giderlerine güçleri oranında birlikte katılıyor.",
+   "key": [
+    "güçleri oranında"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_cibali1935.jpg",
+    "fit": "doldur",
+    "baslik": "Cibali Tütün Fabrikasında işçi kızlar, İstanbul, 1935 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Cibali Tütün Fabrikasında işçi kızlar, İstanbul, 1935 · Library of Congress",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "MEDENİ KANUN",
+    "baslik": "Ne değişti?",
+    "bekle": 0.6,
+    "maddeler": [
+     "1926: Evi koca geçindirir",
+     "2002: Eşler birlikte katılır"
+    ]
+   }
+  },
+  {
+   "say": "Peki düğün masrafı? Medeni Kanunda düğünü erkek öder diye bir madde yok. Yani erkek tarafının düğünü karşılaması bir zorunluluk değil, gelenek.",
+   "caption": "Peki düğün masrafı? Medeni Kanunda düğünü erkek öder diye bir madde yok. Yani erkek tarafının düğünü karşılaması bir zorunluluk değil, gelenek.",
+   "key": [
+    "gelenek"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_dinar1921.jpg",
+    "fit": "doldur",
+    "baslik": "Köy düğününde davul zurna ve oyun, Dinar, Afyonkarahisar, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Köy düğününde davul zurna ve oyun, Dinar, Afyonkarahisar, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  },
+  {
+   "say": "Takılarda da değişiklik oldu. Yargıtay uzun yıllar, düğünde kime takılırsa takılsın bütün takıların kadının olduğuna karar verdi. 2024te ise Yargıtay 2. Hukuk Dairesi görüşünü değiştirdi: Artık kural olarak erkeğe takılan erkeğin, kadına takılan kadının sayılıyor.",
+   "caption": "Takılarda da değişiklik oldu. Yargıtay uzun yıllar, düğünde kime takılırsa takılsın bütün takıların kadının olduğuna karar verdi. 2024te ise Yargıtay 2. Hukuk Dairesi görüşünü değiştirdi: Artık kural olarak erkeğe takılan erkeğin, kadına takılan kadının sayılıyor.",
+   "key": [
+    "takıların"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_karsilama.jpg",
+    "fit": "doldur",
+    "baslik": "Damadın gelini karşılaması, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Damadın gelini karşılaması, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "YARGITAY",
+    "baslik": "Düğün takıları kimin?",
+    "bekle": 0.6,
+    "maddeler": [
+     "Eskiden: hepsi kadının",
+     "2024: kadına takılan kadının",
+     "erkeğe takılan erkeğin"
+    ]
+   }
+  },
+  {
+   "say": "Sizce düğün masrafını kim karşılamalı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce düğün masrafını kim karşılamalı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "kim karşılamalı"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_kalin_yurt.jpg",
+    "fit": "doldur",
+    "baslik": "Kırgız düğününde damadın görülmesi, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kırgız düğününde damadın görülmesi, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo"
+  }
+ ]
+}
