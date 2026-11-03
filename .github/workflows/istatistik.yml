@@ -1,0 +1,31 @@
+name: Günlük istatistik
+
+# Her gün 06:10 İstanbul (03:10 UTC): Zernio'dan son 28 günün sayıları -> 'istatistik' dalı.
+on:
+  schedule:
+    - cron: "10 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Önceki günleri al
+        run: |
+          mkdir -p out_ist
+          if git fetch -q origin istatistik 2>/dev/null; then git archive FETCH_HEAD | tar -x -C out_ist; fi
+      - name: Topla
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+        run: python3 istatistik.py
+      - name: istatistik dalına yaz
+        run: |
+          export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+          export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="$GIT_AUTHOR_EMAIL"
+          cd out_ist && git init -q -b istatistik && git add -A && git commit -qm "istatistik $(date -u +%F)"
+          git push -fq "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" istatistik
