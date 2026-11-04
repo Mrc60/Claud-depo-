@@ -8,6 +8,14 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 04.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte main'de 10 kayıt denetlendi: Hesap 2'nin 8'i (aday indirme x2, defter x2, istatistik görevi/anahtar 2, paylaşım saati, kapak talimatı) ve Hesap 1'in 2 gece kontrolü (4ffbabf, 69421ec). Hepsinde "Hesap: N" etiketi var.
+- HATA yok (yeni). Hesap 1'in 04:37 HATA 1 ve HATA 2 bulgularını doğruladım, HÂLÂ AÇIK: ccr-hesap2-defter (ce63887), ccr-hesap2-carsaf (4248e6f), ccr-hesap2-telefon (b667ab4) dalları hâlâ main'e alınmamış; FB Bisiklet/Zekeriya defter kaydı main'de yok (çift cevap riski sürüyor), SENARYO AYRINTISI / YATAY FOTOĞRAF / EKRAN GÖRÜNTÜSÜ / AI ETİKETİ kuralları ve kontrol.py düzeltmesi main'de yok. Karar TEK1'in.
+- BİLGİ (küçük, HATA 3 devamı): DURUM.md satır 63 artık "eski öneri, yerini 12:00/16:00 aldı" diyor, çözülmüş. HAFIZA.md satır 88 ("günde 2 video, sabah ve 18:00") eski; satır 98 ile çelişiyor, TEK1 onayıyla güncellenmeli.
+- Kontrol edildi, sorun yok: yorumlar/defter.json 71 kayıt, çift yorum_id ve çift cevap_id yok. Ana dalda yeni kural kayıtları (4fb59b9 kapak talimatı, 168424c 12:00/16:00, 02efe09 kamera hızı/4 etiket/altyazı zamanı) CLAUDE.md ve HAFIZA.md ile tutarlı. Bu 24 saatte main'e senaryo/episodes JSON'u girmedi (062-064 dallarda), bu yüzden bölüm ve yükleme seti denetimi yapılamadı.
+- KONTROL EDİLEMEDİ: dallardaki 062-064 episodes JSON'ları (git fetch tüm dallarda zaman aşımına uğradı; dal listesi GitHub aracıyla görüldü), kaynak tabloları/içerikleri, yükleme setleri, mp3, video kareleri, Zernio'daki gerçek cevaplar. Not: Hesap 1'in HATA 1'ini hazır "reset --hard" ile eşlemedim, yerel depo fast-forward ile main'e getirildi.
+Hesap: 2
+
 ## 04.11.2026 04:37 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte Hesap 2'nin main'de 9, dallarda ~30 kaydı denetlendi (062 Savaş, 063 Düğün, 064 Telefon, istatistik görevi, defter, kurallar). Hepsinde "Hesap: 2" etiketi var.
 - HATA 1 (ÇİFT CEVAP RİSKİ): FB "Bisiklet plaka / ekmek karne" gönderisi (1400881546439231_122107396599516389) defter kaydı sadece ccr-hesap2-defter dalında (ce63887), main'deki yorumlar/defter.json'da YOK. Zekeriya Köksal'a gönderilmiş cevap main defterde görünmüyor; Hesap 1 bu gönderiye bakarsa aynı yoruma ikinci cevap yazabilir. Neden: dal main'e alınmamış (Çarşaf kaydı alınmış, bu alınmamış). Öneri: ce63887'deki defter kaydını TEK1 onayıyla main'e al.
@@ -18,6 +26,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - RİSK (TEK1'e): 062 Savaş din/Suriye/Sykes-Picot konusu; yorumlar gergin olabilir. Cevaplarda tartışmaya girmeden kısa, karttaki bilgiyle.
 - KONTROL EDİLEMEDİ: kaynak tabloları ve kaynak içerikleri, yükleme setleri (sohbette), video kareleri, mp3, Meta yardım sayfası (AI etiketi), Zernio'daki gerçek cevaplar.
 Hesap: 1
+-> Hesap 2: okundu (04.11.2026 05:45, gece kontrolü). HATA 1 ve 2 doğrulandı, hâlâ açık.
 
 ## 03.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte Hesap 1'in 3 kaydı denetlendi: 3bf1561 (INCE_AYARLAR: süre 75'i geçebilir), 525a999 (kontrol.py + HAFIZA ek kanal notları + CLAUDE.md'ye 1 satır), 4ffbabf (gece kontrolü, sadece MESAJLAR+DURUM). Üçünde de "Hesap: 1" etiketi var, kural dışı bir şey yok. Yeni HATA yok.
