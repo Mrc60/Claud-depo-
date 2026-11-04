@@ -1,0 +1,964 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 66,
+ "slug": "kaymak",
+ "title": "Kaymakçıya Kadın Giremez",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kaymakçıya\nkadın giremez!",
+ "dis_ses": {
+  "file": "assets/ses/066_kaymak.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     5.3
+    ]
+   ],
+   [
+    [
+     5.3,
+     13.14
+    ]
+   ],
+   [
+    [
+     13.14,
+     20.6
+    ]
+   ],
+   [
+    [
+     20.6,
+     27.38
+    ]
+   ],
+   [
+    [
+     27.38,
+     34.88
+    ]
+   ],
+   [
+    [
+     34.88,
+     41.76
+    ]
+   ],
+   [
+    [
+     41.76,
+     49.26
+    ]
+   ],
+   [
+    [
+     49.26,
+     58.78
+    ]
+   ],
+   [
+    [
+     58.78,
+     65.48
+    ]
+   ],
+   [
+    [
+     65.48,
+     77.56
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar İstanbulda kadınların kaymakçıya girmesi yasaktı. Peki neden?",
+   "caption": "Bir zamanlar İstanbulda kadınların kaymakçıya girmesi yasaktı. Peki neden?",
+   "key": [
+    "yasaktı."
+   ],
+   "image": {
+    "local": "assets/belgeler/066_kadinlar.jpg",
+    "fit": "doldur",
+    "baslik": "Türk kadınları, İstanbul · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk kadınları, İstanbul · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.4,
+     "n": 1
+    },
+    {
+     "start": 0.4,
+     "end": 1.12,
+     "n": 1
+    },
+    {
+     "start": 1.12,
+     "end": 1.8,
+     "n": 1
+    },
+    {
+     "start": 1.8,
+     "end": 2.34,
+     "n": 1
+    },
+    {
+     "start": 2.34,
+     "end": 3.02,
+     "n": 1
+    },
+    {
+     "start": 3.02,
+     "end": 3.46,
+     "n": 1
+    },
+    {
+     "start": 3.46,
+     "end": 4.38,
+     "n": 1
+    },
+    {
+     "start": 4.52,
+     "end": 4.8,
+     "n": 1
+    },
+    {
+     "start": 4.8,
+     "end": 5.18,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Eyüp, kaymağıyla ünlüydü. Kaymakçı dükkânları Eyüp Sultan Camiinin yanında, çarşı boyunca sıralanırdı.",
+   "caption": "Eyüp, kaymağıyla ünlüydü. Kaymakçı dükkânları Eyüp Sultan Camiinin yanında, çarşı boyunca sıralanırdı.",
+   "key": [
+    "kaymağıyla"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_eyup1857.jpg",
+    "fit": "doldur",
+    "baslik": "Eyüp Sultan Camii, 1857 · James Robertson / National Gallery of Art, CC0",
+    "lisans": "",
+    "kaynak": "Eyüp Sultan Camii, 1857 · James Robertson / National Gallery of Art, CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 5.98,
+     "end": 6.44,
+     "n": 1
+    },
+    {
+     "start": 6.44,
+     "end": 7.14,
+     "n": 1
+    },
+    {
+     "start": 7.14,
+     "end": 7.98,
+     "n": 1
+    },
+    {
+     "start": 8.18,
+     "end": 8.64,
+     "n": 1
+    },
+    {
+     "start": 8.64,
+     "end": 9.34,
+     "n": 1
+    },
+    {
+     "start": 9.34,
+     "end": 9.72,
+     "n": 1
+    },
+    {
+     "start": 9.72,
+     "end": 10.12,
+     "n": 1
+    },
+    {
+     "start": 10.12,
+     "end": 10.72,
+     "n": 1
+    },
+    {
+     "start": 10.72,
+     "end": 11.36,
+     "n": 1
+    },
+    {
+     "start": 11.36,
+     "end": 11.86,
+     "n": 1
+    },
+    {
+     "start": 11.86,
+     "end": 12.24,
+     "n": 1
+    },
+    {
+     "start": 12.24,
+     "end": 13.02,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Eyüpe sadece kaymak yemek için gelenler bile vardı. Ama 1573te devlete şikâyetler ulaştı.",
+   "caption": "Eyüpe sadece kaymak yemek için gelenler bile vardı. Ama 1573te devlete şikâyetler ulaştı.",
+   "key": [
+    "1573te"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_eyup_iskele.jpg",
+    "fit": "doldur",
+    "baslik": "Eyüp İskelesi, 1880-1893 · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Eyüp İskelesi, 1880-1893 · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 13.4,
+     "end": 13.84,
+     "n": 1
+    },
+    {
+     "start": 13.84,
+     "end": 14.32,
+     "n": 1
+    },
+    {
+     "start": 14.32,
+     "end": 14.8,
+     "n": 1
+    },
+    {
+     "start": 14.8,
+     "end": 15.0,
+     "n": 1
+    },
+    {
+     "start": 15.0,
+     "end": 15.3,
+     "n": 1
+    },
+    {
+     "start": 15.3,
+     "end": 15.82,
+     "n": 1
+    },
+    {
+     "start": 15.82,
+     "end": 16.0,
+     "n": 1
+    },
+    {
+     "start": 16.0,
+     "end": 16.36,
+     "n": 1
+    },
+    {
+     "start": 16.88,
+     "end": 17.14,
+     "n": 1
+    },
+    {
+     "start": 17.14,
+     "end": 18.68,
+     "n": 1
+    },
+    {
+     "start": 18.68,
+     "end": 19.18,
+     "n": 1
+    },
+    {
+     "start": 19.18,
+     "end": 19.84,
+     "n": 1
+    },
+    {
+     "start": 19.84,
+     "end": 20.48,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Şikâyete göre bazı kadınlar, kaymak yeme bahanesiyle dükkânlara giriyor, orada erkeklerle buluşuyordu.",
+   "caption": "Şikâyete göre bazı kadınlar, kaymak yeme bahanesiyle dükkânlara giriyor, orada erkeklerle buluşuyordu.",
+   "key": [
+    "bahanesiyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_carsi_kadin.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul çarşısında bir kadın, gravür · Amedeo Preziosi / Wellcome Collection, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbul çarşısında bir kadın, gravür · Amedeo Preziosi / Wellcome Collection, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 20.82,
+     "end": 21.32,
+     "n": 1
+    },
+    {
+     "start": 21.32,
+     "end": 21.68,
+     "n": 1
+    },
+    {
+     "start": 21.68,
+     "end": 22.14,
+     "n": 1
+    },
+    {
+     "start": 22.14,
+     "end": 22.84,
+     "n": 1
+    },
+    {
+     "start": 22.84,
+     "end": 23.28,
+     "n": 1
+    },
+    {
+     "start": 23.28,
+     "end": 23.56,
+     "n": 1
+    },
+    {
+     "start": 23.56,
+     "end": 24.24,
+     "n": 1
+    },
+    {
+     "start": 24.24,
+     "end": 24.84,
+     "n": 1
+    },
+    {
+     "start": 24.84,
+     "end": 25.42,
+     "n": 1
+    },
+    {
+     "start": 25.72,
+     "end": 25.94,
+     "n": 1
+    },
+    {
+     "start": 25.94,
+     "end": 26.7,
+     "n": 1
+    },
+    {
+     "start": 26.7,
+     "end": 27.38,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bunun üzerine Divanı Hümayun, yani devletin en yüksek kurulu, Eyüp kadısına bir ferman gönderdi.",
+   "caption": "Bunun üzerine Divanı Hümayun, yani devletin en yüksek kurulu, Eyüp kadısına bir ferman gönderdi.",
+   "key": [
+    "ferman"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_divan.jpg",
+    "fit": "doldur",
+    "baslik": "Divanı Hümayun toplantısı, minyatür (temsilî) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Divanı Hümayun toplantısı, minyatür (temsilî) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 27.38,
+     "end": 28.02,
+     "n": 1
+    },
+    {
+     "start": 28.02,
+     "end": 28.58,
+     "n": 1
+    },
+    {
+     "start": 28.58,
+     "end": 29.28,
+     "n": 1
+    },
+    {
+     "start": 29.28,
+     "end": 29.84,
+     "n": 1
+    },
+    {
+     "start": 30.14,
+     "end": 30.46,
+     "n": 1
+    },
+    {
+     "start": 30.46,
+     "end": 31.1,
+     "n": 1
+    },
+    {
+     "start": 31.1,
+     "end": 31.36,
+     "n": 1
+    },
+    {
+     "start": 31.36,
+     "end": 31.74,
+     "n": 1
+    },
+    {
+     "start": 31.74,
+     "end": 32.36,
+     "n": 1
+    },
+    {
+     "start": 32.58,
+     "end": 32.8,
+     "n": 1
+    },
+    {
+     "start": 32.8,
+     "end": 33.3,
+     "n": 1
+    },
+    {
+     "start": 33.3,
+     "end": 33.58,
+     "n": 1
+    },
+    {
+     "start": 33.58,
+     "end": 33.9,
+     "n": 1
+    },
+    {
+     "start": 33.9,
+     "end": 34.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kadı, o bölgenin yargıcıydı. Ferman ise padişahın yazılı emri demekti. Emir açıktı.",
+   "caption": "Kadı, o bölgenin yargıcıydı. Ferman ise padişahın yazılı emri demekti. Emir açıktı.",
+   "key": [
+    "yargıcıydı."
+   ],
+   "image": {
+    "local": "assets/belgeler/066_kadi.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı kadısı, minyatür (temsilî) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı kadısı, minyatür (temsilî) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 35.0,
+     "end": 35.38,
+     "n": 1
+    },
+    {
+     "start": 35.38,
+     "end": 35.6,
+     "n": 1
+    },
+    {
+     "start": 35.6,
+     "end": 36.14,
+     "n": 1
+    },
+    {
+     "start": 36.14,
+     "end": 37.06,
+     "n": 1
+    },
+    {
+     "start": 37.26,
+     "end": 37.62,
+     "n": 1
+    },
+    {
+     "start": 37.62,
+     "end": 37.98,
+     "n": 1
+    },
+    {
+     "start": 37.98,
+     "end": 38.92,
+     "n": 1
+    },
+    {
+     "start": 38.92,
+     "end": 39.36,
+     "n": 1
+    },
+    {
+     "start": 39.36,
+     "end": 39.7,
+     "n": 1
+    },
+    {
+     "start": 39.7,
+     "end": 40.38,
+     "n": 1
+    },
+    {
+     "start": 40.58,
+     "end": 40.84,
+     "n": 1
+    },
+    {
+     "start": 40.84,
+     "end": 41.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kaymakçılar, kaymak yemeye gelen kadınları dükkânlarına almayacaktı. Kadın müşteri alan kaymakçı cezalandırılacaktı.",
+   "caption": "Kaymakçılar, kaymak yemeye gelen kadınları dükkânlarına almayacaktı. Kadın müşteri alan kaymakçı cezalandırılacaktı.",
+   "key": [
+    "cezalandırılacaktı."
+   ],
+   "image": {
+    "local": "assets/belgeler/066_ferman.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı fermanı, 1827 (temsilî örnek) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı fermanı, 1827 (temsilî örnek) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 41.84,
+     "end": 42.62,
+     "n": 1
+    },
+    {
+     "start": 42.62,
+     "end": 43.14,
+     "n": 1
+    },
+    {
+     "start": 43.14,
+     "end": 43.54,
+     "n": 1
+    },
+    {
+     "start": 43.54,
+     "end": 43.72,
+     "n": 1
+    },
+    {
+     "start": 43.72,
+     "end": 44.28,
+     "n": 1
+    },
+    {
+     "start": 44.28,
+     "end": 45.04,
+     "n": 1
+    },
+    {
+     "start": 45.04,
+     "end": 45.84,
+     "n": 1
+    },
+    {
+     "start": 46.2,
+     "end": 46.5,
+     "n": 1
+    },
+    {
+     "start": 46.5,
+     "end": 46.9,
+     "n": 1
+    },
+    {
+     "start": 46.9,
+     "end": 47.18,
+     "n": 1
+    },
+    {
+     "start": 47.18,
+     "end": 47.84,
+     "n": 1
+    },
+    {
+     "start": 47.84,
+     "end": 49.14,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "1573 FERMANI",
+    "baslik": "Eyüp kadısına",
+    "bekle": 0.6,
+    "maddeler": [
+     "Kadın müşteri alınmayacak",
+     "Alan kaymakçı cezalandırılacak"
+    ],
+    "basla": 0.2,
+    "zamanlar": [
+     0.08,
+     4.44
+    ]
+   }
+  },
+  {
+   "say": "Peki bu yasağı kim uygulayacaktı? Yük kadınlara değil, dükkân sahiplerine verilmişti. Kapıda kuralı uygulamak kaymakçıya düşüyordu.",
+   "caption": "Peki bu yasağı kim uygulayacaktı? Yük kadınlara değil, dükkân sahiplerine verilmişti. Kapıda kuralı uygulamak kaymakçıya düşüyordu.",
+   "key": [
+    "kaymakçıya"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_dukkan2.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda bir çarşı dükkânı · Underwood & Underwood / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulda bir çarşı dükkânı · Underwood & Underwood / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 49.5,
+     "end": 49.8,
+     "n": 1
+    },
+    {
+     "start": 49.8,
+     "end": 50.16,
+     "n": 1
+    },
+    {
+     "start": 50.16,
+     "end": 50.68,
+     "n": 1
+    },
+    {
+     "start": 50.68,
+     "end": 50.82,
+     "n": 1
+    },
+    {
+     "start": 50.82,
+     "end": 51.74,
+     "n": 1
+    },
+    {
+     "start": 52.34,
+     "end": 52.68,
+     "n": 1
+    },
+    {
+     "start": 52.68,
+     "end": 53.3,
+     "n": 1
+    },
+    {
+     "start": 53.3,
+     "end": 53.76,
+     "n": 1
+    },
+    {
+     "start": 53.9,
+     "end": 54.32,
+     "n": 1
+    },
+    {
+     "start": 54.32,
+     "end": 54.98,
+     "n": 1
+    },
+    {
+     "start": 54.98,
+     "end": 55.82,
+     "n": 1
+    },
+    {
+     "start": 55.82,
+     "end": 56.38,
+     "n": 1
+    },
+    {
+     "start": 56.38,
+     "end": 56.76,
+     "n": 1
+    },
+    {
+     "start": 56.76,
+     "end": 57.38,
+     "n": 1
+    },
+    {
+     "start": 57.38,
+     "end": 58.06,
+     "n": 1
+    },
+    {
+     "start": 58.06,
+     "end": 58.66,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yani bir kâse kaymak, padişahın emrine konu olmuştu. Sizce bu yasak işe yaramış mıdır?",
+   "caption": "Yani bir kâse kaymak, padişahın emrine konu olmuştu. Sizce bu yasak işe yaramış mıdır?",
+   "key": [
+    "kâse"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_kaymak.jpg",
+    "fit": "doldur",
+    "baslik": "Kaymak · E4024 / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Kaymak · E4024 / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 59.14,
+     "end": 59.48,
+     "n": 1
+    },
+    {
+     "start": 59.48,
+     "end": 60.0,
+     "n": 1
+    },
+    {
+     "start": 60.0,
+     "end": 60.32,
+     "n": 1
+    },
+    {
+     "start": 60.32,
+     "end": 60.88,
+     "n": 1
+    },
+    {
+     "start": 60.88,
+     "end": 61.72,
+     "n": 1
+    },
+    {
+     "start": 61.72,
+     "end": 62.1,
+     "n": 1
+    },
+    {
+     "start": 62.1,
+     "end": 62.46,
+     "n": 1
+    },
+    {
+     "start": 62.46,
+     "end": 62.96,
+     "n": 1
+    },
+    {
+     "start": 63.44,
+     "end": 63.86,
+     "n": 1
+    },
+    {
+     "start": 63.86,
+     "end": 64.06,
+     "n": 1
+    },
+    {
+     "start": 64.06,
+     "end": 64.42,
+     "n": 1
+    },
+    {
+     "start": 64.42,
+     "end": 64.7,
+     "n": 1
+    },
+    {
+     "start": 64.7,
+     "end": 65.02,
+     "n": 1
+    },
+    {
+     "start": 65.02,
+     "end": 65.36,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "yorumlarda"
+   ],
+   "image": {
+    "local": "assets/belgeler/066_hanim.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbullu bir Türk hanımı · Abdullah Frères / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbullu bir Türk hanımı · Abdullah Frères / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 65.88,
+     "end": 66.66,
+     "n": 1
+    },
+    {
+     "start": 66.66,
+     "end": 67.24,
+     "n": 1
+    },
+    {
+     "start": 67.24,
+     "end": 67.98,
+     "n": 1
+    },
+    {
+     "start": 68.18,
+     "end": 68.74,
+     "n": 1
+    },
+    {
+     "start": 68.74,
+     "end": 69.04,
+     "n": 1
+    },
+    {
+     "start": 69.04,
+     "end": 69.72,
+     "n": 1
+    },
+    {
+     "start": 69.72,
+     "end": 70.6,
+     "n": 1
+    },
+    {
+     "start": 70.98,
+     "end": 71.22,
+     "n": 1
+    },
+    {
+     "start": 71.22,
+     "end": 71.58,
+     "n": 1
+    },
+    {
+     "start": 71.58,
+     "end": 71.92,
+     "n": 1
+    },
+    {
+     "start": 71.92,
+     "end": 72.42,
+     "n": 1
+    },
+    {
+     "start": 72.42,
+     "end": 72.56,
+     "n": 1
+    },
+    {
+     "start": 72.56,
+     "end": 72.94,
+     "n": 1
+    },
+    {
+     "start": 72.94,
+     "end": 73.5,
+     "n": 1
+    },
+    {
+     "start": 73.5,
+     "end": 73.92,
+     "n": 1
+    },
+    {
+     "start": 73.92,
+     "end": 74.5,
+     "n": 1
+    },
+    {
+     "start": 74.5,
+     "end": 75.26,
+     "n": 1
+    },
+    {
+     "start": 75.26,
+     "end": 75.5,
+     "n": 1
+    },
+    {
+     "start": 75.5,
+     "end": 75.9,
+     "n": 1
+    },
+    {
+     "start": 75.9,
+     "end": 76.42,
+     "n": 1
+    },
+    {
+     "start": 76.42,
+     "end": 76.82,
+     "n": 1
+    },
+    {
+     "start": 76.82,
+     "end": 77.36,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
