@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 03.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok; #59 açık görsel tekrarları sürüyor)
+# DURUM — şu anki işler (son güncelleme: 04.11.2026 04:37, Hesap 1 gece kontrolü: 2 HATA (dalda kalan defter kaydı ve kurallar), ayrıntı MESAJLAR.md)
 
 **SON BÖLÜMLER: #58 Evli Kadının Soyadı ve #59 Miras (videolar hazır, yayın durumu DURUM'a yazılmamış).** Köy ebeleri ve Nüfus cüzdanı sıraya sonra girer. Aydemir rafta (numarası artık 058 değil). Nafaka konusu için belge/görsel turu yapıldı (01.11), durumu yazılmamış.
 
@@ -60,8 +60,12 @@
 - Yıldızlar: 3/4 şart tamam; eksik: 500 takipçiyi 30 gün korumak (03.11'de 16. gün, ~17.11'de dolar).
 - İçeriklerden para kazanma: bekleme listesi (davetle). Son 28 gün: ort. Reels izlenme 29,5 sn (hedef 33,3 sn), toplam görüntüleme 1,7 Mn (hedef 10 Mn).
 - 16-28 Ekim hitleri (kibrit 385B, Lozan 250B, bisiklet 198B, Adana 155B, yol parası 101B) gündelik eşya + eski yasak/vergi formatında; 29 Ekim'den beri hiçbir video 12B'yi geçmedi. Öneri: bu formata dön.
-- FB'de sabah videosu 15:00, akşam 18:00 önerildi. FB oynatma listesi "Cumhuriyetle Değişen Hayat" açıldı (12 video).
+- (Eski öneri: FB sabah 15:00, akşam 18:00. Yerini 04.11 TEK1 kararı aldı: 12:00/16:00.) FB oynatma listesi "Cumhuriyetle Değişen Hayat" açıldı (12 video).
 - #62 Savaşlar ve #63 Düğün: video bitti (dallar ccr-hesap2-savas, ccr-hesap2-dugun). #63 yükleme seti TEK1 onayı bekliyor.
+
+## DALLARDAKİ BÖLÜMLER (04.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
+- #60 Önlük: ccr-hesap2-onluk. #61 Çarşaf: ccr-hesap2-carsaf (IG 5 cevap deftere işlendi). #62 Savaş: ccr-hesap2-savas/dugun (ses 151,5 sn). #63 Düğün: ccr-hesap2-dugun (ses 130,1 sn, yükleme seti TEK1 onayı bekliyor). #64 Telefon: ccr-hesap2-telefon (ses bekleniyor).
+- AÇIK (TEK1 onayı): FB Bisiklet gönderisinin defter kaydı ve SENARYO AYRINTISI / YATAY FOTOĞRAF / 1,7 kelime/sn / AI ETİKETİ kuralları sadece dallarda, main'e alınmalı. AI etiketi kararı TEK1'in.
 
 ## PAYLAŞIM SAATİ DENEMESİ (04.11.2026, TEK1 kararı)
 - 4-10 Kasım: 1. video 12:00, 2. video 16:00, tüm platformlar. 11 Kasım'da istatistik dalındaki ozet.md ile eski saatleri (07:00/18:00) karşılaştır.

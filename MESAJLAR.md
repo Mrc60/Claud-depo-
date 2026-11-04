@@ -8,6 +8,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 04.11.2026 04:37 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatte Hesap 2'nin main'de 9, dallarda ~30 kaydı denetlendi (062 Savaş, 063 Düğün, 064 Telefon, istatistik görevi, defter, kurallar). Hepsinde "Hesap: 2" etiketi var.
+- HATA 1 (ÇİFT CEVAP RİSKİ): FB "Bisiklet plaka / ekmek karne" gönderisi (1400881546439231_122107396599516389) defter kaydı sadece ccr-hesap2-defter dalında (ce63887), main'deki yorumlar/defter.json'da YOK. Zekeriya Köksal'a gönderilmiş cevap main defterde görünmüyor; Hesap 1 bu gönderiye bakarsa aynı yoruma ikinci cevap yazabilir. Neden: dal main'e alınmamış (Çarşaf kaydı alınmış, bu alınmamış). Öneri: ce63887'deki defter kaydını TEK1 onayıyla main'e al.
+- HATA 2 (KURALLAR DALDA KALDI): Şu kural/dersler sadece dallarda, main'deki CLAUDE.md/HAFIZA.md'de yok: SENARYO AYRINTISI (3ada637, ccr-hesap2-defter), YATAY FOTOĞRAF + süre 1,7 kelime/sn + EKRAN GÖRÜNTÜSÜ + kontrol.py düzeltmesi (4248e6f, ccr-hesap2-carsaf), AI ETİKETİ (b667ab4, ccr-hesap2-telefon). Hesap 1 main'i okuyor, bu kuralları göremez ("tek beyin" bozuluyor; kontrol.py main'de hâlâ eski 2,3 kelime/sn olabilir). Öneri: kural kayıtlarını TEK1 onayıyla main'e al.
+- HATA 3 (küçük, DURUM tutarsızlığı): DURUM "FB'de sabah 15:00, akşam 18:00 önerildi" satırı 04.11 TEK1 kararıyla (12:00/16:00) çelişiyor. #60 Önlük, #61 Çarşaf, #64 Telefon'un durumu DURUM'da eksikti (Hesap 1 bu gece ekledi, yayın bilgisi "bilinmiyor").
+- SORU (TEK1'e): AI ETİKETİ satırı "TEK1 kararı" diye işaretli değil ama "her videoda AÇIK olacak" diyor. Etiket erişimi etkileyebilir; karar TEK1'in, onaylandı mı?
+- Kontrol edildi, sorun yok: main defter 70 kayıt, çift yorum_id/cevap_id yok. Çarşaf IG 5 cevap; olumlu2kadin'in siyasi yorumu atlanmış, farklı yorumuna cevap verilmiş (kurala uygun). Zekeriya cevabı 031 Kibrit kartıyla uyumlu. istatistik.py/yml anahtarı yazdırmıyor, salt okuma. kontrol.py: 062 ve 063 0 hata (süre 151,5 ve 130,1 sn sadece UYARI, 062'de 2 küçük görsel), 064 0 hata. 061-064 metinlerinde kesme işareti yok, "ilk" iddiası yok, kapanış cümleleri tam, ölü yerine şehit kuralı ihlali yok.
+- RİSK (TEK1'e): 062 Savaş din/Suriye/Sykes-Picot konusu; yorumlar gergin olabilir. Cevaplarda tartışmaya girmeden kısa, karttaki bilgiyle.
+- KONTROL EDİLEMEDİ: kaynak tabloları ve kaynak içerikleri, yükleme setleri (sohbette), video kareleri, mp3, Meta yardım sayfası (AI etiketi), Zernio'daki gerçek cevaplar.
+Hesap: 1
+
 ## 03.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte Hesap 1'in 3 kaydı denetlendi: 3bf1561 (INCE_AYARLAR: süre 75'i geçebilir), 525a999 (kontrol.py + HAFIZA ek kanal notları + CLAUDE.md'ye 1 satır), 4ffbabf (gece kontrolü, sadece MESAJLAR+DURUM). Üçünde de "Hesap: 1" etiketi var, kural dışı bir şey yok. Yeni HATA yok.
 - Kontrol edildi, sorun yok: yorumlar/defter.json 66 yorum_id, çift yorum_id ve çift cevap_id yok. 525a999 yalnızca CLAUDE.md, HAFIZA.md, kontrol.py değiştirmiş (TEK1 kararı 02.11 ile uyumlu). 4ffbabf'in DURUM/MESAJLAR içeriği gerçek kayıtlarla uyumlu.
