@@ -104,6 +104,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - Kaynağı blog veya forum olan Commons dosyalarını kullanma.
 - Kapak: Kapağı TEK1 ChatGPT'de kendisi yapar. Sen sadece 2–3 arka plan fotoğrafı ve başlık fikri verirsin. Eski kapak tarzı istenir, yıpranma efekti hafif olsun.
 - KAPAK TALİMATI (TEK1 kararı, 04.11.2026, kesin): Her kapakta 2-3 arka plan görseli + başlık önerisi + ChatGPT talimatı ver. Talimatta: yazılar KALIN; başlık kapağın ORTASINDA (dikey ortada; üstte olursa bazı platformlarda kesik çıkıyor, üst ve alt %20'ye yazı koyma); dikkat çeken ama videoya ve fotoğrafa uyumlu renk (siyah-beyaz fotoğrafa altın sarısı/kehribar + beyaz, videodaki vurgu rengiyle aynı); fotoğrafı değiştirme/yeniden çizme, siyah-beyaz kalsın, hafif eski kâğıt dokusu; yazıyı kapatan koyu kutu yok, ince kontur/gölge olabilir.
+- KAPAK RENGİ (05.11.2026, hata dersi): Kapak yazı renklerini her videoda konuya ve fotoğrafa göre ayrı seç; hep beyaz + altın yazma. Arka arkaya iki kapakta aynı renk çifti olmasın. Talimatta rengin adını ve kod değerini (#RRGGBB) yaz, neden seçtiğini bir cümleyle söyle (ör. kaymak: krem + bordo, alfabe: taş grisi + gök mavisi).
 
 ## 7. YÜKLEME SETİ
 - Video yapılıp TEK1 onayladıktan sonra tüm seti tek seferde ver. Her alan ayrı kopyalanabilir blokta olsun.
