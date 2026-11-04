@@ -8,7 +8,7 @@ Kullanım:
 
 Yükleme seti dosya biçimi: her alan "=== AD ===" satırıyla başlar. Adlar:
   YT_BASLIK, YT_ACIKLAMA, YT_ETIKET, YT_SABIT, TT_ACIKLAMA, TT_SABIT,
-  FBIG_ACIKLAMA, FBIG_SABIT
+  FBIG_ACIKLAMA, FBIG_SABIT, X_ACIKLAMA
 
 HATA = teslim etme, düzelt. UYARI = TEK1'e bir cümleyle bildir.
 Süre 75 sn'yi geçerse sadece UYARI (TEK1 bazen bilerek uzun istiyor).
@@ -164,7 +164,7 @@ def set_kontrol(yol):
     for m in re.finditer(r"^===\s*(\w+)\s*===\s*\n(.*?)(?=^===|\Z)", t, re.M | re.S):
         alan[m.group(1).upper()] = m.group(2).strip()
     gerekli = ["YT_BASLIK", "YT_ACIKLAMA", "YT_ETIKET", "YT_SABIT",
-               "TT_ACIKLAMA", "TT_SABIT", "FBIG_ACIKLAMA", "FBIG_SABIT"]
+               "TT_ACIKLAMA", "TT_SABIT", "FBIG_ACIKLAMA", "FBIG_SABIT", "X_ACIKLAMA"]
     for g in gerekli:
         if not alan.get(g):
             hata(f"{g} eksik (set tek seferde eksiksiz verilir)")
@@ -181,7 +181,7 @@ def set_kontrol(yol):
                 hata(f"{ad}: sabit yorumda kaynak/link olmaz")
             if len(v) > 120:
                 uyari(f"{ad}: sabit yorum uzun ({len(v)} karakter)")
-        if ad in ("TT_ACIKLAMA", "FBIG_ACIKLAMA"):
+        if ad in ("TT_ACIKLAMA", "FBIG_ACIKLAMA", "X_ACIKLAMA"):
             if LINK.search(v):
                 hata(f"{ad}: link var")
             if CAGRI.search(v):
@@ -200,6 +200,14 @@ def set_kontrol(yol):
             hata(f"FBIG_ACIKLAMA {b} bayt (en fazla 370)")
         if k >= 400:
             hata(f"FBIG_ACIKLAMA {k} karakter (400 altı olmalı)")
+    xa = alan.get("X_ACIKLAMA", "")
+    if xa:
+        print(f"X açıklama: {len(xa)} karakter")
+        if len(xa) > 250:
+            hata(f"X_ACIKLAMA {len(xa)} karakter (en fazla 250; ücretsiz X sınırı 280)")
+        ne = len(re.findall(r"#\w+", xa))
+        if ne != 2:
+            hata(f"X_ACIKLAMA {ne} etiket (2 olmalı)")
     yb = alan.get("YT_BASLIK", "")
     if yb and not re.search(r"#SıradanDeğil \d+$", yb):
         hata("YT_BASLIK biçimi '<cümle> #SıradanDeğil N' değil")

@@ -111,6 +111,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - TikTok: açıklama, sabit yorum
   - Instagram: açıklama, sabit yorum
   - Facebook: metin, sabit yorum
+  - X: açıklama (X_ACIKLAMA)
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
 - FB/IG AÇIKLAMA BAYT SINIRI (30.10.2026, doğrulandı): Facebook "10-400 karakter" uyarısında karakteri değil UTF-8 BAYTI sayıyor (Türkçe harf 2, emoji 4 bayt). Açıklama en fazla 370 BAYT olsun, her seferinde python ile `len(t.encode())` ölç. 📚 emojisi ve · işareti kullanma. (Banker 410 bayt 8/9 → 356 bayt 9/9; Altı Sıfır ve Ege aynı.) Uyarı erişimi öldürmüyor ama 9/9 hedef.
 - EMOJİ YOK (TEK1 kararı, 31.10.2026): Sabit yorum HARİÇ hiçbir alanda emoji yok: başlık, açıklama, etiket; YouTube, TikTok, Instagram, Facebook hepsi. Sabit yorumda emoji serbest (ör. Banker IG sabit yorumu 👇 ile bitiyordu). Facebook ve TikTok açıklamasında emoji sorun çıkarıyor.
@@ -120,6 +121,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - TESLİMDEN ÖNCE ZORUNLU KONTROL: Seti göndermeden önce tüm blokları python ile tara: emoji var mı, · var mı, FB/IG açıklaması ≤370 bayt mı, açıklamada link/"beğen"/"paylaş" var mı. Sonucu teslimde tek satırla yaz. Seti TEK SEFERDE, tüm alanlar eksiksiz ver; parça parça düzeltme gönderme.
 - Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
 - ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
+- X (TEK1 kararı, 04.11.2026): X hesabı açıldı. Her gün günün en iyi 1 videosu X'e de atılır. Yükleme setine X_ACIKLAMA bloğu eklenir: en fazla 250 karakter (ücretsiz X sınırı 280), merak uyandıran ilk cümle, kısa kaynak adları, TAM 2 etiket (#SıradanDeğil + konuya özel), emoji/link/çağrı yok, sabit yorum yok. Siyasi tartışma konusu atılmaz. Premium alınmaz; para kazanma şartları (Premium, 2.000 doğrulanmış takipçi, 3 ayda 5 milyon gösterim) uzak. 1 ay sonra (04.12.2026) gösterime bakıp devam/bırak kararı.
 - Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
 
 ## 8. YORUM CEVAPLARI
