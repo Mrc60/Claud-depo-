@@ -1,0 +1,1125 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 65,
+ "slug": "alfabe",
+ "title": "Türkler Kimin Harflerini Kullandı",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Y ve Z aslında\nYunan harfi!",
+ "dis_ses": {
+  "file": "assets/ses/065_alfabe.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.4
+    ]
+   ],
+   [
+    [
+     8.4,
+     21.71
+    ]
+   ],
+   [
+    [
+     21.71,
+     32.82
+    ]
+   ],
+   [
+    [
+     32.82,
+     38.52
+    ]
+   ],
+   [
+    [
+     38.52,
+     51.12
+    ]
+   ],
+   [
+    [
+     51.12,
+     57.46
+    ]
+   ],
+   [
+    [
+     57.46,
+     63.25
+    ]
+   ],
+   [
+    [
+     63.25,
+     69.89
+    ]
+   ],
+   [
+    [
+     69.89,
+     75.88
+    ]
+   ],
+   [
+    [
+     75.88,
+     92.84
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Her gün yazdığımız Y ve Z harfleri aslında Yunan harfi. Peki Türkler tarih boyunca kimin harflerini kullandı?",
+   "caption": "Her gün yazdığımız Y ve Z harfleri aslında Yunan harfi. Peki Türkler tarih boyunca kimin harflerini kullandı?",
+   "key": [
+    "Yunan"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_yunan.jpg",
+    "fit": "doldur",
+    "baslik": "Antik Yunan yazıtı, Delfi · Zde / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Antik Yunan yazıtı, Delfi · Zde / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.38,
+     "n": 1
+    },
+    {
+     "start": 0.38,
+     "end": 0.58,
+     "n": 1
+    },
+    {
+     "start": 0.58,
+     "end": 1.28,
+     "n": 1
+    },
+    {
+     "start": 1.28,
+     "end": 1.62,
+     "n": 1
+    },
+    {
+     "start": 1.62,
+     "end": 1.76,
+     "n": 1
+    },
+    {
+     "start": 1.76,
+     "end": 2.12,
+     "n": 1
+    },
+    {
+     "start": 2.12,
+     "end": 2.84,
+     "n": 1
+    },
+    {
+     "start": 2.84,
+     "end": 3.44,
+     "n": 1
+    },
+    {
+     "start": 3.44,
+     "end": 3.92,
+     "n": 1
+    },
+    {
+     "start": 3.92,
+     "end": 4.28,
+     "n": 1
+    },
+    {
+     "start": 4.88,
+     "end": 5.22,
+     "n": 1
+    },
+    {
+     "start": 5.22,
+     "end": 5.82,
+     "n": 1
+    },
+    {
+     "start": 5.82,
+     "end": 6.3,
+     "n": 1
+    },
+    {
+     "start": 6.3,
+     "end": 6.86,
+     "n": 1
+    },
+    {
+     "start": 6.86,
+     "end": 7.14,
+     "n": 1
+    },
+    {
+     "start": 7.14,
+     "end": 7.68,
+     "n": 1
+    },
+    {
+     "start": 7.68,
+     "end": 8.28,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Türkler ondan fazla alfabe kullandı. Bilinen en eski Türkçe yazılar, Moğolistandaki Orhun Yazıtlarıdır. Göktürk harfleriyle taşa yazıldı. Bu harflerin kökeni hâlâ tartışmalı.",
+   "caption": "Türkler ondan fazla alfabe kullandı. Bilinen en eski Türkçe yazılar, Moğolistandaki Orhun Yazıtlarıdır. Göktürk harfleriyle taşa yazıldı. Bu harflerin kökeni hâlâ tartışmalı.",
+   "key": [
+    "Orhun"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_tonyukuk.jpg",
+    "fit": "doldur",
+    "baslik": "Tonyukuk Yazıtları, Moğolistan · Vezirtonyukuk / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Tonyukuk Yazıtları, Moğolistan · Vezirtonyukuk / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.88,
+     "end": 9.46,
+     "n": 1
+    },
+    {
+     "start": 9.46,
+     "end": 9.92,
+     "n": 1
+    },
+    {
+     "start": 9.92,
+     "end": 10.3,
+     "n": 1
+    },
+    {
+     "start": 10.3,
+     "end": 10.78,
+     "n": 1
+    },
+    {
+     "start": 10.78,
+     "end": 11.64,
+     "n": 1
+    },
+    {
+     "start": 11.94,
+     "end": 12.3,
+     "n": 1
+    },
+    {
+     "start": 12.3,
+     "end": 12.64,
+     "n": 1
+    },
+    {
+     "start": 12.64,
+     "end": 13.0,
+     "n": 1
+    },
+    {
+     "start": 13.0,
+     "end": 13.34,
+     "n": 1
+    },
+    {
+     "start": 13.34,
+     "end": 13.92,
+     "n": 1
+    },
+    {
+     "start": 14.16,
+     "end": 15.0,
+     "n": 1
+    },
+    {
+     "start": 15.0,
+     "end": 15.46,
+     "n": 1
+    },
+    {
+     "start": 15.46,
+     "end": 16.24,
+     "n": 1
+    },
+    {
+     "start": 16.7,
+     "end": 17.26,
+     "n": 1
+    },
+    {
+     "start": 17.26,
+     "end": 17.8,
+     "n": 1
+    },
+    {
+     "start": 17.8,
+     "end": 18.22,
+     "n": 1
+    },
+    {
+     "start": 18.22,
+     "end": 18.66,
+     "n": 1
+    },
+    {
+     "start": 19.08,
+     "end": 19.26,
+     "n": 1
+    },
+    {
+     "start": 19.26,
+     "end": 19.7,
+     "n": 1
+    },
+    {
+     "start": 19.7,
+     "end": 20.3,
+     "n": 1
+    },
+    {
+     "start": 20.3,
+     "end": 20.7,
+     "n": 1
+    },
+    {
+     "start": 20.7,
+     "end": 21.6,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kimine göre Orta Asyadaki Soğdlardan alındı, kimine göre bozkırda Türklerin kendi işaretlerinden doğdu. Uygur harfleri ise kesin olarak Soğdlardan alındı.",
+   "caption": "Kimine göre Orta Asyadaki Soğdlardan alındı, kimine göre bozkırda Türklerin kendi işaretlerinden doğdu. Uygur harfleri ise kesin olarak Soğdlardan alındı.",
+   "key": [
+    "Soğdlardan"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_uygur.jpg",
+    "fit": "doldur",
+    "baslik": "Uygur harfleriyle Çağatayca ferman, Miran Şah dönemi · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Uygur harfleriyle Çağatayca ferman, Miran Şah dönemi · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 21.82,
+     "end": 22.14,
+     "n": 1
+    },
+    {
+     "start": 22.14,
+     "end": 22.48,
+     "n": 1
+    },
+    {
+     "start": 22.48,
+     "end": 22.96,
+     "n": 1
+    },
+    {
+     "start": 22.96,
+     "end": 23.48,
+     "n": 1
+    },
+    {
+     "start": 23.48,
+     "end": 24.14,
+     "n": 1
+    },
+    {
+     "start": 24.14,
+     "end": 24.92,
+     "n": 1
+    },
+    {
+     "start": 25.16,
+     "end": 25.44,
+     "n": 1
+    },
+    {
+     "start": 25.44,
+     "end": 25.82,
+     "n": 1
+    },
+    {
+     "start": 25.82,
+     "end": 26.58,
+     "n": 1
+    },
+    {
+     "start": 26.58,
+     "end": 27.16,
+     "n": 1
+    },
+    {
+     "start": 27.16,
+     "end": 27.48,
+     "n": 1
+    },
+    {
+     "start": 27.48,
+     "end": 28.4,
+     "n": 1
+    },
+    {
+     "start": 28.4,
+     "end": 28.78,
+     "n": 1
+    },
+    {
+     "start": 28.78,
+     "end": 29.6,
+     "n": 1
+    },
+    {
+     "start": 29.6,
+     "end": 30.12,
+     "n": 1
+    },
+    {
+     "start": 30.12,
+     "end": 30.54,
+     "n": 1
+    },
+    {
+     "start": 30.54,
+     "end": 30.94,
+     "n": 1
+    },
+    {
+     "start": 30.94,
+     "end": 31.32,
+     "n": 1
+    },
+    {
+     "start": 31.32,
+     "end": 31.92,
+     "n": 1
+    },
+    {
+     "start": 31.92,
+     "end": 32.7,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Türkler Müslüman olunca Arapların harflerini aldı ve bin yılı aşkın süre kullandı.",
+   "caption": "Türkler Müslüman olunca Arapların harflerini aldı ve bin yılı aşkın süre kullandı.",
+   "key": [
+    "Arapların"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_cihannuma.jpg",
+    "fit": "doldur",
+    "baslik": "Kâtip Çelebi, Cihannüma, harita sayfası (Arap harfli Osmanlıca) · Houghton Kütüphanesi / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Kâtip Çelebi, Cihannüma, harita sayfası (Arap harfli Osmanlıca) · Houghton Kütüphanesi / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 32.94,
+     "end": 33.32,
+     "n": 1
+    },
+    {
+     "start": 33.32,
+     "end": 33.8,
+     "n": 1
+    },
+    {
+     "start": 33.8,
+     "end": 34.38,
+     "n": 1
+    },
+    {
+     "start": 34.38,
+     "end": 35.0,
+     "n": 1
+    },
+    {
+     "start": 35.0,
+     "end": 35.48,
+     "n": 1
+    },
+    {
+     "start": 35.48,
+     "end": 36.02,
+     "n": 1
+    },
+    {
+     "start": 36.02,
+     "end": 36.42,
+     "n": 1
+    },
+    {
+     "start": 36.42,
+     "end": 36.68,
+     "n": 1
+    },
+    {
+     "start": 36.68,
+     "end": 37.04,
+     "n": 1
+    },
+    {
+     "start": 37.04,
+     "end": 37.38,
+     "n": 1
+    },
+    {
+     "start": 37.38,
+     "end": 37.58,
+     "n": 1
+    },
+    {
+     "start": 37.58,
+     "end": 38.4,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1928de Türkiye, Romalılardan gelen Latin harflerine geçti. Romalılar Y ve Z harflerini Yunanlılardan almıştı. Yeni harfler Türkçenin seslerine göre düzenlendi.",
+   "caption": "1928de Türkiye, Romalılardan gelen Latin harflerine geçti. Romalılar Y ve Z harflerini Yunanlılardan almıştı. Yeni harfler Türkçenin seslerine göre düzenlendi.",
+   "key": [
+    "Latin"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_harf1928.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiyede yeni Latin alfabesinin tanıtımı · Nationaal Archief / Wikimedia Commons, kısıtlamasız",
+    "lisans": "",
+    "kaynak": "Türkiyede yeni Latin alfabesinin tanıtımı · Nationaal Archief / Wikimedia Commons, kısıtlamasız",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 39.12,
+     "end": 40.06,
+     "n": 1
+    },
+    {
+     "start": 40.06,
+     "end": 40.62,
+     "n": 1
+    },
+    {
+     "start": 41.06,
+     "end": 41.68,
+     "n": 1
+    },
+    {
+     "start": 41.68,
+     "end": 41.98,
+     "n": 1
+    },
+    {
+     "start": 41.98,
+     "end": 42.34,
+     "n": 1
+    },
+    {
+     "start": 42.34,
+     "end": 42.94,
+     "n": 1
+    },
+    {
+     "start": 42.94,
+     "end": 43.62,
+     "n": 1
+    },
+    {
+     "start": 43.88,
+     "end": 44.48,
+     "n": 1
+    },
+    {
+     "start": 44.48,
+     "end": 45.08,
+     "n": 1
+    },
+    {
+     "start": 45.08,
+     "end": 45.2,
+     "n": 1
+    },
+    {
+     "start": 45.2,
+     "end": 45.48,
+     "n": 1
+    },
+    {
+     "start": 45.48,
+     "end": 46.14,
+     "n": 1
+    },
+    {
+     "start": 46.14,
+     "end": 46.96,
+     "n": 1
+    },
+    {
+     "start": 46.96,
+     "end": 47.58,
+     "n": 1
+    },
+    {
+     "start": 48.02,
+     "end": 48.22,
+     "n": 1
+    },
+    {
+     "start": 48.22,
+     "end": 48.86,
+     "n": 1
+    },
+    {
+     "start": 48.86,
+     "end": 49.52,
+     "n": 1
+    },
+    {
+     "start": 49.52,
+     "end": 50.02,
+     "n": 1
+    },
+    {
+     "start": 50.02,
+     "end": 50.22,
+     "n": 1
+    },
+    {
+     "start": 50.22,
+     "end": 51.0,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki diğer Türkler? Sovyetler Birliğindeki Türk halkları önce Latin harflerine geçti.",
+   "caption": "Peki diğer Türkler? Sovyetler Birliğindeki Türk halkları önce Latin harflerine geçti.",
+   "key": [
+    "Latin"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_yanalif.jpg",
+    "fit": "doldur",
+    "baslik": "Yeni Türk Alfabesi savunucuları, gazete sayfası · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Yeni Türk Alfabesi savunucuları, gazete sayfası · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 51.46,
+     "end": 51.78,
+     "n": 1
+    },
+    {
+     "start": 51.78,
+     "end": 52.26,
+     "n": 1
+    },
+    {
+     "start": 52.26,
+     "end": 52.74,
+     "n": 1
+    },
+    {
+     "start": 53.38,
+     "end": 53.96,
+     "n": 1
+    },
+    {
+     "start": 53.96,
+     "end": 54.6,
+     "n": 1
+    },
+    {
+     "start": 54.6,
+     "end": 54.88,
+     "n": 1
+    },
+    {
+     "start": 54.88,
+     "end": 55.48,
+     "n": 1
+    },
+    {
+     "start": 55.48,
+     "end": 55.92,
+     "n": 1
+    },
+    {
+     "start": 55.92,
+     "end": 56.28,
+     "n": 1
+    },
+    {
+     "start": 56.28,
+     "end": 56.86,
+     "n": 1
+    },
+    {
+     "start": 56.86,
+     "end": 57.46,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sonra Sovyet yönetiminin emriyle Rusların kullandığı Kiril harflerine geçirildi.",
+   "caption": "Sonra Sovyet yönetiminin emriyle Rusların kullandığı Kiril harflerine geçirildi.",
+   "key": [
+    "Kiril"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_kiril_afis.jpg",
+    "fit": "doldur",
+    "baslik": "Kiril harfli Sovyet afişi, A. Radakov · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Kiril harfli Sovyet afişi, A. Radakov · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.46,
+     "end": 58.16,
+     "n": 1
+    },
+    {
+     "start": 58.16,
+     "end": 58.76,
+     "n": 1
+    },
+    {
+     "start": 58.76,
+     "end": 59.42,
+     "n": 1
+    },
+    {
+     "start": 59.42,
+     "end": 60.1,
+     "n": 1
+    },
+    {
+     "start": 60.1,
+     "end": 60.6,
+     "n": 1
+    },
+    {
+     "start": 60.6,
+     "end": 61.34,
+     "n": 1
+    },
+    {
+     "start": 61.34,
+     "end": 61.72,
+     "n": 1
+    },
+    {
+     "start": 61.72,
+     "end": 62.26,
+     "n": 1
+    },
+    {
+     "start": 62.26,
+     "end": 63.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sovyetler dağılınca Azerbaycan ve Türkmenistan gibi bazı ülkeler yeniden Latin harflerine döndü.",
+   "caption": "Sovyetler dağılınca Azerbaycan ve Türkmenistan gibi bazı ülkeler yeniden Latin harflerine döndü.",
+   "key": [
+    "Azerbaycan"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_yeniyol.jpg",
+    "fit": "doldur",
+    "baslik": "Yeni Yol gazetesi, Latin harfli Azerbaycan Türkçesi · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Yeni Yol gazetesi, Latin harfli Azerbaycan Türkçesi · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 63.36,
+     "end": 63.94,
+     "n": 1
+    },
+    {
+     "start": 63.94,
+     "end": 64.7,
+     "n": 1
+    },
+    {
+     "start": 64.7,
+     "end": 65.52,
+     "n": 1
+    },
+    {
+     "start": 65.52,
+     "end": 65.7,
+     "n": 1
+    },
+    {
+     "start": 65.7,
+     "end": 66.42,
+     "n": 1
+    },
+    {
+     "start": 66.42,
+     "end": 66.72,
+     "n": 1
+    },
+    {
+     "start": 66.72,
+     "end": 67.12,
+     "n": 1
+    },
+    {
+     "start": 67.12,
+     "end": 67.82,
+     "n": 1
+    },
+    {
+     "start": 67.82,
+     "end": 68.26,
+     "n": 1
+    },
+    {
+     "start": 68.26,
+     "end": 68.54,
+     "n": 1
+    },
+    {
+     "start": 68.54,
+     "end": 69.12,
+     "n": 1
+    },
+    {
+     "start": 69.12,
+     "end": 69.78,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yani Türkçe en çok beş alfabeyle yazıldı ve bunların çoğu başka halklardan alındı.",
+   "caption": "Yani Türkçe en çok beş alfabeyle yazıldı ve bunların çoğu başka halklardan alındı.",
+   "key": [
+    "beş"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_altay.jpg",
+    "fit": "doldur",
+    "baslik": "Ders çalışan Altaylılar, Sovyet dönemi · Mikhail Prekhner / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Ders çalışan Altaylılar, Sovyet dönemi · Mikhail Prekhner / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 70.0,
+     "end": 70.44,
+     "n": 1
+    },
+    {
+     "start": 70.44,
+     "end": 71.02,
+     "n": 1
+    },
+    {
+     "start": 71.02,
+     "end": 71.36,
+     "n": 1
+    },
+    {
+     "start": 71.36,
+     "end": 71.56,
+     "n": 1
+    },
+    {
+     "start": 71.56,
+     "end": 71.88,
+     "n": 1
+    },
+    {
+     "start": 71.88,
+     "end": 72.54,
+     "n": 1
+    },
+    {
+     "start": 72.54,
+     "end": 73.02,
+     "n": 1
+    },
+    {
+     "start": 73.02,
+     "end": 73.4,
+     "n": 1
+    },
+    {
+     "start": 73.4,
+     "end": 73.9,
+     "n": 1
+    },
+    {
+     "start": 73.9,
+     "end": 74.34,
+     "n": 1
+    },
+    {
+     "start": 74.34,
+     "end": 74.7,
+     "n": 1
+    },
+    {
+     "start": 74.7,
+     "end": 75.28,
+     "n": 1
+    },
+    {
+     "start": 75.28,
+     "end": 75.76,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "TÜRKÇENİN",
+    "baslik": "Beş alfabesi",
+    "bekle": 0.6,
+    "maddeler": [
+     "Göktürk",
+     "Uygur",
+     "Arap",
+     "Latin",
+     "Kiril"
+    ],
+    "basla": 0.3,
+    "zamanlar": [
+     1.67,
+     2.17,
+     2.67,
+     3.17,
+     3.67
+    ]
+   }
+  },
+  {
+   "say": "Peki bu kadar çok alfabe değişikliği size ne düşündürüyor? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki bu kadar çok alfabe değişikliği size ne düşündürüyor? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "düşündürüyor?"
+   ],
+   "image": {
+    "local": "assets/belgeler/065_likbez.jpg",
+    "fit": "doldur",
+    "baslik": "Çuvaşistanda okuma kursu (Likbez), Sovyet dönemi · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Çuvaşistanda okuma kursu (Likbez), Sovyet dönemi · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 76.18,
+     "end": 76.48,
+     "n": 1
+    },
+    {
+     "start": 76.48,
+     "end": 76.86,
+     "n": 1
+    },
+    {
+     "start": 76.86,
+     "end": 77.2,
+     "n": 1
+    },
+    {
+     "start": 77.2,
+     "end": 77.44,
+     "n": 1
+    },
+    {
+     "start": 77.44,
+     "end": 77.88,
+     "n": 1
+    },
+    {
+     "start": 77.88,
+     "end": 78.76,
+     "n": 1
+    },
+    {
+     "start": 78.76,
+     "end": 79.0,
+     "n": 1
+    },
+    {
+     "start": 79.0,
+     "end": 79.36,
+     "n": 1
+    },
+    {
+     "start": 79.36,
+     "end": 79.88,
+     "n": 1
+    },
+    {
+     "start": 80.42,
+     "end": 81.26,
+     "n": 1
+    },
+    {
+     "start": 81.26,
+     "end": 81.88,
+     "n": 1
+    },
+    {
+     "start": 81.88,
+     "end": 82.7,
+     "n": 1
+    },
+    {
+     "start": 82.92,
+     "end": 83.5,
+     "n": 1
+    },
+    {
+     "start": 83.5,
+     "end": 83.84,
+     "n": 1
+    },
+    {
+     "start": 83.84,
+     "end": 84.54,
+     "n": 1
+    },
+    {
+     "start": 84.54,
+     "end": 85.36,
+     "n": 1
+    },
+    {
+     "start": 85.36,
+     "end": 86.2,
+     "n": 1
+    },
+    {
+     "start": 86.2,
+     "end": 86.62,
+     "n": 1
+    },
+    {
+     "start": 86.62,
+     "end": 87.0,
+     "n": 1
+    },
+    {
+     "start": 87.0,
+     "end": 87.52,
+     "n": 1
+    },
+    {
+     "start": 87.52,
+     "end": 87.66,
+     "n": 1
+    },
+    {
+     "start": 87.66,
+     "end": 88.06,
+     "n": 1
+    },
+    {
+     "start": 88.06,
+     "end": 88.68,
+     "n": 1
+    },
+    {
+     "start": 88.68,
+     "end": 89.16,
+     "n": 1
+    },
+    {
+     "start": 89.16,
+     "end": 89.74,
+     "n": 1
+    },
+    {
+     "start": 89.74,
+     "end": 90.56,
+     "n": 1
+    },
+    {
+     "start": 90.56,
+     "end": 90.74,
+     "n": 1
+    },
+    {
+     "start": 90.74,
+     "end": 91.14,
+     "n": 1
+    },
+    {
+     "start": 91.14,
+     "end": 91.7,
+     "n": 1
+    },
+    {
+     "start": 91.7,
+     "end": 92.12,
+     "n": 1
+    },
+    {
+     "start": 92.12,
+     "end": 92.7,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
