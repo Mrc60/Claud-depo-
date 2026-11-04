@@ -1,3 +1,60 @@
-{"bolum":"065_alfabe","min_w":700,
- "sorgular":["Kül Tigin inscription","Kul Tegin stele","Tonyukuk inscription","Orkhon Old Turkic script","Bilge Khagan inscription","Harf İnkılabı","Yeni Türk harfleri","Türk alfabesi 1928","alphabet reform Turkey 1928","Likbez","Yañalif","New Turkic Alphabet","Prokudin-Gorsky Samarkand","Uzbek women literacy","Kazakh school 1930s","Arch of Augustus Rimini"],
- "incele":[],"indir":[]}
+{
+ "bolum": "065_alfabe",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:The firman of Miran Shah in Chagatai, written in the Old Uyghur script.jpg",
+   "ad": "065_uygur"
+  },
+  {
+   "file": "File:Houghton Typ 794.34.475 - Kâtip Çelebi, Kitab-ı cihannüma.jpg",
+   "ad": "065_cihannuma"
+  },
+  {
+   "file": "File:Ancient Greek inscription, Delphi, 060055.jpg",
+   "ad": "065_yunan"
+  },
+  {
+   "file": "File:Bilge Tonyukuk - Orkhon Inscriptions.jpeg",
+   "ad": "065_tonyukuk"
+  },
+  {
+   "file": "File:Tatar – Kul Tigin.jpg",
+   "ad": "065_gokturk_harf"
+  },
+  {
+   "file": "File:Thomsen Orkhon table 1893.png",
+   "ad": "065_thomsen"
+  },
+  {
+   "file": "File:Turken maken kennis met Latijnse alfabet - Introduction of the Latin alphabet in Turkey (6941437163).jpg",
+   "ad": "065_harf1928"
+  },
+  {
+   "file": "File:New Turkic Alphabet activists.jpg",
+   "ad": "065_yanalif"
+  },
+  {
+   "file": "File:10th anniversary of the New Turkic Alphabet and the Yeni Yol newspaper.jpg",
+   "ad": "065_yeniyol"
+  },
+  {
+   "file": "File:Знание разорвёт цепи рабства.jpg",
+   "ad": "065_kiril_afis"
+  },
+  {
+   "file": "File:Алтайцы за учёбой.jpg",
+   "ad": "065_altay"
+  },
+  {
+   "file": "File:LikbezShorkasy.jpg",
+   "ad": "065_likbez"
+  },
+  {
+   "file": "File:Arco d'Augusto Rimini 1937.jpg",
+   "ad": "065_rimini1937"
+  }
+ ]
+}
