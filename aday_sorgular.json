@@ -1,3 +1,60 @@
-{"bolum":"066_kaymak","min_w":700,
- "sorgular":["Turkish women Constantinople LCCN","Turkish ladies veiled Constantinople","Ottoman women carriage araba","Turkish women walking Constantinople Underwood","Turkish shop Constantinople LCCN","Turkish street vendor Constantinople LCCN","kaymak","clotted cream Turkey","Turkish dairy cow milk Constantinople","Eyüp mosque Abdullah Frères","Eyoub mosque photograph LCCN","Turkish women market Constantinople","Ottoman judge court kadi engraving","Divan-ı Hümayun","Ottoman imperial council painting"],
- "incele":[],"indir":[]}
+{
+ "bolum": "066_kaymak",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Turkish women, Constantinople, Turkey LCCN2010650578.jpg",
+   "ad": "066_kadinlar.jpg"
+  },
+  {
+   "file": "File:James Robertson, Mosque of Eyoub, 1857, NGA 155360.jpg",
+   "ad": "066_eyup1857.jpg"
+  },
+  {
+   "file": "File:Mosqué de Zali- Pacha, Grande rue d' Eyoub (Constantinople) - Flandin Eugène - 1853.jpg",
+   "ad": "066_eyup_cadde.jpg"
+  },
+  {
+   "file": "File:Eyüp İskelesi 1880-1893.jpg",
+   "ad": "066_eyup_iskele.jpg"
+  },
+  {
+   "file": "File:A man selling medicinal drugs to a woman in a bazaar in Cons Wellcome L0002916.jpg",
+   "ad": "066_carsi_kadin.jpg"
+  },
+  {
+   "file": "File:Díván in Istanbul.jpg",
+   "ad": "066_divan.jpg"
+  },
+  {
+   "file": "File:Kadi in the Ottoman Empire.jpg",
+   "ad": "066_kadi.jpg"
+  },
+  {
+   "file": "File:A firman of Mahmud II (r. 1808-39), Ottoman Turkey, dated 25 July 1827.jpg",
+   "ad": "066_ferman.jpg"
+  },
+  {
+   "file": "File:Water five cents a glass ... normal water supply of Constantinople is impure and water from deep cisterns is sold at five cents a glass. All except the very poor are glad to pay that for LCCN2010650569.jpg",
+   "ad": "066_dukkan.jpg"
+  },
+  {
+   "file": "File:Turkey. Constantinople. Sweet seller - DPLA - 15335e6759b8dfff8bd8442c639b7989.jpg",
+   "ad": "066_tatlici.jpg"
+  },
+  {
+   "file": "File:A fur shop of Constantinople, Turkey LCCN2004672928.jpg",
+   "ad": "066_dukkan2.jpg"
+  },
+  {
+   "file": "File:Kaymak in Turkey.jpg",
+   "ad": "066_kaymak.jpg"
+  },
+  {
+   "file": "File:Constantinople. Turkish lady LCCN93500447.jpg",
+   "ad": "066_hanim.jpg"
+  }
+ ]
+}
