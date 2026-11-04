@@ -1,3 +1,52 @@
-{"bolum":"067_muhtar","min_w":700,
- "sorgular":["Kastamonu old photograph","Anatolian village 1900s photograph","Turkish village Matson","Turkey village people LCCN","Bolu old photograph","Ottoman town Anatolia 19th century photograph","Turkish village elders","Konya old photograph LCCN"],
- "incele":[],"indir":[]}
+{
+ "bolum": "067_muhtar",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Constantinople - street LCCN2014715175.jpg",
+   "ad": "067_sokak.jpg"
+  },
+  {
+   "file": "File:S03 06 01 003 image 1697.jpg",
+   "ad": "067_avlu.jpg"
+  },
+  {
+   "file": "File:1914 Turkish Ottoman passport issued at Jaffa.jpg",
+   "ad": "067_pasaport.jpg"
+  },
+  {
+   "file": "File:Yeniçeri.jpg",
+   "ad": "067_yeniceri.jpg"
+  },
+  {
+   "file": "File:Morning Crowd at Stamboul (sic) End of Famous Galata Bridge, Constantinople, Turkey. (29797337763).jpg",
+   "ad": "067_kalabalik.jpg"
+  },
+  {
+   "file": "File:Karatene St., Constantinople LCCN2004672924.jpg",
+   "ad": "067_karakoy.jpg"
+  },
+  {
+   "file": "File:Street cobbler, Constantinople, Turkey LCCN2010650579.jpg",
+   "ad": "067_esnaf.jpg"
+  },
+  {
+   "file": "File:Mahmud II.jpg",
+   "ad": "067_mahmud.jpg"
+  },
+  {
+   "file": "File:Studio portrait of models wearing traditional clothing from the province of Castambol (Kastamonu), Ottoman Empire LCCN2004666912.jpg",
+   "ad": "067_kastamonu.jpg"
+  },
+  {
+   "file": "File:Crowd gathered on village hill (all looking at man on house. Turkish flag) LOC matpc.04639.jpg",
+   "ad": "067_koy.jpg"
+  },
+  {
+   "file": "File:S03 06 01 003 image 1693.jpg",
+   "ad": "067_avlu2.jpg"
+  }
+ ]
+}
