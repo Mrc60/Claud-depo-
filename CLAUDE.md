@@ -109,7 +109,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Video yapılıp TEK1 onayladıktan sonra tüm seti tek seferde ver. Her alan ayrı kopyalanabilir blokta olsun.
   - YouTube: başlık, açıklama, etiketler, sabit yorum, diğer alanlar (kategori Eğitim, dil Türkçe, çocuklara yönelik değil)
   - TikTok: açıklama, sabit yorum
-  - Instagram: açıklama, sabit yorum
+  - Instagram: açıklama (5 etiket), sabit yorum
   - Facebook: metin, sabit yorum
   - X: açıklama (X_ACIKLAMA)
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
@@ -120,9 +120,9 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - KONTROL.PY (TEK1 kararı, 02.11.2026): Teslimden önce MUTLAKA çalıştır: `python3 kontrol.py metin senaryo.txt` (ses metni), `python3 kontrol.py bolum episodes/NNN_x.json` (görsel tekrarı, tam ekran, süre, sahne ≥6 sn), `python3 kontrol.py set set.txt` (yükleme seti; alanlar "=== YT_BASLIK ===" gibi başlıklarla). HATA varsa teslim etme. Süre 75 üstü sadece UYARI, TEK1e bir cümleyle söyle. md5 farklı kırpımla indirilen aynı fotoğrafı yakalamaz, panoda göz kontrolü yine şart. Sonuç satırını teslimde yaz.
 - TESLİMDEN ÖNCE ZORUNLU KONTROL: Seti göndermeden önce tüm blokları python ile tara: emoji var mı, · var mı, FB/IG açıklaması ≤370 bayt mı, açıklamada link/"beğen"/"paylaş" var mı. Sonucu teslimde tek satırla yaz. Seti TEK SEFERDE, tüm alanlar eksiksiz ver; parça parça düzeltme gönderme.
 - Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
-- ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
+- ETİKET SAYISI (TEK1 kararı, 04.11.2026; 03.11 kararı olan 4 etiketin yerine): Facebook açıklamasında HER ZAMAN 6 etiket. Instagram bir gönderide en fazla 5 etiket kabul ettiği için Instagram açıklaması aynı metin + ilk 5 etiket. Yükleme setinde FBIG_ACIKLAMA (Facebook, 6 etiket) ve IG_ACIKLAMA (Instagram, 5 etiket) ayrı bloklar; kontrol.py ikisini de denetler. Etiket erişimi değil aramayı etkiler.
 - X (TEK1 kararı, 04.11.2026): X hesabı açıldı. Her gün günün en iyi 1 videosu X'e de atılır. Yükleme setine X_ACIKLAMA bloğu eklenir: en fazla 250 karakter (ücretsiz X sınırı 280), merak uyandıran ilk cümle, kısa kaynak adları, TAM 2 etiket (#SıradanDeğil + konuya özel), emoji/link/çağrı yok, sabit yorum yok. Siyasi tartışma konusu atılmaz. Premium alınmaz; para kazanma şartları (Premium, 2.000 doğrulanmış takipçi, 3 ayda 5 milyon gösterim) uzak. 1 ay sonra (04.12.2026) gösterime bakıp devam/bırak kararı.
-- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
+- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama metni ikisinde aynı, sadece etiket sayısı farklı (FB 6, IG 5; iki ayrı blok ver): açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
 
 ## 8. YORUM CEVAPLARI
 - Listenin başına platform, video ve hesap yaz: "Instagram · Gelin videosu · @siradandegill".
