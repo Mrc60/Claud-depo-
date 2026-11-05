@@ -1,7 +1,69 @@
 {
  "bolum": "069_piyango",
- "min_w": 800,
- "sorgular": ["Türk Tayyare Cemiyeti", "Tayyare Piyangosu", "Türk Hava Kurumu 1930", "Turkish Air League", "Turkish Air Force 1930s aircraft", "Vecihi Hürkuş", "Turkish pilots 1920s", "Curtiss Hawk Turkey", "Ankara airfield 1930s", "piyango bileti", "Turkish lottery", "Istanbul street vendor 1930s", "Kurban Bayramı 1930", "Türk Hava Kurumu uçak", "Nuri Demirağ uçak"],
+ "min_w": 500,
+ "sorgular": [
+  "Lottery in Turkey",
+  "Milli Piyango 1940",
+  "Milli Piyango bileti eski",
+  "Tayyare piyangosu bileti",
+  "1939 advertisements in Turkey piyango",
+  "Tayyare Cemiyeti Milliyet gazetesi",
+  "Breguet 19 in service with Turkey",
+  "Turkish Aeronautical Association 1930s",
+  "Türk Tayyare Cemiyeti bağış",
+  "Cumhuriyet gazetesi 1932 tayyare",
+  "30 Ağustos 1932 uçak",
+  "Kurban derisi"
+ ],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Türk Hava Kurumu- 50 bin piyango.png",
+   "ad": "069_ilan1939.png"
+  },
+  {
+   "file": "File:Giresun aircraft.jpg",
+   "ad": "069_giresun.jpg"
+  },
+  {
+   "file": "File:Yesil Bursa aircraft.jpg",
+   "ad": "069_yesilbursa.jpg"
+  },
+  {
+   "file": "File:Dewoitine D.21 monoplane named Orhaneli.jpg",
+   "ad": "069_orhaneli.jpg"
+  },
+  {
+   "file": "File:Istanul Eminonu aircraft.jpg",
+   "ad": "069_eminonu.jpg"
+  },
+  {
+   "file": "File:Izmir Mekteplileri aircraft.jpg",
+   "ad": "069_izmirmektep.jpg"
+  },
+  {
+   "file": "File:Flying Festival.jpg",
+   "ad": "069_senlik.jpg"
+  },
+  {
+   "file": "File:Kayseri Aircraft Factory 2126.jpg",
+   "ad": "069_kayseri.jpg"
+  },
+  {
+   "file": "File:Vecihi K-VI.png",
+   "ad": "069_vecihi_k6.png"
+  },
+  {
+   "file": "File:Milliyet 1930 eylul 29 Vecihi Hurkus (Vecihi XIV).jpg",
+   "ad": "069_vecihi14.jpg"
+  },
+  {
+   "file": "File:Corum aircraft.jpg",
+   "ad": "069_corum.jpg"
+  },
+  {
+   "file": "File:Istanbul Beyoglu aircraft.jpg",
+   "ad": "069_beyoglu.jpg"
+  }
+ ]
 }
