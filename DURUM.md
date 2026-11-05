@@ -68,4 +68,4 @@
 - AÇIK (TEK1 onayı): FB Bisiklet gönderisinin defter kaydı ve SENARYO AYRINTISI / YATAY FOTOĞRAF / 1,7 kelime/sn / AI ETİKETİ kuralları sadece dallarda, main'e alınmalı. AI etiketi kararı TEK1'in.
 
 ## PAYLAŞIM SAATİ DENEMESİ (04.11.2026, TEK1 kararı)
-- 4-10 Kasım: 1. video 12:00, 2. video 16:00, tüm platformlar. 11 Kasım'da istatistik dalındaki ozet.md ile eski saatleri (07:00/18:00) karşılaştır.
+- 4-10 Kasım: 1. video 12:00 (5 Kasımdan itibaren 11:00, TEK1 kararı), 2. video 16:00, tüm platformlar. 11 Kasım'da istatistik dalındaki ozet.md ile eski saatleri (07:00/18:00) karşılaştır.
