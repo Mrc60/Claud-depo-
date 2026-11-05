@@ -711,7 +711,11 @@ def anim_takvim(layer, spec, lt, dur):
 
 def anim_kart(layer, spec, lt, dur):
     """Bilgi kartı: fotoğrafı kapatmasın diye alt bölümde, içeriğe göre boyutlanan kompakt kart.
-    Küçük üst yazı, büyük başlık, maddeler sırayla belirir."""
+    Küçük üst yazı, büyük başlık, maddeler sırayla belirir.
+    "basla": kart sahnenin kaçıncı saniyesinde gelsin (yoksa 0)."""
+    b0 = float(spec.get("basla", 0))
+    if lt < b0: return
+    lt -= b0; dur -= b0
     a = ease(lt / 0.45)
     items = spec.get("maddeler", [])
     h = 215 + (len(items) * 72 + 25 if items else 0)
@@ -725,8 +729,10 @@ def anim_kart(layer, spec, lt, dur):
     while size > 60 and d.textlength(bas, font=F_SERIF(size)) > W - 200: size -= 6
     _txt(layer, (W / 2, top + 140 + 16 * (1 - kb)), bas, font=F_SERIF(size), fill=with_alpha(CREAM, kb), anchor="mm")
     t0 = float(spec.get("bekle", 0.9)); per = max(0.35, (dur - t0 - 0.6) / max(1, len(items)))
+    zam = spec.get("zamanlar")                    # isteğe bağlı: her maddenin sahnedeki giriş saniyesi (sesle eşleşsin)
     for i, it in enumerate(items):
-        k = ease((lt - t0 - i * per) / 0.35)
+        gir = (zam[i] - b0) if zam and i < len(zam) else t0 + i * per
+        k = ease((lt - gir) / 0.35)
         if k <= 0: continue
         y = top + 250 + i * 72
         d.ellipse([170 - 11, y - 11, 170 + 11, y + 11], fill=with_alpha(AMBER, k))
