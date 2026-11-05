@@ -2,23 +2,38 @@
  "bolum": "070_aylar",
  "min_w": 700,
  "sorgular": [
-  "plowing Turkey LCCN",
-  "plowing with oxen Anatolia",
-  "Turkish peasant plowing",
-  "sowing seed Turkey",
-  "Turkish village 1920s",
-  "snow Constantinople LCCN",
-  "Galata snow",
-  "Istanbul kar 1929",
-  "brazier Turkish house",
-  "mangal",
-  "Turkish coffee house interior",
-  "Turkish family interior Sébah",
-  "Ankara Grand National Assembly 1940s",
-  "Ankara 1940",
-  "Turkish woman winter",
-  "winter Turkey village"
+  "brazier Ottoman Metropolitan Museum",
+  "Ottoman brazier copper",
+  "tandır Anatolia",
+  "Ottoman interior room brazier",
+  "Anatolian farmers ploughing",
+  "ploughing Asia Minor",
+  "Turkish farmers 1930s",
+  "harvest Anatolia old photo",
+  "Rumi takvim yaprağı",
+  "takvim 1930 Türkiye",
+  "Ottoman wall calendar",
+  "Agriculture in the Ottoman Empire",
+  "Turkish women working field",
+  "Ankara peasants"
  ],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Eski takvim.jpg",
+   "ad": "070_takvim.jpg"
+  },
+  {
+   "file": "File:Le cimetière d'Eyüp sous la neige avec la Corne d'Or à l'arrière plan - A36587S.jpg",
+   "ad": "070_eyupkar.jpg"
+  },
+  {
+   "file": "File:Turquie, Constantinople - Eyoub, Cimetière d'Eyoub - Le Cimetière sous la neige vers la Corne d'Or - A36588.jpg",
+   "ad": "070_eyupkar2.jpg"
+  },
+  {
+   "file": "File:The near East; Dalmatia, Greece and Constantinople (1913) (14765576761).jpg",
+   "ad": "070_galata1913.jpg"
+  }
+ ]
 }
