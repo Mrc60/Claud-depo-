@@ -1,0 +1,806 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 70,
+ "slug": "aylar",
+ "title": "Ay Adları Nereden Geldi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Ocak ayının adı\nbir çeviri!",
+ "dis_ses": {
+  "file": "assets/ses/070_aylar.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     9.34
+    ]
+   ],
+   [
+    [
+     9.34,
+     21.24
+    ]
+   ],
+   [
+    [
+     21.24,
+     31.04
+    ]
+   ],
+   [
+    [
+     31.04,
+     42.78
+    ]
+   ],
+   [
+    [
+     42.78,
+     51.8
+    ]
+   ],
+   [
+    [
+     51.8,
+     66.93
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Ocak ayının adı aslında bir çeviri. Peki neyin çevirisi? Eskiden takvimde Ekim, Kasım, Aralık ve Ocak yoktu.",
+   "caption": "Ocak ayının adı aslında bir çeviri. Peki neyin çevirisi? Eskiden takvimde Ekim, Kasım, Aralık ve Ocak yoktu.",
+   "key": [
+    "çeviri."
+   ],
+   "image": {
+    "local": "assets/belgeler/070_takvim.jpg",
+    "fit": "doldur",
+    "baslik": "Eski bir takvim, müze örneği · Galaksidekiotostopcu / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Eski bir takvim, müze örneği · Galaksidekiotostopcu / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.48,
+     "n": 1
+    },
+    {
+     "start": 0.48,
+     "end": 0.82,
+     "n": 1
+    },
+    {
+     "start": 0.82,
+     "end": 1.3,
+     "n": 1
+    },
+    {
+     "start": 1.3,
+     "end": 1.76,
+     "n": 1
+    },
+    {
+     "start": 1.76,
+     "end": 2.04,
+     "n": 1
+    },
+    {
+     "start": 2.04,
+     "end": 2.76,
+     "n": 1
+    },
+    {
+     "start": 2.92,
+     "end": 3.32,
+     "n": 1
+    },
+    {
+     "start": 3.32,
+     "end": 3.82,
+     "n": 1
+    },
+    {
+     "start": 3.82,
+     "end": 4.34,
+     "n": 1
+    },
+    {
+     "start": 4.88,
+     "end": 5.4,
+     "n": 1
+    },
+    {
+     "start": 5.4,
+     "end": 6.16,
+     "n": 1
+    },
+    {
+     "start": 6.16,
+     "end": 6.7,
+     "n": 1
+    },
+    {
+     "start": 6.86,
+     "end": 7.38,
+     "n": 1
+    },
+    {
+     "start": 7.58,
+     "end": 7.94,
+     "n": 1
+    },
+    {
+     "start": 7.94,
+     "end": 8.14,
+     "n": 1
+    },
+    {
+     "start": 8.14,
+     "end": 8.54,
+     "n": 1
+    },
+    {
+     "start": 8.54,
+     "end": 9.22,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu aylara Teşrinievvel, Teşrinisani, Kânunuevvel ve Kânunusani denirdi. Söylemesi zor bu adlar, 1945te bir kanunla değiştirildi.",
+   "caption": "Bu aylara Teşrinievvel, Teşrinisani, Kânunuevvel ve Kânunusani denirdi. Söylemesi zor bu adlar, 1945te bir kanunla değiştirildi.",
+   "key": [
+    "1945te"
+   ],
+   "image": {
+    "local": "assets/belgeler/070_galata1913.jpg",
+    "fit": "doldur",
+    "baslik": "Galata, İstanbul, 1913 · Underwood & Underwood / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata, İstanbul, 1913 · Underwood & Underwood / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.56,
+     "end": 9.7,
+     "n": 1
+    },
+    {
+     "start": 9.7,
+     "end": 10.22,
+     "n": 1
+    },
+    {
+     "start": 10.22,
+     "end": 11.51,
+     "n": 1
+    },
+    {
+     "start": 11.51,
+     "end": 12.81,
+     "n": 1
+    },
+    {
+     "start": 12.81,
+     "end": 14.1,
+     "n": 1
+    },
+    {
+     "start": 14.1,
+     "end": 14.54,
+     "n": 1
+    },
+    {
+     "start": 14.54,
+     "end": 15.5,
+     "n": 1
+    },
+    {
+     "start": 15.5,
+     "end": 16.1,
+     "n": 1
+    },
+    {
+     "start": 16.64,
+     "end": 17.18,
+     "n": 1
+    },
+    {
+     "start": 17.18,
+     "end": 17.46,
+     "n": 1
+    },
+    {
+     "start": 17.46,
+     "end": 17.7,
+     "n": 1
+    },
+    {
+     "start": 17.7,
+     "end": 18.18,
+     "n": 1
+    },
+    {
+     "start": 18.5,
+     "end": 19.5,
+     "n": 1
+    },
+    {
+     "start": 19.5,
+     "end": 19.78,
+     "n": 1
+    },
+    {
+     "start": 19.78,
+     "end": 20.32,
+     "n": 1
+    },
+    {
+     "start": 20.32,
+     "end": 21.12,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "ESKİ ADLAR",
+    "baslik": "1945e kadar",
+    "bekle": 0.6,
+    "maddeler": [
+     "Teşrinievvel: Ekim",
+     "Teşrinisani: Kasım",
+     "Kânunuevvel: Aralık",
+     "Kânunusani: Ocak"
+    ],
+    "basla": 0.58,
+    "zamanlar": [
+     0.88,
+     2.17,
+     3.47,
+     5.2
+    ]
+   }
+  },
+  {
+   "say": "Peki yeni adlar nereden geldi? Uydurulmadılar. Anadoluda halk zaten Teşrinievvele Ekim diyordu, çünkü tarlalar o ay ekiliyordu.",
+   "caption": "Peki yeni adlar nereden geldi? Uydurulmadılar. Anadoluda halk zaten Teşrinievvele Ekim diyordu, çünkü tarlalar o ay ekiliyordu.",
+   "key": [
+    "Ekim"
+   ],
+   "image": {
+    "local": "assets/belgeler/070_bahar.jpg",
+    "fit": "doldur",
+    "baslik": "Anadolulu bir köylü kadın · runran / Wikimedia Commons, CC BY-SA 2.0",
+    "lisans": "",
+    "kaynak": "Anadolulu bir köylü kadın · runran / Wikimedia Commons, CC BY-SA 2.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 21.4,
+     "end": 21.98,
+     "n": 1
+    },
+    {
+     "start": 21.98,
+     "end": 22.24,
+     "n": 1
+    },
+    {
+     "start": 22.24,
+     "end": 22.6,
+     "n": 1
+    },
+    {
+     "start": 22.6,
+     "end": 23.02,
+     "n": 1
+    },
+    {
+     "start": 23.02,
+     "end": 23.3,
+     "n": 1
+    },
+    {
+     "start": 23.84,
+     "end": 24.76,
+     "n": 1
+    },
+    {
+     "start": 25.24,
+     "end": 25.8,
+     "n": 1
+    },
+    {
+     "start": 25.8,
+     "end": 26.1,
+     "n": 1
+    },
+    {
+     "start": 26.1,
+     "end": 26.6,
+     "n": 1
+    },
+    {
+     "start": 26.6,
+     "end": 27.64,
+     "n": 1
+    },
+    {
+     "start": 27.64,
+     "end": 27.94,
+     "n": 1
+    },
+    {
+     "start": 27.94,
+     "end": 28.44,
+     "n": 1
+    },
+    {
+     "start": 28.44,
+     "end": 29.0,
+     "n": 1
+    },
+    {
+     "start": 29.0,
+     "end": 29.6,
+     "n": 1
+    },
+    {
+     "start": 29.6,
+     "end": 29.86,
+     "n": 1
+    },
+    {
+     "start": 29.86,
+     "end": 30.02,
+     "n": 1
+    },
+    {
+     "start": 30.02,
+     "end": 30.92,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kasım da halk takviminden geldi. Eskiden Kasım günleri denen kış, bu ayın sekizinde başlardı. Aralık ise eski yıl ile yeni yılın arasında kaldığı için bu adı aldı.",
+   "caption": "Kasım da halk takviminden geldi. Eskiden Kasım günleri denen kış, bu ayın sekizinde başlardı. Aralık ise eski yıl ile yeni yılın arasında kaldığı için bu adı aldı.",
+   "key": [
+    "Kasım",
+    "Aralık"
+   ],
+   "image": {
+    "local": "assets/belgeler/070_eyupkar.jpg",
+    "fit": "doldur",
+    "baslik": "Karlı Eyüp, İstanbul, 1912 · Frédéric Gadmer / Albert-Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Karlı Eyüp, İstanbul, 1912 · Frédéric Gadmer / Albert-Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.05,
+     0.03,
+     0.97,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.34,
+     "end": 31.56,
+     "n": 1
+    },
+    {
+     "start": 31.56,
+     "end": 31.78,
+     "n": 1
+    },
+    {
+     "start": 31.78,
+     "end": 32.12,
+     "n": 1
+    },
+    {
+     "start": 32.12,
+     "end": 32.7,
+     "n": 1
+    },
+    {
+     "start": 32.7,
+     "end": 33.14,
+     "n": 1
+    },
+    {
+     "start": 33.66,
+     "end": 34.12,
+     "n": 1
+    },
+    {
+     "start": 34.12,
+     "end": 34.6,
+     "n": 1
+    },
+    {
+     "start": 34.6,
+     "end": 34.96,
+     "n": 1
+    },
+    {
+     "start": 34.96,
+     "end": 35.22,
+     "n": 1
+    },
+    {
+     "start": 35.22,
+     "end": 35.74,
+     "n": 1
+    },
+    {
+     "start": 35.94,
+     "end": 36.04,
+     "n": 1
+    },
+    {
+     "start": 36.04,
+     "end": 36.4,
+     "n": 1
+    },
+    {
+     "start": 36.4,
+     "end": 36.86,
+     "n": 1
+    },
+    {
+     "start": 36.86,
+     "end": 37.5,
+     "n": 1
+    },
+    {
+     "start": 38.16,
+     "end": 38.52,
+     "n": 1
+    },
+    {
+     "start": 38.52,
+     "end": 38.82,
+     "n": 1
+    },
+    {
+     "start": 38.82,
+     "end": 39.38,
+     "n": 1
+    },
+    {
+     "start": 39.38,
+     "end": 39.54,
+     "n": 1
+    },
+    {
+     "start": 39.54,
+     "end": 39.88,
+     "n": 1
+    },
+    {
+     "start": 39.88,
+     "end": 40.14,
+     "n": 1
+    },
+    {
+     "start": 40.14,
+     "end": 40.46,
+     "n": 1
+    },
+    {
+     "start": 40.46,
+     "end": 40.94,
+     "n": 1
+    },
+    {
+     "start": 40.94,
+     "end": 41.34,
+     "n": 1
+    },
+    {
+     "start": 41.34,
+     "end": 41.6,
+     "n": 1
+    },
+    {
+     "start": 41.6,
+     "end": 41.86,
+     "n": 1
+    },
+    {
+     "start": 41.86,
+     "end": 42.04,
+     "n": 1
+    },
+    {
+     "start": 42.04,
+     "end": 42.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ya Ocak? Eski adı Kânun, Arapçada ateş yakılan ocak, mangal demekti. Yani Ocak, eski adının Türkçesi oldu.",
+   "caption": "Ya Ocak? Eski adı Kânun, Arapçada ateş yakılan ocak, mangal demekti. Yani Ocak, eski adının Türkçesi oldu.",
+   "key": [
+    "mangal"
+   ],
+   "image": {
+    "local": "assets/belgeler/070_tandir.jpg",
+    "fit": "doldur",
+    "baslik": "Tandır başında bir Türk kadını, gravür · Vanmour'dan / Metropolitan Müzesi, CC0",
+    "lisans": "",
+    "kaynak": "Tandır başında bir Türk kadını, gravür · Vanmour'dan / Metropolitan Müzesi, CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 42.88,
+     "end": 43.02,
+     "n": 1
+    },
+    {
+     "start": 43.02,
+     "end": 43.4,
+     "n": 1
+    },
+    {
+     "start": 43.94,
+     "end": 44.22,
+     "n": 1
+    },
+    {
+     "start": 44.22,
+     "end": 44.5,
+     "n": 1
+    },
+    {
+     "start": 44.5,
+     "end": 45.06,
+     "n": 1
+    },
+    {
+     "start": 45.44,
+     "end": 46.16,
+     "n": 1
+    },
+    {
+     "start": 46.16,
+     "end": 46.6,
+     "n": 1
+    },
+    {
+     "start": 46.6,
+     "end": 46.98,
+     "n": 1
+    },
+    {
+     "start": 46.98,
+     "end": 47.44,
+     "n": 1
+    },
+    {
+     "start": 47.62,
+     "end": 48.06,
+     "n": 1
+    },
+    {
+     "start": 48.06,
+     "end": 48.76,
+     "n": 1
+    },
+    {
+     "start": 49.12,
+     "end": 49.44,
+     "n": 1
+    },
+    {
+     "start": 49.44,
+     "end": 49.94,
+     "n": 1
+    },
+    {
+     "start": 50.32,
+     "end": 50.52,
+     "n": 1
+    },
+    {
+     "start": 50.52,
+     "end": 50.82,
+     "n": 1
+    },
+    {
+     "start": 50.82,
+     "end": 51.34,
+     "n": 1
+    },
+    {
+     "start": 51.34,
+     "end": 51.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizce yeni adların en güzeli hangisi? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce yeni adların en güzeli hangisi? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "güzeli",
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/070_tandir_oda.jpg",
+    "fit": "doldur",
+    "baslik": "Tandırlı bir oda, gravür, 1790 · d'Ohsson / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Tandırlı bir oda, gravür, 1790 · d'Ohsson / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 52.24,
+     "end": 52.82,
+     "n": 1
+    },
+    {
+     "start": 52.82,
+     "end": 53.08,
+     "n": 1
+    },
+    {
+     "start": 53.08,
+     "end": 53.5,
+     "n": 1
+    },
+    {
+     "start": 53.5,
+     "end": 53.86,
+     "n": 1
+    },
+    {
+     "start": 53.86,
+     "end": 54.2,
+     "n": 1
+    },
+    {
+     "start": 54.2,
+     "end": 54.68,
+     "n": 1
+    },
+    {
+     "start": 55.16,
+     "end": 55.92,
+     "n": 1
+    },
+    {
+     "start": 55.92,
+     "end": 56.5,
+     "n": 1
+    },
+    {
+     "start": 56.5,
+     "end": 57.2,
+     "n": 1
+    },
+    {
+     "start": 57.2,
+     "end": 58.02,
+     "n": 1
+    },
+    {
+     "start": 58.02,
+     "end": 58.32,
+     "n": 1
+    },
+    {
+     "start": 58.32,
+     "end": 59.0,
+     "n": 1
+    },
+    {
+     "start": 59.0,
+     "end": 60.06,
+     "n": 1
+    },
+    {
+     "start": 60.46,
+     "end": 60.66,
+     "n": 1
+    },
+    {
+     "start": 60.66,
+     "end": 61.0,
+     "n": 1
+    },
+    {
+     "start": 61.0,
+     "end": 61.38,
+     "n": 1
+    },
+    {
+     "start": 61.38,
+     "end": 61.88,
+     "n": 1
+    },
+    {
+     "start": 61.88,
+     "end": 62.02,
+     "n": 1
+    },
+    {
+     "start": 62.02,
+     "end": 62.42,
+     "n": 1
+    },
+    {
+     "start": 62.42,
+     "end": 62.96,
+     "n": 1
+    },
+    {
+     "start": 62.96,
+     "end": 63.52,
+     "n": 1
+    },
+    {
+     "start": 63.52,
+     "end": 64.06,
+     "n": 1
+    },
+    {
+     "start": 64.06,
+     "end": 64.72,
+     "n": 1
+    },
+    {
+     "start": 64.72,
+     "end": 64.94,
+     "n": 1
+    },
+    {
+     "start": 64.94,
+     "end": 65.32,
+     "n": 1
+    },
+    {
+     "start": 65.32,
+     "end": 65.8,
+     "n": 1
+    },
+    {
+     "start": 65.8,
+     "end": 66.1,
+     "n": 1
+    },
+    {
+     "start": 66.1,
+     "end": 66.72,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
