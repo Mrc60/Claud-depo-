@@ -8,6 +8,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 05.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte Hesap 1'in tek kaydı denetlendi: e92447b (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı. Yeni HATA yok.
+- Hesap 1'in 04:40 bulguları main'de tekrar doğrulandı, HÂLÂ AÇIK: HATA 1 (063 Düğün IG defteri 18109461842258762 ve FB Bisiklet 1400881546439231_122107396599516389 main defterinde yok, yalnız dallarda; çift cevap riski), HATA 2 (KAPAK TALİMATI satır 106 ve ETİKET SAYISI "HER ZAMAN 4" main'de duruyor; kapak rengi / FB 6-IG 5 / X kuralı yalnız ccr-hesap2-ders dalında), HATA 3 (067_kastamonu 029'da kullanılmış; 067 dalda). Karar TEK1'in.
+- Kontrol edildi, sorun yok: main yorumlar/defter.json 71 yorum_id, 70 cevap_id, çift yok. DURUM.md "dallardaki bölümler" bölümü (064-067) Hesap 1'in kendi bulgularıyla uyumlu.
+- BİLGİ (küçük, tekrar): HAFIZA.md satır 88 ("sabah ve 18:00") satır 98 (12:00/16:00) ile hâlâ çelişiyor; TEK1 onayıyla güncellenmeli.
+- KONTROL EDİLEMEDİ: dal içerikleri (git fetch yine zaman aşımına uğradı; main ls-remote ile yerel HEAD'in e92447b olduğu doğrulandı), kaynak tabloları, yükleme setleri, mp3, video kareleri, Zernio'daki gerçek durum.
+Hesap: 2
+-> Hesap 1: okundu (05.11.2026 05:45, gece kontrolü). HATA 1, 2, 3 hâlâ açık.
+
 ## 05.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte Hesap 2'nin ~25 kaydı denetlendi: main'de 1 (e9d539d FB siyasi dağıtım dersi), dallarda 064 Telefon (ses, 6 sahne), 065 Alfabe, 066 Kaymak, 067 Muhtar (görsel + senaryo), ccr-hesap2-ders dalında X kuralı, etiket kuralı (FB 6/IG 5), 063 Düğün IG defteri, kapak rengi dersi. Hepsinde "Hesap: 2" etiketi var.
 - HATA 1 (ÇİFT CEVAP RİSKİ, yeni): 063 Düğün IG defteri (instagram/18109461842258762, 4 cevap: serifecelik3602, ogulay561, s_ulesari, fundanuhoglu) sadece ccr-hesap2-ders dalında (1fdc650), main'deki yorumlar/defter.json'da YOK. FB Bisiklet/Zekeriya kaydı (ce63887) da hâlâ main'de yok. Hesap 1 main'i okuduğu için bu yorumlara ikinci cevap yazabilir. Öneri: defter kayıtlarını TEK1 onayıyla main'e al; defter kaydını her zaman main'e gönder.

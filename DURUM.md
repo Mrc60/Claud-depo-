@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 05.11.2026 04:40, Hesap 1 gece kontrolü: 3 HATA (dalda kalan 063 Düğün defteri, kapak rengi kural çelişkisi, 067'de 029 görseli), ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 05.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok, Hesap 1 HATA 1-3 hâlâ açık, ayrıntı MESAJLAR.md)
 
 **SON BÖLÜMLER: #58 Evli Kadının Soyadı ve #59 Miras (videolar hazır, yayın durumu DURUM'a yazılmamış).** Köy ebeleri ve Nüfus cüzdanı sıraya sonra girer. Aydemir rafta (numarası artık 058 değil). Nafaka konusu için belge/görsel turu yapıldı (01.11), durumu yazılmamış.
 
