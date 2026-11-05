@@ -1,23 +1,7 @@
 {
- "bolum": "062_savas_indir",
+ "bolum": "069_piyango",
  "min_w": 800,
- "sorgular": [],
- "incele": [
-  "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
-  "File:USMarineTankinBaghdad.jpg"
- ],
- "indir": [
-  {
-   "file": "File:USMarineTankinBaghdad.jpg",
-   "ad": "bagdat2003_tank.jpg"
-  },
-  {
-   "file": "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
-   "ad": "afganistan_dag.jpg"
-  },
-  {
-   "file": "File:MPK1-426 Sykes Picot Agreement Map signed 8 May 1916.jpg",
-   "ad": "sykes_picot_harita.jpg"
-  }
- ]
+ "sorgular": ["Türk Tayyare Cemiyeti", "Tayyare Piyangosu", "Türk Hava Kurumu 1930", "Turkish Air League", "Turkish Air Force 1930s aircraft", "Vecihi Hürkuş", "Turkish pilots 1920s", "Curtiss Hawk Turkey", "Ankara airfield 1930s", "piyango bileti", "Turkish lottery", "Istanbul street vendor 1930s", "Kurban Bayramı 1930", "Türk Hava Kurumu uçak", "Nuri Demirağ uçak"],
+ "incele": [],
+ "indir": []
 }
