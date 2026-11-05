@@ -1,3 +1,48 @@
-{"bolum":"068_duzgun","min_w":600,
- "sorgular":["Turkish bride LCCN","Turkish wedding bride photograph","gelin Osmanlı fotoğraf","Elbise-i Osmaniye","Studio portrait of models wearing clothing from İstanbul","Turkish women Constantinople LCCN","Turkish woman yashmak portrait","Ottoman woman cosmetics"],
- "incele":[],"indir":[]}
+{
+ "bolum": "068_duzgun",
+ "min_w": 600,
+ "sorgular": [],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Turkish bride.jpg",
+   "ad": "068_gelin.jpg"
+  },
+  {
+   "file": "File:Turkish woman, full-length portrait, seated, facing front, holding parasol and flowers.jpg",
+   "ad": "068_hanim.jpg"
+  },
+  {
+   "file": "File:Turkish female - Lewis John F - 1838.jpg",
+   "ad": "068_lewis.jpg"
+  },
+  {
+   "file": "File:Young Ottoman Woman.jpg",
+   "ad": "068_genckadin.jpg"
+  },
+  {
+   "file": "File:Turkish Woman.jpg",
+   "ad": "068_tullu.jpg"
+  },
+  {
+   "file": "File:BleiweissDuerer.JPG",
+   "ad": "068_ustubec.jpg"
+  },
+  {
+   "file": "File:Cerussite (GeoDIL number - 733).jpg",
+   "ad": "068_seruzit.jpg"
+  },
+  {
+   "file": "File:Jean-Étienne Liotard - Une dame en costume turc avec sa servante au hammam.jpg",
+   "ad": "068_hamam.jpg"
+  },
+  {
+   "file": "File:Halil Paşa Lady in Pink 1904.jpg",
+   "ad": "068_halilpasa.jpg"
+  },
+  {
+   "file": "File:La vie du Harem - Dumas Ph. LCCN2004671958.jpg",
+   "ad": "068_harem.jpg"
+  }
+ ]
+}
