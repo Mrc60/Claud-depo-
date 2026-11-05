@@ -1,24 +1,26 @@
 {
  "bolum": "070_aylar",
- "min_w": 700,
+ "min_w": 600,
  "sorgular": [
-  "brazier Ottoman Metropolitan Museum",
-  "Ottoman brazier copper",
-  "tandır Anatolia",
-  "Ottoman interior room brazier",
-  "Anatolian farmers ploughing",
-  "ploughing Asia Minor",
-  "Turkish farmers 1930s",
-  "harvest Anatolia old photo",
-  "Rumi takvim yaprağı",
-  "takvim 1930 Türkiye",
-  "Ottoman wall calendar",
-  "Agriculture in the Ottoman Empire",
-  "Turkish women working field",
-  "Ankara peasants"
+  "Allom tandour",
+  "tandour Constantinople",
+  "Allom Constantinople interior",
+  "Thomas Allom Turkish family",
+  "brazier engraving Constantinople",
+  "Turkish ladies tandour",
+  "Allom harem winter",
+  "mangal engraving Turkish"
  ],
  "incele": [],
  "indir": [
+  {
+   "file": "File:Plough - Fellows Charles - 1839.jpg",
+   "ad": "070_saban.jpg"
+  },
+  {
+   "file": "File:Bahar (2599760344).jpg",
+   "ad": "070_bahar.jpg"
+  },
   {
    "file": "File:Eski takvim.jpg",
    "ad": "070_takvim.jpg"
