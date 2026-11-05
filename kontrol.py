@@ -8,7 +8,7 @@ Kullanım:
 
 Yükleme seti dosya biçimi: her alan "=== AD ===" satırıyla başlar. Adlar:
   YT_BASLIK, YT_ACIKLAMA, YT_ETIKET, YT_SABIT, TT_ACIKLAMA, TT_SABIT,
-  FBIG_ACIKLAMA (Facebook, 6 etiket), IG_ACIKLAMA (Instagram, 5 etiket), FBIG_SABIT, X_ACIKLAMA
+  FBIG_ACIKLAMA (Facebook, 4 etiket), IG_ACIKLAMA (Instagram, 5 etiket), FBIG_SABIT, X_ACIKLAMA
 
 HATA = teslim etme, düzelt. UYARI = TEK1'e bir cümleyle bildir.
 Süre 75 sn'yi geçerse sadece UYARI (TEK1 bazen bilerek uzun istiyor).
@@ -192,8 +192,8 @@ def set_kontrol(yol):
                 hata(f"{ad}: 'kaynaklar YouTube'da' gibi yönlendirme olmaz")
         if ad == "YT_ACIKLAMA" and CAGRI.search(v):
             uyari(f"YT_ACIKLAMA: çağrı kelimesi var ({CAGRI.search(v).group()})")
-    # FBIG_ACIKLAMA = Facebook metni (6 etiket); IG_ACIKLAMA = Instagram (en fazla 5, IG sınırı)
-    for ad, hedef in (("FBIG_ACIKLAMA", (6, 6)), ("IG_ACIKLAMA", (5, 5))):
+    # FBIG_ACIKLAMA = Facebook metni (4 etiket); IG_ACIKLAMA = Instagram (en fazla 5, IG sınırı)
+    for ad, hedef in (("FBIG_ACIKLAMA", (4, 4)), ("IG_ACIKLAMA", (5, 5))):
         fb = alan.get(ad, "")
         if not fb:
             continue
