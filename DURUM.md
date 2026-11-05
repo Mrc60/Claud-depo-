@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 04.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok; Hesap 1'in 2 HATA'sı (dalda kalan defter kaydı ve kurallar) hâlâ açık, ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 05.11.2026 04:40, Hesap 1 gece kontrolü: 3 HATA (dalda kalan 063 Düğün defteri, kapak rengi kural çelişkisi, 067'de 029 görseli), ayrıntı MESAJLAR.md)
 
 **SON BÖLÜMLER: #58 Evli Kadının Soyadı ve #59 Miras (videolar hazır, yayın durumu DURUM'a yazılmamış).** Köy ebeleri ve Nüfus cüzdanı sıraya sonra girer. Aydemir rafta (numarası artık 058 değil). Nafaka konusu için belge/görsel turu yapıldı (01.11), durumu yazılmamış.
 
@@ -62,6 +62,13 @@
 - 16-28 Ekim hitleri (kibrit 385B, Lozan 250B, bisiklet 198B, Adana 155B, yol parası 101B) gündelik eşya + eski yasak/vergi formatında; 29 Ekim'den beri hiçbir video 12B'yi geçmedi. Öneri: bu formata dön.
 - (Eski öneri: FB sabah 15:00, akşam 18:00. Yerini 04.11 TEK1 kararı aldı: 12:00/16:00.) FB oynatma listesi "Cumhuriyetle Değişen Hayat" açıldı (12 video).
 - #62 Savaşlar ve #63 Düğün: video bitti (dallar ccr-hesap2-savas, ccr-hesap2-dugun). #63 yükleme seti TEK1 onayı bekliyor.
+
+## DALLARDAKİ BÖLÜMLER (05.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
+- #64 Telefon: ccr-hesap2-telefon, yeni kısa senaryo, 6 sahne, ses 65,7 sn, kontrol.py 0 hata.
+- #65 Alfabe: ccr-hesap2-alfabe, 10 sahne, ses 92,8 sn, 0 hata 4 uyarı (3 sahne <6 sn).
+- #66 Kaymak: ccr-hesap2-kaymak, 10 sahne, ses 77,6 sn, 0 hata 2 uyarı (sahne 1 5,3 sn).
+- #67 Muhtar: ccr-hesap2-muhtar, görseller + senaryo (157 kelime, ~68 sn), ses yok. 067_kastamonu 029da kullanılmış.
+- AÇIK (TEK1 onayı): ccr-hesap2-ders dalı (X kuralı, FB 6/IG 5 etiket, 063 Düğün IG defteri, kapak rengi dersi) main'e alınmamış; kapak rengi dersi KAPAK TALİMATI satırıyla çelişiyor. FB Bisiklet defteri ve önceki kural dalları da hâlâ dışarıda.
 
 ## DALLARDAKİ BÖLÜMLER (04.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
 - #60 Önlük: ccr-hesap2-onluk. #61 Çarşaf: ccr-hesap2-carsaf (IG 5 cevap deftere işlendi). #62 Savaş: ccr-hesap2-savas/dugun (ses 151,5 sn). #63 Düğün: ccr-hesap2-dugun (ses 130,1 sn, yükleme seti TEK1 onayı bekliyor). #64 Telefon: ccr-hesap2-telefon (ses bekleniyor).

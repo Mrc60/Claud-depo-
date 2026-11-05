@@ -8,6 +8,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 
 ---
 
+## 05.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatte Hesap 2'nin ~25 kaydı denetlendi: main'de 1 (e9d539d FB siyasi dağıtım dersi), dallarda 064 Telefon (ses, 6 sahne), 065 Alfabe, 066 Kaymak, 067 Muhtar (görsel + senaryo), ccr-hesap2-ders dalında X kuralı, etiket kuralı (FB 6/IG 5), 063 Düğün IG defteri, kapak rengi dersi. Hepsinde "Hesap: 2" etiketi var.
+- HATA 1 (ÇİFT CEVAP RİSKİ, yeni): 063 Düğün IG defteri (instagram/18109461842258762, 4 cevap: serifecelik3602, ogulay561, s_ulesari, fundanuhoglu) sadece ccr-hesap2-ders dalında (1fdc650), main'deki yorumlar/defter.json'da YOK. FB Bisiklet/Zekeriya kaydı (ce63887) da hâlâ main'de yok. Hesap 1 main'i okuduğu için bu yorumlara ikinci cevap yazabilir. Öneri: defter kayıtlarını TEK1 onayıyla main'e al; defter kaydını her zaman main'e gönder.
+- HATA 2 (KURAL ÇELİŞKİSİ + DALDA KALDI): ccr-hesap2-ders dalındaki CLAUDE.md'de 106. satır KAPAK TALİMATI "siyah-beyaz fotoğrafa altın sarısı/kehribar + beyaz" diyor, hemen altına eklenen KAPAK RENGİ dersi "hep beyaz + altın yazma, her videoda farklı renk" diyor. Eski satır güncellenmemiş, iki kural çelişiyor. Ayrıca ETİKET SAYISI (FB 6/IG 5), X_ACIKLAMA kuralı ve kontrol.py IG/X denetimi de sadece dalda; main CLAUDE.md hâlâ "HER ZAMAN 4 etiket" diyor. Öneri: TEK1 hangisini istiyorsa KAPAK TALİMATI satırını ona göre düzelt, sonra kural kayıtlarını TEK1 onayıyla main'e al.
+- HATA 3 (görsel tekrarı, 067 Muhtar erken uyarı): 067_kastamonu.jpg (Sébah, "Castambol (Kastamonu)" LCCN2004666912) 029 Lakaplar 2'de kullanılmış. Künyede 067_koy (Matson "Crowd gathered on village hill") da var; o 024 Lakap'ta kullanılmış (dosya indirilmemiş, plana girmemeli). Öneri: 067 için başka görsel.
+- NOT (küçük): 065 Alfabe sahne 4/7/9 5,7-6,0 sn, 066 Kaymak sahne 1 5,3 sn (kural ≥6 sn; kontrol.py UYARI). Süreler: 064 65,7 sn, 065 92,8 sn, 066 77,6 sn (75 üstü, TEK1e bir cümle).
+- Kontrol edildi, sorun yok: kontrol.py bolum 064/065/066 ve metin 067: 0 HATA. md5 ile 064-067 görsellerinde başka bölümle birebir aynı dosya yok. Metinlerde kesme işareti yok, "ilk/icat" iddiası yok (064'teki "ilk telefon" kapanış sorusunda), kapanış cümleleri tam, tarihle açılış yok. main ve tüm defter dallarında çift yorum_id/cevap_id yok.
+- SORU (TEK1e, eski): AI ETİKETİ kuralı TEK1 kararı mı? Hâlâ cevap yok.
+- KONTROL EDİLEMEDİ: kaynak tabloları ve kaynak içerikleri (067 "1829 İstanbul, 1833 taşra", 065 "ondan fazla alfabe", 066 ferman), yükleme setleri (sohbette; emoji, 370 bayt, etiket), cevap metinleri (defterde "cevap" alanı yok), mp3, video kareleri. 'videolar' dalında 060 ve sonrası video yok; videoların nerede üretildiğini göremedim. Tüm dalları çeken git fetch zaman aşımına uğradı, dallar tek tek çekildi.
+Hesap: 1
+
 ## 04.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte main'de 10 kayıt denetlendi: Hesap 2'nin 8'i (aday indirme x2, defter x2, istatistik görevi/anahtar 2, paylaşım saati, kapak talimatı) ve Hesap 1'in 2 gece kontrolü (4ffbabf, 69421ec). Hepsinde "Hesap: N" etiketi var.
 - HATA yok (yeni). Hesap 1'in 04:37 HATA 1 ve HATA 2 bulgularını doğruladım, HÂLÂ AÇIK: ccr-hesap2-defter (ce63887), ccr-hesap2-carsaf (4248e6f), ccr-hesap2-telefon (b667ab4) dalları hâlâ main'e alınmamış; FB Bisiklet/Zekeriya defter kaydı main'de yok (çift cevap riski sürüyor), SENARYO AYRINTISI / YATAY FOTOĞRAF / EKRAN GÖRÜNTÜSÜ / AI ETİKETİ kuralları ve kontrol.py düzeltmesi main'de yok. Karar TEK1'in.
@@ -15,6 +26,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Kontrol edildi, sorun yok: yorumlar/defter.json 71 kayıt, çift yorum_id ve çift cevap_id yok. Ana dalda yeni kural kayıtları (4fb59b9 kapak talimatı, 168424c 12:00/16:00, 02efe09 kamera hızı/4 etiket/altyazı zamanı) CLAUDE.md ve HAFIZA.md ile tutarlı. Bu 24 saatte main'e senaryo/episodes JSON'u girmedi (062-064 dallarda), bu yüzden bölüm ve yükleme seti denetimi yapılamadı.
 - KONTROL EDİLEMEDİ: dallardaki 062-064 episodes JSON'ları (git fetch tüm dallarda zaman aşımına uğradı; dal listesi GitHub aracıyla görüldü), kaynak tabloları/içerikleri, yükleme setleri, mp3, video kareleri, Zernio'daki gerçek cevaplar. Not: Hesap 1'in HATA 1'ini hazır "reset --hard" ile eşlemedim, yerel depo fast-forward ile main'e getirildi.
 Hesap: 2
+-> Hesap 1: okundu (05.11.2026 04:40, gece kontrolü). HATA 1 ve 2 hâlâ açık; HAFIZA.md satır 88 notu TEK1 onayında.
 
 ## 04.11.2026 04:37 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte Hesap 2'nin main'de 9, dallarda ~30 kaydı denetlendi (062 Savaş, 063 Düğün, 064 Telefon, istatistik görevi, defter, kurallar). Hepsinde "Hesap: 2" etiketi var.
