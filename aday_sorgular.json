@@ -1,23 +1,7 @@
 {
- "bolum": "062_savas_indir",
+ "bolum": "071_doviz",
  "min_w": 800,
- "sorgular": [],
- "incele": [
-  "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
-  "File:USMarineTankinBaghdad.jpg"
- ],
- "indir": [
-  {
-   "file": "File:USMarineTankinBaghdad.jpg",
-   "ad": "bagdat2003_tank.jpg"
-  },
-  {
-   "file": "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
-   "ad": "afganistan_dag.jpg"
-  },
-  {
-   "file": "File:MPK1-426 Sykes Picot Agreement Map signed 8 May 1916.jpg",
-   "ad": "sykes_picot_harita.jpg"
-  }
- ]
+ "sorgular": ["Türkiye Cumhuriyet Merkez Bankası 1930s", "Ankara Central Bank building 1930s", "US dollar banknote 1928", "one dollar bill 1935 silver certificate", "Wall Street crash 1929 crowd", "Great Depression bank run", "Kapalıçarşı 1930s", "Grand Bazaar Istanbul old photograph", "Istanbul bank 1930s", "Ottoman Bank Istanbul old photograph", "Türk lirası 1930 banknot", "Turkish lira banknote 1927", "prison Turkey old photograph", "Sultanahmet cezaevi", "Istanbul street 1960s"],
+ "incele": [],
+ "indir": []
 }
