@@ -1,7 +1,40 @@
 {
  "bolum": "071_doviz",
- "min_w": 800,
- "sorgular": ["Türkiye Cumhuriyet Merkez Bankası 1930s", "Ankara Central Bank building 1930s", "US dollar banknote 1928", "one dollar bill 1935 silver certificate", "Wall Street crash 1929 crowd", "Great Depression bank run", "Kapalıçarşı 1930s", "Grand Bazaar Istanbul old photograph", "Istanbul bank 1930s", "Ottoman Bank Istanbul old photograph", "Türk lirası 1930 banknot", "Turkish lira banknote 1927", "prison Turkey old photograph", "Sultanahmet cezaevi", "Istanbul street 1960s"],
+ "min_w": 600,
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:US-$2-LT-1928-Fr.1501.jpg",
+   "ad": "071_dolar2.jpg"
+  },
+  {
+   "file": "File:US-$20-GC-1928-Fr-2402.jpg",
+   "ad": "071_dolar20.jpg"
+  },
+  {
+   "file": "File:Crowds gathering outside New York Stock Exchange (3).jpg",
+   "ad": "071_wallstreet.jpg"
+  },
+  {
+   "file": "File:Bazar de Stamboul. Maison Sadullah & Cie - G. Berggren. LCCN2003677068.jpg",
+   "ad": "071_carsi_dukkan.jpg"
+  },
+  {
+   "file": "File:5 Turkish Liras (1927).jpg",
+   "ad": "071_lira1927.jpg"
+  },
+  {
+   "file": "File:Yeni Sabah newspaper Ulucanlar Prison Museum Ankara 2025.jpg",
+   "ad": "071_ulucanlar.jpg"
+  },
+  {
+   "file": "File:Sultanahmet kapalı cezaevi kapısı.JPG",
+   "ad": "071_cezaevi.jpg"
+  },
+  {
+   "file": "File:Istanbul, water seller 1966 (51191065441).jpg",
+   "ad": "071_sakaci1966.jpg"
+  }
+ ]
 }
