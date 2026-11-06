@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 05.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok, Hesap 1 HATA 1-3 hâlâ açık, ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 06.11.2026 04:40, Hesap 1 gece kontrolü: HATA 1-3 hâlâ açık ve büyüdü, ayrıntı MESAJLAR.md)
 
 **SON BÖLÜMLER: #58 Evli Kadının Soyadı ve #59 Miras (videolar hazır, yayın durumu DURUM'a yazılmamış).** Köy ebeleri ve Nüfus cüzdanı sıraya sonra girer. Aydemir rafta (numarası artık 058 değil). Nafaka konusu için belge/görsel turu yapıldı (01.11), durumu yazılmamış.
 
@@ -62,6 +62,13 @@
 - 16-28 Ekim hitleri (kibrit 385B, Lozan 250B, bisiklet 198B, Adana 155B, yol parası 101B) gündelik eşya + eski yasak/vergi formatında; 29 Ekim'den beri hiçbir video 12B'yi geçmedi. Öneri: bu formata dön.
 - (Eski öneri: FB sabah 15:00, akşam 18:00. Yerini 04.11 TEK1 kararı aldı: 12:00/16:00.) FB oynatma listesi "Cumhuriyetle Değişen Hayat" açıldı (12 video).
 - #62 Savaşlar ve #63 Düğün: video bitti (dallar ccr-hesap2-savas, ccr-hesap2-dugun). #63 yükleme seti TEK1 onayı bekliyor.
+
+## DALLARDAKİ BÖLÜMLER (06.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
+- #67 Muhtar: ccr-hesap2-muhtar, ses 85,2 sn, 10 sahne, kontrol.py 0 hata 2 uyarı. Sahne 8 görseli (Kastamonu 1873) 029'da kullanılmış, değişmeli.
+- #68 Düzgün (kurşunlu yüz boyası): ccr-hesap2-duzgun, ses 68,2 sn, 8 sahne, 0 hata; tekrar eden 2 görsel değiştirildi.
+- #69 Piyango (uçak için piyango): ccr-hesap2-piyango, ses 69,0 sn, 8 sahne, 0 hata.
+- #70 Aylar (ay adları): ccr-hesap2-aylar, ses 66,9 sn, 6 sahne, 0 hata.
+- AÇIK (TEK1 onayı): ccr-hesap2-ders dalındaki kurallar (yayın saati 11:00/16:00, süre 60-65 sn, FB 4/IG 5 etiket, görsel tekrarı gözle, X, kapak rengi) main'de yok; KAPAK TALİMATI ile KAPAK RENGİ çelişiyor. Defter: fb-defter (15), ders (4), defter (2) dallarındaki 21 kayıt main'de yok. render.py kart değişikliği sadece 069/070 dallarında.
 
 ## DALLARDAKİ BÖLÜMLER (05.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
 - #64 Telefon: ccr-hesap2-telefon, yeni kısa senaryo, 6 sahne, ses 65,7 sn, kontrol.py 0 hata.
