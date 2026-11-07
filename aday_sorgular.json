@@ -1,49 +1,29 @@
 {
  "bolum": "072_cellat",
- "min_w": 800,
+ "min_w": 700,
  "sorgular": [
-  "Sultan Abdülmecid portrait",
-  "Abdulmejid I photograph",
-  "Bezesten Constantinople Sébah",
-  "Bazar Constantinople Abdullah Frères",
-  "Grand Bazaar Constantinople 19th century photograph",
-  "Kapalıçarşı eski fotoğraf",
-  "Bit pazarı İstanbul eski",
-  "Bedesten Kapalıçarşı"
+  "Ferriol Recueil de cent estampes bourreau",
+  "Bourreau turc gravure",
+  "Turkish executioner 18th century engraving",
+  "Cellat minyatür",
+  "Bazar de Constantinople photographie",
+  "Sébah Joaillier bazar",
+  "Grand Bazaar Constantinople interior 1890",
+  "Old book bazaar Istanbul photograph Abdullah Frères"
  ],
  "incele": [],
  "indir": [
   {
-   "file": "File:Executioner in the Ottoman Empire.jpg",
-   "ad": "072_cellat_resim.jpg"
+   "file": "File:Fountain of the Executioner, Topkapi 01.jpg",
+   "ad": "072_cesme.jpg"
   },
   {
-   "file": "File:Choiseul-Gouffier 001.JPG",
-   "ad": "072_babhumayun.jpg"
+   "file": "File:Fountain of the Executioner, Topkapi 02.jpg",
+   "ad": "072_cesme2.jpg"
   },
   {
-   "file": "File:Kilitch Djamissi ou Mosqué du Sabre à Eyoub (Constantinople) - Flandin Eugène - 1853.jpg",
-   "ad": "072_eyup_gravur.jpg"
-  },
-  {
-   "file": "File:Vue prise du Vieux-Séraı̈l - Abdullah Frères. LCCN2003677094.jpg",
-   "ad": "072_saray.jpg"
-  },
-  {
-   "file": "File:Sultan İbrahim, 17. yüzyıl gravürü.jpg",
-   "ad": "072_ibrahim.jpg"
-  },
-  {
-   "file": "File:Turquie, Constantinople - Eyoub, Cimetière d'Eyoub - Le Cimetière sous la neige vers la Corne d'Or - A36588.jpg",
-   "ad": "072_eyup_kar2.jpg"
-  },
-  {
-   "file": "File:Turquie, Constantinople - Eyoub, Cimetière d'Eyoub - Le Cimetière sous la neige vers le Village - A36586.jpg",
-   "ad": "072_eyup_kar.jpg"
-  },
-  {
-   "file": "File:Cimetiere Turc à Scutari - Abdullah Frères. LCCN2003677079.jpg",
-   "ad": "072_mezar_taslari.jpg"
+   "file": "File:A photograph of Sultan Abdulmecid I taken by Basile Kargopoulo c.1850.jpg",
+   "ad": "072_abdulmecid.jpg"
   }
  ]
 }
