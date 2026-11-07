@@ -2,14 +2,21 @@
  "bolum": "072_cellat",
  "min_w": 700,
  "sorgular": [
-  "Cellat Çeşmesi"
+  "Abdülmecid litografi"
  ],
  "incele": [
-  "File:Executioner in the Ottoman Empire.jpg",
-  "File:Fountain of the Executioner, Topkapi 01.jpg",
-  "File:Sultan İbrahim, 17. yüzyıl gravürü.jpg",
-  "File:A photograph of Sultan Abdulmecid I taken by Basile Kargopoulo c.1850.jpg",
-  "File:Choiseul-Gouffier 001.JPG"
+  "File:Abdülmecid Litho.jpg",
+  "File:Sultan Abdülmecid - Google Art Project.jpg",
+  "File:Abdulmejid I (1823-1861).jpg"
  ],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Abdülmecid Litho.jpg",
+   "ad": "072_abdulmecid_lito.jpg"
+  },
+  {
+   "file": "File:Abdulmejid I (1823-1861).jpg",
+   "ad": "072_abdulmecid8.jpg"
+  }
+ ]
 }
