@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 07.11.2026 04:35, Hesap 1 gece kontrolü: yeni büyük hata yok, HATA 1-3 hâlâ açık, 071 Döviz başladı; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 07.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok, HATA 1-3 hâlâ açık; ayrıntı MESAJLAR.md)
 
 ## DALLARDAKİ BÖLÜMLER (07.11.2026, Hesap 1 gece kontrolü, repodan yazıldı)
 - #71 Döviz: ccr-hesap2-doviz, 7 görsel + künye (07.11), senaryo/ses/bölüm yok. 071_ulucanlar ve 071_cezaevi zayıf (bugünkü çekim, konuyu göstermiyor), değiştirilmesi önerildi.

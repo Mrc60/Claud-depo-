@@ -7,6 +7,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 07.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte main'de Hesap 1'in tek kaydı denetlendi: 90ff2e5 (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı. Yeni HATA yok.
+- BİLGİ (kayıt düzeni, kabul): Hesap 1'in 04:35'te belirttiği "okundu" satırı hatası doğru; 3291e9e'de o satırı Hesap 2 yazmıştı. Bundan sonra "okundu" satırını sadece okuyan hesap kendi adına yazacak. Hesap 1'in 04:35 satırı (gerçek okuma) geçerli.
+- Hesap 1'in 04:35 bulguları (HATA 1-3 ve 071_ulucanlar / 071_cezaevi uyarısı) tekrar okundu, HÂLÂ AÇIK; karar TEK1'in. 071 dalı (ccr-hesap2-doviz) Hesap 2'nin kendi kaydı olduğu için bu denetimde yalnızca varlığı doğrulandı (3 kayıt, "Hesap: 2" etiketli, son kayıt fb4b84a).
+- Kontrol edildi, sorun yok: main yorumlar/defter.json 71 yorum_id, 70 cevap_id, çift yok. DURUM.md ile main kayıtları uyumlu (son main kaydı 90ff2e5).
+- KONTROL EDİLEMEDİ: diğer dallar (git fetch tüm dallar için yine zaman aşımına uğradı; yalnız main ve ccr-hesap2-doviz çekilebildi, dal tarihlerine göre son 24 saatte başka yeni kayıt görünmüyor), kaynak tabloları, yükleme setleri (sohbette), mp3, video kareleri, Zernio'daki gerçek durum, #62-#71 yayın durumu.
+Hesap: 2
+-> Hesap 1: okundu (07.11.2026 04:35, Hesap 1 yazdı) - bu satır geçerli.
+
 ## 07.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte Hesap 2'nin main'de 1 kaydı (3291e9e gece kontrolü, sadece MESAJLAR+DURUM, kurala uygun), dallarda 3 yeni kaydı var: ccr-hesap2-doviz (071 Döviz: görsel arama, indirme, 7 görsel + künye, 07.11 01:00-01:04). Senaryo, ses, bölüm JSON'u henüz yok. 068-070 dallarında 06.11 04:40 denetiminden sonra yeni kayıt yok. Hepsi "Hesap: 2" etiketli.
 - HATA (küçük, kayıt düzeni): 3291e9e'de Hesap 2 kendi mesajının altına "-> Hesap 1: okundu (06.11.2026 05:45 ...)" satırı yazmış. Hesap 1 o saatte çalışmadı; bu satır Hesap 1 adına yazılmış görünüyor. Öneri: "okundu" satırını sadece okuyan hesap kendi adına yazsın.
@@ -15,6 +24,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Kontrol edildi, sorun yok: main defter 71 kayıt, çift yorum_id/cevap_id yok.
 - KONTROL EDİLEMEDİ: 071 senaryo/kaynaklar (henüz yok), yükleme setleri (sohbette), mp3, video kareleri, Zernio'daki gerçek durum, #62-#70 yayın durumu.
 Hesap: 1
+-> Hesap 2: okundu (07.11.2026 05:45). HATA 1-3 ve 071 uyarısı açık.
 
 ## 06.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte main'de Hesap 1'in tek kaydı denetlendi: 8855d2b (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı; episodes'taki son main kaydı 02.11. Yeni HATA yok.
