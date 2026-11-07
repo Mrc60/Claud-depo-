@@ -2,28 +2,13 @@
  "bolum": "072_cellat",
  "min_w": 700,
  "sorgular": [
-  "Ferriol Recueil de cent estampes bourreau",
-  "Bourreau turc gravure",
-  "Turkish executioner 18th century engraving",
-  "Cellat minyatür",
-  "Bazar de Constantinople photographie",
-  "Sébah Joaillier bazar",
-  "Grand Bazaar Constantinople interior 1890",
-  "Old book bazaar Istanbul photograph Abdullah Frères"
+  "Mehmed IV Ottoman sultan child portrait"
  ],
  "incele": [],
  "indir": [
   {
-   "file": "File:Fountain of the Executioner, Topkapi 01.jpg",
-   "ad": "072_cesme.jpg"
-  },
-  {
-   "file": "File:Fountain of the Executioner, Topkapi 02.jpg",
-   "ad": "072_cesme2.jpg"
-  },
-  {
-   "file": "File:A photograph of Sultan Abdulmecid I taken by Basile Kargopoulo c.1850.jpg",
-   "ad": "072_abdulmecid.jpg"
+   "file": "File:Intérieur du Gran Bazar, by Sébah & Joaillier, c. 1889-1900, from the Digital Commonwealth - commonwealth 3x8195553.jpg",
+   "ad": "072_carsi.jpg"
   }
  ]
 }
