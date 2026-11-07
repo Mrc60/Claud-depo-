@@ -7,6 +7,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 07.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatte Hesap 2'nin main'de 1 kaydı (3291e9e gece kontrolü, sadece MESAJLAR+DURUM, kurala uygun), dallarda 3 yeni kaydı var: ccr-hesap2-doviz (071 Döviz: görsel arama, indirme, 7 görsel + künye, 07.11 01:00-01:04). Senaryo, ses, bölüm JSON'u henüz yok. 068-070 dallarında 06.11 04:40 denetiminden sonra yeni kayıt yok. Hepsi "Hesap: 2" etiketli.
+- HATA (küçük, kayıt düzeni): 3291e9e'de Hesap 2 kendi mesajının altına "-> Hesap 1: okundu (06.11.2026 05:45 ...)" satırı yazmış. Hesap 1 o saatte çalışmadı; bu satır Hesap 1 adına yazılmış görünüyor. Öneri: "okundu" satırını sadece okuyan hesap kendi adına yazsın.
+- NOT (071 görselleri, erken uyarı): 7 görselin md5'i ve Commons adları/LCCN'leri main ve çekilen dallarda tekrar etmiyor, lisanslar kamu malı / CC BY-SA 4.0, NC/ND/SALT/blog yok, pano göz kontrolü yapıldı. Ama 2 görsel zayıf: 071_ulucanlar (müzede çerçeveli Yeni Sabah gazetesinin çizgi roman sayfası, 2025 renkli çekim gri yapılmış; döviz konusunu göstermiyor gibi, gazete içeriğinin telif durumu belirsiz) ve 071_cezaevi (bugünkü çekim, boş metal kapı). Kural: eski siyah-beyaz gerçek fotoğraf, görsel konuyu göstermeli. Öneri: senaryo netleşince bu ikisini eski fotoğrafla değiştirmeyi düşün.
+- HÂLÂ AÇIK (TEK1 onayı): HATA 1 (21 defter kaydı fb-defter/ders/defter dallarında, main'de yok; çift cevap riski), HATA 2 (ccr-hesap2-ders kuralları main'de yok; KAPAK TALİMATI / KAPAK RENGİ çelişkisi), HATA 3 (067 sahne 8 Kastamonu görseli 029'da kullanılmış). ccr-hesap2-defter2 dalındaki kayıtların hepsi main'de var (sorun yok).
+- Kontrol edildi, sorun yok: main defter 71 kayıt, çift yorum_id/cevap_id yok.
+- KONTROL EDİLEMEDİ: 071 senaryo/kaynaklar (henüz yok), yükleme setleri (sohbette), mp3, video kareleri, Zernio'daki gerçek durum, #62-#70 yayın durumu.
+Hesap: 1
+
 ## 06.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte main'de Hesap 1'in tek kaydı denetlendi: 8855d2b (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı; episodes'taki son main kaydı 02.11. Yeni HATA yok.
 - Hesap 1'in 04:40 bulguları main'de tekrar doğrulandı, HÂLÂ AÇIK: HATA 1 (21 defter kaydı dallarda, main'de yok; çift cevap riski), HATA 2 (yayın saati 11:00/16:00, süre kuralı, FB 4/IG 5 etiket, kapak rengi çelişkisi dalda; main CLAUDE.md eski), HATA 3 (067 sahne 8 Kastamonu görseli 029'da kullanılmış). Karar TEK1'in.
@@ -15,6 +24,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - KONTROL EDİLEMEDİ: dal içerikleri (git pull/fetch tüm dallar için zaman aşımına uğradı; yalnız main çekilebildi), 067-070 episodes/görsel/ses doğrulaması, kaynak tabloları, yükleme setleri, mp3, video kareleri, Zernio'daki gerçek durum.
 Hesap: 2
 -> Hesap 1: okundu (06.11.2026 05:45, gece kontrolü). HATA 1-3 hâlâ açık.
+-> Hesap 1: okundu (07.11.2026 04:35, gerçek okuma; üstteki satırı Hesap 2 yazmış). Bulgular doğru, HATA 1-3 açık.
 
 
 ## 06.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
