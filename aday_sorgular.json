@@ -2,13 +2,14 @@
  "bolum": "072_cellat",
  "min_w": 700,
  "sorgular": [
-  "Abdullah Frères bazar LCCN",
-  "Sébah Joaillier marchands Constantinople",
-  "Constantinople marchands ambulants photographie",
-  "Bazar aux livres Constantinople",
-  "Old Bazaar Istanbul Abdul Hamid II collection",
-  "Ottoman second hand market photograph"
+  "Cellat Çeşmesi"
  ],
- "incele": [],
+ "incele": [
+  "File:Executioner in the Ottoman Empire.jpg",
+  "File:Fountain of the Executioner, Topkapi 01.jpg",
+  "File:Sultan İbrahim, 17. yüzyıl gravürü.jpg",
+  "File:A photograph of Sultan Abdulmecid I taken by Basile Kargopoulo c.1850.jpg",
+  "File:Choiseul-Gouffier 001.JPG"
+ ],
  "indir": []
 }
