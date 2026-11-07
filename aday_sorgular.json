@@ -2,42 +2,48 @@
  "bolum": "072_cellat",
  "min_w": 800,
  "sorgular": [
-  "Sébah Joaillier Topkapı",
-  "Abdullah Frères Topkapı",
-  "Fontaine du bourreau Constantinople",
-  "Topkapı Palace Bab-üs Selam old photograph",
-  "Middle Gate Topkapi 19th century",
-  "Sultan Ibrahim Ottoman portrait",
-  "Ibrahim I Ottoman sultan",
-  "Eyüp cemetery Sébah",
-  "Eyoub cimetière Constantinople",
-  "Cemetery Eyüp 1890",
-  "Bedesten Grand Bazaar old photograph",
-  "Grand Bazaar Istanbul 1880s",
-  "Abdul Hamid II Collection cemetery",
-  "Ottoman gravestones old photograph"
+  "Sultan Abdülmecid portrait",
+  "Abdulmejid I photograph",
+  "Bezesten Constantinople Sébah",
+  "Bazar Constantinople Abdullah Frères",
+  "Grand Bazaar Constantinople 19th century photograph",
+  "Kapalıçarşı eski fotoğraf",
+  "Bit pazarı İstanbul eski",
+  "Bedesten Kapalıçarşı"
  ],
  "incele": [],
  "indir": [
   {
-   "file": "File:Jean Baptiste Vanmour - The Ambassadorial Delegation Passing through the Second Courtyard of the Topkapı Palace - Google Art Project.jpg",
-   "ad": "072_vanmour"
+   "file": "File:Executioner in the Ottoman Empire.jpg",
+   "ad": "072_cellat_resim.jpg"
   },
   {
    "file": "File:Choiseul-Gouffier 001.JPG",
-   "ad": "072_babhumayun"
-  },
-  {
-   "file": "File:Les anciens costumes de l'Empire Ottoman - 14 - Gendarme Chargé d'empêcher l'ouverture des maisons de tolérances.jpg",
-   "ad": "072_kostum"
-  },
-  {
-   "file": "File:Executioner in the Ottoman Empire.jpg",
-   "ad": "072_cellat_resim"
+   "ad": "072_babhumayun.jpg"
   },
   {
    "file": "File:Kilitch Djamissi ou Mosqué du Sabre à Eyoub (Constantinople) - Flandin Eugène - 1853.jpg",
-   "ad": "072_eyup_gravur"
+   "ad": "072_eyup_gravur.jpg"
+  },
+  {
+   "file": "File:Vue prise du Vieux-Séraı̈l - Abdullah Frères. LCCN2003677094.jpg",
+   "ad": "072_saray.jpg"
+  },
+  {
+   "file": "File:Sultan İbrahim, 17. yüzyıl gravürü.jpg",
+   "ad": "072_ibrahim.jpg"
+  },
+  {
+   "file": "File:Turquie, Constantinople - Eyoub, Cimetière d'Eyoub - Le Cimetière sous la neige vers la Corne d'Or - A36588.jpg",
+   "ad": "072_eyup_kar2.jpg"
+  },
+  {
+   "file": "File:Turquie, Constantinople - Eyoub, Cimetière d'Eyoub - Le Cimetière sous la neige vers le Village - A36586.jpg",
+   "ad": "072_eyup_kar.jpg"
+  },
+  {
+   "file": "File:Cimetiere Turc à Scutari - Abdullah Frères. LCCN2003677079.jpg",
+   "ad": "072_mezar_taslari.jpg"
   }
  ]
 }
