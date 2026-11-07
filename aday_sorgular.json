@@ -1,23 +1,20 @@
 {
- "bolum": "062_savas_indir",
+ "bolum": "073_ekmek",
  "min_w": 800,
- "sorgular": [],
- "incele": [
-  "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
-  "File:USMarineTankinBaghdad.jpg"
+ "sorgular": [
+  "Ottoman bakery photograph",
+  "Turkish bakery Constantinople 19th century",
+  "bread seller Constantinople photograph",
+  "Simit seller Istanbul old photograph",
+  "Anatolian village women baking bread old photograph",
+  "Turkey village bread baking LCCN",
+  "Khiva bread Prokudin-Gorsky",
+  "Turkmen bread tandoor old photograph",
+  "Bursa 19th century photograph",
+  "Ottoman family meal photograph",
+  "Turkish peasants eating bread old photograph",
+  "Konya village 1900 photograph bread"
  ],
- "indir": [
-  {
-   "file": "File:USMarineTankinBaghdad.jpg",
-   "ad": "bagdat2003_tank.jpg"
-  },
-  {
-   "file": "File:Coalition Forces Soldiers made up of US Military, Royal Canadian Army (RCA), and Afghanistan Military Forces (AMF) prepare for helicopter extraction at a mountainside landing zone 7 - DPLA - 3295fa1dd73b70e77423c9fedbfb3ee2.jpeg",
-   "ad": "afganistan_dag.jpg"
-  },
-  {
-   "file": "File:MPK1-426 Sykes Picot Agreement Map signed 8 May 1916.jpg",
-   "ad": "sykes_picot_harita.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
