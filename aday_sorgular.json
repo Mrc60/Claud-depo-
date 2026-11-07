@@ -2,30 +2,32 @@
  "bolum": "073_ekmek",
  "min_w": 700,
  "sorgular": [
-  "Yörük women baking bread",
-  "sac ekmeği yufka eski",
-  "tandır ekmeği",
-  "Turkish peasant woman bread 1910",
-  "Anatolia village life 1910 photograph",
-  "Khiva bazaar 1910",
-  "Khiva Muhammad Rahim Khan photograph",
-  "Kungrad Karakalpak photograph 1900",
-  "Turkish family dinner 1920s photograph",
-  "yer sofrası eski fotoğraf"
+  "Turkey peasants LOC matpc Anatolia",
+  "Anatolian village 1920 women",
+  "Smyrna bread",
+  "Ottoman village women 1900 photograph",
+  "Konya peasants photograph 1900",
+  "Turkish villagers meal floor",
+  "Sivas 1900 photograph village",
+  "Kayseri village women photograph old",
+  "Ankara 1920s village women"
  ],
- "incele": [],
+ "incele": [
+  "File:Russian Central Asia - including Kuldja, Bokhara, Khiva and Merv (1885) (14598052120).jpg",
+  "File:Tandır Ekmek Yapımı.jpg"
+ ],
  "indir": [
   {
-   "file": "File:Constantinople, la foule faisant la queue devant une boulangerie (CNews) - btv1b53209734j.jpg",
-   "ad": "073_firin_kuyruk.jpg"
+   "file": "File:Russian Central Asia - including Kuldja, Bokhara, Khiva and Merv (1885) (14598052120).jpg",
+   "ad": "073_hive.jpg"
   },
   {
-   "file": "File:Brousse Mosquée Oulou - Barth Hermann - 1913.jpg",
-   "ad": "073_bursa.jpg"
+   "file": "File:Tandır Ekmek Yapımı.jpg",
+   "ad": "073_tandir.jpg"
   },
   {
-   "file": "File:Semiddschi! - Hunglinger Von Yngue Andreas Magnus - 1800.jpg",
-   "ad": "073_simitci_gravur.jpg"
+   "file": "File:Caesarea. (Kaisarieh). Baking LOC matpc.18521.jpg",
+   "ad": "073_sac.jpg"
   }
  ]
 }
