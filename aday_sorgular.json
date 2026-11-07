@@ -2,19 +2,30 @@
  "bolum": "073_ekmek",
  "min_w": 700,
  "sorgular": [
-  "matpc baking bread",
-  "women making bread LOC Turkey",
-  "bread oven village Palestine matpc",
-  "Fırın eski fotoğraf İstanbul",
-  "Boulangerie Constantinople",
-  "Khiva 1900 photograph",
-  "Turkmen women bread",
-  "Adana 1900 photograph",
-  "Kanunname manuscript Ottoman",
-  "Ottoman court record sicil",
-  "Village family eating Turkey old photograph",
-  "Bread loaves old photograph"
+  "Yörük women baking bread",
+  "sac ekmeği yufka eski",
+  "tandır ekmeği",
+  "Turkish peasant woman bread 1910",
+  "Anatolia village life 1910 photograph",
+  "Khiva bazaar 1910",
+  "Khiva Muhammad Rahim Khan photograph",
+  "Kungrad Karakalpak photograph 1900",
+  "Turkish family dinner 1920s photograph",
+  "yer sofrası eski fotoğraf"
  ],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Constantinople, la foule faisant la queue devant une boulangerie (CNews) - btv1b53209734j.jpg",
+   "ad": "073_firin_kuyruk.jpg"
+  },
+  {
+   "file": "File:Brousse Mosquée Oulou - Barth Hermann - 1913.jpg",
+   "ad": "073_bursa.jpg"
+  },
+  {
+   "file": "File:Semiddschi! - Hunglinger Von Yngue Andreas Magnus - 1800.jpg",
+   "ad": "073_simitci_gravur.jpg"
+  }
+ ]
 }
