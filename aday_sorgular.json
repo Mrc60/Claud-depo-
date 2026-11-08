@@ -2,39 +2,25 @@
  "bolum": "073_sayim",
  "min_w": 700,
  "sorgular": [
-  "Mahmud II portrait",
-  "Sultan Mahmud II lithograph",
-  "Turkish school children 1930 photograph",
-  "Turkish schoolroom 1920s",
-  "Ankara 1929 photograph",
-  "Ankara 1930 LOC",
-  "Constantinople street LCCN",
-  "Istanbul house door old photograph",
-  "Turkish village street 1920s",
-  "cannon fire Istanbul old photograph",
-  "Kemalist poster 1920s",
-  "Türkiye 1920ler köy evi"
+  "x"
  ],
- "incele": [
-  "File:Density of Population-Turkey-1927.png",
-  "File:A street in Constantinople LCCN2011649934.jpg"
- ],
+ "incele": [],
  "indir": [
   {
-   "file": "File:A street in Constantinople LCCN2011649934.jpg",
-   "ad": "073_sokak.jpg"
+   "file": "File:Turkije, Ankara, SFA022829636.jpg",
+   "ad": "073_ankara_ev.jpg"
   },
   {
-   "file": "File:Density of Population-Turkey-1927.png",
-   "ad": "073_harita_yogunluk.jpg"
+   "file": "File:Constantinople - street LCCN2014715175.jpg",
+   "ad": "073_sokak2.jpg"
   },
   {
-   "file": "File:1927-Ratio of Prime Adults-Turkey.png",
-   "ad": "073_harita_yas.jpg"
+   "file": "File:Portret van Sultan Mahmud II, RP-P-1905-5032.jpg",
+   "ad": "073_mahmud.jpg"
   },
   {
-   "file": "File:Taxation-Turkey-1927.png",
-   "ad": "073_harita_vergi.jpg"
+   "file": "File:1927-09-05 HakimiyetiMilliye.jpg",
+   "ad": "073_gazete.jpg"
   }
  ]
 }
