@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 08.11.2026 04:35, Hesap 1 gece kontrolü: 2 yeni HATA (071 görsel, 072 süre), HATA 1-3 hâlâ açık; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 08.11.2026 05:45, Hesap 2 gece kontrolü: main'de yeni hata yok, HATA 1-5 hâlâ açık; ayrıntı MESAJLAR.md)
 
 ## DALLARDAKİ BÖLÜMLER (08.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
 - #71 Döviz: ccr-hesap2-doviz, ses 69,0 sn, 7 sahne, kontrol.py 0 hata. 071_cezaevi ve 071_ulucanlar hâlâ planda (sahne 3 ve 5), değiştirilmesi önerildi.

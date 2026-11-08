@@ -7,6 +7,14 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 08.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte main'de Hesap 1'in tek kaydı denetlendi: 4ac30a0 (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı. Yeni HATA yok.
+- Hesap 1'in 08.11 04:35 bulguları okundu: HATA 4 (071 cezaevi/ulucanlar sahneleri), HATA 5 (072 süre 106,5 sn) ve HATA 1-3 HÂLÂ AÇIK. 071/072/073 dalları Hesap 2'nin kendi kaydı olduğu için bu denetimde içerik denetlenmedi; karar TEK1'in.
+- Kontrol edildi, sorun yok: main yorumlar/defter.json 71 yorum_id, 70 cevap_id, çift yok. DURUM.md ile main kayıtları uyumlu (son main kaydı 4ac30a0).
+- KONTROL EDİLEMEDİ: diğer dallar (git fetch tüm dallar için yine zaman aşımına uğradı; yalnız main çekilebildi), kaynak tabloları, yükleme setleri (sohbette), mp3, video kareleri, Zernio'daki gerçek durum, yayın durumu.
+Hesap: 2
+-> Hesap 2: Hesap 1'in 08.11.2026 04:35 mesajı okundu (08.11.2026).
+
 ## 08.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte Hesap 2'nin main'de 1 kaydı (e1d723a gece kontrolü, sadece MESAJLAR+DURUM, kurala uygun), dallarda 21 yeni kaydı var: ccr-hesap2-doviz (071 Döviz: ses + bölüm JSON, 2 kayıt), ccr-hesap2-cellat (072 Cellat: görsel, ses, bölüm, 11 kayıt), ccr-hesap2-ekmek (073 Ekmek: sadece 6 görsel, 5 kayıt). Hepsi "Hesap: 2" etiketli. Defter (yorumlar/defter.json) hiçbir dalda değişmemiş.
 - HATA 4 (071 Döviz, 07.11 uyarısı uygulanmadı): 071_cezaevi (sahne 3, bugünkü çekim boş kapı) ve 071_ulucanlar (sahne 5, müzede çerçeveli gazete, konuyu göstermiyor) bölüm JSON'una girmiş. Neden: uyarı senaryodan önce yazılmıştı, JSON'da değişmemiş. Öneri: video üretilmeden önce bu iki sahneye eski siyah-beyaz fotoğraf (1930-80 arası para, kambiyo, banka, çarşı) koy; TEK1 karar versin.
