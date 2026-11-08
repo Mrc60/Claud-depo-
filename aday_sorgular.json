@@ -1,20 +1,40 @@
 {
  "bolum": "074_kolelik",
- "min_w": 800,
+ "min_w": 700,
  "sorgular": [
-  "Istanbul slave market engraving",
-  "Esir pazarı Constantinople",
-  "Slave market Constantinople Allom",
-  "Marché aux esclaves Constantinople",
-  "Sultan Abdülmecid portrait engraving",
-  "Circassian woman photograph 19th century",
-  "Circassian girls Ottoman photograph",
-  "Ottoman harem photograph 1900",
-  "Yıldız Palace photograph",
-  "Black eunuch Ottoman photograph",
-  "Ottoman konak interior photograph",
-  "Constantinople backstreet 19th century"
+  "Circassian woman 1870s photograph",
+  "Circassian girl Abdullah Frères",
+  "Circassian refugees 1864",
+  "Circassian costume Sébah",
+  "1908 Constitution celebration Istanbul photograph",
+  "Hürriyet 1908 Istanbul crowd",
+  "Young Turk revolution 1908 photograph",
+  "Palais des Nations Geneva 1930s",
+  "League of Nations assembly 1933 photograph",
+  "Ottoman konak 19th century photograph",
+  "Istanbul street 1880 photograph Sébah",
+  "Tobacco field Ottoman photograph"
  ],
- "incele": [],
- "indir": []
+ "incele": [
+  "File:Aurut Bazaar Allom.jpg",
+  "File:Sebah, Pascal – Ottoman Eunuch.JPG"
+ ],
+ "indir": [
+  {
+   "file": "File:Aurut Bazaar Allom.jpg",
+   "ad": "074_esir_pazari.jpg"
+  },
+  {
+   "file": "File:Portret van sultan Abdülmecit I, RP-P-1905-4991.jpg",
+   "ad": "074_abdulmecid.jpg"
+  },
+  {
+   "file": "File:Yildiz-Kiosk et mosquée Hamidié - Barth Hermann - 1913.jpg",
+   "ad": "074_yildiz.jpg"
+  },
+  {
+   "file": "File:Sebah, Pascal – Ottoman Eunuch.JPG",
+   "ad": "074_harem_agasi.jpg"
+  }
+ ]
 }
