@@ -2,39 +2,24 @@
  "bolum": "074_kolelik",
  "min_w": 700,
  "sorgular": [
-  "Circassian woman 1870s photograph",
-  "Circassian girl Abdullah Frères",
-  "Circassian refugees 1864",
-  "Circassian costume Sébah",
-  "1908 Constitution celebration Istanbul photograph",
-  "Hürriyet 1908 Istanbul crowd",
-  "Young Turk revolution 1908 photograph",
-  "Palais des Nations Geneva 1930s",
-  "League of Nations assembly 1933 photograph",
-  "Ottoman konak 19th century photograph",
-  "Istanbul street 1880 photograph Sébah",
-  "Tobacco field Ottoman photograph"
+  "x"
  ],
  "incele": [
-  "File:Aurut Bazaar Allom.jpg",
-  "File:Sebah, Pascal – Ottoman Eunuch.JPG"
+  "File:Second Constitution celebrations in Merzifon, 1908-3.1.jpg",
+  "File:3-9-27, SDN à Genève, M. Scialoja - btv1b53188030z.jpg"
  ],
  "indir": [
   {
-   "file": "File:Aurut Bazaar Allom.jpg",
-   "ad": "074_esir_pazari.jpg"
+   "file": "File:Second Constitution celebrations in Merzifon, 1908-3.1.jpg",
+   "ad": "074_mesrutiyet.jpg"
   },
   {
-   "file": "File:Portret van sultan Abdülmecit I, RP-P-1905-4991.jpg",
-   "ad": "074_abdulmecid.jpg"
+   "file": "File:3-9-27, SDN à Genève, M. Scialoja - btv1b53188030z.jpg",
+   "ad": "074_cenevre.jpg"
   },
   {
-   "file": "File:Yildiz-Kiosk et mosquée Hamidié - Barth Hermann - 1913.jpg",
-   "ad": "074_yildiz.jpg"
-  },
-  {
-   "file": "File:Sebah, Pascal – Ottoman Eunuch.JPG",
-   "ad": "074_harem_agasi.jpg"
+   "file": "File:Imperial Yildiz Sarayı (palace) and grounds, and the Hamidiye Camii (mosque) LCCN2003677086.jpg",
+   "ad": "074_yildiz2.jpg"
   }
  ]
 }
