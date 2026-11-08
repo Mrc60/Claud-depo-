@@ -76,7 +76,13 @@
     "lisans": "",
     "kaynak": "Ankara, Cumhuriyetin ilk yıllarında evler · Nationaal Archief / Wikimedia Commons, kamu malı",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0.09,
+     0.6,
+     1.0
+    ]
    },
    "scene": "photo",
    "bolumler": [
