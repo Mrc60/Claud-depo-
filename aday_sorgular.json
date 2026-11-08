@@ -2,19 +2,39 @@
  "bolum": "073_sayim",
  "min_w": 700,
  "sorgular": [
-  "1927 10 28 Cumhuriyet",
-  "1927 10 29 Cumhuriyet",
-  "1927 10 27 Cumhuriyet",
-  "Cumhuriyet 1927 Ekim",
-  "Milliyet 1927",
-  "Hakimiyeti Milliye 1927",
-  "Angora 1920s photograph street",
-  "Turkey Angora matpc",
-  "Turkish village houses matpc",
-  "Constantinople 1920s street photograph",
-  "Mahmud II census 1831",
-  "Ottoman census register defter"
+  "Mahmud II portrait",
+  "Sultan Mahmud II lithograph",
+  "Turkish school children 1930 photograph",
+  "Turkish schoolroom 1920s",
+  "Ankara 1929 photograph",
+  "Ankara 1930 LOC",
+  "Constantinople street LCCN",
+  "Istanbul house door old photograph",
+  "Turkish village street 1920s",
+  "cannon fire Istanbul old photograph",
+  "Kemalist poster 1920s",
+  "Türkiye 1920ler köy evi"
  ],
- "incele": [],
- "indir": []
+ "incele": [
+  "File:Density of Population-Turkey-1927.png",
+  "File:A street in Constantinople LCCN2011649934.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:A street in Constantinople LCCN2011649934.jpg",
+   "ad": "073_sokak.jpg"
+  },
+  {
+   "file": "File:Density of Population-Turkey-1927.png",
+   "ad": "073_harita_yogunluk.jpg"
+  },
+  {
+   "file": "File:1927-Ratio of Prime Adults-Turkey.png",
+   "ad": "073_harita_yas.jpg"
+  },
+  {
+   "file": "File:Taxation-Turkey-1927.png",
+   "ad": "073_harita_vergi.jpg"
+  }
+ ]
 }
