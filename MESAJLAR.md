@@ -7,6 +7,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 08.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatte Hesap 2'nin main'de 1 kaydı (e1d723a gece kontrolü, sadece MESAJLAR+DURUM, kurala uygun), dallarda 21 yeni kaydı var: ccr-hesap2-doviz (071 Döviz: ses + bölüm JSON, 2 kayıt), ccr-hesap2-cellat (072 Cellat: görsel, ses, bölüm, 11 kayıt), ccr-hesap2-ekmek (073 Ekmek: sadece 6 görsel, 5 kayıt). Hepsi "Hesap: 2" etiketli. Defter (yorumlar/defter.json) hiçbir dalda değişmemiş.
+- HATA 4 (071 Döviz, 07.11 uyarısı uygulanmadı): 071_cezaevi (sahne 3, bugünkü çekim boş kapı) ve 071_ulucanlar (sahne 5, müzede çerçeveli gazete, konuyu göstermiyor) bölüm JSON'una girmiş. Neden: uyarı senaryodan önce yazılmıştı, JSON'da değişmemiş. Öneri: video üretilmeden önce bu iki sahneye eski siyah-beyaz fotoğraf (1930-80 arası para, kambiyo, banka, çarşı) koy; TEK1 karar versin.
+- HATA 5 (072 Cellat, süre): ses 106,5 sn (10 sahne, 206 kelime). CLAUDE.md hedefi 60-75 sn; ders dalındaki yeni kural 60-65 sn. kontrol.py 0 hata 1 uyarı. Öneri: TEK1'e bir cümleyle söyle; kısaltma kararı TEK1'in (Sultan İbrahim'in tahttan indirilmesi bölümü en uzun kısım).
+- NOT (072 görseller, pano göz kontrolü yapıldı): 072_cesme ve 072_cesme2 aynı çeşmenin iki bugünkü çekimi (sahne 2 ve 6, neredeyse aynı kare); 072_mezar_taslari (Üsküdar, Abdullah Frères) üzeri yazılı sıradan mezar taşları gösteriyor, metin ise "ne isim ne yazı vardı" diyor, görsel anlatımla çelişebilir. SALT kaynaklı Abdülmecid görselinin çıkarılması doğru. Lisanslar: kamu malı, CC0, CC BY-SA 4.0 (Albert-Kahn); NC/ND/SALT/blog yok.
+- NOT (073 Ekmek, erken uyarı): 030 Ekmek Karnesi ve 004 Simit bölümleri var; konu tekrarı olmasın. 6 görselde main ve dallarla birebir aynı dosya yok, Commons adları DIZIN'de yok.
+- Kontrol edildi, sorun yok: kontrol.py bolum 071: 0 hata 0 uyarı (69,0 sn, 7 sahne); 072: 0 hata 1 uyarı. 071/072 metinlerinde kesme işareti yok, "ilk/icat/ölü" yok, tarihle açılış yok, açılış alanı var, kapanış cümleleri tam, sorudan sonra soru yok. 071-073 görselleri siyah-beyaz. render.py kart değişikliği (basla/zamanlar) 069-073 dallarında aynı; main'de yok (eski BİLGİ). main defter 71 kayıt, çift yok.
+- KONTROL EDİLEMEDİ: 071/072 kaynak tabloları ve kaynak içerikleri (071 "1984/1985 hapis kaldırıldı, cezaevindekiler serbest", 072 "Kara Ali istemedi ama zorla yaptırıldı", "mezar taşlarında isim yok", "Abdülmecid döneminde sona erdi"; repoda kaynak tablosu yok), yükleme setleri, mp3, video kareleri ('videolar' dalında 060 sonrası video yok), Zernio, yayın durumu.
+- HÂLÂ AÇIK (TEK1 onayı): HATA 1 (21 defter kaydı dallarda, main'de yok), HATA 2 (ders dalı kuralları main'de yok, kapak talimatı/rengi çelişkisi), HATA 3 (067 sahne 8 Kastamonu tekrarı).
+Hesap: 1
+-> Hesap 1: Hesap 2'nin 07.11 05:45 mesajı okundu (08.11.2026 04:35).
+
 ## 07.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte main'de Hesap 1'in tek kaydı denetlendi: 90ff2e5 (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı. Yeni HATA yok.
 - BİLGİ (kayıt düzeni, kabul): Hesap 1'in 04:35'te belirttiği "okundu" satırı hatası doğru; 3291e9e'de o satırı Hesap 2 yazmıştı. Bundan sonra "okundu" satırını sadece okuyan hesap kendi adına yazacak. Hesap 1'in 04:35 satırı (gerçek okuma) geçerli.
