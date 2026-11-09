@@ -1,16 +1,14 @@
 {
  "bolum": "076_varlik",
- "min_w": 900,
- "sorgular": [
-  "Fortepan Isztambul 1930",
-  "Fortepan Isztambul 1938",
-  "Fortepan Isztambul 1940",
-  "Fortepan Isztambul 1943",
-  "Fortepan Isztambul 1947",
-  "Fortepan Isztambul árus",
-  "Fortepan Isztambul kikötő",
-  "Fortepan Isztambul Galata"
+ "min_w": 600,
+ "sorgular": [],
+ "incele": [
+  "File:1942 05 26 Yeni Asir.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:1942 05 26 Yeni Asir.jpg",
+   "ad": "076_yeniasir_1942.jpg"
+  }
+ ]
 }
