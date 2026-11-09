@@ -1,0 +1,1559 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "youtube_description": "",
+ "sources": [],
+ "episode": 63,
+ "slug": "dugun",
+ "title": "Düğün Masrafını Neden Erkek Öder",
+ "youtube_title": "Düğün masrafını neden erkek öder? #SıradanDeğil 63",
+ "acilis": "Düğünü neden\nerkek öder?",
+ "dis_ses": {
+  "file": "assets/ses/063_dugun.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     9.67
+    ]
+   ],
+   [
+    [
+     9.67,
+     20.21
+    ]
+   ],
+   [
+    [
+     20.21,
+     31.32
+    ]
+   ],
+   [
+    [
+     31.32,
+     40.38
+    ]
+   ],
+   [
+    [
+     40.38,
+     48.04
+    ]
+   ],
+   [
+    [
+     48.04,
+     57.87
+    ]
+   ],
+   [
+    [
+     57.87,
+     71.87
+    ]
+   ],
+   [
+    [
+     71.87,
+     85.42
+    ]
+   ],
+   [
+    [
+     85.42,
+     95.95
+    ]
+   ],
+   [
+    [
+     95.95,
+     115.36
+    ]
+   ],
+   [
+    [
+     115.36,
+     130.1
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Düğün salonu, takılar, ev eşyası. Bu masrafların çoğu neden hep erkek tarafına çıkar? Peki erkek buna gerçekten zorunlu mu?",
+   "caption": "Düğün salonu, takılar, ev eşyası. Bu masrafların çoğu neden hep erkek tarafına çıkar? Peki erkek buna gerçekten zorunlu mu?",
+   "key": [
+    "erkek tarafına"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_hediye.jpg",
+    "fit": "doldur",
+    "baslik": "Düğün hediyelerini taşıyan erkekler, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Düğün hediyelerini taşıyan erkekler, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.56,
+     "n": 1
+    },
+    {
+     "start": 0.56,
+     "end": 1.18,
+     "n": 1
+    },
+    {
+     "start": 1.34,
+     "end": 1.98,
+     "n": 1
+    },
+    {
+     "start": 2.26,
+     "end": 2.34,
+     "n": 1
+    },
+    {
+     "start": 2.34,
+     "end": 3.4,
+     "n": 1
+    },
+    {
+     "start": 3.4,
+     "end": 3.6,
+     "n": 1
+    },
+    {
+     "start": 3.6,
+     "end": 4.28,
+     "n": 1
+    },
+    {
+     "start": 4.28,
+     "end": 4.82,
+     "n": 1
+    },
+    {
+     "start": 4.82,
+     "end": 5.14,
+     "n": 1
+    },
+    {
+     "start": 5.14,
+     "end": 5.44,
+     "n": 1
+    },
+    {
+     "start": 5.44,
+     "end": 5.72,
+     "n": 1
+    },
+    {
+     "start": 5.72,
+     "end": 6.14,
+     "n": 1
+    },
+    {
+     "start": 6.14,
+     "end": 6.42,
+     "n": 1
+    },
+    {
+     "start": 7.0,
+     "end": 7.5,
+     "n": 1
+    },
+    {
+     "start": 7.5,
+     "end": 7.98,
+     "n": 1
+    },
+    {
+     "start": 7.98,
+     "end": 8.24,
+     "n": 1
+    },
+    {
+     "start": 8.24,
+     "end": 8.84,
+     "n": 1
+    },
+    {
+     "start": 8.84,
+     "end": 9.3,
+     "n": 1
+    },
+    {
+     "start": 9.3,
+     "end": 9.44,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu geleneğin kökü çok eskiye, İslamdan önceki Türklere uzanıyor. Eski Türklerde evlenecek erkek, kız tarafına kalın denen bir mal ya da para verirdi.",
+   "caption": "Bu geleneğin kökü çok eskiye, İslamdan önceki Türklere uzanıyor. Eski Türklerde evlenecek erkek, kız tarafına kalın denen bir mal ya da para verirdi.",
+   "key": [
+    "kalın"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_damat.jpg",
+    "fit": "doldur",
+    "baslik": "Kırgız damat, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kırgız damat, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.9,
+     "end": 10.12,
+     "n": 1
+    },
+    {
+     "start": 10.12,
+     "end": 10.64,
+     "n": 1
+    },
+    {
+     "start": 10.64,
+     "end": 11.04,
+     "n": 1
+    },
+    {
+     "start": 11.04,
+     "end": 11.28,
+     "n": 1
+    },
+    {
+     "start": 11.28,
+     "end": 11.8,
+     "n": 1
+    },
+    {
+     "start": 12.16,
+     "end": 12.58,
+     "n": 1
+    },
+    {
+     "start": 12.58,
+     "end": 13.0,
+     "n": 1
+    },
+    {
+     "start": 13.0,
+     "end": 13.38,
+     "n": 1
+    },
+    {
+     "start": 13.38,
+     "end": 14.0,
+     "n": 1
+    },
+    {
+     "start": 14.38,
+     "end": 14.68,
+     "n": 1
+    },
+    {
+     "start": 14.68,
+     "end": 15.36,
+     "n": 1
+    },
+    {
+     "start": 15.36,
+     "end": 16.06,
+     "n": 1
+    },
+    {
+     "start": 16.06,
+     "end": 16.68,
+     "n": 1
+    },
+    {
+     "start": 16.86,
+     "end": 17.02,
+     "n": 1
+    },
+    {
+     "start": 17.02,
+     "end": 17.56,
+     "n": 1
+    },
+    {
+     "start": 17.56,
+     "end": 18.02,
+     "n": 1
+    },
+    {
+     "start": 18.02,
+     "end": 18.3,
+     "n": 1
+    },
+    {
+     "start": 18.3,
+     "end": 18.72,
+     "n": 1
+    },
+    {
+     "start": 18.72,
+     "end": 18.94,
+     "n": 1
+    },
+    {
+     "start": 18.94,
+     "end": 19.12,
+     "n": 1
+    },
+    {
+     "start": 19.12,
+     "end": 19.32,
+     "n": 1
+    },
+    {
+     "start": 19.32,
+     "end": 19.48,
+     "n": 1
+    },
+    {
+     "start": 19.48,
+     "end": 19.98,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "image": {
+    "local": "assets/belgeler/063_gerdek_perdesi.jpg",
+    "fit": "doldur",
+    "baslik": "Gelin odasının işlemeli perdesi önünde kadınlar, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Gelin odasının işlemeli perdesi önünde kadınlar, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "say": "Bu mal kızın ailesine verilirdi ve çoğu zaman düğün masraflarına, kızın çeyizine harcanırdı. Kız tarafı da çeyiz hazırlayarak yeni evin kurulmasına katılırdı.",
+   "caption": "Bu mal kızın ailesine verilirdi ve çoğu zaman düğün masraflarına, kızın çeyizine harcanırdı. Kız tarafı da çeyiz hazırlayarak yeni evin kurulmasına katılırdı.",
+   "key": [
+    "çeyiz"
+   ],
+   "bolumler": [
+    {
+     "start": 20.44,
+     "end": 20.62,
+     "n": 1
+    },
+    {
+     "start": 20.62,
+     "end": 20.9,
+     "n": 1
+    },
+    {
+     "start": 20.9,
+     "end": 21.46,
+     "n": 1
+    },
+    {
+     "start": 21.46,
+     "end": 21.98,
+     "n": 1
+    },
+    {
+     "start": 21.98,
+     "end": 22.6,
+     "n": 1
+    },
+    {
+     "start": 22.6,
+     "end": 23.08,
+     "n": 1
+    },
+    {
+     "start": 23.08,
+     "end": 23.42,
+     "n": 1
+    },
+    {
+     "start": 23.42,
+     "end": 23.72,
+     "n": 1
+    },
+    {
+     "start": 23.72,
+     "end": 24.16,
+     "n": 1
+    },
+    {
+     "start": 24.16,
+     "end": 25.1,
+     "n": 1
+    },
+    {
+     "start": 25.1,
+     "end": 25.58,
+     "n": 1
+    },
+    {
+     "start": 25.58,
+     "end": 26.0,
+     "n": 1
+    },
+    {
+     "start": 26.0,
+     "end": 26.94,
+     "n": 1
+    },
+    {
+     "start": 26.94,
+     "end": 27.28,
+     "n": 1
+    },
+    {
+     "start": 27.28,
+     "end": 27.76,
+     "n": 1
+    },
+    {
+     "start": 27.76,
+     "end": 27.96,
+     "n": 1
+    },
+    {
+     "start": 27.96,
+     "end": 28.3,
+     "n": 1
+    },
+    {
+     "start": 28.3,
+     "end": 29.04,
+     "n": 1
+    },
+    {
+     "start": 29.04,
+     "end": 29.42,
+     "n": 1
+    },
+    {
+     "start": 29.42,
+     "end": 29.76,
+     "n": 1
+    },
+    {
+     "start": 29.76,
+     "end": 30.3,
+     "n": 1
+    },
+    {
+     "start": 30.3,
+     "end": 31.22,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Türkler Müslüman olunca kalının yerini mehir aldı. Mehir, nikâhla birlikte erkeğin kadına ödemek zorunda olduğu para ya da maldır.",
+   "caption": "Türkler Müslüman olunca kalının yerini mehir aldı. Mehir, nikâhla birlikte erkeğin kadına ödemek zorunda olduğu para ya da maldır.",
+   "key": [
+    "mehir"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_nikah.jpg",
+    "fit": "doldur",
+    "baslik": "Nikâh töreni, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Nikâh töreni, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.42,
+     "end": 31.82,
+     "n": 1
+    },
+    {
+     "start": 31.82,
+     "end": 32.28,
+     "n": 1
+    },
+    {
+     "start": 32.28,
+     "end": 32.9,
+     "n": 1
+    },
+    {
+     "start": 32.9,
+     "end": 33.34,
+     "n": 1
+    },
+    {
+     "start": 33.34,
+     "end": 33.88,
+     "n": 1
+    },
+    {
+     "start": 33.88,
+     "end": 34.2,
+     "n": 1
+    },
+    {
+     "start": 34.2,
+     "end": 34.78,
+     "n": 1
+    },
+    {
+     "start": 35.04,
+     "end": 35.5,
+     "n": 1
+    },
+    {
+     "start": 35.78,
+     "end": 36.18,
+     "n": 1
+    },
+    {
+     "start": 36.18,
+     "end": 36.76,
+     "n": 1
+    },
+    {
+     "start": 36.76,
+     "end": 37.32,
+     "n": 1
+    },
+    {
+     "start": 37.32,
+     "end": 37.7,
+     "n": 1
+    },
+    {
+     "start": 37.7,
+     "end": 38.14,
+     "n": 1
+    },
+    {
+     "start": 38.14,
+     "end": 38.6,
+     "n": 1
+    },
+    {
+     "start": 38.6,
+     "end": 38.98,
+     "n": 1
+    },
+    {
+     "start": 38.98,
+     "end": 39.36,
+     "n": 1
+    },
+    {
+     "start": 39.36,
+     "end": 39.58,
+     "n": 1
+    },
+    {
+     "start": 39.58,
+     "end": 39.8,
+     "n": 1
+    },
+    {
+     "start": 39.8,
+     "end": 40.18,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kalından farkı şu: mehir ailesine değil, doğrudan kadının kendisine verilir ve tamamen onun malıdır.",
+   "caption": "Kalından farkı şu: mehir ailesine değil, doğrudan kadının kendisine verilir ve tamamen onun malıdır.",
+   "key": [
+    "kendisine"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_gelin.jpg",
+    "fit": "doldur",
+    "baslik": "Kırgız gelin (kalındık), 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kırgız gelin (kalındık), 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 40.58,
+     "end": 41.0,
+     "n": 1
+    },
+    {
+     "start": 41.0,
+     "end": 41.52,
+     "n": 1
+    },
+    {
+     "start": 41.52,
+     "end": 41.74,
+     "n": 1
+    },
+    {
+     "start": 42.2,
+     "end": 42.54,
+     "n": 1
+    },
+    {
+     "start": 42.54,
+     "end": 43.28,
+     "n": 1
+    },
+    {
+     "start": 43.28,
+     "end": 43.72,
+     "n": 1
+    },
+    {
+     "start": 44.06,
+     "end": 44.48,
+     "n": 1
+    },
+    {
+     "start": 44.48,
+     "end": 44.92,
+     "n": 1
+    },
+    {
+     "start": 44.92,
+     "end": 45.48,
+     "n": 1
+    },
+    {
+     "start": 45.48,
+     "end": 46.02,
+     "n": 1
+    },
+    {
+     "start": 46.02,
+     "end": 46.38,
+     "n": 1
+    },
+    {
+     "start": 46.38,
+     "end": 47.08,
+     "n": 1
+    },
+    {
+     "start": 47.08,
+     "end": 47.28,
+     "n": 1
+    },
+    {
+     "start": 47.28,
+     "end": 47.82,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama halk arasında kalın geleneği bitmedi. Başlık adıyla yaşamaya devam etti. Böylece düğünün yükü yüzyıllarca erkek tarafında kaldı.",
+   "caption": "Ama halk arasında kalın geleneği bitmedi. Başlık adıyla yaşamaya devam etti. Böylece düğünün yükü yüzyıllarca erkek tarafında kaldı.",
+   "key": [
+    "Başlık"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_gelin_at.jpg",
+    "fit": "doldur",
+    "baslik": "Gelinin baba evinden damadın evine götürülmesi, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Gelinin baba evinden damadın evine götürülmesi, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.26,
+     "end": 48.48,
+     "n": 1
+    },
+    {
+     "start": 48.48,
+     "end": 48.8,
+     "n": 1
+    },
+    {
+     "start": 48.8,
+     "end": 49.4,
+     "n": 1
+    },
+    {
+     "start": 49.4,
+     "end": 49.88,
+     "n": 1
+    },
+    {
+     "start": 49.88,
+     "end": 50.32,
+     "n": 1
+    },
+    {
+     "start": 50.32,
+     "end": 50.82,
+     "n": 1
+    },
+    {
+     "start": 51.14,
+     "end": 51.58,
+     "n": 1
+    },
+    {
+     "start": 51.58,
+     "end": 51.94,
+     "n": 1
+    },
+    {
+     "start": 51.94,
+     "end": 52.5,
+     "n": 1
+    },
+    {
+     "start": 52.5,
+     "end": 52.88,
+     "n": 1
+    },
+    {
+     "start": 52.88,
+     "end": 53.2,
+     "n": 1
+    },
+    {
+     "start": 53.2,
+     "end": 54.18,
+     "n": 1
+    },
+    {
+     "start": 54.18,
+     "end": 54.7,
+     "n": 1
+    },
+    {
+     "start": 54.7,
+     "end": 55.2,
+     "n": 1
+    },
+    {
+     "start": 55.2,
+     "end": 56.24,
+     "n": 1
+    },
+    {
+     "start": 56.24,
+     "end": 56.6,
+     "n": 1
+    },
+    {
+     "start": 56.6,
+     "end": 57.12,
+     "n": 1
+    },
+    {
+     "start": 57.12,
+     "end": 57.78,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki Cumhuriyette ne değişti? 1926da kabul edilen Medeni Kanun açıkça şunu yazıyordu: Koca, birliğin reisidir. Evi seçmek, karısını ve çocuklarını geçindirmek kocanın göreviydi.",
+   "caption": "Peki Cumhuriyette ne değişti? 1926da kabul edilen Medeni Kanun açıkça şunu yazıyordu: Koca, birliğin reisidir. Evi seçmek, karısını ve çocuklarını geçindirmek kocanın göreviydi.",
+   "key": [
+    "birliğin reisidir"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_meclis1921.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiye Büyük Millet Meclisi, Ankara, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Türkiye Büyük Millet Meclisi, Ankara, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.96,
+     "end": 58.38,
+     "n": 1
+    },
+    {
+     "start": 58.38,
+     "end": 59.12,
+     "n": 1
+    },
+    {
+     "start": 59.12,
+     "end": 59.3,
+     "n": 1
+    },
+    {
+     "start": 59.3,
+     "end": 60.0,
+     "n": 1
+    },
+    {
+     "start": 60.5,
+     "end": 61.48,
+     "n": 1
+    },
+    {
+     "start": 61.48,
+     "end": 61.8,
+     "n": 1
+    },
+    {
+     "start": 61.8,
+     "end": 62.14,
+     "n": 1
+    },
+    {
+     "start": 62.14,
+     "end": 62.64,
+     "n": 1
+    },
+    {
+     "start": 62.64,
+     "end": 63.16,
+     "n": 1
+    },
+    {
+     "start": 63.16,
+     "end": 63.74,
+     "n": 1
+    },
+    {
+     "start": 63.74,
+     "end": 63.98,
+     "n": 1
+    },
+    {
+     "start": 63.98,
+     "end": 64.66,
+     "n": 1
+    },
+    {
+     "start": 65.2,
+     "end": 65.5,
+     "n": 1
+    },
+    {
+     "start": 65.82,
+     "end": 66.24,
+     "n": 1
+    },
+    {
+     "start": 66.24,
+     "end": 66.88,
+     "n": 1
+    },
+    {
+     "start": 67.44,
+     "end": 67.58,
+     "n": 1
+    },
+    {
+     "start": 67.58,
+     "end": 68.2,
+     "n": 1
+    },
+    {
+     "start": 68.3,
+     "end": 68.8,
+     "n": 1
+    },
+    {
+     "start": 68.8,
+     "end": 69.0,
+     "n": 1
+    },
+    {
+     "start": 69.0,
+     "end": 69.54,
+     "n": 1
+    },
+    {
+     "start": 69.54,
+     "end": 70.5,
+     "n": 1
+    },
+    {
+     "start": 70.5,
+     "end": 70.96,
+     "n": 1
+    },
+    {
+     "start": 70.96,
+     "end": 71.6,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "2002de yeni Medeni Kanun yürürlüğe girdi ve bu madde kaldırıldı. Artık eşler oturacakları evi birlikte seçiyor, evi birlikte yönetiyor ve evin giderlerine güçleri oranında birlikte katılıyor.",
+   "caption": "2002de yeni Medeni Kanun yürürlüğe girdi ve bu madde kaldırıldı. Artık eşler oturacakları evi birlikte seçiyor, evi birlikte yönetiyor ve evin giderlerine güçleri oranında birlikte katılıyor.",
+   "key": [
+    "güçleri oranında"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_cibali1935.jpg",
+    "fit": "doldur",
+    "baslik": "Cibali Tütün Fabrikasında işçi kızlar, İstanbul, 1935 · Library of Congress",
+    "lisans": "",
+    "kaynak": "Cibali Tütün Fabrikasında işçi kızlar, İstanbul, 1935 · Library of Congress",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "MEDENİ KANUN",
+    "baslik": "Ne değişti?",
+    "bekle": 0.6,
+    "maddeler": [
+     "1926: Evi koca geçindirir",
+     "2002: Eşler birlikte katılır"
+    ],
+    "zamanlar": [
+     0.6,
+     4.97
+    ]
+   },
+   "bolumler": [
+    {
+     "start": 72.14,
+     "end": 72.8,
+     "n": 1
+    },
+    {
+     "start": 72.8,
+     "end": 73.06,
+     "n": 1
+    },
+    {
+     "start": 73.06,
+     "end": 73.54,
+     "n": 1
+    },
+    {
+     "start": 73.54,
+     "end": 73.92,
+     "n": 1
+    },
+    {
+     "start": 73.92,
+     "end": 74.52,
+     "n": 1
+    },
+    {
+     "start": 74.52,
+     "end": 74.88,
+     "n": 1
+    },
+    {
+     "start": 74.88,
+     "end": 75.3,
+     "n": 1
+    },
+    {
+     "start": 75.3,
+     "end": 75.5,
+     "n": 1
+    },
+    {
+     "start": 75.5,
+     "end": 75.78,
+     "n": 1
+    },
+    {
+     "start": 75.78,
+     "end": 76.46,
+     "n": 1
+    },
+    {
+     "start": 76.84,
+     "end": 77.16,
+     "n": 1
+    },
+    {
+     "start": 77.16,
+     "end": 77.76,
+     "n": 1
+    },
+    {
+     "start": 77.76,
+     "end": 78.54,
+     "n": 1
+    },
+    {
+     "start": 78.54,
+     "end": 78.94,
+     "n": 1
+    },
+    {
+     "start": 78.94,
+     "end": 79.26,
+     "n": 1
+    },
+    {
+     "start": 79.26,
+     "end": 79.94,
+     "n": 1
+    },
+    {
+     "start": 80.16,
+     "end": 80.5,
+     "n": 1
+    },
+    {
+     "start": 80.5,
+     "end": 80.9,
+     "n": 1
+    },
+    {
+     "start": 80.9,
+     "end": 81.52,
+     "n": 1
+    },
+    {
+     "start": 81.52,
+     "end": 81.88,
+     "n": 1
+    },
+    {
+     "start": 81.88,
+     "end": 82.34,
+     "n": 1
+    },
+    {
+     "start": 82.34,
+     "end": 83.06,
+     "n": 1
+    },
+    {
+     "start": 83.06,
+     "end": 83.56,
+     "n": 1
+    },
+    {
+     "start": 83.56,
+     "end": 84.1,
+     "n": 1
+    },
+    {
+     "start": 84.1,
+     "end": 84.52,
+     "n": 1
+    },
+    {
+     "start": 84.52,
+     "end": 85.2,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki düğün masrafı? Medeni Kanunda düğünü erkek öder diye bir madde yok. Yani erkek tarafının düğünü karşılaması bir zorunluluk değil, gelenek.",
+   "caption": "Peki düğün masrafı? Medeni Kanunda düğünü erkek öder diye bir madde yok. Yani erkek tarafının düğünü karşılaması bir zorunluluk değil, gelenek.",
+   "key": [
+    "gelenek"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_dinar1921.jpg",
+    "fit": "doldur",
+    "baslik": "Köy düğününde davul zurna ve oyun, Dinar, Afyonkarahisar, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Köy düğününde davul zurna ve oyun, Dinar, Afyonkarahisar, 1921 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 85.64,
+     "end": 86.02,
+     "n": 1
+    },
+    {
+     "start": 86.02,
+     "end": 86.54,
+     "n": 1
+    },
+    {
+     "start": 86.54,
+     "end": 87.06,
+     "n": 1
+    },
+    {
+     "start": 87.48,
+     "end": 87.9,
+     "n": 1
+    },
+    {
+     "start": 87.9,
+     "end": 88.56,
+     "n": 1
+    },
+    {
+     "start": 88.56,
+     "end": 89.06,
+     "n": 1
+    },
+    {
+     "start": 89.06,
+     "end": 89.48,
+     "n": 1
+    },
+    {
+     "start": 89.48,
+     "end": 89.8,
+     "n": 1
+    },
+    {
+     "start": 89.8,
+     "end": 90.0,
+     "n": 1
+    },
+    {
+     "start": 90.0,
+     "end": 90.28,
+     "n": 1
+    },
+    {
+     "start": 90.28,
+     "end": 90.54,
+     "n": 1
+    },
+    {
+     "start": 90.54,
+     "end": 90.88,
+     "n": 1
+    },
+    {
+     "start": 91.3,
+     "end": 91.56,
+     "n": 1
+    },
+    {
+     "start": 91.56,
+     "end": 92.06,
+     "n": 1
+    },
+    {
+     "start": 92.06,
+     "end": 92.5,
+     "n": 1
+    },
+    {
+     "start": 92.5,
+     "end": 92.86,
+     "n": 1
+    },
+    {
+     "start": 92.86,
+     "end": 93.64,
+     "n": 1
+    },
+    {
+     "start": 93.64,
+     "end": 93.9,
+     "n": 1
+    },
+    {
+     "start": 93.9,
+     "end": 94.5,
+     "n": 1
+    },
+    {
+     "start": 94.5,
+     "end": 94.86,
+     "n": 1
+    },
+    {
+     "start": 95.3,
+     "end": 95.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Takılarda da değişiklik oldu. Yargıtay uzun yıllar, düğünde kime takılırsa takılsın bütün takıların kadının olduğuna karar verdi. 2024te ise Yargıtay 2. Hukuk Dairesi görüşünü değiştirdi: Artık kural olarak erkeğe takılan erkeğin, kadına takılan kadının sayılıyor.",
+   "caption": "Takılarda da değişiklik oldu. Yargıtay uzun yıllar, düğünde kime takılırsa takılsın bütün takıların kadının olduğuna karar verdi. 2024te ise Yargıtay 2. Hukuk Dairesi görüşünü değiştirdi: Artık kural olarak erkeğe takılan erkeğin, kadına takılan kadının sayılıyor.",
+   "key": [
+    "takıların"
+   ],
+   "image": {
+    "local": "assets/belgeler/063_karsilama.jpg",
+    "fit": "doldur",
+    "baslik": "Damadın gelini karşılaması, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Damadın gelini karşılaması, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "anim": {
+    "tur": "kart",
+    "ust": "YARGITAY",
+    "baslik": "Düğün takıları kimin?",
+    "bekle": 0.6,
+    "maddeler": [
+     "Eskiden: hepsi kadının",
+     "2024: kadına takılan kadının",
+     "erkeğe takılan erkeğin"
+    ],
+    "zamanlar": [
+     2.21,
+     9.57,
+     15.29
+    ]
+   },
+   "bolumler": [
+    {
+     "start": 96.14,
+     "end": 96.64,
+     "n": 1
+    },
+    {
+     "start": 96.64,
+     "end": 96.94,
+     "n": 1
+    },
+    {
+     "start": 96.94,
+     "end": 97.42,
+     "n": 1
+    },
+    {
+     "start": 97.42,
+     "end": 97.72,
+     "n": 1
+    },
+    {
+     "start": 98.16,
+     "end": 98.66,
+     "n": 1
+    },
+    {
+     "start": 98.66,
+     "end": 99.12,
+     "n": 1
+    },
+    {
+     "start": 99.12,
+     "end": 99.78,
+     "n": 1
+    },
+    {
+     "start": 99.96,
+     "end": 100.28,
+     "n": 1
+    },
+    {
+     "start": 100.28,
+     "end": 100.66,
+     "n": 1
+    },
+    {
+     "start": 100.66,
+     "end": 101.26,
+     "n": 1
+    },
+    {
+     "start": 101.26,
+     "end": 101.78,
+     "n": 1
+    },
+    {
+     "start": 102.18,
+     "end": 102.38,
+     "n": 1
+    },
+    {
+     "start": 102.38,
+     "end": 102.94,
+     "n": 1
+    },
+    {
+     "start": 102.94,
+     "end": 103.44,
+     "n": 1
+    },
+    {
+     "start": 103.44,
+     "end": 103.92,
+     "n": 1
+    },
+    {
+     "start": 103.92,
+     "end": 104.28,
+     "n": 1
+    },
+    {
+     "start": 104.28,
+     "end": 104.52,
+     "n": 1
+    },
+    {
+     "start": 105.52,
+     "end": 105.96,
+     "n": 1
+    },
+    {
+     "start": 105.96,
+     "end": 106.4,
+     "n": 1
+    },
+    {
+     "start": 106.4,
+     "end": 107.08,
+     "n": 1
+    },
+    {
+     "start": 107.08,
+     "end": 107.42,
+     "n": 1
+    },
+    {
+     "start": 107.6,
+     "end": 107.92,
+     "n": 1
+    },
+    {
+     "start": 107.92,
+     "end": 108.46,
+     "n": 1
+    },
+    {
+     "start": 108.46,
+     "end": 108.94,
+     "n": 1
+    },
+    {
+     "start": 108.94,
+     "end": 109.62,
+     "n": 1
+    },
+    {
+     "start": 109.62,
+     "end": 110.44,
+     "n": 1
+    },
+    {
+     "start": 110.44,
+     "end": 110.76,
+     "n": 1
+    },
+    {
+     "start": 110.76,
+     "end": 111.24,
+     "n": 1
+    },
+    {
+     "start": 111.24,
+     "end": 111.86,
+     "n": 1
+    },
+    {
+     "start": 111.86,
+     "end": 112.24,
+     "n": 1
+    },
+    {
+     "start": 112.24,
+     "end": 112.98,
+     "n": 1
+    },
+    {
+     "start": 113.26,
+     "end": 113.44,
+     "n": 1
+    },
+    {
+     "start": 113.44,
+     "end": 113.96,
+     "n": 1
+    },
+    {
+     "start": 113.96,
+     "end": 114.38,
+     "n": 1
+    },
+    {
+     "start": 114.38,
+     "end": 115.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "image": {
+    "local": "assets/belgeler/063_kiz_kacar.jpg",
+    "fit": "doldur",
+    "baslik": "Düğünde atlı kız kaçar oyunu, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Düğünde atlı kız kaçar oyunu, Orta Asya, 1865-1872 · Türkistan Albümü · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "say": "Sizce düğün masrafını kim karşılamalı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce düğün masrafını kim karşılamalı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "kim karşılamalı"
+   ],
+   "bolumler": [
+    {
+     "start": 115.58,
+     "end": 116.0,
+     "n": 1
+    },
+    {
+     "start": 116.0,
+     "end": 116.38,
+     "n": 1
+    },
+    {
+     "start": 116.38,
+     "end": 116.92,
+     "n": 1
+    },
+    {
+     "start": 116.92,
+     "end": 117.14,
+     "n": 1
+    },
+    {
+     "start": 117.14,
+     "end": 117.86,
+     "n": 1
+    },
+    {
+     "start": 118.22,
+     "end": 119.02,
+     "n": 1
+    },
+    {
+     "start": 119.02,
+     "end": 119.62,
+     "n": 1
+    },
+    {
+     "start": 119.62,
+     "end": 120.34,
+     "n": 1
+    },
+    {
+     "start": 120.52,
+     "end": 121.06,
+     "n": 1
+    },
+    {
+     "start": 121.06,
+     "end": 121.4,
+     "n": 1
+    },
+    {
+     "start": 121.4,
+     "end": 122.08,
+     "n": 1
+    },
+    {
+     "start": 122.08,
+     "end": 123.04,
+     "n": 1
+    },
+    {
+     "start": 123.38,
+     "end": 123.62,
+     "n": 1
+    },
+    {
+     "start": 123.62,
+     "end": 124.0,
+     "n": 1
+    },
+    {
+     "start": 124.0,
+     "end": 124.38,
+     "n": 1
+    },
+    {
+     "start": 124.38,
+     "end": 124.92,
+     "n": 1
+    },
+    {
+     "start": 124.92,
+     "end": 125.06,
+     "n": 1
+    },
+    {
+     "start": 125.06,
+     "end": 125.46,
+     "n": 1
+    },
+    {
+     "start": 125.46,
+     "end": 126.04,
+     "n": 1
+    },
+    {
+     "start": 126.04,
+     "end": 126.58,
+     "n": 1
+    },
+    {
+     "start": 126.58,
+     "end": 127.14,
+     "n": 1
+    },
+    {
+     "start": 127.14,
+     "end": 127.86,
+     "n": 1
+    },
+    {
+     "start": 127.86,
+     "end": 128.06,
+     "n": 1
+    },
+    {
+     "start": 128.06,
+     "end": 128.48,
+     "n": 1
+    },
+    {
+     "start": 128.48,
+     "end": 128.96,
+     "n": 1
+    },
+    {
+     "start": 128.96,
+     "end": 129.4,
+     "n": 1
+    },
+    {
+     "start": 129.4,
+     "end": 129.96,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
