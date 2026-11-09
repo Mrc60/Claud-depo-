@@ -1,0 +1,1162 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 76,
+ "slug": "varlik",
+ "title": "Varlık Vergisi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kapıya bir liste asıldı.\nAdınız orada!",
+ "dis_ses": {
+  "file": "assets/ses/076_varlik.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     9.04
+    ]
+   ],
+   [
+    [
+     9.04,
+     24.06
+    ]
+   ],
+   [
+    [
+     24.06,
+     47.78
+    ]
+   ],
+   [
+    [
+     47.78,
+     64.64
+    ]
+   ],
+   [
+    [
+     64.64,
+     76.96
+    ]
+   ],
+   [
+    [
+     76.96,
+     85.5
+    ]
+   ],
+   [
+    [
+     85.5,
+     101.64
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir sabah vergi dairesinin kapısına bir liste asılıyor. Adınız orada. Yanında ödemeniz gereken para. İtiraz etmek yasak.",
+   "caption": "Bir sabah vergi dairesinin kapısına bir liste asılıyor. Adınız orada. Yanında ödemeniz gereken para. İtiraz etmek yasak.",
+   "key": [
+    "liste"
+   ],
+   "image": {
+    "local": "assets/belgeler/076_defter.jpg",
+    "fit": "doldur",
+    "baslik": "1940 tarihli bir vergi defteri · Satirdan kahraman / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "1940 tarihli bir vergi defteri · Satirdan kahraman / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.35,
+     0,
+     0.603,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.36,
+     "n": 1
+    },
+    {
+     "start": 0.36,
+     "end": 0.82,
+     "n": 1
+    },
+    {
+     "start": 0.82,
+     "end": 1.2,
+     "n": 1
+    },
+    {
+     "start": 1.2,
+     "end": 1.72,
+     "n": 1
+    },
+    {
+     "start": 1.72,
+     "end": 2.2,
+     "n": 1
+    },
+    {
+     "start": 2.2,
+     "end": 2.44,
+     "n": 1
+    },
+    {
+     "start": 2.44,
+     "end": 2.74,
+     "n": 1
+    },
+    {
+     "start": 2.74,
+     "end": 3.6,
+     "n": 1
+    },
+    {
+     "start": 3.74,
+     "end": 4.04,
+     "n": 1
+    },
+    {
+     "start": 4.04,
+     "end": 4.44,
+     "n": 1
+    },
+    {
+     "start": 4.82,
+     "end": 5.26,
+     "n": 1
+    },
+    {
+     "start": 5.26,
+     "end": 5.86,
+     "n": 1
+    },
+    {
+     "start": 5.86,
+     "end": 6.34,
+     "n": 1
+    },
+    {
+     "start": 6.34,
+     "end": 6.7,
+     "n": 1
+    },
+    {
+     "start": 7.24,
+     "end": 7.62,
+     "n": 1
+    },
+    {
+     "start": 7.62,
+     "end": 7.92,
+     "n": 1
+    },
+    {
+     "start": 7.92,
+     "end": 8.78,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yıl 1942. İkinci Dünya Savaşı sürüyor, fiyatlar hızla artıyor. Meclis, servet sahiplerinden ve savaşta olağanüstü kazanç sağlayanlardan bir defaya mahsus bir vergi çıkarıyor. Varlık Vergisi.",
+   "caption": "Yıl 1942. İkinci Dünya Savaşı sürüyor, fiyatlar hızla artıyor. Meclis, servet sahiplerinden ve savaşta olağanüstü kazanç sağlayanlardan bir defaya mahsus bir vergi çıkarıyor. Varlık Vergisi.",
+   "key": [
+    "1942."
+   ],
+   "image": {
+    "local": "assets/belgeler/076_kahire.jpg",
+    "fit": "doldur",
+    "baslik": "İkinci Dünya Savaşı yılları: İsmet İnönü (solda oturan) ve Churchill, Kahire, 1943 · ABD Ordusu / Kongre Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "İkinci Dünya Savaşı yılları: İsmet İnönü (solda oturan) ve Churchill, Kahire, 1943 · ABD Ordusu / Kongre Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.36,
+     0,
+     0.81,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.04,
+     "end": 9.32,
+     "n": 1
+    },
+    {
+     "start": 9.32,
+     "end": 10.56,
+     "n": 1
+    },
+    {
+     "start": 11.16,
+     "end": 11.36,
+     "n": 1
+    },
+    {
+     "start": 11.36,
+     "end": 11.7,
+     "n": 1
+    },
+    {
+     "start": 11.7,
+     "end": 12.16,
+     "n": 1
+    },
+    {
+     "start": 12.16,
+     "end": 12.7,
+     "n": 1
+    },
+    {
+     "start": 12.98,
+     "end": 13.46,
+     "n": 1
+    },
+    {
+     "start": 13.46,
+     "end": 13.9,
+     "n": 1
+    },
+    {
+     "start": 13.9,
+     "end": 14.5,
+     "n": 1
+    },
+    {
+     "start": 14.96,
+     "end": 15.54,
+     "n": 1
+    },
+    {
+     "start": 15.84,
+     "end": 16.12,
+     "n": 1
+    },
+    {
+     "start": 16.12,
+     "end": 16.88,
+     "n": 1
+    },
+    {
+     "start": 16.88,
+     "end": 17.2,
+     "n": 1
+    },
+    {
+     "start": 17.2,
+     "end": 17.8,
+     "n": 1
+    },
+    {
+     "start": 17.8,
+     "end": 18.5,
+     "n": 1
+    },
+    {
+     "start": 18.5,
+     "end": 18.82,
+     "n": 1
+    },
+    {
+     "start": 18.82,
+     "end": 19.7,
+     "n": 1
+    },
+    {
+     "start": 19.7,
+     "end": 20.26,
+     "n": 1
+    },
+    {
+     "start": 20.26,
+     "end": 20.64,
+     "n": 1
+    },
+    {
+     "start": 20.64,
+     "end": 21.12,
+     "n": 1
+    },
+    {
+     "start": 21.12,
+     "end": 21.42,
+     "n": 1
+    },
+    {
+     "start": 21.42,
+     "end": 21.68,
+     "n": 1
+    },
+    {
+     "start": 21.68,
+     "end": 22.28,
+     "n": 1
+    },
+    {
+     "start": 22.74,
+     "end": 23.12,
+     "n": 1
+    },
+    {
+     "start": 23.12,
+     "end": 23.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kanunu Başbakan Şükrü Saraçoğlunun hükümeti hazırladı. Maliye Bakanı Fuat Ağralı, Cumhurbaşkanı İsmet İnönüydü. Mecliste oylamaya katılan 350 milletvekilinin hepsi evet dedi. Kanunda tek kelime ayrım yoktu. Ama vergiyi belirleyen komisyonlar mükellefleri ayrı listelere ayırdı. Müslümanlar bir listede, gayrimüslimler başka bir listede.",
+   "caption": "Kanunu Başbakan Şükrü Saraçoğlunun hükümeti hazırladı. Maliye Bakanı Fuat Ağralı, Cumhurbaşkanı İsmet İnönüydü. Mecliste oylamaya katılan 350 milletvekilinin hepsi evet dedi. Kanunda tek kelime ayrım yoktu. Ama vergiyi belirleyen komisyonlar mükellefleri ayrı listelere ayırdı. Müslümanlar bir listede, gayrimüslimler başka bir listede.",
+   "key": [
+    "350",
+    "ayrım"
+   ],
+   "image": {
+    "local": "assets/belgeler/076_rg5255.jpg",
+    "fit": "doldur",
+    "baslik": "Varlık Vergisi Kanunu, Resmî Gazete, 12 Kasım 1942, sayı 5255",
+    "lisans": "",
+    "kaynak": "Varlık Vergisi Kanunu, Resmî Gazete, 12 Kasım 1942, sayı 5255",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 24.06,
+     "end": 24.52,
+     "n": 1
+    },
+    {
+     "start": 24.52,
+     "end": 25.14,
+     "n": 1
+    },
+    {
+     "start": 25.14,
+     "end": 25.5,
+     "n": 1
+    },
+    {
+     "start": 25.5,
+     "end": 26.24,
+     "n": 1
+    },
+    {
+     "start": 26.24,
+     "end": 26.84,
+     "n": 1
+    },
+    {
+     "start": 26.84,
+     "end": 27.32,
+     "n": 1
+    },
+    {
+     "start": 27.32,
+     "end": 28.18,
+     "n": 1
+    },
+    {
+     "start": 28.18,
+     "end": 28.46,
+     "n": 1
+    },
+    {
+     "start": 28.46,
+     "end": 28.9,
+     "n": 1
+    },
+    {
+     "start": 28.9,
+     "end": 29.48,
+     "n": 1
+    },
+    {
+     "start": 29.76,
+     "end": 30.48,
+     "n": 1
+    },
+    {
+     "start": 30.48,
+     "end": 30.82,
+     "n": 1
+    },
+    {
+     "start": 30.82,
+     "end": 31.8,
+     "n": 1
+    },
+    {
+     "start": 31.98,
+     "end": 32.38,
+     "n": 1
+    },
+    {
+     "start": 32.38,
+     "end": 32.9,
+     "n": 1
+    },
+    {
+     "start": 32.9,
+     "end": 33.36,
+     "n": 1
+    },
+    {
+     "start": 33.36,
+     "end": 33.94,
+     "n": 1
+    },
+    {
+     "start": 33.94,
+     "end": 35.02,
+     "n": 1
+    },
+    {
+     "start": 35.02,
+     "end": 35.78,
+     "n": 1
+    },
+    {
+     "start": 35.78,
+     "end": 36.04,
+     "n": 1
+    },
+    {
+     "start": 36.04,
+     "end": 36.36,
+     "n": 1
+    },
+    {
+     "start": 36.8,
+     "end": 37.22,
+     "n": 1
+    },
+    {
+     "start": 37.22,
+     "end": 37.54,
+     "n": 1
+    },
+    {
+     "start": 37.54,
+     "end": 37.88,
+     "n": 1
+    },
+    {
+     "start": 37.88,
+     "end": 38.2,
+     "n": 1
+    },
+    {
+     "start": 38.2,
+     "end": 38.86,
+     "n": 1
+    },
+    {
+     "start": 39.04,
+     "end": 39.22,
+     "n": 1
+    },
+    {
+     "start": 39.22,
+     "end": 39.68,
+     "n": 1
+    },
+    {
+     "start": 39.68,
+     "end": 40.24,
+     "n": 1
+    },
+    {
+     "start": 40.24,
+     "end": 41.14,
+     "n": 1
+    },
+    {
+     "start": 41.14,
+     "end": 41.94,
+     "n": 1
+    },
+    {
+     "start": 41.94,
+     "end": 42.36,
+     "n": 1
+    },
+    {
+     "start": 42.36,
+     "end": 42.82,
+     "n": 1
+    },
+    {
+     "start": 42.82,
+     "end": 43.5,
+     "n": 1
+    },
+    {
+     "start": 43.8,
+     "end": 44.36,
+     "n": 1
+    },
+    {
+     "start": 44.36,
+     "end": 44.62,
+     "n": 1
+    },
+    {
+     "start": 44.62,
+     "end": 45.06,
+     "n": 1
+    },
+    {
+     "start": 45.4,
+     "end": 46.38,
+     "n": 1
+    },
+    {
+     "start": 46.38,
+     "end": 46.76,
+     "n": 1
+    },
+    {
+     "start": 46.76,
+     "end": 46.98,
+     "n": 1
+    },
+    {
+     "start": 46.98,
+     "end": 47.42,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Dönemin İstanbul Defterdarı Faik Ökte yıllar sonra kitabında itiraf etti. Yan yana dükkânlarda aynı işi yapan iki kişiden gayrimüslim olana çok daha ağır vergi konmuştu. Ödeme süresi 15 gündü. Ödeyemeyenlerin malları haczedilip satıldı.",
+   "caption": "Dönemin İstanbul Defterdarı Faik Ökte yıllar sonra kitabında itiraf etti. Yan yana dükkânlarda aynı işi yapan iki kişiden gayrimüslim olana çok daha ağır vergi konmuştu. Ödeme süresi 15 gündü. Ödeyemeyenlerin malları haczedilip satıldı.",
+   "key": [
+    "Faik",
+    "Ökte"
+   ],
+   "image": {
+    "local": "assets/belgeler/076_kamondo.jpg",
+    "fit": "doldur",
+    "baslik": "Galata, Kamondo Merdivenleri ve dükkânlar, 1920-1945 · Slovenya Dijital Kütüphanesi / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata, Kamondo Merdivenleri ve dükkânlar, 1920-1945 · Slovenya Dijital Kütüphanesi / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.17,
+     0,
+     0.838,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 47.78,
+     "end": 48.18,
+     "n": 1
+    },
+    {
+     "start": 48.18,
+     "end": 48.72,
+     "n": 1
+    },
+    {
+     "start": 48.72,
+     "end": 49.42,
+     "n": 1
+    },
+    {
+     "start": 49.42,
+     "end": 49.88,
+     "n": 1
+    },
+    {
+     "start": 49.88,
+     "end": 50.34,
+     "n": 1
+    },
+    {
+     "start": 50.34,
+     "end": 51.0,
+     "n": 1
+    },
+    {
+     "start": 51.0,
+     "end": 51.22,
+     "n": 1
+    },
+    {
+     "start": 51.22,
+     "end": 51.76,
+     "n": 1
+    },
+    {
+     "start": 51.76,
+     "end": 52.32,
+     "n": 1
+    },
+    {
+     "start": 52.32,
+     "end": 52.58,
+     "n": 1
+    },
+    {
+     "start": 52.58,
+     "end": 53.24,
+     "n": 1
+    },
+    {
+     "start": 53.24,
+     "end": 53.46,
+     "n": 1
+    },
+    {
+     "start": 53.46,
+     "end": 54.22,
+     "n": 1
+    },
+    {
+     "start": 54.22,
+     "end": 54.6,
+     "n": 1
+    },
+    {
+     "start": 54.6,
+     "end": 54.88,
+     "n": 1
+    },
+    {
+     "start": 54.88,
+     "end": 55.2,
+     "n": 1
+    },
+    {
+     "start": 55.2,
+     "end": 55.54,
+     "n": 1
+    },
+    {
+     "start": 55.54,
+     "end": 56.1,
+     "n": 1
+    },
+    {
+     "start": 56.1,
+     "end": 56.88,
+     "n": 1
+    },
+    {
+     "start": 56.88,
+     "end": 57.22,
+     "n": 1
+    },
+    {
+     "start": 57.22,
+     "end": 57.6,
+     "n": 1
+    },
+    {
+     "start": 57.6,
+     "end": 57.94,
+     "n": 1
+    },
+    {
+     "start": 57.94,
+     "end": 58.24,
+     "n": 1
+    },
+    {
+     "start": 58.24,
+     "end": 58.58,
+     "n": 1
+    },
+    {
+     "start": 58.58,
+     "end": 59.46,
+     "n": 1
+    },
+    {
+     "start": 59.66,
+     "end": 59.98,
+     "n": 1
+    },
+    {
+     "start": 59.98,
+     "end": 60.58,
+     "n": 1
+    },
+    {
+     "start": 60.58,
+     "end": 60.98,
+     "n": 1
+    },
+    {
+     "start": 60.98,
+     "end": 61.64,
+     "n": 1
+    },
+    {
+     "start": 61.78,
+     "end": 62.62,
+     "n": 1
+    },
+    {
+     "start": 62.62,
+     "end": 63.08,
+     "n": 1
+    },
+    {
+     "start": 63.08,
+     "end": 63.72,
+     "n": 1
+    },
+    {
+     "start": 63.72,
+     "end": 64.24,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Borcu yine bitmeyenler çalışma kamplarına gönderildi. Yaklaşık 1400 kişi Aşkalede kar küredi, Sivrihisarda taş kırdı. 21 kişi kamplarda hayatını kaybetti.",
+   "caption": "Borcu yine bitmeyenler çalışma kamplarına gönderildi. Yaklaşık 1400 kişi Aşkalede kar küredi, Sivrihisarda taş kırdı. 21 kişi kamplarda hayatını kaybetti.",
+   "key": [
+    "1400",
+    "21"
+   ],
+   "image": {
+    "local": "assets/belgeler/076_askale_kar.jpg",
+    "fit": "doldur",
+    "baslik": "Aşkale, Abdalcık köyü, kış (2011, günümüz) · Suhax / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Aşkale, Abdalcık köyü, kış (2011, günümüz) · Suhax / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.02,
+     0,
+     0.442,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 64.64,
+     "end": 65.02,
+     "n": 1
+    },
+    {
+     "start": 65.02,
+     "end": 65.34,
+     "n": 1
+    },
+    {
+     "start": 65.34,
+     "end": 66.18,
+     "n": 1
+    },
+    {
+     "start": 66.18,
+     "end": 66.68,
+     "n": 1
+    },
+    {
+     "start": 66.68,
+     "end": 67.2,
+     "n": 1
+    },
+    {
+     "start": 67.2,
+     "end": 67.88,
+     "n": 1
+    },
+    {
+     "start": 68.28,
+     "end": 68.74,
+     "n": 1
+    },
+    {
+     "start": 68.74,
+     "end": 69.28,
+     "n": 1
+    },
+    {
+     "start": 69.28,
+     "end": 69.82,
+     "n": 1
+    },
+    {
+     "start": 69.82,
+     "end": 70.6,
+     "n": 1
+    },
+    {
+     "start": 70.6,
+     "end": 70.9,
+     "n": 1
+    },
+    {
+     "start": 70.9,
+     "end": 71.56,
+     "n": 1
+    },
+    {
+     "start": 71.8,
+     "end": 72.64,
+     "n": 1
+    },
+    {
+     "start": 72.64,
+     "end": 72.84,
+     "n": 1
+    },
+    {
+     "start": 72.84,
+     "end": 73.48,
+     "n": 1
+    },
+    {
+     "start": 73.72,
+     "end": 74.08,
+     "n": 1
+    },
+    {
+     "start": 74.08,
+     "end": 74.66,
+     "n": 1
+    },
+    {
+     "start": 74.66,
+     "end": 75.3,
+     "n": 1
+    },
+    {
+     "start": 75.3,
+     "end": 75.86,
+     "n": 1
+    },
+    {
+     "start": 75.86,
+     "end": 76.46,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Vergi 16 ay sonra kaldırıldı. Kalan borçlar silindi. Ama kapanan dükkânlar ve kaybedilen hayatlar geri gelmedi.",
+   "caption": "Vergi 16 ay sonra kaldırıldı. Kalan borçlar silindi. Ama kapanan dükkânlar ve kaybedilen hayatlar geri gelmedi.",
+   "key": [
+    "16"
+   ],
+   "image": {
+    "local": "assets/belgeler/076_stambul_sokak.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda bir çarşı sokağı, 1925 · D. Weber / Bundesarchiv, CC BY-SA 3.0 de",
+    "lisans": "",
+    "kaynak": "İstanbulda bir çarşı sokağı, 1925 · D. Weber / Bundesarchiv, CC BY-SA 3.0 de",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.24,
+     0,
+     0.767,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 76.96,
+     "end": 77.32,
+     "n": 1
+    },
+    {
+     "start": 77.32,
+     "end": 77.72,
+     "n": 1
+    },
+    {
+     "start": 77.72,
+     "end": 77.96,
+     "n": 1
+    },
+    {
+     "start": 77.96,
+     "end": 78.3,
+     "n": 1
+    },
+    {
+     "start": 78.3,
+     "end": 78.92,
+     "n": 1
+    },
+    {
+     "start": 79.24,
+     "end": 79.56,
+     "n": 1
+    },
+    {
+     "start": 79.56,
+     "end": 80.1,
+     "n": 1
+    },
+    {
+     "start": 80.1,
+     "end": 80.6,
+     "n": 1
+    },
+    {
+     "start": 80.6,
+     "end": 81.24,
+     "n": 1
+    },
+    {
+     "start": 81.24,
+     "end": 81.7,
+     "n": 1
+    },
+    {
+     "start": 81.7,
+     "end": 82.42,
+     "n": 1
+    },
+    {
+     "start": 82.42,
+     "end": 82.74,
+     "n": 1
+    },
+    {
+     "start": 82.74,
+     "end": 83.36,
+     "n": 1
+    },
+    {
+     "start": 83.36,
+     "end": 84.18,
+     "n": 1
+    },
+    {
+     "start": 84.18,
+     "end": 84.44,
+     "n": 1
+    },
+    {
+     "start": 84.44,
+     "end": 84.96,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizin ailenizde varlık Vergisini yaşamış ya da anlatan biri oldu mu? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizin ailenizde varlık Vergisini yaşamış ya da anlatan biri oldu mu? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/076_uskudar.jpg",
+    "fit": "doldur",
+    "baslik": "Üsküdar, 1935 · Fortepan / Ofner Károly, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Üsküdar, 1935 · Fortepan / Ofner Károly, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.45,
+     0,
+     0.866,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 85.5,
+     "end": 85.76,
+     "n": 1
+    },
+    {
+     "start": 85.76,
+     "end": 86.5,
+     "n": 1
+    },
+    {
+     "start": 86.5,
+     "end": 86.92,
+     "n": 1
+    },
+    {
+     "start": 86.92,
+     "end": 87.44,
+     "n": 1
+    },
+    {
+     "start": 87.44,
+     "end": 88.1,
+     "n": 1
+    },
+    {
+     "start": 88.1,
+     "end": 88.28,
+     "n": 1
+    },
+    {
+     "start": 88.28,
+     "end": 88.6,
+     "n": 1
+    },
+    {
+     "start": 88.6,
+     "end": 89.0,
+     "n": 1
+    },
+    {
+     "start": 89.0,
+     "end": 89.14,
+     "n": 1
+    },
+    {
+     "start": 89.14,
+     "end": 89.36,
+     "n": 1
+    },
+    {
+     "start": 89.36,
+     "end": 89.74,
+     "n": 1
+    },
+    {
+     "start": 90.02,
+     "end": 90.72,
+     "n": 1
+    },
+    {
+     "start": 90.72,
+     "end": 91.28,
+     "n": 1
+    },
+    {
+     "start": 91.28,
+     "end": 92.04,
+     "n": 1
+    },
+    {
+     "start": 92.22,
+     "end": 92.78,
+     "n": 1
+    },
+    {
+     "start": 92.78,
+     "end": 93.1,
+     "n": 1
+    },
+    {
+     "start": 93.1,
+     "end": 93.8,
+     "n": 1
+    },
+    {
+     "start": 93.8,
+     "end": 94.7,
+     "n": 1
+    },
+    {
+     "start": 95.1,
+     "end": 95.3,
+     "n": 1
+    },
+    {
+     "start": 95.3,
+     "end": 95.66,
+     "n": 1
+    },
+    {
+     "start": 95.66,
+     "end": 96.02,
+     "n": 1
+    },
+    {
+     "start": 96.02,
+     "end": 96.52,
+     "n": 1
+    },
+    {
+     "start": 96.52,
+     "end": 96.66,
+     "n": 1
+    },
+    {
+     "start": 96.66,
+     "end": 97.04,
+     "n": 1
+    },
+    {
+     "start": 97.04,
+     "end": 97.56,
+     "n": 1
+    },
+    {
+     "start": 97.56,
+     "end": 97.98,
+     "n": 1
+    },
+    {
+     "start": 97.98,
+     "end": 98.58,
+     "n": 1
+    },
+    {
+     "start": 98.58,
+     "end": 99.32,
+     "n": 1
+    },
+    {
+     "start": 99.32,
+     "end": 99.58,
+     "n": 1
+    },
+    {
+     "start": 99.58,
+     "end": 99.98,
+     "n": 1
+    },
+    {
+     "start": 99.98,
+     "end": 100.54,
+     "n": 1
+    },
+    {
+     "start": 100.54,
+     "end": 100.96,
+     "n": 1
+    },
+    {
+     "start": 100.96,
+     "end": 101.52,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
