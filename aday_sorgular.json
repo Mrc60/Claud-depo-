@@ -1,54 +1,69 @@
 {
- "bolum": "075_saygi",
+ "bolum": "075_saygi_2",
  "min_w": 600,
  "sorgular": [],
  "incele": [
-  "File:Place de Taxim et Monument de la République, Istanbul.jpg",
-  "File:Samsun Halkevi.jpg",
-  "File:Grand National Assembly of Turkey (1928).jpg",
-  "File:Monument of the Republic, Taksim Istanbul - November 10, 2024.jpg",
-  "File:Eski Muğla evleri.jpg",
-  "File:10 Kasım Atatürk'ü anma günü ve Atatürk Haftası-2012.3.JPG",
-  "File:Atatürk'ün cenazesinde ağlayan insanlar.jpg",
-  "File:Ataturk-1938-funeral-public.jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 700 crop).jpg"
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 302 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 305 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 308 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 311 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 314 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 425 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 461 crop).jpg",
+  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 465 crop).jpg",
+  "File:SIK 01-004164.tif",
+  "File:Com L02-0122-0005-0008.tif",
+  "File:Mersin Halkevi.jpg",
+  "File:Mersin Halkevi building..jpg"
  ],
  "indir": [
   {
-   "file": "File:Place de Taxim et Monument de la République, Istanbul.jpg",
-   "ad": "075_taksim_tramvay.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 302 crop).jpg",
+   "ad": "075_album_302.jpg"
   },
   {
-   "file": "File:Samsun Halkevi.jpg",
-   "ad": "075_samsun_halkevi.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 305 crop).jpg",
+   "ad": "075_album_305.jpg"
   },
   {
-   "file": "File:Grand National Assembly of Turkey (1928).jpg",
-   "ad": "075_tbmm_1928.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 308 crop).jpg",
+   "ad": "075_album_308.jpg"
   },
   {
-   "file": "File:Monument of the Republic, Taksim Istanbul - November 10, 2024.jpg",
-   "ad": "075_taksim_2024.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 311 crop).jpg",
+   "ad": "075_album_311.jpg"
   },
   {
-   "file": "File:Eski Muğla evleri.jpg",
-   "ad": "075_mugla_evler.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 314 crop).jpg",
+   "ad": "075_album_314.jpg"
   },
   {
-   "file": "File:10 Kasım Atatürk'ü anma günü ve Atatürk Haftası-2012.3.JPG",
-   "ad": "075_anitkabir_2012.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 425 crop).jpg",
+   "ad": "075_album_425.jpg"
   },
   {
-   "file": "File:Atatürk'ün cenazesinde ağlayan insanlar.jpg",
-   "ad": "075_cenaze_halk.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 461 crop).jpg",
+   "ad": "075_album_461.jpg"
   },
   {
-   "file": "File:Ataturk-1938-funeral-public.jpg",
-   "ad": "075_cenaze_halk2.jpg"
+   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 465 crop).jpg",
+   "ad": "075_album_465.jpg"
   },
   {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 700 crop).jpg",
-   "ad": "075_cenaze_kortej.jpg"
+   "file": "File:SIK 01-004164.tif",
+   "ad": "075_sik_004164.jpg"
+  },
+  {
+   "file": "File:Com L02-0122-0005-0008.tif",
+   "ad": "075_com_l02.jpg"
+  },
+  {
+   "file": "File:Mersin Halkevi.jpg",
+   "ad": "075_mersin_halkevi.jpg"
+  },
+  {
+   "file": "File:Mersin Halkevi building..jpg",
+   "ad": "075_mersin_halkevi2.jpg"
   }
  ]
 }
