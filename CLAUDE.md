@@ -10,7 +10,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - Instagram: @siradandegill
   - Facebook
 - Repo: github.com/Mrc60/Claud-depo-
-- Günde 2 video: 12:00 ve 16:00, tüm platformlarda (TEK1 kararı, 04.11.2026; 1 haftalık deneme, 11.11'de istatistik dalıyla karşılaştır). Eski düzen: sabah ~07:00 ve akşam 18:00. Veri: 18-21 arası TikTok/IG'de en zayıf, 12-17 arası en iyi.
+- Günde 2 video: 11:00 ve 16:00, tüm platformlarda (TEK1 kararı, 05.11.2026; 04.11'deki 12:00/16:00 kararının yerine. Sebep: FB panosu 15:00-19:00 aralığını öneriyor, 12:00 Düğün ortalamanın altında kaldı. 11.11'de istatistik dalıyla karşılaştır: 4-5 Kasım 12:00, 5 Kasım sonrası 11:00). Eski düzen: sabah ~07:00 ve akşam 18:00. Veri: 18-21 arası TikTok/IG'de en zayıf, 12-17 arası en iyi.
 - İletişim Türkçe, kısa ve sade. Emin değilsen "emin değilim" de, hatanı kendin söyle.
 
 ## 2. GENEL ÇALIŞMA KURALLARI
@@ -104,13 +104,15 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - Kaynağı blog veya forum olan Commons dosyalarını kullanma.
 - Kapak: Kapağı TEK1 ChatGPT'de kendisi yapar. Sen sadece 2–3 arka plan fotoğrafı ve başlık fikri verirsin. Eski kapak tarzı istenir, yıpranma efekti hafif olsun.
 - KAPAK TALİMATI (TEK1 kararı, 04.11.2026, kesin): Her kapakta 2-3 arka plan görseli + başlık önerisi + ChatGPT talimatı ver. Talimatta: yazılar KALIN; başlık kapağın ORTASINDA (dikey ortada; üstte olursa bazı platformlarda kesik çıkıyor, üst ve alt %20'ye yazı koyma); dikkat çeken ama videoya ve fotoğrafa uyumlu renk (siyah-beyaz fotoğrafa altın sarısı/kehribar + beyaz, videodaki vurgu rengiyle aynı); fotoğrafı değiştirme/yeniden çizme, siyah-beyaz kalsın, hafif eski kâğıt dokusu; yazıyı kapatan koyu kutu yok, ince kontur/gölge olabilir.
+- KAPAK RENGİ (05.11.2026, hata dersi): Kapak yazı renklerini her videoda konuya ve fotoğrafa göre ayrı seç; hep beyaz + altın yazma. Arka arkaya iki kapakta aynı renk çifti olmasın. Talimatta rengin adını ve kod değerini (#RRGGBB) yaz, neden seçtiğini bir cümleyle söyle (ör. kaymak: krem + bordo, alfabe: taş grisi + gök mavisi).
 
 ## 7. YÜKLEME SETİ
 - Video yapılıp TEK1 onayladıktan sonra tüm seti tek seferde ver. Her alan ayrı kopyalanabilir blokta olsun.
   - YouTube: başlık, açıklama, etiketler, sabit yorum, diğer alanlar (kategori Eğitim, dil Türkçe, çocuklara yönelik değil)
   - TikTok: açıklama, sabit yorum
-  - Instagram: açıklama, sabit yorum
+  - Instagram: açıklama (5 etiket), sabit yorum
   - Facebook: metin, sabit yorum
+  - X: açıklama (X_ACIKLAMA)
 - Her platformun açıklamasında kendi kaynak listesi olsun. "Kaynaklar YouTube'da" yazma.
 - FB/IG AÇIKLAMA BAYT SINIRI (30.10.2026, doğrulandı): Facebook "10-400 karakter" uyarısında karakteri değil UTF-8 BAYTI sayıyor (Türkçe harf 2, emoji 4 bayt). Açıklama en fazla 370 BAYT olsun, her seferinde python ile `len(t.encode())` ölç. 📚 emojisi ve · işareti kullanma. (Banker 410 bayt 8/9 → 356 bayt 9/9; Altı Sıfır ve Ege aynı.) Uyarı erişimi öldürmüyor ama 9/9 hedef.
 - EMOJİ YOK (TEK1 kararı, 31.10.2026): Sabit yorum HARİÇ hiçbir alanda emoji yok: başlık, açıklama, etiket; YouTube, TikTok, Instagram, Facebook hepsi. Sabit yorumda emoji serbest (ör. Banker IG sabit yorumu 👇 ile bitiyordu). Facebook ve TikTok açıklamasında emoji sorun çıkarıyor.
@@ -119,8 +121,9 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - KONTROL.PY (TEK1 kararı, 02.11.2026): Teslimden önce MUTLAKA çalıştır: `python3 kontrol.py metin senaryo.txt` (ses metni), `python3 kontrol.py bolum episodes/NNN_x.json` (görsel tekrarı, tam ekran, süre, sahne ≥6 sn), `python3 kontrol.py set set.txt` (yükleme seti; alanlar "=== YT_BASLIK ===" gibi başlıklarla). HATA varsa teslim etme. Süre 75 üstü sadece UYARI, TEK1e bir cümleyle söyle. md5 farklı kırpımla indirilen aynı fotoğrafı yakalamaz, panoda göz kontrolü yine şart. Sonuç satırını teslimde yaz.
 - TESLİMDEN ÖNCE ZORUNLU KONTROL: Seti göndermeden önce tüm blokları python ile tara: emoji var mı, · var mı, FB/IG açıklaması ≤370 bayt mı, açıklamada link/"beğen"/"paylaş" var mı. Sonucu teslimde tek satırla yaz. Seti TEK SEFERDE, tüm alanlar eksiksiz ver; parça parça düzeltme gönderme.
 - Açıklamalarda (özellikle FB) link, "beğen", "paylaş", "etiketle" gibi çağrı olmasın (FB "engagement bait" sayıp erişimi düşürür). Videodaki sesli kapanış cümlesi buna dahil değil.
-- ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
-- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama ikisinde aynı, tek ortak metin ver: açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
+- ETİKET SAYISI (05.11.2026, test edildi): Facebook açıklamasında 4 etiket. 04.11de 6ya çıkıldı, Alfabe FB kalite listesinde 'yüksek kaliteli açıklama' maddesi 8/9 kaldı (279 bayt, uzunluk sorun değildi); son 2 etiket silinince 9/9 oldu. Instagram açıklaması aynı metin + 5 etiket (IG sınırı 5). Yükleme setinde FBIG_ACIKLAMA (Facebook, 4 etiket) ve IG_ACIKLAMA (Instagram, 5 etiket) ayrı bloklar; kontrol.py ikisini de denetler.
+- X (TEK1 kararı, 04.11.2026): X hesabı açıldı. Her gün günün en iyi 1 videosu X'e de atılır. Yükleme setine X_ACIKLAMA bloğu eklenir: en fazla 250 karakter (ücretsiz X sınırı 280), merak uyandıran ilk cümle, kısa kaynak adları, TAM 2 etiket (#SıradanDeğil + konuya özel), emoji/link/çağrı yok, sabit yorum yok. Siyasi tartışma konusu atılmaz. Premium alınmaz; para kazanma şartları (Premium, 2.000 doğrulanmış takipçi, 3 ayda 5 milyon gösterim) uzak. 1 ay sonra (04.12.2026) gösterime bakıp devam/bırak kararı.
+- Facebook + Instagram (30.10.2026'dan itibaren): TEK1 ikisini AYRI ayrı paylaşır (Meta Business Suite'te IG kapağı konamıyor; IG uygulamadan atılır). Açıklama metni ikisinde aynı, sadece etiket sayısı farklı (FB 4, IG 5; iki ayrı blok ver): açıklama en fazla 350 karakter (kısa kaynak adları dahil), sonra etiketler; toplam 400 karakterin altında. Kaynaklar açıklamada (kısa adlarla); sabit yoruma kaynak konmaz.
 
 ## 8. YORUM CEVAPLARI
 - Listenin başına platform, video ve hesap yaz: "Instagram · Gelin videosu · @siradandegill".
@@ -236,10 +239,12 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Videodan önce süreyi hesapla: ~1,7 kelime/sn (ElevenLabs gerçek hızı, duraklamalar dahil; 061: 174 kelime = 101,7 sn). Eski 2,3 değeri yanlıştı, süreyi az gösteriyordu.
 - SENARYO DİLİ (TEK1 iki kez GPT'ye düzeltti): Rapor gibi resmî yazma. Önce bilgileri doğrula, sonra metni "bir arkadaşa anlatır gibi" yeniden yaz: kısa cümle, günlük dil, bugünden başlayan açılış ("Bugün markette…"). Zorlama soru sorma ("büyükleriniz tuzu nereden alırdı" gibi); kapanış sorusu videonun en şaşırtıcı bilgisine bağlansın. Zor birimi benzetmeyle aç (okka → "bir kilo tuz için beş on kilo buğday").
 - GÖRSEL TEKRARI: Görsel seçmeden önce `grep` ile episodes/ içinde daha önce kullanılmış mı kontrol et (Tuz'da Lakaplar videosunun köylü fotoğrafı tekrar kullanıldı).
+- GÖRSEL TEKRARI GÖZLE (05.11.2026, #68 hatası, TEK1 kızdı): Ad/başlık/hash kontrolü YETMEZ; Türkçe başlık ve farklı kırpım tekrarı gizler (#68'de #56 Underwood gelin ve #61 Abdullah Frères ferace tekrar kullanıldı). Görsel önermeden önce: tüm dalların (main + ccr-*) assets/belgeler görsellerini ve eski bölümlerin Commons dosya adlarını topla, küçük resim panosu yap, yeni görselleri bu panoyla GÖZLE karşılaştır. Aynı fotoğrafçı/kaynak (Abdullah Frères, Sébah, Underwood, LOC) ise ayrıca yan yana koy.
 - KARARTMA YOK: Küçük/düşük çözünürlüklü görsellerde arka planı KOYULAŞTIRMA (brightness düşürme yok); sadece hafif bulanık bırak, görseli tam genişliğe büyüt. Açılış karesi asla koyu görünmesin.
 - GÖNDERİM: `git push HEAD:main` bekleyen TÜM kayıtları gönderir. Push'tan önce `git log origin/main..HEAD` ile bak; onaylanmamış kayıt varsa önce onay al.
 - Kareleri kontrol ederken sadece "küçük pencere" değil, parlaklık/karartma da raporla.
 - KAMERA HIZI (03.11.2026, #62 hatası): Dikey 9:16 kırpılmış fotoğrafta yana kayma payı yok, kamera sadece yakınlaşır. image.hiz 0.12–0.2 verince hareket görünmedi (video sabit kaldı). Dikey kırpımlı görsellerde hiz 1.0 kullan; teslimden önce sahne başı/sonu karesini karşılaştır, aynıysa kamera duruyor demektir.
+- SÜRE (05.11.2026, #63/#65 hatası): Düğün 130 sn, Alfabe 93 sn teslim edildi; TikTokta son videolar 400-3.000 izlendi. Metni ses alınmadan önce 60-65 sn olacak şekilde yaz; TEK1in okuması tahminin ~1,25 katı (kontrol.py tahmini x1,25). Tahmini süre 75 sn üstündeyse metni TEK1e göndermeden kısalt.
 - FB SİYASİ DAĞITIM (04.11.2026, #62 hatası): Facebook #62'yi (Müslüman ülkelerde savaş) siyasi/sosyal mesele sayıp keşfete koymadı (373 görüntüleme, 19 videonun en düşüğü; Meta asistanına göre dağıtım skoru -13, diğerleri -1/-3). Tarih anlatısı (Lozan 250 bin, Musul 85 bin) kısılmıyor; bugün süren savaşlar, ülke/lider adları (İran, Suudi, Esad, Rusya, ABD işgali) ve din-siyaset çerçevesi ('Müslüman ülkeler') kısılıyor. Bu tür konuyu önerme; önerirsen dağıtım riskini baştan söyle. Kısılan videoyu silip tekrar atma. Meta asistanının 'Wikipedia kaynak ekranı eğitici etiket getirir' önerisi kanıtsız, uygulama. En iyi FB sonucu gündelik hayat konuları (kibrit 385 bin, bisiklet 198 bin).
 - İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
 - ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.

@@ -105,3 +105,4 @@
 
 ## #64 TELEFON (04.11.2026 gece, Hesap 2)
 - Senaryo, 12 görsel, bölüm JSON (episodes/064_telefon.json), yükleme seti taslağı hazır; dal ccr-hesap2-telefon. TEK1'in ElevenLabs sesi bekleniyor.
+- 4-10 Kasım: 1. video 12:00 (5 Kasımdan itibaren 11:00, TEK1 kararı), 2. video 16:00, tüm platformlar. 11 Kasım'da istatistik dalındaki ozet.md ile eski saatleri (07:00/18:00) karşılaştır.
