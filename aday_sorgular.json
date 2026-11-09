@@ -1,69 +1,24 @@
 {
- "bolum": "075_saygi_2",
- "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 302 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 305 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 308 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 311 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 314 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 425 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 461 crop).jpg",
-  "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 465 crop).jpg",
-  "File:SIK 01-004164.tif",
-  "File:Com L02-0122-0005-0008.tif",
-  "File:Mersin Halkevi.jpg",
-  "File:Mersin Halkevi building..jpg"
+ "bolum": "076_varlik",
+ "min_w": 700,
+ "sorgular": [
+  "Varlık Vergisi",
+  "Aşkale",
+  "Şükrü Saraçoğlu",
+  "İsmet İnönü 1942",
+  "Grand Bazaar Istanbul 1940s",
+  "Kapalıçarşı eski",
+  "Mahmutpaşa Istanbul old",
+  "Galata Istanbul 1940",
+  "Eminönü 1940s",
+  "Erzurum 1940s",
+  "Erzurum winter old photograph",
+  "Sivrihisar",
+  "Grand National Assembly of Turkey 1940s",
+  "Istanbul shop 1930s",
+  "Istanbul Jewish merchants old photograph",
+  "Rum esnaf Istanbul eski"
  ],
- "indir": [
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 302 crop).jpg",
-   "ad": "075_album_302.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 305 crop).jpg",
-   "ad": "075_album_305.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 308 crop).jpg",
-   "ad": "075_album_308.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 311 crop).jpg",
-   "ad": "075_album_311.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 314 crop).jpg",
-   "ad": "075_album_314.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 425 crop).jpg",
-   "ad": "075_album_425.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 461 crop).jpg",
-   "ad": "075_album_461.jpg"
-  },
-  {
-   "file": "File:Ebedi Şefimiz Atatürk ün İstanbul ve Ankaradaki Cenaze Töreni Albümü (page 465 crop).jpg",
-   "ad": "075_album_465.jpg"
-  },
-  {
-   "file": "File:SIK 01-004164.tif",
-   "ad": "075_sik_004164.jpg"
-  },
-  {
-   "file": "File:Com L02-0122-0005-0008.tif",
-   "ad": "075_com_l02.jpg"
-  },
-  {
-   "file": "File:Mersin Halkevi.jpg",
-   "ad": "075_mersin_halkevi.jpg"
-  },
-  {
-   "file": "File:Mersin Halkevi building..jpg",
-   "ad": "075_mersin_halkevi2.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
