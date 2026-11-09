@@ -1,0 +1,838 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 77,
+ "slug": "kuyruk",
+ "title": "1979 Kuyrukları",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Cebinizde para var\nama alacak tüp yok!",
+ "dis_ses": {
+  "file": "assets/ses/077_kuyruk.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     8.92
+    ]
+   ],
+   [
+    [
+     8.92,
+     19.94
+    ]
+   ],
+   [
+    [
+     19.94,
+     28.18
+    ]
+   ],
+   [
+    [
+     28.18,
+     39.98
+    ]
+   ],
+   [
+    [
+     39.98,
+     48.02
+    ]
+   ],
+   [
+    [
+     48.02,
+     64.44
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Cebinizde para var ama alacak tüp yok, yağ yok, şeker yok. Türkiyede 1979 böyle bir yıldı.",
+   "caption": "Cebinizde para var ama alacak tüp yok, yağ yok, şeker yok. Türkiyede 1979 böyle bir yıldı.",
+   "key": [
+    "tüp",
+    "yağ",
+    "şeker"
+   ],
+   "image": {
+    "local": "assets/belgeler/077_istanbul1979.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul, Galata Köprüsü yanında seyyar satıcılar, Eylül 1979 · Oxfordian Kissuth / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "İstanbul, Galata Köprüsü yanında seyyar satıcılar, Eylül 1979 · Oxfordian Kissuth / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.05,
+     0,
+     0.402,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.72,
+     "n": 1
+    },
+    {
+     "start": 0.72,
+     "end": 0.96,
+     "n": 1
+    },
+    {
+     "start": 0.96,
+     "end": 1.38,
+     "n": 1
+    },
+    {
+     "start": 1.38,
+     "end": 1.8,
+     "n": 1
+    },
+    {
+     "start": 1.8,
+     "end": 2.28,
+     "n": 1
+    },
+    {
+     "start": 2.28,
+     "end": 2.52,
+     "n": 1
+    },
+    {
+     "start": 2.52,
+     "end": 2.98,
+     "n": 1
+    },
+    {
+     "start": 3.28,
+     "end": 3.52,
+     "n": 1
+    },
+    {
+     "start": 3.52,
+     "end": 3.92,
+     "n": 1
+    },
+    {
+     "start": 4.18,
+     "end": 4.54,
+     "n": 1
+    },
+    {
+     "start": 4.54,
+     "end": 4.9,
+     "n": 1
+    },
+    {
+     "start": 5.6,
+     "end": 6.18,
+     "n": 1
+    },
+    {
+     "start": 6.18,
+     "end": 7.18,
+     "n": 1
+    },
+    {
+     "start": 7.18,
+     "end": 7.84,
+     "n": 1
+    },
+    {
+     "start": 7.84,
+     "end": 8.14,
+     "n": 1
+    },
+    {
+     "start": 8.14,
+     "end": 8.38,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bir gazete o günlerde şöyle yazdı. Her yerde kuyruk var. Bir kaşık yağ bile muhtaç kaldık. Bulunan mal karaborsada el altından çok pahalıya satılıyordu.",
+   "caption": "Bir gazete o günlerde şöyle yazdı. Her yerde kuyruk var. Bir kaşık yağ bile muhtaç kaldık. Bulunan mal karaborsada el altından çok pahalıya satılıyordu.",
+   "key": [
+    "kuyruk",
+    "muhtaç"
+   ],
+   "image": {
+    "local": "assets/belgeler/077_tutanak.jpg",
+    "fit": "doldur",
+    "baslik": "Tercüman gazetesinin 24 Ocak 1979 haberi, TBMM tutanağında (22 Mart 1988)",
+    "lisans": "",
+    "kaynak": "Tercüman gazetesinin 24 Ocak 1979 haberi, TBMM tutanağında (22 Mart 1988)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.92,
+     "end": 9.14,
+     "n": 1
+    },
+    {
+     "start": 9.14,
+     "end": 9.66,
+     "n": 1
+    },
+    {
+     "start": 9.66,
+     "end": 9.9,
+     "n": 1
+    },
+    {
+     "start": 9.9,
+     "end": 10.4,
+     "n": 1
+    },
+    {
+     "start": 10.4,
+     "end": 10.72,
+     "n": 1
+    },
+    {
+     "start": 10.72,
+     "end": 11.24,
+     "n": 1
+    },
+    {
+     "start": 11.86,
+     "end": 11.86,
+     "n": 1
+    },
+    {
+     "start": 11.86,
+     "end": 12.2,
+     "n": 1
+    },
+    {
+     "start": 12.2,
+     "end": 12.6,
+     "n": 1
+    },
+    {
+     "start": 12.6,
+     "end": 12.92,
+     "n": 1
+    },
+    {
+     "start": 13.22,
+     "end": 13.46,
+     "n": 1
+    },
+    {
+     "start": 13.46,
+     "end": 13.86,
+     "n": 1
+    },
+    {
+     "start": 13.86,
+     "end": 14.02,
+     "n": 1
+    },
+    {
+     "start": 14.02,
+     "end": 14.3,
+     "n": 1
+    },
+    {
+     "start": 14.3,
+     "end": 14.8,
+     "n": 1
+    },
+    {
+     "start": 14.8,
+     "end": 15.38,
+     "n": 1
+    },
+    {
+     "start": 15.64,
+     "end": 16.04,
+     "n": 1
+    },
+    {
+     "start": 16.04,
+     "end": 16.22,
+     "n": 1
+    },
+    {
+     "start": 16.22,
+     "end": 17.16,
+     "n": 1
+    },
+    {
+     "start": 17.16,
+     "end": 17.56,
+     "n": 1
+    },
+    {
+     "start": 17.56,
+     "end": 18.06,
+     "n": 1
+    },
+    {
+     "start": 18.06,
+     "end": 18.42,
+     "n": 1
+    },
+    {
+     "start": 18.42,
+     "end": 18.86,
+     "n": 1
+    },
+    {
+     "start": 18.86,
+     "end": 19.5,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki raflar neden boştu? Dünyada petrol fiyatları patlamıştı. Türkiyenin dışarıdan mal alacak dövizi tükenmişti.",
+   "caption": "Peki raflar neden boştu? Dünyada petrol fiyatları patlamıştı. Türkiyenin dışarıdan mal alacak dövizi tükenmişti.",
+   "key": [
+    "petrol"
+   ],
+   "image": {
+    "local": "assets/belgeler/077_benzin_kuyrugu.jpg",
+    "fit": "doldur",
+    "baslik": "Dünyada petrol krizi: ABDde benzin kuyruğu, Haziran 1979 · Warren K. Leffler / Kongre Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Dünyada petrol krizi: ABDde benzin kuyruğu, Haziran 1979 · Warren K. Leffler / Kongre Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.31,
+     0,
+     0.688,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 19.94,
+     "end": 20.54,
+     "n": 1
+    },
+    {
+     "start": 20.54,
+     "end": 21.16,
+     "n": 1
+    },
+    {
+     "start": 21.16,
+     "end": 21.52,
+     "n": 1
+    },
+    {
+     "start": 21.52,
+     "end": 22.0,
+     "n": 1
+    },
+    {
+     "start": 22.5,
+     "end": 23.06,
+     "n": 1
+    },
+    {
+     "start": 23.06,
+     "end": 23.46,
+     "n": 1
+    },
+    {
+     "start": 23.46,
+     "end": 23.96,
+     "n": 1
+    },
+    {
+     "start": 23.96,
+     "end": 24.94,
+     "n": 1
+    },
+    {
+     "start": 25.16,
+     "end": 25.6,
+     "n": 1
+    },
+    {
+     "start": 25.6,
+     "end": 26.2,
+     "n": 1
+    },
+    {
+     "start": 26.2,
+     "end": 26.4,
+     "n": 1
+    },
+    {
+     "start": 26.4,
+     "end": 26.78,
+     "n": 1
+    },
+    {
+     "start": 26.78,
+     "end": 27.18,
+     "n": 1
+    },
+    {
+     "start": 27.18,
+     "end": 28.18,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ocak 1980de yeni ekonomi kararları geldi. Doların fiyatı bir günde 47 liradan 70 liraya çıktı. Saklanan mallar raflara döndü, kuyruklar eridi.",
+   "caption": "Ocak 1980de yeni ekonomi kararları geldi. Doların fiyatı bir günde 47 liradan 70 liraya çıktı. Saklanan mallar raflara döndü, kuyruklar eridi.",
+   "key": [
+    "47",
+    "70"
+   ],
+   "image": {
+    "local": "assets/belgeler/077_dolar.jpg",
+    "fit": "doldur",
+    "baslik": "1 ABD doları, 1977 serisi · Columbus Metropolitan Library / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "1 ABD doları, 1977 serisi · Columbus Metropolitan Library / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0,
+     0.622,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 28.18,
+     "end": 28.66,
+     "n": 1
+    },
+    {
+     "start": 28.66,
+     "end": 29.98,
+     "n": 1
+    },
+    {
+     "start": 29.98,
+     "end": 30.28,
+     "n": 1
+    },
+    {
+     "start": 30.28,
+     "end": 30.74,
+     "n": 1
+    },
+    {
+     "start": 30.74,
+     "end": 31.24,
+     "n": 1
+    },
+    {
+     "start": 31.24,
+     "end": 31.9,
+     "n": 1
+    },
+    {
+     "start": 32.14,
+     "end": 32.48,
+     "n": 1
+    },
+    {
+     "start": 32.48,
+     "end": 32.96,
+     "n": 1
+    },
+    {
+     "start": 32.96,
+     "end": 33.26,
+     "n": 1
+    },
+    {
+     "start": 33.26,
+     "end": 33.64,
+     "n": 1
+    },
+    {
+     "start": 33.64,
+     "end": 34.12,
+     "n": 1
+    },
+    {
+     "start": 34.12,
+     "end": 34.68,
+     "n": 1
+    },
+    {
+     "start": 34.68,
+     "end": 35.18,
+     "n": 1
+    },
+    {
+     "start": 35.18,
+     "end": 35.52,
+     "n": 1
+    },
+    {
+     "start": 35.52,
+     "end": 35.88,
+     "n": 1
+    },
+    {
+     "start": 36.34,
+     "end": 36.92,
+     "n": 1
+    },
+    {
+     "start": 36.92,
+     "end": 37.32,
+     "n": 1
+    },
+    {
+     "start": 37.32,
+     "end": 37.74,
+     "n": 1
+    },
+    {
+     "start": 37.74,
+     "end": 38.36,
+     "n": 1
+    },
+    {
+     "start": 38.56,
+     "end": 39.18,
+     "n": 1
+    },
+    {
+     "start": 39.18,
+     "end": 39.6,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama bu kez başka bir dert başladı. Mal vardı, para yetmiyordu. O yıl fiyatlar iki katından fazla arttı.",
+   "caption": "Ama bu kez başka bir dert başladı. Mal vardı, para yetmiyordu. O yıl fiyatlar iki katından fazla arttı.",
+   "key": [
+    "Mal",
+    "vardı,"
+   ],
+   "image": {
+    "local": "assets/belgeler/077_carsi_sokak.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda bir çarşı sokağı, 1976 · Marek Gawęcki / Adam Mickiewicz Üniversitesi Dijital Arşivi, CC BY-SA 3.0 pl",
+    "lisans": "",
+    "kaynak": "İstanbulda bir çarşı sokağı, 1976 · Marek Gawęcki / Adam Mickiewicz Üniversitesi Dijital Arşivi, CC BY-SA 3.0 pl",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.05,
+     0,
+     0.6125,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 39.98,
+     "end": 40.16,
+     "n": 1
+    },
+    {
+     "start": 40.16,
+     "end": 40.42,
+     "n": 1
+    },
+    {
+     "start": 40.42,
+     "end": 40.68,
+     "n": 1
+    },
+    {
+     "start": 40.68,
+     "end": 41.02,
+     "n": 1
+    },
+    {
+     "start": 41.02,
+     "end": 41.28,
+     "n": 1
+    },
+    {
+     "start": 41.28,
+     "end": 41.44,
+     "n": 1
+    },
+    {
+     "start": 41.44,
+     "end": 41.98,
+     "n": 1
+    },
+    {
+     "start": 42.48,
+     "end": 42.68,
+     "n": 1
+    },
+    {
+     "start": 42.68,
+     "end": 43.2,
+     "n": 1
+    },
+    {
+     "start": 43.64,
+     "end": 43.72,
+     "n": 1
+    },
+    {
+     "start": 43.72,
+     "end": 44.46,
+     "n": 1
+    },
+    {
+     "start": 44.82,
+     "end": 45.0,
+     "n": 1
+    },
+    {
+     "start": 45.0,
+     "end": 45.18,
+     "n": 1
+    },
+    {
+     "start": 45.18,
+     "end": 45.9,
+     "n": 1
+    },
+    {
+     "start": 45.9,
+     "end": 46.18,
+     "n": 1
+    },
+    {
+     "start": 46.18,
+     "end": 46.66,
+     "n": 1
+    },
+    {
+     "start": 46.66,
+     "end": 47.06,
+     "n": 1
+    },
+    {
+     "start": 47.06,
+     "end": 47.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Siz ya da aileniz o kuyruklarda en çok ne için beklediniz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Siz ya da aileniz o kuyruklarda en çok ne için beklediniz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/077_istanbul_kiyi1979.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul, Galata kıyısı, Eylül 1979 · Smiley.toerist / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "İstanbul, Galata kıyısı, Eylül 1979 · Smiley.toerist / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.38,
+     0,
+     0.759,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.02,
+     "end": 48.22,
+     "n": 1
+    },
+    {
+     "start": 48.22,
+     "end": 48.46,
+     "n": 1
+    },
+    {
+     "start": 48.46,
+     "end": 48.7,
+     "n": 1
+    },
+    {
+     "start": 48.7,
+     "end": 49.3,
+     "n": 1
+    },
+    {
+     "start": 49.3,
+     "end": 49.5,
+     "n": 1
+    },
+    {
+     "start": 49.5,
+     "end": 50.22,
+     "n": 1
+    },
+    {
+     "start": 50.22,
+     "end": 50.58,
+     "n": 1
+    },
+    {
+     "start": 50.58,
+     "end": 50.76,
+     "n": 1
+    },
+    {
+     "start": 50.76,
+     "end": 51.02,
+     "n": 1
+    },
+    {
+     "start": 51.02,
+     "end": 51.16,
+     "n": 1
+    },
+    {
+     "start": 51.16,
+     "end": 51.86,
+     "n": 1
+    },
+    {
+     "start": 52.36,
+     "end": 53.16,
+     "n": 1
+    },
+    {
+     "start": 53.16,
+     "end": 53.76,
+     "n": 1
+    },
+    {
+     "start": 53.76,
+     "end": 54.5,
+     "n": 1
+    },
+    {
+     "start": 54.68,
+     "end": 55.28,
+     "n": 1
+    },
+    {
+     "start": 55.28,
+     "end": 55.62,
+     "n": 1
+    },
+    {
+     "start": 55.62,
+     "end": 56.32,
+     "n": 1
+    },
+    {
+     "start": 56.32,
+     "end": 57.18,
+     "n": 1
+    },
+    {
+     "start": 57.18,
+     "end": 57.86,
+     "n": 1
+    },
+    {
+     "start": 57.86,
+     "end": 58.24,
+     "n": 1
+    },
+    {
+     "start": 58.24,
+     "end": 58.62,
+     "n": 1
+    },
+    {
+     "start": 58.62,
+     "end": 59.14,
+     "n": 1
+    },
+    {
+     "start": 59.14,
+     "end": 59.3,
+     "n": 1
+    },
+    {
+     "start": 59.3,
+     "end": 59.72,
+     "n": 1
+    },
+    {
+     "start": 59.72,
+     "end": 60.3,
+     "n": 1
+    },
+    {
+     "start": 60.3,
+     "end": 60.78,
+     "n": 1
+    },
+    {
+     "start": 60.78,
+     "end": 61.38,
+     "n": 1
+    },
+    {
+     "start": 61.38,
+     "end": 62.1,
+     "n": 1
+    },
+    {
+     "start": 62.1,
+     "end": 62.3,
+     "n": 1
+    },
+    {
+     "start": 62.3,
+     "end": 62.7,
+     "n": 1
+    },
+    {
+     "start": 62.7,
+     "end": 63.22,
+     "n": 1
+    },
+    {
+     "start": 63.22,
+     "end": 63.66,
+     "n": 1
+    },
+    {
+     "start": 63.66,
+     "end": 64.26,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
