@@ -1,15 +1,24 @@
 {
- "bolum": "076_varlik",
- "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:1942 05 26 Yeni Asir.jpg"
+ "bolum": "077_kuyruk",
+ "min_w": 800,
+ "sorgular": [
+  "incategory:Istanbul_in_the_1970s",
+  "incategory:Ankara_in_the_1970s",
+  "incategory:1979_in_Turkey",
+  "incategory:1970s_in_Turkey",
+  "Fortepan Törökország 1970",
+  "Fortepan Isztambul 1970",
+  "Bundesarchiv Türkei 1970",
+  "1979 gas line Leffler",
+  "gas station queue 1979",
+  "oil crisis 1973 gasoline line",
+  "incategory:Cumhuriyet_1979",
+  "Turkish lira banknote 1970",
+  "incategory:Banknotes_of_Turkey",
+  "Istanbul market 1970s",
+  "Turkey grocery 1970s",
+  "incategory:Queues"
  ],
- "indir": [
-  {
-   "file": "File:1942 05 26 Yeni Asir.jpg",
-   "ad": "076_yeniasir_1942.jpg"
-  }
- ],
- "not": "yeniden"
+ "incele": [],
+ "indir": []
 }
