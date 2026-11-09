@@ -61,6 +61,17 @@ Ton:
 - "Yok", "Yok yok" gibi tek kelime: çok kısa sıcak cevap ("Bunu duymak sevindirici.").
 - Kullanıcı adı "(null)" görünüyorsa Instagram cevabın başına "@(null)" koyar; sorun değil.
 
+- Yer tahmini yazan (fotoğraf paylaşımı, "Ulus, statyum", "İstasyon caddesi"): sadece sade teşekkür ("Paylaşımınız için teşekkür ederiz." / "Yorumunuz için teşekkür ederiz."). Açıklama ekleme ("Elimizdeki bilgi sınırlı" gibi) ve savunma yapma. (TEK1 düzeltti, 02.11.2026)
+- Kısa nostaljik yorum ("İyi,güzel günler" = "iyi ve güzel günlerdi"): selam sanma, yorumu kendi hâline göre yorumlama ("O günleri hatırladığınız için…" gibi şey ekleme, alakasız kaldı). Cevap sade: "Yorumunuz için teşekkür ederiz 🙏". (TEK1 düzeltti, 02.11.2026)
+- Teşekkür cümlelerine yorumun sıcaklığına göre 🙏 koyabilirsin: sıcak/duygusal/nazik yorumda 🙏, nötr yer tahmini ya da kısa bilgi yorumunda emojisiz. Kalp yine sadece yorumcu kullandıysa. (TEK1 kararı, 02.11.2026)
+- Yorumun anlamı belirsizse cevap yazmadan önce yorumu iki türlü oku; emin değilsen atla ya da sade teşekkür et.
+- GİZLİ CEVAPLAR (TEK1, 02.11.2026): TEK1 bazı yorumlara kendisi cevap verdi; Facebook'ta bu cevaplar alt sekmede (yanıtlar) gizli kalabilir. Cevaplamadan önce her yorumun replies listesine ve defter.json'a bak; TEK1'in ya da kanalın cevapladığına ikinci kez cevap verme. Emin değilsen atla ve listede "cevaplanmış olabilir" diye işaretle.
+- ANLAYARAK CEVAP (TEK1, 02.11.2026): Dümdüz "teşekkür ederiz" yazma. Önce yorumu oku, ne anlattığını anla; cevapta yorumcunun anlattığı somut ayrıntıya (ör. "sarı öküzün kulağından tutması", "naylon ayakkabıyla dil açması") değin. Yeni bilgi ekleme, yer/iddia onaylama; sadece sade teşekkür tek başına yetmez. Yorumda anlatacak içerik yoksa (tek emoji, "aynen") atla ya da çok kısa tut.
+- EMOJİ KULLAN (TEK1, 02.11.2026): Yorum cevaplarında emoji hiç kullanmamak da hata. Duruma göre ekle, her cevaba değil: sıcak/hatıra/acı yorumda 🙏, esprili yorumda 😄 gibi uyumlu bir emoji; resmî, eleştirel, nötr yorumda emojisiz. Kalp sadece yorumcu kullandıysa. Her cevapta aynı emoji tekrarlanmasın.
+- KANALI HATALI GÖSTERME (TEK1, 02.11.2026): Yorum cevabı kanalın hata yaptığını ima etmesin ("eksik kalmış", "hatırlattığınız için", "kısa aktarmışız" yok). Eleştiriye doğru bilgiyi tam ve yorumsuz ver, "videoda bu ayetleri ele aldık" gibi nötr bağla. Gerçek bir eksik varsa TEK1'e söyle, yorumda kabul etme.
+- ANLAYIŞLI VE İNSAN GİBİ (TEK1, 02.11.2026): Acı ama espriyle anlatılan (trajikomik) yorumda önce duyguyu anla ("Gülmekle yanmak arasında kalmışsınız, anlıyoruz"), sonra yorumcunun asıl derdine değin. Yardımcı olabiliyorsan kısa, genel bir fikir ver (ör. "o kâğıtta ne imzalandığına ve tapunun hangi işlemle devredildiğine bakmak işe yarayabilir, gerekirse bir hukukçuya da danışabilirsiniz 🙏"); yasa maddesi ya da kesin hukuki iddia verme. Robot gibi kalıp cevap yok. Onaylanan örnek: havvatks.38, Miras videosu, IG.
+- ALINTI TAM OLSUN (TEK1 gözlemi, 02.11.2026): Ayet/kanun kartında metni kısaltıp "payı vardır" demek yorumda "atlayarak anlattınız" eleştirisi getirdi. Alıntı kartı tam metin olsun ya da kısaltma "..." ile belli olsun; kart içeriği sesle birebir eşleşsin (Miras 3. sahne kartı sesle uyuşmuyordu).
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.

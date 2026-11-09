@@ -239,3 +239,18 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - FB SİYASİ DAĞITIM (04.11.2026, #62 hatası): Facebook #62'yi (Müslüman ülkelerde savaş) siyasi/sosyal mesele sayıp keşfete koymadı (373 görüntüleme, 19 videonun en düşüğü; Meta asistanına göre dağıtım skoru -13, diğerleri -1/-3). Tarih anlatısı (Lozan 250 bin, Musul 85 bin) kısılmıyor; bugün süren savaşlar, ülke/lider adları (İran, Suudi, Esad, Rusya, ABD işgali) ve din-siyaset çerçevesi ('Müslüman ülkeler') kısılıyor. Bu tür konuyu önerme; önerirsen dağıtım riskini baştan söyle. Kısılan videoyu silip tekrar atma. Meta asistanının 'Wikipedia kaynak ekranı eğitici etiket getirir' önerisi kanıtsız, uygulama. En iyi FB sonucu gündelik hayat konuları (kibrit 385 bin, bisiklet 198 bin).
 - İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
 - ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.
+
+### Hesap 2 dersleri (02.11.2026, #59 ve yorum oturumu; hata, sebep, önlem)
+- KAMERA KESİLMESİ: Sahne ortası karesine bakıp "kesilme yok" dedim; kamera kayarken başta/sonda kart yazıları kesiliyordu. Önlem: HER sahnenin başı (%12), ortası (%50), sonu (%88) karesi tek panoda kontrol edilir. Kart/grafik sahnelerinde `hiz: 0`.
+- ARAÇ YETENEĞİ: "Buffer'dan yorumları alırım" dedim; Buffer araçları sadece sayı veriyor, yorum metni yok. Önlem: bir araçla ne yapılabileceğini söylemeden önce araçla dene.
+- YANLIŞ TARİH: El yazması için 1681 dedim; Commons'ta tarihsiz (18.-19. yy). Önlem: tarihi kaynak sayfasından teyit etmeden söyleme.
+- KURAL OKUMADAN İŞ: Yorum işine SKILL.md ve INCE_AYARLAR E'yi okumadan başladım. Önlem: yorum işinden önce ikisini oku.
+- YER TAHMİNİ / KISA YORUM: "Ulus, statyum" yorumlarına açıklama ekledim, "İyi,güzel günler"i selam sandım. Önlem: yer tahminine sade teşekkür; belirsiz yorumu iki türlü oku.
+- SAVUNMACI CEVAP: Orhan Heybetli'ye "Bu videoda ... odaklandık" yazıp gönderdim. Önlem: önce yorumcunun noktasını kabul et, sonra bilgi ver; gönderilen cevap geri alınamaz, göndermeden kontrol listesi.
+- YANLIŞ ZERNIO HESABI: MCP linki genel; hesabı giriş belirler. Eski hesabı bağlayıp "yeni" dedim. Önlem: bağlandıktan sonra accounts_list ile hesabı doğrula.
+- FB AÇIKLAMASI: Gelin açıklaması 794 bayttı, emoji, •, 3 link vardı; python taramasını yapmamıştım. Önlem: her FB/IG metni için bayt/emoji/link taraması ve sonucu teslimde yaz.
+- YORUM LİSTESİ: Taslak listesinden yorum metinlerini çıkardım. Önlem: her maddede yorumun TAM metni olacak.
+- DÜZ TEŞEKKÜR: Soruya veya hikâyeye "teşekkür ederiz" yazdım; sonra yorumu tekrar eden cümle kurdum; emoji koymadım. Önlem: yorumun anlattığı şeye değin, tekrar etme, sıcak yorumda 🙏 gibi emoji ekle (her cevaba değil). Ayrıntı INCE_AYARLAR E.
+- ÇİFT CEVAP: TEK1'in verdiği cevaplar alt sekmede (replies) gizli kalabilir. Önlem: cevaplamadan önce her yorumun replies listesine ve deftere bak.
+- SAYIM: "11 cevap" dedim, 10'du. Önlem: gönderimden önce listeyi python/elle say, sayıyı tek yerden al.
+- GÖNDERİLDİ SANMA: Push çıktısında sadece "depo taşındı" uyarısını görüp doğrulamadım; hook uyarısı yerel takip kaydı eksik olduğu için çıkıyordu. Önlem: push sonrası `git ls-remote` ile HEAD karşılaştır; takip kaydı için `git fetch origin +refs/heads/DAL:refs/remotes/origin/DAL`.
