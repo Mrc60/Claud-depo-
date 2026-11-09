@@ -1,6 +1,9 @@
 # DURUM — şu anki işler (son güncelleme: 09.11.2026 05:40, Hesap 2 gece kontrolü: yeni HATA yok, HATA 1-7 hâlâ açık; ayrıntı MESAJLAR.md)
 
 
+## SOHBET HESABI (10.11.2026 01:05)
+- #77 1979 Kuyrukları: episodes/077_kuyruk.json main'de, video 077_kuyruk.mp4 (65 sn, 6 sahne, kontrol.py 0 hata). Senaryo arastirma/077_kuyruk_senaryo.txt; ürün adları Tercüman 24.1.1979 (TBMM tutanağı 22.3.1988), Hürriyet Mart 1979 (Yeni Şafak 2001 aktarımı), Cumhuriyet 21.3.1979 ve 10.10.1979 ile doğrulandı. TEK1 video onayı ve yükleme seti BEKLİYOR.
+
 ## SOHBET HESABI (09.11.2026 22:30)
 - #75 Saygı duruşu (10 Kasım): episodes/075_saygi.json main'de, video videolar dalında. TEK1 video onayı ve yükleme seti BEKLİYOR.
 - #76 Varlık Vergisi (11 Kasım yıl dönümü için): episodes/076_varlik.json main'de, video 076_varlik.mp4 (102 sn, 7 sahne, kontrol.py 0 hata 1 uyarı). Yükleme seti ve kapak görselleri verildi (kontrol.py set 0 hata). Öneri: X'e atılmasın (siyasi tartışma riski); FB dağıtım riski TEK1'e söylendi. AI etiketi FB/IG'de açık.

@@ -250,6 +250,9 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
 - ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.
 
+- BELGE GÖRSELİ KENARI (10.11.2026, #77 hatası): render.py doldur modunda 9:16 görseli bile kenardan ~%6 kırpıyor; belge/tutanak kesitine her yandan en az %10 beyaz pay koy ve hiz 0 ver. Teslimden önce belge sahnesinin karesinde ilk/son harflere bak.
+- SADECE GÖRSEL DEĞİŞİRSE (10.11.2026, #77 hatası): video-uret.yml yalnızca episodes/** değişince çalışır. Sadece assets/belgeler değişti ise bölüm JSONuna küçük alan (ör. "surum") ekleyip birlikte gönder.
+
 ### Hesap 2 dersleri (02.11.2026, #59 ve yorum oturumu; hata, sebep, önlem)
 - KAMERA KESİLMESİ: Sahne ortası karesine bakıp "kesilme yok" dedim; kamera kayarken başta/sonda kart yazıları kesiliyordu. Önlem: HER sahnenin başı (%12), ortası (%50), sonu (%88) karesi tek panoda kontrol edilir. Kart/grafik sahnelerinde `hiz: 0`.
 - ARAÇ YETENEĞİ: "Buffer'dan yorumları alırım" dedim; Buffer araçları sadece sayı veriyor, yorum metni yok. Önlem: bir araçla ne yapılabileceğini söylemeden önce araçla dene.
