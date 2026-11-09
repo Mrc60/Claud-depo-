@@ -1,24 +1,22 @@
 {
  "bolum": "076_varlik",
- "min_w": 700,
+ "min_w": 600,
  "sorgular": [
-  "Varlık Vergisi",
-  "Aşkale",
-  "Şükrü Saraçoğlu",
-  "İsmet İnönü 1942",
-  "Grand Bazaar Istanbul 1940s",
-  "Kapalıçarşı eski",
-  "Mahmutpaşa Istanbul old",
-  "Galata Istanbul 1940",
-  "Eminönü 1940s",
-  "Erzurum 1940s",
-  "Erzurum winter old photograph",
-  "Sivrihisar",
-  "Grand National Assembly of Turkey 1940s",
-  "Istanbul shop 1930s",
-  "Istanbul Jewish merchants old photograph",
-  "Rum esnaf Istanbul eski"
- ],
- "incele": [],
- "indir": []
+  "incategory:Istanbul_in_the_1940s",
+  "incategory:Istanbul_in_the_1930s",
+  "incategory:People_of_Turkey_in_1942",
+  "incategory:İsmet_İnönü_in_1942",
+  "incategory:İsmet_İnönü_in_1943",
+  "incategory:Cumhuriyet_1942",
+  "incategory:Akşam_Newspaper_1943",
+  "vergi defteri 1940",
+  "Treppenstraße Istanbul",
+  "Bundesarchiv Istanbul",
+  "incategory:Erzurum_in_the_1940s",
+  "Erzurum old photograph",
+  "Grand Bazaar Istanbul Sebah",
+  "Kapalıçarşı 1930",
+  "incategory:Grand_Bazaar_(Istanbul)_in_the_19th_century",
+  "incategory:Shops_in_Istanbul_in_the_1930s"
+ ]
 }
