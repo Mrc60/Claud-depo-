@@ -1,0 +1,866 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 68,
+ "slug": "duzgun",
+ "title": "Yüzüne Kurşun Sürüyorlardı",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Yüzüne kurşun\nsürüyorlardı!",
+ "dis_ses": {
+  "file": "assets/ses/068_duzgun.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.2
+    ]
+   ],
+   [
+    [
+     8.2,
+     15.56
+    ]
+   ],
+   [
+    [
+     15.56,
+     21.95
+    ]
+   ],
+   [
+    [
+     21.95,
+     29.06
+    ]
+   ],
+   [
+    [
+     29.06,
+     36.98
+    ]
+   ],
+   [
+    [
+     36.98,
+     47.56
+    ]
+   ],
+   [
+    [
+     47.56,
+     56.18
+    ]
+   ],
+   [
+    [
+     56.18,
+     68.2
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Eskiden gelinlerin yüzüne sürülen bembeyaz boyanın içinde zehirli bir maden, kurşun vardı. Peki bu boya neydi?",
+   "caption": "Eskiden gelinlerin yüzüne sürülen bembeyaz boyanın içinde zehirli bir maden, kurşun vardı. Peki bu boya neydi?",
+   "key": [
+    "kurşun"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_tullu.jpg",
+    "fit": "doldur",
+    "baslik": "Tüllü bir Türk kadını, tablo · Théodore Ralli / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Tüllü bir Türk kadını, tablo · Théodore Ralli / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.64,
+     "n": 1
+    },
+    {
+     "start": 0.64,
+     "end": 1.24,
+     "n": 1
+    },
+    {
+     "start": 1.24,
+     "end": 1.66,
+     "n": 1
+    },
+    {
+     "start": 1.66,
+     "end": 2.12,
+     "n": 1
+    },
+    {
+     "start": 2.12,
+     "end": 2.8,
+     "n": 1
+    },
+    {
+     "start": 2.8,
+     "end": 3.12,
+     "n": 1
+    },
+    {
+     "start": 3.12,
+     "end": 3.66,
+     "n": 1
+    },
+    {
+     "start": 3.66,
+     "end": 4.34,
+     "n": 1
+    },
+    {
+     "start": 4.34,
+     "end": 4.56,
+     "n": 1
+    },
+    {
+     "start": 4.56,
+     "end": 5.14,
+     "n": 1
+    },
+    {
+     "start": 5.38,
+     "end": 5.68,
+     "n": 1
+    },
+    {
+     "start": 5.68,
+     "end": 6.08,
+     "n": 1
+    },
+    {
+     "start": 6.62,
+     "end": 6.96,
+     "n": 1
+    },
+    {
+     "start": 7.26,
+     "end": 7.4,
+     "n": 1
+    },
+    {
+     "start": 7.4,
+     "end": 7.66,
+     "n": 1
+    },
+    {
+     "start": 7.66,
+     "end": 8.08,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Adı düzgündü. Eski makyajda kadınların yüzüne sürdüğü beyaz ve kırmızı boyalara düzgün denirdi.",
+   "caption": "Adı düzgündü. Eski makyajda kadınların yüzüne sürdüğü beyaz ve kırmızı boyalara düzgün denirdi.",
+   "key": [
+    "düzgün"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_genckadin.jpg",
+    "fit": "doldur",
+    "baslik": "Genç bir Osmanlı kadını, tablo · Théodore Ralli / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Genç bir Osmanlı kadını, tablo · Théodore Ralli / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.66,
+     "end": 8.96,
+     "n": 1
+    },
+    {
+     "start": 8.96,
+     "end": 9.66,
+     "n": 1
+    },
+    {
+     "start": 10.12,
+     "end": 10.46,
+     "n": 1
+    },
+    {
+     "start": 10.46,
+     "end": 11.1,
+     "n": 1
+    },
+    {
+     "start": 11.1,
+     "end": 11.66,
+     "n": 1
+    },
+    {
+     "start": 11.66,
+     "end": 12.1,
+     "n": 1
+    },
+    {
+     "start": 12.1,
+     "end": 12.72,
+     "n": 1
+    },
+    {
+     "start": 12.72,
+     "end": 13.08,
+     "n": 1
+    },
+    {
+     "start": 13.08,
+     "end": 13.24,
+     "n": 1
+    },
+    {
+     "start": 13.24,
+     "end": 13.74,
+     "n": 1
+    },
+    {
+     "start": 13.74,
+     "end": 14.32,
+     "n": 1
+    },
+    {
+     "start": 14.32,
+     "end": 14.88,
+     "n": 1
+    },
+    {
+     "start": 14.88,
+     "end": 15.44,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Beyazına aklık, kırmızısına allık derlerdi. Beyaz düzgün üstübeçle yapılırdı.",
+   "caption": "Beyazına aklık, kırmızısına allık derlerdi. Beyaz düzgün üstübeçle yapılırdı.",
+   "key": [
+    "aklık,"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_halilpasa.jpg",
+    "fit": "doldur",
+    "baslik": "Pembeli hanım, tablo, 1904 · Halil Paşa / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Pembeli hanım, tablo, 1904 · Halil Paşa / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 15.96,
+     "end": 16.4,
+     "n": 1
+    },
+    {
+     "start": 16.4,
+     "end": 17.06,
+     "n": 1
+    },
+    {
+     "start": 17.2,
+     "end": 17.96,
+     "n": 1
+    },
+    {
+     "start": 17.96,
+     "end": 18.44,
+     "n": 1
+    },
+    {
+     "start": 18.44,
+     "end": 19.1,
+     "n": 1
+    },
+    {
+     "start": 19.6,
+     "end": 19.96,
+     "n": 1
+    },
+    {
+     "start": 19.96,
+     "end": 20.46,
+     "n": 1
+    },
+    {
+     "start": 20.46,
+     "end": 21.12,
+     "n": 1
+    },
+    {
+     "start": 21.12,
+     "end": 21.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Üstübeç, kurşun karbonat denen beyaz bir madendi. Kadınlar bu tozu suyla karıştırıp yüzlerine sürerdi.",
+   "caption": "Üstübeç, kurşun karbonat denen beyaz bir madendi. Kadınlar bu tozu suyla karıştırıp yüzlerine sürerdi.",
+   "key": [
+    "Üstübeç,"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_ustubec.jpg",
+    "fit": "doldur",
+    "baslik": "Üstübeç (kurşun beyazı), müze örneği · Concord / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Üstübeç (kurşun beyazı), müze örneği · Concord / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 22.06,
+     "end": 22.74,
+     "n": 1
+    },
+    {
+     "start": 22.92,
+     "end": 23.28,
+     "n": 1
+    },
+    {
+     "start": 23.28,
+     "end": 23.84,
+     "n": 1
+    },
+    {
+     "start": 23.84,
+     "end": 24.12,
+     "n": 1
+    },
+    {
+     "start": 24.12,
+     "end": 24.6,
+     "n": 1
+    },
+    {
+     "start": 24.6,
+     "end": 24.92,
+     "n": 1
+    },
+    {
+     "start": 24.92,
+     "end": 25.32,
+     "n": 1
+    },
+    {
+     "start": 25.88,
+     "end": 26.34,
+     "n": 1
+    },
+    {
+     "start": 26.34,
+     "end": 26.58,
+     "n": 1
+    },
+    {
+     "start": 26.58,
+     "end": 26.9,
+     "n": 1
+    },
+    {
+     "start": 26.9,
+     "end": 27.34,
+     "n": 1
+    },
+    {
+     "start": 27.34,
+     "end": 27.92,
+     "n": 1
+    },
+    {
+     "start": 27.92,
+     "end": 28.52,
+     "n": 1
+    },
+    {
+     "start": 28.52,
+     "end": 29.06,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Özellikle düğünlerde gelinin yüzü bir düzgüncü eliyle boyanırdı. Düzgüncü, yüz boyamada usta olan kadındı.",
+   "caption": "Özellikle düğünlerde gelinin yüzü bir düzgüncü eliyle boyanırdı. Düzgüncü, yüz boyamada usta olan kadındı.",
+   "key": [
+    "düzgüncü"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_kellogg.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbullu bir Türk kızı, suluboya · Miner K. Kellogg / Smithsonian, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbullu bir Türk kızı, suluboya · Miner K. Kellogg / Smithsonian, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 29.06,
+     "end": 30.06,
+     "n": 1
+    },
+    {
+     "start": 30.06,
+     "end": 30.78,
+     "n": 1
+    },
+    {
+     "start": 30.78,
+     "end": 31.26,
+     "n": 1
+    },
+    {
+     "start": 31.26,
+     "end": 31.7,
+     "n": 1
+    },
+    {
+     "start": 31.7,
+     "end": 32.0,
+     "n": 1
+    },
+    {
+     "start": 32.0,
+     "end": 32.56,
+     "n": 1
+    },
+    {
+     "start": 32.56,
+     "end": 32.94,
+     "n": 1
+    },
+    {
+     "start": 32.94,
+     "end": 33.8,
+     "n": 1
+    },
+    {
+     "start": 33.96,
+     "end": 34.7,
+     "n": 1
+    },
+    {
+     "start": 34.9,
+     "end": 35.16,
+     "n": 1
+    },
+    {
+     "start": 35.16,
+     "end": 35.68,
+     "n": 1
+    },
+    {
+     "start": 35.68,
+     "end": 36.16,
+     "n": 1
+    },
+    {
+     "start": 36.16,
+     "end": 36.34,
+     "n": 1
+    },
+    {
+     "start": 36.34,
+     "end": 36.86,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki bunun bedeli neydi? Bugün kurşunun bir zehir olduğunu, vücutta biriktiğini, böbreğe, beyne ve sinir sistemine zarar verdiğini biliyoruz.",
+   "caption": "Peki bunun bedeli neydi? Bugün kurşunun bir zehir olduğunu, vücutta biriktiğini, böbreğe, beyne ve sinir sistemine zarar verdiğini biliyoruz.",
+   "key": [
+    "zehir"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_seruzit.jpg",
+    "fit": "doldur",
+    "baslik": "Serüzit, doğal kurşun karbonat minerali · Darla Sondrol / Wikimedia Commons, CC0",
+    "lisans": "",
+    "kaynak": "Serüzit, doğal kurşun karbonat minerali · Darla Sondrol / Wikimedia Commons, CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.3,
+     "end": 37.72,
+     "n": 1
+    },
+    {
+     "start": 38.08,
+     "end": 38.22,
+     "n": 1
+    },
+    {
+     "start": 38.22,
+     "end": 38.68,
+     "n": 1
+    },
+    {
+     "start": 38.68,
+     "end": 39.02,
+     "n": 1
+    },
+    {
+     "start": 39.64,
+     "end": 39.96,
+     "n": 1
+    },
+    {
+     "start": 39.96,
+     "end": 40.54,
+     "n": 1
+    },
+    {
+     "start": 40.54,
+     "end": 40.9,
+     "n": 1
+    },
+    {
+     "start": 40.9,
+     "end": 41.2,
+     "n": 1
+    },
+    {
+     "start": 41.2,
+     "end": 41.62,
+     "n": 1
+    },
+    {
+     "start": 42.08,
+     "end": 42.48,
+     "n": 1
+    },
+    {
+     "start": 42.48,
+     "end": 43.2,
+     "n": 1
+    },
+    {
+     "start": 43.54,
+     "end": 44.24,
+     "n": 1
+    },
+    {
+     "start": 44.34,
+     "end": 44.68,
+     "n": 1
+    },
+    {
+     "start": 44.68,
+     "end": 44.94,
+     "n": 1
+    },
+    {
+     "start": 44.94,
+     "end": 45.38,
+     "n": 1
+    },
+    {
+     "start": 45.38,
+     "end": 45.88,
+     "n": 1
+    },
+    {
+     "start": 45.88,
+     "end": 46.32,
+     "n": 1
+    },
+    {
+     "start": 46.32,
+     "end": 46.7,
+     "n": 1
+    },
+    {
+     "start": 46.7,
+     "end": 47.44,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "KURŞUN",
+    "baslik": "Vücutta birikir",
+    "bekle": 0.6,
+    "maddeler": [
+     "Böbrek",
+     "Beyin",
+     "Sinir sistemi"
+    ],
+    "basla": 2.46,
+    "zamanlar": [
+     6.56,
+     7.36,
+     7.96
+    ]
+   }
+  },
+  {
+   "say": "Yani güzel görünmek için yüze sürülen boya, aslında bir zehirdi. Sizce bugün de güzellik için benzer riskler alınıyor mu?",
+   "caption": "Yani güzel görünmek için yüze sürülen boya, aslında bir zehirdi. Sizce bugün de güzellik için benzer riskler alınıyor mu?",
+   "key": [
+    "zehirdi."
+   ],
+   "image": {
+    "local": "assets/belgeler/068_lewis.jpg",
+    "fit": "doldur",
+    "baslik": "Bir Türk kadını, taşbaskı, 1838 · John Frederick Lewis / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Bir Türk kadını, taşbaskı, 1838 · John Frederick Lewis / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 47.8,
+     "end": 48.24,
+     "n": 1
+    },
+    {
+     "start": 48.6,
+     "end": 48.74,
+     "n": 1
+    },
+    {
+     "start": 48.74,
+     "end": 49.24,
+     "n": 1
+    },
+    {
+     "start": 49.24,
+     "end": 49.54,
+     "n": 1
+    },
+    {
+     "start": 49.54,
+     "end": 49.84,
+     "n": 1
+    },
+    {
+     "start": 49.84,
+     "end": 50.28,
+     "n": 1
+    },
+    {
+     "start": 50.28,
+     "end": 50.88,
+     "n": 1
+    },
+    {
+     "start": 50.88,
+     "end": 51.4,
+     "n": 1
+    },
+    {
+     "start": 51.4,
+     "end": 51.76,
+     "n": 1
+    },
+    {
+     "start": 51.76,
+     "end": 52.16,
+     "n": 1
+    },
+    {
+     "start": 52.76,
+     "end": 53.22,
+     "n": 1
+    },
+    {
+     "start": 53.22,
+     "end": 53.54,
+     "n": 1
+    },
+    {
+     "start": 53.54,
+     "end": 53.74,
+     "n": 1
+    },
+    {
+     "start": 53.74,
+     "end": 54.22,
+     "n": 1
+    },
+    {
+     "start": 54.22,
+     "end": 54.5,
+     "n": 1
+    },
+    {
+     "start": 54.5,
+     "end": 54.94,
+     "n": 1
+    },
+    {
+     "start": 54.94,
+     "end": 55.46,
+     "n": 1
+    },
+    {
+     "start": 55.46,
+     "end": 55.88,
+     "n": 1
+    },
+    {
+     "start": 55.88,
+     "end": 56.06,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "yorumlarda"
+   ],
+   "image": {
+    "local": "assets/belgeler/068_hamam.jpg",
+    "fit": "doldur",
+    "baslik": "Hamamda bir hanım ve hizmetçisi, tablo · Jean-Étienne Liotard / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Hamamda bir hanım ve hizmetçisi, tablo · Jean-Étienne Liotard / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 56.48,
+     "end": 57.28,
+     "n": 1
+    },
+    {
+     "start": 57.28,
+     "end": 57.86,
+     "n": 1
+    },
+    {
+     "start": 57.86,
+     "end": 58.5,
+     "n": 1
+    },
+    {
+     "start": 58.5,
+     "end": 59.36,
+     "n": 1
+    },
+    {
+     "start": 59.36,
+     "end": 59.68,
+     "n": 1
+    },
+    {
+     "start": 59.68,
+     "end": 60.36,
+     "n": 1
+    },
+    {
+     "start": 60.36,
+     "end": 61.24,
+     "n": 1
+    },
+    {
+     "start": 61.72,
+     "end": 61.88,
+     "n": 1
+    },
+    {
+     "start": 61.88,
+     "end": 62.26,
+     "n": 1
+    },
+    {
+     "start": 62.26,
+     "end": 62.62,
+     "n": 1
+    },
+    {
+     "start": 62.62,
+     "end": 63.12,
+     "n": 1
+    },
+    {
+     "start": 63.12,
+     "end": 63.26,
+     "n": 1
+    },
+    {
+     "start": 63.26,
+     "end": 63.66,
+     "n": 1
+    },
+    {
+     "start": 63.66,
+     "end": 64.22,
+     "n": 1
+    },
+    {
+     "start": 64.22,
+     "end": 64.64,
+     "n": 1
+    },
+    {
+     "start": 64.64,
+     "end": 65.2,
+     "n": 1
+    },
+    {
+     "start": 65.2,
+     "end": 65.94,
+     "n": 1
+    },
+    {
+     "start": 65.94,
+     "end": 66.14,
+     "n": 1
+    },
+    {
+     "start": 66.14,
+     "end": 66.54,
+     "n": 1
+    },
+    {
+     "start": 66.54,
+     "end": 67.08,
+     "n": 1
+    },
+    {
+     "start": 67.08,
+     "end": 67.44,
+     "n": 1
+    },
+    {
+     "start": 67.44,
+     "end": 68.06,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
