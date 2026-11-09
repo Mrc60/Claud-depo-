@@ -1,0 +1,1141 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 74,
+ "slug": "kolelik",
+ "title": "Köleliğin Kaldırılması",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kölelik hangi gün\nkaldırıldı?",
+ "dis_ses": {
+  "file": "assets/ses/074_kolelik.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.2
+    ]
+   ],
+   [
+    [
+     8.2,
+     21.94
+    ]
+   ],
+   [
+    [
+     21.94,
+     49.1
+    ]
+   ],
+   [
+    [
+     49.1,
+     57.14
+    ]
+   ],
+   [
+    [
+     57.14,
+     71.32
+    ]
+   ],
+   [
+    [
+     71.32,
+     104.12
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Osmanlıda kölelik hangi gün kaldırıldı? Aslında öyle bir gün yok. Bu iş yaklaşık seksen yıl sürdü.",
+   "caption": "Osmanlıda kölelik hangi gün kaldırıldı? Aslında öyle bir gün yok. Bu iş yaklaşık seksen yıl sürdü.",
+   "key": [
+    "kölelik"
+   ],
+   "image": {
+    "local": "assets/belgeler/074_esir_pazari.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda Avret Pazarı denen esir pazarı, 1838 gravürü · Thomas Allom / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulda Avret Pazarı denen esir pazarı, 1838 gravürü · Thomas Allom / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0.0,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.98,
+     "n": 1
+    },
+    {
+     "start": 0.98,
+     "end": 1.56,
+     "n": 1
+    },
+    {
+     "start": 1.56,
+     "end": 1.96,
+     "n": 1
+    },
+    {
+     "start": 1.96,
+     "end": 2.12,
+     "n": 1
+    },
+    {
+     "start": 2.12,
+     "end": 2.76,
+     "n": 1
+    },
+    {
+     "start": 3.74,
+     "end": 4.2,
+     "n": 1
+    },
+    {
+     "start": 4.2,
+     "end": 4.54,
+     "n": 1
+    },
+    {
+     "start": 4.54,
+     "end": 4.72,
+     "n": 1
+    },
+    {
+     "start": 4.72,
+     "end": 4.84,
+     "n": 1
+    },
+    {
+     "start": 4.84,
+     "end": 5.18,
+     "n": 1
+    },
+    {
+     "start": 5.62,
+     "end": 5.78,
+     "n": 1
+    },
+    {
+     "start": 5.78,
+     "end": 6.08,
+     "n": 1
+    },
+    {
+     "start": 6.08,
+     "end": 6.72,
+     "n": 1
+    },
+    {
+     "start": 6.72,
+     "end": 7.16,
+     "n": 1
+    },
+    {
+     "start": 7.16,
+     "end": 7.38,
+     "n": 1
+    },
+    {
+     "start": 7.38,
+     "end": 8.08,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Önce İstanbuldaki esir pazarı kapatıldı. Sultan Abdülmecid bu pazarı bir emirle kapattı. Ama satış bitmedi. Esirciler bu kez evlerde ve ara sokaklarda, gizlice satış yapmaya devam etti.",
+   "caption": "Önce İstanbuldaki esir pazarı kapatıldı. Sultan Abdülmecid bu pazarı bir emirle kapattı. Ama satış bitmedi. Esirciler bu kez evlerde ve ara sokaklarda, gizlice satış yapmaya devam etti.",
+   "key": [
+    "esir pazarı"
+   ],
+   "image": {
+    "local": "assets/belgeler/074_abdulmecid.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan Abdülmecid, 19. yüzyıl gravürü · Rijksmuseum, CC0",
+    "lisans": "",
+    "kaynak": "Sultan Abdülmecid, 19. yüzyıl gravürü · Rijksmuseum, CC0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.17,
+     0.07,
+     0.83,
+     0.6
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.44,
+     "end": 8.92,
+     "n": 1
+    },
+    {
+     "start": 8.92,
+     "end": 9.7,
+     "n": 1
+    },
+    {
+     "start": 9.7,
+     "end": 10.12,
+     "n": 1
+    },
+    {
+     "start": 10.12,
+     "end": 10.4,
+     "n": 1
+    },
+    {
+     "start": 10.4,
+     "end": 11.04,
+     "n": 1
+    },
+    {
+     "start": 11.54,
+     "end": 11.84,
+     "n": 1
+    },
+    {
+     "start": 11.84,
+     "end": 12.54,
+     "n": 1
+    },
+    {
+     "start": 12.54,
+     "end": 12.92,
+     "n": 1
+    },
+    {
+     "start": 12.92,
+     "end": 13.24,
+     "n": 1
+    },
+    {
+     "start": 13.24,
+     "end": 13.62,
+     "n": 1
+    },
+    {
+     "start": 13.62,
+     "end": 14.08,
+     "n": 1
+    },
+    {
+     "start": 14.08,
+     "end": 14.76,
+     "n": 1
+    },
+    {
+     "start": 14.98,
+     "end": 15.14,
+     "n": 1
+    },
+    {
+     "start": 15.14,
+     "end": 15.5,
+     "n": 1
+    },
+    {
+     "start": 15.5,
+     "end": 15.98,
+     "n": 1
+    },
+    {
+     "start": 16.54,
+     "end": 17.08,
+     "n": 1
+    },
+    {
+     "start": 17.08,
+     "end": 17.32,
+     "n": 1
+    },
+    {
+     "start": 17.32,
+     "end": 17.62,
+     "n": 1
+    },
+    {
+     "start": 17.62,
+     "end": 18.22,
+     "n": 1
+    },
+    {
+     "start": 18.22,
+     "end": 18.5,
+     "n": 1
+    },
+    {
+     "start": 18.5,
+     "end": 18.8,
+     "n": 1
+    },
+    {
+     "start": 18.8,
+     "end": 19.52,
+     "n": 1
+    },
+    {
+     "start": 19.52,
+     "end": 20.38,
+     "n": 1
+    },
+    {
+     "start": 20.38,
+     "end": 20.8,
+     "n": 1
+    },
+    {
+     "start": 20.8,
+     "end": 21.16,
+     "n": 1
+    },
+    {
+     "start": 21.16,
+     "end": 21.54,
+     "n": 1
+    },
+    {
+     "start": 21.54,
+     "end": 21.82,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki neden bir anda kaldırılamadı? Çünkü kölelik hukuken tanınan bir kurumdu ve sarayda, konaklarda, hatta tarlada kölelerden yararlanılıyordu. İngilterenin baskısıyla önce Çerkes ve Gürcü köle ticareti, sonra Afrikadan getirilen köle ticareti yasaklandı. Ama dikkat: Yasaklanan sadece alım satımdı. Zaten köle ya da cariye olanlar yine özgür değildi.",
+   "caption": "Peki neden bir anda kaldırılamadı? Çünkü kölelik hukuken tanınan bir kurumdu ve sarayda, konaklarda, hatta tarlada kölelerden yararlanılıyordu. İngilterenin baskısıyla önce Çerkes ve Gürcü köle ticareti, sonra Afrikadan getirilen köle ticareti yasaklandı. Ama dikkat: Yasaklanan sadece alım satımdı. Zaten köle ya da cariye olanlar yine özgür değildi.",
+   "key": [
+    "yasaklandı"
+   ],
+   "image": {
+    "local": "assets/belgeler/074_harem_agasi.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı sarayında bir harem ağası, 19. yüzyıl · Pascal Sébah / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı sarayında bir harem ağası, 19. yüzyıl · Pascal Sébah / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 22.36,
+     "end": 22.76,
+     "n": 1
+    },
+    {
+     "start": 22.76,
+     "end": 23.24,
+     "n": 1
+    },
+    {
+     "start": 23.24,
+     "end": 23.48,
+     "n": 1
+    },
+    {
+     "start": 23.48,
+     "end": 23.68,
+     "n": 1
+    },
+    {
+     "start": 23.68,
+     "end": 24.56,
+     "n": 1
+    },
+    {
+     "start": 24.96,
+     "end": 25.52,
+     "n": 1
+    },
+    {
+     "start": 25.52,
+     "end": 26.1,
+     "n": 1
+    },
+    {
+     "start": 26.1,
+     "end": 26.78,
+     "n": 1
+    },
+    {
+     "start": 26.78,
+     "end": 27.22,
+     "n": 1
+    },
+    {
+     "start": 27.22,
+     "end": 27.46,
+     "n": 1
+    },
+    {
+     "start": 27.46,
+     "end": 27.82,
+     "n": 1
+    },
+    {
+     "start": 27.82,
+     "end": 28.34,
+     "n": 1
+    },
+    {
+     "start": 28.34,
+     "end": 28.9,
+     "n": 1
+    },
+    {
+     "start": 29.12,
+     "end": 29.76,
+     "n": 1
+    },
+    {
+     "start": 30.14,
+     "end": 30.48,
+     "n": 1
+    },
+    {
+     "start": 30.48,
+     "end": 31.12,
+     "n": 1
+    },
+    {
+     "start": 31.12,
+     "end": 31.9,
+     "n": 1
+    },
+    {
+     "start": 31.9,
+     "end": 32.92,
+     "n": 1
+    },
+    {
+     "start": 33.6,
+     "end": 34.18,
+     "n": 1
+    },
+    {
+     "start": 34.18,
+     "end": 35.0,
+     "n": 1
+    },
+    {
+     "start": 35.0,
+     "end": 35.54,
+     "n": 1
+    },
+    {
+     "start": 35.54,
+     "end": 36.08,
+     "n": 1
+    },
+    {
+     "start": 36.08,
+     "end": 36.38,
+     "n": 1
+    },
+    {
+     "start": 36.38,
+     "end": 36.78,
+     "n": 1
+    },
+    {
+     "start": 36.78,
+     "end": 37.06,
+     "n": 1
+    },
+    {
+     "start": 37.06,
+     "end": 37.92,
+     "n": 1
+    },
+    {
+     "start": 38.18,
+     "end": 38.44,
+     "n": 1
+    },
+    {
+     "start": 38.44,
+     "end": 39.2,
+     "n": 1
+    },
+    {
+     "start": 39.2,
+     "end": 39.7,
+     "n": 1
+    },
+    {
+     "start": 39.7,
+     "end": 40.02,
+     "n": 1
+    },
+    {
+     "start": 40.02,
+     "end": 40.58,
+     "n": 1
+    },
+    {
+     "start": 40.58,
+     "end": 41.6,
+     "n": 1
+    },
+    {
+     "start": 41.76,
+     "end": 41.92,
+     "n": 1
+    },
+    {
+     "start": 41.92,
+     "end": 42.6,
+     "n": 1
+    },
+    {
+     "start": 42.82,
+     "end": 43.62,
+     "n": 1
+    },
+    {
+     "start": 43.62,
+     "end": 44.16,
+     "n": 1
+    },
+    {
+     "start": 44.16,
+     "end": 44.58,
+     "n": 1
+    },
+    {
+     "start": 44.58,
+     "end": 45.1,
+     "n": 1
+    },
+    {
+     "start": 45.5,
+     "end": 45.98,
+     "n": 1
+    },
+    {
+     "start": 45.98,
+     "end": 46.34,
+     "n": 1
+    },
+    {
+     "start": 46.34,
+     "end": 46.52,
+     "n": 1
+    },
+    {
+     "start": 46.52,
+     "end": 46.78,
+     "n": 1
+    },
+    {
+     "start": 46.78,
+     "end": 47.08,
+     "n": 1
+    },
+    {
+     "start": 47.08,
+     "end": 47.78,
+     "n": 1
+    },
+    {
+     "start": 47.78,
+     "end": 48.06,
+     "n": 1
+    },
+    {
+     "start": 48.06,
+     "end": 48.56,
+     "n": 1
+    },
+    {
+     "start": 48.56,
+     "end": 48.98,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "YASAKLANAN NEYDİ?",
+    "baslik": "Sadece alım satım",
+    "bekle": 0.6,
+    "maddeler": [
+     "Çerkes ve Gürcü köle ticareti",
+     "Afrikadan köle ticareti",
+     "Mevcut köleler: özgür değil"
+    ],
+    "basla": 11.36,
+    "zamanlar": [
+     11.66,
+     16.24,
+     23.56
+    ]
+   }
+  },
+  {
+   "say": "Sarayın haremine cariye alınması da uzun süre devam etti. Bazı Çerkes aileler kızlarını saraya kendileri veriyordu.",
+   "caption": "Sarayın haremine cariye alınması da uzun süre devam etti. Bazı Çerkes aileler kızlarını saraya kendileri veriyordu.",
+   "key": [
+    "cariye"
+   ],
+   "image": {
+    "local": "assets/belgeler/074_yildiz.jpg",
+    "fit": "doldur",
+    "baslik": "Yıldız Sarayı ve Hamidiye Camii, 1913 · Hermann Barth / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Yıldız Sarayı ve Hamidiye Camii, 1913 · Hermann Barth / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.02,
+     0.02,
+     0.98,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 49.44,
+     "end": 49.94,
+     "n": 1
+    },
+    {
+     "start": 49.94,
+     "end": 50.4,
+     "n": 1
+    },
+    {
+     "start": 50.4,
+     "end": 50.86,
+     "n": 1
+    },
+    {
+     "start": 50.86,
+     "end": 51.34,
+     "n": 1
+    },
+    {
+     "start": 51.34,
+     "end": 51.78,
+     "n": 1
+    },
+    {
+     "start": 51.78,
+     "end": 52.08,
+     "n": 1
+    },
+    {
+     "start": 52.08,
+     "end": 52.32,
+     "n": 1
+    },
+    {
+     "start": 52.32,
+     "end": 52.66,
+     "n": 1
+    },
+    {
+     "start": 52.66,
+     "end": 53.0,
+     "n": 1
+    },
+    {
+     "start": 53.5,
+     "end": 53.88,
+     "n": 1
+    },
+    {
+     "start": 53.88,
+     "end": 54.28,
+     "n": 1
+    },
+    {
+     "start": 54.28,
+     "end": 54.98,
+     "n": 1
+    },
+    {
+     "start": 54.98,
+     "end": 55.58,
+     "n": 1
+    },
+    {
+     "start": 55.58,
+     "end": 56.04,
+     "n": 1
+    },
+    {
+     "start": 56.04,
+     "end": 56.62,
+     "n": 1
+    },
+    {
+     "start": 56.62,
+     "end": 57.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Asıl dönüm noktası İkinci Meşrutiyetten sonra geldi. Devlet, köle olduğu belgeyle ispatlanamayan herkesin özgür sayılacağını açıkladı. Gerekçe şuydu: Bu topraklarda asıl olan hürriyettir.",
+   "caption": "Asıl dönüm noktası İkinci Meşrutiyetten sonra geldi. Devlet, köle olduğu belgeyle ispatlanamayan herkesin özgür sayılacağını açıkladı. Gerekçe şuydu: Bu topraklarda asıl olan hürriyettir.",
+   "key": [
+    "özgür"
+   ],
+   "image": {
+    "local": "assets/belgeler/074_mesrutiyet.jpg",
+    "fit": "doldur",
+    "baslik": "İkinci Meşrutiyet kutlaması, Merzifon, 1908 · Dildilian Fotoğrafhanesi / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "İkinci Meşrutiyet kutlaması, Merzifon, 1908 · Dildilian Fotoğrafhanesi / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0.07,
+     1.0,
+     1.0
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.14,
+     "end": 58.04,
+     "n": 1
+    },
+    {
+     "start": 58.04,
+     "end": 58.38,
+     "n": 1
+    },
+    {
+     "start": 58.38,
+     "end": 59.0,
+     "n": 1
+    },
+    {
+     "start": 59.0,
+     "end": 59.36,
+     "n": 1
+    },
+    {
+     "start": 59.5,
+     "end": 60.38,
+     "n": 1
+    },
+    {
+     "start": 60.38,
+     "end": 60.62,
+     "n": 1
+    },
+    {
+     "start": 60.62,
+     "end": 61.02,
+     "n": 1
+    },
+    {
+     "start": 61.54,
+     "end": 62.08,
+     "n": 1
+    },
+    {
+     "start": 62.34,
+     "end": 62.54,
+     "n": 1
+    },
+    {
+     "start": 62.54,
+     "end": 62.86,
+     "n": 1
+    },
+    {
+     "start": 62.86,
+     "end": 63.44,
+     "n": 1
+    },
+    {
+     "start": 63.44,
+     "end": 64.32,
+     "n": 1
+    },
+    {
+     "start": 64.32,
+     "end": 65.08,
+     "n": 1
+    },
+    {
+     "start": 65.08,
+     "end": 65.52,
+     "n": 1
+    },
+    {
+     "start": 65.52,
+     "end": 66.14,
+     "n": 1
+    },
+    {
+     "start": 66.14,
+     "end": 66.66,
+     "n": 1
+    },
+    {
+     "start": 67.18,
+     "end": 67.56,
+     "n": 1
+    },
+    {
+     "start": 67.56,
+     "end": 68.1,
+     "n": 1
+    },
+    {
+     "start": 68.42,
+     "end": 68.58,
+     "n": 1
+    },
+    {
+     "start": 68.58,
+     "end": 69.4,
+     "n": 1
+    },
+    {
+     "start": 69.4,
+     "end": 69.88,
+     "n": 1
+    },
+    {
+     "start": 69.88,
+     "end": 70.3,
+     "n": 1
+    },
+    {
+     "start": 70.3,
+     "end": 71.2,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki son nokta ne zaman konuldu? Türkiye Cumhuriyeti, 1933te köleliği yasaklayan uluslararası sözleşmeye katıldı. Böylece köleliğin yasal hiçbir dayanağı kalmadı. Sizce bir yasağın kâğıt üzerinde konması mı daha zordur, yoksa toplumda gerçekten uygulanması mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki son nokta ne zaman konuldu? Türkiye Cumhuriyeti, 1933te köleliği yasaklayan uluslararası sözleşmeye katıldı. Böylece köleliğin yasal hiçbir dayanağı kalmadı. Sizce bir yasağın kâğıt üzerinde konması mı daha zordur, yoksa toplumda gerçekten uygulanması mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "1933"
+   ],
+   "image": {
+    "local": "assets/belgeler/074_cenevre.jpg",
+    "fit": "doldur",
+    "baslik": "Milletler Cemiyeti toplantısı sırasında Cenevre, 1927 · Agence Rol, Bibliothèque nationale de France / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Milletler Cemiyeti toplantısı sırasında Cenevre, 1927 · Agence Rol, Bibliothèque nationale de France / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0.0,
+     1.0,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 71.72,
+     "end": 72.08,
+     "n": 1
+    },
+    {
+     "start": 72.08,
+     "end": 72.5,
+     "n": 1
+    },
+    {
+     "start": 72.5,
+     "end": 72.84,
+     "n": 1
+    },
+    {
+     "start": 72.84,
+     "end": 73.0,
+     "n": 1
+    },
+    {
+     "start": 73.0,
+     "end": 73.26,
+     "n": 1
+    },
+    {
+     "start": 73.26,
+     "end": 73.74,
+     "n": 1
+    },
+    {
+     "start": 74.24,
+     "end": 74.68,
+     "n": 1
+    },
+    {
+     "start": 74.68,
+     "end": 75.52,
+     "n": 1
+    },
+    {
+     "start": 75.92,
+     "end": 76.98,
+     "n": 1
+    },
+    {
+     "start": 76.98,
+     "end": 77.5,
+     "n": 1
+    },
+    {
+     "start": 77.5,
+     "end": 78.26,
+     "n": 1
+    },
+    {
+     "start": 78.26,
+     "end": 79.04,
+     "n": 1
+    },
+    {
+     "start": 79.04,
+     "end": 79.66,
+     "n": 1
+    },
+    {
+     "start": 79.66,
+     "end": 80.14,
+     "n": 1
+    },
+    {
+     "start": 80.62,
+     "end": 81.34,
+     "n": 1
+    },
+    {
+     "start": 81.34,
+     "end": 81.94,
+     "n": 1
+    },
+    {
+     "start": 81.94,
+     "end": 82.44,
+     "n": 1
+    },
+    {
+     "start": 82.44,
+     "end": 82.9,
+     "n": 1
+    },
+    {
+     "start": 82.9,
+     "end": 83.44,
+     "n": 1
+    },
+    {
+     "start": 83.44,
+     "end": 83.9,
+     "n": 1
+    },
+    {
+     "start": 83.9,
+     "end": 85.18,
+     "n": 1
+    },
+    {
+     "start": 85.18,
+     "end": 85.52,
+     "n": 1
+    },
+    {
+     "start": 85.52,
+     "end": 86.04,
+     "n": 1
+    },
+    {
+     "start": 86.04,
+     "end": 86.42,
+     "n": 1
+    },
+    {
+     "start": 86.42,
+     "end": 86.9,
+     "n": 1
+    },
+    {
+     "start": 86.9,
+     "end": 87.36,
+     "n": 1
+    },
+    {
+     "start": 87.36,
+     "end": 87.54,
+     "n": 1
+    },
+    {
+     "start": 87.54,
+     "end": 87.72,
+     "n": 1
+    },
+    {
+     "start": 87.72,
+     "end": 88.32,
+     "n": 1
+    },
+    {
+     "start": 88.58,
+     "end": 89.02,
+     "n": 1
+    },
+    {
+     "start": 89.02,
+     "end": 89.64,
+     "n": 1
+    },
+    {
+     "start": 89.64,
+     "end": 90.28,
+     "n": 1
+    },
+    {
+     "start": 90.28,
+     "end": 91.02,
+     "n": 1
+    },
+    {
+     "start": 91.02,
+     "end": 91.22,
+     "n": 1
+    },
+    {
+     "start": 91.68,
+     "end": 92.54,
+     "n": 1
+    },
+    {
+     "start": 92.54,
+     "end": 93.14,
+     "n": 1
+    },
+    {
+     "start": 93.14,
+     "end": 93.94,
+     "n": 1
+    },
+    {
+     "start": 94.14,
+     "end": 94.72,
+     "n": 1
+    },
+    {
+     "start": 94.72,
+     "end": 95.06,
+     "n": 1
+    },
+    {
+     "start": 95.06,
+     "end": 95.76,
+     "n": 1
+    },
+    {
+     "start": 95.76,
+     "end": 96.68,
+     "n": 1
+    },
+    {
+     "start": 97.2,
+     "end": 97.44,
+     "n": 1
+    },
+    {
+     "start": 97.44,
+     "end": 97.82,
+     "n": 1
+    },
+    {
+     "start": 97.82,
+     "end": 98.22,
+     "n": 1
+    },
+    {
+     "start": 98.22,
+     "end": 98.76,
+     "n": 1
+    },
+    {
+     "start": 98.76,
+     "end": 98.92,
+     "n": 1
+    },
+    {
+     "start": 98.92,
+     "end": 99.34,
+     "n": 1
+    },
+    {
+     "start": 99.34,
+     "end": 99.88,
+     "n": 1
+    },
+    {
+     "start": 99.88,
+     "end": 100.36,
+     "n": 1
+    },
+    {
+     "start": 100.42,
+     "end": 100.98,
+     "n": 1
+    },
+    {
+     "start": 100.98,
+     "end": 101.78,
+     "n": 1
+    },
+    {
+     "start": 101.78,
+     "end": 101.98,
+     "n": 1
+    },
+    {
+     "start": 101.98,
+     "end": 102.4,
+     "n": 1
+    },
+    {
+     "start": 102.4,
+     "end": 102.9,
+     "n": 1
+    },
+    {
+     "start": 102.9,
+     "end": 103.32,
+     "n": 1
+    },
+    {
+     "start": 103.32,
+     "end": 103.9,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
