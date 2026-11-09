@@ -1,5 +1,12 @@
 # DURUM — şu anki işler (son güncelleme: 09.11.2026 05:40, Hesap 2 gece kontrolü: yeni HATA yok, HATA 1-7 hâlâ açık; ayrıntı MESAJLAR.md)
 
+
+## SOHBET HESABI (09.11.2026 22:30)
+- #75 Saygı duruşu (10 Kasım): episodes/075_saygi.json main'de, video videolar dalında. TEK1 video onayı ve yükleme seti BEKLİYOR.
+- #76 Varlık Vergisi (11 Kasım yıl dönümü için): episodes/076_varlik.json main'de, video 076_varlik.mp4 (102 sn, 7 sahne, kontrol.py 0 hata 1 uyarı). Yükleme seti ve kapak görselleri verildi (kontrol.py set 0 hata). Öneri: X'e atılmasın (siyasi tartışma riski); FB dağıtım riski TEK1'e söylendi. AI etiketi FB/IG'de açık.
+- Not: 1942 05 26 Yeni Asır.jpg futbol haberi; Varlık için de denendi, kullanılmadı (HATA 7 ile aynı dosya).
+- ccr-hesap2-* dalları main'e birleştirildi (ayrıntı MESAJLAR.md 09.11 22:30).
+
 ## DALLARDAKİ BÖLÜMLER (09.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
 - #73 Sayım (1927 nüfus sayımı): ccr-hesap2-sayim, ses 110,6 sn, 8 sahne, kontrol.py 0 hata 1 uyarı. Sahne 4 gazete görseli futbol haberi (değişmeli, HATA 7). Ana dil sahnesi FB dağıtım riski.
 - #74 Kölelik: ccr-hesap2-kolelik, ses 104,1 sn, 6 sahne, 0 hata 1 uyarı. Kaynak tablosu repoda yok.
