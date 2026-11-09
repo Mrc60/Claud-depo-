@@ -102,3 +102,6 @@
 - İçeriklerden para kazanma: bekleme listesi (davetle). Son 28 gün: ort. Reels izlenme 29,5 sn (hedef 33,3 sn), toplam görüntüleme 1,7 Mn (hedef 10 Mn).
 - #62 Savaşlar FB'de takipçi olmayanlara hiç önerilmedi (tahmin: siyasi/hassas konu). FB için savaş/din/siyaset konusu seçme.
 - #63 Düğün: senaryo, 14 görsel, set taslağı hazır (dal ccr-hesap2-dugun); TEK1'in mp3'ü bekleniyor.
+
+## #64 TELEFON (04.11.2026 gece, Hesap 2)
+- Senaryo, 12 görsel, bölüm JSON (episodes/064_telefon.json), yükleme seti taslağı hazır; dal ccr-hesap2-telefon. TEK1'in ElevenLabs sesi bekleniyor.

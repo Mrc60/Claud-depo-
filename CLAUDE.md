@@ -258,3 +258,4 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - ÇİFT CEVAP: TEK1'in verdiği cevaplar alt sekmede (replies) gizli kalabilir. Önlem: cevaplamadan önce her yorumun replies listesine ve deftere bak.
 - SAYIM: "11 cevap" dedim, 10'du. Önlem: gönderimden önce listeyi python/elle say, sayıyı tek yerden al.
 - GÖNDERİLDİ SANMA: Push çıktısında sadece "depo taşındı" uyarısını görüp doğrulamadım; hook uyarısı yerel takip kaydı eksik olduğu için çıkıyordu. Önlem: push sonrası `git ls-remote` ile HEAD karşılaştır; takip kaydı için `git fetch origin +refs/heads/DAL:refs/remotes/origin/DAL`.
+- AI ETİKETİ (04.11.2026, Meta yardım merkezi): Meta, 'gerçekçi yapay zekâ seslendirmesiyle anlatılan Reels' için AI etiketini ZORUNLU sayıyor (örnek listesinde birebir var); etiketsiz paylaşıma ceza olabilir. Bizim seslendirme ElevenLabs olduğu için FB ve IG'de her videoda 'AI etiketi ekle' AÇIK olacak. Görseller gerçek fotoğraf; etiket sadece ses için.

@@ -1,0 +1,791 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 64,
+ "slug": "telefon",
+ "title": "Telefon İçin Yıllarca Sıra",
+ "youtube_title": "Telefon için yıllarca sıra beklenirdi #SıradanDeğil 64",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Telefon için\nyıllarca sıra!",
+ "dis_ses": {
+  "file": "assets/ses/064_telefon.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.81
+    ]
+   ],
+   [
+    [
+     7.81,
+     25.19
+    ]
+   ],
+   [
+    [
+     25.19,
+     31.33
+    ]
+   ],
+   [
+    [
+     31.33,
+     43.63
+    ]
+   ],
+   [
+    [
+     43.63,
+     50.88
+    ]
+   ],
+   [
+    [
+     50.88,
+     65.72
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar Türkiyede ev telefonu için yıllarca sıra beklenirdi. Bazıları neredeyse on yıl! Peki neden?",
+   "caption": "Bir zamanlar Türkiyede ev telefonu için yıllarca sıra beklenirdi. Bazıları neredeyse on yıl! Peki neden?",
+   "key": [
+    "yıllarca"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_telefon_w51.jpg",
+    "fit": "doldur",
+    "baslik": "Siyah bakalit çevirmeli telefon (W51) · Hubert Berberich / Wikimedia Commons, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Siyah bakalit çevirmeli telefon (W51) · Hubert Berberich / Wikimedia Commons, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.36,
+     "n": 1
+    },
+    {
+     "start": 0.36,
+     "end": 1.04,
+     "n": 1
+    },
+    {
+     "start": 1.04,
+     "end": 1.66,
+     "n": 1
+    },
+    {
+     "start": 1.66,
+     "end": 1.9,
+     "n": 1
+    },
+    {
+     "start": 1.9,
+     "end": 2.38,
+     "n": 1
+    },
+    {
+     "start": 2.38,
+     "end": 2.66,
+     "n": 1
+    },
+    {
+     "start": 2.66,
+     "end": 3.32,
+     "n": 1
+    },
+    {
+     "start": 3.32,
+     "end": 3.6,
+     "n": 1
+    },
+    {
+     "start": 3.6,
+     "end": 4.4,
+     "n": 1
+    },
+    {
+     "start": 4.7,
+     "end": 5.16,
+     "n": 1
+    },
+    {
+     "start": 5.16,
+     "end": 5.8,
+     "n": 1
+    },
+    {
+     "start": 5.8,
+     "end": 6.16,
+     "n": 1
+    },
+    {
+     "start": 6.16,
+     "end": 6.44,
+     "n": 1
+    },
+    {
+     "start": 6.86,
+     "end": 7.12,
+     "n": 1
+    },
+    {
+     "start": 7.12,
+     "end": 7.52,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Telefonu sadece PTT bağlayabiliyordu ama santral ve hat yetersizdi. 1983te telefon abonesi 1 milyon 675 bindi. Sırada bekleyen ise 1 milyon 750 bin. Yani bekleyenler, telefonu olanlardan fazlaydı.",
+   "caption": "Telefonu sadece PTT bağlayabiliyordu ama santral ve hat yetersizdi. 1983te telefon abonesi 1 milyon 675 bindi. Sırada bekleyen ise 1 milyon 750 bin. Yani bekleyenler, telefonu olanlardan fazlaydı.",
+   "key": [
+    "PTT",
+    "fazlaydı."
+   ],
+   "image": {
+    "local": "assets/belgeler/064_ptt_santral.jpg",
+    "fit": "doldur",
+    "baslik": "Eski telefon santrali, PTT Müzesi Ankara · Furkan Akkurt / Wikimedia Commons, CC BY-SA 4.0 (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Eski telefon santrali, PTT Müzesi Ankara · Furkan Akkurt / Wikimedia Commons, CC BY-SA 4.0 (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.1,
+     "end": 8.62,
+     "n": 1
+    },
+    {
+     "start": 8.62,
+     "end": 9.2,
+     "n": 1
+    },
+    {
+     "start": 9.2,
+     "end": 9.82,
+     "n": 1
+    },
+    {
+     "start": 9.82,
+     "end": 10.86,
+     "n": 1
+    },
+    {
+     "start": 11.2,
+     "end": 11.52,
+     "n": 1
+    },
+    {
+     "start": 11.52,
+     "end": 12.06,
+     "n": 1
+    },
+    {
+     "start": 12.06,
+     "end": 12.28,
+     "n": 1
+    },
+    {
+     "start": 12.28,
+     "end": 12.48,
+     "n": 1
+    },
+    {
+     "start": 12.48,
+     "end": 13.3,
+     "n": 1
+    },
+    {
+     "start": 14.1,
+     "end": 15.06,
+     "n": 1
+    },
+    {
+     "start": 15.06,
+     "end": 15.48,
+     "n": 1
+    },
+    {
+     "start": 15.48,
+     "end": 16.24,
+     "n": 1
+    },
+    {
+     "start": 16.24,
+     "end": 16.54,
+     "n": 1
+    },
+    {
+     "start": 16.54,
+     "end": 16.64,
+     "n": 1
+    },
+    {
+     "start": 16.54,
+     "end": 17.9,
+     "n": 1
+    },
+    {
+     "start": 17.9,
+     "end": 18.48,
+     "n": 1
+    },
+    {
+     "start": 18.88,
+     "end": 19.1,
+     "n": 1
+    },
+    {
+     "start": 19.1,
+     "end": 19.56,
+     "n": 1
+    },
+    {
+     "start": 19.56,
+     "end": 20.02,
+     "n": 1
+    },
+    {
+     "start": 20.02,
+     "end": 20.38,
+     "n": 1
+    },
+    {
+     "start": 20.38,
+     "end": 20.48,
+     "n": 1
+    },
+    {
+     "start": 20.38,
+     "end": 21.28,
+     "n": 1
+    },
+    {
+     "start": 21.28,
+     "end": 21.86,
+     "n": 1
+    },
+    {
+     "start": 22.0,
+     "end": 22.36,
+     "n": 1
+    },
+    {
+     "start": 22.36,
+     "end": 23.24,
+     "n": 1
+    },
+    {
+     "start": 23.24,
+     "end": 23.78,
+     "n": 1
+    },
+    {
+     "start": 23.78,
+     "end": 24.34,
+     "n": 1
+    },
+    {
+     "start": 24.34,
+     "end": 25.02,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "1983",
+    "baslik": "Telefon sırası",
+    "bekle": 0.6,
+    "maddeler": [
+     "Abone: 1.675.000",
+     "Sırada bekleyen: 1.750.000"
+    ],
+    "zamanlar": [
+     6.29,
+     11.07
+    ],
+    "basla": 5.99
+   }
+  },
+  {
+   "say": "Telefonu olmayan, komşusuna giderdi. Şehirlerarası bir görüşme için saatlerce beklenirdi.",
+   "caption": "Telefonu olmayan, komşusuna giderdi. Şehirlerarası bir görüşme için saatlerce beklenirdi.",
+   "key": [
+    "komşusuna"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_karagoz.jpg",
+    "fit": "doldur",
+    "baslik": "Telefonla konuşan Karagöz, 1914 (karikatür) · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Telefonla konuşan Karagöz, 1914 (karikatür) · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 25.36,
+     "end": 25.94,
+     "n": 1
+    },
+    {
+     "start": 25.94,
+     "end": 26.42,
+     "n": 1
+    },
+    {
+     "start": 26.42,
+     "end": 27.04,
+     "n": 1
+    },
+    {
+     "start": 27.04,
+     "end": 27.72,
+     "n": 1
+    },
+    {
+     "start": 27.72,
+     "end": 28.68,
+     "n": 1
+    },
+    {
+     "start": 28.68,
+     "end": 28.92,
+     "n": 1
+    },
+    {
+     "start": 28.92,
+     "end": 29.28,
+     "n": 1
+    },
+    {
+     "start": 29.28,
+     "end": 29.68,
+     "n": 1
+    },
+    {
+     "start": 29.68,
+     "end": 30.52,
+     "n": 1
+    },
+    {
+     "start": 30.52,
+     "end": 31.12,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki bu sıra nasıl eridi? PTT yeni, bilgisayarlı santraller kurdu. On yılda milyonlarca hat açıldı, her 100 kişiye düşen telefon 3ten yaklaşık 20ye çıktı.",
+   "caption": "Peki bu sıra nasıl eridi? PTT yeni, bilgisayarlı santraller kurdu. On yılda milyonlarca hat açıldı, her 100 kişiye düşen telefon 3ten yaklaşık 20ye çıktı.",
+   "key": [
+    "bilgisayarlı",
+    "milyonlarca"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_hat_isci1.jpg",
+    "fit": "doldur",
+    "baslik": "Telefon direğinde hat işçisi, 1937 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Telefon direğinde hat işçisi, 1937 · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.54,
+     "end": 31.76,
+     "n": 1
+    },
+    {
+     "start": 31.76,
+     "end": 32.22,
+     "n": 1
+    },
+    {
+     "start": 32.22,
+     "end": 32.52,
+     "n": 1
+    },
+    {
+     "start": 32.52,
+     "end": 32.86,
+     "n": 1
+    },
+    {
+     "start": 32.86,
+     "end": 33.28,
+     "n": 1
+    },
+    {
+     "start": 33.82,
+     "end": 34.32,
+     "n": 1
+    },
+    {
+     "start": 34.32,
+     "end": 34.88,
+     "n": 1
+    },
+    {
+     "start": 34.88,
+     "end": 35.72,
+     "n": 1
+    },
+    {
+     "start": 35.72,
+     "end": 36.3,
+     "n": 1
+    },
+    {
+     "start": 36.3,
+     "end": 36.86,
+     "n": 1
+    },
+    {
+     "start": 37.08,
+     "end": 37.32,
+     "n": 1
+    },
+    {
+     "start": 37.32,
+     "end": 37.8,
+     "n": 1
+    },
+    {
+     "start": 37.8,
+     "end": 38.66,
+     "n": 1
+    },
+    {
+     "start": 38.66,
+     "end": 38.76,
+     "n": 1
+    },
+    {
+     "start": 38.76,
+     "end": 39.28,
+     "n": 1
+    },
+    {
+     "start": 39.72,
+     "end": 39.84,
+     "n": 1
+    },
+    {
+     "start": 39.84,
+     "end": 40.16,
+     "n": 1
+    },
+    {
+     "start": 40.16,
+     "end": 40.48,
+     "n": 1
+    },
+    {
+     "start": 40.48,
+     "end": 40.8,
+     "n": 1
+    },
+    {
+     "start": 40.8,
+     "end": 41.36,
+     "n": 1
+    },
+    {
+     "start": 41.36,
+     "end": 42.04,
+     "n": 1
+    },
+    {
+     "start": 42.04,
+     "end": 42.58,
+     "n": 1
+    },
+    {
+     "start": 42.58,
+     "end": 43.02,
+     "n": 1
+    },
+    {
+     "start": 43.02,
+     "end": 43.38,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "100 KİŞİYE DÜŞEN TELEFON",
+    "baslik": "On yılda",
+    "bekle": 0.6,
+    "maddeler": [
+     "1983: 3",
+     "1993: yaklaşık 20"
+    ],
+    "zamanlar": [
+     10.03,
+     10.71
+    ],
+    "basla": 5.75
+   }
+  },
+  {
+   "say": "Bugün telefon cebimizde. Ama 1980lerin başında bir ev telefonu bile yıllarca beklenirdi.",
+   "caption": "Bugün telefon cebimizde. Ama 1980lerin başında bir ev telefonu bile yıllarca beklenirdi.",
+   "key": [
+    "cebimizde."
+   ],
+   "image": {
+    "local": "assets/belgeler/064_akilli_telefon.jpg",
+    "fit": "doldur",
+    "baslik": "Akıllı telefon · Wikimedia Commons, CC0 (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Akıllı telefon · Wikimedia Commons, CC0 (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 43.88,
+     "end": 44.16,
+     "n": 1
+    },
+    {
+     "start": 44.16,
+     "end": 44.7,
+     "n": 1
+    },
+    {
+     "start": 44.7,
+     "end": 45.42,
+     "n": 1
+    },
+    {
+     "start": 45.82,
+     "end": 46.1,
+     "n": 1
+    },
+    {
+     "start": 46.1,
+     "end": 47.34,
+     "n": 1
+    },
+    {
+     "start": 47.34,
+     "end": 47.98,
+     "n": 1
+    },
+    {
+     "start": 47.98,
+     "end": 48.34,
+     "n": 1
+    },
+    {
+     "start": 48.34,
+     "end": 48.64,
+     "n": 1
+    },
+    {
+     "start": 48.64,
+     "end": 49.1,
+     "n": 1
+    },
+    {
+     "start": 49.1,
+     "end": 49.34,
+     "n": 1
+    },
+    {
+     "start": 49.34,
+     "end": 49.98,
+     "n": 1
+    },
+    {
+     "start": 49.98,
+     "end": 50.62,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizin evinize ilk telefon ne zaman bağlandı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizin evinize ilk telefon ne zaman bağlandı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "bağlandı?"
+   ],
+   "image": {
+    "local": "assets/belgeler/064_operator1941.jpg",
+    "fit": "doldur",
+    "baslik": "Santral memuru, Washington, 1941 · Farm Security Administration · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Santral memuru, Washington, 1941 · Farm Security Administration · Library of Congress, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 51.14,
+     "end": 51.42,
+     "n": 1
+    },
+    {
+     "start": 51.42,
+     "end": 51.9,
+     "n": 1
+    },
+    {
+     "start": 51.9,
+     "end": 52.16,
+     "n": 1
+    },
+    {
+     "start": 52.16,
+     "end": 52.58,
+     "n": 1
+    },
+    {
+     "start": 52.58,
+     "end": 52.86,
+     "n": 1
+    },
+    {
+     "start": 52.86,
+     "end": 53.1,
+     "n": 1
+    },
+    {
+     "start": 53.1,
+     "end": 53.7,
+     "n": 1
+    },
+    {
+     "start": 54.04,
+     "end": 54.78,
+     "n": 1
+    },
+    {
+     "start": 54.78,
+     "end": 55.36,
+     "n": 1
+    },
+    {
+     "start": 55.36,
+     "end": 56.06,
+     "n": 1
+    },
+    {
+     "start": 56.06,
+     "end": 56.88,
+     "n": 1
+    },
+    {
+     "start": 56.88,
+     "end": 57.22,
+     "n": 1
+    },
+    {
+     "start": 57.22,
+     "end": 57.9,
+     "n": 1
+    },
+    {
+     "start": 57.9,
+     "end": 58.76,
+     "n": 1
+    },
+    {
+     "start": 59.22,
+     "end": 59.4,
+     "n": 1
+    },
+    {
+     "start": 59.4,
+     "end": 59.76,
+     "n": 1
+    },
+    {
+     "start": 59.76,
+     "end": 60.14,
+     "n": 1
+    },
+    {
+     "start": 60.14,
+     "end": 60.66,
+     "n": 1
+    },
+    {
+     "start": 60.66,
+     "end": 60.8,
+     "n": 1
+    },
+    {
+     "start": 60.8,
+     "end": 61.2,
+     "n": 1
+    },
+    {
+     "start": 61.2,
+     "end": 61.74,
+     "n": 1
+    },
+    {
+     "start": 61.74,
+     "end": 62.18,
+     "n": 1
+    },
+    {
+     "start": 62.18,
+     "end": 62.74,
+     "n": 1
+    },
+    {
+     "start": 62.74,
+     "end": 63.5,
+     "n": 1
+    },
+    {
+     "start": 63.5,
+     "end": 63.7,
+     "n": 1
+    },
+    {
+     "start": 63.7,
+     "end": 64.1,
+     "n": 1
+    },
+    {
+     "start": 64.1,
+     "end": 64.6,
+     "n": 1
+    },
+    {
+     "start": 64.6,
+     "end": 64.92,
+     "n": 1
+    },
+    {
+     "start": 64.92,
+     "end": 65.52,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
