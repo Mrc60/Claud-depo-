@@ -1,50 +1,24 @@
 {
  "bolum": "077_kuyruk",
  "min_w": 800,
- "sorgular": [
-  "Istanbul 1975",
-  "Istanbul 1977",
-  "Istanbul 1976",
-  "Ankara 1977",
-  "Izmir 1970s",
-  "Turkey 1976 photograph",
-  "Turkey 1978 photograph",
-  "Kapalıçarşı 1970s",
-  "Eminönü 1979",
-  "Istanbul bazaar 1970s photograph"
- ],
+ "sorgular": [],
  "incele": [
-  "File:Istanbul 1979-09-15.jpg",
-  "File:Istanbul waterfront 1979.jpg",
-  "File:United States one dollar bill - DPLA - 45bd6ac4545a643aaa2129459ac41301.jpg",
-  "File:Line at a gas station, June 15, 1979.jpg",
-  "File:Bosporus 20 09 1978 nördlich İstanbul.jpg",
-  "File:Старая крепость в Стамбуле (1978).jpg"
+  "File:Uliczka na bazarze - Istambuł - 000953n.jpg",
+  "File:Uliczka bazarowa - Istambuł - 000948s.jpg",
+  "File:Uliczka - Istambuł - 000963n.jpg"
  ],
  "indir": [
   {
-   "file": "File:Istanbul 1979-09-15.jpg",
-   "ad": "077_istanbul1979.jpg"
+   "file": "File:Uliczka na bazarze - Istambuł - 000953n.jpg",
+   "ad": "077_carsi_sokak.jpg"
   },
   {
-   "file": "File:Istanbul waterfront 1979.jpg",
-   "ad": "077_istanbul_kiyi1979.jpg"
+   "file": "File:Uliczka bazarowa - Istambuł - 000948s.jpg",
+   "ad": "077_carsi_renkli.jpg"
   },
   {
-   "file": "File:United States one dollar bill - DPLA - 45bd6ac4545a643aaa2129459ac41301.jpg",
-   "ad": "077_dolar.jpg"
-  },
-  {
-   "file": "File:Line at a gas station, June 15, 1979.jpg",
-   "ad": "077_benzin_kuyrugu.jpg"
-  },
-  {
-   "file": "File:Bosporus 20 09 1978 nördlich İstanbul.jpg",
-   "ad": "077_bogaz1978.jpg"
-  },
-  {
-   "file": "File:Старая крепость в Стамбуле (1978).jpg",
-   "ad": "077_kale1978.jpg"
+   "file": "File:Uliczka - Istambuł - 000963n.jpg",
+   "ad": "077_sokak.jpg"
   }
  ]
 }
