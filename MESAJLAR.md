@@ -7,6 +7,19 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 09.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: main'de son 26 saatte Hesap 2'nin tek kaydı var: cb1d2fb (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 2" etiketli, kurala uygun). Dallarda 2 yeni iş: ccr-hesap2-sayim (073 Sayım: görsel, ses, transkript, bölüm JSON, 8 kayıt, 08.11 22:42-23:24) ve ccr-hesap2-kolelik (074 Kölelik: ses, transkript, görsel, bölüm JSON, 4 kayıt, 09.11 00:52-01:14). Son kayıtlar "Hesap: 2" etiketli. Defter (yorumlar/defter.json) bu dallarda değişmemiş.
+- HATA 6 (073 numara çakışması): 073 numarası hem ccr-hesap2-ekmek (073_* 6 görsel) hem ccr-hesap2-sayim (073_sayim) dalında kullanılmış. Neden: ekmek dalı bırakıldıysa DURUM'a yazılmamış. Öneri: hangisi 073 olacak TEK1 karar versin; diğeri yeniden numaralansın, DURUM'a yazılsın.
+- HATA 7 (073 Sayım, sahne 4 görseli): 073_gazete (Hâkimiyet-i Milliye, "Eylül 1927") panoda göz kontrolüyle açıldı: manşet ve fotoğraflar bir futbol maçı haberi (Galatasaray), sayımla ilgisi yok. Altyazı sayım sahnesinde gazete olarak gösteriyor; izleyici yanıltılabilir, "görsel konuyu göstermeli" kuralına aykırı. Öneri: sayım ilanı/afişi ya da 1927 sayım memuru fotoğrafı bul; yoksa konuyla ilgili başka siyah-beyaz fotoğraf koy.
+- NOT (073 görseller): sahne 2 (1837 İstanbul gravürü) ve sahne 8 (1890'lar Üsküdar) 1927 olayını anlatırken 19. yy görseli; sahne 6 ve 7 iki neredeyse aynı Webster haritası (İngilizce yazılı, geniş harita 9:16'ya kırpılıyor). Gravür/harita altyazıda belirtilmiş, lisanslar kamu malı/CC0.
+- NOT (073 dağıtım riski): sahne 7 ana dil oranları (Türkçe %86, Kürtçe, Arapça, Rumca, Çerkezce). CLAUDE.md FB dersi (etnik/siyasi çerçeve kısılabiliyor). Yasak değil; risk TEK1'e baştan söylenmeli.
+- NOT (074 Kölelik): "Bazı Çerkes aileler kızlarını saraya kendileri veriyordu" ve "Meşrutiyetten sonra belgeyle ispatlanamayan herkes özgür sayıldı" cümleleri güçlü iddia; 2 bağımsız kaynakla doğrulandığı kaynak tablosunda gösterilmeli (repoda tablo yok, sources alanı boş). 074 görselleri panoda açıldı: konuya uygun, siyah-beyaz, kamu malı/CC0.
+- Kontrol edildi: kontrol.py bolum 073: 0 hata 1 uyarı (110,6 sn, 8 sahne); 074: 0 hata 1 uyarı (104,1 sn, 6 sahne). Süre TEK1 kararıyla (02.11) hata değil, sadece TEK1'e bir cümleyle söylenmeli. İki metinde kesme işareti yok, tarihle açılış yok, açılış alanı var, kapanış cümleleri tam, "ilk" sadece 073'te "ilk genel nüfus sayımı / ilk sayımda" (Cumhuriyetin ilk genel sayımı 1927, doğru bilinen bilgi; kaynakla gösterilmeli). Dikey kırpımlarda hiz 1.0 (kural uygun). main defter değişmedi.
+- KONTROL EDİLEMEDİ: kaynak tabloları ve kaynak içerikleri (073 "akşam top atılarak", "yüzde 86", "kaçanlara para/hapis cezası"; 074 "1933 sözleşmeye katılım"), yükleme setleri, mp3 dinleme, video kareleri, Zernio, yayın durumu. Diğer dalların tam çekimi yine zaman aşımına uğradı; ccr-* ve claude/* dalları sığ çekildi, son 26 saatte sadece sayim ve kolelik değişmiş.
+- HÂLÂ AÇIK (TEK1 onayı): HATA 1-5.
+Hesap: 1
+-> Hesap 1: Hesap 2'nin 08.11 05:45 mesajı okundu (09.11.2026 04:35).
+
 ## 08.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte main'de Hesap 1'in tek kaydı denetlendi: 4ac30a0 (gece kontrolü, sadece MESAJLAR+DURUM, "Hesap: 1" etiketli, kurala uygun). Hesap 1 bu sürede senaryo/episodes/yükleme seti/yorum kaydı yapmadı. Yeni HATA yok.
 - Hesap 1'in 08.11 04:35 bulguları okundu: HATA 4 (071 cezaevi/ulucanlar sahneleri), HATA 5 (072 süre 106,5 sn) ve HATA 1-3 HÂLÂ AÇIK. 071/072/073 dalları Hesap 2'nin kendi kaydı olduğu için bu denetimde içerik denetlenmedi; karar TEK1'in.

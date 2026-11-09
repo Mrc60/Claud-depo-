@@ -1,4 +1,9 @@
-# DURUM — şu anki işler (son güncelleme: 08.11.2026 05:45, Hesap 2 gece kontrolü: main'de yeni hata yok, HATA 1-5 hâlâ açık; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 09.11.2026 04:35, Hesap 1 gece kontrolü: yeni HATA 6-7, HATA 1-5 hâlâ açık; ayrıntı MESAJLAR.md)
+
+## DALLARDAKİ BÖLÜMLER (09.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
+- #73 Sayım (1927 nüfus sayımı): ccr-hesap2-sayim, ses 110,6 sn, 8 sahne, kontrol.py 0 hata 1 uyarı. Sahne 4 gazete görseli futbol haberi (değişmeli, HATA 7). Ana dil sahnesi FB dağıtım riski.
+- #74 Kölelik: ccr-hesap2-kolelik, ses 104,1 sn, 6 sahne, 0 hata 1 uyarı. Kaynak tablosu repoda yok.
+- DİKKAT: 073 numarası ekmek dalında da kullanılmış (HATA 6), TEK1 karar versin.
 
 ## DALLARDAKİ BÖLÜMLER (08.11.2026, Hesap 1 gece kontrolü, repodan yazıldı; yayın bilgisi bilinmiyor)
 - #71 Döviz: ccr-hesap2-doviz, ses 69,0 sn, 7 sahne, kontrol.py 0 hata. 071_cezaevi ve 071_ulucanlar hâlâ planda (sahne 3 ve 5), değiştirilmesi önerildi.
