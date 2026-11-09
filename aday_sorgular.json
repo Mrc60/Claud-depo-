@@ -1,22 +1,54 @@
 {
  "bolum": "076_varlik",
  "min_w": 600,
- "sorgular": [
-  "incategory:Istanbul_in_the_1940s",
-  "incategory:Istanbul_in_the_1930s",
-  "incategory:People_of_Turkey_in_1942",
-  "incategory:İsmet_İnönü_in_1942",
-  "incategory:İsmet_İnönü_in_1943",
-  "incategory:Cumhuriyet_1942",
-  "incategory:Akşam_Newspaper_1943",
-  "vergi defteri 1940",
-  "Treppenstraße Istanbul",
-  "Bundesarchiv Istanbul",
-  "incategory:Erzurum_in_the_1940s",
-  "Erzurum old photograph",
-  "Grand Bazaar Istanbul Sebah",
-  "Kapalıçarşı 1930",
-  "incategory:Grand_Bazaar_(Istanbul)_in_the_19th_century",
-  "incategory:Shops_in_Istanbul_in_the_1930s"
+ "sorgular": [],
+ "incele": [
+  "File:1940 tarihli vergi arazi vergisi defteri.jpg",
+  "File:Şükrü Saracoğlu (1942).jpg",
+  "File:Istanbul, Treppenstraße 1920-45.jpg",
+  "File:Bundesarchiv Bild 137-010760, Europäische Türkei, Straße in Stambul.jpg",
+  "File:Bundesarchiv Bild 137-018648, Türkei, Straße in Stambul.jpg",
+  "File:Üsküdar városrész, Mihrimah szultán mecset. Fortepan 28660.jpg",
+  "File:Istanbul 1930s.jpg",
+  "File:Abdalcık bahar2.jpg",
+  "File:Intérieur du Gran Bazar, by Sébah & Joaillier, c. 1889-1900, from the Digital Commonwealth - commonwealth 3x8195553.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:1940 tarihli vergi arazi vergisi defteri.jpg",
+   "ad": "076_defter"
+  },
+  {
+   "file": "File:Şükrü Saracoğlu (1942).jpg",
+   "ad": "076_saracoglu"
+  },
+  {
+   "file": "File:Istanbul, Treppenstraße 1920-45.jpg",
+   "ad": "076_kamondo"
+  },
+  {
+   "file": "File:Bundesarchiv Bild 137-010760, Europäische Türkei, Straße in Stambul.jpg",
+   "ad": "076_stambul_sokak"
+  },
+  {
+   "file": "File:Bundesarchiv Bild 137-018648, Türkei, Straße in Stambul.jpg",
+   "ad": "076_suleymaniye"
+  },
+  {
+   "file": "File:Üsküdar városrész, Mihrimah szultán mecset. Fortepan 28660.jpg",
+   "ad": "076_uskudar"
+  },
+  {
+   "file": "File:Istanbul 1930s.jpg",
+   "ad": "076_istanbul_1930"
+  },
+  {
+   "file": "File:Abdalcık bahar2.jpg",
+   "ad": "076_askale_kar"
+  },
+  {
+   "file": "File:Intérieur du Gran Bazar, by Sébah & Joaillier, c. 1889-1900, from the Digital Commonwealth - commonwealth 3x8195553.jpg",
+   "ad": "076_kapalicarsi"
+  }
  ]
 }
