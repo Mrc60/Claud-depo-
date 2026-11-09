@@ -1,24 +1,24 @@
 {
  "bolum": "077_kuyruk",
- "min_w": 800,
- "sorgular": [],
- "incele": [
-  "File:Uliczka na bazarze - Istambuł - 000953n.jpg",
-  "File:Uliczka bazarowa - Istambuł - 000948s.jpg",
-  "File:Uliczka - Istambuł - 000963n.jpg"
+ "min_w": 700,
+ "sorgular": [
+  "tüp gaz kuyruğu",
+  "ekmek kuyruğu",
+  "kuyruk 1970",
+  "Tekel sigara paketi",
+  "Samsun sigarası",
+  "Aygaz tüp",
+  "LPG gas cylinder Turkey",
+  "eski bakkal dükkanı",
+  "bakkal Türkiye",
+  "Banknotes of Turkey 1970",
+  "100 Türk lirası 1970",
+  "Eminönü 1970s",
+  "Istanbul 1970s street",
+  "Türkiye 1979",
+  "Ankara 1970s",
+  "margarin Türkiye eski"
  ],
- "indir": [
-  {
-   "file": "File:Uliczka na bazarze - Istambuł - 000953n.jpg",
-   "ad": "077_carsi_sokak.jpg"
-  },
-  {
-   "file": "File:Uliczka bazarowa - Istambuł - 000948s.jpg",
-   "ad": "077_carsi_renkli.jpg"
-  },
-  {
-   "file": "File:Uliczka - Istambuł - 000963n.jpg",
-   "ad": "077_sokak.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
