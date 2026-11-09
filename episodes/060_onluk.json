@@ -1,0 +1,296 @@
+{
+  "series": "Sıradan Değil",
+  "voice": "ana",
+  "takip_cagrisi": false,
+  "episode": 60,
+  "slug": "onluk",
+  "title": "Siyah Önlük Kimin Fikriydi",
+  "youtube_title": "Siyah önlük kimin fikriydi? #SıradanDeğil 60",
+  "youtube_description": "",
+  "sources": [],
+  "acilis": "Siyah önlük\nkimin fikriydi?",
+  "dis_ses": {
+    "file": "assets/ses/060_onluk.mp3",
+    "kesimler": [
+      [
+        [
+          0,
+          4.11
+        ]
+      ],
+      [
+        [
+          4.11,
+          21.86
+        ]
+      ],
+      [
+        [
+          21.86,
+          29.98
+        ]
+      ],
+      [
+        [
+          29.98,
+          40.35
+        ]
+      ],
+      [
+        [
+          40.35,
+          53.74
+        ]
+      ],
+      [
+        [
+          53.74,
+          61.5
+        ]
+      ],
+      [
+        [
+          61.5,
+          78.03
+        ]
+      ]
+    ]
+  },
+  "segments": [
+    {
+      "say": "Hepimiz o önlüğü giydik. Peki kimin fikriydi?",
+      "caption": "Hepimiz o önlüğü giydik. Peki kimin fikriydi?",
+      "key": [
+        "kimin fikriydi"
+      ],
+      "bolumler": [
+        {
+          "start": 0,
+          "end": 1.76,
+          "n": 4
+        },
+        {
+          "start": 2.35,
+          "end": 3.84,
+          "n": 3
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_tablo_acilis.jpg",
+        "fit": "doldur",
+        "baslik": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
+        "lisans": "",
+        "kaynak": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
+        "sayfa": "",
+        "hiz": 0.3
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Bir akademik çalışmaya göre hikâye İngilterede başlıyor. Yüzyıllar önce oradaki yardım okullarında çocuklar koyu renk cüppe giyer, boyunlarına beyaz bant takardı. Bu görünüm Fransaya geçti. Orada koyu önlük ve beyaz yaka eşitliğin simgesi sayıldı.",
+      "caption": "Bir akademik çalışmaya göre hikâye İngilterede başlıyor. Yüzyıllar önce oradaki yardım okullarında çocuklar koyu renk cüppe giyer, boyunlarına beyaz bant takardı. Bu görünüm Fransaya geçti. Orada koyu önlük ve beyaz yaka eşitliğin simgesi sayıldı.",
+      "key": [
+        "İngilterede",
+        "eşitliğin simgesi"
+      ],
+      "bolumler": [
+        {
+          "start": 4.37,
+          "end": 7.94,
+          "n": 7
+        },
+        {
+          "start": 8.39,
+          "end": 15.19,
+          "n": 14
+        },
+        {
+          "start": 15.61,
+          "end": 17.26,
+          "n": 4
+        },
+        {
+          "start": 17.67,
+          "end": 21.66,
+          "n": 9
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_gravur.jpg",
+        "fit": "doldur",
+        "baslik": "Christ's Hospital, 1808 gravürü · Rowlandson ve Pugin · kamu malı",
+        "lisans": "",
+        "kaynak": "Christ's Hospital, 1808 gravürü · Rowlandson ve Pugin · kamu malı",
+        "sayfa": "",
+        "hiz": 0.6
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Bizde ise Cumhuriyet döneminde en yaygın okul kıyafeti oldu. Ama işin zorunlu hâle geldiği yıl 1981.",
+      "caption": "Bizde ise Cumhuriyet döneminde en yaygın okul kıyafeti oldu. Ama işin zorunlu hâle geldiği yıl 1981.",
+      "key": [
+        "1981"
+      ],
+      "bolumler": [
+        {
+          "start": 22.07,
+          "end": 25.81,
+          "n": 9
+        },
+        {
+          "start": 26.23,
+          "end": 29.81,
+          "n": 7
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_ocakli.jpg",
+        "fit": "doldur",
+        "baslik": "Ocaklı Köyü İlkokulu · arşivimizden",
+        "lisans": "",
+        "kaynak": "Ocaklı Köyü İlkokulu · arşivimizden",
+        "sayfa": "",
+        "hiz": 0.6
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Bakanlar Kurulu ilkokullar için şunu yazdı: “Siyah önlük giyerler, beyaz yaka takarlar.” Yani artık giymek zorundaydık.",
+      "caption": "Bakanlar Kurulu ilkokullar için şunu yazdı: “Siyah önlük giyerler, beyaz yaka takarlar.” Yani artık giymek zorundaydık.",
+      "key": [
+        "zorundaydık"
+      ],
+      "bolumler": [
+        {
+          "start": 30.16,
+          "end": 32.82,
+          "n": 6
+        },
+        {
+          "start": 33.24,
+          "end": 36.08,
+          "n": 6
+        },
+        {
+          "start": 36.5,
+          "end": 40.17,
+          "n": 4
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_portre.jpg",
+        "fit": "doldur",
+        "baslik": "Arşivimizden bir okul fotoğrafı",
+        "lisans": "",
+        "kaynak": "Arşivimizden bir okul fotoğrafı",
+        "sayfa": "",
+        "hiz": 0.15
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Sonra renk değişti. Eylül 1990da İzmir Milli Eğitim Müdürlüğü, öğrencinin isterse mavi giyebileceğini açıkladı. Bir yıl sonra vitrinler maviydi. Mağaza sahipleri elde kalan siyah önlüklerden yakınıyordu.",
+      "caption": "Sonra renk değişti. Eylül 1990da İzmir Milli Eğitim Müdürlüğü, öğrencinin isterse mavi giyebileceğini açıkladı. Bir yıl sonra vitrinler maviydi. Mağaza sahipleri elde kalan siyah önlüklerden yakınıyordu.",
+      "key": [
+        "mavi giyebileceğini",
+        "vitrinler maviydi"
+      ],
+      "bolumler": [
+        {
+          "start": 40.58,
+          "end": 47.15,
+          "n": 14
+        },
+        {
+          "start": 47.48,
+          "end": 49.6,
+          "n": 5
+        },
+        {
+          "start": 49.99,
+          "end": 53.5,
+          "n": 7
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_mavi_erkek.jpg",
+        "fit": "doldur",
+        "baslik": "Arşivimizden bir okul fotoğrafı",
+        "lisans": "",
+        "kaynak": "Arşivimizden bir okul fotoğrafı",
+        "sayfa": "",
+        "hiz": 0.6
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "2012de kıyafet serbest bırakıldı. Bir Avrupa okul kıyafeti, yıllarca bizim çocukluğumuzun kıyafeti oldu.",
+      "caption": "2012de kıyafet serbest bırakıldı. Bir Avrupa okul kıyafeti, yıllarca bizim çocukluğumuzun kıyafeti oldu.",
+      "key": [
+        "serbest"
+      ],
+      "bolumler": [
+        {
+          "start": 53.98,
+          "end": 56.49,
+          "n": 4
+        },
+        {
+          "start": 56.86,
+          "end": 61.28,
+          "n": 9
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_kizlar.jpg",
+        "fit": "doldur",
+        "baslik": "Arşivimizden bir okul fotoğrafı",
+        "lisans": "",
+        "kaynak": "Arşivimizden bir okul fotoğrafı",
+        "sayfa": "",
+        "hiz": 0.6
+      },
+      "scene": "photo"
+    },
+    {
+      "say": "Yıllarca giydiğimiz önlüğün Avrupa kökenli olduğunu biliyor muydunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+      "caption": "Yıllarca giydiğimiz önlüğün Avrupa kökenli olduğunu biliyor muydunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+      "key": [
+        "biliyor muydunuz"
+      ],
+      "bolumler": [
+        {
+          "start": 61.67,
+          "end": 65.49,
+          "n": 8
+        },
+        {
+          "start": 65.92,
+          "end": 67.86,
+          "n": 3
+        },
+        {
+          "start": 68.25,
+          "end": 70.87,
+          "n": 4
+        },
+        {
+          "start": 71.2,
+          "end": 77.77,
+          "n": 15
+        }
+      ],
+      "image": {
+        "local": "assets/belgeler/060_tablo.jpg",
+        "fit": "doldur",
+        "baslik": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
+        "lisans": "",
+        "kaynak": "Blue Coat okulu öğrencisi, 1916 tablosu · G. W. Lambert · kamu malı",
+        "sayfa": "",
+        "hiz": 0.6
+      },
+      "scene": "photo"
+    }
+  ]
+}
