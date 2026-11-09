@@ -222,6 +222,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - EKRAN GÖRÜNTÜSÜ (TEK1 kararı, 02.11.2026): Ekran görüntüsü atınca ekranda ne olduğunu anlat, bana faydalı mı zararlı mı söyle, net öneri ver. Geri soru sorma, "bilmiyorum, sen söyle" deme; elimdeki bilgiyle öner, emin olmadığımı ayrıca belirt.
 - YATAY FOTOĞRAF (03.11.2026): Yatay fotoğrafı bulanık zemine koyup ekranın üstüne yerleştirme (altı boş/bulanık kalıyor, TEK1 iki kez yakaladı: Önlük ve Çarşaf). Dikey 9:16 kırp (kişiler kadrajda kalsın), ekranı tamamen doldursun.
 - EKRAN GÖRÜNTÜSÜ (TEK1 kararı, 02.11.2026): Ekran görüntüsü atınca ekranda ne olduğunu anlat, faydalı mı zararlı mı söyle, net öneri ver; geri soru sorma.
+- SENARYO AYRINTISI (TEK1 kararı, 03.11.2026): Senaryo ayrıntılı, akıcı ve anlaşılır olsun; ucu kapalı, sıkıştırılmış anlatım yok. Her bölümde olayı, kimin neyi neden yaptığını ve sonucunu açıkça anlat; adları ve terimleri açıkla. Kısa tutmak için bilgiyi kırpma; süre uzarsa TEK1 karar verir.
 - Görsel önermeden önce fotoğrafı AÇ (pano). Künyeye bakıp önerdim; düğün fotoğrafında Atatürk vardı.
 - Yorum taslağı: TEK taslak ver, soru yok (dolaylı da yok: "merak ettik", "paylaşırsanız seviniriz"). Göstermeden önce kontrol listesinden geçir.
 - Zernio gönderimi: cevapları TEK TEK sırayla gönder, toplu/paralel gönderme.

@@ -104,3 +104,7 @@
 - YATAY FOTOĞRAF (03.11.2026): Bulanık zemin yok; yatay fotoğraf dikey 9:16 kırpılır, ekranı doldurur.
 - SÜRE (03.11.2026): Ses süresi ~1,7 kelime/sn ile hesaplanır (kontrol.py düzeltildi).
 - EKRAN GÖRÜNTÜSÜ (02.11.2026): Ekranı anlat, faydalı/zararlı söyle, net öneri ver; geri soru sorma.
+
+- SENARYO AYRINTISI (TEK1 kararı, 03.11.2026): Senaryo ayrıntılı, akıcı ve anlaşılır olsun; ucu kapalı, sıkıştırılmış anlatım yok. Her bölümde olayı, kimin neyi neden yaptığını ve sonucunu açıkça anlat; adları ve terimleri açıkla. Kısa tutmak için bilgiyi kırpma; süre uzarsa TEK1 karar verir.
+- KAMERA HIZI (03.11.2026, #62 hatası): Dikey 9:16 kırpılmış fotoğrafta yana kayma payı yok, kamera sadece yakınlaşır. image.hiz 0.12–0.2 verince hareket görünmedi (video sabit kaldı). Dikey kırpımlı görsellerde hiz 1.0 kullan; teslimden önce sahne başı/sonu karesini karşılaştır, aynıysa kamera duruyor demektir.
+- ETİKET SAYISI (TEK1 kararı, 03.11.2026): FB/IG ortak açıklamada HER ZAMAN 4 etiket olsun (ör. #SıradanDeğil #tarih + konuya özel 2 etiket). Instagram en fazla 5 kabul ediyor; etiket erişimi değil aramayı etkiler.
