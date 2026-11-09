@@ -1,16 +1,19 @@
 {
  "bolum": "076_varlik",
- "min_w": 600,
- "sorgular": [],
+ "min_w": 900,
+ "sorgular": [
+  "Fortepan Isztambul",
+  "Fortepan Törökország",
+  "Fortepan Isztambul bazár",
+  "Fortepan Isztambul utca",
+  "İnönü Cairo 1943 Library of Congress",
+  "İsmet İnönü portrait 1940s"
+ ],
  "incele": [],
  "indir": [
   {
    "file": "File:1940 tarihli vergi arazi vergisi defteri.jpg",
    "ad": "076_defter.jpg"
-  },
-  {
-   "file": "File:Şükrü Saracoğlu (1942).jpg",
-   "ad": "076_saracoglu.jpg"
   },
   {
    "file": "File:Istanbul, Treppenstraße 1920-45.jpg",
@@ -21,16 +24,8 @@
    "ad": "076_stambul_sokak.jpg"
   },
   {
-   "file": "File:Bundesarchiv Bild 137-018648, Türkei, Straße in Stambul.jpg",
-   "ad": "076_suleymaniye.jpg"
-  },
-  {
    "file": "File:Üsküdar városrész, Mihrimah szultán mecset. Fortepan 28660.jpg",
    "ad": "076_uskudar.jpg"
-  },
-  {
-   "file": "File:Istanbul 1930s.jpg",
-   "ad": "076_istanbul_1930.jpg"
   },
   {
    "file": "File:Abdalcık bahar2.jpg",
@@ -39,6 +34,10 @@
   {
    "file": "File:Intérieur du Gran Bazar, by Sébah & Joaillier, c. 1889-1900, from the Digital Commonwealth - commonwealth 3x8195553.jpg",
    "ad": "076_kapalicarsi.jpg"
+  },
+  {
+   "file": "File:Roosevelt Inönü and Churchill in Cairo cph.3b15312.jpg",
+   "ad": "076_kahire.jpg"
   }
  ]
 }
