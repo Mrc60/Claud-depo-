@@ -100,3 +100,7 @@
 - FB SİYASİ DAĞITIM (04.11.2026, #62 hatası): Facebook #62'yi (Müslüman ülkelerde savaş) siyasi/sosyal mesele sayıp keşfete koymadı (373 görüntüleme, 19 videonun en düşüğü; Meta asistanına göre dağıtım skoru -13, diğerleri -1/-3). Tarih anlatısı (Lozan 250 bin, Musul 85 bin) kısılmıyor; bugün süren savaşlar, ülke/lider adları (İran, Suudi, Esad, Rusya, ABD işgali) ve din-siyaset çerçevesi ('Müslüman ülkeler') kısılıyor. Bu tür konuyu önerme; önerirsen dağıtım riskini baştan söyle. Kısılan videoyu silip tekrar atma. Meta asistanının 'Wikipedia kaynak ekranı eğitici etiket getirir' önerisi kanıtsız, uygulama. En iyi FB sonucu gündelik hayat konuları (kibrit 385 bin, bisiklet 198 bin).
 
 - EKRAN GÖRÜNTÜSÜ (TEK1 kararı, 02.11.2026): Ekran görüntüsü atınca ekranda ne olduğunu anlat, bana faydalı mı zararlı mı söyle, net öneri ver. Geri soru sorma, "bilmiyorum, sen söyle" deme; elimdeki bilgiyle öner, emin olmadığımı ayrıca belirt.
+
+- YATAY FOTOĞRAF (03.11.2026): Bulanık zemin yok; yatay fotoğraf dikey 9:16 kırpılır, ekranı doldurur.
+- SÜRE (03.11.2026): Ses süresi ~1,7 kelime/sn ile hesaplanır (kontrol.py düzeltildi).
+- EKRAN GÖRÜNTÜSÜ (02.11.2026): Ekranı anlat, faydalı/zararlı söyle, net öneri ver; geri soru sorma.
