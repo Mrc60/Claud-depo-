@@ -1,0 +1,866 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 71,
+ "slug": "doviz",
+ "title": "Döviz Tutmak Hapis Sebebiydi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Döviz tutmak\nhapis sebebiydi!",
+ "dis_ses": {
+  "file": "assets/ses/071_doviz.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.86
+    ]
+   ],
+   [
+    [
+     7.86,
+     21.01
+    ]
+   ],
+   [
+    [
+     21.01,
+     36.0
+    ]
+   ],
+   [
+    [
+     36.0,
+     44.96
+    ]
+   ],
+   [
+    [
+     44.96,
+     51.74
+    ]
+   ],
+   [
+    [
+     51.74,
+     58.99
+    ]
+   ],
+   [
+    [
+     58.99,
+     69.0
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bugün bir döviz bürosuna girip dolar alabiliyoruz. Ama bir zamanlar kuralına uymadan döviz tutmak, hapis sebebiydi.",
+   "caption": "Bugün bir döviz bürosuna girip dolar alabiliyoruz. Ama bir zamanlar kuralına uymadan döviz tutmak, hapis sebebiydi.",
+   "key": [
+    "hapis"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_dolar20.jpg",
+    "fit": "doldur",
+    "baslik": "20 dolarlık banknot, 1928 · National Museum of American History / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "20 dolarlık banknot, 1928 · National Museum of American History / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0.02,
+     1.0,
+     0.478
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.46,
+     "n": 1
+    },
+    {
+     "start": 0.46,
+     "end": 0.8,
+     "n": 1
+    },
+    {
+     "start": 0.8,
+     "end": 1.12,
+     "n": 1
+    },
+    {
+     "start": 1.12,
+     "end": 1.62,
+     "n": 1
+    },
+    {
+     "start": 1.62,
+     "end": 1.96,
+     "n": 1
+    },
+    {
+     "start": 1.96,
+     "end": 2.3,
+     "n": 1
+    },
+    {
+     "start": 2.3,
+     "end": 3.1,
+     "n": 1
+    },
+    {
+     "start": 3.54,
+     "end": 3.64,
+     "n": 1
+    },
+    {
+     "start": 3.64,
+     "end": 3.9,
+     "n": 1
+    },
+    {
+     "start": 3.9,
+     "end": 4.58,
+     "n": 1
+    },
+    {
+     "start": 4.58,
+     "end": 5.12,
+     "n": 1
+    },
+    {
+     "start": 5.12,
+     "end": 5.68,
+     "n": 1
+    },
+    {
+     "start": 5.68,
+     "end": 6.04,
+     "n": 1
+    },
+    {
+     "start": 6.04,
+     "end": 6.64,
+     "n": 1
+    },
+    {
+     "start": 6.64,
+     "end": 7.02,
+     "n": 1
+    },
+    {
+     "start": 7.02,
+     "end": 7.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1929 dünya krizinden sonra, 1930da Türk lirasının değerini korumak için bir kanun çıkarıldı. Bu kanunla döviz alım satımına sınır koyma yetkisi hükümete verildi.",
+   "caption": "1929 dünya krizinden sonra, 1930da Türk lirasının değerini korumak için bir kanun çıkarıldı. Bu kanunla döviz alım satımına sınır koyma yetkisi hükümete verildi.",
+   "key": [
+    "1929"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_wallstreet.jpg",
+    "fit": "doldur",
+    "baslik": "1929 krizi, New York Borsası önünde kalabalık · Associated Press / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "1929 krizi, New York Borsası önünde kalabalık · Associated Press / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.48,
+     "end": 9.4,
+     "n": 1
+    },
+    {
+     "start": 9.4,
+     "end": 9.94,
+     "n": 1
+    },
+    {
+     "start": 9.94,
+     "end": 10.6,
+     "n": 1
+    },
+    {
+     "start": 10.6,
+     "end": 11.14,
+     "n": 1
+    },
+    {
+     "start": 11.66,
+     "end": 12.56,
+     "n": 1
+    },
+    {
+     "start": 12.56,
+     "end": 12.84,
+     "n": 1
+    },
+    {
+     "start": 12.84,
+     "end": 13.32,
+     "n": 1
+    },
+    {
+     "start": 13.32,
+     "end": 13.76,
+     "n": 1
+    },
+    {
+     "start": 13.76,
+     "end": 14.26,
+     "n": 1
+    },
+    {
+     "start": 14.26,
+     "end": 14.48,
+     "n": 1
+    },
+    {
+     "start": 14.48,
+     "end": 14.8,
+     "n": 1
+    },
+    {
+     "start": 14.8,
+     "end": 15.08,
+     "n": 1
+    },
+    {
+     "start": 15.08,
+     "end": 15.9,
+     "n": 1
+    },
+    {
+     "start": 16.2,
+     "end": 16.36,
+     "n": 1
+    },
+    {
+     "start": 16.36,
+     "end": 17.1,
+     "n": 1
+    },
+    {
+     "start": 17.1,
+     "end": 17.58,
+     "n": 1
+    },
+    {
+     "start": 17.58,
+     "end": 17.88,
+     "n": 1
+    },
+    {
+     "start": 17.88,
+     "end": 18.34,
+     "n": 1
+    },
+    {
+     "start": 18.34,
+     "end": 18.74,
+     "n": 1
+    },
+    {
+     "start": 18.74,
+     "end": 19.04,
+     "n": 1
+    },
+    {
+     "start": 19.04,
+     "end": 19.54,
+     "n": 1
+    },
+    {
+     "start": 19.54,
+     "end": 20.08,
+     "n": 1
+    },
+    {
+     "start": 20.08,
+     "end": 20.92,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki kurala uymayana ne oluyordu? Önce sadece para cezası vardı. Sonra hapis de eklendi: üç aydan üç yıla kadar. Yani uzun yıllar boyunca bir vatandaşın elinde döviz tutması serbest değildi.",
+   "caption": "Peki kurala uymayana ne oluyordu? Önce sadece para cezası vardı. Sonra hapis de eklendi: üç aydan üç yıla kadar. Yani uzun yıllar boyunca bir vatandaşın elinde döviz tutması serbest değildi.",
+   "key": [
+    "hapis"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_cezaevi.jpg",
+    "fit": "doldur",
+    "baslik": "Eski Sultanahmet Cezaevi kapısı · Vikiçizer / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Eski Sultanahmet Cezaevi kapısı · Vikiçizer / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 21.1,
+     "end": 21.58,
+     "n": 1
+    },
+    {
+     "start": 21.58,
+     "end": 22.14,
+     "n": 1
+    },
+    {
+     "start": 22.14,
+     "end": 22.62,
+     "n": 1
+    },
+    {
+     "start": 22.62,
+     "end": 22.88,
+     "n": 1
+    },
+    {
+     "start": 22.88,
+     "end": 23.32,
+     "n": 1
+    },
+    {
+     "start": 23.9,
+     "end": 24.54,
+     "n": 1
+    },
+    {
+     "start": 24.54,
+     "end": 25.0,
+     "n": 1
+    },
+    {
+     "start": 25.0,
+     "end": 25.36,
+     "n": 1
+    },
+    {
+     "start": 25.36,
+     "end": 25.8,
+     "n": 1
+    },
+    {
+     "start": 25.8,
+     "end": 26.24,
+     "n": 1
+    },
+    {
+     "start": 26.62,
+     "end": 26.96,
+     "n": 1
+    },
+    {
+     "start": 26.96,
+     "end": 27.2,
+     "n": 1
+    },
+    {
+     "start": 27.2,
+     "end": 27.44,
+     "n": 1
+    },
+    {
+     "start": 27.44,
+     "end": 28.06,
+     "n": 1
+    },
+    {
+     "start": 28.06,
+     "end": 28.74,
+     "n": 1
+    },
+    {
+     "start": 28.74,
+     "end": 29.32,
+     "n": 1
+    },
+    {
+     "start": 29.32,
+     "end": 29.64,
+     "n": 1
+    },
+    {
+     "start": 29.64,
+     "end": 29.9,
+     "n": 1
+    },
+    {
+     "start": 29.9,
+     "end": 30.36,
+     "n": 1
+    },
+    {
+     "start": 30.82,
+     "end": 31.12,
+     "n": 1
+    },
+    {
+     "start": 31.12,
+     "end": 31.64,
+     "n": 1
+    },
+    {
+     "start": 31.64,
+     "end": 32.06,
+     "n": 1
+    },
+    {
+     "start": 32.06,
+     "end": 32.64,
+     "n": 1
+    },
+    {
+     "start": 32.64,
+     "end": 32.92,
+     "n": 1
+    },
+    {
+     "start": 32.92,
+     "end": 33.54,
+     "n": 1
+    },
+    {
+     "start": 33.54,
+     "end": 33.92,
+     "n": 1
+    },
+    {
+     "start": 33.92,
+     "end": 34.34,
+     "n": 1
+    },
+    {
+     "start": 34.34,
+     "end": 34.78,
+     "n": 1
+    },
+    {
+     "start": 34.78,
+     "end": 35.28,
+     "n": 1
+    },
+    {
+     "start": 35.28,
+     "end": 35.88,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "KURALA UYMAYANA",
+    "baslik": "Ceza",
+    "bekle": 0.6,
+    "maddeler": [
+     "Önce: para cezası",
+     "Sonra: 3 ay - 3 yıl hapis"
+    ],
+    "basla": 2.59,
+    "zamanlar": [
+     2.89,
+     5.61
+    ]
+   }
+  },
+  {
+   "say": "Bu durum 1984te değişti. Yeni kararlarla insanlar döviz bulundurabildi, bankada döviz hesabı açabildi.",
+   "caption": "Bu durum 1984te değişti. Yeni kararlarla insanlar döviz bulundurabildi, bankada döviz hesabı açabildi.",
+   "key": [
+    "1984te"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_dolar2.jpg",
+    "fit": "doldur",
+    "baslik": "2 dolarlık banknot, 1928 · National Museum of American History / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "2 dolarlık banknot, 1928 · National Museum of American History / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.02,
+     0.04,
+     0.98,
+     0.477
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 36.42,
+     "end": 36.54,
+     "n": 1
+    },
+    {
+     "start": 36.54,
+     "end": 36.88,
+     "n": 1
+    },
+    {
+     "start": 36.88,
+     "end": 38.44,
+     "n": 1
+    },
+    {
+     "start": 38.44,
+     "end": 39.08,
+     "n": 1
+    },
+    {
+     "start": 39.5,
+     "end": 39.74,
+     "n": 1
+    },
+    {
+     "start": 39.74,
+     "end": 40.58,
+     "n": 1
+    },
+    {
+     "start": 40.58,
+     "end": 41.12,
+     "n": 1
+    },
+    {
+     "start": 41.12,
+     "end": 41.58,
+     "n": 1
+    },
+    {
+     "start": 41.58,
+     "end": 42.6,
+     "n": 1
+    },
+    {
+     "start": 42.84,
+     "end": 43.26,
+     "n": 1
+    },
+    {
+     "start": 43.26,
+     "end": 43.68,
+     "n": 1
+    },
+    {
+     "start": 43.68,
+     "end": 44.14,
+     "n": 1
+    },
+    {
+     "start": 44.14,
+     "end": 44.84,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "YASAĞIN SONU",
+    "baslik": "Döviz serbest",
+    "bekle": 0.6,
+    "maddeler": [
+     "Döviz bulundurmak serbest",
+     "Bankada döviz hesabı"
+    ],
+    "basla": 0.58,
+    "zamanlar": [
+     0.88,
+     6.84
+    ]
+   }
+  },
+  {
+   "say": "Bir yıl sonra hapis cezası da kaldırıldı. Bu suçtan cezaevinde olanlar hemen serbest bırakıldı.",
+   "caption": "Bir yıl sonra hapis cezası da kaldırıldı. Bu suçtan cezaevinde olanlar hemen serbest bırakıldı.",
+   "key": [
+    "serbest"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_ulucanlar.jpg",
+    "fit": "doldur",
+    "baslik": "Ulucanlar Cezaevi Müzesinde eski gazete · Furkan Akkurt / Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Ulucanlar Cezaevi Müzesinde eski gazete · Furkan Akkurt / Wikimedia Commons, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 45.16,
+     "end": 45.42,
+     "n": 1
+    },
+    {
+     "start": 45.42,
+     "end": 45.58,
+     "n": 1
+    },
+    {
+     "start": 45.58,
+     "end": 46.02,
+     "n": 1
+    },
+    {
+     "start": 46.02,
+     "end": 46.44,
+     "n": 1
+    },
+    {
+     "start": 46.44,
+     "end": 46.96,
+     "n": 1
+    },
+    {
+     "start": 46.96,
+     "end": 47.16,
+     "n": 1
+    },
+    {
+     "start": 47.16,
+     "end": 47.7,
+     "n": 1
+    },
+    {
+     "start": 48.26,
+     "end": 48.4,
+     "n": 1
+    },
+    {
+     "start": 48.4,
+     "end": 48.84,
+     "n": 1
+    },
+    {
+     "start": 48.84,
+     "end": 49.58,
+     "n": 1
+    },
+    {
+     "start": 49.58,
+     "end": 50.26,
+     "n": 1
+    },
+    {
+     "start": 50.26,
+     "end": 50.62,
+     "n": 1
+    },
+    {
+     "start": 50.62,
+     "end": 51.08,
+     "n": 1
+    },
+    {
+     "start": 51.08,
+     "end": 51.62,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizce o yıllarda döviz tutanlar onu nerede saklıyordu? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce o yıllarda döviz tutanlar onu nerede saklıyordu? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "saklıyordu?"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_carsi_dukkan.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul çarşısında bir dükkân · G. Berggren / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbul çarşısında bir dükkân · G. Berggren / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 52.34,
+     "end": 52.84,
+     "n": 1
+    },
+    {
+     "start": 52.84,
+     "end": 53.1,
+     "n": 1
+    },
+    {
+     "start": 53.1,
+     "end": 53.58,
+     "n": 1
+    },
+    {
+     "start": 53.58,
+     "end": 54.0,
+     "n": 1
+    },
+    {
+     "start": 54.0,
+     "end": 54.68,
+     "n": 1
+    },
+    {
+     "start": 54.68,
+     "end": 54.92,
+     "n": 1
+    },
+    {
+     "start": 54.92,
+     "end": 55.3,
+     "n": 1
+    },
+    {
+     "start": 55.3,
+     "end": 55.96,
+     "n": 1
+    },
+    {
+     "start": 55.96,
+     "end": 57.44,
+     "n": 1
+    },
+    {
+     "start": 57.44,
+     "end": 58.04,
+     "n": 1
+    },
+    {
+     "start": 58.04,
+     "end": 58.94,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "takip"
+   ],
+   "image": {
+    "local": "assets/belgeler/071_lira1927.jpg",
+    "fit": "doldur",
+    "baslik": "5 liralık Türk banknotu, 1927 · TCMB / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "5 liralık Türk banknotu, 1927 · TCMB / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 59.04,
+     "end": 59.68,
+     "n": 1
+    },
+    {
+     "start": 59.68,
+     "end": 60.0,
+     "n": 1
+    },
+    {
+     "start": 60.0,
+     "end": 60.68,
+     "n": 1
+    },
+    {
+     "start": 60.68,
+     "end": 61.8,
+     "n": 1
+    },
+    {
+     "start": 62.16,
+     "end": 62.4,
+     "n": 1
+    },
+    {
+     "start": 62.4,
+     "end": 62.78,
+     "n": 1
+    },
+    {
+     "start": 62.78,
+     "end": 63.2,
+     "n": 1
+    },
+    {
+     "start": 63.2,
+     "end": 63.72,
+     "n": 1
+    },
+    {
+     "start": 63.72,
+     "end": 63.88,
+     "n": 1
+    },
+    {
+     "start": 63.88,
+     "end": 64.3,
+     "n": 1
+    },
+    {
+     "start": 64.3,
+     "end": 64.88,
+     "n": 1
+    },
+    {
+     "start": 64.88,
+     "end": 65.38,
+     "n": 1
+    },
+    {
+     "start": 65.38,
+     "end": 65.94,
+     "n": 1
+    },
+    {
+     "start": 65.94,
+     "end": 66.74,
+     "n": 1
+    },
+    {
+     "start": 66.74,
+     "end": 66.96,
+     "n": 1
+    },
+    {
+     "start": 66.96,
+     "end": 67.34,
+     "n": 1
+    },
+    {
+     "start": 67.34,
+     "end": 67.96,
+     "n": 1
+    },
+    {
+     "start": 67.96,
+     "end": 68.32,
+     "n": 1
+    },
+    {
+     "start": 68.32,
+     "end": 68.92,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
