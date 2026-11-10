@@ -1,16 +1,24 @@
 {
- "bolum": "078_nufus",
- "min_w": 900,
- "sorgular": [],
+ "bolum": "079_ebe",
+ "min_w": 700,
+ "sorgular": [
+  "Turkish midwife",
+  "midwife Turkey photograph",
+  "ebe Türkiye fotoğraf",
+  "köy ebesi",
+  "Ebe Mektebi",
+  "Besim Ömer Akalın",
+  "Turkish village woman baby",
+  "Anatolian village women 1930s",
+  "Turkey village 1930 photograph",
+  "Turkish peasant mother child photograph",
+  "Anatolia village 1950s Fortepan",
+  "Matson Collection Anatolia village women",
+  "sağlık ocağı",
+  "Turkey nurse 1950s photograph",
+  "Kızılay hemşire",
+  "Turkish mother and baby 1940s"
+ ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 2 - Planche 006.jpg",
-   "ad": "078_elbise_1873.jpg"
-  },
-  {
-   "file": "File:Bab-I-Ali (\"la Sublime Porte\"), porte d'entrée du palais du grand vizir - A16925.jpg",
-   "ad": "078_babiali.jpg"
-  }
- ]
+ "indir": []
 }
