@@ -1,6 +1,11 @@
 # DURUM — şu anki işler (son güncelleme: 10.11.2026 05:45, Hesap 2 gece kontrolü: Hesap 1 kaydı temiz; yeni HATA 8: 077_istanbul_kiyi1979.jpg renkli; HATA 4 ve 7 açık; ayrıntı MESAJLAR.md)
 
 
+## SOHBET HESABI (11.11.2026 02:00)
+- #78 Nüfus cüzdanı: TEK1 yükleme setini ve kapak talimatını aldı (arastirma/078_nufus_set.txt, kontrol.py set 0 hata). Yayın bilgisi yok.
+- #79 Ebe: senaryo taslağı arastirma/079_ebe_senaryo.txt (kontrol.py metin 0 hata; tahmini 76 sn, gerçekte ~68-70), kaynak tablosu arastirma/079_ebe_kaynaklar.md. GÖRSEL YOK: Commons'ta Türkiye köy ebesi/ebe okulu fotoğrafı bulunamadı. TEK1 kararı bekleniyor (diğer yapay zekâlarla görsel arama / aile fotoğrafı / konuyu ertele). Ses alınmadı.
+- 15 Kasım KKTC videosu için süre daralıyor (hatırlatma 13 Kasım).
+
 ## SOHBET HESABI (11.11.2026 00:20)
 - #78 Nüfus cüzdanı: episodes/078_nufus.json main'de, video 078_nufus.mp4 (71 sn, 7 sahne, kontrol.py bolum 0 hata 1 uyarı: Sait Faik görseli küçük). Senaryo arastirma/078_nufus_senaryo.txt (Sicill-i Nüfus Kanunu TBMM metni, Shaw 1978, Yadi-Ünlü 2024, TBMM gerekçesi 1.6.1976, İHA/AA). Pembe/mavi cüzdan fotoğrafları TEK1'in kendi fotoğrafı, kişisel bilgiler bulanık. TEK1 video onayı ve yükleme seti BEKLİYOR.
 - #77 beklemede: SALT, Exeter, AA'ya izin e-postası gönderildi (10.11 22:15, turkiyenes@gmail.com). Cevap bekleniyor. 077_istanbul_kiyi1979.jpg renkli (HATA 8), değişecek.
