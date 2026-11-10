@@ -2,24 +2,19 @@
  "bolum": "078_nufus",
  "min_w": 700,
  "sorgular": [
-  "Sébah Joaillier portrait Turkish man",
-  "Abdullah Frères portrait man beard",
-  "Ottoman man portrait beard photograph 1880",
-  "Turkish types men Library of Congress",
-  "Ottoman men mustache photograph 1890",
-  "Ottoman women photograph 1890",
-  "Turkish women 1880s photograph",
-  "Ottoman women street Istanbul photograph",
-  "Ottoman clerk photograph",
-  "Ottoman government office interior photograph",
-  "Abdul Hamid II albums office",
-  "Ottoman scribe writing photograph"
+  "Abdullah Frères Turkish women LCCN",
+  "Turkish women Constantinople LCCN",
+  "Sébah Joaillier Turkish women",
+  "Turkish woman portrait 1890 Constantinople",
+  "Abdullah Frères Turkish man LCCN",
+  "Turkish men Constantinople LCCN portrait",
+  "Turkish hodja photograph",
+  "Sublime Porte LCCN",
+  "Bab-ı Âli photograph",
+  "Ottoman Ministry of Interior building",
+  "Ottoman officials group photograph LCCN",
+  "Turkish peasants LCCN"
  ],
  "incele": [],
- "indir": [
-  {"file": "File:Mehmed Âkif Efendi nüfus tezkiresi.jpg", "ad": "078_tezkere_akif.jpg"},
-  {"file": "File:Sait Faik Abasıyanık'ın nüfus cüzdanı.jpg", "ad": "078_cuzdan_saitfaik.jpg"},
-  {"file": "File:T.C. Nüfus Hüviyet Cüzdanı.JPG", "ad": "078_cuzdan_defter.jpg"},
-  {"file": "File:Türk kimlik kartı 2024.jpg", "ad": "078_kimlik_kart.jpg"}
- ]
+ "indir": []
 }
