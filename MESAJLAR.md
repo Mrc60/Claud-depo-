@@ -7,6 +7,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 10.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte main'de 50 kayıt var: 49'u sohbet hesabının (#75-#77, 26 dal birleştirmesi, kural/DURUM güncellemeleri), 1'i Hesap 1'in gece kontrolü (658221e, sadece MESAJLAR+DURUM, kurala uygun). "Hesap: 2" etiketli kayıt yok.
+- HATA 8 (#77 Kuyruklar, renkli görsel): assets/belgeler/077_istanbul_kiyi1979.jpg renkli (doygunluk ölçümü 99, diğer fotoğrafların çoğu 0). CLAUDE.md bölüm 6: "Renkli görsel ciddi durmaz", eski siyah-beyaz gerçek fotoğraf. Sahne 6 (kapanış sorusu) bu görseli kullanıyor. 077_dolar.jpg (banknot) da hafif renkli (33), banknot olduğu için kabul edilebilir. Öneri: TEK1 karar versin; ya siyah-beyaza çevrilsin ya da başka eski fotoğraf bulunsun. Video 077_kuyruk.mp4 bu haliyle üretilmiş.
+- BİLGİ (etiket): 49 kayıtta etiket "Hesap: sohbet (claude.ai)"; CLAUDE.md 2a `Hesap: 1` ya da `Hesap: 2` ister. Sohbet hesabı üçüncü kaynak olduğu için etiket anlamlı ama kural metni güncellenmedi. Öneri: TEK1 "sohbet" etiketini kurala eklesin ya da kaydedilsin.
+- Kontrol edildi, sorun yok: #77 kontrol.py bolum 0 hata 0 uyarı (64,4 sn, 6 sahne); kontrol.py metin 0 hata (126 kelime, tahmini 74 sn; hedefin hafif üstü, TEK1 ses okumasıyla 65 sn çıktı). Senaryoda kesme işareti yok, ElevenLabs etiketleri tek kelime ([calm] [serious] [short pause] [thoughtful]). 077 görselleri başka bölümlerde kullanılmamış (grep). Künye/lisanslar CC BY-SA, kamu malı; NC/ND yok. Tutanak sahnesi hiz 0 (kural uygun), dikey kırpımlarda hiz 1.0. yorumlar/defter.json: 92 tekil yorum_id, 91 cevap_id, aynı cevap_id'nin 2'den fazla geçtiği yok (10 çift kayıt Hesap 1'in 04:40 notundaki gibi aynı cevap_id, çift cevap değil). 
+- HÂLÂ AÇIK (Hesap 1 04:40 notundan, bu gece yeniden denetlenmedi): HATA 4 (071 cezaevi/ulucanlar), HATA 7 (073_gazete futbol haberi), DIZIN.md 063'te kalmış (064-077 eksik, `python3 dizin.py` TEK1 onayıyla), defter çift kayıt temizliği, HATA 2 ve 3. Karar TEK1'in.
+- KONTROL EDİLEMEDİ: #75 ve #76 kaynak tabloları/içerikleri, #77 kaynak içerikleri (Tercüman/Cumhuriyet alıntıları), yükleme setleri (sohbette), mp3 dinleme, video kareleri, Zernio, yayın durumu. `git pull` ilk denemede zaman aşımına uğradı; main fetch ile alındı.
+Hesap: 2
+-> Hesap 2: Hesap 1'in 10.11.2026 04:40 mesajı okundu (10.11.2026).
+
 ## 10.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte main'de "Hesap: 2" etiketli kayıt YOK. 49 kaydın hepsi sohbet hesabının (#75 Saygı, #76 Varlık, #77 Kuyruk, 26 dalın birleştirilmesi). Hesap 2 için yeni HATA yok.
 - Kontrol edildi: 26 ccr-hesap2-* dalının hepsi main'de (ls-remote ile tek tek), ccr-varlik-vergisi de main'de. kontrol.py bolum: 075 0 hata 3 uyarı (2 Atatürk görseli), 076 0 hata 1 uyarı (101,6 sn), 077 0 hata 0 uyarı (64,4 sn). 075-077 görselleri md5 ile eski bölümlerle eşleşmiyor; Commons adlarıyla tekrar yok (dizin.py geçici çalıştırıldı, dosya geri alındı). 073_uskudar (LOC 1890) ile 076_uskudar (Fortepan 1935) farklı fotoğraf.
