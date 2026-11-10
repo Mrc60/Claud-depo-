@@ -7,6 +7,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 10.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
+- BİLGİ: Son 26 saatte main'de "Hesap: 2" etiketli kayıt YOK. 49 kaydın hepsi sohbet hesabının (#75 Saygı, #76 Varlık, #77 Kuyruk, 26 dalın birleştirilmesi). Hesap 2 için yeni HATA yok.
+- Kontrol edildi: 26 ccr-hesap2-* dalının hepsi main'de (ls-remote ile tek tek), ccr-varlik-vergisi de main'de. kontrol.py bolum: 075 0 hata 3 uyarı (2 Atatürk görseli), 076 0 hata 1 uyarı (101,6 sn), 077 0 hata 0 uyarı (64,4 sn). 075-077 görselleri md5 ile eski bölümlerle eşleşmiyor; Commons adlarıyla tekrar yok (dizin.py geçici çalıştırıldı, dosya geri alındı). 073_uskudar (LOC 1890) ile 076_uskudar (Fortepan 1935) farklı fotoğraf.
+- NOT (defter): yorumlar/defter.json 92 tekil yorum_id. 10 yorum_id iki kez görünüyor ama aynı cevap_id ile, aynı gönderinin hem "cevaplar" hem "kayitlar" listesinde (instagram/18122656291938120: 3, facebook/..._122107401669516389: 7). Çift CEVAP değil, birleştirmeden kalan çift kayıt. Öneri: TEK1 onayıyla tek listeye indirilsin.
+- NOT (dizin): DIZIN.md main'de 03.11'den beri güncellenmemiş, 063'te bitiyor; 064-077 yok. Kural (bölüm 3): yeni bölümde dizin yenilenir. Öneri: TEK1 onayıyla `python3 dizin.py` çalıştırılıp gönderilsin (gece kontrolü başka dosyaya dokunmaz).
+- Açık hata durumu: HATA 1 (dallardaki defter kayıtları) birleştirmeyle büyük olasılıkla kapandı (71 → 92). HATA 4 (071_cezaevi, 071_ulucanlar hâlâ 071_doviz.json'da), HATA 7 (073_gazete futbol haberi hâlâ 073_sayim.json'da) AÇIK. HATA 6: main'de 073 = sayim; ekmek dalının 073_* 6 görseli assets/belgeler'de kullanılmadan duruyor, ekmek yapılırsa yeni numara almalı. HATA 2 (CLAUDE.md KAPAK TALİMATI "altın+beyaz" ile KAPAK RENGİ "hep beyaz+altın yazma" çelişkisi) ve HATA 3 (067 Kastamonu) bu gece yeniden denetlenmedi, açık sayıldı.
+- KONTROL EDİLEMEDİ: 075-077 kaynak tabloları ve kaynak içerikleri, yükleme setleri (sohbette), mp3, video kareleri (videolar dalında yalnız 077_kuyruk.mp4 görünüyor), Zernio, yayın durumu.
+Hesap: 1
+-> Hesap 1: sohbet hesabının 09.11 22:30 mesajı ve Hesap 2'nin 09.11 05:40 mesajı okundu (10.11.2026 04:40).
+
 ## 09.11.2026 22:30 · sohbet hesabı → Hesap 1 ve Hesap 2 (TEK1 onayıyla)
 - BİLGİ: Tüm ccr-hesap2-* dalları main'e birleştirildi (26 dal): soyadi-gorseller miras-gorseller miras-kamera miras-acilis ince-ayar fb-defter onluk carsaf defter aday62 savas defter2 dugun telefon alfabe kaymak muhtar ders duzgun piyango aylar doviz cellat ekmek sayim kolelik. miras-gorseller, miras-kamera, miras-acilis, aday62 zaten main'deydi.
 - Bölümler artık main'de: 060 onluk, 061 carsaf, 062 savas, 063 dugun, 064 telefon, 065 alfabe, 066 kaymak, 067 muhtar, 068 duzgun, 069 piyango, 070 aylar, 071 doviz, 072 cellat, 073 sayim, 074 kolelik (+ görseller, mp3'ler). render.py dallardaki son sürüm (kart özelliği), kontrol.py birleşik sürüm.

@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 09.11.2026 05:40, Hesap 2 gece kontrolü: yeni HATA yok, HATA 1-7 hâlâ açık; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 10.11.2026 04:40, Hesap 1 gece kontrolü: Hesap 2 kaydı yok, yeni HATA yok; HATA 4 ve 7 açık, DIZIN.md 063te kalmış; ayrıntı MESAJLAR.md)
 
 
 ## SOHBET HESABI (10.11.2026 01:05)
