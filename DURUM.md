@@ -3,7 +3,8 @@
 
 ## SOHBET HESABI (11.11.2026 02:00)
 - #78 Nüfus cüzdanı: TEK1 yükleme setini ve kapak talimatını aldı (arastirma/078_nufus_set.txt, kontrol.py set 0 hata). Yayın bilgisi yok.
-- #79 Ebe: senaryo taslağı arastirma/079_ebe_senaryo.txt (kontrol.py metin 0 hata; tahmini 76 sn, gerçekte ~68-70), kaynak tablosu arastirma/079_ebe_kaynaklar.md. GÖRSEL YOK: Commons'ta Türkiye köy ebesi/ebe okulu fotoğrafı bulunamadı. TEK1 kararı bekleniyor (diğer yapay zekâlarla görsel arama / aile fotoğrafı / konuyu ertele). Ses alınmadı.
+- #79 Ebe (11.11 13:20 güncelleme): video hazır, videolar/079_ebe.mp4 (70 sn, 8 sahne, LOC 1935 Kapadokya albümleri ppmsca.17164/17410, RG 863, Besim Ömer, sağlık ocağı). TEK1 video onayı ve yükleme seti BEKLİYOR.
+- (eski not) #79 Ebe: senaryo taslağı arastirma/079_ebe_senaryo.txt (kontrol.py metin 0 hata; tahmini 76 sn, gerçekte ~68-70), kaynak tablosu arastirma/079_ebe_kaynaklar.md. GÖRSEL YOK: Commons'ta Türkiye köy ebesi/ebe okulu fotoğrafı bulunamadı. TEK1 kararı bekleniyor (diğer yapay zekâlarla görsel arama / aile fotoğrafı / konuyu ertele). Ses alınmadı.
 - 15 Kasım KKTC videosu için süre daralıyor (hatırlatma 13 Kasım).
 
 ## SOHBET HESABI (11.11.2026 00:20)
