@@ -1,22 +1,16 @@
 {
  "bolum": "079_ebe",
  "min_w": 700,
- "sorgular": [
-  "Fortepan Törökország",
-  "Fortepan Törökország falu",
-  "Fortepan Anatólia",
-  "Turkije boerin",
-  "Turkije dorp vrouwen Anefo",
-  "Bundesarchiv Türkei Bäuerin",
-  "Anatolian peasant woman Carpenter",
-  "Turkish peasant woman LCCN",
-  "Turkish village Anatolia LCCN women",
-  "Viladethane Demirkapı",
-  "Zeynep Kamil Hastanesi",
-  "Haseki Hastanesi eski fotoğraf",
-  "Köy Enstitüsü öğrencileri",
-  "Village Institutes Turkey students girls"
- ],
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:1919 11 13 Serveti Funun Besim Omer.jpg",
+   "ad": "079_besimomer.jpg"
+  },
+  {
+   "file": "File:Kuruağıl Köyü Eski Sağlık Ocağı.jpg",
+   "ad": "079_saglikocagi.jpg"
+  }
+ ]
 }
