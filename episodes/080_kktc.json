@@ -8,6 +8,7 @@
  "youtube_title": "",
  "youtube_description": "",
  "sources": [],
+ "surum": 2,
  "acilis": "Bir ada nasıl\nikiye bölündü?",
  "dis_ses": {
   "file": "assets/ses/080_kktc.mp3",
@@ -39,24 +40,48 @@
    [
     [
      29.26,
+     37.96
+    ]
+   ],
+   [
+    [
+     37.96,
      45.7
     ]
    ],
    [
     [
      45.7,
+     51.96
+    ]
+   ],
+   [
+    [
+     51.96,
      58.76
     ]
    ],
    [
     [
      58.76,
-     81.72
+     68.68
     ]
    ],
    [
     [
-     81.72,
+     68.68,
+     76.92
+    ]
+   ],
+   [
+    [
+     76.92,
+     85.96
+    ]
+   ],
+   [
+    [
+     85.96,
      98.43
     ]
    ]
@@ -412,18 +437,18 @@
    ]
   },
   {
-   "say": "1974te Yunanistandaki askerî yönetimin desteklediği bir darbe gerçekleşti. Cumhurbaşkanı Makarios devrildi. Beş gün sonra Türkiye, garantörlük hakkına dayanarak adaya asker çıkardı. Böylece ada ikiye ayrıldı.",
-   "caption": "1974te Yunanistandaki askerî yönetimin desteklediği bir darbe gerçekleşti. Cumhurbaşkanı Makarios devrildi. Beş gün sonra Türkiye, garantörlük hakkına dayanarak adaya asker çıkardı. Böylece ada ikiye ayrıldı.",
+   "say": "1974te Yunanistandaki askerî yönetimin desteklediği bir darbe gerçekleşti. Cumhurbaşkanı Makarios devrildi.",
+   "caption": "1974te Yunanistandaki askerî yönetimin desteklediği bir darbe gerçekleşti. Cumhurbaşkanı Makarios devrildi.",
    "key": [
     "darbe",
-    "asker"
+    "devrildi."
    ],
    "image": {
-    "local": "assets/belgeler/080_uydu1974_916.jpg",
+    "local": "assets/belgeler/080_makarios1957_916.jpg",
     "fit": "doldur",
-    "baslik": "Kıbrıs kıyısında çıkarma gemileri, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
+    "baslik": "Makarios, 1957 · Anefo, Nationaal Archief, CC0",
     "lisans": "",
-    "kaynak": "Kıbrıs kıyısında çıkarma gemileri, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
+    "kaynak": "Makarios, 1957 · Anefo, Nationaal Archief, CC0",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -489,7 +514,33 @@
      "start": 36.9,
      "end": 37.78,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "Beş gün sonra Türkiye, garantörlük hakkına dayanarak adaya asker çıkardı. Böylece ada ikiye ayrıldı.",
+   "caption": "Beş gün sonra Türkiye, garantörlük hakkına dayanarak adaya asker çıkardı. Böylece ada ikiye ayrıldı.",
+   "key": [
+    "asker",
+    "ikiye"
+   ],
+   "image": {
+    "local": "assets/belgeler/080_uydu1974_916.jpg",
+    "fit": "doldur",
+    "baslik": "Kıbrıs kıyısında çıkarma gemileri, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
+    "lisans": "",
+    "kaynak": "Kıbrıs kıyısında çıkarma gemileri, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 37.96,
      "end": 38.26,
@@ -563,11 +614,10 @@
    ]
   },
   {
-   "say": "15 Kasım 1983te adanın kuzeyinde Kuzey Kıbrıs Türk Cumhuriyeti ilan edildi. Birleşmiş Milletler bu ilanı geçersiz saydı. Bugün, KKTCyi tanıyan tek ülke Türkiye.",
-   "caption": "15 Kasım 1983te adanın kuzeyinde Kuzey Kıbrıs Türk Cumhuriyeti ilan edildi. Birleşmiş Milletler bu ilanı geçersiz saydı. Bugün, KKTCyi tanıyan tek ülke Türkiye.",
+   "say": "15 Kasım 1983te adanın kuzeyinde Kuzey Kıbrıs Türk Cumhuriyeti ilan edildi.",
+   "caption": "15 Kasım 1983te adanın kuzeyinde Kuzey Kıbrıs Türk Cumhuriyeti ilan edildi.",
    "key": [
-    "ilan",
-    "geçersiz"
+    "ilan"
    ],
    "image": {
     "local": "assets/belgeler/080_lefkosa1969_916.jpg",
@@ -640,7 +690,33 @@
      "start": 51.08,
      "end": 51.68,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "Birleşmiş Milletler bu ilanı geçersiz saydı. Bugün, KKTCyi tanıyan tek ülke Türkiye.",
+   "caption": "Birleşmiş Milletler bu ilanı geçersiz saydı. Bugün, KKTCyi tanıyan tek ülke Türkiye.",
+   "key": [
+    "geçersiz",
+    "tek"
+   ],
+   "image": {
+    "local": "assets/belgeler/080_lefkosa1969b_916.jpg",
+    "fit": "doldur",
+    "baslik": "Lefkoşa, 1969 · Brian Harrington Spier / Wikimedia Commons, CC BY-SA 2.0",
+    "lisans": "",
+    "kaynak": "Lefkoşa, 1969 · Brian Harrington Spier / Wikimedia Commons, CC BY-SA 2.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 51.96,
      "end": 52.4,
@@ -704,18 +780,18 @@
    ]
   },
   {
-   "say": "Peki, Kıbrısın yeniden birleşmesi hiç denendi mi? 2004te Birleşmiş Milletlerin hazırladığı birleşme planı halk oylamasına sunuldu. Kıbrıs Türklerinin yüzde 65i evet, Kıbrıs Rumlarının yüzde 76sı ise hayır dedi. Plan reddedildi. Aradan geçen yıllara rağmen Kıbrıs hâlâ iki ayrı yönetim altında.",
-   "caption": "Peki, Kıbrısın yeniden birleşmesi hiç denendi mi? 2004te Birleşmiş Milletlerin hazırladığı birleşme planı halk oylamasına sunuldu. Kıbrıs Türklerinin yüzde 65i evet, Kıbrıs Rumlarının yüzde 76sı ise hayır dedi. Plan reddedildi. Aradan geçen yıllara rağmen Kıbrıs hâlâ iki ayrı yönetim altında.",
+   "say": "Peki, Kıbrısın yeniden birleşmesi hiç denendi mi? 2004te Birleşmiş Milletlerin hazırladığı birleşme planı halk oylamasına sunuldu.",
+   "caption": "Peki, Kıbrısın yeniden birleşmesi hiç denendi mi? 2004te Birleşmiş Milletlerin hazırladığı birleşme planı halk oylamasına sunuldu.",
    "key": [
-    "evet,",
-    "hayır"
+    "birleşmesi",
+    "oylamasına"
    ],
    "image": {
-    "local": "assets/belgeler/080_yesilhat_916.jpg",
+    "local": "assets/belgeler/080_lefkosa1969c_916.jpg",
     "fit": "doldur",
-    "baslik": "Lefkoşada Yeşil Hat üzerinde varil barikatı, günümüz · Julian Nyča / Wikimedia Commons, CC BY-SA 3.0",
+    "baslik": "Lefkoşa, 1969 · Brian Harrington Spier / Wikimedia Commons, CC BY-SA 2.0",
     "lisans": "",
-    "kaynak": "Lefkoşada Yeşil Hat üzerinde varil barikatı, günümüz · Julian Nyča / Wikimedia Commons, CC BY-SA 3.0",
+    "kaynak": "Lefkoşa, 1969 · Brian Harrington Spier / Wikimedia Commons, CC BY-SA 2.0",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -806,7 +882,33 @@
      "start": 67.7,
      "end": 68.48,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "Kıbrıs Türklerinin yüzde 65i evet, Kıbrıs Rumlarının yüzde 76sı ise hayır dedi. Plan reddedildi.",
+   "caption": "Kıbrıs Türklerinin yüzde 65i evet, Kıbrıs Rumlarının yüzde 76sı ise hayır dedi. Plan reddedildi.",
+   "key": [
+    "evet,",
+    "hayır"
+   ],
+   "image": {
+    "local": "assets/belgeler/080_yesilhat_916.jpg",
+    "fit": "doldur",
+    "baslik": "Lefkoşada Yeşil Hat üzerinde varil barikatı, günümüz · Julian Nyča / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Lefkoşada Yeşil Hat üzerinde varil barikatı, günümüz · Julian Nyča / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 68.68,
      "end": 69.02,
@@ -866,7 +968,33 @@
      "start": 75.56,
      "end": 76.64,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "Aradan geçen yıllara rağmen Kıbrıs hâlâ iki ayrı yönetim altında. Peki sizin ailenizde Kıbrısta askerlik yapmış biri var mı?",
+   "caption": "Aradan geçen yıllara rağmen Kıbrıs hâlâ iki ayrı yönetim altında. Peki sizin ailenizde Kıbrısta askerlik yapmış biri var mı?",
+   "key": [
+    "hâlâ",
+    "askerlik"
+   ],
+   "image": {
+    "local": "assets/belgeler/080_uydu1974b_916.jpg",
+    "fit": "doldur",
+    "baslik": "Kıbrıs açıklarında gemiler, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
+    "lisans": "",
+    "kaynak": "Kıbrıs açıklarında gemiler, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 76.92,
      "end": 77.22,
@@ -916,30 +1044,7 @@
      "start": 80.76,
      "end": 81.3,
      "n": 1
-    }
-   ]
-  },
-  {
-   "say": "Peki sizin ailenizde Kıbrısta askerlik yapmış biri var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "caption": "Peki sizin ailenizde Kıbrısta askerlik yapmış biri var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "key": [],
-   "image": {
-    "local": "assets/belgeler/080_uydu1974b_916.jpg",
-    "fit": "doldur",
-    "baslik": "Kıbrıs açıklarında gemiler, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
-    "lisans": "",
-    "kaynak": "Kıbrıs açıklarında gemiler, 20 Temmuz 1974, ABD keşif uydusu görüntüsü · kamu malı",
-    "sayfa": "",
-    "hiz": 1.0,
-    "kirp": [
-     0,
-     0,
-     1,
-     1
-    ]
-   },
-   "scene": "photo",
-   "bolumler": [
+    },
     {
      "start": 81.72,
      "end": 82.32,
@@ -984,7 +1089,30 @@
      "start": 85.36,
      "end": 85.52,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/080_lefkosa1969d_916.jpg",
+    "fit": "doldur",
+    "baslik": "Lefkoşa, 1969 · Brian Harrington Spier / Wikimedia Commons, CC BY-SA 2.0",
+    "lisans": "",
+    "kaynak": "Lefkoşa, 1969 · Brian Harrington Spier / Wikimedia Commons, CC BY-SA 2.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 85.96,
      "end": 86.74,
