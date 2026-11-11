@@ -15,57 +15,57 @@
    [
     [
      0.0,
-     7.5
+     7.44
     ]
    ],
    [
     [
-     7.5,
-     14.88
+     7.44,
+     15.0
     ]
    ],
    [
     [
-     14.88,
-     22.74
+     15.0,
+     22.98
     ]
    ],
    [
     [
-     22.74,
-     32.48
+     22.98,
+     32.78
     ]
    ],
    [
     [
-     32.48,
-     41.96
+     32.78,
+     42.44
     ]
    ],
    [
     [
-     41.96,
-     48.7
+     42.44,
+     49.22
     ]
    ],
    [
     [
-     48.7,
-     55.46
+     49.22,
+     59.16
     ]
    ],
    [
     [
-     55.46,
-     69.64
+     59.16,
+     73.17
     ]
    ]
   ]
  },
  "segments": [
   {
-   "say": "Köyünüzde doğum yaptıran ebe kadın bir gün kanunla suçlu sayıldı. 1928de çıkan kanun,",
-   "caption": "Köyünüzde doğum yaptıran ebe kadın bir gün kanunla suçlu sayıldı. 1928de çıkan kanun,",
+   "say": "Köyünüzde doğum yaptıran ebe kadın, bir gün kanunla suçlu sayıldı. 1928de çıkan kanun,",
+   "caption": "Köyünüzde doğum yaptıran ebe kadın, bir gün kanunla suçlu sayıldı. 1928de çıkan kanun,",
    "key": [
     "ebe",
     "suçlu"
@@ -94,62 +94,62 @@
     },
     {
      "start": 0.7,
-     "end": 1.02,
+     "end": 1.04,
      "n": 1
     },
     {
-     "start": 1.02,
+     "start": 1.04,
      "end": 1.52,
      "n": 1
     },
     {
      "start": 1.52,
-     "end": 1.78,
+     "end": 1.8,
      "n": 1
     },
     {
-     "start": 1.78,
-     "end": 2.06,
+     "start": 1.8,
+     "end": 2.1,
      "n": 1
     },
     {
-     "start": 2.06,
-     "end": 2.68,
+     "start": 2.44,
+     "end": 2.6,
      "n": 1
     },
     {
-     "start": 2.68,
-     "end": 2.92,
+     "start": 2.6,
+     "end": 2.84,
      "n": 1
     },
     {
-     "start": 2.92,
-     "end": 3.48,
+     "start": 2.84,
+     "end": 3.4,
      "n": 1
     },
     {
-     "start": 3.48,
-     "end": 3.82,
+     "start": 3.4,
+     "end": 3.78,
      "n": 1
     },
     {
-     "start": 3.82,
-     "end": 4.38,
+     "start": 3.78,
+     "end": 4.3,
      "n": 1
     },
     {
-     "start": 5.46,
-     "end": 6.34,
+     "start": 5.48,
+     "end": 6.28,
      "n": 1
     },
     {
-     "start": 6.34,
-     "end": 6.68,
+     "start": 6.28,
+     "end": 6.6,
      "n": 1
     },
     {
-     "start": 6.68,
-     "end": 7.26,
+     "start": 6.6,
+     "end": 7.16,
      "n": 1
     }
    ]
@@ -178,72 +178,72 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 7.5,
-     "end": 8.0,
+     "start": 7.44,
+     "end": 7.94,
      "n": 1
     },
     {
-     "start": 8.0,
-     "end": 8.46,
+     "start": 7.94,
+     "end": 8.38,
      "n": 1
     },
     {
-     "start": 8.46,
-     "end": 8.9,
+     "start": 8.38,
+     "end": 8.78,
      "n": 1
     },
     {
-     "start": 8.9,
-     "end": 9.5,
+     "start": 8.78,
+     "end": 9.4,
      "n": 1
     },
     {
-     "start": 9.5,
-     "end": 10.08,
+     "start": 9.4,
+     "end": 10.02,
      "n": 1
     },
     {
-     "start": 10.56,
-     "end": 10.84,
+     "start": 10.48,
+     "end": 10.74,
      "n": 1
     },
     {
-     "start": 10.84,
-     "end": 11.32,
+     "start": 10.74,
+     "end": 11.24,
      "n": 1
     },
     {
-     "start": 11.32,
-     "end": 11.56,
+     "start": 11.24,
+     "end": 11.54,
      "n": 1
     },
     {
-     "start": 11.56,
-     "end": 11.84,
+     "start": 11.54,
+     "end": 11.82,
      "n": 1
     },
     {
-     "start": 11.84,
-     "end": 12.06,
+     "start": 11.82,
+     "end": 12.04,
      "n": 1
     },
     {
-     "start": 12.06,
+     "start": 12.04,
      "end": 12.42,
      "n": 1
     },
     {
-     "start": 12.86,
+     "start": 12.88,
      "end": 13.4,
      "n": 1
     },
     {
      "start": 13.4,
-     "end": 13.72,
+     "end": 13.7,
      "n": 1
     },
     {
-     "start": 13.72,
+     "start": 13.7,
      "end": 14.1,
      "n": 1
     }
@@ -274,73 +274,73 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 14.88,
-     "end": 16.02,
+     "start": 15.0,
+     "end": 16.08,
      "n": 1
     },
     {
-     "start": 16.02,
-     "end": 16.44,
+     "start": 16.08,
+     "end": 16.46,
      "n": 1
     },
     {
-     "start": 16.44,
+     "start": 16.46,
      "end": 16.96,
      "n": 1
     },
     {
      "start": 16.96,
-     "end": 17.26,
+     "end": 17.24,
      "n": 1
     },
     {
-     "start": 17.26,
-     "end": 17.84,
+     "start": 17.24,
+     "end": 17.82,
      "n": 1
     },
     {
-     "start": 17.84,
+     "start": 17.82,
      "end": 18.12,
      "n": 1
     },
     {
      "start": 18.12,
-     "end": 18.5,
+     "end": 18.52,
      "n": 1
     },
     {
-     "start": 18.5,
-     "end": 19.6,
+     "start": 18.52,
+     "end": 19.7,
      "n": 1
     },
     {
-     "start": 19.82,
-     "end": 20.06,
+     "start": 19.9,
+     "end": 20.14,
      "n": 1
     },
     {
-     "start": 20.06,
-     "end": 20.72,
+     "start": 20.14,
+     "end": 20.82,
      "n": 1
     },
     {
-     "start": 20.72,
-     "end": 20.88,
+     "start": 20.82,
+     "end": 20.98,
      "n": 1
     },
     {
-     "start": 20.88,
-     "end": 21.44,
+     "start": 20.98,
+     "end": 21.6,
      "n": 1
     },
     {
-     "start": 21.44,
-     "end": 21.94,
+     "start": 21.6,
+     "end": 22.14,
      "n": 1
     },
     {
-     "start": 21.94,
-     "end": 22.54,
+     "start": 22.14,
+     "end": 22.64,
      "n": 1
     }
    ]
@@ -370,93 +370,93 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 22.74,
-     "end": 23.24,
+     "start": 22.98,
+     "end": 23.5,
      "n": 1
     },
     {
-     "start": 23.24,
-     "end": 23.74,
+     "start": 23.5,
+     "end": 23.98,
      "n": 1
     },
     {
-     "start": 23.74,
-     "end": 24.52,
+     "start": 23.98,
+     "end": 24.76,
      "n": 1
     },
     {
-     "start": 24.74,
-     "end": 25.0,
+     "start": 24.98,
+     "end": 25.24,
      "n": 1
     },
     {
-     "start": 25.0,
-     "end": 25.42,
+     "start": 25.24,
+     "end": 25.68,
      "n": 1
     },
     {
-     "start": 25.42,
-     "end": 25.64,
+     "start": 25.68,
+     "end": 25.88,
      "n": 1
     },
     {
-     "start": 25.64,
-     "end": 25.84,
+     "start": 25.88,
+     "end": 26.1,
      "n": 1
     },
     {
-     "start": 25.84,
-     "end": 26.62,
+     "start": 26.1,
+     "end": 26.84,
      "n": 1
     },
     {
-     "start": 26.62,
-     "end": 27.98,
+     "start": 26.84,
+     "end": 28.22,
      "n": 1
     },
     {
-     "start": 27.98,
-     "end": 28.28,
+     "start": 28.22,
+     "end": 28.5,
      "n": 1
     },
     {
-     "start": 28.28,
-     "end": 28.62,
+     "start": 28.5,
+     "end": 28.84,
      "n": 1
     },
     {
-     "start": 28.62,
-     "end": 29.16,
+     "start": 28.84,
+     "end": 29.4,
      "n": 1
     },
     {
-     "start": 29.16,
-     "end": 29.8,
+     "start": 29.4,
+     "end": 30.04,
      "n": 1
     },
     {
-     "start": 29.8,
-     "end": 30.26,
+     "start": 30.04,
+     "end": 30.46,
      "n": 1
     },
     {
-     "start": 30.26,
-     "end": 30.6,
+     "start": 30.46,
+     "end": 30.78,
      "n": 1
     },
     {
-     "start": 30.6,
-     "end": 30.94,
+     "start": 30.78,
+     "end": 31.16,
      "n": 1
     },
     {
-     "start": 30.94,
-     "end": 31.26,
+     "start": 31.16,
+     "end": 31.48,
      "n": 1
     },
     {
-     "start": 31.26,
-     "end": 32.24,
+     "start": 31.48,
+     "end": 32.54,
      "n": 1
     }
    ]
@@ -486,88 +486,88 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 32.48,
-     "end": 32.9,
+     "start": 32.78,
+     "end": 33.18,
      "n": 1
     },
     {
-     "start": 32.9,
-     "end": 33.42,
+     "start": 33.18,
+     "end": 33.7,
      "n": 1
     },
     {
-     "start": 33.42,
-     "end": 33.88,
+     "start": 33.7,
+     "end": 34.16,
      "n": 1
     },
     {
-     "start": 33.88,
-     "end": 34.14,
+     "start": 34.16,
+     "end": 34.44,
      "n": 1
     },
     {
-     "start": 34.14,
-     "end": 34.7,
+     "start": 34.44,
+     "end": 35.02,
      "n": 1
     },
     {
-     "start": 34.7,
-     "end": 35.22,
+     "start": 35.02,
+     "end": 35.64,
      "n": 1
     },
     {
-     "start": 35.54,
-     "end": 36.46,
+     "start": 35.9,
+     "end": 36.86,
      "n": 1
     },
     {
-     "start": 36.46,
-     "end": 37.04,
+     "start": 36.86,
+     "end": 37.46,
      "n": 1
     },
     {
-     "start": 37.04,
-     "end": 37.62,
+     "start": 37.46,
+     "end": 38.04,
      "n": 1
     },
     {
-     "start": 37.62,
-     "end": 38.1,
+     "start": 38.04,
+     "end": 38.52,
      "n": 1
     },
     {
-     "start": 38.1,
-     "end": 38.36,
+     "start": 38.52,
+     "end": 38.78,
      "n": 1
     },
     {
-     "start": 38.36,
-     "end": 38.76,
+     "start": 38.78,
+     "end": 39.2,
      "n": 1
     },
     {
-     "start": 38.76,
-     "end": 39.48,
+     "start": 39.2,
+     "end": 39.88,
      "n": 1
     },
     {
-     "start": 39.48,
-     "end": 39.78,
+     "start": 39.88,
+     "end": 40.18,
      "n": 1
     },
     {
-     "start": 39.78,
-     "end": 40.12,
+     "start": 40.18,
+     "end": 40.52,
      "n": 1
     },
     {
-     "start": 40.12,
-     "end": 40.56,
+     "start": 40.52,
+     "end": 40.98,
      "n": 1
     },
     {
-     "start": 40.56,
-     "end": 41.32,
+     "start": 40.98,
+     "end": 41.82,
      "n": 1
     }
    ]
@@ -597,65 +597,65 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 41.96,
-     "end": 42.84,
+     "start": 42.44,
+     "end": 43.36,
      "n": 1
     },
     {
-     "start": 42.84,
-     "end": 43.22,
+     "start": 43.36,
+     "end": 43.7,
      "n": 1
     },
     {
-     "start": 43.22,
-     "end": 43.74,
+     "start": 43.7,
+     "end": 44.26,
      "n": 1
     },
     {
-     "start": 43.74,
-     "end": 44.16,
+     "start": 44.26,
+     "end": 44.72,
      "n": 1
     },
     {
-     "start": 44.16,
-     "end": 44.48,
+     "start": 44.72,
+     "end": 45.04,
      "n": 1
     },
     {
-     "start": 44.48,
-     "end": 45.06,
+     "start": 45.04,
+     "end": 45.62,
      "n": 1
     },
     {
-     "start": 45.24,
-     "end": 45.76,
+     "start": 45.8,
+     "end": 46.3,
      "n": 1
     },
     {
-     "start": 45.76,
-     "end": 46.22,
+     "start": 46.3,
+     "end": 46.78,
      "n": 1
     },
     {
-     "start": 46.22,
-     "end": 46.7,
+     "start": 46.78,
+     "end": 47.28,
      "n": 1
     },
     {
-     "start": 46.7,
-     "end": 47.26,
+     "start": 47.28,
+     "end": 48.02,
      "n": 1
     },
     {
-     "start": 47.76,
-     "end": 48.18,
+     "start": 48.32,
+     "end": 48.94,
      "n": 1
     }
    ]
   },
   {
-   "say": "2008de bile her on doğumdan biri evde oluyordu. 2018de bu oran yüzde birin altına indi.",
-   "caption": "2008de bile her on doğumdan biri evde oluyordu. 2018de bu oran yüzde birin altına indi.",
+   "say": "2008de bile her on doğumdan biri evdeydi. 2018de bu oran yüzde birin altına indi. Kısacası doğum, evden hastaneye taşındı.",
+   "caption": "2008de bile her on doğumdan biri evdeydi. 2018de bu oran yüzde birin altına indi. Kısacası doğum, evden hastaneye taşındı.",
    "key": [
     "evde"
    ],
@@ -677,85 +677,100 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 48.7,
-     "end": 49.5,
+     "start": 49.22,
+     "end": 49.98,
      "n": 1
     },
     {
-     "start": 49.5,
-     "end": 49.78,
+     "start": 49.98,
+     "end": 50.26,
      "n": 1
     },
     {
-     "start": 49.78,
-     "end": 50.14,
+     "start": 50.26,
+     "end": 50.64,
      "n": 1
     },
     {
-     "start": 50.14,
-     "end": 50.42,
+     "start": 50.64,
+     "end": 50.9,
      "n": 1
     },
     {
-     "start": 50.42,
-     "end": 50.98,
+     "start": 50.9,
+     "end": 51.42,
      "n": 1
     },
     {
-     "start": 50.98,
-     "end": 51.26,
+     "start": 51.42,
+     "end": 51.68,
      "n": 1
     },
     {
-     "start": 51.26,
-     "end": 51.76,
+     "start": 51.68,
+     "end": 52.3,
      "n": 1
     },
     {
-     "start": 51.76,
-     "end": 52.34,
+     "start": 52.76,
+     "end": 53.64,
      "n": 1
     },
     {
-     "start": 52.68,
-     "end": 53.56,
+     "start": 53.64,
+     "end": 53.86,
      "n": 1
     },
     {
-     "start": 53.56,
-     "end": 53.8,
+     "start": 53.86,
+     "end": 54.2,
      "n": 1
     },
     {
-     "start": 53.8,
-     "end": 54.14,
+     "start": 54.2,
+     "end": 54.9,
      "n": 1
     },
     {
-     "start": 54.14,
-     "end": 54.52,
+     "start": 54.9,
+     "end": 55.24,
      "n": 1
     },
     {
-     "start": 54.52,
-     "end": 54.8,
+     "start": 55.24,
+     "end": 55.76,
      "n": 1
     },
     {
-     "start": 54.8,
-     "end": 55.16,
+     "start": 55.76,
+     "end": 56.42,
      "n": 1
     },
     {
-     "start": 55.16,
-     "end": 55.46,
+     "start": 56.42,
+     "end": 56.98,
+     "n": 1
+    },
+    {
+     "start": 57.18,
+     "end": 57.5,
+     "n": 1
+    },
+    {
+     "start": 57.5,
+     "end": 58.12,
+     "n": 1
+    },
+    {
+     "start": 58.12,
+     "end": 58.84,
      "n": 1
     }
    ]
   },
   {
-   "say": "Sizi doğurtan ebenin adını biliyor musunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
-   "caption": "Sizi doğurtan ebenin adını biliyor musunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "say": "Sizin ailenizde evde doğan son kişi kimdi? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizin ailenizde evde doğan son kişi kimdi? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
    "key": [],
    "image": {
     "local": "assets/belgeler/079_kadin1935b.jpg",
@@ -775,137 +790,102 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 55.46,
-     "end": 56.22,
+     "start": 59.16,
+     "end": 59.4,
      "n": 1
     },
     {
-     "start": 56.22,
-     "end": 56.7,
+     "start": 59.4,
+     "end": 60.16,
      "n": 1
     },
     {
-     "start": 56.7,
-     "end": 57.1,
+     "start": 60.16,
+     "end": 60.56,
      "n": 1
     },
     {
-     "start": 57.1,
-     "end": 57.36,
+     "start": 60.56,
+     "end": 60.86,
      "n": 1
     },
     {
-     "start": 57.36,
-     "end": 57.58,
+     "start": 60.86,
+     "end": 61.1,
      "n": 1
     },
     {
-     "start": 57.58,
-     "end": 58.44,
+     "start": 61.1,
+     "end": 61.38,
      "n": 1
     },
     {
-     "start": 58.66,
-     "end": 59.34,
+     "start": 61.38,
+     "end": 61.74,
      "n": 1
     },
     {
-     "start": 59.34,
-     "end": 59.9,
+     "start": 62.2,
+     "end": 62.92,
      "n": 1
     },
     {
-     "start": 59.9,
-     "end": 60.62,
+     "start": 62.92,
+     "end": 63.48,
      "n": 1
     },
     {
-     "start": 60.8,
-     "end": 61.28,
+     "start": 63.48,
+     "end": 64.16,
      "n": 1
     },
     {
-     "start": 61.28,
-     "end": 61.56,
+     "start": 64.34,
+     "end": 64.82,
      "n": 1
     },
     {
-     "start": 61.56,
-     "end": 62.22,
+     "start": 64.82,
+     "end": 65.12,
      "n": 1
     },
     {
-     "start": 62.22,
-     "end": 63.06,
+     "start": 65.12,
+     "end": 65.8,
      "n": 1
     },
     {
-     "start": 63.38,
-     "end": 63.6,
+     "start": 65.8,
+     "end": 66.64,
      "n": 1
     },
     {
-     "start": 63.6,
-     "end": 63.98,
+     "start": 67.0,
+     "end": 67.2,
      "n": 1
     },
     {
-     "start": 63.98,
-     "end": 64.3,
+     "start": 67.2,
+     "end": 67.56,
      "n": 1
     },
     {
-     "start": 64.3,
-     "end": 64.8,
+     "start": 67.56,
+     "end": 67.92,
      "n": 1
     },
     {
-     "start": 64.8,
-     "end": 64.94,
+     "start": 67.92,
+     "end": 68.4,
      "n": 1
     },
     {
-     "start": 64.94,
-     "end": 65.32,
+     "start": 68.4,
+     "end": 68.54,
      "n": 1
     },
     {
-     "start": 65.32,
-     "end": 65.88,
-     "n": 1
-    },
-    {
-     "start": 65.88,
-     "end": 66.26,
-     "n": 1
-    },
-    {
-     "start": 66.26,
-     "end": 66.78,
-     "n": 1
-    },
-    {
-     "start": 66.78,
-     "end": 67.5,
-     "n": 1
-    },
-    {
-     "start": 67.5,
-     "end": 67.7,
-     "n": 1
-    },
-    {
-     "start": 67.7,
-     "end": 68.08,
-     "n": 1
-    },
-    {
-     "start": 68.08,
-     "end": 68.52,
-     "n": 1
-    },
-    {
-     "start": 68.52,
+     "start": 68.54,
      "end": 68.94,
      "n": 1
     },
@@ -913,8 +893,49 @@
      "start": 68.94,
      "end": 69.48,
      "n": 1
+    },
+    {
+     "start": 69.48,
+     "end": 69.9,
+     "n": 1
+    },
+    {
+     "start": 69.9,
+     "end": 70.46,
+     "n": 1
+    },
+    {
+     "start": 70.46,
+     "end": 71.12,
+     "n": 1
+    },
+    {
+     "start": 71.12,
+     "end": 71.3,
+     "n": 1
+    },
+    {
+     "start": 71.3,
+     "end": 71.68,
+     "n": 1
+    },
+    {
+     "start": 71.68,
+     "end": 72.1,
+     "n": 1
+    },
+    {
+     "start": 72.1,
+     "end": 72.5,
+     "n": 1
+    },
+    {
+     "start": 72.5,
+     "end": 73.04,
+     "n": 1
     }
    ]
   }
- ]
+ ],
+ "surum": 2
 }
