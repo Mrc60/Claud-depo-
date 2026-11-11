@@ -1,0 +1,45 @@
+=== YT_BASLIK ===
+Köyün ebesi bir gün suçlu sayıldı: Köy ebelerinin hikâyesi #SıradanDeğil 79
+=== YT_ACIKLAMA ===
+1928de çıkan 1219 sayılı kanun, diploması olmayanın doğum yaptırmasını yasakladı. Ama 1936ya kadar ülkede ebe yetiştiren tek okul İstanbuldaydı ve mezunlar çoğunlukla şehirde kalıyordu; köyler ebesiz kalmıştı. 1960larda bile bebeklerin yaklaşık altıda biri ilk yaşını göremiyordu. Devlet 1930ların sonunda ilkokul mezunu köy kızlarını okutup ebe olarak köylere gönderdi, 1961den sonra köylerde sağlık evleri kuruldu. 2008de doğumların onda biri hâlâ evdeydi; 2018de bu oran yüzde birin altına indi.
+
+Kaynaklar:
+- Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun (1219), Resmî Gazete, 14 Nisan 1928, sayı 863: https://www.resmigazete.gov.tr/arsiv/863.pdf
+- Sağlık Hizmetlerinin Sosyalleştirilmesi Hakkında Kanun (224), Resmî Gazete, 12 Ocak 1961
+- Yasemin Aydın Kartal, Tuğba Aksoy, Tarihten Günümüze Ebelik Eğitimi ve Mesleğine Kısa Bir Bakış, Sağlık Bilimleri Dergisi (Erciyes Üniv.), 2021: https://dergipark.org.tr/tr/download/article-file/1107136
+- Nil Sarı, Biruni Health and Education Sciences Journal, cilt 4, sayı 1, 2021: https://dergipark.org.tr/tr/download/article-file/2840297
+- Geçmişten Günümüze Ebelik Eğitimi, 2020: https://dergipark.org.tr/tr/download/article-file/893216
+- Sadet Altay, Cumhuriyetin İlk On Beş Yılında Ebelik Eğitimine ve Mesleğin Dönüşümüne Dair Kısa Bir Bakış (1923-1938), DEÜ Atatürk İlkeleri ve İnkılap Tarihi Enstitüsü
+- Asiye Kocatürk, Besim Ömer: Founder of the first modern maternity hospital and midwifery education in Turkey, European Journal of Midwifery, 2020
+- T.C. Sağlık Bakanlığı, Sağlık Bakanlığının Kuruluşunun 100. Yılında Türkiyede Bebek Ölümleri Durum Raporu, 2021
+- Hacettepe Üniversitesi Nüfus Etütleri Enstitüsü, Türkiye Nüfus ve Sağlık Araştırması 2008 ve 2018
+
+Görseller: Kapadokya 1935, John D. Whiting ve G. Eric Matson (Library of Congress, Prints & Photographs Division, LC-DIG-ppmsca-17164 ve LC-DIG-ppmsca-17410; yayın kısıtlaması yok); Resmî Gazete 14 Nisan 1928 (kamu malı); Besim Ömer Akalın, Servet-i Fünun 1919 (Wikimedia Commons, kamu malı); Kuruağıl köyü eski sağlık ocağı (Kharkil, Wikimedia Commons, CC BY-SA 4.0, siyah-beyaza çevrildi).
+Seslendirme yapay zekâ ile üretilmiştir.
+
+#SıradanDeğil #tarih #ebe
+=== YT_ETIKET ===
+köy ebesi, ebe, ebelik tarihi, evde doğum, köy ebe okulu, Besim Ömer, 1928, 1219 sayılı kanun, sağlık ocağı, Cumhuriyet tarihi, Türkiye tarihi, Sıradan Değil
+=== YT_SABIT ===
+Sizin ailenizde evde doğan son kişi kimdi? 👇
+=== TT_ACIKLAMA ===
+1928de bir kanun köyün ebesini suçlu saydı. Ama köylerde diplomalı ebe yoktu. Devlet çareyi köyün kendi kızlarında buldu.
+Kaynaklar: 1219 sayılı Kanun, Resmî Gazete 1928; 224 sayılı Kanun 1961; Kartal-Aksoy, Erciyes Üniv. 2021; Sarı, BHESJ 2021; Sağlık Bakanlığı 2021; TNSA 2008 ve 2018
+Görseller: Library of Congress (Whiting, Matson 1935), Wikimedia Commons (kamu malı, CC BY-SA 4.0 Kharkil)
+#SıradanDeğil #tarih #ebe #köyhayatı #nostalji
+=== TT_SABIT ===
+Sizin ailenizde evde doğan son kişi kimdi? 👇
+=== FBIG_ACIKLAMA ===
+1928de bir kanun köyün ebesini suçlu saydı. Ama köylerde diplomalı ebe yoktu. Devlet çareyi köyün kendi kızlarında buldu.
+Kaynaklar: Resmi Gazete 1928; Erciyes Üniv. 2021; Sağlık Bakanlığı 2021; TNSA 2018
+Görseller: Library of Congress, Commons
+#SıradanDeğil #tarih #ebe #köyhayatı
+=== IG_ACIKLAMA ===
+1928de bir kanun köyün ebesini suçlu saydı. Ama köylerde diplomalı ebe yoktu. Devlet çareyi köyün kendi kızlarında buldu.
+Kaynaklar: Resmi Gazete 1928; Erciyes Üniv. 2021; Sağlık Bakanlığı 2021; TNSA 2018
+Görseller: Library of Congress, Commons
+#SıradanDeğil #tarih #ebe #köyhayatı #nostalji
+=== FBIG_SABIT ===
+Sizin ailenizde evde doğan son kişi kimdi? 👇
+=== X_ACIKLAMA ===
+1928de bir kanun diplomasız ebeyi yasakladı ama köylerde diplomalı ebe yoktu. Devlet çareyi köy kızlarını ebe olarak okutmakta buldu. Kaynak: 1219 sayılı Kanun, Sağlık Bakanlığı. #SıradanDeğil #ebe
