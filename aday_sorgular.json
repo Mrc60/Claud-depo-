@@ -1,20 +1,24 @@
 {
  "bolum": "080_kktc",
- "min_w": 700,
+ "min_w": 600,
  "sorgular": [
-  "Cyprus 1960 independence",
-  "Makarios Fazıl Küçük",
-  "Fazıl Küçük",
-  "Nicosia 1964",
-  "Cyprus 1964 United Nations",
-  "UNFICYP 1964",
-  "Cyprus 1974",
-  "Rauf Denktaş",
-  "Green Line Nicosia",
-  "Nicosia buffer zone",
-  "Lefkoşa 1960s",
-  "Kyrenia 1960s"
+  "Makarios Anefo",
+  "Makarios 1960",
+  "Cyprus Nationaal Archief",
+  "Cyprus 1964 soldiers",
+  "Turkish Cypriots 1964",
+  "Denktaş 1975",
+  "Ecevit 1974",
+  "Cyprus 1974 refugees",
+  "Nicosia 1960s",
+  "Famagusta 1960s",
+  "Cyprus independence 1960 ceremony",
+  "Kıbrıs 1974 Barış Harekâtı"
  ],
- "incele": [],
+ "incele": [
+  "File:Turkish Paratroopers Parachuting into Kyrenia, Cyprus (20.07.1974, Peace Operation).jpg",
+  "File:Spy Satellite Image of Cyprus Invasion - July 20, 1974 (Landing Ships) (54771023053).jpg",
+  "File:Makarios III and Dr. Fazıl Küçük.jpg"
+ ],
  "indir": []
 }
