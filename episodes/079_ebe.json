@@ -1,0 +1,920 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 79,
+ "slug": "ebe",
+ "title": "Köy Ebeleri",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Köyün ebesi bir gün\nsuçlu sayıldı!",
+ "dis_ses": {
+  "file": "assets/ses/079_ebe.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     7.5
+    ]
+   ],
+   [
+    [
+     7.5,
+     14.88
+    ]
+   ],
+   [
+    [
+     14.88,
+     22.74
+    ]
+   ],
+   [
+    [
+     22.74,
+     32.48
+    ]
+   ],
+   [
+    [
+     32.48,
+     41.96
+    ]
+   ],
+   [
+    [
+     41.96,
+     48.7
+    ]
+   ],
+   [
+    [
+     48.7,
+     55.46
+    ]
+   ],
+   [
+    [
+     55.46,
+     69.64
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Köyünüzde doğum yaptıran ebe kadın bir gün kanunla suçlu sayıldı. 1928de çıkan kanun,",
+   "caption": "Köyünüzde doğum yaptıran ebe kadın bir gün kanunla suçlu sayıldı. 1928de çıkan kanun,",
+   "key": [
+    "ebe",
+    "suçlu"
+   ],
+   "image": {
+    "local": "assets/belgeler/079_kadin1935.jpg",
+    "fit": "doldur",
+    "baslik": "Kapadokyada köylü bir kadın, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "lisans": "",
+    "kaynak": "Kapadokyada köylü bir kadın, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.7,
+     "n": 1
+    },
+    {
+     "start": 0.7,
+     "end": 1.02,
+     "n": 1
+    },
+    {
+     "start": 1.02,
+     "end": 1.52,
+     "n": 1
+    },
+    {
+     "start": 1.52,
+     "end": 1.78,
+     "n": 1
+    },
+    {
+     "start": 1.78,
+     "end": 2.06,
+     "n": 1
+    },
+    {
+     "start": 2.06,
+     "end": 2.68,
+     "n": 1
+    },
+    {
+     "start": 2.68,
+     "end": 2.92,
+     "n": 1
+    },
+    {
+     "start": 2.92,
+     "end": 3.48,
+     "n": 1
+    },
+    {
+     "start": 3.48,
+     "end": 3.82,
+     "n": 1
+    },
+    {
+     "start": 3.82,
+     "end": 4.38,
+     "n": 1
+    },
+    {
+     "start": 5.46,
+     "end": 6.34,
+     "n": 1
+    },
+    {
+     "start": 6.34,
+     "end": 6.68,
+     "n": 1
+    },
+    {
+     "start": 6.68,
+     "end": 7.26,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "diploması olmayanın doğum yaptırmasını yasakladı. Ama ortada büyük bir sorun vardı. Diplomalı ebe nerede?",
+   "caption": "diploması olmayanın doğum yaptırmasını yasakladı. Ama ortada büyük bir sorun vardı. Diplomalı ebe nerede?",
+   "key": [
+    "yasakladı."
+   ],
+   "image": {
+    "local": "assets/belgeler/079_resmigazete1928.jpg",
+    "fit": "doldur",
+    "baslik": "Resmî Gazete, 14 Nisan 1928, sayı 863: 1219 sayılı Tababet Kanunu · kamu malı",
+    "lisans": "",
+    "kaynak": "Resmî Gazete, 14 Nisan 1928, sayı 863: 1219 sayılı Tababet Kanunu · kamu malı",
+    "sayfa": "",
+    "hiz": 0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 7.5,
+     "end": 8.0,
+     "n": 1
+    },
+    {
+     "start": 8.0,
+     "end": 8.46,
+     "n": 1
+    },
+    {
+     "start": 8.46,
+     "end": 8.9,
+     "n": 1
+    },
+    {
+     "start": 8.9,
+     "end": 9.5,
+     "n": 1
+    },
+    {
+     "start": 9.5,
+     "end": 10.08,
+     "n": 1
+    },
+    {
+     "start": 10.56,
+     "end": 10.84,
+     "n": 1
+    },
+    {
+     "start": 10.84,
+     "end": 11.32,
+     "n": 1
+    },
+    {
+     "start": 11.32,
+     "end": 11.56,
+     "n": 1
+    },
+    {
+     "start": 11.56,
+     "end": 11.84,
+     "n": 1
+    },
+    {
+     "start": 11.84,
+     "end": 12.06,
+     "n": 1
+    },
+    {
+     "start": 12.06,
+     "end": 12.42,
+     "n": 1
+    },
+    {
+     "start": 12.86,
+     "end": 13.4,
+     "n": 1
+    },
+    {
+     "start": 13.4,
+     "end": 13.72,
+     "n": 1
+    },
+    {
+     "start": 13.72,
+     "end": 14.1,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1936ya kadar ülkede ebe yetiştiren tek okul İstanbuldaydı. Okulu bitirenler de çoğunlukla şehirde kalıyordu.",
+   "caption": "1936ya kadar ülkede ebe yetiştiren tek okul İstanbuldaydı. Okulu bitirenler de çoğunlukla şehirde kalıyordu.",
+   "key": [
+    "tek",
+    "okul"
+   ],
+   "image": {
+    "local": "assets/belgeler/079_besimomer.jpg",
+    "fit": "doldur",
+    "baslik": "Besim Ömer Akalın, İstanbuldaki ebe okulunun ilk müdürü · Servet-i Fünun, 1919 / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Besim Ömer Akalın, İstanbuldaki ebe okulunun ilk müdürü · Servet-i Fünun, 1919 / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 14.88,
+     "end": 16.02,
+     "n": 1
+    },
+    {
+     "start": 16.02,
+     "end": 16.44,
+     "n": 1
+    },
+    {
+     "start": 16.44,
+     "end": 16.96,
+     "n": 1
+    },
+    {
+     "start": 16.96,
+     "end": 17.26,
+     "n": 1
+    },
+    {
+     "start": 17.26,
+     "end": 17.84,
+     "n": 1
+    },
+    {
+     "start": 17.84,
+     "end": 18.12,
+     "n": 1
+    },
+    {
+     "start": 18.12,
+     "end": 18.5,
+     "n": 1
+    },
+    {
+     "start": 18.5,
+     "end": 19.6,
+     "n": 1
+    },
+    {
+     "start": 19.82,
+     "end": 20.06,
+     "n": 1
+    },
+    {
+     "start": 20.06,
+     "end": 20.72,
+     "n": 1
+    },
+    {
+     "start": 20.72,
+     "end": 20.88,
+     "n": 1
+    },
+    {
+     "start": 20.88,
+     "end": 21.44,
+     "n": 1
+    },
+    {
+     "start": 21.44,
+     "end": 21.94,
+     "n": 1
+    },
+    {
+     "start": 21.94,
+     "end": 22.54,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Köyler ebesiz kalmıştı. Bebek ölümleri de çok yüksekti. 1960larda bile doğan bebeklerin yaklaşık altıda biri ilk yaşını göremiyordu.",
+   "caption": "Köyler ebesiz kalmıştı. Bebek ölümleri de çok yüksekti. 1960larda bile doğan bebeklerin yaklaşık altıda biri ilk yaşını göremiyordu.",
+   "key": [
+    "ebesiz",
+    "altıda"
+   ],
+   "image": {
+    "local": "assets/belgeler/079_kadincocuk1935.jpg",
+    "fit": "doldur",
+    "baslik": "Kapadokyada kadınlar ve çocuklar, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "lisans": "",
+    "kaynak": "Kapadokyada kadınlar ve çocuklar, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 22.74,
+     "end": 23.24,
+     "n": 1
+    },
+    {
+     "start": 23.24,
+     "end": 23.74,
+     "n": 1
+    },
+    {
+     "start": 23.74,
+     "end": 24.52,
+     "n": 1
+    },
+    {
+     "start": 24.74,
+     "end": 25.0,
+     "n": 1
+    },
+    {
+     "start": 25.0,
+     "end": 25.42,
+     "n": 1
+    },
+    {
+     "start": 25.42,
+     "end": 25.64,
+     "n": 1
+    },
+    {
+     "start": 25.64,
+     "end": 25.84,
+     "n": 1
+    },
+    {
+     "start": 25.84,
+     "end": 26.62,
+     "n": 1
+    },
+    {
+     "start": 26.62,
+     "end": 27.98,
+     "n": 1
+    },
+    {
+     "start": 27.98,
+     "end": 28.28,
+     "n": 1
+    },
+    {
+     "start": 28.28,
+     "end": 28.62,
+     "n": 1
+    },
+    {
+     "start": 28.62,
+     "end": 29.16,
+     "n": 1
+    },
+    {
+     "start": 29.16,
+     "end": 29.8,
+     "n": 1
+    },
+    {
+     "start": 29.8,
+     "end": 30.26,
+     "n": 1
+    },
+    {
+     "start": 30.26,
+     "end": 30.6,
+     "n": 1
+    },
+    {
+     "start": 30.6,
+     "end": 30.94,
+     "n": 1
+    },
+    {
+     "start": 30.94,
+     "end": 31.26,
+     "n": 1
+    },
+    {
+     "start": 31.26,
+     "end": 32.24,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Devlet çareyi köyün kendi kızlarında buldu. 1930ların sonunda ilkokulu bitirmiş köy kızları okutulup ebe olarak köylere gönderildi.",
+   "caption": "Devlet çareyi köyün kendi kızlarında buldu. 1930ların sonunda ilkokulu bitirmiş köy kızları okutulup ebe olarak köylere gönderildi.",
+   "key": [
+    "kızlarında",
+    "köylere"
+   ],
+   "image": {
+    "local": "assets/belgeler/079_kiz1935.jpg",
+    "fit": "doldur",
+    "baslik": "Kapadokyada genç bir kız, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "lisans": "",
+    "kaynak": "Kapadokyada genç bir kız, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 32.48,
+     "end": 32.9,
+     "n": 1
+    },
+    {
+     "start": 32.9,
+     "end": 33.42,
+     "n": 1
+    },
+    {
+     "start": 33.42,
+     "end": 33.88,
+     "n": 1
+    },
+    {
+     "start": 33.88,
+     "end": 34.14,
+     "n": 1
+    },
+    {
+     "start": 34.14,
+     "end": 34.7,
+     "n": 1
+    },
+    {
+     "start": 34.7,
+     "end": 35.22,
+     "n": 1
+    },
+    {
+     "start": 35.54,
+     "end": 36.46,
+     "n": 1
+    },
+    {
+     "start": 36.46,
+     "end": 37.04,
+     "n": 1
+    },
+    {
+     "start": 37.04,
+     "end": 37.62,
+     "n": 1
+    },
+    {
+     "start": 37.62,
+     "end": 38.1,
+     "n": 1
+    },
+    {
+     "start": 38.1,
+     "end": 38.36,
+     "n": 1
+    },
+    {
+     "start": 38.36,
+     "end": 38.76,
+     "n": 1
+    },
+    {
+     "start": 38.76,
+     "end": 39.48,
+     "n": 1
+    },
+    {
+     "start": 39.48,
+     "end": 39.78,
+     "n": 1
+    },
+    {
+     "start": 39.78,
+     "end": 40.12,
+     "n": 1
+    },
+    {
+     "start": 40.12,
+     "end": 40.56,
+     "n": 1
+    },
+    {
+     "start": 40.56,
+     "end": 41.32,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1961den sonra köylere sağlık evleri kuruldu. Ebeler oralarda çalışmaya başladı. Sonuç?",
+   "caption": "1961den sonra köylere sağlık evleri kuruldu. Ebeler oralarda çalışmaya başladı. Sonuç?",
+   "key": [
+    "sağlık",
+    "evleri"
+   ],
+   "image": {
+    "local": "assets/belgeler/079_saglikocagi.jpg",
+    "fit": "doldur",
+    "baslik": "Kuruağıl köyü eski sağlık ocağı, günümüz · Kharkil / Wikimedia Commons, CC BY-SA 4.0 (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kuruağıl köyü eski sağlık ocağı, günümüz · Kharkil / Wikimedia Commons, CC BY-SA 4.0 (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 41.96,
+     "end": 42.84,
+     "n": 1
+    },
+    {
+     "start": 42.84,
+     "end": 43.22,
+     "n": 1
+    },
+    {
+     "start": 43.22,
+     "end": 43.74,
+     "n": 1
+    },
+    {
+     "start": 43.74,
+     "end": 44.16,
+     "n": 1
+    },
+    {
+     "start": 44.16,
+     "end": 44.48,
+     "n": 1
+    },
+    {
+     "start": 44.48,
+     "end": 45.06,
+     "n": 1
+    },
+    {
+     "start": 45.24,
+     "end": 45.76,
+     "n": 1
+    },
+    {
+     "start": 45.76,
+     "end": 46.22,
+     "n": 1
+    },
+    {
+     "start": 46.22,
+     "end": 46.7,
+     "n": 1
+    },
+    {
+     "start": 46.7,
+     "end": 47.26,
+     "n": 1
+    },
+    {
+     "start": 47.76,
+     "end": 48.18,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "2008de bile her on doğumdan biri evde oluyordu. 2018de bu oran yüzde birin altına indi.",
+   "caption": "2008de bile her on doğumdan biri evde oluyordu. 2018de bu oran yüzde birin altına indi.",
+   "key": [
+    "evde"
+   ],
+   "image": {
+    "local": "assets/belgeler/079_koy1935.jpg",
+    "fit": "doldur",
+    "baslik": "Kapadokyada köy evleri, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "lisans": "",
+    "kaynak": "Kapadokyada köy evleri, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.7,
+     "end": 49.5,
+     "n": 1
+    },
+    {
+     "start": 49.5,
+     "end": 49.78,
+     "n": 1
+    },
+    {
+     "start": 49.78,
+     "end": 50.14,
+     "n": 1
+    },
+    {
+     "start": 50.14,
+     "end": 50.42,
+     "n": 1
+    },
+    {
+     "start": 50.42,
+     "end": 50.98,
+     "n": 1
+    },
+    {
+     "start": 50.98,
+     "end": 51.26,
+     "n": 1
+    },
+    {
+     "start": 51.26,
+     "end": 51.76,
+     "n": 1
+    },
+    {
+     "start": 51.76,
+     "end": 52.34,
+     "n": 1
+    },
+    {
+     "start": 52.68,
+     "end": 53.56,
+     "n": 1
+    },
+    {
+     "start": 53.56,
+     "end": 53.8,
+     "n": 1
+    },
+    {
+     "start": 53.8,
+     "end": 54.14,
+     "n": 1
+    },
+    {
+     "start": 54.14,
+     "end": 54.52,
+     "n": 1
+    },
+    {
+     "start": 54.52,
+     "end": 54.8,
+     "n": 1
+    },
+    {
+     "start": 54.8,
+     "end": 55.16,
+     "n": 1
+    },
+    {
+     "start": 55.16,
+     "end": 55.46,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizi doğurtan ebenin adını biliyor musunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizi doğurtan ebenin adını biliyor musunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/079_kadin1935b.jpg",
+    "fit": "doldur",
+    "baslik": "Kapadokyada köylü bir kadın, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "lisans": "",
+    "kaynak": "Kapadokyada köylü bir kadın, 1935 · John D. Whiting ve G. Eric Matson, Library of Congress (yayın kısıtlaması yok)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 55.46,
+     "end": 56.22,
+     "n": 1
+    },
+    {
+     "start": 56.22,
+     "end": 56.7,
+     "n": 1
+    },
+    {
+     "start": 56.7,
+     "end": 57.1,
+     "n": 1
+    },
+    {
+     "start": 57.1,
+     "end": 57.36,
+     "n": 1
+    },
+    {
+     "start": 57.36,
+     "end": 57.58,
+     "n": 1
+    },
+    {
+     "start": 57.58,
+     "end": 58.44,
+     "n": 1
+    },
+    {
+     "start": 58.66,
+     "end": 59.34,
+     "n": 1
+    },
+    {
+     "start": 59.34,
+     "end": 59.9,
+     "n": 1
+    },
+    {
+     "start": 59.9,
+     "end": 60.62,
+     "n": 1
+    },
+    {
+     "start": 60.8,
+     "end": 61.28,
+     "n": 1
+    },
+    {
+     "start": 61.28,
+     "end": 61.56,
+     "n": 1
+    },
+    {
+     "start": 61.56,
+     "end": 62.22,
+     "n": 1
+    },
+    {
+     "start": 62.22,
+     "end": 63.06,
+     "n": 1
+    },
+    {
+     "start": 63.38,
+     "end": 63.6,
+     "n": 1
+    },
+    {
+     "start": 63.6,
+     "end": 63.98,
+     "n": 1
+    },
+    {
+     "start": 63.98,
+     "end": 64.3,
+     "n": 1
+    },
+    {
+     "start": 64.3,
+     "end": 64.8,
+     "n": 1
+    },
+    {
+     "start": 64.8,
+     "end": 64.94,
+     "n": 1
+    },
+    {
+     "start": 64.94,
+     "end": 65.32,
+     "n": 1
+    },
+    {
+     "start": 65.32,
+     "end": 65.88,
+     "n": 1
+    },
+    {
+     "start": 65.88,
+     "end": 66.26,
+     "n": 1
+    },
+    {
+     "start": 66.26,
+     "end": 66.78,
+     "n": 1
+    },
+    {
+     "start": 66.78,
+     "end": 67.5,
+     "n": 1
+    },
+    {
+     "start": 67.5,
+     "end": 67.7,
+     "n": 1
+    },
+    {
+     "start": 67.7,
+     "end": 68.08,
+     "n": 1
+    },
+    {
+     "start": 68.08,
+     "end": 68.52,
+     "n": 1
+    },
+    {
+     "start": 68.52,
+     "end": 68.94,
+     "n": 1
+    },
+    {
+     "start": 68.94,
+     "end": 69.48,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
