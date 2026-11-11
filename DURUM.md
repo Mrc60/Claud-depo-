@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 10.11.2026 05:45, Hesap 2 gece kontrolü: Hesap 1 kaydı temiz; yeni HATA 8: 077_istanbul_kiyi1979.jpg renkli; HATA 4 ve 7 açık; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 11.11.2026 04:36, Hesap 1 gece kontrolü: Hesap 2 kaydı temiz; #78 seti ve bölümü kontrol.py ile temiz; HATA 4, 7, 8 ve DIZIN güncellemesi açık; #79 görsel kararı TEK1'de; ayrıntı MESAJLAR.md)
 
 
 ## SOHBET HESABI (11.11.2026 02:00)
