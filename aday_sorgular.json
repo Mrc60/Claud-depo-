@@ -1,16 +1,20 @@
 {
- "bolum": "079_ebe",
+ "bolum": "080_kktc",
  "min_w": 700,
- "sorgular": [],
+ "sorgular": [
+  "Cyprus 1960 independence",
+  "Makarios Fazıl Küçük",
+  "Fazıl Küçük",
+  "Nicosia 1964",
+  "Cyprus 1964 United Nations",
+  "UNFICYP 1964",
+  "Cyprus 1974",
+  "Rauf Denktaş",
+  "Green Line Nicosia",
+  "Nicosia buffer zone",
+  "Lefkoşa 1960s",
+  "Kyrenia 1960s"
+ ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:1919 11 13 Serveti Funun Besim Omer.jpg",
-   "ad": "079_besimomer.jpg"
-  },
-  {
-   "file": "File:Kuruağıl Köyü Eski Sağlık Ocağı.jpg",
-   "ad": "079_saglikocagi.jpg"
-  }
- ]
+ "indir": []
 }
