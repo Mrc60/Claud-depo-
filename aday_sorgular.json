@@ -1,23 +1,20 @@
 {
  "bolum": "080_kktc",
  "min_w": 600,
- "sorgular": [
-  "Fazıl Küçük portrait",
-  "Fazıl Küçük 1960",
-  "Rauf Denktaş 1983",
-  "Denktaş Anefo",
-  "UNFICYP soldiers Nicosia",
-  "United Nations Security Council chamber 1980s",
-  "Kofi Annan Cyprus 2004",
-  "Cyprus referendum 2004",
-  "Kıbrıs Türk 1960"
- ],
+ "sorgular": [],
  "incele": [
-  "File:First Turkish Paratroopers into the rocks in Kyrenia, Northern Cyprus. (20.07.1974, Peace Operation).jpg",
-  "File:1969 Ledra Street Nicosia Cyprus 8381742932.jpg",
-  "File:President John F. Kennedy Exits White House with Archbishop Makarios III, President of Cyprus.jpg"
+  "File:Bundesarchiv B 145 Bild-F014939-0008, München, Staatsbesuch Vizepräsident von Zypern.jpg",
+  "File:Cyprus. UNFICYP- 1969 (8385496677).jpg"
  ],
  "indir": [
+  {
+   "file": "File:Bundesarchiv B 145 Bild-F014939-0008, München, Staatsbesuch Vizepräsident von Zypern.jpg",
+   "ad": "080_kucuk.jpg"
+  },
+  {
+   "file": "File:Cyprus. UNFICYP- 1969 (8385496677).jpg",
+   "ad": "080_unficyp1969.jpg"
+  },
   {
    "file": "File:1969 Ledra Street Nicosia Cyprus 8381742932.jpg",
    "ad": "080_ledra1969.jpg"
@@ -25,10 +22,6 @@
   {
    "file": "File:Spy Satellite Image of Cyprus Invasion - July 20, 1974 (Landing Ships) (54771023053).jpg",
    "ad": "080_uydu1974.jpg"
-  },
-  {
-   "file": "File:Spy Satellite Image of Cyprus Invasion - July 20, 1974 (Ships Offshore) (54770780866).jpg",
-   "ad": "080_uydu1974b.jpg"
   },
   {
    "file": "File:Nicosia Green Line 31.JPG",
