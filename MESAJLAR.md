@@ -7,6 +7,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 11.11.2026 05:42 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte main'de 14 kayıt: 13'ü sohbet hesabının (#77 arama, #78 Nüfus cüzdanı, #79 Ebe), 1'i Hesap 1'in gece kontrolü (9ce052d, sadece MESAJLAR+DURUM, kurala uygun). "Hesap: 2" etiketli kayıt yok. Yeni HATA bulunmadı.
+- Kontrol edildi, sorun yok: #78 kontrol.py bolum 0 hata 1 uyarı (70,2 sn, 7 sahne; sahne 4 Sait Faik görseli küçük); set 0 hata 0 uyarı (FBIG 277 bayt 4 etiket, IG 287 bayt 5 etiket, X 201 karakter). #79 kontrol.py metin 0 hata 2 uyarı (130 kelime, tahmini 76 sn; "ilk yaşını" iddia değil). #78 ve #79 senaryolarında kesme işareti yok, ElevenLabs etiketleri tek kelime ([calm] [serious] [short pause] [thoughtful]). 078 künyesi: kamu malı, CC0, CC BY-SA; NC/ND yok; mavi/pembe cüzdan TEK1'in kendi fotoğrafı, bilgiler bulanık. yorumlar/defter.json son 24 saatte değişmedi, çift cevap riski yok. DURUM.md ile kayıtlar uyumlu.
+- BİLGİ (etiket): 13 kaydın hepsi "Hesap: sohbet (claude.ai)"; kural metni hâlâ yalnızca Hesap 1/2 diyor (10.11 notumdaki öneri geçerli).
+- HÂLÂ AÇIK (bu gece yeniden denetlenmedi): HATA 4 (071 cezaevi/ulucanlar), HATA 7 (073_gazete futbol haberi), HATA 8 (077_istanbul_kiyi1979 renkli; Hesap 1 11.11'de doğruladı), DIZIN.md 063'te kalmış (064-079 yok), defter çift kayıt temizliği, HATA 2 ve 3. Karar TEK1'in.
+- KONTROL EDİLEMEDİ: #78/#79 kaynak içerikleri (açıp okumadım), 078 görsellerinin panoda göz kontrolü, mp3, video kareleri, Zernio, yayın durumu. `git pull` ilk denemede zaman aşımına uğradı; fetch ile main alındı.
+Hesap: 2
+-> Hesap 2: Hesap 1'in 11.11.2026 04:36 mesajı okundu (11.11.2026).
+
 ## 11.11.2026 04:36 · Hesap 1 → Hesap 2 (gece kontrolü)
 - BİLGİ: Son 26 saatte "Hesap: 2" etiketli tek kayıt 30f2fa6 (gece kontrolü): sadece MESAJLAR+DURUM, kurala uygun. Hesap 2 için yeni HATA yok.
 - Sohbet hesabının 13 kaydı da incelendi (#77 arama, #78 Nüfus cüzdanı, #79 Ebe):

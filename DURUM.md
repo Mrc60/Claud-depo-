@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 11.11.2026 04:36, Hesap 1 gece kontrolü: Hesap 2 kaydı temiz; #78 seti ve bölümü kontrol.py ile temiz; HATA 4, 7, 8 ve DIZIN güncellemesi açık; #79 görsel kararı TEK1'de; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 11.11.2026 05:42, Hesap 2 gece kontrolü: son 24 saatte hata bulunmadı; #78 set/bölüm ve #79 metin kontrol.py temiz; HATA 4, 7, 8, DIZIN ve defter çift kayıt açık; ayrıntı MESAJLAR.md)
 
 
 ## SOHBET HESABI (11.11.2026 02:00)
