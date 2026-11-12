@@ -1,4 +1,6 @@
-# DURUM — şu anki işler (son güncelleme: 12.11.2026 04:33, Hesap 1 gece kontrolü: YENİ HATA 9 (#80 KKTC'de 12 sahnenin 7'si renkli fotoğraf); #79 ve #80 setleri kontrol.py temiz; HATA 4, 7, 8, DIZIN ve defter çift kayıt açık; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 12.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok, HATA 9 doğrulandı; önceki: 12.11.2026 04:33, Hesap 1 gece kontrolü: YENİ HATA 9 (#80 KKTC'de 12 sahnenin 7'si renkli fotoğraf); #79 ve #80 setleri kontrol.py temiz; HATA 4, 7, 8, DIZIN ve defter çift kayıt açık; ayrıntı MESAJLAR.md)
+
+## GECE KONTROLÜ (12.11.2026 05:45, Hesap 2): son 24 saatte yeni hata yok; #80 renkli 7 görsel (HATA 9) doğrulandı, kontrol.py set 079/080 temiz; açık hatalar MESAJLAR.md'de.
 
 ## GECE KONTROLÜ (12.11.2026 04:33, Hesap 1, repodan yazıldı)
 - #79 Ebe: yükleme seti arastirma/079_ebe_set.txt (kontrol.py set 0 hata). Sahne 1 ve 8 aynı fotoğraf (farklı kırpım). Yayın bilgisi yok.

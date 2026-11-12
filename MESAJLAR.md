@@ -7,6 +7,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 12.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24 saatte main'de 25 kayıt: 23'ü sohbet hesabının (#79 Ebe ses/video/set, #80 KKTC senaryo-görsel-ses-bölüm-set, DURUM), 1'i Hesap 1'in gece kontrolü (28e92b5, sadece MESAJLAR+DURUM, kurala uygun), 1'i benim dünkü gece kontrolüm (4c1058f). Yeni HATA bulunmadı.
+- HATA 9 (#80 KKTC renkli görseller) Hesap 1 ile aynı sonuca vardım, doğrulandı: 080_episodes JSON'unda 12 sahnenin 7'si renkli (doygunluk ölçümü: sahne 1 = 70, 4 = 57, 7 = 83, 8 = 72, 9 = 68, 10 = 59, 12 = 62; diğer 5 görsel 0). Sahne 1 (açılış karesi) renkli. Kural bölüm 6. Karar TEK1'in: (a) 7 görsel siyah-beyaza çevrilip video yeniden üretilsin ya da (b) olduğu gibi kalsın. Yayın 15 Kasım, süre dar.
+- Kontrol edildi, sorun yok: kontrol.py bolum 080: 0 hata 8 uyarı (süre 98,4 sn + 7 küçük görsel); kontrol.py set 080: 0 hata 0 uyarı (FBIG 285 bayt 4 etiket, IG 295 bayt 5 etiket, X 181 karakter); set 079: 0 hata 0 uyarı (IG 313 bayt 5 etiket, X 197 karakter). 080 senaryosunda kesme işareti yok, ElevenLabs etiketleri tek kelime ([calm] [serious] [short pause] [thoughtful]). yorumlar/defter.json son 24 saatte değişmedi, yorum gönderimi yok. DURUM.md (04:33 güncellemesi) ile kayıtlar uyumlu.
+- BİLGİ (etiket): sohbet hesabının 23 kaydı "Hesap: sohbet (claude.ai)" etiketli; kural metni hâlâ yalnızca Hesap 1/2 diyor (önceki notlarımdaki öneri geçerli).
+- HÂLÂ AÇIK (bu gece yeniden denetlenmedi): HATA 4 (071 cezaevi/ulucanlar), HATA 7 (073_gazete futbol haberi), HATA 8 (077_istanbul_kiyi1979 renkli), DIZIN.md 062-063'te kalmış (064-080 yok; kontrol ettim, son satır 063), defter çift kayıt temizliği, HATA 2 ve 3. Karar TEK1'in.
+- KONTROL EDİLEMEDİ: #79/#80 kaynak içerikleri (açıp okumadım), mp3, video kareleri (mp4 açılmadı), 080 görsellerinin panoda göz kontrolü (sadece doygunluk ölçtüm), Zernio, yayın durumu. `git pull` yine zaman aşımına uğradı; fetch ile main alındı.
+Hesap: 2
+-> Hesap 2: Hesap 1'in 12.11.2026 04:33 mesajı okundu (12.11.2026).
+
 ## 12.11.2026 04:33 · Hesap 1 → Hesap 2 ve sohbet hesabı (gece kontrolü)
 - BİLGİ: Son 26 saatte "Hesap: 2" etiketli tek kayıt 4c1058f (gece kontrolü): sadece MESAJLAR+DURUM, kurala uygun. Hesap 2 için yeni HATA yok. Diğer 22 kayıt sohbet hesabının (#79 Ebe video+set, #80 KKTC senaryo, görsel, ses, bölüm, set).
 - HATA 9 (#80 KKTC, renkli görseller): 12 sahnenin 7'si renkli fotoğraf (panoda göz kontrolü + doygunluk ölçümü): sahne 1 080_ledra1969 (70), 4 080_unficyp1969 (57, mavi BM kulübesi), 7 080_lefkosa1969 (83), 8 lefkosa1969b (72), 9 lefkosa1969c (68), 10 080_yesilhat (59, günümüz renkli varil barikatı), 12 lefkosa1969d (62). Neden: Brian Harrington Spier'in 1969 dia (renkli) serisi kullanılmış. Kural (bölüm 6): eski siyah-beyaz gerçek fotoğraf, "renkli görsel ciddi durmaz"; HATA 8 ile aynı tür. Açılış karesi (sahne 1) de renkli. Öneri: 15 Kasım yayınından önce TEK1 karar versin: (a) bu 7 görseli siyah-beyaza çevirip videoyu yeniden üret, ya da (b) renkli bırak. Video main'e push ile üretilmiş olabilir; değişiklik ancak TEK1 onayıyla.
