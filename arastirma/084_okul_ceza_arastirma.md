@@ -40,3 +40,26 @@ Eksik: Cumhuriyet dönemi sınıf fotoğrafı ve sınıf içi ceza sahnesi yok.
 - A = Halis Ayhan, "Falaka", TDV İslâm Ansiklopedisi (1995): https://islamansiklopedisi.org.tr/falaka — falaka mahalle mektepleri, medreseler ve özellikle askerî okullarda kullanıldı; ceza çoğu zaman ibret için herkesin önünde; hoca kalfalarla uygulardı; sayı suça ve hocanın keyfine göre; Ahmed Râsim'in "Falaka" kitabı ayrıntılı anlatır; son yıllarda Maarif Nizamnamesine aşırılığı önleyen hükümler, sopanın nitelikleri (tarih yok); Cumhuriyetin ilk yıllarında da sürdü. "eti senin kemiği benim" bu maddede YOK.
 - K = Cevdet Kırpık, "II. Abdülhamid Döneminde Kayseri İptidai Mektepleri", Belleten 87/308 (2023), s.153-193, dipnot 97: "Mekteplerde 1847 tarihli talimatla falaka ve diğer şiddete dayalı cezalar kaldırıldı." "Sonraki düzenlemelerde de fiziksel şiddet kesin olarak yasaklandı." (dayanak: Mustafa Gündüz, "Son Dönem Osmanlı Eğitiminde Disiplin ve Cezalandırma (1847-1920)", Doğu Batı 53, 2010, s.130-132 — HENÜZ OKUNMADI)
 - Hikâye fikri: 1847'de kâğıt üstünde kaldırıldı (K), ama Cumhuriyetin ilk yıllarına kadar sürdü (A). İkinci bağımsız kaynak gerekli.
+
+## GPT raporu kontrolü (13.11.2026 01:20, belge-indir ile indirip BEN okudum)
+- Ş = Hüseyin Şimşek, "Osmanlı Dönemi İlkokullarında (Sıbyan Mekteplerinde) Disiplin Anlayışı ve Uygulamaları", Millî Eğitim Dergisi 162 (2004): https://dhgm.meb.gov.tr/yayimlar/dergiler/milli_egitim_dergisi/162/simsek.htm
+  - "Talimat, Sıbyan mekteplerinde yaygın olarak kullanılan falakayı islam dininde yeri olmadığı gerekçesiyle kesin olarak yasaklamıştır." (1847 talimatı, dn. 61-63)
+  - 1847'de en ağır ceza: "yaban asması veyahut yasemen çubuğu gibi yumuşak şeylerle, falakaya yatırılmaksızın, nazik bölgeleri gözetilerek, velilerinin izniyle ve çocuğun tahammülüne göre, hafif şekilde vurulması" (dn. 65)
+  - 1892 İstanbul İptidai Mektepleri Talimatnamesi: "öğrencileri dövmek ve korkutmak maksadıyla da olsa değnek ve falaka bulundurmak yasaklanmıştır" (dn. 79)
+  - Veliler okula başlatırken "Eti senin, kemiği benim." derdi (dn. 17)
+  - Mümeyyiz öğrenci mektubu: "hocaları bizimkiler gibi kızılcık değneğiyle rast geldiği yerlerine vurarak öldürürcesine döverler mi?"; veliler "eti senin kemiği benim" tembihleriyle hocaları teşvik ediyor. KAYNAKÇA: Mümeyyiz (1869), Sayı 7. => GPT HATASI: mektup II. Meşrutiyet değil 1869 (Tanzimat).
+  - Abdurrahman Şeref: "seninkini bu gün biraz okşadım" / "ellerin nurdan kopsun, bir iki de benim için vuraydın" (dn. 57, tanıklık, tek kaynak)
+- D = Muammer Demirel, "Disiplin", Türk Maarif Ansiklopedisi (2022): https://turkmaarifansiklopedisi.org.tr/disiplin
+  - 20 Temmuz 1863 talimatnamesi: erkeklerin ayağına, kızların ellerine dayak "şer'-i şerife de uygun olmadığından" yasaklandı; yerine sevgi, minderi kapının önüne koyma, incitmeden kulak çekme, haysiyet kırmadan azarlama.
+  - 1869 Maârif-i Umûmiye Nizamnamesi: bütün okullarda uygunsuz davranış ve ders çalışmamada dayak ve kötü söz kesinlikle yasaklandı.
+  - "Gerek Osmanlı devrinde gerekse Türkiye Cumhuriyeti'nde dayak ve bedenî cezalar kanun ve yönetmeliklerle yasaklanmasına rağmen yakın zamana kadar okullarda yönetici ve öğretmenler tarafından uygulanagelmiştir."
+- Hayat Mecmuası 8 Eylül 1927 (Ali Canip, Ahmet Rasim'in Falaka'sı üzerine; OCR): baba çocuğu "Hoca efendi, eti senin, kemiği benim" vasiyetiyle teslim eder.
+- Cumhuriyet 15 Nisan 1938 s.3: Hüseyin Rahmi Gürpınar, "Eti senin, kemiği benim" başlıklı yazı (başlık doğrulandı, metin OCR bozuk).
+
+## İki kaynakla doğrulanan çekirdek
+- Mahalle mekteplerinde falaka (TDV Falaka + Ş)
+- 1847'de falaka resmen yasaklandı (Ş + Kırpık 2023)
+- Yasaklara rağmen dayak sürdü (D + TDV Falaka + Mümeyyiz 1869 via Ş)
+- "Eti senin, kemiği benim" velinin hocaya sözü (Ş + Hayat 1927)
+## Tek kaynak (kullanılırsa daralt ya da çıkar): 1863 talimatnamesi (D), 1869 nizamname dayak yasağı (D), 1892 değnek/falaka bulundurma yasağı (Ş), Abdurrahman Şeref sözü (Ş), 1847 hafif vurma izni (Ş).
+## DOĞRULANMADI: 1702 sayılı Kanun md.22 ve Cumhuriyet 22.01.1992 aktarımı (açılmadı).
