@@ -78,7 +78,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - İlk saniye izleyiciyi yakalamalı.
 - Ekler bitişik yazılır, kesme işareti yok: "Tarsusta", "Türkiyeye". ElevenLabs kesme işaretinde hata yapıyor.
   - BU KURAL SADECE SES METNİ İÇİN (senaryo / "say"). Ekranda okunan yazı (altyazı "caption", "acilis") ve tüm açıklamalar/başlıklar doğru Türkçe yazılır: 1936'ya, Lozan'da, Kıbrıs'ta. (12.11.2026, hata dersi: #78-#80 altyazılarında "1936ya", "1974te" çıktı; ses kuralı ekrana da uygulanmıştı.) kontrol.py bolum/set bunu denetler: sayı+ek HATA, özel ad+ek UYARI (cümle başını yakalamaz, göz kontrolü yine şart).
-- ElevenLabs etiketleri tek kelime: [serious] [thoughtful] [calm] [sad] [short pause] [long pause]. Birleşik ya da başka etiket ([confident], [emphatic] vb.) kullanma.
+- ElevenLabs etiketleri tek kelime: [serious] [thoughtful] [calm] [sad] [short pause] [long pause]. Birleşik ya da başka etiket ([confident], [emphatic] vb.) kullanma. [laughs] da izinli (TEK1, 13.11.2026: 'gülme ekle sorun olmuyor'); sadece yerinde, abartmadan.
 - Sorudan sonra [short pause] koy (yaklaşık 0,7 sn).
 - Kapanış:
   - Konuya özel bir soru sor.
