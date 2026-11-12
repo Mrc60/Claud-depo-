@@ -1,19 +1,19 @@
 {
- "bolum": "081_belediye",
- "min_w": 600,
+ "bolum": "082_kardes",
+ "min_w": 800,
  "sorgular": [
-  "Muhittin Üstündağ",
-  "İstanbul çöpçü",
-  "Istanbul street sweeper",
-  "Constantinople street sweeper",
-  "İstanbul belediye zabıtası",
-  "Istanbul 1930s street",
-  "Istanbul 1940s street",
-  "carpet beating",
-  "beating carpet balcony",
-  "Istanbul cumba",
-  "İstanbul Belediyesi 1930",
-  "Cemil Topuzlu"
+  "Fatih Sultan Mehmed portrait Bellini",
+  "Mehmed II portrait miniature",
+  "Mehmed III Ottoman sultan portrait",
+  "Ahmed I Ottoman sultan portrait",
+  "Mustafa I Ottoman sultan portrait",
+  "Bayezid I portrait engraving",
+  "Battle of Ankara 1402",
+  "Ottoman princes miniature",
+  "Topkapı Palace harem kafes",
+  "Şehzadeler türbesi Ayasofya",
+  "Tombs of the princes Hagia Sophia",
+  "Ottoman kanunname manuscript"
  ],
  "incele": [],
  "indir": []
