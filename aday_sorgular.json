@@ -1,20 +1,7 @@
 {
  "bolum": "084_okul_ceza",
- "min_w": 600,
- "sorgular": [
-  "Abdul Hamid II albums school students",
-  "Abdul Hamid II albums classroom",
-  "Darüşşafaka students",
-  "Ottoman school students classroom 1890",
-  "Constantinople school children 1910",
-  "Constantinople Turkish school",
-  "Ottoman girls school",
-  "Turkish children 1920s school",
-  "Anatolia school children 1930s",
-  "Istanbul primary school 1940s",
-  "Hamidiye school students",
-  "rüşdiye students photograph"
- ],
- "incele": [],
- "indir": []
+ "min_w": 300,
+ "sorgular": [],
+ "incele": ["File:Falaka punishment in Azerbaijani school in Baku.jpg"],
+ "indir": [{"file": "File:Falaka punishment in Azerbaijani school in Baku.jpg", "ad": "084_falaka_baku.jpg"}]
 }
