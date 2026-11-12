@@ -16,3 +16,11 @@
 
 ## Risk
 - 2005 devri ve "SSK kuyrukları" bugün siyasi söylemin parçası (iktidar/muhalefet). FB siyasi dağıtım kısıtı riski. Siyasi değerlendirme yapılmamalı.
+
+## GPT raporu kontrolü (12.11.2026 23:30, belge-indir ile indirilip BEN okudum)
+- DOĞRULANDI: Yeni Şafak, 29.06.1999, "SSK hasta ediyor" (arşiv metni): "Saat 05.00 sularında sıraya giren hastalara muayene için numaralar 07.30'da verilmeye başlanıyor. Muayene ise saat 09.00'da başlıyor ve o gün için sıra alabilen hastaların çoğunun muayenesi bir sonraki güne kalıyor." / "Eczaneler ise saat 09.00'da açılıyor." / "Muayene olmak ve ilaç almak bazen dört beş gün sürüyor." Şehir genel (örnek hasta Bursa SSK).
+- DOĞRULANDI: 5283 sayılı Kanun, kabul 6.1.2005, "Resmi Gazete ile yayımı: 19.1.2005 Sayı: 25705" (TBMM kanun PDF'i).
+- DOĞRULANDI (haber): AKRA/Milli Gazete 16.07.2003: "Artık SSK'lı hastalar SSK'nın anlaşmalı eczanelerinden ilaçlarını rahatlıkla alabilecek." + SSK ilacı %21 indirimli alacak.
+- OKUNAMADI: Cumhuriyet e-gazete 08.02.1994, 06.08.1994, 13.03.1996, 14.07.2003 (403, abonelik/engel). "Gece 24.00", "03.00" ifadeleri DOĞRULANMADI.
+- 2002 protokolü (memurlar.net) indirildi, henüz okunmadı.
+- Görsel: GPT de uygun lisanslı fotoğraf bulamadı.
