@@ -907,9 +907,30 @@
     "yorum": "@siradandegill tabii kadınlar çok çekmişler Anadolu da",
     "cevap_id": "18172191319463237",
     "tarih": "2026-11-12"
+   },
+   {
+    "yorum_id": "18133253782839008",
+    "kullanici": "leylaakin3838",
+    "yorum": "Kardeşim 1988 de kardeşimi annem evde doğurdu.",
+    "cevap_id": "17882795130546639",
+    "tarih": "2026-11-12"
+   },
+   {
+    "yorum_id": "18119979121795409",
+    "kullanici": "ariksadet",
+    "yorum": "Hastanede doğum yaptıran doktorlar,isi performansa baglayınca sezeryan doğuma mecbur biraktilar...",
+    "cevap_id": "18111471919924428",
+    "tarih": "2026-11-12"
+   },
+   {
+    "yorum_id": "18113835005067322",
+    "kullanici": "aksirayi",
+    "yorum": "Ben",
+    "cevap_id": "18172020271427953",
+    "tarih": "2026-11-12"
    }
   ],
-  "sinir_notu": "2026-11-12T11:24Z tarandı (14:24 İstanbul). Tüm ana yorumlar cevaplandı. Önceki atlananlar: sultan.unsalan 'evede yok tu', kamilosmanerkol (siyasi). Kanal sabit yorumu 17962954389253000."
+  "sinir_notu": "2026-11-12T15:32Z tarandı (18:32 İstanbul). Tüm ana yorumlar cevaplandı. Atlananlar: sultan.unsalan 'evede yok tu', kamilosmanerkol (siyasi), nazmiyecmn 3. yorum (emoji), semademir1617 'Ben' (aynı kişi, kapsandı). Kanal sabit yorumu 17962954389253000."
  },
  "facebook/1400881546439231_122110710567516389": {
   "video": "074 Kölelik",
@@ -1013,5 +1034,11 @@
   "hesap_zernio": "6ae7e1428d01bfa137edca93",
   "cevaplar": [],
   "sinir_notu": "2026-11-12T08:38Z tarandı (11:38 İstanbul). Sadece emoji yorumu var, cevap yok."
+ },
+ "instagram/18133395154802732": {
+  "video": "Kardeş katli",
+  "hesap_zernio": "6ae7e1428d01bfa137edca93",
+  "cevaplar": [],
+  "sinir_notu": "2026-11-12T15:35Z tarandı. Ana yorum yok; hasanbugra48 'evet' sabit yorum altında yanıt, kural gereği cevap yok. Kanal sabit yorumu 18129681691917555."
  }
 }
