@@ -1,0 +1,907 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 84,
+ "slug": "okul_ceza",
+ "title": "Eski Okul Cezaları",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "surum": 1,
+ "acilis": "Eti senin,\nkemiği benim!",
+ "dis_ses": {
+  "file": "assets/ses/084_okul_ceza.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     8.62
+    ]
+   ],
+   [
+    [
+     8.62,
+     18.68
+    ]
+   ],
+   [
+    [
+     18.68,
+     27.54
+    ]
+   ],
+   [
+    [
+     27.54,
+     34.06
+    ]
+   ],
+   [
+    [
+     34.06,
+     44.98
+    ]
+   ],
+   [
+    [
+     44.98,
+     54.3
+    ]
+   ],
+   [
+    [
+     54.3,
+     62.66
+    ]
+   ],
+   [
+    [
+     62.66,
+     69.25
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Eskiden çocuğunu okula götüren baba, hocaya şöyle derdi: Eti senin, kemiği benim. Yani döv ama okut.",
+   "caption": "Eskiden çocuğunu okula götüren baba, hocaya şöyle derdi: Eti senin, kemiği benim. Yani döv ama okut.",
+   "key": [
+    "Eti",
+    "benim."
+   ],
+   "image": {
+    "local": "assets/belgeler/084_ayasofya_916.jpg",
+    "fit": "doldur",
+    "baslik": "Ayasofya Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Ayasofya Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.68,
+     "n": 1
+    },
+    {
+     "start": 0.68,
+     "end": 1.16,
+     "n": 1
+    },
+    {
+     "start": 1.16,
+     "end": 1.42,
+     "n": 1
+    },
+    {
+     "start": 1.42,
+     "end": 1.86,
+     "n": 1
+    },
+    {
+     "start": 1.86,
+     "end": 2.3,
+     "n": 1
+    },
+    {
+     "start": 2.6,
+     "end": 2.84,
+     "n": 1
+    },
+    {
+     "start": 2.84,
+     "end": 3.14,
+     "n": 1
+    },
+    {
+     "start": 3.14,
+     "end": 3.62,
+     "n": 1
+    },
+    {
+     "start": 4.02,
+     "end": 4.34,
+     "n": 1
+    },
+    {
+     "start": 4.34,
+     "end": 4.76,
+     "n": 1
+    },
+    {
+     "start": 5.04,
+     "end": 5.42,
+     "n": 1
+    },
+    {
+     "start": 5.42,
+     "end": 5.7,
+     "n": 1
+    },
+    {
+     "start": 6.14,
+     "end": 6.74,
+     "n": 1
+    },
+    {
+     "start": 6.74,
+     "end": 7.28,
+     "n": 1
+    },
+    {
+     "start": 7.28,
+     "end": 7.66,
+     "n": 1
+    },
+    {
+     "start": 7.66,
+     "end": 8.62,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Mahalle mektebinde hocanın yanında sopa, duvarda da falaka dururdu. Falaka, çocuğun ayaklarını bağlayıp tabanlarına sopayla vurmaktı.",
+   "caption": "Mahalle mektebinde hocanın yanında sopa, duvarda da falaka dururdu. Falaka, çocuğun ayaklarını bağlayıp tabanlarına sopayla vurmaktı.",
+   "key": [
+    "falaka",
+    "tabanlarına"
+   ],
+   "image": {
+    "local": "assets/belgeler/084_darussafaka_hoca_916.jpg",
+    "fit": "doldur",
+    "baslik": "Darüşşafaka hocaları ve öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Darüşşafaka hocaları ve öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.62,
+     "end": 9.1,
+     "n": 1
+    },
+    {
+     "start": 9.1,
+     "end": 9.8,
+     "n": 1
+    },
+    {
+     "start": 9.92,
+     "end": 10.3,
+     "n": 1
+    },
+    {
+     "start": 10.3,
+     "end": 10.78,
+     "n": 1
+    },
+    {
+     "start": 10.78,
+     "end": 11.26,
+     "n": 1
+    },
+    {
+     "start": 11.56,
+     "end": 11.96,
+     "n": 1
+    },
+    {
+     "start": 11.96,
+     "end": 12.18,
+     "n": 1
+    },
+    {
+     "start": 12.18,
+     "end": 12.5,
+     "n": 1
+    },
+    {
+     "start": 12.5,
+     "end": 13.3,
+     "n": 1
+    },
+    {
+     "start": 13.54,
+     "end": 13.98,
+     "n": 1
+    },
+    {
+     "start": 14.38,
+     "end": 14.7,
+     "n": 1
+    },
+    {
+     "start": 14.7,
+     "end": 15.2,
+     "n": 1
+    },
+    {
+     "start": 15.2,
+     "end": 15.76,
+     "n": 1
+    },
+    {
+     "start": 15.76,
+     "end": 16.5,
+     "n": 1
+    },
+    {
+     "start": 16.5,
+     "end": 17.0,
+     "n": 1
+    },
+    {
+     "start": 17.0,
+     "end": 17.86,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1847de devlet bir talimatla falakayı kaldırdı. Hocaya azarlamak, ayakta tutmak ve kulağı incitmeden çekmek kaldı.",
+   "caption": "1847'de devlet bir talimatla falakayı kaldırdı. Hocaya azarlamak, ayakta tutmak ve kulağı incitmeden çekmek kaldı.",
+   "key": [
+    "1847'de",
+    "kaldırdı."
+   ],
+   "image": {
+    "local": "assets/belgeler/084_emirgan_916.jpg",
+    "fit": "doldur",
+    "baslik": "Emirgân Kız Rüşdiyesi öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Emirgân Kız Rüşdiyesi öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 18.68,
+     "end": 19.52,
+     "n": 1
+    },
+    {
+     "start": 19.52,
+     "end": 19.94,
+     "n": 1
+    },
+    {
+     "start": 19.94,
+     "end": 20.22,
+     "n": 1
+    },
+    {
+     "start": 20.22,
+     "end": 20.9,
+     "n": 1
+    },
+    {
+     "start": 20.9,
+     "end": 21.38,
+     "n": 1
+    },
+    {
+     "start": 21.38,
+     "end": 22.22,
+     "n": 1
+    },
+    {
+     "start": 22.42,
+     "end": 22.8,
+     "n": 1
+    },
+    {
+     "start": 22.8,
+     "end": 23.62,
+     "n": 1
+    },
+    {
+     "start": 23.78,
+     "end": 24.16,
+     "n": 1
+    },
+    {
+     "start": 24.16,
+     "end": 24.58,
+     "n": 1
+    },
+    {
+     "start": 24.58,
+     "end": 25.08,
+     "n": 1
+    },
+    {
+     "start": 25.08,
+     "end": 25.56,
+     "n": 1
+    },
+    {
+     "start": 25.56,
+     "end": 26.1,
+     "n": 1
+    },
+    {
+     "start": 26.1,
+     "end": 26.64,
+     "n": 1
+    },
+    {
+     "start": 26.64,
+     "end": 27.38,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki, dayak bitti mi? 1869da bir öğrenci dergiye yazdı ve sordu:",
+   "caption": "Peki, dayak bitti mi? 1869'da bir öğrenci dergiye yazdı ve sordu:",
+   "key": [
+    "bitti",
+    "1869'da"
+   ],
+   "image": {
+    "local": "assets/belgeler/084_uskudar_kiz_916.jpg",
+    "fit": "doldur",
+    "baslik": "Üsküdar Kız Sanayi Mektebi öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Üsküdar Kız Sanayi Mektebi öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 27.54,
+     "end": 28.16,
+     "n": 1
+    },
+    {
+     "start": 28.38,
+     "end": 28.64,
+     "n": 1
+    },
+    {
+     "start": 28.64,
+     "end": 28.94,
+     "n": 1
+    },
+    {
+     "start": 28.94,
+     "end": 29.14,
+     "n": 1
+    },
+    {
+     "start": 30.52,
+     "end": 31.28,
+     "n": 1
+    },
+    {
+     "start": 31.28,
+     "end": 31.52,
+     "n": 1
+    },
+    {
+     "start": 31.52,
+     "end": 31.98,
+     "n": 1
+    },
+    {
+     "start": 31.98,
+     "end": 32.56,
+     "n": 1
+    },
+    {
+     "start": 32.56,
+     "end": 32.92,
+     "n": 1
+    },
+    {
+     "start": 32.92,
+     "end": 33.18,
+     "n": 1
+    },
+    {
+     "start": 33.18,
+     "end": 33.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Avrupada da hocalar, bizimkiler gibi kızılcık değneğiyle öldürürcesine döver mi? Sonra yeni yasaklar geldi. Ama dayak, okullarda yakın zamana kadar sürdü.",
+   "caption": "Avrupa'da da hocalar, bizimkiler gibi kızılcık değneğiyle öldürürcesine döver mi? Sonra yeni yasaklar geldi. Ama dayak, okullarda yakın zamana kadar sürdü.",
+   "key": [
+    "kızılcık",
+    "sürdü."
+   ],
+   "image": {
+    "local": "assets/belgeler/084_davutpasa_916.jpg",
+    "fit": "doldur",
+    "baslik": "Davutpaşa Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Davutpaşa Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 34.06,
+     "end": 34.62,
+     "n": 1
+    },
+    {
+     "start": 34.62,
+     "end": 34.74,
+     "n": 1
+    },
+    {
+     "start": 34.74,
+     "end": 35.34,
+     "n": 1
+    },
+    {
+     "start": 35.68,
+     "end": 36.06,
+     "n": 1
+    },
+    {
+     "start": 36.06,
+     "end": 36.3,
+     "n": 1
+    },
+    {
+     "start": 36.3,
+     "end": 36.92,
+     "n": 1
+    },
+    {
+     "start": 36.92,
+     "end": 37.5,
+     "n": 1
+    },
+    {
+     "start": 37.5,
+     "end": 38.38,
+     "n": 1
+    },
+    {
+     "start": 38.38,
+     "end": 38.7,
+     "n": 1
+    },
+    {
+     "start": 38.7,
+     "end": 39.26,
+     "n": 1
+    },
+    {
+     "start": 39.44,
+     "end": 39.84,
+     "n": 1
+    },
+    {
+     "start": 39.84,
+     "end": 40.2,
+     "n": 1
+    },
+    {
+     "start": 40.2,
+     "end": 40.78,
+     "n": 1
+    },
+    {
+     "start": 40.78,
+     "end": 41.16,
+     "n": 1
+    },
+    {
+     "start": 41.62,
+     "end": 41.8,
+     "n": 1
+    },
+    {
+     "start": 41.8,
+     "end": 42.32,
+     "n": 1
+    },
+    {
+     "start": 42.46,
+     "end": 43.0,
+     "n": 1
+    },
+    {
+     "start": 43.0,
+     "end": 43.46,
+     "n": 1
+    },
+    {
+     "start": 43.46,
+     "end": 43.8,
+     "n": 1
+    },
+    {
+     "start": 43.8,
+     "end": 44.12,
+     "n": 1
+    },
+    {
+     "start": 44.12,
+     "end": 44.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu arada ben de okulda dayak yedim. İlkokul ikinci sınıftaydım. Sebebi mi? Balon almak için okulun demirlerini hurdacıya sattım.",
+   "caption": "Bu arada ben de okulda dayak yedim. İlkokul ikinci sınıftaydım. Sebebi mi? Balon almak için okulun demirlerini hurdacıya sattım.",
+   "key": [
+    "dayak",
+    "hurdacıya"
+   ],
+   "image": {
+    "local": "assets/belgeler/084_sultani_916.jpg",
+    "fit": "doldur",
+    "baslik": "Mekteb-i Sultani öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Mekteb-i Sultani öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 44.98,
+     "end": 45.12,
+     "n": 1
+    },
+    {
+     "start": 45.12,
+     "end": 45.5,
+     "n": 1
+    },
+    {
+     "start": 45.5,
+     "end": 45.88,
+     "n": 1
+    },
+    {
+     "start": 45.88,
+     "end": 46.04,
+     "n": 1
+    },
+    {
+     "start": 46.04,
+     "end": 46.36,
+     "n": 1
+    },
+    {
+     "start": 46.36,
+     "end": 46.66,
+     "n": 1
+    },
+    {
+     "start": 46.66,
+     "end": 47.14,
+     "n": 1
+    },
+    {
+     "start": 47.36,
+     "end": 47.78,
+     "n": 1
+    },
+    {
+     "start": 47.78,
+     "end": 48.14,
+     "n": 1
+    },
+    {
+     "start": 48.14,
+     "end": 48.98,
+     "n": 1
+    },
+    {
+     "start": 49.24,
+     "end": 49.58,
+     "n": 1
+    },
+    {
+     "start": 49.58,
+     "end": 49.76,
+     "n": 1
+    },
+    {
+     "start": 50.16,
+     "end": 50.5,
+     "n": 1
+    },
+    {
+     "start": 50.5,
+     "end": 50.86,
+     "n": 1
+    },
+    {
+     "start": 50.86,
+     "end": 51.14,
+     "n": 1
+    },
+    {
+     "start": 51.14,
+     "end": 51.58,
+     "n": 1
+    },
+    {
+     "start": 51.58,
+     "end": 52.14,
+     "n": 1
+    },
+    {
+     "start": 52.14,
+     "end": 52.74,
+     "n": 1
+    },
+    {
+     "start": 52.74,
+     "end": 53.48,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Siz okulda hangi yaramazlık yüzünden ceza aldınız? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "caption": "Siz okulda hangi yaramazlık yüzünden ceza aldınız? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz.",
+   "key": [
+    "yaramazlık"
+   ],
+   "image": {
+    "local": "assets/belgeler/084_asiret_916.jpg",
+    "fit": "doldur",
+    "baslik": "Aşiret Mektebi öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Aşiret Mektebi öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 54.3,
+     "end": 54.58,
+     "n": 1
+    },
+    {
+     "start": 54.58,
+     "end": 55.06,
+     "n": 1
+    },
+    {
+     "start": 55.06,
+     "end": 55.36,
+     "n": 1
+    },
+    {
+     "start": 55.36,
+     "end": 55.86,
+     "n": 1
+    },
+    {
+     "start": 55.86,
+     "end": 56.3,
+     "n": 1
+    },
+    {
+     "start": 56.3,
+     "end": 56.64,
+     "n": 1
+    },
+    {
+     "start": 56.64,
+     "end": 57.12,
+     "n": 1
+    },
+    {
+     "start": 57.12,
+     "end": 58.32,
+     "n": 1
+    },
+    {
+     "start": 58.32,
+     "end": 58.88,
+     "n": 1
+    },
+    {
+     "start": 58.88,
+     "end": 59.62,
+     "n": 1
+    },
+    {
+     "start": 59.82,
+     "end": 60.38,
+     "n": 1
+    },
+    {
+     "start": 60.38,
+     "end": 60.7,
+     "n": 1
+    },
+    {
+     "start": 60.7,
+     "end": 61.38,
+     "n": 1
+    },
+    {
+     "start": 61.38,
+     "end": 62.24,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/084_darussafaka_916.jpg",
+    "fit": "doldur",
+    "baslik": "Darüşşafaka öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Darüşşafaka öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 62.66,
+     "end": 62.84,
+     "n": 1
+    },
+    {
+     "start": 62.84,
+     "end": 63.22,
+     "n": 1
+    },
+    {
+     "start": 63.22,
+     "end": 63.6,
+     "n": 1
+    },
+    {
+     "start": 63.6,
+     "end": 64.1,
+     "n": 1
+    },
+    {
+     "start": 64.1,
+     "end": 64.26,
+     "n": 1
+    },
+    {
+     "start": 64.26,
+     "end": 64.64,
+     "n": 1
+    },
+    {
+     "start": 64.64,
+     "end": 65.2,
+     "n": 1
+    },
+    {
+     "start": 65.2,
+     "end": 65.7,
+     "n": 1
+    },
+    {
+     "start": 65.7,
+     "end": 66.26,
+     "n": 1
+    },
+    {
+     "start": 66.26,
+     "end": 67.1,
+     "n": 1
+    },
+    {
+     "start": 67.1,
+     "end": 67.3,
+     "n": 1
+    },
+    {
+     "start": 67.3,
+     "end": 67.68,
+     "n": 1
+    },
+    {
+     "start": 67.68,
+     "end": 68.1,
+     "n": 1
+    },
+    {
+     "start": 68.1,
+     "end": 68.54,
+     "n": 1
+    },
+    {
+     "start": 68.54,
+     "end": 69.12,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
