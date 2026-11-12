@@ -1,7 +1,22 @@
 {
  "bolum": "084_okul_ceza",
- "min_w": 300,
- "sorgular": [],
- "incele": ["File:Falaka punishment in Azerbaijani school in Baku.jpg"],
- "indir": [{"file": "File:Falaka punishment in Azerbaijani school in Baku.jpg", "ad": "084_falaka_baku.jpg"}]
+ "min_w": 500,
+ "sorgular": [
+  "mahalle mektebi",
+  "Turkish school hodja",
+  "Turkish school teacher Ottoman",
+  "Constantinople Turkish school children teacher",
+  "Turkish school engraving",
+  "Thomas Allom school",
+  "Turkish primary school 19th century",
+  "Ottoman Quran school children",
+  "kuttab Ottoman",
+  "bastinado engraving",
+  "bastinado Turkey",
+  "falaka school",
+  "Sébah Joaillier school",
+  "Servet-i Fünun mektep"
+ ],
+ "incele": [],
+ "indir": []
 }
