@@ -35,3 +35,8 @@
 En uygunlar: toplu sınıf fotoğrafları 01 (Darüşşafaka), 03 (öğrenci ve öğretmenler), 14 (Emirgân kız rüşdiyesi), 27 (Aşiret); ikili portreler 07, 08, 10 (erkek), 12, 13, 16, 17, 18, 19 (kız). Albüm çerçevesi kırpılacak.
 Ek aday: 'Falaka punishment in Azerbaijani school in Baku.jpg' (Commons, kamu malı, kartpostal, Bakü Tatar mektebi — Türkiye değil, altyazıda öyle yazılmalı).
 Eksik: Cumhuriyet dönemi sınıf fotoğrafı ve sınıf içi ceza sahnesi yok.
+
+## Kaynak (ben okudum, 13.11.2026 01:00)
+- A = Halis Ayhan, "Falaka", TDV İslâm Ansiklopedisi (1995): https://islamansiklopedisi.org.tr/falaka — falaka mahalle mektepleri, medreseler ve özellikle askerî okullarda kullanıldı; ceza çoğu zaman ibret için herkesin önünde; hoca kalfalarla uygulardı; sayı suça ve hocanın keyfine göre; Ahmed Râsim'in "Falaka" kitabı ayrıntılı anlatır; son yıllarda Maarif Nizamnamesine aşırılığı önleyen hükümler, sopanın nitelikleri (tarih yok); Cumhuriyetin ilk yıllarında da sürdü. "eti senin kemiği benim" bu maddede YOK.
+- K = Cevdet Kırpık, "II. Abdülhamid Döneminde Kayseri İptidai Mektepleri", Belleten 87/308 (2023), s.153-193, dipnot 97: "Mekteplerde 1847 tarihli talimatla falaka ve diğer şiddete dayalı cezalar kaldırıldı." "Sonraki düzenlemelerde de fiziksel şiddet kesin olarak yasaklandı." (dayanak: Mustafa Gündüz, "Son Dönem Osmanlı Eğitiminde Disiplin ve Cezalandırma (1847-1920)", Doğu Batı 53, 2010, s.130-132 — HENÜZ OKUNMADI)
+- Hikâye fikri: 1847'de kâğıt üstünde kaldırıldı (K), ama Cumhuriyetin ilk yıllarına kadar sürdü (A). İkinci bağımsız kaynak gerekli.
