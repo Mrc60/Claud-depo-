@@ -1,2 +1,9 @@
-081_vakit1931.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1931/vakit_1931_subat_/vakit_1931_subat_24_.pdf
-081_sonposta1937.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1937/son%20posta_1937_ikincitesrin_/son%20posta_1937_ikincitesrin_14_.pdf
+082_yenisafak1999.html https://www.yenisafak.com/gundem/ssk-hasta-ediyor-2663459
+082_cum1996_0313_20.html https://egazete.cumhuriyet.com.tr/katalog/192/1996/3/13/20
+082_cum1994_0806_3.html https://egazete.cumhuriyet.com.tr/katalog/192/1994/8/6/3
+082_cum1994_0208_19.html https://egazete.cumhuriyet.com.tr/katalog/192/1994/2/8/19
+082_cum2003_0714_9.html https://egazete.cumhuriyet.com.tr/katalog/192/2003/7/14/9
+082_kanun5283.pdf https://www5.tbmm.gov.tr/tutanaklar/KANUNLAR_KARARLAR/kanuntbmmc089/kanuntbmmc089/kanuntbmmc08905283.pdf
+082_kanun5283_durum.html https://www5.tbmm.gov.tr/develop/owa/kanunlar.durumu?kanun_no=5283
+082_protokol2002.html https://www.memurlar.net/haber/1534/saglik-bakanligi-ile-ssk-saglik-tesislerinin-ortak-kullanimina-dair-protokol-ve-bu-protokolle-ilgili-saglik-bakanligi-genelgesi.html
+082_akra2003.html https://akra.media/Haber/HaberDetay/37125/ssk-lilar-istedikleri-eczaneden-ilac-alabilecek
