@@ -1,59 +1,20 @@
 {
- "bolum": "080_kktc",
+ "bolum": "081_belediye",
  "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:President John F. Kennedy Exits White House with Archbishop Makarios III, President of the Republic of Cyprus.jpg",
-  "File:Makarios terug in Cyprus op Nairobi, Bestanddeelnr 908-4951.jpg",
-  "File:Cyprus 1974 Post Invasion (3156833339).jpg",
-  "File:Cyprus 1974 Post Invasion (3157669164).jpg",
-  "File:1969 Nicosia Cyprus 8371818909.jpg",
-  "File:1969 Nicosia Cyprus 8372897288.jpg",
-  "File:1969 Nicosia Cyprus 8375364423.jpg",
-  "File:Cyprus 1974 (3158480681).jpg",
-  "File:Cyprus 1974 (3159308714).jpg",
-  "File:Bundesarchiv B 145 Bild-F014934-0019, München, Staatsbesuch Vizepräsident von Zypern.jpg"
+ "sorgular": [
+  "Muhittin Üstündağ",
+  "İstanbul çöpçü",
+  "Istanbul street sweeper",
+  "Constantinople street sweeper",
+  "İstanbul belediye zabıtası",
+  "Istanbul 1930s street",
+  "Istanbul 1940s street",
+  "carpet beating",
+  "beating carpet balcony",
+  "Istanbul cumba",
+  "İstanbul Belediyesi 1930",
+  "Cemil Topuzlu"
  ],
- "indir": [
-  {
-   "file": "File:President John F. Kennedy Exits White House with Archbishop Makarios III, President of the Republic of Cyprus.jpg",
-   "ad": "080_kennedy1962.jpg"
-  },
-  {
-   "file": "File:Makarios terug in Cyprus op Nairobi, Bestanddeelnr 908-4951.jpg",
-   "ad": "080_makarios1957.jpg"
-  },
-  {
-   "file": "File:Cyprus 1974 Post Invasion (3156833339).jpg",
-   "ad": "080_kamp1974.jpg"
-  },
-  {
-   "file": "File:Cyprus 1974 Post Invasion (3157669164).jpg",
-   "ad": "080_kamp1974b.jpg"
-  },
-  {
-   "file": "File:1969 Nicosia Cyprus 8371818909.jpg",
-   "ad": "080_lefkosa1969b.jpg"
-  },
-  {
-   "file": "File:1969 Nicosia Cyprus 8372897288.jpg",
-   "ad": "080_lefkosa1969c.jpg"
-  },
-  {
-   "file": "File:1969 Nicosia Cyprus 8375364423.jpg",
-   "ad": "080_lefkosa1969d.jpg"
-  },
-  {
-   "file": "File:Cyprus 1974 (3158480681).jpg",
-   "ad": "080_yol1974.jpg"
-  },
-  {
-   "file": "File:Cyprus 1974 (3159308714).jpg",
-   "ad": "080_koy1974.jpg"
-  },
-  {
-   "file": "File:Bundesarchiv B 145 Bild-F014934-0019, München, Staatsbesuch Vizepräsident von Zypern.jpg",
-   "ad": "080_kucuk2.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
