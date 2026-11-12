@@ -24,3 +24,12 @@
 - OKUNAMADI: Cumhuriyet e-gazete 08.02.1994, 06.08.1994, 13.03.1996, 14.07.2003 (403, abonelik/engel). "Gece 24.00", "03.00" ifadeleri DOĞRULANMADI.
 - 2002 protokolü (memurlar.net) indirildi, henüz okunmadı.
 - Görsel: GPT de uygun lisanslı fotoğraf bulamadı.
+
+## Perplexity raporu kontrolü (12.11.2026 23:45, BEN okudum)
+- DOĞRULANDI: Sabah, 04.01.2005, "Hastanede 'tele kuyruk' dönemi" (Merkez Haber Ajansı, Okmeydanı SSK): telefonla randevu sistemine geçilmiş, "vatandaş şimdi de evinde meşgul tonu bekleyerek kuyruğa giriyor"; röntgen için "Sabahın 03.00'ünde sıraya giren ve dondurucu soğukta bekleşen çoluk çocuk, yaşlı, genç hastalar"; röntgen sırası "170'e kadar sınırlı"; muhabirler 05.30'da vardıklarında "hava henüz karanlıktı"; 06.50'de kapılar açıldı, "Yaklaşık 200 kişilik bir kuyruk oluştu"; röntgen 07.45'te açıldı. Telefon randevusunu Çalışma Bakanı Yaşar Okuyan'ın "En büyük projem" dediği yazıyor.
+- => Sabaha karşı kuyruk İKİ BAĞIMSIZ kaynakta: Yeni Şafak 29.06.1999 (05.00 sıra, 07.30 numara, 09.00 muayene) + Sabah 04.01.2005 (03.00 röntgen sırası, 200 kişilik kuyruk).
+- DOĞRULANDI: TBMM yazılı soru cevabı (Sağlık Bakanlığı, Emin Şirin önergesi): "Bakanlığımıza 148 adet hastane ile 11 adet Ağız ve Diş Sağlığı Merkezi devredilmiştir."
+- ÇELİŞKİ: başka bir önerge metni "yaklaşık 400 sağlık tesisi ... devredildi ya da kapatıldı" diyor (milletvekili iddiası, kapsamı farklı). Videoda sayı verilecekse sadece "148 hastane" (Bakanlık cevabı).
+- TBMM genel kurul konuşması (eid=2590): "3 kişi giderlerdi; bir tanesi doktor kuyruğuna, bir tanesi eczacı kuyruğuna, diğeri de paraları yatıracak kuyruğa" — siyasi konuşma, KULLANILMAZ.
+- SD Platform 2011: tek kişi tanıklığı ("Sabah 6'da kuyruğa girer, belki öğleye kadar ancak muayene olabilirdik"), seçim röportajı; destekleyici, tek başına kaynak değil.
+- Görsel: Perplexity de uygun lisanslı fotoğraf bulamadı (önerdikleri kitantik ilanı lisanssız, logolar fotoğraf değil).
