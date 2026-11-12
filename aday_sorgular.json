@@ -1,20 +1,51 @@
 {
  "bolum": "082_kardes",
- "min_w": 800,
+ "min_w": 700,
  "sorgular": [
-  "Fatih Sultan Mehmed portrait Bellini",
-  "Mehmed II portrait miniature",
-  "Mehmed III Ottoman sultan portrait",
-  "Ahmed I Ottoman sultan portrait",
-  "Mustafa I Ottoman sultan portrait",
-  "Bayezid I portrait engraving",
-  "Battle of Ankara 1402",
-  "Ottoman princes miniature",
-  "Topkapı Palace harem kafes",
-  "Şehzadeler türbesi Ayasofya",
-  "Tombs of the princes Hagia Sophia",
-  "Ottoman kanunname manuscript"
+  "x"
  ],
- "incele": [],
- "indir": []
+ "incele": [
+  "File:Bellini, Gentile - Portrait of Mehmed II - National Gallery, London.jpg",
+  "File:Portret van sultan Bayezid I, RP-P-OB-43.239.jpg",
+  "File:Battle of Ankara, Ahmet Rasim.png",
+  "File:Mehmed III by John Young.jpg",
+  "File:Ahmed I by John Young.jpg",
+  "File:Mustafa I by John Young.jpg",
+  "File:Arbre généalogique des trente premiers sultans ottomans - Musée du Louvre Arts de l'Islam MAO 2315.jpg",
+  "File:Houghton EC7 T4922 734c (B) - Mahomet III.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Bellini, Gentile - Portrait of Mehmed II - National Gallery, London.jpg",
+   "ad": "082_fatih.jpg"
+  },
+  {
+   "file": "File:Portret van sultan Bayezid I, RP-P-OB-43.239.jpg",
+   "ad": "082_bayezid.jpg"
+  },
+  {
+   "file": "File:Battle of Ankara, Ahmet Rasim.png",
+   "ad": "082_ankara.jpg"
+  },
+  {
+   "file": "File:Mehmed III by John Young.jpg",
+   "ad": "082_mehmed3.jpg"
+  },
+  {
+   "file": "File:Ahmed I by John Young.jpg",
+   "ad": "082_ahmed1.jpg"
+  },
+  {
+   "file": "File:Mustafa I by John Young.jpg",
+   "ad": "082_mustafa1.jpg"
+  },
+  {
+   "file": "File:Arbre généalogique des trente premiers sultans ottomans - Musée du Louvre Arts de l'Islam MAO 2315.jpg",
+   "ad": "082_silsile.jpg"
+  },
+  {
+   "file": "File:Houghton EC7 T4922 734c (B) - Mahomet III.jpg",
+   "ad": "082_mehmed3b.jpg"
+  }
+ ]
 }
