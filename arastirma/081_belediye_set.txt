@@ -1,0 +1,40 @@
+=== YT_BASLIK ===
+Sokağa tükürene ceza vardı! 1925 İstanbul'unda belediye yasakları #SıradanDeğil 81
+=== YT_ACIKLAMA ===
+1925'te İstanbul Şehremaneti yeni bir zabıta talimatnamesi çıkardı: sokağa hiçbir şey atılamaz, tükürmek ve sümkürmek yasaktır, halı yalnız perşembe günleri silkilebilir. Peki işe yaradı mı? 1931'de belediye başkanı Muhittin Bey mecliste "Halkı sokaklara tükürmekten menedemedik. Talimatname yaptık. Ceza aldık. Yine tükürdüler." dedi. 1937'de bir haftada 420 kişiye ceza kesildi; hepsi tramvaydan atlamak, caddeyi işgal etmek gibi suçlardı. Sokağı kirlettiği için ceza alan kimse yoktu. Bugün de tükürmek belediyelerin yasak listesinde duruyor.
+
+Kaynaklar:
+- İstanbul Şehremaneti Mecmuası, sayı 14, Ekim 1925, s. 60-61, Zabıta-i Belediye Talimatnamesi (İBB Atatürk Kitaplığı)
+- Vakit gazetesi, 24 Şubat 1931, s. 1 (İstanbul Üniversitesi gazete arşivi): https://nek.istanbul.edu.tr/ekos/GAZETE/vakit/vakit_1931/vakit_1931_subat_/vakit_1931_subat_24_.pdf
+- Son Posta gazetesi, 14 Kasım 1937, s. 2 (İstanbul Üniversitesi gazete arşivi): https://nek.istanbul.edu.tr/ekos/GAZETE/son%20posta/son%20posta_1937/son%20posta_1937_ikincitesrin_/son%20posta_1937_ikincitesrin_14_.pdf
+- Sultangazi Belediyesi Emir ve Yasaklar Yönetmeliği, madde 5
+
+Görseller: İstanbul sokakları 1870-1906 ve Galata 1920'ler (Library of Congress, bilinen kısıtlama yok); Vakit 1931 ve Son Posta 1937 sayfaları (İstanbul Üniversitesi gazete arşivi).
+Seslendirme yapay zekâ ile üretilmiştir.
+
+#SıradanDeğil #tarih #İstanbul
+=== YT_ETIKET ===
+belediye yasakları, tükürmek yasak, 1925 İstanbul, zabıta talimatnamesi, Şehremaneti, Muhittin Üstündağ, halı silkme, eski İstanbul, İstanbul tarihi, Son Posta 1937, Vakit gazetesi, Sıradan Değil
+=== YT_SABIT ===
+Siz sokağa tükürene ceza kesildiğini hiç gördünüz mü? 👇
+=== TT_ACIKLAMA ===
+1925'te İstanbul'da sokağa tükürmek yasaktı, halı da yalnız perşembe silkilebilirdi. Peki işe yaradı mı? 1931'de belediye başkanı "Yine tükürdüler" dedi.
+Kaynaklar: Şehremaneti Mecmuası 1925; Vakit 24.02.1931; Son Posta 14.11.1937; Sultangazi Belediyesi yönetmeliği
+Görseller: Library of Congress, İÜ gazete arşivi
+#SıradanDeğil #tarih #İstanbul #belediye #eskiİstanbul
+=== TT_SABIT ===
+Siz sokağa tükürene ceza kesildiğini hiç gördünüz mü? 👇
+=== FBIG_ACIKLAMA ===
+1925'te İstanbul'da sokağa tükürmek yasaktı. 1931'de belediye başkanı "Yine tükürdüler" dedi.
+Kaynaklar: Şehremaneti Mecmuası 1925; Vakit 1931; Son Posta 1937
+Görseller: Library of Congress, İÜ arşivi
+#SıradanDeğil #tarih #İstanbul #belediye
+=== IG_ACIKLAMA ===
+1925'te İstanbul'da sokağa tükürmek yasaktı. 1931'de belediye başkanı "Yine tükürdüler" dedi.
+Kaynaklar: Şehremaneti Mecmuası 1925; Vakit 1931; Son Posta 1937
+Görseller: Library of Congress, İÜ arşivi
+#SıradanDeğil #tarih #İstanbul #belediye #eskiİstanbul
+=== FBIG_SABIT ===
+Siz sokağa tükürene ceza kesildiğini hiç gördünüz mü? 👇
+=== X_ACIKLAMA ===
+1925'te İstanbul'da sokağa tükürmek yasaktı. 1931'de belediye başkanı mecliste "Ceza aldık, yine tükürdüler" dedi. Kaynak: Vakit 1931, Son Posta 1937. #SıradanDeğil #İstanbul
