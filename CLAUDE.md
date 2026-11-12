@@ -251,6 +251,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - İSTATİSTİK (03.11.2026): istatistik.yml her gün 06:10 İstanbul'da Zernio'dan (secret ZERNIO_API_KEY, salt okuma) son 28 günü çeker, 'istatistik' dalına ozet.md + gunluk/*.json yazar. Konu kararlarında bu tabloya bak.
 - ALTYAZI ZAMANI (03.11.2026, #62 hatası): Kelime zamanını harf sayısıyla tahmin etme; transkript.yml (faster-whisper) ile gerçek kelime zamanlarını al, bolumler'i kelime kelime doldur.
 
+- RENKLİ GÖRSEL (12.11.2026, #80 hatası, TEK1 yakaladı): #80 KKTC'de 12 sahnenin 7'si renkli 1969 dia fotoğrafıydı; siyah-beyaz bulamayınca renkliyi seçtim, TEK1'e sormadım. 'Fotoğrafla oynama' kuralını bahane ettim; asıl kural siyah-beyaz fotoğraf SEÇMEK. Önlem: görsel listesinde renkli varsa (doygunluk > 20) kullanmadan önce TEK1'e 'siyah-beyaz yok, renkli kullanayım mı' diye sor; önce LOC/Anefo/Bundesarchiv'de siyah-beyaz ara.
 - BELGE GÖRSELİ KENARI (10.11.2026, #77 hatası): render.py doldur modunda 9:16 görseli bile kenardan ~%6 kırpıyor; belge/tutanak kesitine her yandan en az %10 beyaz pay koy ve hiz 0 ver. Teslimden önce belge sahnesinin karesinde ilk/son harflere bak.
 - SADECE GÖRSEL DEĞİŞİRSE (10.11.2026, #77 hatası): video-uret.yml yalnızca episodes/** değişince çalışır. Sadece assets/belgeler değişti ise bölüm JSONuna küçük alan (ör. "surum") ekleyip birlikte gönder.
 
