@@ -1,0 +1,1225 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 82,
+ "slug": "kardes",
+ "title": "Kardeş Katli Kanunu",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kardeşini öldürmeye\nizin veren kanun",
+ "dis_ses": {
+  "file": "assets/ses/082_kardes.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     9.44
+    ]
+   ],
+   [
+    [
+     9.44,
+     23.36
+    ]
+   ],
+   [
+    [
+     23.36,
+     39.84
+    ]
+   ],
+   [
+    [
+     39.84,
+     50.5
+    ]
+   ],
+   [
+    [
+     50.5,
+     66.06
+    ]
+   ],
+   [
+    [
+     66.06,
+     82.5
+    ]
+   ],
+   [
+    [
+     82.5,
+     90.82
+    ]
+   ],
+   [
+    [
+     90.82,
+     108.2
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir padişah düşünün. Tahta çıktığında, kendi kardeşlerini öldürtebiliyor. Üstelik bu, Osmanlının ünlü bir kanunnamesinde yazıyordu.",
+   "caption": "Bir padişah düşünün. Tahta çıktığında, kendi kardeşlerini öldürtebiliyor. Üstelik bu, Osmanlının ünlü bir kanunnamesinde yazıyordu.",
+   "key": [
+    "padişah"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_mehmed3b.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan III. Mehmed, 1734 gravürü · Claude du Bosc, Houghton Library, Harvard / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Sultan III. Mehmed, 1734 gravürü · Claude du Bosc, Houghton Library, Harvard / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.18,
+     0.1,
+     0.82,
+     0.72
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.36,
+     "n": 1
+    },
+    {
+     "start": 0.36,
+     "end": 0.9,
+     "n": 1
+    },
+    {
+     "start": 0.9,
+     "end": 1.68,
+     "n": 1
+    },
+    {
+     "start": 1.82,
+     "end": 2.12,
+     "n": 1
+    },
+    {
+     "start": 2.12,
+     "end": 2.98,
+     "n": 1
+    },
+    {
+     "start": 2.98,
+     "end": 3.44,
+     "n": 1
+    },
+    {
+     "start": 3.44,
+     "end": 4.1,
+     "n": 1
+    },
+    {
+     "start": 4.1,
+     "end": 4.96,
+     "n": 1
+    },
+    {
+     "start": 5.42,
+     "end": 5.86,
+     "n": 1
+    },
+    {
+     "start": 5.86,
+     "end": 6.38,
+     "n": 1
+    },
+    {
+     "start": 6.62,
+     "end": 7.14,
+     "n": 1
+    },
+    {
+     "start": 7.14,
+     "end": 7.54,
+     "n": 1
+    },
+    {
+     "start": 7.54,
+     "end": 7.82,
+     "n": 1
+    },
+    {
+     "start": 7.82,
+     "end": 8.64,
+     "n": 1
+    },
+    {
+     "start": 8.64,
+     "end": 9.32,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Fatih Sultan Mehmedin kanunnamesinde şu ifade yer alıyordu: Evladımdan kime saltanat nasip olursa, dünyanın düzeni için kardeşlerini öldürtmesi uygundur. Âlimlerin çoğu da buna izin vermiştir.",
+   "caption": "Fatih Sultan Mehmedin kanunnamesinde şu ifade yer alıyordu: Evladımdan kime saltanat nasip olursa, dünyanın düzeni için kardeşlerini öldürtmesi uygundur. Âlimlerin çoğu da buna izin vermiştir.",
+   "key": [
+    "kanunname"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_fatih.jpg",
+    "fit": "doldur",
+    "baslik": "Fatih Sultan Mehmed, 1480, yağlı boya portre · Gentile Bellini, National Gallery Londra / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Fatih Sultan Mehmed, 1480, yağlı boya portre · Gentile Bellini, National Gallery Londra / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0.18,
+     0.72,
+     0.72
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.86,
+     "end": 10.22,
+     "n": 1
+    },
+    {
+     "start": 10.22,
+     "end": 10.6,
+     "n": 1
+    },
+    {
+     "start": 10.6,
+     "end": 11.1,
+     "n": 1
+    },
+    {
+     "start": 11.1,
+     "end": 12.14,
+     "n": 1
+    },
+    {
+     "start": 12.14,
+     "end": 12.4,
+     "n": 1
+    },
+    {
+     "start": 12.4,
+     "end": 12.8,
+     "n": 1
+    },
+    {
+     "start": 12.8,
+     "end": 13.06,
+     "n": 1
+    },
+    {
+     "start": 13.06,
+     "end": 13.58,
+     "n": 1
+    },
+    {
+     "start": 14.12,
+     "end": 14.84,
+     "n": 1
+    },
+    {
+     "start": 14.84,
+     "end": 15.16,
+     "n": 1
+    },
+    {
+     "start": 15.16,
+     "end": 15.74,
+     "n": 1
+    },
+    {
+     "start": 15.74,
+     "end": 16.14,
+     "n": 1
+    },
+    {
+     "start": 16.14,
+     "end": 16.88,
+     "n": 1
+    },
+    {
+     "start": 17.1,
+     "end": 17.5,
+     "n": 1
+    },
+    {
+     "start": 17.5,
+     "end": 17.88,
+     "n": 1
+    },
+    {
+     "start": 17.88,
+     "end": 18.3,
+     "n": 1
+    },
+    {
+     "start": 18.3,
+     "end": 19.06,
+     "n": 1
+    },
+    {
+     "start": 19.06,
+     "end": 19.78,
+     "n": 1
+    },
+    {
+     "start": 19.78,
+     "end": 20.5,
+     "n": 1
+    },
+    {
+     "start": 20.96,
+     "end": 21.52,
+     "n": 1
+    },
+    {
+     "start": 21.52,
+     "end": 21.9,
+     "n": 1
+    },
+    {
+     "start": 21.9,
+     "end": 22.08,
+     "n": 1
+    },
+    {
+     "start": 22.08,
+     "end": 22.24,
+     "n": 1
+    },
+    {
+     "start": 22.24,
+     "end": 22.66,
+     "n": 1
+    },
+    {
+     "start": 22.66,
+     "end": 23.24,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "FATİH KANUNNAMESİ",
+    "baslik": "Nizâm-ı âlem için",
+    "bekle": 0.6,
+    "maddeler": [
+     "Kardeş katli: uygundur",
+     "Âlimlerin çoğu: izin verdi"
+    ],
+    "basla": 4.38,
+    "zamanlar": [
+     4.68,
+     11.52
+    ]
+   }
+  },
+  {
+   "say": "Peki bir devlet neden böyle bir maddeye ihtiyaç duydu? Çünkü Osmanlı, taht kavgalarının bedelini ağır ödemişti. Ankara Savaşından sonra Yıldırım Bayezidin oğulları yıllarca birbirleriyle savaştı. Devlet neredeyse parçalanıyordu.",
+   "caption": "Peki bir devlet neden böyle bir maddeye ihtiyaç duydu? Çünkü Osmanlı, taht kavgalarının bedelini ağır ödemişti. Ankara Savaşından sonra Yıldırım Bayezidin oğulları yıllarca birbirleriyle savaştı. Devlet neredeyse parçalanıyordu.",
+   "key": [
+    "Ankara"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_ankara.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara Savaşı haritası, 1908 · Ahmet Rasim, Resimli ve Haritalı Osmanlı Tarihi / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Ankara Savaşı haritası, 1908 · Ahmet Rasim, Resimli ve Haritalı Osmanlı Tarihi / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 23.6,
+     "end": 24.02,
+     "n": 1
+    },
+    {
+     "start": 24.02,
+     "end": 24.46,
+     "n": 1
+    },
+    {
+     "start": 24.46,
+     "end": 24.94,
+     "n": 1
+    },
+    {
+     "start": 24.94,
+     "end": 25.34,
+     "n": 1
+    },
+    {
+     "start": 25.34,
+     "end": 25.66,
+     "n": 1
+    },
+    {
+     "start": 25.66,
+     "end": 25.88,
+     "n": 1
+    },
+    {
+     "start": 25.88,
+     "end": 26.32,
+     "n": 1
+    },
+    {
+     "start": 26.32,
+     "end": 26.8,
+     "n": 1
+    },
+    {
+     "start": 26.8,
+     "end": 27.08,
+     "n": 1
+    },
+    {
+     "start": 27.08,
+     "end": 27.88,
+     "n": 1
+    },
+    {
+     "start": 27.88,
+     "end": 28.76,
+     "n": 1
+    },
+    {
+     "start": 28.76,
+     "end": 29.18,
+     "n": 1
+    },
+    {
+     "start": 29.18,
+     "end": 29.86,
+     "n": 1
+    },
+    {
+     "start": 29.86,
+     "end": 30.54,
+     "n": 1
+    },
+    {
+     "start": 30.54,
+     "end": 30.84,
+     "n": 1
+    },
+    {
+     "start": 30.84,
+     "end": 31.74,
+     "n": 1
+    },
+    {
+     "start": 31.96,
+     "end": 32.32,
+     "n": 1
+    },
+    {
+     "start": 32.32,
+     "end": 32.98,
+     "n": 1
+    },
+    {
+     "start": 32.98,
+     "end": 33.38,
+     "n": 1
+    },
+    {
+     "start": 33.38,
+     "end": 33.9,
+     "n": 1
+    },
+    {
+     "start": 33.9,
+     "end": 34.5,
+     "n": 1
+    },
+    {
+     "start": 34.5,
+     "end": 35.18,
+     "n": 1
+    },
+    {
+     "start": 35.18,
+     "end": 35.86,
+     "n": 1
+    },
+    {
+     "start": 35.86,
+     "end": 36.64,
+     "n": 1
+    },
+    {
+     "start": 36.64,
+     "end": 37.32,
+     "n": 1
+    },
+    {
+     "start": 37.66,
+     "end": 38.16,
+     "n": 1
+    },
+    {
+     "start": 38.16,
+     "end": 38.8,
+     "n": 1
+    },
+    {
+     "start": 38.8,
+     "end": 39.72,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama kanunnamedeki bir kelimeye dikkat edin: Gereklidir değil, uygundur deniyordu. Yani bu bir zorunluluk değil, hükümdara tanınmış bir izindi.",
+   "caption": "Ama kanunnamedeki bir kelimeye dikkat edin: Gereklidir değil, uygundur deniyordu. Yani bu bir zorunluluk değil, hükümdara tanınmış bir izindi.",
+   "key": [
+    "uygundur"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_bayezid.jpg",
+    "fit": "doldur",
+    "baslik": "Yıldırım Bayezid, 18. yüzyıl gravürü · Rijksmuseum, CC0",
+    "lisans": "",
+    "kaynak": "Yıldırım Bayezid, 18. yüzyıl gravürü · Rijksmuseum, CC0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.26,
+     0.22,
+     0.74,
+     0.58
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 40.26,
+     "end": 40.5,
+     "n": 1
+    },
+    {
+     "start": 40.5,
+     "end": 41.54,
+     "n": 1
+    },
+    {
+     "start": 41.54,
+     "end": 41.86,
+     "n": 1
+    },
+    {
+     "start": 41.86,
+     "end": 42.3,
+     "n": 1
+    },
+    {
+     "start": 42.3,
+     "end": 42.62,
+     "n": 1
+    },
+    {
+     "start": 42.62,
+     "end": 43.16,
+     "n": 1
+    },
+    {
+     "start": 43.38,
+     "end": 44.0,
+     "n": 1
+    },
+    {
+     "start": 44.0,
+     "end": 44.4,
+     "n": 1
+    },
+    {
+     "start": 44.84,
+     "end": 45.34,
+     "n": 1
+    },
+    {
+     "start": 45.34,
+     "end": 45.96,
+     "n": 1
+    },
+    {
+     "start": 46.42,
+     "end": 46.76,
+     "n": 1
+    },
+    {
+     "start": 46.76,
+     "end": 47.06,
+     "n": 1
+    },
+    {
+     "start": 47.06,
+     "end": 47.32,
+     "n": 1
+    },
+    {
+     "start": 47.32,
+     "end": 47.88,
+     "n": 1
+    },
+    {
+     "start": 47.88,
+     "end": 48.22,
+     "n": 1
+    },
+    {
+     "start": 48.54,
+     "end": 49.04,
+     "n": 1
+    },
+    {
+     "start": 49.04,
+     "end": 49.56,
+     "n": 1
+    },
+    {
+     "start": 49.56,
+     "end": 49.98,
+     "n": 1
+    },
+    {
+     "start": 49.98,
+     "end": 50.38,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu uygulamanın en ağır örneklerinden biri, Üçüncü Mehmedin tahta çıkışında yaşandı. On dokuz kardeşi öldürüldü. Çoğu henüz küçük yaştaydı. Ertesi gün on dokuz cenazenin saraydan çıkarılması halkta büyük tepki doğurdu.",
+   "caption": "Bu uygulamanın en ağır örneklerinden biri, Üçüncü Mehmedin tahta çıkışında yaşandı. On dokuz kardeşi öldürüldü. Çoğu henüz küçük yaştaydı. Ertesi gün on dokuz cenazenin saraydan çıkarılması halkta büyük tepki doğurdu.",
+   "key": [
+    "On dokuz"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_mehmed3.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan III. Mehmed, 1815 gravürü · John Young / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Sultan III. Mehmed, 1815 gravürü · John Young / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 50.82,
+     "end": 51.0,
+     "n": 1
+    },
+    {
+     "start": 51.0,
+     "end": 51.84,
+     "n": 1
+    },
+    {
+     "start": 51.84,
+     "end": 52.04,
+     "n": 1
+    },
+    {
+     "start": 52.04,
+     "end": 52.22,
+     "n": 1
+    },
+    {
+     "start": 52.22,
+     "end": 53.0,
+     "n": 1
+    },
+    {
+     "start": 53.0,
+     "end": 53.44,
+     "n": 1
+    },
+    {
+     "start": 53.44,
+     "end": 53.78,
+     "n": 1
+    },
+    {
+     "start": 53.96,
+     "end": 54.44,
+     "n": 1
+    },
+    {
+     "start": 54.44,
+     "end": 54.78,
+     "n": 1
+    },
+    {
+     "start": 54.78,
+     "end": 55.28,
+     "n": 1
+    },
+    {
+     "start": 55.28,
+     "end": 55.86,
+     "n": 1
+    },
+    {
+     "start": 55.86,
+     "end": 56.31,
+     "n": 1
+    },
+    {
+     "start": 56.31,
+     "end": 56.76,
+     "n": 1
+    },
+    {
+     "start": 56.76,
+     "end": 57.52,
+     "n": 1
+    },
+    {
+     "start": 57.52,
+     "end": 58.38,
+     "n": 1
+    },
+    {
+     "start": 58.6,
+     "end": 58.96,
+     "n": 1
+    },
+    {
+     "start": 58.96,
+     "end": 59.36,
+     "n": 1
+    },
+    {
+     "start": 59.36,
+     "end": 59.7,
+     "n": 1
+    },
+    {
+     "start": 59.7,
+     "end": 60.58,
+     "n": 1
+    },
+    {
+     "start": 60.78,
+     "end": 61.26,
+     "n": 1
+    },
+    {
+     "start": 61.26,
+     "end": 61.52,
+     "n": 1
+    },
+    {
+     "start": 61.52,
+     "end": 61.83,
+     "n": 1
+    },
+    {
+     "start": 61.83,
+     "end": 62.14,
+     "n": 1
+    },
+    {
+     "start": 62.14,
+     "end": 62.72,
+     "n": 1
+    },
+    {
+     "start": 62.72,
+     "end": 63.34,
+     "n": 1
+    },
+    {
+     "start": 63.34,
+     "end": 64.18,
+     "n": 1
+    },
+    {
+     "start": 64.42,
+     "end": 64.76,
+     "n": 1
+    },
+    {
+     "start": 64.76,
+     "end": 65.08,
+     "n": 1
+    },
+    {
+     "start": 65.08,
+     "end": 65.44,
+     "n": 1
+    },
+    {
+     "start": 65.44,
+     "end": 65.94,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki yüzyıllarca süren bu gelenek nasıl sona erdi? Birinci Ahmed tahta çıktığında kardeşi Mustafanın hayatına dokunmadı. Ahmed öldüğünde ise tahta oğlu değil, kardeşi Mustafa geçti. Bu, Osmanlı tarihinde bir ilkti.",
+   "caption": "Peki yüzyıllarca süren bu gelenek nasıl sona erdi? Birinci Ahmed tahta çıktığında kardeşi Mustafanın hayatına dokunmadı. Ahmed öldüğünde ise tahta oğlu değil, kardeşi Mustafa geçti. Bu, Osmanlı tarihinde bir ilkti.",
+   "key": [
+    "Ahmed"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_ahmed1.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan I. Ahmed, 1815 gravürü · John Young / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Sultan I. Ahmed, 1815 gravürü · John Young / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 66.36,
+     "end": 66.78,
+     "n": 1
+    },
+    {
+     "start": 67.18,
+     "end": 67.82,
+     "n": 1
+    },
+    {
+     "start": 67.82,
+     "end": 68.08,
+     "n": 1
+    },
+    {
+     "start": 68.08,
+     "end": 68.34,
+     "n": 1
+    },
+    {
+     "start": 68.34,
+     "end": 68.88,
+     "n": 1
+    },
+    {
+     "start": 68.88,
+     "end": 69.32,
+     "n": 1
+    },
+    {
+     "start": 69.32,
+     "end": 69.64,
+     "n": 1
+    },
+    {
+     "start": 69.64,
+     "end": 69.94,
+     "n": 1
+    },
+    {
+     "start": 70.4,
+     "end": 70.72,
+     "n": 1
+    },
+    {
+     "start": 70.84,
+     "end": 71.2,
+     "n": 1
+    },
+    {
+     "start": 71.2,
+     "end": 71.52,
+     "n": 1
+    },
+    {
+     "start": 71.52,
+     "end": 72.32,
+     "n": 1
+    },
+    {
+     "start": 72.32,
+     "end": 72.88,
+     "n": 1
+    },
+    {
+     "start": 72.88,
+     "end": 73.36,
+     "n": 1
+    },
+    {
+     "start": 73.36,
+     "end": 73.9,
+     "n": 1
+    },
+    {
+     "start": 73.9,
+     "end": 74.5,
+     "n": 1
+    },
+    {
+     "start": 75.02,
+     "end": 75.34,
+     "n": 1
+    },
+    {
+     "start": 75.34,
+     "end": 75.92,
+     "n": 1
+    },
+    {
+     "start": 75.92,
+     "end": 76.38,
+     "n": 1
+    },
+    {
+     "start": 76.38,
+     "end": 76.86,
+     "n": 1
+    },
+    {
+     "start": 76.86,
+     "end": 77.26,
+     "n": 1
+    },
+    {
+     "start": 77.26,
+     "end": 77.72,
+     "n": 1
+    },
+    {
+     "start": 78.14,
+     "end": 78.42,
+     "n": 1
+    },
+    {
+     "start": 78.42,
+     "end": 78.76,
+     "n": 1
+    },
+    {
+     "start": 78.76,
+     "end": 79.52,
+     "n": 1
+    },
+    {
+     "start": 79.72,
+     "end": 80.12,
+     "n": 1
+    },
+    {
+     "start": 80.12,
+     "end": 80.76,
+     "n": 1
+    },
+    {
+     "start": 80.76,
+     "end": 81.38,
+     "n": 1
+    },
+    {
+     "start": 81.38,
+     "end": 81.76,
+     "n": 1
+    },
+    {
+     "start": 81.76,
+     "end": 82.5,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Böylece taht, hanedanın en yaşlı erkek üyesine geçmeye başladı. Kardeş katli uygulaması da zamanla ortadan kalktı.",
+   "caption": "Böylece taht, hanedanın en yaşlı erkek üyesine geçmeye başladı. Kardeş katli uygulaması da zamanla ortadan kalktı.",
+   "key": [
+    "en yaşlı"
+   ],
+   "image": {
+    "local": "assets/belgeler/082_silsile.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı padişahlarının soy ağacı, 1819 · Musée du Louvre / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı padişahlarının soy ağacı, 1819 · Musée du Louvre / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 82.5,
+     "end": 83.24,
+     "n": 1
+    },
+    {
+     "start": 83.24,
+     "end": 83.7,
+     "n": 1
+    },
+    {
+     "start": 83.92,
+     "end": 84.38,
+     "n": 1
+    },
+    {
+     "start": 84.38,
+     "end": 84.82,
+     "n": 1
+    },
+    {
+     "start": 84.82,
+     "end": 85.28,
+     "n": 1
+    },
+    {
+     "start": 85.28,
+     "end": 85.58,
+     "n": 1
+    },
+    {
+     "start": 85.58,
+     "end": 86.02,
+     "n": 1
+    },
+    {
+     "start": 86.02,
+     "end": 86.42,
+     "n": 1
+    },
+    {
+     "start": 86.42,
+     "end": 86.98,
+     "n": 1
+    },
+    {
+     "start": 87.56,
+     "end": 87.82,
+     "n": 1
+    },
+    {
+     "start": 87.82,
+     "end": 88.16,
+     "n": 1
+    },
+    {
+     "start": 88.16,
+     "end": 88.82,
+     "n": 1
+    },
+    {
+     "start": 88.82,
+     "end": 89.2,
+     "n": 1
+    },
+    {
+     "start": 89.2,
+     "end": 89.7,
+     "n": 1
+    },
+    {
+     "start": 89.7,
+     "end": 90.2,
+     "n": 1
+    },
+    {
+     "start": 90.2,
+     "end": 90.7,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizce devletin birliği için böyle bir kanun haklı görülebilir mi? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce devletin birliği için böyle bir kanun haklı görülebilir mi? Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/082_mustafa1.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan I. Mustafa, 1815 gravürü · John Young / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Sultan I. Mustafa, 1815 gravürü · John Young / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 91.18,
+     "end": 91.66,
+     "n": 1
+    },
+    {
+     "start": 91.66,
+     "end": 92.3,
+     "n": 1
+    },
+    {
+     "start": 92.3,
+     "end": 92.68,
+     "n": 1
+    },
+    {
+     "start": 92.68,
+     "end": 93.08,
+     "n": 1
+    },
+    {
+     "start": 93.08,
+     "end": 93.44,
+     "n": 1
+    },
+    {
+     "start": 93.44,
+     "end": 93.72,
+     "n": 1
+    },
+    {
+     "start": 93.72,
+     "end": 94.14,
+     "n": 1
+    },
+    {
+     "start": 94.14,
+     "end": 94.64,
+     "n": 1
+    },
+    {
+     "start": 94.64,
+     "end": 95.12,
+     "n": 1
+    },
+    {
+     "start": 95.12,
+     "end": 95.32,
+     "n": 1
+    },
+    {
+     "start": 95.76,
+     "end": 96.62,
+     "n": 1
+    },
+    {
+     "start": 96.62,
+     "end": 97.24,
+     "n": 1
+    },
+    {
+     "start": 97.24,
+     "end": 98.04,
+     "n": 1
+    },
+    {
+     "start": 98.28,
+     "end": 98.9,
+     "n": 1
+    },
+    {
+     "start": 98.9,
+     "end": 99.22,
+     "n": 1
+    },
+    {
+     "start": 99.22,
+     "end": 99.9,
+     "n": 1
+    },
+    {
+     "start": 99.9,
+     "end": 100.8,
+     "n": 1
+    },
+    {
+     "start": 101.38,
+     "end": 101.6,
+     "n": 1
+    },
+    {
+     "start": 101.6,
+     "end": 101.98,
+     "n": 1
+    },
+    {
+     "start": 101.98,
+     "end": 102.32,
+     "n": 1
+    },
+    {
+     "start": 102.32,
+     "end": 102.84,
+     "n": 1
+    },
+    {
+     "start": 102.84,
+     "end": 103.0,
+     "n": 1
+    },
+    {
+     "start": 103.0,
+     "end": 103.4,
+     "n": 1
+    },
+    {
+     "start": 103.4,
+     "end": 104.0,
+     "n": 1
+    },
+    {
+     "start": 104.0,
+     "end": 104.52,
+     "n": 1
+    },
+    {
+     "start": 104.52,
+     "end": 105.1,
+     "n": 1
+    },
+    {
+     "start": 105.1,
+     "end": 105.86,
+     "n": 1
+    },
+    {
+     "start": 105.86,
+     "end": 106.06,
+     "n": 1
+    },
+    {
+     "start": 106.06,
+     "end": 106.46,
+     "n": 1
+    },
+    {
+     "start": 106.46,
+     "end": 107.0,
+     "n": 1
+    },
+    {
+     "start": 107.0,
+     "end": 107.44,
+     "n": 1
+    },
+    {
+     "start": 107.44,
+     "end": 108.0,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
