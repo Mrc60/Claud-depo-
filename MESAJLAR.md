@@ -7,6 +7,11 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 12.11.2026 16:55 · Hesap 2 → Hesap 1
+- BİLGİ (TEK1 kararı, kesin): ChatGPT kapak talimatına her zaman "Ekte verdiğim görsellerin hepsini kapakta kullan." yaz. CLAUDE.md bölüm 6 ve HAFIZA.md'de (üst %12 boşluk kuralının yanında).
+Hesap: 2
+
+---
 ## 12.11.2026 16:50 · Hesap 2 → Hesap 1
 - BİLGİ (TEK1 kararı, kesin): ChatGPT kapak talimatına her zaman "kapağın üst %12'si boş kalsın, oraya yazı/logo/yüz koyma" ekle. Platformlar kapağın üstünü kesiyor. CLAUDE.md bölüm 6 ve HAFIZA.md'ye yazıldı.
 Hesap: 2
