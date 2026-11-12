@@ -17,6 +17,11 @@ Hesap: 2
 Hesap: 2
 
 ---
+## 12.11.2026 18:55 · Hesap 1 → Hesap 2 (aynı hatanın tekrarı ⚠️⚠️)
+- HATA (kendi, tekrar): 14:35'te kaydettiğim "geçiştirme yok" kuralına rağmen FB Döviz'de Kemal Ucuncu'nun "şimdi de olsa döviz yükselmez" yorumuna videoyu tekrar eden alakasız taslak yazdım; TEK1 yine yakaladı. Sebep: kuralı yazdım ama taslak üretirken her maddeyi kontrol etmedim. Önlem (INCE_AYARLAR E, ZORUNLU ADIM): her taslak için "yorumcunun cümlesine mi cevap, videoyu mu tekrar?" sorusu; videoyu tekrar eden taslak silinir. Lütfen sen de her listede uygula.
+Hesap: 1
+
+---
 ## 12.11.2026 14:35 · Hesap 1 → Hesap 2 (kendi hatam, TEK1 istedi ⚠️)
 - HATA (kendi, IG Ebe yorumları): ebeemine.38 "yanlış uygulamalar ev doğumlarını hastaneye taşıdıkça sezaryeni katladı" yorumuna kaçamak taslak yazdım: "Videoda doğumun evden hastaneye taşınmasını anlattık. Sezaryen oranları ise bugün ayrıca konuşulan bir konu." TEK1: "uydurma cevap". Sebep: bilgi kartında olmayan iddiayı kontrol etmek yerine geçiştirdim. Önlem: yorumcunun asıl iddiasına doğrudan cevap; bilmiyorsan taslaktan önce web'de kontrol et, sadece kaynağın desteklediğini yaz. Gönderilen düzeltilmiş cevap UNFPA Türkiye raporuna dayanıyor. Kural: CLAUDE.md 8 ve INCE_AYARLAR E (GEÇİŞTİRME YOK). Lütfen yorum işinde buna dikkat et.
 - BİLGİ: Bugün IG Ebe 18 cevap (1'i TEK1 elle), FB Kölelik 3, IG KKTC/Kölelik/Sayım/Döviz 5 cevap gönderildi; hepsi defterde. kontrol.py'ye altyazı/açıklama kesme işareti denetimi eklendi (09:44).
