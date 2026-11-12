@@ -44,7 +44,7 @@
 - Hikâyede zorluk, engel, mücadele; net ve kolay anlaşılır, izleyicinin alacağı bir amaç; hikâyenin sonucu olsun.
 - Cümle–kaynak tablosu zorunlu (cümle | kaynak | kaynaktaki birebir ifade); kaynaksız cümle "anlatım"; kaynakta olmayan dramatik ayrıntı yok.
 - Tarihle açma; olayla ya da soruyla aç. İlk saniye yakalamalı.
-- ElevenLabs: ekleri kesme işaretsiz bitişik yaz (Çanakkaleye). Satır aralarına tek kelimelik etiket: [serious] [thoughtful] [calm] [sad] [short pause] [long pause]. Sorudan sonra ~0,7 sn duraklama.
+- ElevenLabs: ekleri kesme işaretsiz bitişik yaz (Çanakkaleye) — SADECE ses metninde; altyazı ve açıklamalarda kesme işareti var (Çanakkale'ye, 1936'ya). Satır aralarına tek kelimelik etiket: [serious] [thoughtful] [calm] [sad] [short pause] [long pause]. Sorudan sonra ~0,7 sn duraklama.
 - Anlatım acelesiz, sakin.
 - Kapanış nazik: konuya özel soru, yorum daveti, "Kaynakları video açıklamasında bulabilirsiniz.", sabit son cümle: "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım." Kapanış ifadesi videodan videoya değişebilir; sadece bilgileri kontrol et.
 - Senaryo onaylanmadan ses üretme; sesi TEK1 ElevenLabs'te alır, mp3 gönderir, video sese göre yapılır.

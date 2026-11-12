@@ -45,6 +45,25 @@ def kesme_isareti(metin, yer):
         hata(f"{yer}: kesme işareti var ({m.group()}); ek bitişik yazılmalı")
 
 
+# Ekranda okunan yazı (altyazı, açılış) ve açıklamalar doğru Türkçe yazılır:
+# sayıya ve özel ada gelen ek kesmeyle ayrılır (1936'ya, Lozan'da).
+# Bitişik yazım SADECE ElevenLabs ses metni (say / senaryo) içindir. (12.11.2026)
+EK = r"(?:[ıiuü]n(?:da|de|ta|te|dan|den|tan|ten)|d[ae]n?|t[ae]n?|[yn]?[ıiuüae]|l[ae]r\w*|l[ıiuü]\w*|nc[ıiuü]\w*)"
+SAYI_EK = re.compile(r"\b\d+" + EK + r"\b")
+OZEL_EK = re.compile(r"(?<=[a-zçğıöşü,] )([A-ZÇĞİÖŞÜ][a-zçğıöşü]{2,}(?<!st)(?<!l[ae]r)(?:d[ae]n?|t[ae]n?|y[ae]|[ıiuü]n))\b")
+
+
+def kesme_eksik(metin, yer):
+    duz = re.sub(r"#\w+", " ", metin)
+    for m in SAYI_EK.finditer(duz):
+        hata(f"{yer}: sayıya gelen ek kesmesiz ({m.group()}); doğrusu örn. 1936'ya")
+    for m in OZEL_EK.finditer(duz):
+        w = m.group(1)
+        if re.search(r"(stan|iye|ye|l[ae]r\w*)$", w):  # Yunanistan, Türkiye, Rumların: kök/çoğul, atla
+            continue
+        uyari(f"{yer}: özel ada ek kesmesiz olabilir ({m.group(1)}); özel adsa örn. Lozan'da")
+
+
 # ---------------- METİN ----------------
 def metin_kontrol(yol):
     t = open(yol, encoding="utf-8").read()
@@ -88,6 +107,7 @@ def bolum_kontrol(yol):
     no = os.path.basename(yol)[:3]
     if not d.get("acilis"):
         hata("'acilis' (ilk 3 sn merak yazısı) yok")
+    kesme_eksik(d.get("acilis", ""), "açılış yazısı")
     segs = d.get("segments", [])
     kes = (d.get("dis_ses") or {}).get("kesimler") or []
     if kes:
@@ -126,6 +146,7 @@ def bolum_kontrol(yol):
         Image = None
     for i, s in enumerate(segs, 1):
         kesme_isareti(s.get("say", ""), f"sahne {i} say")
+        kesme_eksik(s.get("caption", ""), f"sahne {i} altyazı")
         img = s.get("image") or {}
         loc = img.get("local")
         if not loc:
@@ -170,6 +191,8 @@ def set_kontrol(yol):
             hata(f"{g} eksik (set tek seferde eksiksiz verilir)")
     for ad, v in alan.items():
         sabit = ad.endswith("_SABIT")
+        if ad != "YT_ETIKET":
+            kesme_eksik(v, ad)
         if not sabit and EMOJI.search(v):
             hata(f"{ad}: emoji var (sadece sabit yorumda serbest)")
         if "·" in v:
