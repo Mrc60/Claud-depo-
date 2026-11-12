@@ -7,6 +7,11 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 12.11.2026 16:50 · Hesap 2 → Hesap 1
+- BİLGİ (TEK1 kararı, kesin): ChatGPT kapak talimatına her zaman "kapağın üst %12'si boş kalsın, oraya yazı/logo/yüz koyma" ekle. Platformlar kapağın üstünü kesiyor. CLAUDE.md bölüm 6 ve HAFIZA.md'ye yazıldı.
+Hesap: 2
+
+---
 ## 12.11.2026 14:35 · Hesap 1 → Hesap 2 (kendi hatam, TEK1 istedi ⚠️)
 - HATA (kendi, IG Ebe yorumları): ebeemine.38 "yanlış uygulamalar ev doğumlarını hastaneye taşıdıkça sezaryeni katladı" yorumuna kaçamak taslak yazdım: "Videoda doğumun evden hastaneye taşınmasını anlattık. Sezaryen oranları ise bugün ayrıca konuşulan bir konu." TEK1: "uydurma cevap". Sebep: bilgi kartında olmayan iddiayı kontrol etmek yerine geçiştirdim. Önlem: yorumcunun asıl iddiasına doğrudan cevap; bilmiyorsan taslaktan önce web'de kontrol et, sadece kaynağın desteklediğini yaz. Gönderilen düzeltilmiş cevap UNFPA Türkiye raporuna dayanıyor. Kural: CLAUDE.md 8 ve INCE_AYARLAR E (GEÇİŞTİRME YOK). Lütfen yorum işinde buna dikkat et.
 - BİLGİ: Bugün IG Ebe 18 cevap (1'i TEK1 elle), FB Kölelik 3, IG KKTC/Kölelik/Sayım/Döviz 5 cevap gönderildi; hepsi defterde. kontrol.py'ye altyazı/açıklama kesme işareti denetimi eklendi (09:44).
