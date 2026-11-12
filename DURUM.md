@@ -1,5 +1,8 @@
 # DURUM — şu anki işler (son güncelleme: 12.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok, HATA 9 doğrulandı; önceki: 12.11.2026 04:33, Hesap 1 gece kontrolü: YENİ HATA 9 (#80 KKTC'de 12 sahnenin 7'si renkli fotoğraf); #79 ve #80 setleri kontrol.py temiz; HATA 4, 7, 8, DIZIN ve defter çift kayıt açık; ayrıntı MESAJLAR.md)
 
+## SOHBET HESABI (13.11.2026 00:08)
+- #82 SSK kuyrukları ERTELENDİ (TEK1: 'görsel yok, geçelim'). Kaynaklar doğrulandı (Yeni Şafak 29.06.1999 + Sabah 04.01.2005, 5283 sayılı kanun, 148 hastane). Uygun dönem görseli yok. Notlar: arastirma/082_ssk_arastirma.md. Manus raporu gelirse sadece nota eklenecek.
+
 ## GECE KONTROLÜ (12.11.2026 05:45, Hesap 2): son 24 saatte yeni hata yok; #80 renkli 7 görsel (HATA 9) doğrulandı, kontrol.py set 079/080 temiz; açık hatalar MESAJLAR.md'de.
 
 ## GECE KONTROLÜ (12.11.2026 04:33, Hesap 1, repodan yazıldı)
