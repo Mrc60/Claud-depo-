@@ -33,3 +33,6 @@
 - TBMM genel kurul konuşması (eid=2590): "3 kişi giderlerdi; bir tanesi doktor kuyruğuna, bir tanesi eczacı kuyruğuna, diğeri de paraları yatıracak kuyruğa" — siyasi konuşma, KULLANILMAZ.
 - SD Platform 2011: tek kişi tanıklığı ("Sabah 6'da kuyruğa girer, belki öğleye kadar ancak muayene olabilirdik"), seçim röportajı; destekleyici, tek başına kaynak değil.
 - Görsel: Perplexity de uygun lisanslı fotoğraf bulamadı (önerdikleri kitantik ilanı lisanssız, logolar fotoğraf değil).
+
+## Commons taraması (12.11.2026 23:52, 14 sorgu, panoda gözle bakıldı)
+- 6 aday: 2 Ankara bulvar manzarası 1930-50 (hastane değil, uzaktan bina), 1 "Young Red Cross nurses 1950s" (Kızılhaç, Türkiye olduğu belli değil), 3 bugünkü renkli Ankara Numune fotoğrafı. SSK/kuyruk/poliklinik için KULLANILABİLİR GÖRSEL: 0.
