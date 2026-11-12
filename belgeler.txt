@@ -1,6 +1,5 @@
-082_sabah2005.html https://arsiv.sabah.com.tr/2005/01/04//gnd109.html
-082_onerge148.pdf https://cdn.tbmm.gov.tr/KKBSPublicFile/D22/Y3/T7/WebOnergeMetni/cb7e0304-8d65-4416-b634-4a27f18c7a8a.pdf
-082_onerge400.pdf https://cdn.tbmm.gov.tr/KKBSPublicFile/D22/Y3/T7/WebOnergeMetni/9098d24a-06af-469a-bd99-584bc57ee8f1.pdf
-082_sdplatform.html https://sdplatform.com/sokagin-gozunden-sagligin-fotografi/
-082_tbmm_konusma.html https://tbmm.gov.tr/Milletvekili/UyeGenelKurulKonusmalariDetay?eid=2590
-082_cum1996_0313_20.html https://egazete.cumhuriyet.com.tr/katalog/192/1996/3/13/20
+084_simsek2004.html https://dhgm.meb.gov.tr/yayimlar/dergiler/milli_egitim_dergisi/162/simsek.htm
+084_maarif_disiplin.html https://turkmaarifansiklopedisi.org.tr/disiplin
+084_hayat1927.pdf https://makale.isam.org.tr/server/api/core/bitstreams/faf94d3d-848c-4e97-9b7b-b3efb4a3f1a3/content
+084_cumhuriyet1938.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/cumhuriyet/cumhuriyet_1938/cumhuriyet_1938_nisan_/cumhuriyet_1938_nisan_15_.pdf
+084_gurpinar1963.pdf https://static-gcs.edit.site/users-files/d4c44b92a676c5966416b6283383dab5/eti-senin-kemigi-benim.pdf
