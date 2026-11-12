@@ -22,7 +22,7 @@ import sys
 
 KOK = os.path.dirname(os.path.abspath(__file__))
 EMOJI = re.compile("[\U0001F000-\U0001FAFF☀-➿⬀-⯿️‍]")
-ETIKETLER = {"serious", "thoughtful", "calm", "sad", "short pause", "long pause"}
+ETIKETLER = {"serious", "thoughtful", "calm", "sad", "short pause", "long pause", "laughs"}  # laughs: TEK1 izni 13.11.2026
 SON_CUMLE = ("Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu "
              "beğenmeyi ve takip etmeyi lütfen unutmayalım.")
 CAGRI = re.compile(r"\b(beğen\w*|paylaş\w*|etiketle\w*|takip et\w*)", re.I)
