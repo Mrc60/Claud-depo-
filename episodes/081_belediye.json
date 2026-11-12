@@ -1,0 +1,887 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 81,
+ "slug": "belediye",
+ "title": "Sokağa Tükürme Yasağı",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Sokağa tükürene\nceza vardı!",
+ "dis_ses": {
+  "file": "assets/ses/081_belediye.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     8.66
+    ]
+   ],
+   [
+    [
+     8.66,
+     15.96
+    ]
+   ],
+   [
+    [
+     15.96,
+     22.5
+    ]
+   ],
+   [
+    [
+     22.5,
+     34.2
+    ]
+   ],
+   [
+    [
+     34.2,
+     41.84
+    ]
+   ],
+   [
+    [
+     41.84,
+     50.6
+    ]
+   ],
+   [
+    [
+     50.6,
+     57.9
+    ]
+   ],
+   [
+    [
+     57.9,
+     70.19
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Sokağa tükürene ceza keserseniz, insanlar tükürmeyi bırakır mı? 1925te İstanbul belediyesi bunu denedi.",
+   "caption": "Sokağa tükürene ceza keserseniz, insanlar tükürmeyi bırakır mı? 1925'te İstanbul belediyesi bunu denedi.",
+   "key": [
+    "tükürene",
+    "ceza"
+   ],
+   "image": {
+    "local": "assets/belgeler/081_rue1.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul sokağı (Rue à Stamboul), 1870-1900 · Library of Congress, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "İstanbul sokağı (Rue à Stamboul), 1870-1900 · Library of Congress, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.64,
+     "n": 1
+    },
+    {
+     "start": 0.64,
+     "end": 1.06,
+     "n": 1
+    },
+    {
+     "start": 1.06,
+     "end": 1.48,
+     "n": 1
+    },
+    {
+     "start": 1.48,
+     "end": 2.4,
+     "n": 1
+    },
+    {
+     "start": 2.76,
+     "end": 3.1,
+     "n": 1
+    },
+    {
+     "start": 3.1,
+     "end": 3.8,
+     "n": 1
+    },
+    {
+     "start": 3.8,
+     "end": 4.16,
+     "n": 1
+    },
+    {
+     "start": 4.16,
+     "end": 4.3,
+     "n": 1
+    },
+    {
+     "start": 5.4,
+     "end": 6.3,
+     "n": 1
+    },
+    {
+     "start": 6.3,
+     "end": 6.84,
+     "n": 1
+    },
+    {
+     "start": 6.84,
+     "end": 7.5,
+     "n": 1
+    },
+    {
+     "start": 7.5,
+     "end": 7.72,
+     "n": 1
+    },
+    {
+     "start": 7.72,
+     "end": 8.22,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yeni talimatnamede açıkça yazıyordu. Tükürmek ve sümkürmek yasaktır. Sokağa hiçbir şey atılamaz.",
+   "caption": "Yeni talimatnamede açıkça yazıyordu. Tükürmek ve sümkürmek yasaktır. Sokağa hiçbir şey atılamaz.",
+   "key": [
+    "Tükürmek",
+    "yasaktır."
+   ],
+   "image": {
+    "local": "assets/belgeler/081_stamboul1901.jpg",
+    "fit": "doldur",
+    "baslik": "Stamboul'da bir sokak, 1901 · H.C. White Co., Library of Congress, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Stamboul'da bir sokak, 1901 · H.C. White Co., Library of Congress, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.66,
+     "end": 8.88,
+     "n": 1
+    },
+    {
+     "start": 8.88,
+     "end": 9.96,
+     "n": 1
+    },
+    {
+     "start": 9.96,
+     "end": 10.4,
+     "n": 1
+    },
+    {
+     "start": 10.4,
+     "end": 11.0,
+     "n": 1
+    },
+    {
+     "start": 11.46,
+     "end": 11.96,
+     "n": 1
+    },
+    {
+     "start": 11.96,
+     "end": 12.2,
+     "n": 1
+    },
+    {
+     "start": 12.2,
+     "end": 12.84,
+     "n": 1
+    },
+    {
+     "start": 12.84,
+     "end": 13.7,
+     "n": 1
+    },
+    {
+     "start": 13.88,
+     "end": 14.32,
+     "n": 1
+    },
+    {
+     "start": 14.32,
+     "end": 14.72,
+     "n": 1
+    },
+    {
+     "start": 14.72,
+     "end": 14.98,
+     "n": 1
+    },
+    {
+     "start": 14.98,
+     "end": 15.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Hatta halı bile sadece perşembe günleri silkilebilirdi. Peki işe yaradı mı?",
+   "caption": "Hatta halı bile sadece perşembe günleri silkilebilirdi. Peki işe yaradı mı?",
+   "key": [
+    "halı",
+    "perşembe"
+   ],
+   "image": {
+    "local": "assets/belgeler/081_rue2.jpg",
+    "fit": "doldur",
+    "baslik": "Cumbalı evler, İstanbul, 1870-1900 · Library of Congress, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Cumbalı evler, İstanbul, 1870-1900 · Library of Congress, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 15.96,
+     "end": 16.4,
+     "n": 1
+    },
+    {
+     "start": 16.4,
+     "end": 16.78,
+     "n": 1
+    },
+    {
+     "start": 16.78,
+     "end": 17.24,
+     "n": 1
+    },
+    {
+     "start": 17.24,
+     "end": 17.78,
+     "n": 1
+    },
+    {
+     "start": 17.78,
+     "end": 18.36,
+     "n": 1
+    },
+    {
+     "start": 18.36,
+     "end": 18.74,
+     "n": 1
+    },
+    {
+     "start": 18.74,
+     "end": 19.62,
+     "n": 1
+    },
+    {
+     "start": 20.08,
+     "end": 20.58,
+     "n": 1
+    },
+    {
+     "start": 20.58,
+     "end": 21.04,
+     "n": 1
+    },
+    {
+     "start": 21.04,
+     "end": 21.34,
+     "n": 1
+    },
+    {
+     "start": 21.34,
+     "end": 21.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1931de belediye başkanı Muhittin Bey mecliste şöyle dedi. Halkı sokaklara tükürmekten menedemedik. Talimatname yaptık, ceza aldık, yine tükürdüler.",
+   "caption": "1931'de belediye başkanı Muhittin Bey mecliste şöyle dedi. Halkı sokaklara tükürmekten menedemedik. Talimatname yaptık, ceza aldık, yine tükürdüler.",
+   "key": [
+    "menedemedik.",
+    "tükürdüler."
+   ],
+   "image": {
+    "local": "assets/belgeler/081_vakit1931.jpg",
+    "fit": "doldur",
+    "baslik": "Vakit gazetesi, 24 Şubat 1931 · İstanbul Üniversitesi gazete arşivi",
+    "lisans": "",
+    "kaynak": "Vakit gazetesi, 24 Şubat 1931 · İstanbul Üniversitesi gazete arşivi",
+    "sayfa": "",
+    "hiz": 0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 22.5,
+     "end": 23.4,
+     "n": 1
+    },
+    {
+     "start": 23.4,
+     "end": 23.92,
+     "n": 1
+    },
+    {
+     "start": 23.92,
+     "end": 24.34,
+     "n": 1
+    },
+    {
+     "start": 24.34,
+     "end": 24.8,
+     "n": 1
+    },
+    {
+     "start": 24.8,
+     "end": 25.04,
+     "n": 1
+    },
+    {
+     "start": 25.04,
+     "end": 25.68,
+     "n": 1
+    },
+    {
+     "start": 25.68,
+     "end": 26.06,
+     "n": 1
+    },
+    {
+     "start": 26.06,
+     "end": 26.32,
+     "n": 1
+    },
+    {
+     "start": 26.92,
+     "end": 27.32,
+     "n": 1
+    },
+    {
+     "start": 27.32,
+     "end": 27.86,
+     "n": 1
+    },
+    {
+     "start": 27.86,
+     "end": 28.62,
+     "n": 1
+    },
+    {
+     "start": 28.62,
+     "end": 29.34,
+     "n": 1
+    },
+    {
+     "start": 29.34,
+     "end": 30.4,
+     "n": 1
+    },
+    {
+     "start": 30.4,
+     "end": 31.0,
+     "n": 1
+    },
+    {
+     "start": 31.26,
+     "end": 31.48,
+     "n": 1
+    },
+    {
+     "start": 31.48,
+     "end": 32.04,
+     "n": 1
+    },
+    {
+     "start": 32.3,
+     "end": 32.5,
+     "n": 1
+    },
+    {
+     "start": 32.5,
+     "end": 33.22,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1937de bir haftada 420 kişiye ceza kesildi. Ama hepsi tramvaydan atlamak gibi suçlardı.",
+   "caption": "1937'de bir haftada 420 kişiye ceza kesildi. Ama hepsi tramvaydan atlamak gibi suçlardı.",
+   "key": [
+    "420",
+    "tramvaydan"
+   ],
+   "image": {
+    "local": "assets/belgeler/081_galata.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Kulesi önünde tramvay, 1920'ler · Library of Congress, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Galata Kulesi önünde tramvay, 1920'ler · Library of Congress, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 34.2,
+     "end": 35.04,
+     "n": 1
+    },
+    {
+     "start": 35.04,
+     "end": 35.34,
+     "n": 1
+    },
+    {
+     "start": 35.34,
+     "end": 35.86,
+     "n": 1
+    },
+    {
+     "start": 35.86,
+     "end": 36.66,
+     "n": 1
+    },
+    {
+     "start": 36.66,
+     "end": 37.1,
+     "n": 1
+    },
+    {
+     "start": 37.1,
+     "end": 37.5,
+     "n": 1
+    },
+    {
+     "start": 37.5,
+     "end": 38.22,
+     "n": 1
+    },
+    {
+     "start": 38.54,
+     "end": 38.68,
+     "n": 1
+    },
+    {
+     "start": 38.68,
+     "end": 39.38,
+     "n": 1
+    },
+    {
+     "start": 39.38,
+     "end": 40.06,
+     "n": 1
+    },
+    {
+     "start": 40.06,
+     "end": 40.48,
+     "n": 1
+    },
+    {
+     "start": 40.48,
+     "end": 40.68,
+     "n": 1
+    },
+    {
+     "start": 40.68,
+     "end": 41.32,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sokağı kirlettiği için ceza alan tek kişi yoktu. Gazete şöyle yazdı. Demek ki şehrimizde sokağı kirleten hiç kimse yok.",
+   "caption": "Sokağı kirlettiği için ceza alan tek kişi yoktu. Gazete şöyle yazdı. Demek ki şehrimizde sokağı kirleten hiç kimse yok.",
+   "key": [
+    "tek",
+    "yok."
+   ],
+   "image": {
+    "local": "assets/belgeler/081_sonposta1937.jpg",
+    "fit": "doldur",
+    "baslik": "Son Posta gazetesi, 14 Kasım 1937 · İstanbul Üniversitesi gazete arşivi",
+    "lisans": "",
+    "kaynak": "Son Posta gazetesi, 14 Kasım 1937 · İstanbul Üniversitesi gazete arşivi",
+    "sayfa": "",
+    "hiz": 0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 41.84,
+     "end": 42.2,
+     "n": 1
+    },
+    {
+     "start": 42.2,
+     "end": 42.76,
+     "n": 1
+    },
+    {
+     "start": 42.76,
+     "end": 42.98,
+     "n": 1
+    },
+    {
+     "start": 42.98,
+     "end": 43.44,
+     "n": 1
+    },
+    {
+     "start": 43.44,
+     "end": 43.6,
+     "n": 1
+    },
+    {
+     "start": 43.6,
+     "end": 43.94,
+     "n": 1
+    },
+    {
+     "start": 43.94,
+     "end": 44.2,
+     "n": 1
+    },
+    {
+     "start": 44.2,
+     "end": 44.88,
+     "n": 1
+    },
+    {
+     "start": 45.16,
+     "end": 45.5,
+     "n": 1
+    },
+    {
+     "start": 45.5,
+     "end": 45.86,
+     "n": 1
+    },
+    {
+     "start": 45.86,
+     "end": 46.64,
+     "n": 1
+    },
+    {
+     "start": 46.94,
+     "end": 47.16,
+     "n": 1
+    },
+    {
+     "start": 47.16,
+     "end": 47.48,
+     "n": 1
+    },
+    {
+     "start": 47.48,
+     "end": 48.18,
+     "n": 1
+    },
+    {
+     "start": 48.18,
+     "end": 48.6,
+     "n": 1
+    },
+    {
+     "start": 48.6,
+     "end": 49.04,
+     "n": 1
+    },
+    {
+     "start": 49.04,
+     "end": 49.44,
+     "n": 1
+    },
+    {
+     "start": 49.44,
+     "end": 49.74,
+     "n": 1
+    },
+    {
+     "start": 49.74,
+     "end": 50.08,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bugün de tükürmek belediyelerin yasak listesinde duruyor. Siz sokağa tükürene ceza kesildiğini hiç gördünüz mü?",
+   "caption": "Bugün de tükürmek belediyelerin yasak listesinde duruyor. Siz sokağa tükürene ceza kesildiğini hiç gördünüz mü?",
+   "key": [
+    "Bugün",
+    "yasak"
+   ],
+   "image": {
+    "local": "assets/belgeler/081_sokak1906.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul'da bir cadde, 1906 · Keystone, Library of Congress, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "İstanbul'da bir cadde, 1906 · Keystone, Library of Congress, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 50.6,
+     "end": 50.84,
+     "n": 1
+    },
+    {
+     "start": 50.84,
+     "end": 51.06,
+     "n": 1
+    },
+    {
+     "start": 51.06,
+     "end": 51.76,
+     "n": 1
+    },
+    {
+     "start": 51.76,
+     "end": 52.64,
+     "n": 1
+    },
+    {
+     "start": 52.64,
+     "end": 53.0,
+     "n": 1
+    },
+    {
+     "start": 53.0,
+     "end": 53.56,
+     "n": 1
+    },
+    {
+     "start": 53.56,
+     "end": 54.06,
+     "n": 1
+    },
+    {
+     "start": 54.52,
+     "end": 54.88,
+     "n": 1
+    },
+    {
+     "start": 54.88,
+     "end": 55.44,
+     "n": 1
+    },
+    {
+     "start": 55.44,
+     "end": 55.82,
+     "n": 1
+    },
+    {
+     "start": 55.82,
+     "end": 56.28,
+     "n": 1
+    },
+    {
+     "start": 56.28,
+     "end": 57.0,
+     "n": 1
+    },
+    {
+     "start": 57.0,
+     "end": 57.22,
+     "n": 1
+    },
+    {
+     "start": 57.22,
+     "end": 57.74,
+     "n": 1
+    },
+    {
+     "start": 57.74,
+     "end": 57.9,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynakları video açıklamasında bulabilirsiniz. Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/081_rue3.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul sokağı (Rue à Stamboul), 1870-1900 · Library of Congress, bilinen kısıtlama yok",
+    "lisans": "",
+    "kaynak": "İstanbul sokağı (Rue à Stamboul), 1870-1900 · Library of Congress, bilinen kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.9,
+     "end": 59.02,
+     "n": 1
+    },
+    {
+     "start": 59.02,
+     "end": 59.6,
+     "n": 1
+    },
+    {
+     "start": 59.6,
+     "end": 60.38,
+     "n": 1
+    },
+    {
+     "start": 60.58,
+     "end": 61.18,
+     "n": 1
+    },
+    {
+     "start": 61.18,
+     "end": 61.52,
+     "n": 1
+    },
+    {
+     "start": 61.52,
+     "end": 62.2,
+     "n": 1
+    },
+    {
+     "start": 62.2,
+     "end": 63.12,
+     "n": 1
+    },
+    {
+     "start": 63.54,
+     "end": 63.72,
+     "n": 1
+    },
+    {
+     "start": 63.72,
+     "end": 64.18,
+     "n": 1
+    },
+    {
+     "start": 64.18,
+     "end": 64.56,
+     "n": 1
+    },
+    {
+     "start": 64.56,
+     "end": 65.06,
+     "n": 1
+    },
+    {
+     "start": 65.06,
+     "end": 65.2,
+     "n": 1
+    },
+    {
+     "start": 65.2,
+     "end": 65.58,
+     "n": 1
+    },
+    {
+     "start": 65.58,
+     "end": 66.12,
+     "n": 1
+    },
+    {
+     "start": 66.12,
+     "end": 66.62,
+     "n": 1
+    },
+    {
+     "start": 66.62,
+     "end": 67.2,
+     "n": 1
+    },
+    {
+     "start": 67.2,
+     "end": 67.94,
+     "n": 1
+    },
+    {
+     "start": 67.94,
+     "end": 68.2,
+     "n": 1
+    },
+    {
+     "start": 68.2,
+     "end": 68.56,
+     "n": 1
+    },
+    {
+     "start": 68.56,
+     "end": 69.1,
+     "n": 1
+    },
+    {
+     "start": 69.1,
+     "end": 69.48,
+     "n": 1
+    },
+    {
+     "start": 69.48,
+     "end": 70.04,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
