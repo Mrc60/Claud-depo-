@@ -36,3 +36,16 @@
 
 ## Commons taraması (12.11.2026 23:52, 14 sorgu, panoda gözle bakıldı)
 - 6 aday: 2 Ankara bulvar manzarası 1930-50 (hastane değil, uzaktan bina), 1 "Young Red Cross nurses 1950s" (Kızılhaç, Türkiye olduğu belli değil), 3 bugünkü renkli Ankara Numune fotoğrafı. SSK/kuyruk/poliklinik için KULLANILABİLİR GÖRSEL: 0.
+
+## "Halk görseli yeter" (TEK1, 23:29) — Commons taraması 2 ve 3 (panoda gözle bakıldı, tekrar kontrolü yapıldı: önceki bölümlerde yok)
+Siyah-beyaz, Türkiye, insan görünen adaylar:
+- Istanbul, porters 1966 (51190357242), CC BY 2.0 — Galata köprüsü civarı hamallar, yolu geçen insanlar
+- Istanbul 1966 (51191065416), CC BY 2.0 — Arnavut kaldırımlı sokak, el arabalı adam, araba
+- Istanbul, porter 1966 (51192130200), CC BY 2.0 — sırtında yük taşıyan yaşlı hamal
+- Istanbul, waiting for ferry 1966 (51192130165), CC BY 2.0 — iskelede çömelip bekleyen insanlar
+- Istanbul, water seller 1966 (51191065441), CC BY 2.0 — sucu, dükkân önü
+- Fortepan 30826 / 30827, Galata köprüsü civarı 1965, CC BY-SA 3.0 — kamyon, otobüs, insanlar uzakta
+- Anefo "Schip Istanbul aan de kade ... passagiers", CC0 — rıhtımda yolcular
+- Teyze.jpg, CC BY-SA 4.0 — torbalı yaşlı kadın, GÜNÜMÜZ (siyah-beyaz çekim)
+ELENDİ: SALT kaynaklı Tarlabaşı 1980'ler serisi ve "İstanbul sokaklarından portreler 1980'ler" (kural: SALT kullanılmaz); Bahar (2599760344) #70'te kullanıldı.
+SORUN: Fotoğraflar 1965-66, anlatılan dönem 1994-2005; hiçbiri hastane değil. Altyazı gerçeği söylemeli ("İstanbul, 1966, hamallar"). 1966 serisinin Flickr yazar adı henüz açılıp kontrol edilmedi.
