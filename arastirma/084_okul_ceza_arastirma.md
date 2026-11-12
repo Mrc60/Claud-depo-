@@ -63,3 +63,10 @@ Eksik: Cumhuriyet dönemi sınıf fotoğrafı ve sınıf içi ceza sahnesi yok.
 - "Eti senin, kemiği benim" velinin hocaya sözü (Ş + Hayat 1927)
 ## Tek kaynak (kullanılırsa daralt ya da çıkar): 1863 talimatnamesi (D), 1869 nizamname dayak yasağı (D), 1892 değnek/falaka bulundurma yasağı (Ş), Abdurrahman Şeref sözü (Ş), 1847 hafif vurma izni (Ş).
 ## DOĞRULANMADI: 1702 sayılı Kanun md.22 ve Cumhuriyet 22.01.1992 aktarımı (açılmadı).
+
+## Perplexity raporu kontrolü (13.11.2026 01:40, BEN okudum: Belleten Kırpık 2023)
+- DOĞRULANDI: 1847 talimatı arşiv künyesi "BOA, İ.DH., 148-7648, H.04.06.1263/20 Mayıs 1847" (Kırpık dn.6); talimat matbu hâle getirilip öğretmenlere dağıtıldı, halk için "mahalle imamlarıyla esnaf kethüdalıklarına da gönderilmesi padişah iradesi ile kararlaştırılmıştı".
+- DOĞRULANDI: Kırpık dn.97: "Bu dönemlerde öğrencilik yapan anı sahipleri ister sıbyan mektebinde ve isterse iptidaide okumuş olsunlar başta falaka olmak üzere fiziksel şiddete maruz kaldıklarını dile getirmişlerdir."
+- Perplexity "eti senin kemiği benim" için kaynak bulamadı; ben Şimşek 2004 + Hayat 1927'de buldum (yukarıda).
+- Perplexity: 1869 nizamnamede bedenî ceza maddesi bulamadı; Demirel 2022 "dayak kesinlikle yasaklanmış" diyor (tek kaynak, madde no yok) => senaryoda 1869 kullanma ya da "sonraki düzenlemeler" diye genel geç.
+- MEB Okul Öncesi ve İlköğretim Kurumları Yönetmeliği md.78/2 (fiziki ve psikolojik şiddetten korunma) — açılmadı, kullanılmayacak.
