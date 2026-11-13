@@ -8,7 +8,8 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - YouTube: @siradan.degil
   - TikTok: @siradan.degil
   - Instagram: @siradandegill
-  - Facebook
+  - Facebook: https://www.facebook.com/SiradanDegil
+  - Instagram bağlantısı: https://www.instagram.com/siradandegill
 - Repo: github.com/Mrc60/Claud-depo-
 - Günde 2 video: 11:00 ve 16:00, tüm platformlarda (TEK1 kararı, 05.11.2026; 04.11'deki 12:00/16:00 kararının yerine. Sebep: FB panosu 15:00-19:00 aralığını öneriyor, 12:00 Düğün ortalamanın altında kaldı. 11.11'de istatistik dalıyla karşılaştır: 4-5 Kasım 12:00, 5 Kasım sonrası 11:00). Eski düzen: sabah ~07:00 ve akşam 18:00. Veri: 18-21 arası TikTok/IG'de en zayıf, 12-17 arası en iyi.
 - İletişim Türkçe, kısa ve sade. Emin değilsen "emin değilim" de, hatanı kendin söyle.
