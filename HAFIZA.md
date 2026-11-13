@@ -52,7 +52,7 @@
 
 ## Görsel ve video
 - Gerçek, eski siyah-beyaz fotoğraflar; ne kadar eski o kadar iyi; renkli ciddi durmaz. 2B çizim yok.
-- Görsel anlatılanı göstermeli. Her görsel 4-5 sn (14.11.2026, eskisi en az 6 sn); cümle uzunsa aynı konudan ikinci görsel; konu değişince görsel değişir. Gereksiz/ilgisiz dolgu görsel yok.
+- Görsel anlatılanı göstermeli. Her görsel 4-5 sn (14.11.2026, eskisi en az 6 sn); cümle uzunsa aynı konudan ikinci görsel; görsel yoksa sahne uzun kalabilir ama önce olabildiğince çok görsel ara; konu değişince görsel değişir. Gereksiz/ilgisiz dolgu görsel yok.
 - Belge taraması az; görsel ekranı doldursun, küçük pencere olmasın.
 - Yazı kutularının koyu gölgesi fotoğrafı kapatmasın. Videoda foto künyesi yazısı olmasın.
 - Atatürk görselini az kullan.

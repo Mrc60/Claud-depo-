@@ -96,7 +96,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Yapay zekâ ile yeniden çizim yapma. Tablo, gravür ve harita varsa altyazıda öyle belirt.
 - Belge taraması az olsun, izleyici belge okumaz.
 - Görsel konuşulan konuyu göstermeli.
-- GÖRSEL SÜRESİ (TEK1 kararı, 14.11.2026; eski kural en az 6 sn idi): Her görsel 4-5 sn ekranda kalsın, sonra yeni görsel gelsin (YouTube asistanı: aynı görsel uzun kalınca dikkat dağılıyor; Shorts izlenme %51). Bir cümle uzunsa aynı konudan ikinci görsel kullan. Konu değişince görsel de değişsin. Not: video başına ~2 kat görsel gerekir, görsel araştırmasını buna göre planla.
+- GÖRSEL SÜRESİ (TEK1 kararı, 14.11.2026; eski kural en az 6 sn idi): Her görsel 4-5 sn ekranda kalsın, sonra yeni görsel gelsin (YouTube asistanı: aynı görsel uzun kalınca dikkat dağılıyor; Shorts izlenme %51). Bir cümle uzunsa aynı konudan ikinci görsel kullan. Konu değişince görsel de değişsin. Not: video başına ~2 kat görsel gerekir, görsel araştırmasını buna göre planla. ESNEKLİK (TEK1, 14.11.2026): Görsel bulunabildiği kadar süreyi kısalt; uygun görsel yoksa sahne uzun kalabilir (kontrol.py sadece uyarır). Ama her seferinde olabildiğince çok görsel ara, "bulamadım" demeden önce Commons + Europeana + Bundesarchiv + DGPI tara.
 - Görsel ekranı doldurmalı (fit "doldur" + kirp). Küçük pencere olmamalı.
 - Yazı kutularının koyu gölgesi fotoğrafı kapatmasın.
 - Kamera hareketi yavaş olsun.
