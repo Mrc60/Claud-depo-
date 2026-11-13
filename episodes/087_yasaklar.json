@@ -1,0 +1,1302 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 87,
+ "slug": "yasaklar",
+ "title": "Kadınlara Konan Perdeler",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "surum": 1,
+ "acilis": "Kadınlar vapura\nbinemezdi!",
+ "dis_ses": {
+  "file": "assets/ses/087_yasaklar.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.4
+    ]
+   ],
+   [
+    [
+     4.4,
+     7.62
+    ]
+   ],
+   [
+    [
+     7.62,
+     11.74
+    ]
+   ],
+   [
+    [
+     11.74,
+     15.7
+    ]
+   ],
+   [
+    [
+     15.7,
+     20.16
+    ]
+   ],
+   [
+    [
+     20.16,
+     26.42
+    ]
+   ],
+   [
+    [
+     26.42,
+     33.02
+    ]
+   ],
+   [
+    [
+     33.02,
+     37.72
+    ]
+   ],
+   [
+    [
+     37.72,
+     42.48
+    ]
+   ],
+   [
+    [
+     42.48,
+     46.04
+    ]
+   ],
+   [
+    [
+     46.04,
+     51.98
+    ]
+   ],
+   [
+    [
+     51.98,
+     56.26
+    ]
+   ],
+   [
+    [
+     56.26,
+     61.9
+    ]
+   ],
+   [
+    [
+     61.9,
+     67.22
+    ]
+   ],
+   [
+    [
+     67.22,
+     72.98
+    ]
+   ],
+   [
+    [
+     72.98,
+     79.9
+    ]
+   ],
+   [
+    [
+     79.9,
+     84.77
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Kadınlar vapura binemezdi. Denizde perdelerin dışına çıkamaz,",
+   "caption": "Kadınlar vapura binemezdi. Denizde perdelerin dışına çıkamaz,",
+   "key": [
+    "binemezdi."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_pecelikadin.jpg",
+    "fit": "doldur",
+    "baslik": "Peçeli Türk kadını, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Peçeli Türk kadını, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.7,
+     "n": 1
+    },
+    {
+     "start": 0.7,
+     "end": 1.06,
+     "n": 1
+    },
+    {
+     "start": 1.06,
+     "end": 2.1,
+     "n": 1
+    },
+    {
+     "start": 2.3,
+     "end": 2.68,
+     "n": 1
+    },
+    {
+     "start": 2.68,
+     "end": 3.28,
+     "n": 1
+    },
+    {
+     "start": 3.28,
+     "end": 3.62,
+     "n": 1
+    },
+    {
+     "start": 3.62,
+     "end": 4.16,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "tramvayda ise perdenin arkasında otururdu.",
+   "caption": "tramvayda ise perdenin arkasında otururdu.",
+   "key": [
+    "tramvayda"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_tramvay1877.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda atlı tramvay, gravür, 1877 · The Illustrated London News, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulda atlı tramvay, gravür, 1877 · The Illustrated London News, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 4.44,
+     "end": 5.04,
+     "n": 1
+    },
+    {
+     "start": 5.04,
+     "end": 5.4,
+     "n": 1
+    },
+    {
+     "start": 5.4,
+     "end": 6.0,
+     "n": 1
+    },
+    {
+     "start": 6.0,
+     "end": 6.46,
+     "n": 1
+    },
+    {
+     "start": 6.46,
+     "end": 7.3,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bunlar bir zamanlar İstanbulda kadınlara konan kurallardı.",
+   "caption": "Bunlar bir zamanlar İstanbul'da kadınlara konan kurallardı.",
+   "key": [
+    "kurallardı."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_carsafli.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbullu kadınlar, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbullu kadınlar, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 7.62,
+     "end": 8.04,
+     "n": 1
+    },
+    {
+     "start": 8.04,
+     "end": 8.24,
+     "n": 1
+    },
+    {
+     "start": 8.24,
+     "end": 8.76,
+     "n": 1
+    },
+    {
+     "start": 8.76,
+     "end": 9.42,
+     "n": 1
+    },
+    {
+     "start": 9.42,
+     "end": 9.92,
+     "n": 1
+    },
+    {
+     "start": 9.92,
+     "end": 10.26,
+     "n": 1
+    },
+    {
+     "start": 10.26,
+     "end": 10.94,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1850de Müslüman kadınların vapura binmesi yasaklandı.",
+   "caption": "1850'de Müslüman kadınların vapura binmesi yasaklandı.",
+   "key": [
+    "yasaklandı."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_galata_kopru.jpg",
+    "fit": "doldur",
+    "baslik": "Yeni Galata Köprüsü, kartpostal, 20. yüzyıl başı · kamu malı",
+    "lisans": "",
+    "kaynak": "Yeni Galata Köprüsü, kartpostal, 20. yüzyıl başı · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 11.74,
+     "end": 12.66,
+     "n": 1
+    },
+    {
+     "start": 12.66,
+     "end": 13.16,
+     "n": 1
+    },
+    {
+     "start": 13.16,
+     "end": 13.68,
+     "n": 1
+    },
+    {
+     "start": 13.68,
+     "end": 14.08,
+     "n": 1
+    },
+    {
+     "start": 14.08,
+     "end": 14.48,
+     "n": 1
+    },
+    {
+     "start": 14.48,
+     "end": 15.42,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Gerekçe, vapurun kadınlar için gerçek bir ihtiyaç olmamasıydı.",
+   "caption": "Gerekçe, vapurun kadınlar için gerçek bir ihtiyaç olmamasıydı.",
+   "key": [
+    "olmamasıydı."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_semsiyelikadin.jpg",
+    "fit": "doldur",
+    "baslik": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 15.7,
+     "end": 16.4,
+     "n": 1
+    },
+    {
+     "start": 16.4,
+     "end": 16.88,
+     "n": 1
+    },
+    {
+     "start": 16.88,
+     "end": 17.44,
+     "n": 1
+    },
+    {
+     "start": 17.44,
+     "end": 17.72,
+     "n": 1
+    },
+    {
+     "start": 17.72,
+     "end": 18.18,
+     "n": 1
+    },
+    {
+     "start": 18.18,
+     "end": 18.46,
+     "n": 1
+    },
+    {
+     "start": 18.46,
+     "end": 18.98,
+     "n": 1
+    },
+    {
+     "start": 18.98,
+     "end": 20.0,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ancak yasak sadece iki buçuk ay sürdü. Kadınlara ayrı salon yapılması şartıyla kaldırıldı.",
+   "caption": "Ancak yasak sadece iki buçuk ay sürdü. Kadınlara ayrı salon yapılması şartıyla kaldırıldı.",
+   "key": [
+    "kaldırıldı."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_galata_kopru2.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Köprüsü ve iskeleler, kartpostal · kamu malı",
+    "lisans": "",
+    "kaynak": "Galata Köprüsü ve iskeleler, kartpostal · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 20.16,
+     "end": 20.54,
+     "n": 1
+    },
+    {
+     "start": 20.54,
+     "end": 21.02,
+     "n": 1
+    },
+    {
+     "start": 21.02,
+     "end": 21.48,
+     "n": 1
+    },
+    {
+     "start": 21.48,
+     "end": 21.78,
+     "n": 1
+    },
+    {
+     "start": 21.78,
+     "end": 22.04,
+     "n": 1
+    },
+    {
+     "start": 22.04,
+     "end": 22.2,
+     "n": 1
+    },
+    {
+     "start": 22.2,
+     "end": 22.82,
+     "n": 1
+    },
+    {
+     "start": 22.98,
+     "end": 23.42,
+     "n": 1
+    },
+    {
+     "start": 23.42,
+     "end": 23.9,
+     "n": 1
+    },
+    {
+     "start": 23.9,
+     "end": 24.12,
+     "n": 1
+    },
+    {
+     "start": 24.12,
+     "end": 24.66,
+     "n": 1
+    },
+    {
+     "start": 24.66,
+     "end": 25.18,
+     "n": 1
+    },
+    {
+     "start": 25.18,
+     "end": 25.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Denizde de durum farklı değildi. Kadınlar, denizin üzerine kurulan tahta perdeli hamamlarda yüzerdi.",
+   "caption": "Denizde de durum farklı değildi. Kadınlar, denizin üzerine kurulan tahta perdeli hamamlarda yüzerdi.",
+   "key": [
+    "hamamlarda"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_samsun_hamam.jpg",
+    "fit": "doldur",
+    "baslik": "Samsunda deniz hamamı, kartpostal, 20. yüzyıl başı · kamu malı",
+    "lisans": "",
+    "kaynak": "Samsunda deniz hamamı, kartpostal, 20. yüzyıl başı · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 26.42,
+     "end": 26.86,
+     "n": 1
+    },
+    {
+     "start": 26.86,
+     "end": 27.06,
+     "n": 1
+    },
+    {
+     "start": 27.06,
+     "end": 27.24,
+     "n": 1
+    },
+    {
+     "start": 27.24,
+     "end": 27.64,
+     "n": 1
+    },
+    {
+     "start": 27.64,
+     "end": 28.38,
+     "n": 1
+    },
+    {
+     "start": 28.38,
+     "end": 29.2,
+     "n": 1
+    },
+    {
+     "start": 29.2,
+     "end": 29.64,
+     "n": 1
+    },
+    {
+     "start": 29.64,
+     "end": 30.12,
+     "n": 1
+    },
+    {
+     "start": 30.12,
+     "end": 30.56,
+     "n": 1
+    },
+    {
+     "start": 30.56,
+     "end": 31.04,
+     "n": 1
+    },
+    {
+     "start": 31.04,
+     "end": 31.44,
+     "n": 1
+    },
+    {
+     "start": 31.44,
+     "end": 32.04,
+     "n": 1
+    },
+    {
+     "start": 32.04,
+     "end": 32.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ne kadar iyi yüzebilirlerse yüzsünler, perdelerin dışına çıkamazlardı.",
+   "caption": "Ne kadar iyi yüzebilirlerse yüzsünler, perdelerin dışına çıkamazlardı.",
+   "key": [
+    "yüzebilirlerse"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_samsun_hamam2.jpg",
+    "fit": "doldur",
+    "baslik": "Deniz hamamının tahta perdeleri, Samsun, kartpostal · kamu malı",
+    "lisans": "",
+    "kaynak": "Deniz hamamının tahta perdeleri, Samsun, kartpostal · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 33.02,
+     "end": 33.18,
+     "n": 1
+    },
+    {
+     "start": 33.18,
+     "end": 33.52,
+     "n": 1
+    },
+    {
+     "start": 33.52,
+     "end": 33.8,
+     "n": 1
+    },
+    {
+     "start": 33.8,
+     "end": 34.64,
+     "n": 1
+    },
+    {
+     "start": 34.64,
+     "end": 35.4,
+     "n": 1
+    },
+    {
+     "start": 35.66,
+     "end": 36.1,
+     "n": 1
+    },
+    {
+     "start": 36.1,
+     "end": 36.44,
+     "n": 1
+    },
+    {
+     "start": 36.44,
+     "end": 37.24,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Tramvaylarda da kadınların yeri ayrılmıştı. Arada yine bir perde vardı.",
+   "caption": "Tramvaylarda da kadınların yeri ayrılmıştı. Arada yine bir perde vardı.",
+   "key": [
+    "Tramvaylarda"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_tramvay_kar.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda karda kalan tramvay, 1920'ler · Agence Rol / BnF, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulda karda kalan tramvay, 1920'ler · Agence Rol / BnF, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.72,
+     "end": 38.36,
+     "n": 1
+    },
+    {
+     "start": 38.36,
+     "end": 38.64,
+     "n": 1
+    },
+    {
+     "start": 38.64,
+     "end": 39.12,
+     "n": 1
+    },
+    {
+     "start": 39.12,
+     "end": 39.5,
+     "n": 1
+    },
+    {
+     "start": 39.5,
+     "end": 40.32,
+     "n": 1
+    },
+    {
+     "start": 40.54,
+     "end": 40.88,
+     "n": 1
+    },
+    {
+     "start": 40.88,
+     "end": 41.16,
+     "n": 1
+    },
+    {
+     "start": 41.16,
+     "end": 41.48,
+     "n": 1
+    },
+    {
+     "start": 41.48,
+     "end": 41.62,
+     "n": 1
+    },
+    {
+     "start": 41.62,
+     "end": 42.28,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ta ki 1923 Aralık ayına kadar.",
+   "caption": "Ta ki 1923 Aralık ayına kadar.",
+   "key": [
+    "Aralık"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_ogrenciler.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda Türk kız öğrenciler, 1920'ler · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulda Türk kız öğrenciler, 1920'ler · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 42.48,
+     "end": 42.7,
+     "n": 1
+    },
+    {
+     "start": 42.7,
+     "end": 43.14,
+     "n": 1
+    },
+    {
+     "start": 43.14,
+     "end": 44.4,
+     "n": 1
+    },
+    {
+     "start": 44.4,
+     "end": 44.88,
+     "n": 1
+    },
+    {
+     "start": 44.88,
+     "end": 45.18,
+     "n": 1
+    },
+    {
+     "start": 45.18,
+     "end": 45.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Cumhuriyetin ilk aylarında İstanbul polisi, vapur ve tramvaylardaki perdeleri kaldırdı.",
+   "caption": "Cumhuriyetin ilk aylarında İstanbul polisi, vapur ve tramvaylardaki perdeleri kaldırdı.",
+   "key": [
+    "tramvaylardaki"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_sokak1913.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulda bir sokak, 1913 · The Near East (R. Hichens), kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulda bir sokak, 1913 · The Near East (R. Hichens), kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 46.04,
+     "end": 46.82,
+     "n": 1
+    },
+    {
+     "start": 46.82,
+     "end": 47.06,
+     "n": 1
+    },
+    {
+     "start": 47.06,
+     "end": 47.72,
+     "n": 1
+    },
+    {
+     "start": 47.72,
+     "end": 48.32,
+     "n": 1
+    },
+    {
+     "start": 48.32,
+     "end": 48.86,
+     "n": 1
+    },
+    {
+     "start": 48.86,
+     "end": 49.4,
+     "n": 1
+    },
+    {
+     "start": 49.4,
+     "end": 49.6,
+     "n": 1
+    },
+    {
+     "start": 49.6,
+     "end": 50.44,
+     "n": 1
+    },
+    {
+     "start": 50.44,
+     "end": 50.94,
+     "n": 1
+    },
+    {
+     "start": 50.94,
+     "end": 51.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Gerekçe sağlıktı. Çünkü perdelerin mikrop taşıdığı söyleniyordu.",
+   "caption": "Gerekçe sağlıktı. Çünkü perdelerin mikrop taşıdığı söyleniyordu.",
+   "key": [
+    "söyleniyordu."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_tramvay1877b.jpg",
+    "fit": "doldur",
+    "baslik": "Tramvay ve yolcular, gravür, 1877 · The Illustrated London News, kamu malı",
+    "lisans": "",
+    "kaynak": "Tramvay ve yolcular, gravür, 1877 · The Illustrated London News, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 51.98,
+     "end": 52.54,
+     "n": 1
+    },
+    {
+     "start": 52.54,
+     "end": 53.4,
+     "n": 1
+    },
+    {
+     "start": 53.56,
+     "end": 54.0,
+     "n": 1
+    },
+    {
+     "start": 54.0,
+     "end": 54.74,
+     "n": 1
+    },
+    {
+     "start": 54.74,
+     "end": 55.04,
+     "n": 1
+    },
+    {
+     "start": 55.04,
+     "end": 55.54,
+     "n": 1
+    },
+    {
+     "start": 55.54,
+     "end": 56.26,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Karar Meclise kadar taşındı. Bir milletvekili polisin yetkisini sorguladı.",
+   "caption": "Karar Meclis'e kadar taşındı. Bir milletvekili polisin yetkisini sorguladı.",
+   "key": [
+    "milletvekili"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_uskudar_kadin.jpg",
+    "fit": "doldur",
+    "baslik": "Üsküdarda bir kadın, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Üsküdarda bir kadın, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 56.26,
+     "end": 57.14,
+     "n": 1
+    },
+    {
+     "start": 57.14,
+     "end": 57.62,
+     "n": 1
+    },
+    {
+     "start": 57.62,
+     "end": 57.92,
+     "n": 1
+    },
+    {
+     "start": 57.92,
+     "end": 58.66,
+     "n": 1
+    },
+    {
+     "start": 58.86,
+     "end": 59.04,
+     "n": 1
+    },
+    {
+     "start": 59.04,
+     "end": 59.84,
+     "n": 1
+    },
+    {
+     "start": 59.84,
+     "end": 60.3,
+     "n": 1
+    },
+    {
+     "start": 60.3,
+     "end": 60.88,
+     "n": 1
+    },
+    {
+     "start": 60.88,
+     "end": 61.54,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bir başkası ise polisin doğru yaptığını savundu. Sonuçta karar değişmedi.",
+   "caption": "Bir başkası ise polisin doğru yaptığını savundu. Sonuçta karar değişmedi.",
+   "key": [
+    "değişmedi."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_kadinlar1920.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbullu kadınlar, 1920'ler · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbullu kadınlar, 1920'ler · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 61.9,
+     "end": 62.06,
+     "n": 1
+    },
+    {
+     "start": 62.06,
+     "end": 62.56,
+     "n": 1
+    },
+    {
+     "start": 62.56,
+     "end": 63.0,
+     "n": 1
+    },
+    {
+     "start": 63.0,
+     "end": 63.48,
+     "n": 1
+    },
+    {
+     "start": 63.48,
+     "end": 63.84,
+     "n": 1
+    },
+    {
+     "start": 63.84,
+     "end": 64.3,
+     "n": 1
+    },
+    {
+     "start": 64.3,
+     "end": 65.0,
+     "n": 1
+    },
+    {
+     "start": 65.22,
+     "end": 65.82,
+     "n": 1
+    },
+    {
+     "start": 65.82,
+     "end": 66.2,
+     "n": 1
+    },
+    {
+     "start": 66.2,
+     "end": 66.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bir zamanlar kadınların nerede oturacağına, nerede yüzeceğine bile perde karar veriyordu.",
+   "caption": "Bir zamanlar kadınların nerede oturacağına, nerede yüzeceğine bile perde karar veriyordu.",
+   "key": [
+    "oturacağına,"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_carsafli2.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbullu kadınlar, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbullu kadınlar, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 67.22,
+     "end": 67.38,
+     "n": 1
+    },
+    {
+     "start": 67.38,
+     "end": 68.02,
+     "n": 1
+    },
+    {
+     "start": 68.02,
+     "end": 68.62,
+     "n": 1
+    },
+    {
+     "start": 68.62,
+     "end": 68.94,
+     "n": 1
+    },
+    {
+     "start": 68.94,
+     "end": 69.76,
+     "n": 1
+    },
+    {
+     "start": 70.16,
+     "end": 70.34,
+     "n": 1
+    },
+    {
+     "start": 70.34,
+     "end": 70.96,
+     "n": 1
+    },
+    {
+     "start": 70.96,
+     "end": 71.24,
+     "n": 1
+    },
+    {
+     "start": 71.24,
+     "end": 71.58,
+     "n": 1
+    },
+    {
+     "start": 71.58,
+     "end": 72.0,
+     "n": 1
+    },
+    {
+     "start": 72.0,
+     "end": 72.5,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki, size göre bu kuralların hangisi doğru, hangisi yanlış? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Peki, size göre bu kuralların hangisi doğru, hangisi yanlış? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "Düşüncelerinizi"
+   ],
+   "image": {
+    "local": "assets/belgeler/087_semsiyelikadin2.jpg",
+    "fit": "doldur",
+    "baslik": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 72.98,
+     "end": 73.28,
+     "n": 1
+    },
+    {
+     "start": 73.74,
+     "end": 73.86,
+     "n": 1
+    },
+    {
+     "start": 73.86,
+     "end": 74.16,
+     "n": 1
+    },
+    {
+     "start": 74.16,
+     "end": 74.44,
+     "n": 1
+    },
+    {
+     "start": 74.44,
+     "end": 75.1,
+     "n": 1
+    },
+    {
+     "start": 75.1,
+     "end": 75.52,
+     "n": 1
+    },
+    {
+     "start": 75.52,
+     "end": 75.94,
+     "n": 1
+    },
+    {
+     "start": 76.34,
+     "end": 76.66,
+     "n": 1
+    },
+    {
+     "start": 76.66,
+     "end": 77.06,
+     "n": 1
+    },
+    {
+     "start": 77.6,
+     "end": 78.4,
+     "n": 1
+    },
+    {
+     "start": 78.4,
+     "end": 78.98,
+     "n": 1
+    },
+    {
+     "start": 78.98,
+     "end": 79.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "açıklamasında."
+   ],
+   "image": {
+    "local": "assets/belgeler/087_pecelikadin2.jpg",
+    "fit": "doldur",
+    "baslik": "Peçeli Türk kadını, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Peçeli Türk kadını, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 79.9,
+     "end": 80.42,
+     "n": 1
+    },
+    {
+     "start": 80.42,
+     "end": 80.72,
+     "n": 1
+    },
+    {
+     "start": 80.72,
+     "end": 81.52,
+     "n": 1
+    },
+    {
+     "start": 82.0,
+     "end": 82.58,
+     "n": 1
+    },
+    {
+     "start": 82.58,
+     "end": 82.74,
+     "n": 1
+    },
+    {
+     "start": 82.74,
+     "end": 83.18,
+     "n": 1
+    },
+    {
+     "start": 83.18,
+     "end": 83.62,
+     "n": 1
+    },
+    {
+     "start": 83.62,
+     "end": 84.06,
+     "n": 1
+    },
+    {
+     "start": 84.06,
+     "end": 84.62,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
