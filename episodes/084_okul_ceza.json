@@ -8,7 +8,7 @@
  "youtube_title": "",
  "youtube_description": "",
  "sources": [],
- "surum": 1,
+ "surum": 2,
  "acilis": "Eti senin,\nkemiği benim!",
  "dis_ses": {
   "file": "assets/ses/084_okul_ceza.mp3",
@@ -72,11 +72,11 @@
     "benim."
    ],
    "image": {
-    "local": "assets/belgeler/084_ayasofya_916.jpg",
+    "local": "assets/belgeler/084_mehmedpasa_mektep_916.jpg",
     "fit": "doldur",
-    "baslik": "Ayasofya Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "baslik": "Mehmed Paşa Camii'nin girişi ve mektebi, İstanbul, 19. yüzyıl sonu · Sébah & Joaillier, Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "Ayasofya Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "kaynak": "Mehmed Paşa Camii'nin girişi ve mektebi, İstanbul, 19. yüzyıl sonu · Sébah & Joaillier, Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -174,15 +174,15 @@
    "say": "Mahalle mektebinde hocanın yanında sopa, duvarda da falaka dururdu. Falaka, çocuğun ayaklarını bağlayıp tabanlarına sopayla vurmaktı.",
    "caption": "Mahalle mektebinde hocanın yanında sopa, duvarda da falaka dururdu. Falaka, çocuğun ayaklarını bağlayıp tabanlarına sopayla vurmaktı.",
    "key": [
-    "falaka",
+    "sopa,",
     "tabanlarına"
    ],
    "image": {
-    "local": "assets/belgeler/084_darussafaka_hoca_916.jpg",
+    "local": "assets/belgeler/084_turkistan_mektep_916.jpg",
     "fit": "doldur",
-    "baslik": "Darüşşafaka hocaları ve öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "baslik": "Türkistan'da bir mektepte değnekle ceza, 1870'ler · A. L. Kun, Türkistan Albümü, Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "Darüşşafaka hocaları ve öğrencileri, 1880-1893 · Abdullah Frères, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "kaynak": "Türkistan'da bir mektepte değnekle ceza, 1870'ler · A. L. Kun, Türkistan Albümü, Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -466,11 +466,11 @@
     "sürdü."
    ],
    "image": {
-    "local": "assets/belgeler/084_davutpasa_916.jpg",
+    "local": "assets/belgeler/084_falaka_baku_916.jpg",
     "fit": "doldur",
-    "baslik": "Davutpaşa Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "baslik": "Bakü'de bir mektepte falaka cezası, kartpostal, 1896 · Alexandre Michon, kamu malı",
     "lisans": "",
-    "kaynak": "Davutpaşa Rüşdiyesi öğrencileri, 1880-1893 · Sébah & Joaillier, Library of Congress, Abdülhamid II albümleri, bilinen kısıtlama yok",
+    "kaynak": "Bakü'de bir mektepte falaka cezası, kartpostal, 1896 · Alexandre Michon, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
