@@ -1,4 +1,12 @@
-# DURUM — şu anki işler (son güncelleme: 12.11.2026 05:45, Hesap 2 gece kontrolü: yeni hata yok, HATA 9 doğrulandı; önceki: 12.11.2026 04:33, Hesap 1 gece kontrolü: YENİ HATA 9 (#80 KKTC'de 12 sahnenin 7'si renkli fotoğraf); #79 ve #80 setleri kontrol.py temiz; HATA 4, 7, 8, DIZIN ve defter çift kayıt açık; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 13.11.2026 04:40, Hesap 1 gece kontrolü: Hesap 2 için yeni hata yok; #84 durumu eklendi; ayrıntı MESAJLAR.md)
+
+## GECE KONTROLÜ (13.11.2026 04:40, Hesap 1, repodan yazıldı)
+- #81 Sokağa tükürme yasağı: yükleme seti arastirma/081_belediye_set.txt (kontrol.py set 0 hata). Yayın bilgisi yok.
+- #82 SSK ertelendi (görsel yok). #83 Avarız vergisi: sadece araştırma notu (arastirma/083_avariz_arastirma.md).
+- #84 Okul cezaları (falaka): senaryo + kaynak tablosu var, episodes/084_okul_ceza.json (69,2 sn, 8 sahne, kontrol.py 0 hata), video 01:39'da üretildi. AMA 8 sahnenin hiçbirinde hoca/sopa/falaka görseli yok (CLAUDE.md 12 dersi, 13.11). Falaka kartpostalı arandı, bölüme girmedi. TEK1 KARARI: görseller değişsin mi, video yeniden üretilsin mi.
+- Konu listesi: KONU_FIKIRLERI.md (TEK1 listesi + tekrar kontrolü).
+- #80 KKTC yayında (sohbet hesabı notu), renkli görsellere dokunulmadı.
+- 15 Kasım KKTC yıl dönümü hatırlatması bugün (13 Kasım); #80 zaten hazır/yayında.
 
 ## SOHBET HESABI (13.11.2026 00:08)
 - #82 SSK kuyrukları ERTELENDİ (TEK1: 'görsel yok, geçelim'). Kaynaklar doğrulandı (Yeni Şafak 29.06.1999 + Sabah 04.01.2005, 5283 sayılı kanun, 148 hastane). Uygun dönem görseli yok. Notlar: arastirma/082_ssk_arastirma.md. Manus raporu gelirse sadece nota eklenecek.
