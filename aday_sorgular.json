@@ -1,7 +1,9 @@
 {
  "bolum": "hikaye18",
- "min_w": 400,
- "sorgular": ["Avariz defteri 1642", "Istanbul waiting for ferry 1966", "Elbise-i Osmaniyye Diyarbekir", "Cemil Topuzlu", "Ottoman galley oarsmen", "kadırga"],
+ "min_w": 300,
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [{"file": "File:Pazahbun Karyesi 1642 Avariz Defteri.jpg", "ad": "h_avariz1642.jpg"},
+           {"file": "File:Istanbul, waiting for ferry 1966 (51192130165).jpg", "ad": "h_vapur1966.jpg"},
+           {"file": "File:Cemil.JPG", "ad": "h_cemil.jpg"}]
 }
