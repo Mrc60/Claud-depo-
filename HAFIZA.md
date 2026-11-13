@@ -117,3 +117,4 @@
 - [12.11.2026] Görsel siyah-beyaz seçilir; renkli fotoğraf kullanmadan önce TEK1'e sor (#80 hatası).
 
 - [13.11.2026] Yeni sohbet hesabı dersleri CLAUDE.md 12 sonunda: kaynak satırını okumadan SALT deme; "engelli" demeden gerçek dosyayla dene; Wikimedia görsellerini gorsel-arastirma.yml ile indir; aday sunmadan tekrar grep; sahne değiştirmeden sahne-saniye listesi; sadece sorulanı yap; "çıktı" ile "yürürlüğe girdi"yi ayır.
+- [14.11.2026] Yükleme setinde sabit yorum tüm platformlarda aynı: TEK kez, tek blokta ver; her platformda tekrar etme.
