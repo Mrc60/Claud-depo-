@@ -1,0 +1,40 @@
+=== YT_BASLIK ===
+Kiralar yıllarca artmadı, ama kimse ev bulamadı. Neden? #SıradanDeğil 85
+=== YT_ACIKLAMA ===
+İkinci Dünya Savaşı yıllarında devlet, Milli Korunma Kanunu ile ev kiralarını 1939'daki bedeller üzerinden sınırlandırdı. Ev sahipleri sözleşmedeki kirayı aynı bırakıp yeni kiracıdan el altından hava parası aldı. Kira 1939'da kalmışken inşaat malzemeleri pahalandı, kiralık ev yapımı neredeyse durdu. Evinden çıkan kiracı ya hava parası verdi, ya başka bir aileyle aynı evi paylaştı ya da gecekonduya gitti. Bu sınırlamalar 1963'te Anayasa Mahkemesi kararıyla kalktı. Yeni kanun çıkmadı, anlaşamayan ev sahibiyle kiracının kirasını mahkeme belirledi. Bu düzen 2012'de yeni Borçlar Kanunu yürürlüğe girene kadar sürdü.
+
+Kaynaklar:
+- Sedef Bulut, "Milli Korunma Kanunu Çerçevesinde Türkiye'de Kira Denetimi Meselesi (1940-1960)", Belgi Dergisi 20 (2020)
+- Ekmel Zadil, "İstanbul'da Mesken Meseleleri ve Gecekondular", Sosyal Siyaset Konferansları Dergisi 2 (1949)
+- Anayasa Mahkemesi kararı, E.1963/3, K.1963/67 (26.3.1963)
+- Yargıtay İçtihadı Birleştirme Kararı, E.1964/2, K.1964/4 (18.11.1964)
+- Seda Öktem Çevik, Dokuz Eylül Üniversitesi Hukuk Fakültesi Dergisi (2022)
+
+Görseller: Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi (kamu malı); Basın Yayın Genel Müdürlüğü arşivi; Bundesarchiv Bild 137-039369 (CC BY-SA 3.0 de); Zdravko Pečar (CC BY-SA 4.0); İBB arşivi ve Arkitekt dergisi (kamu malı).
+
+#SıradanDeğil #tarih #kira
+=== YT_ETIKET ===
+kira, kira artışı, kiraların dondurulması, Milli Korunma Kanunu, hava parası, gecekondu, 1939 kiraları, kiracı, ev sahibi, Türkiye tarihi, Sıradan Değil
+=== YT_SABIT ===
+Siz hiç kira yüzünden zorlandınız mı? 👇
+=== TT_ACIKLAMA ===
+Savaş yıllarında kiralar 1939 seviyesinde donduruldu. Ev sahipleri el altından hava parası aldı, kiralık ev yapılmaz oldu, kiracılar gecekonduya gitti. Sınır 1963'te kalktı.
+Kaynaklar: Bulut 2020; Zadil 1949; Anayasa Mahkemesi 1963/67
+Görseller: Schwarzenbach; Basın Yayın arşivi; Pečar, Bundesarchiv (CC BY-SA)
+#SıradanDeğil #tarih #kira #kiracı #gecekondu
+=== TT_SABIT ===
+Siz hiç kira yüzünden zorlandınız mı? 👇
+=== FBIG_ACIKLAMA ===
+Savaş yıllarında kiralar 1939 seviyesinde donduruldu. Ev sahipleri el altından hava parası aldı, kiralık ev yapılmaz oldu. Sınır 1963'te kalktı.
+Kaynaklar: Bulut 2020; Zadil 1949; AYM 1963
+Görseller: Schwarzenbach; Pečar, Bundesarchiv (CC BY-SA)
+#SıradanDeğil #tarih #kira #kiracı
+=== IG_ACIKLAMA ===
+Savaş yıllarında kiralar 1939 seviyesinde donduruldu. Ev sahipleri el altından hava parası aldı, kiralık ev yapılmaz oldu. Sınır 1963'te kalktı.
+Kaynaklar: Bulut 2020; Zadil 1949; AYM 1963
+Görseller: Schwarzenbach; Pečar, Bundesarchiv (CC BY-SA)
+#SıradanDeğil #tarih #kira #kiracı #gecekondu
+=== FBIG_SABIT ===
+Siz hiç kira yüzünden zorlandınız mı? 👇
+=== X_ACIKLAMA ===
+Kiralar yıllarca artmadı, ama kimse ev bulamadı. Ev sahipleri el altından hava parası aldı, kiracılar gecekonduya gitti. Kaynak: Bulut 2020, Zadil 1949. #SıradanDeğil #kira
