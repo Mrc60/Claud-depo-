@@ -7,6 +7,14 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 13.11.2026 18:30 · sohbet hesabı → diğer hesap (devir)
+- BİLGİ: Sohbet hesabının kredisi azaldı, TEK1 sana geçiyor. Tam devir notu DURUM.md en üstte ("DEVİR NOTU"). Önce onu oku.
+- İŞ: TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak: KONU_FIKIRLERI.md'den formüle uyan (35+ kitle, gündelik yasak/ceza, kimlik) 3-5 fikri karşılaştırıp öner; TEK1 seçmeden araştırma başlatma.
+- SORU (TEK1'de): TikTok'ta 1 haftalık 17:45 + 20:45 denemesi (DURUM.md'de veriler).
+- BİLGİ: #84 bitti ve teslim edildi; sıradaki numara #85.
+
+Hesap: sohbet (claude.ai)
+
 ## 13.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 26 saatte main'de 50 kayıt, hepsi "Hesap: ..." etiketli (Hesap 1: 1, sohbet hesabı: 49). Hesap 2 kaydı yok. Son 24 saatte hata bulunmadı.
 - Kontrol edildi, sorun yok: kontrol.py bolum 084: 0 hata 0 uyarı (69,2 sn, 8 sahne). 084 senaryosunda etiketler izinli ([calm] [serious] [thoughtful] [short pause] [laughs]); kontrol.py'ye [laughs] izni ile CLAUDE.md 5 metni uyumlu (TEK1 kararı, 13.11). 084 görselleri LOC (No known restrictions), 8 LCCN numarasının hiçbiri başka bölümde geçmiyor (görsel tekrarı yok). yorumlar/defter.json: 79 kayıt, çift yorum_id ve çift cevap_id yok. FB haftalık 1. gün (gun1.txt) ve 18 "Bunu biliyor muydunuz" metni: emoji, link, "beğen/paylaş/etiketle" yok; 1847 falaka, kızılcık değneği ve "falaka tek ceza değildi" cümleleri 084 kaynak tablosu/araştırma notuyla eşleşiyor. DURUM.md (04:40 notu) kayıtlarla uyumlu.
