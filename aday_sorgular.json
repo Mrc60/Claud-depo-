@@ -2,28 +2,66 @@
  "bolum": "087",
  "min_w": 600,
  "sorgular": [
-  "Abdullah Frères Turkish women",
-  "Turkish women Constantinople Library of Congress",
-  "Muslim women Constantinople 1900 photograph",
-  "yashmak feradje street Constantinople",
-  "Bosphorus steamer passengers 1900",
-  "Constantinople ferry Galata bridge steamer",
-  "Şirket-i Hayriye vapuru fotoğraf",
-  "Kadıköy iskelesi 1910",
-  "Üsküdar iskelesi vapur",
-  "Second Parliament Building Ankara 1924",
-  "TBMM ikinci binası 1924",
-  "Turkish parliament 1924 deputies",
-  "Istanbul 1920s tram women",
-  "Constantinople electric tram 1914"
+  "Freighters, ferries and ocean liners on Golden Horn",
+  "Constantinople steamboat landing",
+  "Bosphorus steamer 1890 photograph",
+  "Galata bridge steamers photograph",
+  "Istanbul ferry 1920s",
+  "Constantinople Kadikeui steamer"
  ],
- "incele": [
-  "File:Le pont de Galata - A36335S.jpg",
-  "File:Le pont de Galata - A36334S.jpg",
-  "File:Divanyolu, İstanbul (12984586613).jpg",
-  "File:Tram-car in Constantinople (The Illustrated London News, 1877).jpg",
-  "File:Constantinople, tramway bloqué par la neige (CNews) - btv1b532097138.jpg",
-  "File:The near East; Dalmatia, Greece and Constantinople (1913) (14582108819).jpg"
- ],
- "indir": []
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Tram-car in Constantinople (The Illustrated London News, 1877).jpg",
+   "ad": "087_tramvay1877"
+  },
+  {
+   "file": "File:Constantinople, tramway bloqué par la neige (CNews) - btv1b532097138.jpg",
+   "ad": "087_tramvay_kar"
+  },
+  {
+   "file": "File:La Photographie - CONSTANTINOPLE - Le nouveau pont de Galata.JPG",
+   "ad": "087_galata_kopru"
+  },
+  {
+   "file": "File:The near East; Dalmatia, Greece and Constantinople (1913) (14582108819).jpg",
+   "ad": "087_sokak1913"
+  },
+  {
+   "file": "File:Constantinople. Turkish lady LCCN93500447.jpg",
+   "ad": "087_pecelikadin"
+  },
+  {
+   "file": "File:Turkish woman, full-length portrait, seated, facing front, holding parasol LCCN2003677088.jpg",
+   "ad": "087_semsiyelikadin"
+  },
+  {
+   "file": "File:Turkish women, Constantinople, Turkey LCCN2010650578.jpg",
+   "ad": "087_carsafli"
+  },
+  {
+   "file": "File:Hundreds of Turkish women have discarded their veils and now appear on the streets dressed as their sisters in the western world This picture shows a number of the wealthiest women in LCCN2010650568.jpg",
+   "ad": "087_kadinlar1920"
+  },
+  {
+   "file": "File:Turk girl students - American Girls College, Constantinople The faculty, students and classrooms of the American College in Constantinople which is now the mecca for thousands in the Allied LCCN2010648493.jpg",
+   "ad": "087_ogrenciler"
+  },
+  {
+   "file": "File:Turkish woman in cemetery at Scutari opposite Constantinople LCCN2016820959.jpg",
+   "ad": "087_uskudar_kadin"
+  },
+  {
+   "file": "File:Samsun'da deniz hamamı.jpg",
+   "ad": "087_samsun_hamam"
+  },
+  {
+   "file": "File:Le pont de Galata - A36335S.jpg",
+   "ad": "087_gadmer1"
+  },
+  {
+   "file": "File:Le pont de Galata - A36334S.jpg",
+   "ad": "087_gadmer2"
+  }
+ ]
 }
