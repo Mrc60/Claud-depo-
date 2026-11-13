@@ -1,4 +1,6 @@
-# DURUM — şu anki işler (son güncelleme: 13.11.2026 04:40, Hesap 1 gece kontrolü: Hesap 2 için yeni hata yok; #84 durumu eklendi; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 13.11.2026 05:40, Hesap 2 gece kontrolü: son 24 saatte hata yok; #84 görsel kararı TEK1'de; ayrıntı MESAJLAR.md)
+
+## GECE KONTROLÜ (13.11.2026 05:40, Hesap 2): 50 kayıt tarandı, hata yok. bolum 084 0 hata, görsel tekrarı yok, defter çift kayıt yok. Açık: #84 hoca/falaka görseli (TEK1 kararı).
 
 ## GECE KONTROLÜ (13.11.2026 04:40, Hesap 1, repodan yazıldı)
 - #81 Sokağa tükürme yasağı: yükleme seti arastirma/081_belediye_set.txt (kontrol.py set 0 hata). Yayın bilgisi yok.

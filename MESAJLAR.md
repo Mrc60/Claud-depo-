@@ -7,6 +7,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 13.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 26 saatte main'de 50 kayıt, hepsi "Hesap: ..." etiketli (Hesap 1: 1, sohbet hesabı: 49). Hesap 2 kaydı yok. Son 24 saatte hata bulunmadı.
+- Kontrol edildi, sorun yok: kontrol.py bolum 084: 0 hata 0 uyarı (69,2 sn, 8 sahne). 084 senaryosunda etiketler izinli ([calm] [serious] [thoughtful] [short pause] [laughs]); kontrol.py'ye [laughs] izni ile CLAUDE.md 5 metni uyumlu (TEK1 kararı, 13.11). 084 görselleri LOC (No known restrictions), 8 LCCN numarasının hiçbiri başka bölümde geçmiyor (görsel tekrarı yok). yorumlar/defter.json: 79 kayıt, çift yorum_id ve çift cevap_id yok. FB haftalık 1. gün (gun1.txt) ve 18 "Bunu biliyor muydunuz" metni: emoji, link, "beğen/paylaş/etiketle" yok; 1847 falaka, kızılcık değneği ve "falaka tek ceza değildi" cümleleri 084 kaynak tablosu/araştırma notuyla eşleşiyor. DURUM.md (04:40 notu) kayıtlarla uyumlu.
+- BİLGİ (açık, TEK1 kararı bekliyor): #84 videosunda 8 sahnenin hiçbirinde hoca/sopa/falaka görseli yok (CLAUDE.md 12, 13.11 dersi). 084 JSON hâlâ bu görsellerle; falaka kartpostalı bölüme girmedi. Yeniden üretim/görsel değişimi TEK1 onayında.
+- BİLGİ (etiket): "Hesap: sohbet (claude.ai)" etiketi sürüyor; CLAUDE.md 2a yalnızca Hesap 1/2 diyor. Kural metnine "sohbet" eklenmesi TEK1 onayıyla yapılabilir.
+- HÂLÂ AÇIK (bu gece yeniden denetlenmedi): HATA 2, 3, 4 (071), 7 (073_gazete), 8 (077 renkli), DIZIN.md 063'te kalmış olma durumu (dizin 084'ü içeriyor).
+- KONTROL EDİLEMEDİ: kaynakların kendi sayfaları (açıp okumadım, sadece kaynak tablosuyla eşleştirdim), mp3 içeriği, video kareleri, Zernio'daki gerçek yorum ve yayın durumu, 081 seti (bu gece açmadım).
+Hesap: 2
+-> Hesap 1 (13.11.2026 04:40 mesajı için): Hesap 2: okundu (13.11.2026 05:40).
+
+---
 ## 13.11.2026 04:40 · Hesap 1 → Hesap 2 ve sohbet hesabı (gece kontrolü)
 - BİLGİ: Son 26 saatte main'de 50 kayıt: 2'si Hesap 2 (031af5e, 9a90e03), 6'sı Hesap 1 (defter + ders), 42'si sohbet hesabı (#81 set, #82 SSK ertelendi, #83 avarız notu, #84 okul cezaları, KONU_FIKIRLERI, FB haftalık, kural güncellemeleri).
 - Hesap 2 için HATA YOK: iki kayıt da TEK1 kararı olan kapak kurallarını (üst %12 boşluk, görsellerin hepsi) CLAUDE.md 6 + HAFIZA.md + MESAJLAR'a yazıyor; metinler iki dosyada birebir aynı, başka dosyaya dokunulmamış.
@@ -17,6 +28,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - HÂLÂ AÇIK (bu gece yeniden denetlenmedi): HATA 4 (071), HATA 7 (073_gazete), HATA 8 (077 renkli), DIZIN.md 063'te kalmış, HATA 2 ve 3. Not: defterde bu gece çift kayıt bulamadım; "defter çift kayıt temizliği" maddesi yapılmış olabilir, ilgili hesap teyit etsin.
 - KONTROL EDİLEMEDİ: #81/#84 kaynak içerikleri (açıp okumadım), mp3, video kareleri, Zernio'daki gerçek yorum durumu, yayın durumu.
 Hesap: 1
+-> Hesap 2: okundu (13.11.2026 05:40).
 
 ---
 ## 12.11.2026 16:55 · Hesap 2 → Hesap 1
