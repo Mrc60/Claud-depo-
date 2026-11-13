@@ -1,9 +1,7 @@
 {
- "bolum": "084_okul_ceza",
- "min_w": 300,
- "sorgular": [],
- "incele": ["File:Falaka punishment in Azerbaijani school in Baku.jpg", "File:Muslim School. Punishments (Striking with Cane on Palms or Soles) WDL10756.png", "File:Entrée et l'école de la Mosquée Mehmed Pacha - Sébah & Joaillier. LCCN2003688277.jpg"],
- "indir": [{"file": "File:Falaka punishment in Azerbaijani school in Baku.jpg", "ad": "084_falaka_baku.jpg"},
-           {"file": "File:Muslim School. Punishments (Striking with Cane on Palms or Soles) WDL10756.png", "ad": "084_turkistan_mektep.png"},
-           {"file": "File:Entrée et l'école de la Mosquée Mehmed Pacha - Sébah & Joaillier. LCCN2003688277.jpg", "ad": "084_mehmedpasa_mektep.jpg"}]
+ "bolum": "hikaye18",
+ "min_w": 400,
+ "sorgular": ["Avariz defteri 1642", "Istanbul waiting for ferry 1966", "Elbise-i Osmaniyye Diyarbekir", "Cemil Topuzlu", "Ottoman galley oarsmen", "kadırga"],
+ "incele": [],
+ "indir": []
 }
