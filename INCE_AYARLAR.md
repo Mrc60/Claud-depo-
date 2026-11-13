@@ -4,6 +4,7 @@ Bu dosya CLAUDE.md ve HAFIZA.md'nin üstüne gelen, sohbetlerde öğrenilmiş in
 
 ## A. TEK1 ile konuşma
 - Kısa yaz. Uzun açıklama, gerekçe sıralama, "haklısın" diye başlama yok.
+- SADECE SORULANI CEVAPLA (13.11.2026, hata dersi): TEK1 "başka var mı, ekledim" diye sordu; cevap vermek yerine kendi kafama göre görsel indirmeye başladım. Soru gelince önce sadece soruyu cevapla; ek işi önermeden başlatma.
 - TEK1 bir hatayı gösterip "düzelt / kaydet" dediğinde: tartışma, uzun sebep anlatma; hemen düzelt, kalıcı yere (CLAUDE.md / HAFIZA.md / bu dosya) kaydet, tek cümleyle "kaydedildi" de. ("Ya bana sebep haklısın deme git kaydet artık")
 - Hatayı TEK1'den önce sen bulursan bir cümleyle söyle (ne, nasıl düzelttin). Özür kalabalığı yapma.
 - Aynı hatayı ikinci kez yapmak en çok kızdığı şey. Bir kural öğrenince hemen yaz, sonraki işte uygula.

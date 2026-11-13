@@ -86,8 +86,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Kapanış:
   - Konuya özel bir soru sor.
   - Yorumlara davet et: "Düşüncelerinizi yorumlarda paylaşın."
-  - Sonra: "Kaynakları video açıklamasında bulabilirsiniz."
-  - Sabit son cümle: "Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu beğenmeyi ve takip etmeyi lütfen unutmayalım."
+  - Sabit kapanış (TEK1 kararı, 13.11.2026, kısaltıldı; eskisi ~14 sn sürüyordu): "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım."
 - TEK1 senaryoyu onaylamadan ses üretme. Sesi TEK1 ElevenLabs'te kendisi alıp mp3 gönderir.
 - Şehitler için "ölü" değil "şehit" de. Ceset fotoğrafı kullanma.
 - Senaryo teslimi: A) yayına hazır metin, B) kaynak tablosu ve bağlantılar, C) sahne sahne görsel planı, D) sadece yapılan kontrolleri içeren doğrulama raporu, E) yayın kararı.

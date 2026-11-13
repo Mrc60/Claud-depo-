@@ -23,8 +23,8 @@ import sys
 KOK = os.path.dirname(os.path.abspath(__file__))
 EMOJI = re.compile("[\U0001F000-\U0001FAFF☀-➿⬀-⯿️‍]")
 ETIKETLER = {"serious", "thoughtful", "calm", "sad", "short pause", "long pause", "laughs"}  # laughs: TEK1 izni 13.11.2026
-SON_CUMLE = ("Böyle az bilinen tarih ve kültür hikâyeleri için videomuzu "
-             "beğenmeyi ve takip etmeyi lütfen unutmayalım.")
+# TEK1 kararı 13.11.2026: kapanış kısaltıldı
+SON_CUMLE = "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım."
 CAGRI = re.compile(r"\b(beğen\w*|paylaş\w*|etiketle\w*|takip et\w*)", re.I)
 LINK = re.compile(r"(https?://|www\.|\.com\b|\.gov\b|\.org\b)", re.I)
 
@@ -84,8 +84,6 @@ def metin_kontrol(yol):
             uyari(f"'{k.strip()}' geçiyor: güçlü kanıt var mı?")
     if "Düşüncelerinizi yorumlarda paylaşın" not in duz:
         uyari("kapanışta yorum daveti yok")
-    if "Kaynakları video açıklamasında bulabilirsiniz" not in duz:
-        hata("kapanışta 'Kaynakları video açıklamasında bulabilirsiniz.' yok")
     if SON_CUMLE not in duz:
         hata("sabit son cümle yok ya da farklı yazılmış")
     if "dede" in duz.lower():
