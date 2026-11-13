@@ -12,6 +12,7 @@ Her oturumda önce bu dosyayı oku ve kurallara uy.
   - Instagram bağlantısı: https://www.instagram.com/siradandegill
 - Repo: github.com/Mrc60/Claud-depo-
 - YAYIN SAATİ (TEK1 kararı, 13.11.2026): TÜM platformlarda (Facebook, Instagram, TikTok, YouTube) sabah 06:50, akşam 17:45. Dayanak: FB 56 video analizi (16.10-13.11): 16-18 medyanı en iyi (8.738); 4 Kasım'dan beri saat fark etmeden 5-7 bin, düşüşün asıl sebebi konu (patlayanlar gündelik yasak/ceza hikâyeleri). Not: IG'de 06-09 medyanı zayıf (3.159). 27.11.2026'da yeni saatleri karşılaştır.
+- TIKTOK DENEMESİ (TEK1 onayı, 13.11.2026): TikTok'ta 1 hafta (14-20.11) 17:45 + 20:45; sabah videosu TikTok'ta 20:45'te atılır. FB, IG, YouTube 06:50 / 17:45 kalır. Dayanak: TikTok aktif saatleri takipçi 21-22, izleyici 00-01 ve 21-22; kendi verimiz 16-19 medyanı 3.850, 06-10 medyanı 1.644. 27.11'de karşılaştır: 20:45 iyiyse kalıcı, değilse 06:50'ye dön. Not: aynı akşam iki videonun birbirini düşürüp düşürmediğine de bak.
 - (ESKİ) Günde 2 video: 11:00 ve 16:00, tüm platformlarda (TEK1 kararı, 05.11.2026; 04.11'deki 12:00/16:00 kararının yerine. Sebep: FB panosu 15:00-19:00 aralığını öneriyor, 12:00 Düğün ortalamanın altında kaldı. 11.11'de istatistik dalıyla karşılaştır: 4-5 Kasım 12:00, 5 Kasım sonrası 11:00). Eski düzen: sabah ~07:00 ve akşam 18:00. Veri: 18-21 arası TikTok/IG'de en zayıf, 12-17 arası en iyi.
 - İletişim Türkçe, kısa ve sade. Emin değilsen "emin değilim" de, hatanı kendin söyle.
 

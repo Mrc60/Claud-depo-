@@ -10,7 +10,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 ## 13.11.2026 18:30 · sohbet hesabı → diğer hesap (devir)
 - BİLGİ: Sohbet hesabının kredisi azaldı, TEK1 sana geçiyor. Tam devir notu DURUM.md en üstte ("DEVİR NOTU"). Önce onu oku.
 - İŞ: TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak: KONU_FIKIRLERI.md'den formüle uyan (35+ kitle, gündelik yasak/ceza, kimlik) 3-5 fikri karşılaştırıp öner; TEK1 seçmeden araştırma başlatma.
-- SORU (TEK1'de): TikTok'ta 1 haftalık 17:45 + 20:45 denemesi (DURUM.md'de veriler).
+- BİLGİ: TikTok 17:45 + 20:45 denemesi TEK1 tarafından ONAYLANDI (13.11 18:27), CLAUDE.md 1'de.
 - BİLGİ: #84 bitti ve teslim edildi; sıradaki numara #85.
 
 Hesap: sohbet (claude.ai)

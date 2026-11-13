@@ -14,7 +14,7 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - TEK1 kararı (CLAUDE.md 1): TÜM platformlarda 06:50 ve 17:45. 27.11'de karşılaştır.
 - TikTok ek analiz (13.11, istatistik dalı gunluk/2026-11-13.json, 58 TikTok videosu, TR saati, medyan izlenme): 16-19 = 3.850 (23 video, en iyi), 19-24 = 3.115 (sadece 3 video), 06-10 = 1.644 (19), 10-13 = 794 (9). 4 Kasım sonrası tüm saatler 650-870 (düşüş konudan).
 - TikTok aktif saatler (TEK1 ekranından, 7-12 Kasım): takipçi zirvesi 21:00-22:00 (4 gün), ayrıca 19:00, 00:00; izleyici zirvesi 00:00-01:00 (4 gün) ve 21:00-22:00. Saat dilimi büyük ihtimalle TR, emin değiliz.
-- ÖNERİ (ONAY BEKLİYOR, uygulanmadı): TikTok'ta 1 hafta 17:45 + 20:45 denemesi (sabah videosu TikTok'ta 20:45), diğer platformlar 06:50/17:45 kalır; 27.11'de karşılaştır. TEK1 "evet" derse CLAUDE.md 1'e TikTok istisnası olarak yaz.
+- KARAR (TEK1 onayı, 13.11 18:27): TikTok'ta 1 hafta (14-20.11) 17:45 + 20:45 denemesi (sabah videosu TikTok'ta 20:45); diğer platformlar 06:50/17:45. CLAUDE.md 1'e yazıldı. 27.11'de karşılaştır.
 
 ### Bugün (13.11) biten işler
 - #84 Okul cezaları (falaka, "Eti senin, kemiği benim"): video v2 (70 sn, 8 sahne, falaka/hoca/mektep görselleri eklendi), yükleme seti arastirma/084_okul_ceza_set.txt (kontrol.py 0 hata, AI satırı çıkarıldı), kapak assets/belgeler/084_kapak.jpg (GPT şiddet diye üretmedi, gerçek fotoğraflardan PIL ile yapıldı). TEK1'e teslim edildi. Yayın bilgisi yok.
@@ -24,7 +24,6 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - Zernio ve diğer bağlantılar bu oturumda bağlanamıyordu (502); istatistik için 'istatistik' dalı kullanıldı.
 
 ### Açık işler
-- TikTok 20:45 denemesi için TEK1 onayı.
 - 27.11: yeni yayın saatlerini karşılaştır. 04.12: X devam/bırak kararı. 23.11: PostProxy kotası yenilenir.
 - Sıradaki bölüm numarası: #85.
 
