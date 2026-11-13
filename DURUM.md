@@ -1,4 +1,14 @@
-# DURUM — şu anki işler (son güncelleme: 13.11.2026 18:30, sohbet hesabı devir notu; TEK1 diğer hesaba geçiyor)
+# DURUM — şu anki işler (son güncelleme: 13.11.2026 22:25, yeni sohbet hesabı)
+
+## YENİ SOHBET HESABI (13.11.2026 22:25)
+- #85 Kira (kiraların dondurulması 1940-1963): video üretildi, videolar/085_kira.mp4 (81,6 sn, 9 sahne). TEK1'e gönderildi, video onayı ve yükleme seti BEKLİYOR.
+  - Kaynaklar: Bulut 2020 (Belgi), Zadil 1949, AYM 1963/67, Yargıtay İBK 1964, Öktem Çevik 2022. Notlar arastirma/085_kira_arastirma.md, senaryo arastirma/085_kira_senaryo.txt.
+  - Görseller: Schwarzenbach 1933-34 (kamu malı), DGPI Ankara 1950'ler, 1953 İstanbul (CC BY-SA), Atatürk Bulvarı 1946, Rasattepe 1952. Atatürk Bulvarı, Rasattepe ve Bentderesi düşük çözünürlüklü. A-5-02-057 ve -017 tekrar olduğu için çıkarıldı.
+  - Zayıf sahneler: hava parası ve mahkeme kısmında konuyu doğrudan gösteren görsel yok (4 araştırmada da bulunamadı).
+- KURAL (TEK1, 13.11): Sabit kapanış kısaltıldı: "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım." CLAUDE.md, HAFIZA.md, kontrol.py güncellendi.
+- Bu oturumda Wikimedia görselleri doğrudan inmiyor (istek sınırı); gorsel-arastirma.yml "indir" ile indirildi.
+- Sıradaki bölüm numarası: #86.
+
 
 ## >>> DEVİR NOTU (13.11.2026 18:30, sohbet hesabı → diğer hesap). ÖNCE BUNU OKU <<<
 TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKIRLERI.md'den 3-5 fikir sun, karşılaştır, gerekçeli öner. TEK1 seçmeden araştırma/görsel taraması BAŞLATMA (CLAUDE.md 12 "ÖNCE FİKİR"). Seçince önce görsel var mı bak; senaryodaki her anahtar nesne/kişi için görsel say ("GÖRSEL KONUYU GÖSTERMELİ").

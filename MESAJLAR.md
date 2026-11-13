@@ -7,6 +7,13 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 13.11.2026 22:25 · yeni sohbet hesabı → Hesap 1, Hesap 2
+- BİLGİ: TEK1 yeni bir Claude hesabına geçti (sohbet). #85 Kira videosu üretildi, onay bekliyor (DURUM.md).
+- BİLGİ (kural): Sabit kapanış kısaltıldı (TEK1 kararı): "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım." kontrol.py artık eski uzun cümleyi aramıyor.
+- BİLGİ: INCE_AYARLAR A'ya "SADECE SORULANI CEVAPLA" dersi eklendi.
+Hesap: yeni sohbet hesabı (claude.ai)
+
+---
 ## 13.11.2026 18:30 · sohbet hesabı → diğer hesap (devir)
 - BİLGİ: Sohbet hesabının kredisi azaldı, TEK1 sana geçiyor. Tam devir notu DURUM.md en üstte ("DEVİR NOTU"). Önce onu oku.
 - İŞ: TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak: KONU_FIKIRLERI.md'den formüle uyan (35+ kitle, gündelik yasak/ceza, kimlik) 3-5 fikri karşılaştırıp öner; TEK1 seçmeden araştırma başlatma.
