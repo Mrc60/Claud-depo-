@@ -8,7 +8,7 @@
  "youtube_title": "",
  "youtube_description": "",
  "sources": [],
- "surum": 3,
+ "surum": 4,
  "acilis": "Kira artmıyordu,\nama ev yoktu!",
  "dis_ses": {
   "file": "assets/ses/085_kira.mp3",
@@ -77,11 +77,11 @@
     "bulamadı."
    ],
    "image": {
-    "local": "assets/belgeler/085_istanbul_ahsap1933.jpg",
+    "local": "assets/belgeler/085_ankara_kale1950.jpg",
     "fit": "doldur",
-    "baslik": "İstanbul'da ahşap evli bir sokak, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "baslik": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
     "lisans": "",
-    "kaynak": "İstanbul'da ahşap evli bir sokak, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "kaynak": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -283,11 +283,11 @@
     "parası"
    ],
    "image": {
-    "local": "assets/belgeler/085_istanbul_konut1935.jpg",
+    "local": "assets/belgeler/085_istanbul_ahsap1933.jpg",
     "fit": "doldur",
-    "baslik": "İstanbul'da bir konut mahallesi, 1935 · Bundesarchiv Bild 137-039369, CC BY-SA 3.0 de",
+    "baslik": "İstanbul'da ahşap evli bir sokak, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
     "lisans": "",
-    "kaynak": "İstanbul'da bir konut mahallesi, 1935 · Bundesarchiv Bild 137-039369, CC BY-SA 3.0 de",
+    "kaynak": "İstanbul'da ahşap evli bir sokak, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -463,11 +463,11 @@
     "durdu."
    ],
    "image": {
-    "local": "assets/belgeler/085_ankara_kale1950.jpg",
+    "local": "assets/belgeler/085_istanbul_konut1935.jpg",
     "fit": "doldur",
-    "baslik": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
+    "baslik": "İstanbul'da bir konut mahallesi, 1935 · Bundesarchiv Bild 137-039369, CC BY-SA 3.0 de",
     "lisans": "",
-    "kaynak": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
+    "kaynak": "İstanbul'da bir konut mahallesi, 1935 · Bundesarchiv Bild 137-039369, CC BY-SA 3.0 de",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
