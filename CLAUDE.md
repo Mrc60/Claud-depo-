@@ -264,6 +264,19 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - BELGE GÖRSELİ KENARI (10.11.2026, #77 hatası): render.py doldur modunda 9:16 görseli bile kenardan ~%6 kırpıyor; belge/tutanak kesitine her yandan en az %10 beyaz pay koy ve hiz 0 ver. Teslimden önce belge sahnesinin karesinde ilk/son harflere bak.
 - SADECE GÖRSEL DEĞİŞİRSE (10.11.2026, #77 hatası): video-uret.yml yalnızca episodes/** değişince çalışır. Sadece assets/belgeler değişti ise bölüm JSONuna küçük alan (ör. "surum") ekleyip birlikte gönder.
 
+### Yeni sohbet hesabı dersleri (13.11.2026, #85 Kira; hata, sebep, önlem)
+- SALT SANMA: Flickr kaynaklı Ankara 1950'ler fotoğraflarına "SALT, yasak" dedim; kaynakları Basın Yayın Genel Müdürlüğü (DGPI, "Turkey in Photographs", bilinen telif kısıtlaması yok). Sebep: Commons'taki Artist/kaynak satırını okumadım. Önlem: lisans/kaynak hükmünü dosyanın Artist ve Credit alanını okuyarak ver; (12984...) gibi Flickr numarası SALT demek değildir.
+- "ENGELLİ" SANMA: "upload.wikimedia.org engelli" dedim, yanlıştı. Asıl sebep: API küçük resmi thumb.wikimedia.org'dan veriyordu ve Wikimedia, tanıtım bilgisi (User-Agent) olmayan isteği 429 ile reddediyordu. Önlem: bir siteye "kapalı" demeden önce gerçek bir dosyayla ve düzgün User-Agent ile dene; HTTP kodunu oku (000 = bağlantı yok, 403/429 = site reddetti). Uydurma alt alan adıyla (ia800000) test etme, gerçek dosya indir.
+- WIKIMEDIA İNDİRME (sohbet oturumu): Bu oturumdan arka arkaya indirme 429'a takılıyor, saatlerce sürüyor. Önlem: görselleri gorsel-arastirma.yml "indir" listesiyle GitHub'da indir (dakikalar içinde 'adaylar' dalında paket/). Aramayı da "sorgular" ile orada yap.
+- GÖRMEDEN HÜKÜM: Dosya adlarına bakıp "görsel zayıf/var" dedim, fotoğrafları açmamıştım. Önlem: CLAUDE.md 12 "fotoğrafı AÇ" kuralı her öneride; açamıyorsan "göremedim" de.
+- ADAY SUNMADAN TEKRAR KONTROLÜ: TEK1'e 10 adaylık pano sundum; ikisi (Schwarzenbach A-5-02-057 ve -017) #31, #33, #35'te kullanılmıştı, video aşamasında yakaladım. Önlem: aday listesini TEK1'e göstermeden ÖNCE her dosyanın Commons adını/numarasını episodes/ ve DIZIN.md'de grep'le.
+- SAHNE YER DEĞİŞTİRME: "Giriş ile 33. sn'deki görseli değiştir" denince 33. sn'yi eski yerleşime göre tahmin ettim, yanlış çifti değiştirip gönderdim (v3), sonra düzelttim (v4). Önlem: yer değiştirmeden önce sahne | başlangıç-bitiş sn | görsel | altyazı listesini python ile yazdır, saniyeyi listeden bul.
+- SORULMAYANI YAPMA: TEK1 "başka var mı, ekledim" diye sordu, ben görsel indirmeye başladım. Önlem: önce sadece soruyu cevapla; ek işi öner, onay gelmeden başlatma (INCE_AYARLAR A).
+- TARİH İNCELİĞİ: "2012'de yeni Borçlar Kanunu çıkana kadar" diye önerdim; kanun 2011'de çıktı, 1.7.2012'de yürürlüğe girdi. Önlem: kanunlarda "çıktı" ile "yürürlüğe girdi" tarihini ayır.
+- SAYI KARIŞIKLIĞI: Aynı konuşmada "8 görsel" ve "10 görsel" dedim. Önlem: sayıyı tek listeden say, "lisansça kullanılabilir" ile "hikâyeye yarayan"ı ayrı söyle.
+- SÜRE: İlk taslak 105 sn çıktı; göndermeden kısalttım. Not: TEK1 eklemelerle 80-90 sn'yi kabul edebiliyor, yine de her değişiklikte kontrol.py süresini söyle.
+- TEKNİK NOT (sohbet oturumu): Repoya yazmak için add_repo access "push" gerekir (TEK1 onayıyla). gh CLI giriş yapmıyor; iş akışı durumu için https://api.github.com/repos/Mrc60/Claud-depo-/actions/runs (herkese açık) okunabilir. Dalları `git fetch --depth 1 origin +refs/heads/DAL:refs/remotes/origin/DAL` ile çek.
+
 ### Hesap 2 dersleri (02.11.2026, #59 ve yorum oturumu; hata, sebep, önlem)
 - KAMERA KESİLMESİ: Sahne ortası karesine bakıp "kesilme yok" dedim; kamera kayarken başta/sonda kart yazıları kesiliyordu. Önlem: HER sahnenin başı (%12), ortası (%50), sonu (%88) karesi tek panoda kontrol edilir. Kart/grafik sahnelerinde `hiz: 0`.
 - ARAÇ YETENEĞİ: "Buffer'dan yorumları alırım" dedim; Buffer araçları sadece sayı veriyor, yorum metni yok. Önlem: bir araçla ne yapılabileceğini söylemeden önce araçla dene.

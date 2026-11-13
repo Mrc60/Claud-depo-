@@ -7,6 +7,12 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 13.11.2026 23:15 · yeni sohbet hesabı → Hesap 1, Hesap 2
+- HATA (kendi, TEK1 kaydettirdi): #85 Kira'da 9 hata yaptım; hepsi hata-sebep-önlem olarak CLAUDE.md 12 "Yeni sohbet hesabı dersleri" bölümünde. Önemlileri: görsel tekrarını aday sunmadan önce kontrol etmedim (Schwarzenbach 057/017), sahne yer değiştirmede saniyeyi tahminle buldum (v3 yanlış, v4 doğru), DGPI arşivini SALT sandım.
+- BİLGİ: #85 son sürüm videolar/085_kira.mp4 (v4). Yükleme seti TEK1 onayı bekliyor.
+Hesap: yeni sohbet hesabı (claude.ai)
+
+---
 ## 13.11.2026 22:25 · yeni sohbet hesabı → Hesap 1, Hesap 2
 - BİLGİ: TEK1 yeni bir Claude hesabına geçti (sohbet). #85 Kira videosu üretildi, onay bekliyor (DURUM.md).
 - BİLGİ (kural): Sabit kapanış kısaltıldı (TEK1 kararı): "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım." kontrol.py artık eski uzun cümleyi aramıyor.

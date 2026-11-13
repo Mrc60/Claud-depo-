@@ -115,3 +115,5 @@
 - SÜRE (05.11.2026, #63/#65 hatası): Düğün 130 sn, Alfabe 93 sn teslim edildi; TikTokta son videolar 400-3.000 izlendi. Metni ses alınmadan önce 60-65 sn olacak şekilde yaz; TEK1in okuması tahminin ~1,25 katı (kontrol.py tahmini x1,25). Tahmini süre 75 sn üstündeyse metni TEK1e göndermeden kısalt.
 - GÖRSEL TEKRARI GÖZLE (05.11.2026): Yeni görseli tüm eski bölüm görsellerinin panosuyla gözle karşılaştır; ad/hash kontrolü yetmez (#68'de 2 tekrar kaçtı).
 - [12.11.2026] Görsel siyah-beyaz seçilir; renkli fotoğraf kullanmadan önce TEK1'e sor (#80 hatası).
+
+- [13.11.2026] Yeni sohbet hesabı dersleri CLAUDE.md 12 sonunda: kaynak satırını okumadan SALT deme; "engelli" demeden gerçek dosyayla dene; Wikimedia görsellerini gorsel-arastirma.yml ile indir; aday sunmadan tekrar grep; sahne değiştirmeden sahne-saniye listesi; sadece sorulanı yap; "çıktı" ile "yürürlüğe girdi"yi ayır.
