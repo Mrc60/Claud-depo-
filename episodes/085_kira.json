@@ -8,7 +8,7 @@
  "youtube_title": "",
  "youtube_description": "",
  "sources": [],
- "surum": 1,
+ "surum": 2,
  "acilis": "Kira artmıyordu,\nama ev yoktu!",
  "dis_ses": {
   "file": "assets/ses/085_kira.mp3",
@@ -77,11 +77,11 @@
     "bulamadı."
    ],
    "image": {
-    "local": "assets/belgeler/085_istanbul_tramvay1953.jpg",
+    "local": "assets/belgeler/085_istanbul_konut1935.jpg",
     "fit": "doldur",
-    "baslik": "İstanbul'da tramvay kalabalığı, Mart 1953 · CC BY-SA 4.0, Wikimedia Commons",
+    "baslik": "İstanbul'da bir konut mahallesi, 1935 · Bundesarchiv Bild 137-039369, CC BY-SA 3.0 de",
     "lisans": "",
-    "kaynak": "İstanbul'da tramvay kalabalığı, Mart 1953 · CC BY-SA 4.0, Wikimedia Commons",
+    "kaynak": "İstanbul'da bir konut mahallesi, 1935 · Bundesarchiv Bild 137-039369, CC BY-SA 3.0 de",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
