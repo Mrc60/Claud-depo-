@@ -117,8 +117,10 @@ def bolum_kontrol(yol):
             hata(f"kesim sayısı ({len(kes)}) sahne sayısıyla ({len(segs)}) uyuşmuyor")
         for i, k in enumerate(kes, 1):
             sure = sum(b - a for a, b in k)
-            if sure < 6:
-                uyari(f"sahne {i}: görsel {sure:.1f} sn ekranda (<6 sn)")
+            if sure < 4:  # TEK1 kararı 14.11.2026: görsel 4-5 sn
+                uyari(f"sahne {i}: görsel {sure:.1f} sn ekranda (<4 sn)")
+            elif sure > 7:
+                uyari(f"sahne {i}: görsel {sure:.1f} sn ekranda (hedef 4-5 sn, ikinci görsel ekle)")
     if segs and re.match(r"\s*\d{3,4}", segs[0].get("say", "")):
         hata("ilk sahne tarihle açılıyor")
 
