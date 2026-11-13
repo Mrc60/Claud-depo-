@@ -1,0 +1,1041 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 85,
+ "slug": "kira",
+ "title": "Kiraların Dondurulduğu Yıllar",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "surum": 1,
+ "acilis": "Kira artmıyordu,\nama ev yoktu!",
+ "dis_ses": {
+  "file": "assets/ses/085_kira.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     7.3
+    ]
+   ],
+   [
+    [
+     7.3,
+     17.7
+    ]
+   ],
+   [
+    [
+     17.7,
+     26.82
+    ]
+   ],
+   [
+    [
+     26.82,
+     33.04
+    ]
+   ],
+   [
+    [
+     33.04,
+     40.76
+    ]
+   ],
+   [
+    [
+     40.76,
+     48.72
+    ]
+   ],
+   [
+    [
+     48.72,
+     57.9
+    ]
+   ],
+   [
+    [
+     57.9,
+     70.16
+    ]
+   ],
+   [
+    [
+     70.16,
+     80.77
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir düşünün… Kiralar yıllarca devlet kontrolünde kaldı. Ama insanlar yine de kiralık ev bulamadı.",
+   "caption": "Bir düşünün… Kiralar yıllarca devlet kontrolünde kaldı. Ama insanlar yine de kiralık ev bulamadı.",
+   "key": [
+    "bulamadı."
+   ],
+   "image": {
+    "local": "assets/belgeler/085_istanbul_tramvay1953.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul'da tramvay kalabalığı, Mart 1953 · CC BY-SA 4.0, Wikimedia Commons",
+    "lisans": "",
+    "kaynak": "İstanbul'da tramvay kalabalığı, Mart 1953 · CC BY-SA 4.0, Wikimedia Commons",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.42,
+     "n": 1
+    },
+    {
+     "start": 0.42,
+     "end": 1.22,
+     "n": 1
+    },
+    {
+     "start": 1.44,
+     "end": 1.86,
+     "n": 1
+    },
+    {
+     "start": 1.86,
+     "end": 2.5,
+     "n": 1
+    },
+    {
+     "start": 2.5,
+     "end": 2.88,
+     "n": 1
+    },
+    {
+     "start": 2.88,
+     "end": 3.48,
+     "n": 1
+    },
+    {
+     "start": 3.48,
+     "end": 4.2,
+     "n": 1
+    },
+    {
+     "start": 4.4,
+     "end": 4.54,
+     "n": 1
+    },
+    {
+     "start": 4.54,
+     "end": 5.04,
+     "n": 1
+    },
+    {
+     "start": 5.04,
+     "end": 5.48,
+     "n": 1
+    },
+    {
+     "start": 5.48,
+     "end": 5.7,
+     "n": 1
+    },
+    {
+     "start": 5.7,
+     "end": 6.08,
+     "n": 1
+    },
+    {
+     "start": 6.08,
+     "end": 6.2,
+     "n": 1
+    },
+    {
+     "start": 6.2,
+     "end": 6.8,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "İkinci Dünya Savaşı yıllarında devlet, ev kiralarını 1939daki bedeller üzerinden sınırlandırdı. Ev sahipleri kafasına göre zam yapamıyordu.",
+   "caption": "İkinci Dünya Savaşı yıllarında devlet, ev kiralarını 1939'daki bedeller üzerinden sınırlandırdı. Ev sahipleri kafasına göre zam yapamıyordu.",
+   "key": [
+    "1939'daki"
+   ],
+   "image": {
+    "local": "assets/belgeler/085_ataturk_bulvari1946.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk Bulvarı, İstanbul, 1946 · İBB arşivi, kamu malı",
+    "lisans": "",
+    "kaynak": "Atatürk Bulvarı, İstanbul, 1946 · İBB arşivi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 7.3,
+     "end": 7.56,
+     "n": 1
+    },
+    {
+     "start": 7.68,
+     "end": 8.0,
+     "n": 1
+    },
+    {
+     "start": 8.0,
+     "end": 8.42,
+     "n": 1
+    },
+    {
+     "start": 8.42,
+     "end": 9.1,
+     "n": 1
+    },
+    {
+     "start": 9.1,
+     "end": 9.68,
+     "n": 1
+    },
+    {
+     "start": 9.68,
+     "end": 9.98,
+     "n": 1
+    },
+    {
+     "start": 9.98,
+     "end": 10.72,
+     "n": 1
+    },
+    {
+     "start": 10.72,
+     "end": 12.26,
+     "n": 1
+    },
+    {
+     "start": 12.26,
+     "end": 12.72,
+     "n": 1
+    },
+    {
+     "start": 12.72,
+     "end": 13.3,
+     "n": 1
+    },
+    {
+     "start": 13.3,
+     "end": 14.4,
+     "n": 1
+    },
+    {
+     "start": 14.6,
+     "end": 14.8,
+     "n": 1
+    },
+    {
+     "start": 14.8,
+     "end": 15.44,
+     "n": 1
+    },
+    {
+     "start": 15.44,
+     "end": 15.98,
+     "n": 1
+    },
+    {
+     "start": 15.98,
+     "end": 16.28,
+     "n": 1
+    },
+    {
+     "start": 16.28,
+     "end": 16.48,
+     "n": 1
+    },
+    {
+     "start": 16.48,
+     "end": 17.26,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki ev sahipleri ne yaptı? Sözleşmedeki kira aynı kaldı. Ama yeni kiracıdan el altından hava parası alınmaya başlandı.",
+   "caption": "Peki ev sahipleri ne yaptı? Sözleşmedeki kira aynı kaldı. Ama yeni kiracıdan el altından hava parası alınmaya başlandı.",
+   "key": [
+    "hava",
+    "parası"
+   ],
+   "image": {
+    "local": "assets/belgeler/085_istanbul_ahsap1933.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul'da ahşap evli bir sokak, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbul'da ahşap evli bir sokak, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 17.7,
+     "end": 18.22,
+     "n": 1
+    },
+    {
+     "start": 18.22,
+     "end": 18.56,
+     "n": 1
+    },
+    {
+     "start": 18.56,
+     "end": 19.12,
+     "n": 1
+    },
+    {
+     "start": 19.12,
+     "end": 19.28,
+     "n": 1
+    },
+    {
+     "start": 19.28,
+     "end": 19.62,
+     "n": 1
+    },
+    {
+     "start": 20.1,
+     "end": 20.92,
+     "n": 1
+    },
+    {
+     "start": 20.92,
+     "end": 21.28,
+     "n": 1
+    },
+    {
+     "start": 21.28,
+     "end": 21.68,
+     "n": 1
+    },
+    {
+     "start": 21.68,
+     "end": 22.32,
+     "n": 1
+    },
+    {
+     "start": 22.48,
+     "end": 22.78,
+     "n": 1
+    },
+    {
+     "start": 22.78,
+     "end": 23.16,
+     "n": 1
+    },
+    {
+     "start": 23.16,
+     "end": 23.92,
+     "n": 1
+    },
+    {
+     "start": 23.92,
+     "end": 24.16,
+     "n": 1
+    },
+    {
+     "start": 24.16,
+     "end": 24.64,
+     "n": 1
+    },
+    {
+     "start": 24.64,
+     "end": 25.02,
+     "n": 1
+    },
+    {
+     "start": 25.02,
+     "end": 25.32,
+     "n": 1
+    },
+    {
+     "start": 25.32,
+     "end": 25.72,
+     "n": 1
+    },
+    {
+     "start": 25.72,
+     "end": 26.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kiralar 1939 seviyesinde kalmıştı. Ancak inşaat malzemeleri pahalanıyordu.",
+   "caption": "Kiralar 1939 seviyesinde kalmıştı. Ancak inşaat malzemeleri pahalanıyordu.",
+   "key": [
+    "pahalanıyordu."
+   ],
+   "image": {
+    "local": "assets/belgeler/085_rasattepe1952.jpg",
+    "fit": "doldur",
+    "baslik": "Rasattepe'den Ankara, Ocak 1952 · Arkitekt dergisi, kamu malı",
+    "lisans": "",
+    "kaynak": "Rasattepe'den Ankara, Ocak 1952 · Arkitekt dergisi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 26.82,
+     "end": 27.28,
+     "n": 1
+    },
+    {
+     "start": 27.28,
+     "end": 28.3,
+     "n": 1
+    },
+    {
+     "start": 28.3,
+     "end": 29.18,
+     "n": 1
+    },
+    {
+     "start": 29.18,
+     "end": 29.76,
+     "n": 1
+    },
+    {
+     "start": 29.76,
+     "end": 30.56,
+     "n": 1
+    },
+    {
+     "start": 30.56,
+     "end": 31.12,
+     "n": 1
+    },
+    {
+     "start": 31.12,
+     "end": 31.68,
+     "n": 1
+    },
+    {
+     "start": 31.68,
+     "end": 32.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kiraya vermek için bina yapanlar, masraflarını bile karşılayamaz hâle geldi. Yeni kiralık ev yapımı neredeyse durdu.",
+   "caption": "Kiraya vermek için bina yapanlar, masraflarını bile karşılayamaz hâle geldi. Yeni kiralık ev yapımı neredeyse durdu.",
+   "key": [
+    "durdu."
+   ],
+   "image": {
+    "local": "assets/belgeler/085_ankara_kale1950.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
+    "lisans": "",
+    "kaynak": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 33.04,
+     "end": 33.3,
+     "n": 1
+    },
+    {
+     "start": 33.3,
+     "end": 33.74,
+     "n": 1
+    },
+    {
+     "start": 33.74,
+     "end": 33.98,
+     "n": 1
+    },
+    {
+     "start": 33.98,
+     "end": 34.3,
+     "n": 1
+    },
+    {
+     "start": 34.3,
+     "end": 35.02,
+     "n": 1
+    },
+    {
+     "start": 35.02,
+     "end": 35.76,
+     "n": 1
+    },
+    {
+     "start": 35.76,
+     "end": 36.06,
+     "n": 1
+    },
+    {
+     "start": 36.06,
+     "end": 36.7,
+     "n": 1
+    },
+    {
+     "start": 36.7,
+     "end": 37.02,
+     "n": 1
+    },
+    {
+     "start": 37.02,
+     "end": 37.38,
+     "n": 1
+    },
+    {
+     "start": 37.86,
+     "end": 38.1,
+     "n": 1
+    },
+    {
+     "start": 38.1,
+     "end": 38.54,
+     "n": 1
+    },
+    {
+     "start": 38.54,
+     "end": 38.72,
+     "n": 1
+    },
+    {
+     "start": 38.72,
+     "end": 39.26,
+     "n": 1
+    },
+    {
+     "start": 39.26,
+     "end": 39.96,
+     "n": 1
+    },
+    {
+     "start": 39.96,
+     "end": 40.62,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki evinden çıkan kiracı ne yapacaktı? Ya hava parası verecekti, ya başka bir aileyle aynı evi paylaşacaktı,",
+   "caption": "Peki evinden çıkan kiracı ne yapacaktı? Ya hava parası verecekti, ya başka bir aileyle aynı evi paylaşacaktı,",
+   "key": [
+    "yapacaktı?"
+   ],
+   "image": {
+    "local": "assets/belgeler/085_istanbul_kemer1933.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul'da bir cami avlusunda kemer altında oturan kadın, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbul'da bir cami avlusunda kemer altında oturan kadın, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 40.76,
+     "end": 41.32,
+     "n": 1
+    },
+    {
+     "start": 41.32,
+     "end": 41.98,
+     "n": 1
+    },
+    {
+     "start": 41.98,
+     "end": 42.32,
+     "n": 1
+    },
+    {
+     "start": 42.32,
+     "end": 42.66,
+     "n": 1
+    },
+    {
+     "start": 42.66,
+     "end": 42.88,
+     "n": 1
+    },
+    {
+     "start": 42.88,
+     "end": 43.64,
+     "n": 1
+    },
+    {
+     "start": 43.8,
+     "end": 44.02,
+     "n": 1
+    },
+    {
+     "start": 44.02,
+     "end": 44.36,
+     "n": 1
+    },
+    {
+     "start": 44.36,
+     "end": 44.66,
+     "n": 1
+    },
+    {
+     "start": 44.66,
+     "end": 45.46,
+     "n": 1
+    },
+    {
+     "start": 45.64,
+     "end": 45.8,
+     "n": 1
+    },
+    {
+     "start": 45.8,
+     "end": 46.14,
+     "n": 1
+    },
+    {
+     "start": 46.14,
+     "end": 46.4,
+     "n": 1
+    },
+    {
+     "start": 46.4,
+     "end": 46.96,
+     "n": 1
+    },
+    {
+     "start": 46.96,
+     "end": 47.22,
+     "n": 1
+    },
+    {
+     "start": 47.22,
+     "end": 47.54,
+     "n": 1
+    },
+    {
+     "start": 47.54,
+     "end": 48.54,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "ya da gecekonduya gidecekti. Bu kira sınırlamaları, ancak 1963 yılında Anayasa Mahkemesinin iptal kararıyla sona erdi.",
+   "caption": "ya da gecekonduya gidecekti. Bu kira sınırlamaları, ancak 1963 yılında Anayasa Mahkemesi'nin iptal kararıyla sona erdi.",
+   "key": [
+    "gecekonduya",
+    "1963"
+   ],
+   "image": {
+    "local": "assets/belgeler/085_bentderesi1950.jpg",
+    "fit": "doldur",
+    "baslik": "Bentderesi, Ankara, 1950'ler · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
+    "lisans": "",
+    "kaynak": "Bentderesi, Ankara, 1950'ler · Basın Yayın Genel Müdürlüğü arşivi, bilinen telif kısıtlaması yok",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.72,
+     "end": 48.9,
+     "n": 1
+    },
+    {
+     "start": 48.9,
+     "end": 49.24,
+     "n": 1
+    },
+    {
+     "start": 49.24,
+     "end": 49.9,
+     "n": 1
+    },
+    {
+     "start": 49.9,
+     "end": 50.48,
+     "n": 1
+    },
+    {
+     "start": 50.78,
+     "end": 50.98,
+     "n": 1
+    },
+    {
+     "start": 50.98,
+     "end": 51.3,
+     "n": 1
+    },
+    {
+     "start": 51.3,
+     "end": 52.22,
+     "n": 1
+    },
+    {
+     "start": 52.22,
+     "end": 52.74,
+     "n": 1
+    },
+    {
+     "start": 52.74,
+     "end": 53.72,
+     "n": 1
+    },
+    {
+     "start": 53.72,
+     "end": 54.38,
+     "n": 1
+    },
+    {
+     "start": 54.38,
+     "end": 54.92,
+     "n": 1
+    },
+    {
+     "start": 54.92,
+     "end": 55.44,
+     "n": 1
+    },
+    {
+     "start": 55.44,
+     "end": 56.2,
+     "n": 1
+    },
+    {
+     "start": 56.2,
+     "end": 56.8,
+     "n": 1
+    },
+    {
+     "start": 56.8,
+     "end": 57.08,
+     "n": 1
+    },
+    {
+     "start": 57.08,
+     "end": 57.66,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sonra ne oldu? Yeni kanun çıkmadı. Ev sahibiyle kiracı anlaşamazsa, kirayı mahkeme belirliyordu. Bu düzen, 2012de yeni Borçlar Kanunu yürürlüğe girene kadar sürdü.",
+   "caption": "Sonra ne oldu? Yeni kanun çıkmadı. Ev sahibiyle kiracı anlaşamazsa, kirayı mahkeme belirliyordu. Bu düzen, 2012'de yeni Borçlar Kanunu yürürlüğe girene kadar sürdü.",
+   "key": [
+    "mahkeme"
+   ],
+   "image": {
+    "local": "assets/belgeler/085_galata1953.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Kulesi ve çevresi, 1953 · Zdravko Pečar, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Galata Kulesi ve çevresi, 1953 · Zdravko Pečar, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.9,
+     "end": 58.14,
+     "n": 1
+    },
+    {
+     "start": 58.14,
+     "end": 58.36,
+     "n": 1
+    },
+    {
+     "start": 58.36,
+     "end": 58.68,
+     "n": 1
+    },
+    {
+     "start": 58.68,
+     "end": 59.32,
+     "n": 1
+    },
+    {
+     "start": 59.32,
+     "end": 59.72,
+     "n": 1
+    },
+    {
+     "start": 59.72,
+     "end": 60.24,
+     "n": 1
+    },
+    {
+     "start": 60.6,
+     "end": 60.82,
+     "n": 1
+    },
+    {
+     "start": 60.82,
+     "end": 61.46,
+     "n": 1
+    },
+    {
+     "start": 61.46,
+     "end": 61.88,
+     "n": 1
+    },
+    {
+     "start": 61.88,
+     "end": 62.94,
+     "n": 1
+    },
+    {
+     "start": 62.94,
+     "end": 63.4,
+     "n": 1
+    },
+    {
+     "start": 63.4,
+     "end": 63.9,
+     "n": 1
+    },
+    {
+     "start": 63.9,
+     "end": 64.62,
+     "n": 1
+    },
+    {
+     "start": 65.04,
+     "end": 65.14,
+     "n": 1
+    },
+    {
+     "start": 65.14,
+     "end": 65.62,
+     "n": 1
+    },
+    {
+     "start": 65.62,
+     "end": 66.78,
+     "n": 1
+    },
+    {
+     "start": 66.78,
+     "end": 67.04,
+     "n": 1
+    },
+    {
+     "start": 67.04,
+     "end": 67.6,
+     "n": 1
+    },
+    {
+     "start": 67.6,
+     "end": 68.06,
+     "n": 1
+    },
+    {
+     "start": 68.06,
+     "end": 68.66,
+     "n": 1
+    },
+    {
+     "start": 68.66,
+     "end": 68.98,
+     "n": 1
+    },
+    {
+     "start": 68.98,
+     "end": 69.28,
+     "n": 1
+    },
+    {
+     "start": 69.28,
+     "end": 69.9,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki siz hiç kira yüzünden zorlandınız mı? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki siz hiç kira yüzünden zorlandınız mı? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "kira"
+   ],
+   "image": {
+    "local": "assets/belgeler/085_istanbul_sutun1933.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul'da bir cami revağında sütuna yaslanan adam, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbul'da bir cami revağında sütuna yaslanan adam, 1933-34 · Annemarie Schwarzenbach, İsviçre Ulusal Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 70.16,
+     "end": 70.5,
+     "n": 1
+    },
+    {
+     "start": 70.5,
+     "end": 71.0,
+     "n": 1
+    },
+    {
+     "start": 71.0,
+     "end": 71.26,
+     "n": 1
+    },
+    {
+     "start": 71.26,
+     "end": 71.54,
+     "n": 1
+    },
+    {
+     "start": 71.54,
+     "end": 72.04,
+     "n": 1
+    },
+    {
+     "start": 72.04,
+     "end": 72.72,
+     "n": 1
+    },
+    {
+     "start": 72.72,
+     "end": 72.94,
+     "n": 1
+    },
+    {
+     "start": 73.36,
+     "end": 74.2,
+     "n": 1
+    },
+    {
+     "start": 74.2,
+     "end": 74.82,
+     "n": 1
+    },
+    {
+     "start": 74.82,
+     "end": 75.6,
+     "n": 1
+    },
+    {
+     "start": 75.82,
+     "end": 76.26,
+     "n": 1
+    },
+    {
+     "start": 76.26,
+     "end": 76.58,
+     "n": 1
+    },
+    {
+     "start": 76.58,
+     "end": 77.42,
+     "n": 1
+    },
+    {
+     "start": 77.86,
+     "end": 78.5,
+     "n": 1
+    },
+    {
+     "start": 78.5,
+     "end": 78.7,
+     "n": 1
+    },
+    {
+     "start": 78.7,
+     "end": 79.1,
+     "n": 1
+    },
+    {
+     "start": 79.1,
+     "end": 79.6,
+     "n": 1
+    },
+    {
+     "start": 79.6,
+     "end": 80.0,
+     "n": 1
+    },
+    {
+     "start": 80.0,
+     "end": 80.56,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
