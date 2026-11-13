@@ -3,7 +3,9 @@
  "min_w": 300,
  "sorgular": [],
  "incele": [],
- "indir": [{"file": "File:Bent Stream, 1950s (16851314792).jpg", "ad": "085_bentderesi.jpg"},
-           {"file": "File:Atatürk Bulvarı, 1946.jpg", "ad": "085_ataturk_bulvari1946.jpg"},
-           {"file": "File:View of Ankara from Rasattepe.jpg", "ad": "085_rasattepe1952.jpg"}]
+ "indir": [{"file": "File:Hamals or porters are trained from infancy to carry great loads on their backs. The son succeeds the father in the business and becomes a member of the union LCCN2011649908.jpg", "ad": "085_hamal1923.jpg"},
+           {"file": "File:Donkeys and men are the beasts of burden in this city of the east LCCN2011649907.tif", "ad": "085_hamal_esek1923.jpg"},
+           {"file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-014.jpg", "ad": "085_sw014.jpg"},
+           {"file": "File:CH-NB - Türkei, Istanbul- Stadtansicht - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-020.jpg", "ad": "085_sw020.jpg"},
+           {"file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-018.jpg", "ad": "085_sw018.jpg"}]
 }
