@@ -1,67 +1,64 @@
 {
  "bolum": "087",
  "min_w": 600,
- "sorgular": [
-  "Freighters, ferries and ocean liners on Golden Horn",
-  "Constantinople steamboat landing",
-  "Bosphorus steamer 1890 photograph",
-  "Galata bridge steamers photograph",
-  "Istanbul ferry 1920s",
-  "Constantinople Kadikeui steamer"
- ],
+ "sorgular": [],
  "incele": [],
  "indir": [
   {
    "file": "File:Tram-car in Constantinople (The Illustrated London News, 1877).jpg",
-   "ad": "087_tramvay1877"
+   "ad": "087_tramvay1877.jpg"
   },
   {
    "file": "File:Constantinople, tramway bloqué par la neige (CNews) - btv1b532097138.jpg",
-   "ad": "087_tramvay_kar"
+   "ad": "087_tramvay_kar.jpg"
   },
   {
    "file": "File:La Photographie - CONSTANTINOPLE - Le nouveau pont de Galata.JPG",
-   "ad": "087_galata_kopru"
+   "ad": "087_galata_kopru.jpg"
   },
   {
    "file": "File:The near East; Dalmatia, Greece and Constantinople (1913) (14582108819).jpg",
-   "ad": "087_sokak1913"
+   "ad": "087_sokak1913.jpg"
   },
   {
    "file": "File:Constantinople. Turkish lady LCCN93500447.jpg",
-   "ad": "087_pecelikadin"
+   "ad": "087_pecelikadin.jpg"
   },
   {
    "file": "File:Turkish woman, full-length portrait, seated, facing front, holding parasol LCCN2003677088.jpg",
-   "ad": "087_semsiyelikadin"
+   "ad": "087_semsiyelikadin.jpg"
   },
   {
    "file": "File:Turkish women, Constantinople, Turkey LCCN2010650578.jpg",
-   "ad": "087_carsafli"
+   "ad": "087_carsafli.jpg"
   },
   {
    "file": "File:Hundreds of Turkish women have discarded their veils and now appear on the streets dressed as their sisters in the western world This picture shows a number of the wealthiest women in LCCN2010650568.jpg",
-   "ad": "087_kadinlar1920"
+   "ad": "087_kadinlar1920.jpg"
   },
   {
    "file": "File:Turk girl students - American Girls College, Constantinople The faculty, students and classrooms of the American College in Constantinople which is now the mecca for thousands in the Allied LCCN2010648493.jpg",
-   "ad": "087_ogrenciler"
+   "ad": "087_ogrenciler.jpg"
   },
   {
    "file": "File:Turkish woman in cemetery at Scutari opposite Constantinople LCCN2016820959.jpg",
-   "ad": "087_uskudar_kadin"
+   "ad": "087_uskudar_kadin.jpg"
   },
   {
    "file": "File:Samsun'da deniz hamamı.jpg",
-   "ad": "087_samsun_hamam"
+   "ad": "087_samsun_hamam.jpg"
   },
   {
    "file": "File:Le pont de Galata - A36335S.jpg",
-   "ad": "087_gadmer1"
+   "ad": "087_gadmer1.jpg"
   },
   {
    "file": "File:Le pont de Galata - A36334S.jpg",
-   "ad": "087_gadmer2"
+   "ad": "087_gadmer2.jpg"
+  },
+  {
+   "file": "File:Freighters, ferries and ocean liners on Golden Horn; N. to Galata, Constantinople. (29798374654).jpg",
+   "ad": "087_halic_vapurlar.jpg"
   }
  ]
 }
