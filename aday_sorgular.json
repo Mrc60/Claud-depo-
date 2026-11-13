@@ -1,9 +1,9 @@
 {
- "bolum": "hikaye18",
+ "bolum": "085",
  "min_w": 300,
  "sorgular": [],
  "incele": [],
- "indir": [{"file": "File:Pazahbun Karyesi 1642 Avariz Defteri.jpg", "ad": "h_avariz1642.jpg"},
-           {"file": "File:Istanbul, waiting for ferry 1966 (51192130165).jpg", "ad": "h_vapur1966.jpg"},
-           {"file": "File:Cemil.JPG", "ad": "h_cemil.jpg"}]
+ "indir": [{"file": "File:Bent Stream, 1950s (16851314792).jpg", "ad": "085_bentderesi.jpg"},
+           {"file": "File:Atatürk Bulvarı, 1946.jpg", "ad": "085_ataturk_bulvari1946.jpg"},
+           {"file": "File:View of Ankara from Rasattepe.jpg", "ad": "085_rasattepe1952.jpg"}]
 }
