@@ -1,32 +1,29 @@
 {
- "bolum": "085b",
+ "bolum": "085c",
  "min_w": 700,
  "sorgular": [
-  "Istanbul 1950s houses",
-  "Istanbul 1940s neighbourhood",
-  "Istanbul wooden houses 1940s",
-  "Istanbul street 1949",
-  "Istanbul street 1955",
-  "Beyoğlu 1950s street",
-  "Fatih Istanbul 1950s",
-  "Ankara 1950s neighbourhood",
-  "Ankara 1940s houses",
-  "Altındağ Ankara 1950",
-  "gecekondu 1950s",
-  "squatter settlement Ankara 1955",
-  "Zeytinburnu 1950s",
-  "Turkije Anefo straat",
-  "Turkije Anefo woningen",
-  "Bundesarchiv Istanbul",
-  "Bundesarchiv Türkei 1950",
-  "Turkish family 1950s photograph",
-  "Istanbul family 1940s",
-  "Istanbul porter hamal 1950s",
-  "Istanbul courthouse 1950s",
-  "Ankara Adliye 1950s",
-  "Turkey housing 1950s",
-  "Istanbul crowd 1950s"
+  "Old Houses of Ankara 1940's",
+  "Ankara 1940's Directorate General of Press and Information",
+  "Ankara 1950's Directorate General of Press and Information",
+  "Istanbul 1950's Directorate General of Press and Information",
+  "Istanbul 1940's Directorate General of Press and Information",
+  "Ulus Ankara 1940's",
+  "Hamamönü 1940's",
+  "Samanpazarı 1940's",
+  "Fortepan Isztambul",
+  "Fortepan Törökország",
+  "Istanbul Wohnviertel Bundesarchiv",
+  "Bundesarchiv Bild 137 Stambul"
  ],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Old Houses of Ankara, 1940's (16925975825).jpg",
+   "ad": "085_ankara_eskievler1940.jpg"
+  },
+  {
+   "file": "File:Bundesarchiv Bild 137-039369, Türkei, Instanbul, Wohnviertel.jpg",
+   "ad": "085_istanbul_konut1935.jpg"
+  }
+ ]
 }
