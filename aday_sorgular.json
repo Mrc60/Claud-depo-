@@ -1,29 +1,28 @@
 {
- "bolum": "085c",
+ "bolum": "086",
  "min_w": 700,
  "sorgular": [
-  "Old Houses of Ankara 1940's",
-  "Ankara 1940's Directorate General of Press and Information",
-  "Ankara 1950's Directorate General of Press and Information",
-  "Istanbul 1950's Directorate General of Press and Information",
-  "Istanbul 1940's Directorate General of Press and Information",
-  "Ulus Ankara 1940's",
-  "Hamamönü 1940's",
-  "Samanpazarı 1940's",
-  "Fortepan Isztambul",
-  "Fortepan Törökország",
-  "Istanbul Wohnviertel Bundesarchiv",
-  "Bundesarchiv Bild 137 Stambul"
+  "caique Istanbul",
+  "caique Bosphorus 19th century",
+  "kayık İstanbul",
+  "Constantinople caique women",
+  "caique Golden Horn",
+  "Abdullah Frères caique",
+  "Sébah Joaillier caique",
+  "Bosphorus boatmen",
+  "kayıkçı",
+  "Istanbul boat women veiled",
+  "Üsküdar iskele",
+  "Eminönü iskele 19th century",
+  "Galata bridge boats 1890",
+  "Constantinople ferry women",
+  "Turkish women boat Bosphorus",
+  "Bosphorus rowing boat Ottoman",
+  "caique LOC Constantinople",
+  "Beykoz iskele",
+  "Kandilli kayık",
+  "Istanbul pier 1900"
  ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:Old Houses of Ankara, 1940's (16925975825).jpg",
-   "ad": "085_ankara_eskievler1940.jpg"
-  },
-  {
-   "file": "File:Bundesarchiv Bild 137-039369, Türkei, Instanbul, Wohnviertel.jpg",
-   "ad": "085_istanbul_konut1935.jpg"
-  }
- ]
+ "indir": []
 }
