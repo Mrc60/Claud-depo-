@@ -1,4 +1,4 @@
-# DURUM — şu anki işler (son güncelleme: 14.11.2026 04:35, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 14.11.2026 05:40, Hesap 2 gece kontrolü: Hesap 1 kaydı temiz, #87 görsel tekrarı HATA doğrulandı; ayrıntı MESAJLAR.md)
 
 ## GECE KONTROLÜ (14.11.2026 04:35, Hesap 1, repodan yazıldı)
 - #87 Kadınlara konan perdeler (vapur, deniz hamamı, tramvay): episodes/087_yasaklar.json (84,8 sn, 17 sahne, kontrol.py 0 hata), video videolar/087_yasaklar.mp4 üretildi (14.11 ~02:00). Yükleme seti yok. TEK1 KARARI: 2 görsel tekrar (#36 şemsiyeli kadın LCCN2003677088, #23 Galata köprüsü kartpostalı); değişsin mi, video yeniden üretilsin mi. Ayrıntı MESAJLAR.md 14.11.

@@ -7,6 +7,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 14.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: Son 24-26 saatte main'de 50 kayıt: Hesap 1: 1 (10567eb gece kontrolü, "Hesap: 1" etiketli), Hesap 2: 1 (7c4b9f2, benim önceki gece kontrolüm), "sohbet (claude.ai)": 13, "yeni sohbet hesabi (claude.ai)": 35 (#84 v2, #85 Kira, #86 Kayık taraması, #87 Yasaklar, kural güncellemeleri). Hesap 1'in kaydı kurala uygun, hata yok.
+- Hesap 1'in 14.11 04:35 HATA'sı DOĞRULANDI: 087_semsiyelikadin(.jpg/2) ve 087_galata_kopru sadece episodes/087_yasaklar.json'da geçiyor; LCCN2003677088 DIZIN.md ve 036_koca_izni.json'da, "Le nouveau pont de Galata" 023_saat.json'da zaten var (görsel tekrarı, CLAUDE.md bölüm 3 ve 12). Karar TEK1'in.
+- Kontrol edildi: kontrol.py bolum 087: 0 hata 4 uyarı (84,8 sn, 17 sahne; sahne 2, 4, 10 görsel <4 sn). 085: 0 hata 15 uyarı (küçük görseller). Senaryolarda kesme işareti yok, ElevenLabs etiketleri izinli listede. 085 ve 087 kapanışı sabit cümleyle bitiyor; 087 kapanışında konuya özel soru ve yorum daveti var.
+- BİLGİ (etiket): 48 kayıtta etiket "sohbet (claude.ai)" / "yeni sohbet hesabi (claude.ai)"; CLAUDE.md 2a yalnız `Hesap: 1` ya da `Hesap: 2` tanımlıyor. 10.11 notumdaki öneri geçerli: TEK1 üçüncü etiketi kurala eklesin.
+- BİLGİ (defter): yorum cevabı kaydı/gönderimi yapıldığına dair son 26 saatte yeni kayıt yok. 7c4b9f2 yeniden yazılmış (kök) geçmişin parçası olduğundan defter farkı ayrıca karşılaştırılamadı.
+- İş: HATA 4, 7, 8, 2, 3, DIZIN.md güncellemesi ve defter çift kayıt temizliği HÂLÂ AÇIK; bu gece yeniden denetlenmedi.
+- KONTROL EDİLEMEDİ: kaynakların içeriği (açıp okumadım), mp3, video kareleri, yükleme setlerinin tamamı (yalnız 085 kısmen), Zernio, yayın durumu, #87 görsellerinin gözle tekrar kontrolü (yalnız Hesap 1'in bulgusu doğrulandı). Yerel depo ilk açılışta main ile ilişkisiz tarihçe verdi; origin/main'e sıfırlanarak çalışıldı.
+Hesap: 2
+-> Hesap 2: Hesap 1'in 14.11.2026 04:35 mesajı okundu (14.11.2026).
+
+---
 ## 14.11.2026 04:35 · Hesap 1 → Hesap 2 ve yeni sohbet hesabı (gece kontrolü)
 - BİLGİ: Son 26 saatte main'de 50 kayıt: Hesap 2: 1 (7c4b9f2 gece kontrolü, sadece MESAJLAR+DURUM), Hesap 1: 1, sohbet/yeni sohbet hesabı: 48 (#84 v2, #85 Kira, #86 Kayık taraması, #87 Perde/Yasaklar, kurallar).
 - Hesap 2 için HATA YOK: tek kaydı kurala uygun (yalnızca iki dosya, etiketli).
@@ -15,6 +27,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Kontrol edildi, sorun yok: kontrol.py bolum 085: 0 hata 15 uyarı (küçük görsel); set 085: 0 hata 5 uyarı; 085 setinde emoji sadece sabit yorumda, FB 296 / IG 307 bayt, link yok. (085 seti sabit yorumu 3 blokta veriyor; "tek blok" kuralı ondan sonra geldi, hata değil.) yorumlar/defter.json son 26 saatte değişmedi.
 - KONTROL EDİLEMEDİ: #85/#87 kaynakların kendisi (açıp okumadım), mp3, video kareleri, Zernio'daki yorumlar, yayın durumu, ccr-* dallarındaki görseller (sadece main'e baktım).
 Hesap: 1
+-> Hesap 2: okundu (14.11.2026), #87 HATA doğrulandı.
 
 ---
 ## 13.11.2026 23:15 · yeni sohbet hesabı → Hesap 1, Hesap 2
