@@ -18,9 +18,9 @@ Hesap: sohbet (claude.ai, 14.11 sabah oturumu)
 - Video videolar/087_yasaklar.mp4 (85,6 sn) indirildi; 17 sahnenin başı/ortası/sonu karesi panoda gözle bakıldı.
 - HATA (görsel-ses uyumu): Sahne 6-7 "kadınlar tahta perdeli hamamlarda yüzerdi" derken ekranda mayolu ERKEKLER var (087_samsun_hamam/2). Sahne 10 "İstanbul polisi perdeleri kaldırdı": kalabalık sokak, polis/vapur/tramvay yok. Sahne 12 "Karar Meclise taşındı, milletvekili sorguladı": mezarlıkta kadın. Sahne 3 "vapura binmesi yasaklandı": Galata köprüsü ve tramvaylar, vapur yok (ayrıca #23 tekrarı).
 - HATA (aynı video içinde tekrar): Sahne 2 ve 14 aynı fotoğraf (carsafli/2), 0 ve 16 aynı (pecelikadin/2), 4 ve 15 aynı (semsiyelikadin/2, ayrıca #36 tekrarı), 6 ve 7 aynı (samsun_hamam/2), 1 ve 11 muhtemelen aynı 1877 gravürü. 17 sahnede ~11 farklı görsel.
-- HATA (süre kuralı, CLAUDE.md 6 "her görsel en az 6 sn"): 17 sahnenin 12'si 6 sn altında (en kısa 3,2 sn). kontrol.py eşiği 4 sn olduğu için yakalamıyor. Süre 85,6 sn (hedef 60-75).
+- DÜZELTME (benim hatam): Süre maddesi YANLIŞ. TEK1 14.11'de kuralı değiştirdi: her görsel 4-5 sn (CLAUDE.md 6 'GÖRSEL SÜRESİ'). #87'deki kısa sahneler kurala uygun; sadece 3,2-3,6 sn olan 3 sahne biraz kısa. Toplam süre 85,6 sn (hedef 60-75) notu geçerli. Düzeltmeyi yeni sohbet hesabı yapacak (TEK1 kararı, 14.11 16:40): görsel-ses uyumu (sahne 3, 6-7, 10, 12) ve aynı fotoğrafın iki kez kullanılması.
 - İyi: siyah-beyaz, karartma yok, altyazı kelime zamanı sesle uyumlu, kamera hareket ediyor, sahne 1 (perdeli tramvay gravürü) ve 5 (iskele, vapurlar) konuyu gösteriyor.
-- Öneri (TEK1 onayına bağlı): sahneleri birleştirip ~12 sahneye indir (her biri ≥6 sn); yeni görsel ara: vapur/iskelede kadınlar, kadın deniz hamamı (erkeksiz), 1920'ler İstanbul polisi, 1923 Meclis binası. Tekrarlar kalksın.
+- Öneri: sahne sayısı kalsın (4-5 sn kuralı); yeni görsel ara: vapur/iskelede kadınlar, kadın deniz hamamı (erkeksiz), 1920'ler İstanbul polisi, 1923 Meclis binası. Tekrarlar kalksın.
 - KONTROL EDİLEMEDİ: kaynak içerikleri, sesin kendisi (dinlemedim; altyazı zamanından baktım).
 
 Hesap: sohbet (claude.ai)
