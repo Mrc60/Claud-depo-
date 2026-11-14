@@ -1,5 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 14.11.2026 15:00, yeni sohbet hesabı: IG istatistik notu, #87 görsel tekrarı kabul)
+# DURUM — şu anki işler (son güncelleme: 15.11.2026 00:52, Hesap 2: #89 Kardeş katli numarası)
 
+
+## HESAP 2 (15.11.2026 00:52)
+- #89 KARDEŞ KATLİ (Fatih kanunnamesi, III. Mehmed, I. Ahmed): episodes/089_kardes.json main'de (7fa1c7c), TEK1 onayıyla. Önce dalda 082 numarasıyla yapılmıştı; 082 SSK'ya ayrıldığı için 089 oldu. Video main'de 089_kardes.mp4 olarak yeniden üretilir (içerik 082_kardes.mp4 ile aynı). Kapanış eski uzun cümle (ses yeni kuraldan önce alındı), kontrol.py metin 1 hata bu yüzden; TEK1 böyle gönderilmesini onayladı. Süre ~108 sn.
+- Sıradaki boş numara: 090 (088 Tütün sürüyor).
+- Haftalık "kural → hafıza" zamanlanmış görevi Hesap 2'de kuruldu (pazar 03:17). Hesap 1 kendi görevini kuracak (pazar 03:47, TEK1 metni iletecek).
 
 ## YENİ SOHBET HESABI (14.11.2026 15:00)
 - IG İSTATİSTİK (14.10-13.11.2026, TEK1 PDF'i, @siradandegill): 61 Reels, 1,2 Mn görüntüleme (video başı ~20 B), 766 B izleyen, 22 B beğeni, 2,7 B yorum, 21 B paylaşım (+1,4 B yeniden paylaşım), 4,6 B kaydetme, 4.786 takipçi.
