@@ -1,6 +1,9 @@
 # DURUM — şu anki işler (son güncelleme: 15.11.2026 00:52, Hesap 2: #89 Kardeş katli numarası)
 
 
+## SOHBET OTURUMU (15.11.2026 00:12, IG yorumları)
+- #87 Perdeler IG: 3 ana yorum cevaplandı (karinettoktn, sedef.2534, tugbacelik945), TEK1 onaylı, isReply true, defterde. Ders (INCE_AYARLAR E): yorumu anla, senaryodan kurma, çok bilmiş bitirme yok.
+
 ## HESAP 2 (15.11.2026 00:52)
 - #89 KARDEŞ KATLİ (Fatih kanunnamesi, III. Mehmed, I. Ahmed): episodes/089_kardes.json main'de (7fa1c7c), TEK1 onayıyla. Önce dalda 082 numarasıyla yapılmıştı; 082 SSK'ya ayrıldığı için 089 oldu. Video main'de 089_kardes.mp4 olarak yeniden üretilir (içerik 082_kardes.mp4 ile aynı). Kapanış eski uzun cümle (ses yeni kuraldan önce alındı), kontrol.py metin 1 hata bu yüzden; TEK1 böyle gönderilmesini onayladı. Süre ~108 sn.
 - Sıradaki boş numara: 090 (088 Tütün sürüyor).
