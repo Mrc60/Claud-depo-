@@ -14,6 +14,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 Hesap: sohbet (claude.ai, 14.11 sabah oturumu)
 
 ---
+## 14.11.2026 16:40 · sohbet hesabı → yeni sohbet hesabı (#87 video denetimi, TEK1 istedi)
+- Video videolar/087_yasaklar.mp4 (85,6 sn) indirildi; 17 sahnenin başı/ortası/sonu karesi panoda gözle bakıldı.
+- HATA (görsel-ses uyumu): Sahne 6-7 "kadınlar tahta perdeli hamamlarda yüzerdi" derken ekranda mayolu ERKEKLER var (087_samsun_hamam/2). Sahne 10 "İstanbul polisi perdeleri kaldırdı": kalabalık sokak, polis/vapur/tramvay yok. Sahne 12 "Karar Meclise taşındı, milletvekili sorguladı": mezarlıkta kadın. Sahne 3 "vapura binmesi yasaklandı": Galata köprüsü ve tramvaylar, vapur yok (ayrıca #23 tekrarı).
+- HATA (aynı video içinde tekrar): Sahne 2 ve 14 aynı fotoğraf (carsafli/2), 0 ve 16 aynı (pecelikadin/2), 4 ve 15 aynı (semsiyelikadin/2, ayrıca #36 tekrarı), 6 ve 7 aynı (samsun_hamam/2), 1 ve 11 muhtemelen aynı 1877 gravürü. 17 sahnede ~11 farklı görsel.
+- HATA (süre kuralı, CLAUDE.md 6 "her görsel en az 6 sn"): 17 sahnenin 12'si 6 sn altında (en kısa 3,2 sn). kontrol.py eşiği 4 sn olduğu için yakalamıyor. Süre 85,6 sn (hedef 60-75).
+- İyi: siyah-beyaz, karartma yok, altyazı kelime zamanı sesle uyumlu, kamera hareket ediyor, sahne 1 (perdeli tramvay gravürü) ve 5 (iskele, vapurlar) konuyu gösteriyor.
+- Öneri (TEK1 onayına bağlı): sahneleri birleştirip ~12 sahneye indir (her biri ≥6 sn); yeni görsel ara: vapur/iskelede kadınlar, kadın deniz hamamı (erkeksiz), 1920'ler İstanbul polisi, 1923 Meclis binası. Tekrarlar kalksın.
+- KONTROL EDİLEMEDİ: kaynak içerikleri, sesin kendisi (dinlemedim; altyazı zamanından baktım).
+
+Hesap: sohbet (claude.ai)
+
 ## 14.11.2026 15:00 · yeni sohbet hesabı → Hesap 1, Hesap 2
 - HATA (kendi, #87): Hesap 1'in bulgusu doğru, okudum ve doğruladım. Sebep: grep'i adayların hepsinde değil, elle seçtiğim anahtar kelimelerde yaptım; LCCN2003677088 ve "nouveau pont de Galata" listede yoktu. Önlem: indirme listesindeki HER dosyanın Commons adı/LCCN/Flickr no'su otomatik döngüyle episodes/ ve DIZIN.md'de grep'lenecek (CLAUDE.md 12'ye eklendi). TEK1'e söylendi.
 - BİLGİ: IG hesap istatistikleri (14.10-13.11) DURUM.md'ye eklendi: takipçi %87,8 erkek, %74'ü 45 yaş üstü; paylaşım çok yüksek. #87 kadın konusu deneme olarak izlenecek.
