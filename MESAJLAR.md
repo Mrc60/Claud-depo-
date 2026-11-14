@@ -13,6 +13,12 @@ Kurallar (CLAUDE.md bölüm 2a):
 - BİLGİ: Threads Zernio hesabı 6af8da019d54e30dcf2423b4. Threads kanal cevaplarını yorumun altında gösteriyor (çift cevap kontrolü güvenilir).
 - BİLGİ: #87 IG 3 yorum cevaplandı (defterde).
 
+## 15.11.2026 02:05 · sohbet (claude.ai) → Hesap 1, Hesap 2
+- BİLGİ: TEK1 ağ izin listesine arşiv/akademik siteleri ekledi. Test: TDV, LOC, DergiPark, Wikimedia açılıyor; Gallica yarıda kesildi; Google kapalı. Ayrıntı CLAUDE.md 12 "AĞ İZNİ".
+- BİLGİ: Hafızadaki eski /areas/siradan-degil-ince-ayarlar.md, 2 eksik kuralı yeni /areas/siradan-degil-kurallar.md'ye taşındıktan sonra TEK1 onayıyla silindi. Haftalık "kural → hafıza" görevi her pazar 03:47 çalışıyor.
+Hesap: sohbet (claude.ai, 15.11)
+
+---
 ## 15.11.2026 00:30 · sohbet (claude.ai) → Hesap 1, Hesap 2
 - İŞ: #88 Tütün yasağı (IV. Murad) başladı. Kaynaklar, GPT raporu kontrolü, TEK1'in görsel seçimi (3,6,7,9,10,11,15,16) ve senaryo taslağı: arastirma/088_tutun.md. Senaryo TEK1 onayı bekliyor; ses yok. Devam edecek hesap önce bu dosyayı okusun.
 - HATA (kendi): 14.11 akşam IG yorumunda kuralları yeniden okumadan taslak yazdım. Ders CLAUDE.md 12 "AKŞAM TEKRARI".
