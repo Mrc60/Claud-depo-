@@ -2,77 +2,23 @@
  "bolum": "090_saglik",
  "min_w": 600,
  "sorgular": [
-  "Türk Kanunu Medenisi",
-  "Medeni Kanun 1926",
-  "evlenme cüzdanı",
-  "Turkish family 1930s",
-  "Istanbul women 1930s",
-  "marriage certificate Turkey",
-  "nikah memuru",
-  "Turkish newlyweds"
+  "DGPI Archive hospital",
+  "DGPI Archive wedding",
+  "DGPI Archive doctor",
+  "Turkey in Photographs DGPI health",
+  "Turkey in Photographs DGPI women",
+  "Numune Hospital 1930s",
+  "Hıfzıssıhha Institute 1930s",
+  "Ankara hospital 1930s",
+  "Heybeliada Sanatorium",
+  "Bundesarchiv Bild 102 Türkei",
+  "Bundesarchiv Ankara",
+  "Grand National Assembly 1926",
+  "Turkish civil code 1926",
+  "Türkiye Büyük Millet Meclisi 1930",
+  "Turkish wedding 1920s",
+  "Ankara 1930s women"
  ],
- "incele": [
-  "File:Atatürk Boulevard, Ministry of Health, Ankara Boys’ High School (Stone Maktab - Taş Mektep), Numune Hospital, 1930s (16645155127).jpg",
-  "File:(Tuberculosis ward of the Hasköy Hospital for Women) (LOC) (4483943513).jpg",
-  "File:Turkish bride.jpg",
-  "File:1926 09 09 Serveti Funun Besim Omer Pasa.jpg",
-  "File:Marmara University’s Haydarpaşa Campus, İstanbul (14057230358).jpg",
-  "File:Hamidiye-etfal-hastanesi-acilis-tc3b6reni.JPG",
-  "File:Besim Ömer Paşa ve Safiye Ali Süt Damlası’nda.png",
-  "File:1928 06 07 Serveti Funun Safiye Ali.jpg",
-  "File:Bologna International Female Doctors Congress.png",
-  "File:Syphilis; its symptoms, transmission and consequences in Wellcome L0042093.jpg",
-  "File:David Keilin. Photograph, 1931. Wellcome V0027705.jpg",
-  "File:Studio portrait of models wearing clothing from İstanbul, Ottoman Empire LCCN2004666974.jpg"
- ],
- "indir": [
-  {
-   "file": "File:Atatürk Boulevard, Ministry of Health, Ankara Boys’ High School (Stone Maktab - Taş Mektep), Numune Hospital, 1930s (16645155127).jpg",
-   "ad": "090_bakanlik.jpg"
-  },
-  {
-   "file": "File:(Tuberculosis ward of the Hasköy Hospital for Women) (LOC) (4483943513).jpg",
-   "ad": "090_verem.jpg"
-  },
-  {
-   "file": "File:Turkish bride.jpg",
-   "ad": "090_gelin.jpg"
-  },
-  {
-   "file": "File:1926 09 09 Serveti Funun Besim Omer Pasa.jpg",
-   "ad": "090_doktorlar1926.jpg"
-  },
-  {
-   "file": "File:Marmara University’s Haydarpaşa Campus, İstanbul (14057230358).jpg",
-   "ad": "090_haydarpasa.jpg"
-  },
-  {
-   "file": "File:Hamidiye-etfal-hastanesi-acilis-tc3b6reni.JPG",
-   "ad": "090_etfal.jpg"
-  },
-  {
-   "file": "File:Besim Ömer Paşa ve Safiye Ali Süt Damlası’nda.png",
-   "ad": "090_sutdamlasi.jpg"
-  },
-  {
-   "file": "File:1928 06 07 Serveti Funun Safiye Ali.jpg",
-   "ad": "090_safiyeali.jpg"
-  },
-  {
-   "file": "File:Bologna International Female Doctors Congress.png",
-   "ad": "090_kadindoktorlar.jpg"
-  },
-  {
-   "file": "File:Syphilis; its symptoms, transmission and consequences in Wellcome L0042093.jpg",
-   "ad": "090_frengiafis.jpg"
-  },
-  {
-   "file": "File:David Keilin. Photograph, 1931. Wellcome V0027705.jpg",
-   "ad": "090_laboratuvar.jpg"
-  },
-  {
-   "file": "File:Studio portrait of models wearing clothing from İstanbul, Ottoman Empire LCCN2004666974.jpg",
-   "ad": "090_gelin2.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
