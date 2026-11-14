@@ -1000,7 +1000,23 @@
     "tarih": "2026-11-12"
    }
   ],
-  "sinir_notu": "2026-11-12T08:38Z tarandı (11:38 İstanbul). Atlanan: ibrahim.menges (siyasi)."
+  "sinir_notu": "2026-11-12T08:38Z tarandı (11:38 İstanbul). Atlanan: ibrahim.menges (siyasi).",
+  "kayitlar": [
+   {
+    "yorum_id": "18134335789744716",
+    "kullanici": "maktas94",
+    "yorum": "kıbrıs halkı Türki yeyi sevmez  hepsi rumu çok sever",
+    "cevap_id": "18455326465126300",
+    "tarih": "2026-11-14"
+   },
+   {
+    "yorum_id": "18073857047499816",
+    "kullanici": "ibrahim.menges",
+    "yorum": "Kıbrıs tam bağımsız bir ülke değildir. (İngiliz üsleri yorumu)",
+    "cevap_id": "17955666945331160",
+    "tarih": "2026-11-14"
+   }
+  ]
  },
  "instagram/17997469332050976": {
   "video": "074 Kölelik",
@@ -1067,7 +1083,17 @@
   "video": "Kardeş katli",
   "hesap_zernio": "6ae7e1428d01bfa137edca93",
   "cevaplar": [],
-  "sinir_notu": "2026-11-12T15:35Z tarandı. Ana yorum yok; hasanbugra48 'evet' sabit yorum altında yanıt, kural gereği cevap yok. Kanal sabit yorumu 18129681691917555."
+  "sinir_notu": "2026-11-12T15:35Z tarandı. Ana yorum yok; hasanbugra48 'evet' sabit yorum altında yanıt, kural gereği cevap yok. Kanal sabit yorumu 18129681691917555.",
+  "kayitlar": [
+   {
+    "yorum_id": "18040004807903630",
+    "kullanici": "hasanbugra48",
+    "yorum": "@siradandegill  evet",
+    "cevap_id": "17946016695091893",
+    "tarih": "2026-11-14",
+    "not": "sabit yorum altında, TEK1 onayıyla"
+   }
+  ]
  },
  "facebook/1400881546439231_122110594917516389": {
   "video": "073 Sayım",
