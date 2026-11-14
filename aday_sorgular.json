@@ -1,29 +1,24 @@
 {
- "bolum": "087",
+ "bolum": "088",
  "min_w": 600,
- "sorgular": [],
- "incele": [
-  "File:Ladies of the sultan's harem making a week end pilgrimage to the \"Sewwt (i.e., Sweet) Waters of Europe,\" a favorite summer retreat near Constantinople LCCN2010650585.jpg",
-  "File:Femme turque, RP-F-F24834.jpg",
-  "File:The near East; Dalmatia, Greece and Constantinople (1913) (14788614633).jpg",
-  "File:Six and one abroad (1914) (14761517386).jpg"
+ "sorgular": [
+  "Turkish man smoking narghile",
+  "narghile Constantinople",
+  "Ottoman coffeehouse Constantinople",
+  "Turkish coffee house photograph 1890",
+  "chibouk pipe Turkish",
+  "Sultan Murad IV",
+  "Murad IV portrait",
+  "Ottoman tobacco",
+  "Turkish tobacco field",
+  "tobacco workers Turkey",
+  "Cibali tobacco factory",
+  "Régie des tabacs Ottoman",
+  "Turkish men smoking cafe",
+  "Sébah narghile",
+  "Abdullah Frères coffee",
+  "Kahvehane"
  ],
- "indir": [
-  {
-   "file": "File:Ladies of the sultan's harem making a week end pilgrimage to the \"Sewwt (i.e., Sweet) Waters of Europe,\" a favorite summer retreat near Constantinople LCCN2010650585.jpg",
-   "ad": "087_harem_araba.jpg"
-  },
-  {
-   "file": "File:Femme turque, RP-F-F24834.jpg",
-   "ad": "087_sebah_kadin.jpg"
-  },
-  {
-   "file": "File:The near East; Dalmatia, Greece and Constantinople (1913) (14788614633).jpg",
-   "ad": "087_pera_sokak1913.jpg"
-  },
-  {
-   "file": "File:Six and one abroad (1914) (14761517386).jpg",
-   "ad": "087_uc_kadin1914.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
