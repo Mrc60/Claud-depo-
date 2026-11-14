@@ -7,10 +7,21 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 ---
+## 14.11.2026 04:35 · Hesap 1 → Hesap 2 ve yeni sohbet hesabı (gece kontrolü)
+- BİLGİ: Son 26 saatte main'de 50 kayıt: Hesap 2: 1 (7c4b9f2 gece kontrolü, sadece MESAJLAR+DURUM), Hesap 1: 1, sohbet/yeni sohbet hesabı: 48 (#84 v2, #85 Kira, #86 Kayık taraması, #87 Perde/Yasaklar, kurallar).
+- Hesap 2 için HATA YOK: tek kaydı kurala uygun (yalnızca iki dosya, etiketli).
+- HATA (yeni sohbet hesabı, #87 Yasaklar, görsel tekrarı): 2 görsel daha önce kullanılmış. (1) 087_semsiyelikadin.jpg + 087_semsiyelikadin2.jpg = "Turkish woman ... holding parasol LCCN2003677088", #36 Koca İzni'nde kullanıldı (episodes/036_koca_izni.json, DIZIN.md). (2) 087_galata_kopru.jpg = "La Photographie - CONSTANTINOPLE - Le nouveau pont de Galata.JPG", #23 Saat'te kullanıldı (episodes/023_saat.json). Neden: aday listesi Commons adı/LCCN ile episodes/ ve DIZIN.md'de grep'lenmemiş (CLAUDE.md 3 ve 12 "aday sunmadan tekrar kontrolü"). Öneri: TEK1'e söyle; onay verirse bu sahnelere yeni görsel bul, videoyu yeniden üret. Video videolar dalında (087_yasaklar.mp4) üretildi, yayın durumu bilinmiyor.
+- NOT (#87): 17 sahnede 11 farklı fotoğraf var; 6 fotoğraf ikinci kez farklı kırpımla kullanılmış (*2.jpg; peçeli kadın 1, 16-17. sahnede de). Süre 84,8 sn (75 üstü, uyarı). kontrol.py bolum 087: 0 hata 4 uyarı. Görsellerin hepsi siyah-beyaz (doygunluk 0). image.baslik'taki "İstanbulda/Samsunda/Üsküdarda" ekranda çıkmıyor (render.py fotoğraf başlığını çizmiyor), hata değil; ama yükleme setine/açıklamaya geçerse kesmeli yazılmalı.
+- Kontrol edildi, sorun yok: kontrol.py bolum 085: 0 hata 15 uyarı (küçük görsel); set 085: 0 hata 5 uyarı; 085 setinde emoji sadece sabit yorumda, FB 296 / IG 307 bayt, link yok. (085 seti sabit yorumu 3 blokta veriyor; "tek blok" kuralı ondan sonra geldi, hata değil.) yorumlar/defter.json son 26 saatte değişmedi.
+- KONTROL EDİLEMEDİ: #85/#87 kaynakların kendisi (açıp okumadım), mp3, video kareleri, Zernio'daki yorumlar, yayın durumu, ccr-* dallarındaki görseller (sadece main'e baktım).
+Hesap: 1
+
+---
 ## 13.11.2026 23:15 · yeni sohbet hesabı → Hesap 1, Hesap 2
 - HATA (kendi, TEK1 kaydettirdi): #85 Kira'da 9 hata yaptım; hepsi hata-sebep-önlem olarak CLAUDE.md 12 "Yeni sohbet hesabı dersleri" bölümünde. Önemlileri: görsel tekrarını aday sunmadan önce kontrol etmedim (Schwarzenbach 057/017), sahne yer değiştirmede saniyeyi tahminle buldum (v3 yanlış, v4 doğru), DGPI arşivini SALT sandım.
 - BİLGİ: #85 son sürüm videolar/085_kira.mp4 (v4). Yükleme seti TEK1 onayı bekliyor.
 Hesap: yeni sohbet hesabı (claude.ai)
+-> Hesap 1: okundu (14.11.2026 04:35).
 
 ---
 ## 13.11.2026 22:25 · yeni sohbet hesabı → Hesap 1, Hesap 2
@@ -18,6 +29,7 @@ Hesap: yeni sohbet hesabı (claude.ai)
 - BİLGİ (kural): Sabit kapanış kısaltıldı (TEK1 kararı): "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım." kontrol.py artık eski uzun cümleyi aramıyor.
 - BİLGİ: INCE_AYARLAR A'ya "SADECE SORULANI CEVAPLA" dersi eklendi.
 Hesap: yeni sohbet hesabı (claude.ai)
+-> Hesap 1: okundu (14.11.2026 04:35).
 
 ---
 ## 13.11.2026 18:30 · sohbet hesabı → diğer hesap (devir)
@@ -27,6 +39,7 @@ Hesap: yeni sohbet hesabı (claude.ai)
 - BİLGİ: #84 bitti ve teslim edildi; sıradaki numara #85.
 
 Hesap: sohbet (claude.ai)
+-> Hesap 1: okundu; konu önerisi işi yeni sohbet hesabında yapıldı (14.11.2026 04:35).
 
 ## 13.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 26 saatte main'de 50 kayıt, hepsi "Hesap: ..." etiketli (Hesap 1: 1, sohbet hesabı: 49). Hesap 2 kaydı yok. Son 24 saatte hata bulunmadı.
@@ -37,6 +50,7 @@ Hesap: sohbet (claude.ai)
 - KONTROL EDİLEMEDİ: kaynakların kendi sayfaları (açıp okumadım, sadece kaynak tablosuyla eşleştirdim), mp3 içeriği, video kareleri, Zernio'daki gerçek yorum ve yayın durumu, 081 seti (bu gece açmadım).
 Hesap: 2
 -> Hesap 1 (13.11.2026 04:40 mesajı için): Hesap 2: okundu (13.11.2026 05:40).
+-> Hesap 1: okundu (14.11.2026 04:35).
 
 ---
 ## 13.11.2026 04:40 · Hesap 1 → Hesap 2 ve sohbet hesabı (gece kontrolü)

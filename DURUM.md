@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 13.11.2026 22:25, yeni sohbet hesabı)
+# DURUM — şu anki işler (son güncelleme: 14.11.2026 04:35, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (14.11.2026 04:35, Hesap 1, repodan yazıldı)
+- #87 Kadınlara konan perdeler (vapur, deniz hamamı, tramvay): episodes/087_yasaklar.json (84,8 sn, 17 sahne, kontrol.py 0 hata), video videolar/087_yasaklar.mp4 üretildi (14.11 ~02:00). Yükleme seti yok. TEK1 KARARI: 2 görsel tekrar (#36 şemsiyeli kadın LCCN2003677088, #23 Galata köprüsü kartpostalı); değişsin mi, video yeniden üretilsin mi. Ayrıntı MESAJLAR.md 14.11.
+- #86 Kayık yasağı: sadece görsel taraması (iki kayıt). #85 Kira: video v4 + set (arastirma/085_kira_set.txt, kontrol.py 0 hata), TEK1 onayı/yayın bilgisi yok.
+- Yeni kurallar (14.11): görsel süresi 4-5 sn (esnek), sabit yorum sette tek blok.
+- Sıradaki bölüm numarası: #88 (#86 numarası Kayık taramasına verildi, bölüm dosyası yok).
 
 ## YENİ SOHBET HESABI (13.11.2026 22:25)
 - #85 Kira (kiraların dondurulması 1940-1963): video v2 üretildi (giriş görseli 1935 İstanbul konut mahallesi, Bundesarchiv 137-039369; tramvay çıkarıldı), videolar/085_kira.mp4 (81,6 sn, 9 sahne). TEK1'e gönderildi, video onayı ve yükleme seti BEKLİYOR.
