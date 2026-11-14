@@ -2,29 +2,15 @@
  "bolum": "090_saglik",
  "min_w": 600,
  "sorgular": [
-  "Turkish wedding 1930"
+  "Heybeliada sanatoryumu eski"
  ],
- "incele": [],
+ "incele": [
+  "File:Heybeli sanatoryum.JPG"
+ ],
  "indir": [
   {
-   "file": "File:Milliyet 1930 nisan 25.pdf",
-   "ad": "090_milliyet300425.jpg"
-  },
-  {
-   "file": "File:Milliyet 1930 nisan 20.pdf",
-   "ad": "090_milliyet300420.jpg"
-  },
-  {
-   "file": "File:Milliyet 1930 nisan 19.pdf",
-   "ad": "090_milliyet300419.jpg"
-  },
-  {
-   "file": "File:Cumhuriyet 1931 eylul 22.pdf",
-   "ad": "090_cumhuriyet310922.jpg"
-  },
-  {
-   "file": "File:Milliyet 1930 nisan 18.pdf",
-   "ad": "090_milliyet300418.jpg"
+   "file": "File:Heybeli sanatoryum.JPG",
+   "ad": "090_sanatoryum.jpg"
   }
  ]
 }
