@@ -8,7 +8,7 @@
  "youtube_title": "",
  "youtube_description": "",
  "sources": [],
- "surum": 1,
+ "surum": 2,
  "acilis": "Kadınlar vapura\nbinemezdi!",
  "dis_ses": {
   "file": "assets/ses/087_yasaklar.mp3",
@@ -187,9 +187,9 @@
    "image": {
     "local": "assets/belgeler/087_tramvay1877.jpg",
     "fit": "doldur",
-    "baslik": "İstanbulda atlı tramvay, gravür, 1877 · The Illustrated London News, kamu malı",
+    "baslik": "İstanbul'da perdeli atlı tramvay, gravür, 1877 · The Illustrated London News, kamu malı",
     "lisans": "",
-    "kaynak": "İstanbulda atlı tramvay, gravür, 1877 · The Illustrated London News, kamu malı",
+    "kaynak": "İstanbul'da perdeli atlı tramvay, gravür, 1877 · The Illustrated London News, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -295,11 +295,11 @@
     "yasaklandı."
    ],
    "image": {
-    "local": "assets/belgeler/087_galata_kopru.jpg",
+    "local": "assets/belgeler/087_halic_vapurlar.jpg",
     "fit": "doldur",
-    "baslik": "Yeni Galata Köprüsü, kartpostal, 20. yüzyıl başı · kamu malı",
+    "baslik": "Haliç'te vapurlar ve iskele, stereo fotoğraf, 20. yüzyıl başı · Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "Yeni Galata Köprüsü, kartpostal, 20. yüzyıl başı · kamu malı",
+    "kaynak": "Haliç'te vapurlar ve iskele, stereo fotoğraf, 20. yüzyıl başı · Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -350,11 +350,11 @@
     "olmamasıydı."
    ],
    "image": {
-    "local": "assets/belgeler/087_semsiyelikadin.jpg",
+    "local": "assets/belgeler/087_uc_kadin1914.jpg",
     "fit": "doldur",
-    "baslik": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "baslik": "Çarşaflı kadınlar, 1914 · Six and One Abroad (Internet Archive), kamu malı",
     "lisans": "",
-    "kaynak": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "kaynak": "Çarşaflı kadınlar, 1914 · Six and One Abroad (Internet Archive), kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -415,11 +415,11 @@
     "kaldırıldı."
    ],
    "image": {
-    "local": "assets/belgeler/087_galata_kopru2.jpg",
+    "local": "assets/belgeler/087_gadmer_iskele.jpg",
     "fit": "doldur",
-    "baslik": "Galata Köprüsü ve iskeleler, kartpostal · kamu malı",
+    "baslik": "Galata Köprüsü ve vapur iskeleleri, 1922-23 · Frédéric Gadmer, Albert-Kahn Müzesi, CC BY-SA 4.0 (renkli asıldan siyah-beyaz)",
     "lisans": "",
-    "kaynak": "Galata Köprüsü ve iskeleler, kartpostal · kamu malı",
+    "kaynak": "Galata Köprüsü ve vapur iskeleleri, 1922-23 · Frédéric Gadmer, Albert-Kahn Müzesi, CC BY-SA 4.0 (renkli asıldan siyah-beyaz)",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -505,11 +505,11 @@
     "hamamlarda"
    ],
    "image": {
-    "local": "assets/belgeler/087_samsun_hamam.jpg",
+    "local": "assets/belgeler/087_kizkulesi_hamam.jpg",
     "fit": "doldur",
-    "baslik": "Samsunda deniz hamamı, kartpostal, 20. yüzyıl başı · kamu malı",
+    "baslik": "Kız Kulesi ve kadınlar deniz hamamı, kartpostal · Duke Üniversitesi kütüphanesi, telif kısıtlaması yok (renkli asıldan siyah-beyaz)",
     "lisans": "",
-    "kaynak": "Samsunda deniz hamamı, kartpostal, 20. yüzyıl başı · kamu malı",
+    "kaynak": "Kız Kulesi ve kadınlar deniz hamamı, kartpostal · Duke Üniversitesi kütüphanesi, telif kısıtlaması yok (renkli asıldan siyah-beyaz)",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -595,11 +595,11 @@
     "yüzebilirlerse"
    ],
    "image": {
-    "local": "assets/belgeler/087_samsun_hamam2.jpg",
+    "local": "assets/belgeler/087_sebah_kadin.jpg",
     "fit": "doldur",
-    "baslik": "Deniz hamamının tahta perdeleri, Samsun, kartpostal · kamu malı",
+    "baslik": "Türk kadını, 1870-1900 · Pascal Sébah, Rijksmuseum, CC0",
     "lisans": "",
-    "kaynak": "Deniz hamamının tahta perdeleri, Samsun, kartpostal · kamu malı",
+    "kaynak": "Türk kadını, 1870-1900 · Pascal Sébah, Rijksmuseum, CC0",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -662,9 +662,9 @@
    "image": {
     "local": "assets/belgeler/087_tramvay_kar.jpg",
     "fit": "doldur",
-    "baslik": "İstanbulda karda kalan tramvay, 1920'ler · Agence Rol / BnF, kamu malı",
+    "baslik": "İstanbul'da karda kalan tramvay, 1920'ler · Agence Rol / BnF, kamu malı",
     "lisans": "",
-    "kaynak": "İstanbulda karda kalan tramvay, 1920'ler · Agence Rol / BnF, kamu malı",
+    "kaynak": "İstanbul'da karda kalan tramvay, 1920'ler · Agence Rol / BnF, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -735,11 +735,11 @@
     "Aralık"
    ],
    "image": {
-    "local": "assets/belgeler/087_ogrenciler.jpg",
+    "local": "assets/belgeler/087_kadinlar1920.jpg",
     "fit": "doldur",
-    "baslik": "İstanbulda Türk kız öğrenciler, 1920'ler · Library of Congress, kamu malı",
+    "baslik": "İstanbullu kadınlar, 1920'ler · Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "İstanbulda Türk kız öğrenciler, 1920'ler · Library of Congress, kamu malı",
+    "kaynak": "İstanbullu kadınlar, 1920'ler · Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -790,11 +790,11 @@
     "tramvaylardaki"
    ],
    "image": {
-    "local": "assets/belgeler/087_sokak1913.jpg",
+    "local": "assets/belgeler/087_gadmer_tramvay.jpg",
     "fit": "doldur",
-    "baslik": "İstanbulda bir sokak, 1913 · The Near East (R. Hichens), kamu malı",
+    "baslik": "Galata Köprüsü'nde tramvay, 1922-23 · Frédéric Gadmer, Albert-Kahn Müzesi, CC BY-SA 4.0 (renkli asıldan siyah-beyaz)",
     "lisans": "",
-    "kaynak": "İstanbulda bir sokak, 1913 · The Near East (R. Hichens), kamu malı",
+    "kaynak": "Galata Köprüsü'nde tramvay, 1922-23 · Frédéric Gadmer, Albert-Kahn Müzesi, CC BY-SA 4.0 (renkli asıldan siyah-beyaz)",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -865,11 +865,11 @@
     "söyleniyordu."
    ],
    "image": {
-    "local": "assets/belgeler/087_tramvay1877b.jpg",
+    "local": "assets/belgeler/087_pera_sokak1913.jpg",
     "fit": "doldur",
-    "baslik": "Tramvay ve yolcular, gravür, 1877 · The Illustrated London News, kamu malı",
+    "baslik": "İstanbul'da bir yokuş, 1913 · The Near East (R. Hichens), kamu malı",
     "lisans": "",
-    "kaynak": "Tramvay ve yolcular, gravür, 1877 · The Illustrated London News, kamu malı",
+    "kaynak": "İstanbul'da bir yokuş, 1913 · The Near East (R. Hichens), kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -925,13 +925,13 @@
     "milletvekili"
    ],
    "image": {
-    "local": "assets/belgeler/087_uskudar_kadin.jpg",
+    "local": "assets/belgeler/087_tutanak137.jpg",
     "fit": "doldur",
-    "baslik": "Üsküdarda bir kadın, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "baslik": "TBMM Zabıt Ceridesi, 16 Ocak 1924, s. 137 · kamu belgesi",
     "lisans": "",
-    "kaynak": "Üsküdarda bir kadın, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "kaynak": "TBMM Zabıt Ceridesi, 16 Ocak 1924, s. 137 · kamu belgesi",
     "sayfa": "",
-    "hiz": 1.0,
+    "hiz": 0,
     "kirp": [
      0,
      0,
@@ -995,13 +995,13 @@
     "değişmedi."
    ],
    "image": {
-    "local": "assets/belgeler/087_kadinlar1920.jpg",
+    "local": "assets/belgeler/087_tutanak138.jpg",
     "fit": "doldur",
-    "baslik": "İstanbullu kadınlar, 1920'ler · Library of Congress, kamu malı",
+    "baslik": "TBMM Zabıt Ceridesi, 16 Ocak 1924, s. 138 · kamu belgesi",
     "lisans": "",
-    "kaynak": "İstanbullu kadınlar, 1920'ler · Library of Congress, kamu malı",
+    "kaynak": "TBMM Zabıt Ceridesi, 16 Ocak 1924, s. 138 · kamu belgesi",
     "sayfa": "",
-    "hiz": 1.0,
+    "hiz": 0,
     "kirp": [
      0,
      0,
@@ -1070,11 +1070,11 @@
     "oturacağına,"
    ],
    "image": {
-    "local": "assets/belgeler/087_carsafli2.jpg",
+    "local": "assets/belgeler/087_harem_araba.jpg",
     "fit": "doldur",
-    "baslik": "İstanbullu kadınlar, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "baslik": "Kâğıthane'ye giden kadınlar, 1920 civarı · Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "İstanbullu kadınlar, 20. yüzyıl başı · Library of Congress, kamu malı",
+    "kaynak": "Kâğıthane'ye giden kadınlar, 1920 civarı · Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -1150,11 +1150,11 @@
     "Düşüncelerinizi"
    ],
    "image": {
-    "local": "assets/belgeler/087_semsiyelikadin2.jpg",
+    "local": "assets/belgeler/087_ogrenciler.jpg",
     "fit": "doldur",
-    "baslik": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "baslik": "İstanbul'da kız öğrenciler, 1920'ler · Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "Türk kadını portresi, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "kaynak": "İstanbul'da kız öğrenciler, 1920'ler · Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
@@ -1235,11 +1235,11 @@
     "açıklamasında."
    ],
    "image": {
-    "local": "assets/belgeler/087_pecelikadin2.jpg",
+    "local": "assets/belgeler/087_uskudar_kadin.jpg",
     "fit": "doldur",
-    "baslik": "Peçeli Türk kadını, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "baslik": "Üsküdar'da bir kadın, 20. yüzyıl başı · Library of Congress, kamu malı",
     "lisans": "",
-    "kaynak": "Peçeli Türk kadını, 19. yüzyıl sonu · Abdullah Frères / Library of Congress, kamu malı",
+    "kaynak": "Üsküdar'da bir kadın, 20. yüzyıl başı · Library of Congress, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
