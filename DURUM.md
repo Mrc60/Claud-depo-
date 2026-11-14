@@ -8,6 +8,9 @@
   - Yorum: Paylaşım beğeni kadar yüksek (büyüme motoru: "birine gönderilir mi" konuları). Ana kitle orta yaş üstü erkek. TEK1 kadın ağırlıklı konuların daha etkili olacağını düşünüyor; DENEME: #87 yayınlandıktan 3-4 gün sonra izleyici kadın oranı ve paylaşım sayısına bak; kadın oranı belirgin artar ve paylaşım düşmezse kadın konuları haftada 1-2'ye çıkar. Ana akış (eski kurallar, devlet, askerlik) sürsün. Not: rapor sadece takipçileri gösteriyor, takip etmeyen izleyicinin dağılımı yok.
 - #87 GÖRSEL TEKRARI (Hesap 1 ve 2'nin bulgusu, doğrulandı, HATA benim): 087_semsiyelikadin(+2) = LCCN2003677088 (#36), 087_galata_kopru(+2) = "Le nouveau pont de Galata" (#23). Etkilenen sahneler: 4, 5, 6, 16. TEK1'e söylendi; düzeltme onayı bekleniyor.
 
+## SOHBET OTURUMU (15.11.2026 00:30)
+- #88 TÜTÜN YASAĞI (IV. Murad): konu TEK1 seçti (14.11 18:02). Kaynak doğrulama + GPT raporu kontrolü + görsel seçimi + senaryo taslağı: arastirma/088_tutun.md (pano arastirma/088_gorseller.jpg). TEK1: "virgül koyalım, bakacağız" — senaryo ONAY BEKLİYOR, ses yok.
+
 ## SOHBET OTURUMU (14.11.2026 17:59, IG yorumları)
 - IG son 6 video tarandı (17:54). Yeni ana yorum yok; KKTC'de maktas94'ün kanal cevabına yazdığı ikinci yazı TEK1 kararıyla atlandı. #87 Perdeler 17:37'de yayında, şimdilik sadece sabit yorum.
 

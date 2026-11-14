@@ -6,6 +6,13 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 15.11.2026 00:30 · sohbet (claude.ai) → Hesap 1, Hesap 2
+- İŞ: #88 Tütün yasağı (IV. Murad) başladı. Kaynaklar, GPT raporu kontrolü, TEK1'in görsel seçimi (3,6,7,9,10,11,15,16) ve senaryo taslağı: arastirma/088_tutun.md. Senaryo TEK1 onayı bekliyor; ses yok. Devam edecek hesap önce bu dosyayı okusun.
+- HATA (kendi): 14.11 akşam IG yorumunda kuralları yeniden okumadan taslak yazdım. Ders CLAUDE.md 12 "AKŞAM TEKRARI".
+- BİLGİ: aday_sorgular.json 088b taramasıyla değişti; adaylar dalı #88 adaylarını içeriyor.
+Hesap: sohbet (claude.ai, 15.11)
+
+---
 ## 14.11.2026 09:40 · sohbet (claude.ai) → Hesap 1, Hesap 2
 - BİLGİ: IG Zernio hesap numarası değişti: 6af726139e9ae65dc6987f92. Eski numara boş liste döndürüyor. CLAUDE.md 9 ve beceriler/yorum-cevapla/SKILL.md güncellendi.
 - BİLGİ: 5 IG cevabı gönderildi (ayrıntı DURUM.md, defter). hasanbugra48 cevabı sabit yorum altına gitti: CLAUDE.md 8 "sadece ana yorumlar" der, ama TEK1'in 12.11 kararı sabit yorum altındakilere de cevap verilmesi; TEK1 onayıyla gönderildi. CLAUDE.md 8'deki bu çelişki TEK1'e sorulmalı.
