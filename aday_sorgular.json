@@ -1,64 +1,28 @@
 {
  "bolum": "087",
- "min_w": 600,
- "sorgular": [],
+ "min_w": 700,
+ "sorgular": [
+  "Constantinople steamer landing women",
+  "Bosphorus ferry deck passengers",
+  "Kadıköy iskelesi",
+  "Haydarpaşa ferry 1910",
+  "Üsküdar iskelesi",
+  "Sirkeci iskelesi",
+  "Bosphorus steamer 1910 photograph",
+  "Turkish women ferry",
+  "Constantinople police 1920",
+  "Istanbul police 1920s",
+  "Turkish policemen",
+  "Constantinople gendarmes",
+  "First Grand National Assembly building Ankara",
+  "Turkish Grand National Assembly 1923",
+  "TBMM 1920 Ankara",
+  "Ankara 1923 photograph",
+  "Constantinople tramway Pera 1910",
+  "Istanbul tram Beyazıt 1920",
+  "Turkish women Library of Congress 1919",
+  "Turkish women street Constantinople 1920"
+ ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:Tram-car in Constantinople (The Illustrated London News, 1877).jpg",
-   "ad": "087_tramvay1877.jpg"
-  },
-  {
-   "file": "File:Constantinople, tramway bloqué par la neige (CNews) - btv1b532097138.jpg",
-   "ad": "087_tramvay_kar.jpg"
-  },
-  {
-   "file": "File:La Photographie - CONSTANTINOPLE - Le nouveau pont de Galata.JPG",
-   "ad": "087_galata_kopru.jpg"
-  },
-  {
-   "file": "File:The near East; Dalmatia, Greece and Constantinople (1913) (14582108819).jpg",
-   "ad": "087_sokak1913.jpg"
-  },
-  {
-   "file": "File:Constantinople. Turkish lady LCCN93500447.jpg",
-   "ad": "087_pecelikadin.jpg"
-  },
-  {
-   "file": "File:Turkish woman, full-length portrait, seated, facing front, holding parasol LCCN2003677088.jpg",
-   "ad": "087_semsiyelikadin.jpg"
-  },
-  {
-   "file": "File:Turkish women, Constantinople, Turkey LCCN2010650578.jpg",
-   "ad": "087_carsafli.jpg"
-  },
-  {
-   "file": "File:Hundreds of Turkish women have discarded their veils and now appear on the streets dressed as their sisters in the western world This picture shows a number of the wealthiest women in LCCN2010650568.jpg",
-   "ad": "087_kadinlar1920.jpg"
-  },
-  {
-   "file": "File:Turk girl students - American Girls College, Constantinople The faculty, students and classrooms of the American College in Constantinople which is now the mecca for thousands in the Allied LCCN2010648493.jpg",
-   "ad": "087_ogrenciler.jpg"
-  },
-  {
-   "file": "File:Turkish woman in cemetery at Scutari opposite Constantinople LCCN2016820959.jpg",
-   "ad": "087_uskudar_kadin.jpg"
-  },
-  {
-   "file": "File:Samsun'da deniz hamamı.jpg",
-   "ad": "087_samsun_hamam.jpg"
-  },
-  {
-   "file": "File:Le pont de Galata - A36335S.jpg",
-   "ad": "087_gadmer1.jpg"
-  },
-  {
-   "file": "File:Le pont de Galata - A36334S.jpg",
-   "ad": "087_gadmer2.jpg"
-  },
-  {
-   "file": "File:Freighters, ferries and ocean liners on Golden Horn; N. to Galata, Constantinople. (29798374654).jpg",
-   "ad": "087_halic_vapurlar.jpg"
-  }
- ]
+ "indir": []
 }
