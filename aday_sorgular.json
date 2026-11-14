@@ -2,23 +2,29 @@
  "bolum": "090_saglik",
  "min_w": 600,
  "sorgular": [
-  "DGPI Archive hospital",
-  "DGPI Archive wedding",
-  "DGPI Archive doctor",
-  "Turkey in Photographs DGPI health",
-  "Turkey in Photographs DGPI women",
-  "Numune Hospital 1930s",
-  "Hıfzıssıhha Institute 1930s",
-  "Ankara hospital 1930s",
-  "Heybeliada Sanatorium",
-  "Bundesarchiv Bild 102 Türkei",
-  "Bundesarchiv Ankara",
-  "Grand National Assembly 1926",
-  "Turkish civil code 1926",
-  "Türkiye Büyük Millet Meclisi 1930",
-  "Turkish wedding 1920s",
-  "Ankara 1930s women"
+  "Turkish wedding 1930"
  ],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Milliyet 1930 nisan 25.pdf",
+   "ad": "090_milliyet300425.jpg"
+  },
+  {
+   "file": "File:Milliyet 1930 nisan 20.pdf",
+   "ad": "090_milliyet300420.jpg"
+  },
+  {
+   "file": "File:Milliyet 1930 nisan 19.pdf",
+   "ad": "090_milliyet300419.jpg"
+  },
+  {
+   "file": "File:Cumhuriyet 1931 eylul 22.pdf",
+   "ad": "090_cumhuriyet310922.jpg"
+  },
+  {
+   "file": "File:Milliyet 1930 nisan 18.pdf",
+   "ad": "090_milliyet300418.jpg"
+  }
+ ]
 }
