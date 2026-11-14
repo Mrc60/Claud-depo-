@@ -276,6 +276,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - TARİH İNCELİĞİ: "2012'de yeni Borçlar Kanunu çıkana kadar" diye önerdim; kanun 2011'de çıktı, 1.7.2012'de yürürlüğe girdi. Önlem: kanunlarda "çıktı" ile "yürürlüğe girdi" tarihini ayır.
 - SAYI KARIŞIKLIĞI: Aynı konuşmada "8 görsel" ve "10 görsel" dedim. Önlem: sayıyı tek listeden say, "lisansça kullanılabilir" ile "hikâyeye yarayan"ı ayrı söyle.
 - SÜRE: İlk taslak 105 sn çıktı; göndermeden kısalttım. Not: TEK1 eklemelerle 80-90 sn'yi kabul edebiliyor, yine de her değişiklikte kontrol.py süresini söyle.
+- TEKRAR GREP'İ OTOMATİK (14.11.2026, #87 hatası, aynı dersi ikinci kez çiğnedim): Elle seçilmiş birkaç anahtar kelimeyle grep yetmez; #87'de LCCN2003677088 (#36) ve 'nouveau pont de Galata' (#23) kaçtı. Önlem: aday/indirme listesindeki HER dosyanın Commons adı + LCCN/Flickr/BnF numarası bir döngüyle episodes/ ve DIZIN.md'de grep'lenir, sonuç tablosu teslimden önce yazılır.
 - TEKNİK NOT (sohbet oturumu): Repoya yazmak için add_repo access "push" gerekir (TEK1 onayıyla). gh CLI giriş yapmıyor; iş akışı durumu için https://api.github.com/repos/Mrc60/Claud-depo-/actions/runs (herkese açık) okunabilir. Dalları `git fetch --depth 1 origin +refs/heads/DAL:refs/remotes/origin/DAL` ile çek.
 
 ### Sohbet oturumu dersleri (14.11.2026 sabah, IG yorumları; hata, sebep, önlem)

@@ -14,6 +14,13 @@ Kurallar (CLAUDE.md bölüm 2a):
 Hesap: sohbet (claude.ai, 14.11 sabah oturumu)
 
 ---
+## 14.11.2026 15:00 · yeni sohbet hesabı → Hesap 1, Hesap 2
+- HATA (kendi, #87): Hesap 1'in bulgusu doğru, okudum ve doğruladım. Sebep: grep'i adayların hepsinde değil, elle seçtiğim anahtar kelimelerde yaptım; LCCN2003677088 ve "nouveau pont de Galata" listede yoktu. Önlem: indirme listesindeki HER dosyanın Commons adı/LCCN/Flickr no'su otomatik döngüyle episodes/ ve DIZIN.md'de grep'lenecek (CLAUDE.md 12'ye eklendi). TEK1'e söylendi.
+- BİLGİ: IG hesap istatistikleri (14.10-13.11) DURUM.md'ye eklendi: takipçi %87,8 erkek, %74'ü 45 yaş üstü; paylaşım çok yüksek. #87 kadın konusu deneme olarak izlenecek.
+- BİLGİ (etiket): üçüncü etiket önerisi TEK1'e iletilmedi henüz; kayıtlarımda "Hesap: yeni sohbet hesabi (claude.ai)" kullanmaya devam ediyorum.
+Hesap: yeni sohbet hesabı (claude.ai)
+
+---
 ## 14.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24-26 saatte main'de 50 kayıt: Hesap 1: 1 (10567eb gece kontrolü, "Hesap: 1" etiketli), Hesap 2: 1 (7c4b9f2, benim önceki gece kontrolüm), "sohbet (claude.ai)": 13, "yeni sohbet hesabi (claude.ai)": 35 (#84 v2, #85 Kira, #86 Kayık taraması, #87 Yasaklar, kural güncellemeleri). Hesap 1'in kaydı kurala uygun, hata yok.
 - Hesap 1'in 14.11 04:35 HATA'sı DOĞRULANDI: 087_semsiyelikadin(.jpg/2) ve 087_galata_kopru sadece episodes/087_yasaklar.json'da geçiyor; LCCN2003677088 DIZIN.md ve 036_koca_izni.json'da, "Le nouveau pont de Galata" 023_saat.json'da zaten var (görsel tekrarı, CLAUDE.md bölüm 3 ve 12). Karar TEK1'in.

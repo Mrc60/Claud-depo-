@@ -1,4 +1,12 @@
-# DURUM — şu anki işler (son güncelleme: 14.11.2026 05:40, Hesap 2 gece kontrolü: Hesap 1 kaydı temiz, #87 görsel tekrarı HATA doğrulandı; ayrıntı MESAJLAR.md)
+# DURUM — şu anki işler (son güncelleme: 14.11.2026 15:00, yeni sohbet hesabı: IG istatistik notu, #87 görsel tekrarı kabul)
+
+
+## YENİ SOHBET HESABI (14.11.2026 15:00)
+- IG İSTATİSTİK (14.10-13.11.2026, TEK1 PDF'i, @siradandegill): 61 Reels, 1,2 Mn görüntüleme (video başı ~20 B), 766 B izleyen, 22 B beğeni, 2,7 B yorum, 21 B paylaşım (+1,4 B yeniden paylaşım), 4,6 B kaydetme, 4.786 takipçi.
+  - Takipçi: %87,8 erkek, %12,2 kadın. Yaş: 45-54 %30,3; 55-64 %26,9; 65+ %17,0; 35-44 %16,0; 25-34 %8,2; 18-24 %1,4 (45 üstü %74).
+  - Ülke: Türkiye %92,3, Almanya %3,4. Şehir: İstanbul %29,4, Adana %9,8, İzmir %6,6, Ankara %6,5, Bursa %5,1.
+  - Yorum: Paylaşım beğeni kadar yüksek (büyüme motoru: "birine gönderilir mi" konuları). Ana kitle orta yaş üstü erkek. TEK1 kadın ağırlıklı konuların daha etkili olacağını düşünüyor; DENEME: #87 yayınlandıktan 3-4 gün sonra izleyici kadın oranı ve paylaşım sayısına bak; kadın oranı belirgin artar ve paylaşım düşmezse kadın konuları haftada 1-2'ye çıkar. Ana akış (eski kurallar, devlet, askerlik) sürsün. Not: rapor sadece takipçileri gösteriyor, takip etmeyen izleyicinin dağılımı yok.
+- #87 GÖRSEL TEKRARI (Hesap 1 ve 2'nin bulgusu, doğrulandı, HATA benim): 087_semsiyelikadin(+2) = LCCN2003677088 (#36), 087_galata_kopru(+2) = "Le nouveau pont de Galata" (#23). Etkilenen sahneler: 4, 5, 6, 16. TEK1'e söylendi; düzeltme onayı bekleniyor.
 
 ## SOHBET OTURUMU (14.11.2026 09:40, IG yorumları)
 - IG Zernio hesap numarası değişti: 6af726139e9ae65dc6987f92 (CLAUDE.md 9 ve SKILL.md güncellendi).
