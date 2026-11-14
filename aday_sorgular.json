@@ -1,15 +1,29 @@
 {
  "bolum": "087",
- "min_w": 700,
- "sorgular": [
-  "Abdullah Frères Turkish women",
-  "Turkish women Constantinople Library of Congress",
-  "Muslim women Constantinople 1900 photograph",
-  "Turkish woman yashmak portrait",
-  "Sébah Joaillier femme turque",
-  "Turkish women 1910 Constantinople street",
-  "Turkish lady carriage Constantinople"
+ "min_w": 600,
+ "sorgular": [],
+ "incele": [
+  "File:Ladies of the sultan's harem making a week end pilgrimage to the \"Sewwt (i.e., Sweet) Waters of Europe,\" a favorite summer retreat near Constantinople LCCN2010650585.jpg",
+  "File:Femme turque, RP-F-F24834.jpg",
+  "File:The near East; Dalmatia, Greece and Constantinople (1913) (14788614633).jpg",
+  "File:Six and one abroad (1914) (14761517386).jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Ladies of the sultan's harem making a week end pilgrimage to the \"Sewwt (i.e., Sweet) Waters of Europe,\" a favorite summer retreat near Constantinople LCCN2010650585.jpg",
+   "ad": "087_harem_araba.jpg"
+  },
+  {
+   "file": "File:Femme turque, RP-F-F24834.jpg",
+   "ad": "087_sebah_kadin.jpg"
+  },
+  {
+   "file": "File:The near East; Dalmatia, Greece and Constantinople (1913) (14788614633).jpg",
+   "ad": "087_pera_sokak1913.jpg"
+  },
+  {
+   "file": "File:Six and one abroad (1914) (14761517386).jpg",
+   "ad": "087_uc_kadin1914.jpg"
+  }
+ ]
 }
