@@ -1,6 +1,9 @@
 # DURUM — şu anki işler (son güncelleme: 15.11.2026 00:52, Hesap 2: #89 Kardeş katli numarası)
 
 
+## SOHBET OTURUMU (15.11.2026 01:12, Threads yorumları)
+- Threads (Zernio 6af8da019d54e30dcf2423b4) son 12 gönderi tarandı. 5 cevap gönderildi (TEK1 onaylı, isReply true, defterde): #78 kumru0465, #74 cal_hamiyet_4042, #72 californiya34, #70 meleknmtt, 02.11 ahlak sabit yorum altı azxcokx0123. #87 Threads yorumu yok. Diğerleri 07.11de cevaplanmış.
+
 ## SOHBET OTURUMU (15.11.2026 00:12, IG yorumları)
 - #87 Perdeler IG: 3 ana yorum cevaplandı (karinettoktn, sedef.2534, tugbacelik945), TEK1 onaylı, isReply true, defterde. Ders (INCE_AYARLAR E): yorumu anla, senaryodan kurma, çok bilmiş bitirme yok.
 
