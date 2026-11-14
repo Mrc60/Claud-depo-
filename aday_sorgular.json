@@ -1,16 +1,15 @@
 {
- "bolum": "090_saglik",
- "min_w": 600,
+ "bolum": "088b",
+ "min_w": 500,
  "sorgular": [
-  "Hudavendigar costume"
+  "LCCN2003677087",
+  "IV Murat Topkapı H. 2134",
+  "Samsun Tütün Fabrikası içi",
+  "Ottoman nobleman smoking long-stemmed pipe Wellcome",
+  "Sultans of the Ottoman Empire Murad IV Ibrahim I Mehmed IV",
+  "Constantinople fire engraving 17th century",
+  "Sheikh ul-Islam Ottoman miniature"
  ],
- "incele": [
-  "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg"
- ],
- "indir": [
-  {
-   "file": "File:Studio portrait of models wearing traditional clothing from the province of Hodavindiguar (Hüdavendigar), Ottoman Empire LCCN2004666903.jpg",
-   "ad": "090_gelin3.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
