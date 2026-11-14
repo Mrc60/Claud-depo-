@@ -18,7 +18,7 @@ Depo: /home/claude/claud-depo- (yoksa github.com/Mrc60/Claud-depo- klonla). Önc
 - Cevaplar SADECE bu karttaki bilgiye dayanır. Kartta olmayan bilgi uydurulmaz.
 
 ## 3. Yorumları getirme (sadece Zernio ile çekilen IG/TikTok için)
-- Instagram hesabı 6ade30e2924b817a8f5f9a8a, TikTok hesabı 6ade311b2981fad19e1d90f3.
+- Instagram hesabı 6af726139e9ae65dc6987f92 (14.11.2026; eski 6ade30... boş döner, önce comments_list_inbox_comments platform=instagram ile accountUsername=siradandegill doğrula), TikTok hesabı 6ade311b2981fad19e1d90f3.
 - Sadece en yeni 20–30 ana yorumu çek. Büyük çıktıyı dosyaya kaydet, gereken alanları python/jq ile çıkar.
 - Çift cevap önleme: `yorumlar/defter.json` (sinir_notu = zaman sınırı), @isim kontrolü, defterdeki yorum_id kontrolü. Sadece ANA yorumlara cevap ver.
 - Facebook ve TikTok/IG'de TEK1 yorumu kendisi yapıştırdıysa çekme yapma, cevabı da TEK1 gönderir.

@@ -194,7 +194,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Kare kontrolü: kareleri tek tek değil, tek bir pano görselinde toplu kontrol et.
 - Video bitince kareleri çıkarıp kontrol et (ffmpeg), sonra gönder.
 - Zernio (yorum cevabı):
-  - Instagram hesabı 6ade30e2924b817a8f5f9a8a, TikTok hesabı 6ade311b2981fad19e1d90f3
+  - Instagram hesabı 6af726139e9ae65dc6987f92 (@siradandegill, 14.11.2026'da doğrulandı; eski 6ade30e2924b817a8f5f9a8a artık boş liste döndürüyor), TikTok hesabı 6ade311b2981fad19e1d90f3 (14.11'de doğrulanmadı)
   - Instagram'da beğeni yok.
   - TikTok: cevap gönderme test edildi (29.10.2026, Lozan 7700989622838480146). Yanıtlar doğru yorumun altında gelir, replyCount güvenilir. Lozan/Musul yorumları çoğunlukla gergin ve siyasi: savunmacı olmayan, yumuşak, kısa cevap.
   - Post ID'leri: gelin 18020789228731773, okuma 18129154627891169
@@ -277,6 +277,11 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - SAYI KARIŞIKLIĞI: Aynı konuşmada "8 görsel" ve "10 görsel" dedim. Önlem: sayıyı tek listeden say, "lisansça kullanılabilir" ile "hikâyeye yarayan"ı ayrı söyle.
 - SÜRE: İlk taslak 105 sn çıktı; göndermeden kısalttım. Not: TEK1 eklemelerle 80-90 sn'yi kabul edebiliyor, yine de her değişiklikte kontrol.py süresini söyle.
 - TEKNİK NOT (sohbet oturumu): Repoya yazmak için add_repo access "push" gerekir (TEK1 onayıyla). gh CLI giriş yapmıyor; iş akışı durumu için https://api.github.com/repos/Mrc60/Claud-depo-/actions/runs (herkese açık) okunabilir. Dalları `git fetch --depth 1 origin +refs/heads/DAL:refs/remotes/origin/DAL` ile çek.
+
+### Sohbet oturumu dersleri (14.11.2026 sabah, IG yorumları; hata, sebep, önlem)
+- MD'Yİ OKUMADAN İŞ (TEK1 yakaladı): Oturum başında HAFIZA.md, MESAJLAR.md, DURUM.md, beceriler/yorum-cevapla/SKILL.md ve git log'u okumadım; sadece bölüm 8'e bakıp yoruma girdim. INCE_AYARLAR E'yi ilk taslaklardan sonra okudum. Sonuç: DURUM/MESAJLAR güncellenmedi, tarama saati deftere yazılmadı, kayıt etiketi yanlış ("Hesap: 1" yazdım, sohbet oturumuydum), dersler kaydedilmedi, TEK1'in bekleyen kararları hatırlatılmadı. Önlem: her oturumun İLK işi 2a listesindeki dosyalar + son git log; iş bitince aynı listeyle kapat (DURUM, MESAJLAR, defter sinir_notu, ders, etiket).
+- GEÇİŞTİRME ÜÇÜNCÜ KEZ: maktas94 "kıbrıs halkı Türkiyeyi sevmez, hepsi rumu çok sever" yazdı; taslağım videoyu anlattı ("Biz bu videoda adanın ... anlatmak istedik"). TEK1: "kullanıcı ne diyor sen ne yazıyorsun". Önlem: INCE_AYARLAR E'deki "yorumcuya mı, videoya mı?" sorusu HER taslakta, gösterilmeden önce.
+- ZERNIO HESAP NUMARASI DEĞİŞTİ: Kayıtlı IG numarasıyla liste boş geldi (accountsQueried 0). Önlem: boş liste gelirse hesap filtresiz çek, accountUsername ile doğrula, yeni numarayı CLAUDE.md 9 ve SKILL.md'ye yaz.
 
 ### Hesap 2 dersleri (02.11.2026, #59 ve yorum oturumu; hata, sebep, önlem)
 - KAMERA KESİLMESİ: Sahne ortası karesine bakıp "kesilme yok" dedim; kamera kayarken başta/sonda kart yazıları kesiliyordu. Önlem: HER sahnenin başı (%12), ortası (%50), sonu (%88) karesi tek panoda kontrol edilir. Kart/grafik sahnelerinde `hiz: 0`.

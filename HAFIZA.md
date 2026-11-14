@@ -118,3 +118,4 @@
 
 - [13.11.2026] Yeni sohbet hesabı dersleri CLAUDE.md 12 sonunda: kaynak satırını okumadan SALT deme; "engelli" demeden gerçek dosyayla dene; Wikimedia görsellerini gorsel-arastirma.yml ile indir; aday sunmadan tekrar grep; sahne değiştirmeden sahne-saniye listesi; sadece sorulanı yap; "çıktı" ile "yürürlüğe girdi"yi ayır.
 - [14.11.2026] Yükleme setinde sabit yorum tüm platformlarda aynı: TEK kez, tek blokta ver; her platformda tekrar etme.
+- [14.11.2026] Oturum başında 2a listesini (HAFIZA, MESAJLAR, DURUM, SKILL, INCE_AYARLAR, git log) okumadan işe başlama; iş sonunda DURUM/MESAJLAR/defter/ders/etiketi kapat. IG Zernio numarası 6af726139e9ae65dc6987f92. Yorum cevabında anlatıcının (TEK1) kendi hikâyesini kullanma.

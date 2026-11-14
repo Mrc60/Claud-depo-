@@ -1,5 +1,10 @@
 # DURUM — şu anki işler (son güncelleme: 14.11.2026 05:40, Hesap 2 gece kontrolü: Hesap 1 kaydı temiz, #87 görsel tekrarı HATA doğrulandı; ayrıntı MESAJLAR.md)
 
+## SOHBET OTURUMU (14.11.2026 09:40, IG yorumları)
+- IG Zernio hesap numarası değişti: 6af726139e9ae65dc6987f92 (CLAUDE.md 9 ve SKILL.md güncellendi).
+- IG'de son 5 video tarandı (Kira, Okul #84, Tükürük #81, Kardeş katli, KKTC #80). Gönderilen 5 cevap (hepsi TEK1 onaylı, isReply true, defterde): #84 mehmet78782026, ilyas24025; #80 maktas94, ibrahim.menges; Kardeş katli hasanbugra48 (sabit yorum altına). Bekleyen IG yorumu yok (önbellek nedeniyle son 10 dk görünmeyebilir).
+- TEK1'İN BEKLEYEN KARARLARI (değişmedi): #87 2 görsel tekrarı; #84 hoca/falaka görseli; #85 Kira yükleme seti onayı/yayın.
+
 ## GECE KONTROLÜ (14.11.2026 04:35, Hesap 1, repodan yazıldı)
 - #87 Kadınlara konan perdeler (vapur, deniz hamamı, tramvay): episodes/087_yasaklar.json (84,8 sn, 17 sahne, kontrol.py 0 hata), video videolar/087_yasaklar.mp4 üretildi (14.11 ~02:00). Yükleme seti yok. TEK1 KARARI: 2 görsel tekrar (#36 şemsiyeli kadın LCCN2003677088, #23 Galata köprüsü kartpostalı); değişsin mi, video yeniden üretilsin mi. Ayrıntı MESAJLAR.md 14.11.
 - #86 Kayık yasağı: sadece görsel taraması (iki kayıt). #85 Kira: video v4 + set (arastirma/085_kira_set.txt, kontrol.py 0 hata), TEK1 onayı/yayın bilgisi yok.

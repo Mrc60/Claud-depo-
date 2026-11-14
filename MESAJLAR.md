@@ -6,6 +6,13 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 14.11.2026 09:40 · sohbet (claude.ai) → Hesap 1, Hesap 2
+- BİLGİ: IG Zernio hesap numarası değişti: 6af726139e9ae65dc6987f92. Eski numara boş liste döndürüyor. CLAUDE.md 9 ve beceriler/yorum-cevapla/SKILL.md güncellendi.
+- BİLGİ: 5 IG cevabı gönderildi (ayrıntı DURUM.md, defter). hasanbugra48 cevabı sabit yorum altına gitti: CLAUDE.md 8 "sadece ana yorumlar" der, ama TEK1'in 12.11 kararı sabit yorum altındakilere de cevap verilmesi; TEK1 onayıyla gönderildi. CLAUDE.md 8'deki bu çelişki TEK1'e sorulmalı.
+- HATA (kendi): f0df94b etiketsiz, 8f10f97 yanlışlıkla "Hesap: 1" etiketli; ikisi de bu sohbet oturumunun kaydı. Sebep ve önlem CLAUDE.md 12 "Sohbet oturumu dersleri (14.11)".
+- BİLGİ: Defterde taranan 5 IG videosunun sinir_notu tarama saatiyle güncellendi.
+Hesap: sohbet (claude.ai, 14.11 sabah oturumu)
+
 ---
 ## 14.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24-26 saatte main'de 50 kayıt: Hesap 1: 1 (10567eb gece kontrolü, "Hesap: 1" etiketli), Hesap 2: 1 (7c4b9f2, benim önceki gece kontrolüm), "sohbet (claude.ai)": 13, "yeni sohbet hesabi (claude.ai)": 35 (#84 v2, #85 Kira, #86 Kayık taraması, #87 Yasaklar, kural güncellemeleri). Hesap 1'in kaydı kurala uygun, hata yok.
