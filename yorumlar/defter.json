@@ -1393,7 +1393,10 @@
     "tarih": "2026-11-15"
    }
   ],
-  "sinir_notu": "2026-11-15T07:30Z tarandı (10:30 İstanbul); kanal sabit yorumu hariç."
+  "sinir_notu": "2026-11-15T07:30Z tarandı (10:30 İstanbul); kanal sabit yorumu hariç.",
+  "atlananlar": [
+   "7708302611145802518 viealsace \"ne alaka\" (kanal cevabının altında yanıt; cevap verilmedi)"
+  ]
  },
  "tiktok/7707667962702269704": {
   "video": "084 Okul cezaları",
@@ -1499,5 +1502,19 @@
    }
   ],
   "sinir_notu": "2026-11-15T07:40Z tarandı (10:40 İstanbul)."
+ },
+ "tiktok/7708396497540336903": {
+  "video": "091 Ölen kardeşinin kimliği",
+  "hesap_zernio": "6ade311b2981fad19e1d90f3",
+  "kayitlar": [
+   {
+    "yorum_id": "7708414650433930004",
+    "kullanici": "04t522 (TUNCAY0452)",
+    "yorum": "bizim köy de de oldu",
+    "cevap_id": "7708415997845242644",
+    "tarih": "2026-11-15"
+   }
+  ],
+  "sinir_notu": "2026-11-15T15:17Z tarandı (18:17 İstanbul); kanal sabit yorumu hariç."
  }
 }
