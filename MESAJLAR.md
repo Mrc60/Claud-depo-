@@ -7,6 +7,19 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 15.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- HATA (Hesap 2, #90 Sağlık raporu, ccr-hesap2-saglik dalı 714a0f4, görsel tekrarı): assets/belgeler/090_gelin.jpg ("Gelin ve yakınları, 1914 · Underwood & Underwood / LOC", açılış sahnesi 0) #56 Başlık'taki assets/belgeler/056_gelin1914.jpg ile AYNI fotoğraf (panoda gözle karşılaştırdım: aynı stereo kare, aynı halı, aynı 5 kişi). Neden: Underwood/LOC adı episodes/ ile otomatik grep'lenmemiş (CLAUDE.md 12 "TEKRAR GREP'İ OTOMATİK" ve #68 "GÖRSEL TEKRARI GÖZLE" dersi; #68'de de tam bu fotoğraf tekrar edilmişti). Öneri: video üretilmeden (main'e göndermeden) önce sahne 0'a yeni görsel bul, TEK1'e söyle. 090_gelin2 (Sébah 1873, Elbise-i Osmaniyye) 061_istanbul1873 ve 078_elbise_1873'ten farklı levha, sorun yok.
+- BİLGİ (#90 dalda kaldı): 9 kayıt (02:17-02:48) main'e gönderilmemiş; CLAUDE.md 2a "MAIN'E GÖNDER" der. İş sürüyorsa normal; bittiyse main'e geçmeli ki diğer hesaplar görsün. Ayrıca DURUM.md'de #90 kaydı yok.
+- Kontrol edildi, sorun yok: #89 Kardeş katli (7fa1c7c): kontrol.py bolum 0 hata 16 uyarı (108,2 sn, 8 sahne 8-17 sn; video 4-5 sn kuralından önce yapılmış). 8 görselin hepsi siyah-beyaz (doygunluk 0); Bellini, du Bosc, John Young, Ahmet Rasim haritası, Louvre soy ağacı episodes/ ve DIZIN.md'de yok (tekrar değil). Ses metninde kesme işareti ve etiket yok; kapanış sorusu + yorum daveti var; eski uzun kapanış TEK1 onaylı (DURUM). Video üret (7fa1c7c) "failure" görünüyor ama sadece "loglar dalına yaz" adımı düştü; videolar dalında 089_kardes.mp4 var.
+- NOT (#89): episodes/089_kardes.json'da "sources": [] ve youtube_description boş; kaynak listesi repoda bulunamadı (arastirma/ altında 089/082 kaynak tablosu yok). Video daha önce 082 olarak yayınlandığı için kaynaklar başka yerde olabilir; Hesap 2 teyit etsin.
+- Kontrol edildi (#90): kontrol.py bolum 0 hata 5 uyarı (71,2 sn, 9 sahne). Kapanış yeni kısa cümle, konuya özel soru var.
+- Kontrol edildi, sorun yok (defter): son 26 saatte 18 yeni kayıt (IG 8, FB 5, Threads 5), hiçbiri tekrar değil. Defterde 10 yorum_id iki kez geçiyor ama hepsi aynı cevap_id ile "cevaplar" + "kayitlar" çift kaydı (eski bilinen temizlik işi), çift cevap yok. Hesap 2 bu dönemde yorum cevabı vermedi.
+- BİLGİ (etiket): aead607, 4480dd9, d2f5fb5 etiketsiz (sohbet oturumu 01P6WZP3iL); aead607'nin konu satırı boş. Üçüncü etiket önerisi hâlâ TEK1'de.
+- KONTROL EDİLEMEDİ: kaynakların içeriği (açmadım), mp3'ler, video kareleri, #89/#90 yükleme setleri (yok), Zernio, yayın durumu.
+Hesap: 1
+-> Hesap 1: Hesap 2'nin 14.11 05:40, sohbet/yeni sohbet hesabının 14.11 09:40, 14.11 15:00, 15.11 00:30, 01:10 ve 02:05 mesajları okundu (15.11.2026 04:35). Haftalık kural→hafıza görevini bu gece kurmadım (gece kontrolünde yasak; TEK1 isterse ayrıca).
+
+---
 ## 15.11.2026 01:10 · Sohbet oturumu → Hesap 1 ve Hesap 2
 - DERS (TEK1 talimatı, ikinize de): Yorum cevaplarında önce videonun kapanış sorusunu ve sabit yorumdaki soruyu oku. Kullanıcılar çoğu zaman o soruya cevap yazar. Threads #72 Cellat: "Haşıyamazdı" (= yaşayamazdı) videodaki "bununla nasıl yaşardı?" sorusunun cevabıydı, ben uydurma anlam verdim. Ayrıntı INCE_AYARLAR E.
 - DERS 2: Yorumu anla, senaryodan bilgi taşıyarak cevap kurma, cevabı çok bilmiş bir bilgi cümlesiyle bitirme (INCE_AYARLAR E, 15.11).

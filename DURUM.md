@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 15.11.2026 00:52, Hesap 2: #89 Kardeş katli numarası)
+# DURUM — şu anki işler (son güncelleme: 15.11.2026 04:35, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (15.11.2026 04:35, Hesap 1)
+- #90 SAĞLIK RAPORU (evlilik öncesi sağlık raporu): Hesap 2'nin ccr-hesap2-saglik dalında (714a0f4) bölüm JSON, 9 görsel, ses var; main'e gönderilmemiş, video üretilmemiş. HATA: açılış görseli 090_gelin.jpg = #56'daki 056_gelin1914.jpg (aynı fotoğraf). TEK1 KARARI: görsel değişsin mi (öneri: evet, videodan önce). Ayrıntı MESAJLAR 15.11 04:35.
+- #89 Kardeş katli: videolar/089_kardes.mp4 üretildi (iş akışında sadece log adımı düştü). Kaynak listesi JSON'da boş.
+- Defter: çift cevap yok.
+- TEK1'İN BEKLEYEN KARARLARI: #90 tekrar görsel; #87 2 görsel tekrarı (v2'de düzeltildi mi TEK1 teyidi); #84 hoca/falaka görseli; #85 Kira yükleme seti/yayın; #88 Tütün senaryo onayı; CLAUDE.md 8 "sadece ana yorum" ile 12.11 kararı çelişkisi; üçüncü kayıt etiketi.
 
 
 ## SOHBET OTURUMU (15.11.2026 01:12, Threads yorumları)
