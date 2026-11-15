@@ -1,0 +1,1150 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 91,
+ "slug": "nufus",
+ "title": "Ölen Kardeşinin Kimliğiyle Yaşayanlar",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Kimliğinizdeki yaş\nsize ait olmayabilir",
+ "dis_ses": {
+  "file": "assets/ses/091_nufus.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.88
+    ]
+   ],
+   [
+    [
+     7.88,
+     12.98
+    ]
+   ],
+   [
+    [
+     12.98,
+     19.76
+    ]
+   ],
+   [
+    [
+     19.76,
+     25.88
+    ]
+   ],
+   [
+    [
+     25.88,
+     31.86
+    ]
+   ],
+   [
+    [
+     31.86,
+     37.52
+    ]
+   ],
+   [
+    [
+     37.52,
+     43.94
+    ]
+   ],
+   [
+    [
+     43.94,
+     55.7
+    ]
+   ],
+   [
+    [
+     55.7,
+     66.06
+    ]
+   ],
+   [
+    [
+     66.06,
+     70.58
+    ]
+   ],
+   [
+    [
+     70.58,
+     75.82
+    ]
+   ],
+   [
+    [
+     75.82,
+     80.93
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Ya kimliğinizde yazan yaş, gerçek yaşınız değilse? Hatta… Ya yıllardır başka birinin kimliğiyle yaşıyorsanız?",
+   "caption": "Ya kimliğinizde yazan yaş, gerçek yaşınız değilse? Hatta… Ya yıllardır başka birinin kimliğiyle yaşıyorsanız?",
+   "key": [
+    "kimlik"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_cuzdan_mubadil.jpg",
+    "fit": "doldur",
+    "baslik": "Eski bir nüfus hüviyet cüzdanı, Samsun Kent Müzesi (fotoğraf, siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Eski bir nüfus hüviyet cüzdanı, Samsun Kent Müzesi (fotoğraf, siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.3,
+     "n": 1
+    },
+    {
+     "start": 0.3,
+     "end": 1.02,
+     "n": 1
+    },
+    {
+     "start": 1.02,
+     "end": 1.36,
+     "n": 1
+    },
+    {
+     "start": 1.36,
+     "end": 1.74,
+     "n": 1
+    },
+    {
+     "start": 2.2,
+     "end": 2.42,
+     "n": 1
+    },
+    {
+     "start": 2.42,
+     "end": 2.84,
+     "n": 1
+    },
+    {
+     "start": 2.84,
+     "end": 3.36,
+     "n": 1
+    },
+    {
+     "start": 3.98,
+     "end": 4.78,
+     "n": 1
+    },
+    {
+     "start": 5.04,
+     "end": 5.16,
+     "n": 1
+    },
+    {
+     "start": 5.16,
+     "end": 5.82,
+     "n": 1
+    },
+    {
+     "start": 5.82,
+     "end": 6.16,
+     "n": 1
+    },
+    {
+     "start": 6.16,
+     "end": 6.5,
+     "n": 1
+    },
+    {
+     "start": 6.5,
+     "end": 7.1,
+     "n": 1
+    },
+    {
+     "start": 7.1,
+     "end": 7.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "İnanması zor ama Türkiyede bunun yaşandığı mahkeme kararlarına yansıdı.",
+   "caption": "İnanması zor ama Türkiye'de bunun yaşandığı mahkeme kararlarına yansıdı.",
+   "key": [
+    "mahkeme"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_meydan.jpg",
+    "fit": "doldur",
+    "baslik": "Köy meydanı, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Köy meydanı, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.32,
+     "end": 8.9,
+     "n": 1
+    },
+    {
+     "start": 8.9,
+     "end": 9.12,
+     "n": 1
+    },
+    {
+     "start": 9.12,
+     "end": 9.52,
+     "n": 1
+    },
+    {
+     "start": 9.52,
+     "end": 10.16,
+     "n": 1
+    },
+    {
+     "start": 10.16,
+     "end": 10.38,
+     "n": 1
+    },
+    {
+     "start": 10.38,
+     "end": 11.0,
+     "n": 1
+    },
+    {
+     "start": 11.0,
+     "end": 11.52,
+     "n": 1
+    },
+    {
+     "start": 11.52,
+     "end": 12.04,
+     "n": 1
+    },
+    {
+     "start": 12.04,
+     "end": 12.9,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "MAHKEME KARARLARI",
+    "baslik": "Ölen kardeşin kaydıyla yaşamak",
+    "bekle": 0.6,
+    "maddeler": [
+     "Anayasa Mahkemesi",
+     "Yargıtay"
+    ],
+    "basla": 2.82,
+    "zamanlar": [
+     3.12,
+     3.64
+    ]
+   }
+  },
+  {
+   "say": "Bazı ailelerde bir bebek doğuyor, nüfusa kaydediliyor… Ancak kısa süre sonra hayatını kaybediyordu.",
+   "caption": "Bazı ailelerde bir bebek doğuyor, nüfusa kaydediliyor… Ancak kısa süre sonra hayatını kaybediyordu.",
+   "key": [
+    "bebek"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_anne_yakin.jpg",
+    "fit": "doldur",
+    "baslik": "Kucağında bebeğiyle köylü anne, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Kucağında bebeğiyle köylü anne, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     0.62,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 13.06,
+     "end": 13.44,
+     "n": 1
+    },
+    {
+     "start": 13.44,
+     "end": 14.1,
+     "n": 1
+    },
+    {
+     "start": 14.1,
+     "end": 14.46,
+     "n": 1
+    },
+    {
+     "start": 14.46,
+     "end": 14.76,
+     "n": 1
+    },
+    {
+     "start": 14.76,
+     "end": 15.34,
+     "n": 1
+    },
+    {
+     "start": 15.54,
+     "end": 15.88,
+     "n": 1
+    },
+    {
+     "start": 15.88,
+     "end": 16.6,
+     "n": 1
+    },
+    {
+     "start": 17.0,
+     "end": 17.34,
+     "n": 1
+    },
+    {
+     "start": 17.34,
+     "end": 17.7,
+     "n": 1
+    },
+    {
+     "start": 17.7,
+     "end": 17.94,
+     "n": 1
+    },
+    {
+     "start": 17.94,
+     "end": 18.28,
+     "n": 1
+    },
+    {
+     "start": 18.28,
+     "end": 18.88,
+     "n": 1
+    },
+    {
+     "start": 18.88,
+     "end": 19.64,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ölümü nüfusa bildirilmiyordu. Daha sonra doğan kardeş ise ölen bebeğin kimliğiyle büyüyordu.",
+   "caption": "Ölümü nüfusa bildirilmiyordu. Daha sonra doğan kardeş ise ölen bebeğin kimliğiyle büyüyordu.",
+   "key": [
+    "kardeş"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_anne_cocuk.jpg",
+    "fit": "doldur",
+    "baslik": "Köylü anne ve çocuğu, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Köylü anne ve çocuğu, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 20.04,
+     "end": 20.32,
+     "n": 1
+    },
+    {
+     "start": 20.32,
+     "end": 20.72,
+     "n": 1
+    },
+    {
+     "start": 20.72,
+     "end": 21.68,
+     "n": 1
+    },
+    {
+     "start": 22.14,
+     "end": 22.3,
+     "n": 1
+    },
+    {
+     "start": 22.3,
+     "end": 22.6,
+     "n": 1
+    },
+    {
+     "start": 22.6,
+     "end": 22.92,
+     "n": 1
+    },
+    {
+     "start": 22.92,
+     "end": 23.3,
+     "n": 1
+    },
+    {
+     "start": 23.3,
+     "end": 23.68,
+     "n": 1
+    },
+    {
+     "start": 23.96,
+     "end": 24.16,
+     "n": 1
+    },
+    {
+     "start": 24.16,
+     "end": 24.62,
+     "n": 1
+    },
+    {
+     "start": 24.62,
+     "end": 25.18,
+     "n": 1
+    },
+    {
+     "start": 25.18,
+     "end": 25.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bir mahkeme dosyasındaki örnek ise oldukça çarpıcı: 1970 yılında doğan biri,",
+   "caption": "Bir mahkeme dosyasındaki örnek ise oldukça çarpıcı: 1970 yılında doğan biri,",
+   "key": [
+    "1970"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_dogum_belgesi.jpg",
+    "fit": "doldur",
+    "baslik": "Doğum belgesi, 1862 (belge, siyah-beyaz) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Doğum belgesi, 1862 (belge, siyah-beyaz) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 26.2,
+     "end": 26.4,
+     "n": 1
+    },
+    {
+     "start": 26.4,
+     "end": 26.84,
+     "n": 1
+    },
+    {
+     "start": 26.84,
+     "end": 27.46,
+     "n": 1
+    },
+    {
+     "start": 27.46,
+     "end": 27.81,
+     "n": 1
+    },
+    {
+     "start": 27.81,
+     "end": 28.16,
+     "n": 1
+    },
+    {
+     "start": 28.16,
+     "end": 28.74,
+     "n": 1
+    },
+    {
+     "start": 28.74,
+     "end": 29.32,
+     "n": 1
+    },
+    {
+     "start": 29.32,
+     "end": 30.48,
+     "n": 1
+    },
+    {
+     "start": 30.48,
+     "end": 31.06,
+     "n": 1
+    },
+    {
+     "start": 31.06,
+     "end": 31.42,
+     "n": 1
+    },
+    {
+     "start": 31.42,
+     "end": 31.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1963te doğup aynı yıl hayatını kaybeden ağabeyinin nüfus kaydıyla yaşıyordu.",
+   "caption": "1963'te doğup aynı yıl hayatını kaybeden ağabeyinin nüfus kaydıyla yaşıyordu.",
+   "key": [
+    "1963"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_mezarlik2.jpg",
+    "fit": "doldur",
+    "baslik": "Üsküdar'da Türk mezarlığı, 19. yüzyıl · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Üsküdar'da Türk mezarlığı, 19. yüzyıl · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 32.36,
+     "end": 33.26,
+     "n": 1
+    },
+    {
+     "start": 33.26,
+     "end": 33.7,
+     "n": 1
+    },
+    {
+     "start": 33.7,
+     "end": 34.04,
+     "n": 1
+    },
+    {
+     "start": 34.04,
+     "end": 34.22,
+     "n": 1
+    },
+    {
+     "start": 34.22,
+     "end": 34.78,
+     "n": 1
+    },
+    {
+     "start": 34.78,
+     "end": 35.34,
+     "n": 1
+    },
+    {
+     "start": 35.34,
+     "end": 35.92,
+     "n": 1
+    },
+    {
+     "start": 35.92,
+     "end": 36.32,
+     "n": 1
+    },
+    {
+     "start": 36.32,
+     "end": 36.76,
+     "n": 1
+    },
+    {
+     "start": 36.76,
+     "end": 37.4,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yani gerçek doğumundan yedi yıl önce doğmuş görünüyordu! Peki bu nasıl mümkün olabiliyordu?",
+   "caption": "Yani gerçek doğumundan yedi yıl önce doğmuş görünüyordu! Peki bu nasıl mümkün olabiliyordu?",
+   "key": [
+    "yedi yıl"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_cocuklar.jpg",
+    "fit": "doldur",
+    "baslik": "Sokakta oynayan köy çocukları, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Sokakta oynayan köy çocukları, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.74,
+     "end": 38.14,
+     "n": 1
+    },
+    {
+     "start": 38.14,
+     "end": 38.64,
+     "n": 1
+    },
+    {
+     "start": 38.64,
+     "end": 39.4,
+     "n": 1
+    },
+    {
+     "start": 39.4,
+     "end": 39.7,
+     "n": 1
+    },
+    {
+     "start": 39.7,
+     "end": 39.94,
+     "n": 1
+    },
+    {
+     "start": 39.94,
+     "end": 40.28,
+     "n": 1
+    },
+    {
+     "start": 40.28,
+     "end": 40.66,
+     "n": 1
+    },
+    {
+     "start": 40.66,
+     "end": 41.36,
+     "n": 1
+    },
+    {
+     "start": 41.72,
+     "end": 42.1,
+     "n": 1
+    },
+    {
+     "start": 42.1,
+     "end": 42.42,
+     "n": 1
+    },
+    {
+     "start": 42.42,
+     "end": 42.8,
+     "n": 1
+    },
+    {
+     "start": 42.8,
+     "end": 43.16,
+     "n": 1
+    },
+    {
+     "start": 43.16,
+     "end": 43.82,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "ANAYASA MAHKEMESİ DOSYASI",
+    "baslik": "Kâğıt üstünde 7 yaş büyük",
+    "bekle": 0.6,
+    "maddeler": [
+     "Kayıttaki doğum: 1963",
+     "Gerçek doğum: 1970"
+    ],
+    "basla": 0.02,
+    "zamanlar": [
+     0.62,
+     1.88
+    ]
+   }
+  },
+  {
+   "say": "Çünkü o yıllarda ölümleri nüfusa bildirmemek çok yaygındı. 1934 yılında yapılan gizli nüfus taramasında, bir buçuk milyondan fazla ölümün nüfusa bildirilmediği ortaya çıktı.",
+   "caption": "Çünkü o yıllarda ölümleri nüfusa bildirmemek çok yaygındı. 1934 yılında yapılan gizli nüfus taramasında, bir buçuk milyondan fazla ölümün nüfusa bildirilmediği ortaya çıktı.",
+   "key": [
+    "1934"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_koy1905.jpg",
+    "fit": "doldur",
+    "baslik": "Trabzon-Erzurum arası bir Türk köyü, 1905 · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Trabzon-Erzurum arası bir Türk köyü, 1905 · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 44.26,
+     "end": 44.56,
+     "n": 1
+    },
+    {
+     "start": 44.56,
+     "end": 44.8,
+     "n": 1
+    },
+    {
+     "start": 44.8,
+     "end": 45.36,
+     "n": 1
+    },
+    {
+     "start": 45.36,
+     "end": 45.9,
+     "n": 1
+    },
+    {
+     "start": 45.9,
+     "end": 46.32,
+     "n": 1
+    },
+    {
+     "start": 46.32,
+     "end": 47.1,
+     "n": 1
+    },
+    {
+     "start": 47.1,
+     "end": 47.36,
+     "n": 1
+    },
+    {
+     "start": 47.36,
+     "end": 48.02,
+     "n": 1
+    },
+    {
+     "start": 48.5,
+     "end": 49.26,
+     "n": 1
+    },
+    {
+     "start": 49.26,
+     "end": 49.66,
+     "n": 1
+    },
+    {
+     "start": 49.66,
+     "end": 50.1,
+     "n": 1
+    },
+    {
+     "start": 50.1,
+     "end": 50.46,
+     "n": 1
+    },
+    {
+     "start": 50.46,
+     "end": 50.82,
+     "n": 1
+    },
+    {
+     "start": 50.82,
+     "end": 51.6,
+     "n": 1
+    },
+    {
+     "start": 51.6,
+     "end": 51.96,
+     "n": 1
+    },
+    {
+     "start": 51.96,
+     "end": 52.26,
+     "n": 1
+    },
+    {
+     "start": 52.26,
+     "end": 52.9,
+     "n": 1
+    },
+    {
+     "start": 52.9,
+     "end": 53.22,
+     "n": 1
+    },
+    {
+     "start": 53.22,
+     "end": 53.68,
+     "n": 1
+    },
+    {
+     "start": 53.68,
+     "end": 54.16,
+     "n": 1
+    },
+    {
+     "start": 54.16,
+     "end": 55.06,
+     "n": 1
+    },
+    {
+     "start": 55.06,
+     "end": 55.34,
+     "n": 1
+    },
+    {
+     "start": 55.34,
+     "end": 55.58,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "1934 · GİZLİ NÜFUS TARAMASI",
+    "baslik": "Bildirilmemiş kayıtlar",
+    "bekle": 0.6,
+    "maddeler": [
+     "Gizli doğum: 2.504.289",
+     "Gizli ölüm: 1.532.959"
+    ],
+    "basla": 4.36,
+    "zamanlar": [
+     6.16,
+     7.66
+    ]
+   }
+  },
+  {
+   "say": "Peki bugün böyle bir durum ortaya çıkarsa ne oluyor? Kişi, hastane ve okul kayıtları gibi belgelerle gerçek kimliğini kanıtlayarak nüfus kaydını düzelttirebiliyor.",
+   "caption": "Peki bugün böyle bir durum ortaya çıkarsa ne oluyor? Kişi, hastane ve okul kayıtları gibi belgelerle gerçek kimliğini kanıtlayarak nüfus kaydını düzelttirebiliyor.",
+   "key": [
+    "bugün"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_nvi_bina.jpg",
+    "fit": "doldur",
+    "baslik": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, Ankara (günümüz, siyah-beyaz) · Sabri76 / Wikimedia Commons, CC0",
+    "lisans": "",
+    "kaynak": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, Ankara (günümüz, siyah-beyaz) · Sabri76 / Wikimedia Commons, CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 55.98,
+     "end": 56.38,
+     "n": 1
+    },
+    {
+     "start": 56.38,
+     "end": 56.86,
+     "n": 1
+    },
+    {
+     "start": 56.86,
+     "end": 57.18,
+     "n": 1
+    },
+    {
+     "start": 57.18,
+     "end": 57.42,
+     "n": 1
+    },
+    {
+     "start": 57.42,
+     "end": 57.52,
+     "n": 1
+    },
+    {
+     "start": 57.52,
+     "end": 57.94,
+     "n": 1
+    },
+    {
+     "start": 57.94,
+     "end": 58.38,
+     "n": 1
+    },
+    {
+     "start": 58.38,
+     "end": 58.68,
+     "n": 1
+    },
+    {
+     "start": 58.68,
+     "end": 58.92,
+     "n": 1
+    },
+    {
+     "start": 59.32,
+     "end": 59.92,
+     "n": 1
+    },
+    {
+     "start": 60.14,
+     "end": 60.44,
+     "n": 1
+    },
+    {
+     "start": 60.44,
+     "end": 60.62,
+     "n": 1
+    },
+    {
+     "start": 60.62,
+     "end": 60.94,
+     "n": 1
+    },
+    {
+     "start": 60.94,
+     "end": 61.4,
+     "n": 1
+    },
+    {
+     "start": 61.4,
+     "end": 61.62,
+     "n": 1
+    },
+    {
+     "start": 61.62,
+     "end": 62.46,
+     "n": 1
+    },
+    {
+     "start": 62.46,
+     "end": 62.9,
+     "n": 1
+    },
+    {
+     "start": 62.9,
+     "end": 63.32,
+     "n": 1
+    },
+    {
+     "start": 63.32,
+     "end": 64.14,
+     "n": 1
+    },
+    {
+     "start": 64.14,
+     "end": 64.58,
+     "n": 1
+    },
+    {
+     "start": 64.58,
+     "end": 64.96,
+     "n": 1
+    },
+    {
+     "start": 64.96,
+     "end": 65.94,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "BUGÜN",
+    "baslik": "Kendi kimliğine kavuşmak",
+    "bekle": 0.6,
+    "maddeler": [
+     "Hastane kayıtları",
+     "Okul kayıtları"
+    ],
+    "basla": 3.42,
+    "zamanlar": [
+     4.44,
+     4.92
+    ]
+   }
+  },
+  {
+   "say": "Düşünsenize… Yıllarca başka birinin kimliğiyle yaşamış olabilirsiniz.",
+   "caption": "Düşünsenize… Yıllarca başka birinin kimliğiyle yaşamış olabilirsiniz.",
+   "key": [
+    "kimlik"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_cuzdan_vitrin.jpg",
+    "fit": "doldur",
+    "baslik": "Eski bir nüfus hüviyet cüzdanı ve aile fotoğrafları, Samsun Kent Müzesi (siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Eski bir nüfus hüviyet cüzdanı ve aile fotoğrafları, Samsun Kent Müzesi (siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 66.34,
+     "end": 67.14,
+     "n": 1
+    },
+    {
+     "start": 67.46,
+     "end": 68.02,
+     "n": 1
+    },
+    {
+     "start": 68.02,
+     "end": 68.38,
+     "n": 1
+    },
+    {
+     "start": 68.38,
+     "end": 68.72,
+     "n": 1
+    },
+    {
+     "start": 68.72,
+     "end": 69.32,
+     "n": 1
+    },
+    {
+     "start": 69.32,
+     "end": 69.74,
+     "n": 1
+    },
+    {
+     "start": 69.74,
+     "end": 70.46,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizin ailenizde böyle bir hikâye duydunuz mu? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizin ailenizde böyle bir hikâye duydunuz mu? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "aile"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_kadinlar.jpg",
+    "fit": "doldur",
+    "baslik": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 71.0,
+     "end": 71.24,
+     "n": 1
+    },
+    {
+     "start": 71.24,
+     "end": 71.8,
+     "n": 1
+    },
+    {
+     "start": 71.8,
+     "end": 72.02,
+     "n": 1
+    },
+    {
+     "start": 72.02,
+     "end": 72.3,
+     "n": 1
+    },
+    {
+     "start": 72.3,
+     "end": 72.66,
+     "n": 1
+    },
+    {
+     "start": 72.66,
+     "end": 73.04,
+     "n": 1
+    },
+    {
+     "start": 73.04,
+     "end": 73.28,
+     "n": 1
+    },
+    {
+     "start": 73.68,
+     "end": 74.4,
+     "n": 1
+    },
+    {
+     "start": 74.4,
+     "end": 74.96,
+     "n": 1
+    },
+    {
+     "start": 74.96,
+     "end": 75.7,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "kaynak"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_koy_minare.jpg",
+    "fit": "doldur",
+    "baslik": "Minareli bir Anadolu köyü, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "lisans": "",
+    "kaynak": "Minareli bir Anadolu köyü, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 75.98,
+     "end": 76.4,
+     "n": 1
+    },
+    {
+     "start": 76.4,
+     "end": 76.72,
+     "n": 1
+    },
+    {
+     "start": 76.72,
+     "end": 77.52,
+     "n": 1
+    },
+    {
+     "start": 78.0,
+     "end": 78.5,
+     "n": 1
+    },
+    {
+     "start": 78.5,
+     "end": 78.66,
+     "n": 1
+    },
+    {
+     "start": 78.66,
+     "end": 79.06,
+     "n": 1
+    },
+    {
+     "start": 79.06,
+     "end": 79.6,
+     "n": 1
+    },
+    {
+     "start": 79.6,
+     "end": 80.08,
+     "n": 1
+    },
+    {
+     "start": 80.08,
+     "end": 80.62,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
