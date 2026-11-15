@@ -1,5 +1,8 @@
 # DURUM — şu anki işler (son güncelleme: 15.11.2026 10:40, Hesap 2: görsel benzerlik taraması)
 
+## SOHBET OTURUMU (15.11.2026 10:42, Threads + TikTok yorumları)
+- Threads #90: haticeafak1.2 (TEK1 elle). TikTok #90: viealsace. TikTok son 16 video tarandı, 8 cevap (TEK1 onaylı, isReply true, defterde): #84, #81, #76 (sabit yorum altı), #75 x2, #74 x2, #71. Atlananlar defterde. Ders: Zernio liste sayısı önbellekli, en yeni gönderiyi doğrudan aç; Threads alıntıları Zernio'da yok.
+
 ## HESAP 2 (15.11.2026 10:40)
 - kontrol.py GÖRSEL BENZERLİK TARAMASI main'de (CLAUDE.md 7). Aday/kapak görselleri `kontrol.py gorsel` ile taranmadan sunulmaz. assets/onizleme eklendi (346 eski görsel önizlemesi).
 - #90 SAĞLIK RAPORU: TEK1 sabah yayınladı. Bölüm/görseller ccr-hesap2-saglik dalında; main'e gönderilmedi (TEK1 kararı bekliyor). Sıradaki boş numara 091.
