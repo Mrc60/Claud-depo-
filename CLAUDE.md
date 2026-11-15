@@ -54,7 +54,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Mesajlar kısa ve net. Model değiştirme önerme.
 
 ## 3. KONU SEÇİMİ
-- ARAŞTIRMA ÖZETİ EN ÜSTTE (TEK1 kararı, 15.11.2026): Her konu araştırmasının sonucu arastirma/NNN_slug.md dosyasına yazılır ve hem bu dosyanın hem TEK1'e verilen raporun EN ÜSTÜNDE kısa özet olur: bulunan aday görsel sayısı, kullanılabilir görsel sayısı (lisans + `kontrol.py gorsel` tekrar taramasından geçen), elenen sayısı ve sebebi (SALT/NC, tekrar, renkli, alakasız), senaryo süresine göre gereken görsel sayısı (her görsel 4-5 sn) ve eksik kalan sahneler; ayrıca doğrulanan iddia sayısı ve kaynak sayısı.
+- ARAŞTIRMA ÖZETİ EN ÜSTTE (TEK1 kararı, 15.11.2026): Her konu araştırmasının sonucu arastirma/NNN_slug.md dosyasına yazılır ve hem bu dosyanın hem TEK1'e verilen raporun EN ÜSTÜNDE kısa özet olur: bulunan aday görsel sayısı, kullanılabilir görsel sayısı (lisans + `kontrol.py gorsel` tekrar taramasından geçen), elenen sayısı ve sebebi (SALT/NC, tekrar, renkli, alakasız), senaryo süresine göre gereken görsel sayısı (her görsel ~5 sn) ve eksik kalan sahneler; ayrıca doğrulanan iddia sayısı ve kaynak sayısı.
 - KANAL DİZİNİ: DIZIN.md (python3 dizin.py ile güncelle). Konu ve görsel tekrarını önce buradan kontrol et; yeni bölüm eklenince dizini yenile. Not: aynı fotoğraf farklı dosya adıyla indirildiyse dizin yakalamaz, Commons dosya adını/LCCN numarasını da grep'le.
 - Konu önermeden önce episodes/ klasörüne bak, tekrar olmasın.
 - Konuyu TEK1 onaylamadan seçme. Seçenekleri karşılaştırıp gerekçeli öneri ver.
@@ -97,7 +97,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Yapay zekâ ile yeniden çizim yapma. Tablo, gravür ve harita varsa altyazıda öyle belirt.
 - Belge taraması az olsun, izleyici belge okumaz.
 - Görsel konuşulan konuyu göstermeli.
-- GÖRSEL SÜRESİ (TEK1 kararı, 14.11.2026; eski kural en az 6 sn idi): Her görsel 4-5 sn ekranda kalsın, sonra yeni görsel gelsin (YouTube asistanı: aynı görsel uzun kalınca dikkat dağılıyor; Shorts izlenme %51). Bir cümle uzunsa aynı konudan ikinci görsel kullan. Konu değişince görsel de değişsin. Not: video başına ~2 kat görsel gerekir, görsel araştırmasını buna göre planla. ESNEKLİK (TEK1, 14.11.2026): Görsel bulunabildiği kadar süreyi kısalt; uygun görsel yoksa sahne uzun kalabilir (kontrol.py sadece uyarır). Ama her seferinde olabildiğince çok görsel ara, "bulamadım" demeden önce Commons + Europeana + Bundesarchiv + DGPI tara.
+- GÖRSEL SÜRESİ (TEK1 kararı, 15.11.2026: "5 sn olsun, diğer türlü çok hızlı oluyor"; #91'de 3,3 sn'lik sahneler çok hızlı bulundu): Her görsel yaklaşık 5 sn ekranda kalsın, 4,5 sn altı olmasın (kontrol.py HATA verir). (Önceki: 14.11 4-5 sn; daha önce en az 6 sn.), sonra yeni görsel gelsin (YouTube asistanı: aynı görsel uzun kalınca dikkat dağılıyor; Shorts izlenme %51). Bir cümle uzunsa aynı konudan ikinci görsel kullan. Konu değişince görsel de değişsin. Not: video başına ~2 kat görsel gerekir, görsel araştırmasını buna göre planla. ESNEKLİK (TEK1, 14.11.2026): Görsel bulunabildiği kadar süreyi kısalt; uygun görsel yoksa sahne uzun kalabilir (kontrol.py sadece uyarır). Ama her seferinde olabildiğince çok görsel ara, "bulamadım" demeden önce Commons + Europeana + Bundesarchiv + DGPI tara.
 - Görsel ekranı doldurmalı (fit "doldur" + kirp). Küçük pencere olmamalı.
 - Yazı kutularının koyu gölgesi fotoğrafı kapatmasın.
 - Kamera hareketi yavaş olsun.
