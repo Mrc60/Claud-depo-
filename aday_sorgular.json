@@ -1,1 +1,29 @@
-{"bolum":"092b","min_w":500,"sorgular":["Mehmet Şamil Bey Beşiktaş","Şamil Şhaplı","Abdul Hamid II photograph","Abdülhamid II portrait Abdullah Frères","Darüşşafaka 1920","Darüşşafaka football","Valideçeşme","Taşkışla 1910s football","Ottoman police station Istanbul old photograph","Beşiktaş Istanbul 1910 photograph","Yıldız Palace old photograph Beşiktaş","Istanbul Turkish İdman Birliği"],"incele":[],"indir":[]}
+{
+ "bolum": "092c",
+ "min_w": 500,
+ "sorgular": [],
+ "incele": [
+  "File:Sultan Abdul Hamid II of the Ottoman Empire.jpg",
+  "File:Abdul Hamid II in Balmoral Castle in 1867.jpg",
+  "File:Abdul Hamid II 1908.jpg",
+  "File:1923 05 01 Turkiye Idman Mecmuasi Hilal Darussafaka.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Sultan Abdul Hamid II of the Ottoman Empire.jpg",
+   "ad": "092_abdulhamid.jpg"
+  },
+  {
+   "file": "File:Abdul Hamid II in Balmoral Castle in 1867.jpg",
+   "ad": "092_abdulhamid2.jpg"
+  },
+  {
+   "file": "File:Abdul Hamid II 1908.jpg",
+   "ad": "092_abdulhamid1908.jpg"
+  },
+  {
+   "file": "File:1923 05 01 Turkiye Idman Mecmuasi Hilal Darussafaka.jpg",
+   "ad": "092_mac1923.jpg"
+  }
+ ]
+}
