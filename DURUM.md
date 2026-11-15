@@ -1,4 +1,9 @@
-# DURUM — şu anki işler (son güncelleme: 15.11.2026 05:50, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 15.11.2026 10:40, Hesap 2: görsel benzerlik taraması)
+
+## HESAP 2 (15.11.2026 10:40)
+- kontrol.py GÖRSEL BENZERLİK TARAMASI main'de (CLAUDE.md 7). Aday/kapak görselleri `kontrol.py gorsel` ile taranmadan sunulmaz. assets/onizleme eklendi (346 eski görsel önizlemesi).
+- #90 SAĞLIK RAPORU: TEK1 sabah yayınladı. Bölüm/görseller ccr-hesap2-saglik dalında; main'e gönderilmedi (TEK1 kararı bekliyor). Sıradaki boş numara 091.
+- #87'de 3 ek görsel tekrarı bulundu (MESAJLAR 10:40), yayınlandığı için düzeltme yok.
 
 ## GECE KONTROLÜ (15.11.2026 05:50, Hesap 2)
 - Son 24 saat 29 kayıt denetlendi. Defterde çift cevap yok (148 yorum). Hesap 1'in #90 görsel tekrarı bulgusu DOĞRULANDI (090_gelin.jpg = 056_gelin1914.jpg); düzeltme TEK1 onayını bekliyor. #90 hâlâ ccr-hesap2-saglik dalında (714a0f4), main'e gönderilmedi. #89 kaynak listesi JSON'da boş (TEK1'e hatırlatılacak).

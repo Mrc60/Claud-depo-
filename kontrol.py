@@ -5,6 +5,7 @@ Kullanım:
   python3 kontrol.py metin  senaryo.txt          # ElevenLabs metni
   python3 kontrol.py bolum  episodes/NNN_x.json   # bölüm JSON'u (görsel, süre)
   python3 kontrol.py set    set.txt               # yükleme seti
+  python3 kontrol.py gorsel a.jpg b.jpg ...       # aday/kapak görseli: eski görsellerle aynı fotoğraf mı
 
 Yükleme seti dosya biçimi: her alan "=== AD ===" satırıyla başlar. Adlar:
   YT_BASLIK, YT_ACIKLAMA, YT_ETIKET, YT_SABIT, TT_ACIKLAMA, TT_SABIT,
@@ -95,6 +96,101 @@ def metin_kontrol(yol):
         uyari(f"tahmini süre {sn:.0f} sn (75 üstü; TEK1 isterse sorun değil)")
 
 
+# ---------------- GÖRSEL BENZERLİĞİ (15.11.2026, #90 hatası) ----------------
+# Aynı fotoğraf başka adla / başka kırpımla indirilince md5 ve ad kontrolü yakalamıyordu
+# (#68, #87, #90). Burada resmin kendisi karşılaştırılır (ORB özellik eşleşmesi + RANSAC).
+# Skor = ortak nokta sayısı. Ölçüm: aynı fotoğraf 139, farklı fotoğraflar en fazla ~10.
+BENZER_HATA, BENZER_UYARI = 40, 20
+
+
+def _cv():
+    try:
+        import cv2  # noqa
+        return cv2
+    except Exception:
+        hata("görsel benzerlik kontrolü çalışmadı: OpenCV yok. Kur: pip install --break-system-packages opencv-python-headless")
+        return None
+
+
+def _ozellik(cv2, yol, orb):
+    im = cv2.imread(yol, cv2.IMREAD_GRAYSCALE)
+    if im is None:
+        return None
+    s = 600 / max(im.shape)
+    if s < 1:
+        im = cv2.resize(im, None, fx=s, fy=s)
+    return orb.detectAndCompute(im, None)
+
+
+def _skor(cv2, a, b, bf):
+    import numpy as np
+    if not a or not b or a[1] is None or b[1] is None or len(a[0]) < 10 or len(b[0]) < 10:
+        return 0
+    m = bf.knnMatch(a[1], b[1], k=2)
+    g = [x[0] for x in m if len(x) == 2 and x[0].distance < 0.75 * x[1].distance]
+    if len(g) < 12:
+        return 0
+    src = np.float32([a[0][x.queryIdx].pt for x in g])
+    dst = np.float32([b[0][x.trainIdx].pt for x in g])
+    _, mask = cv2.findHomography(src, dst, cv2.RANSAC, 5.0)
+    return int(mask.sum()) if mask is not None else 0
+
+
+def benzerlik_kontrol(yeni, haric_onek=None, etiket=None):
+    """yeni: [(etiket, yol)]. Her biri assets/belgeler'deki TÜM eski görsellerle ve birbirleriyle karşılaştırılır."""
+    cv2 = _cv()
+    if not cv2:
+        return
+    orb = cv2.ORB_create(1000)
+    bf = cv2.BFMatcher(cv2.NORM_HAMMING)
+    yeni_yollar = {os.path.abspath(y) for _, y in yeni}
+    eski = {}
+    # assets/onizleme: yerel kopyası olmayan eski bölüm görsellerinin küçük önizlemeleri (oniz_NNN_*.jpg)
+    adaylar = glob.glob(os.path.join(KOK, "assets", "belgeler", "*")) + glob.glob(os.path.join(KOK, "assets", "onizleme", "*"))
+    for p in adaylar:
+        if not p.lower().endswith((".jpg", ".jpeg", ".png")) or os.path.abspath(p) in yeni_yollar:
+            continue
+        b = os.path.basename(p)
+        if haric_onek and (b.startswith(haric_onek) or b.startswith("oniz_" + haric_onek)):
+            continue
+        f = _ozellik(cv2, p, orb)
+        if f:
+            eski[p] = f
+    yf = [(e, y, _ozellik(cv2, y, orb)) for e, y in yeni]
+    for e, y, f in yf:
+        en = max(((_skor(cv2, f, g, bf), p) for p, g in eski.items()), default=(0, ""))
+        if en[0] >= BENZER_HATA:
+            hata(f"{e}: ESKİ GÖRSELLE AYNI FOTOĞRAF -> {os.path.relpath(en[1], KOK)} (skor {en[0]})")
+        elif en[0] >= BENZER_UYARI:
+            uyari(f"{e}: eski görsele benziyor -> {os.path.relpath(en[1], KOK)} (skor {en[0]}), panoda gözle bak")
+    for i in range(len(yf)):
+        for j in range(i + 1, len(yf)):
+            if os.path.abspath(yf[i][1]) == os.path.abspath(yf[j][1]):
+                continue
+            s = _skor(cv2, yf[i][2], yf[j][2], bf)
+            if s >= BENZER_HATA:
+                hata(f"{yf[i][0]} ve {yf[j][0]}: aynı fotoğraf (skor {s}), videoda tek kez olsun")
+    print(f"görsel benzerliği: {len(yf)} görsel, {len(eski)} eski görselle karşılaştırıldı")
+
+
+def ad_kontrol(segs, no):
+    """Commons dosya adı ve LCCN numarası başka bölümde / DIZIN'de geçiyor mu."""
+    metin = ""
+    for f in glob.glob(os.path.join(KOK, "episodes", "*.json")):
+        if os.path.basename(f)[:3] != no:
+            metin += open(f, encoding="utf-8").read()
+    dz = os.path.join(KOK, "DIZIN.md")
+    for i, s in enumerate(segs, 1):
+        img = s.get("image") or {}
+        alan = " ".join(str(img.get(k, "")) for k in ("file", "kaynak", "baslik", "commons")) + " " + str(s.get("file", ""))
+        for lccn in set(re.findall(r"LCCN\s?\d{8,}", alan)):
+            if lccn.replace(" ", "") in metin.replace(" ", ""):
+                hata(f"sahne {i}: {lccn} başka bölümde kullanılmış")
+        for fn in set(re.findall(r"File:[^\"|]+?\.(?:jpg|jpeg|png|tif)", alan, re.I)):
+            if fn in metin:
+                hata(f"sahne {i}: {fn[:70]} başka bölümde kullanılmış")
+
+
 # ---------------- BÖLÜM ----------------
 def md5(yol):
     return hashlib.md5(open(yol, "rb").read()).hexdigest()
@@ -175,7 +271,11 @@ def bolum_kontrol(yol):
                 pass
         if "atatürk" in (img.get("baslik", "") + img.get("kaynak", "")).lower():
             uyari(f"sahne {i}: Atatürk görseli (az kullan)")
-    print("not: aynı fotoğraf farklı kırpımla indirildiyse md5 yakalamaz; panoda göz kontrolü yap")
+    ad_kontrol(segs, no)
+    yeni = [(f"sahne {i}", os.path.join(KOK, (s.get("image") or {}).get("local")))
+            for i, s in enumerate(segs, 1)
+            if (s.get("image") or {}).get("local") and os.path.exists(os.path.join(KOK, s["image"]["local"]))]
+    benzerlik_kontrol(yeni, haric_onek=no + "_")
 
 
 # ---------------- YÜKLEME SETİ ----------------
@@ -254,11 +354,19 @@ def set_kontrol(yol):
         uyari("sabit yorumlar platformlar arasında farklı (kapanış sorusuyla aynı olmalı)")
 
 
+def gorsel_kontrol(yollar):
+    """Aday ya da kapak görsellerini sunmadan önce: python3 kontrol.py gorsel a.jpg b.jpg ..."""
+    benzerlik_kontrol([(os.path.basename(y), y) for y in yollar])
+
+
 def main():
-    if len(sys.argv) != 3 or sys.argv[1] not in ("metin", "bolum", "set"):
+    if len(sys.argv) >= 3 and sys.argv[1] == "gorsel":
+        gorsel_kontrol(sys.argv[2:])
+    elif len(sys.argv) != 3 or sys.argv[1] not in ("metin", "bolum", "set"):
         print(__doc__)
         sys.exit(2)
-    {"metin": metin_kontrol, "bolum": bolum_kontrol, "set": set_kontrol}[sys.argv[1]](sys.argv[2])
+    else:
+        {"metin": metin_kontrol, "bolum": bolum_kontrol, "set": set_kontrol}[sys.argv[1]](sys.argv[2])
     for m in hatalar:
         print("HATA  :", m)
     for m in uyarilar:

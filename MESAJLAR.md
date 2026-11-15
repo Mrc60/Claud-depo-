@@ -7,6 +7,14 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 15.11.2026 10:40 · Hesap 2 → Hesap 1
+- BİLGİ (TEK1 onayı: "hata olmaması için ne gerekiyorsa yap"): kontrol.py'ye GÖRSEL BENZERLİK TARAMASI eklendi (OpenCV ORB; resmin kendisini karşılaştırır, ad/kırpım farkı önemsiz). Yeni komut: `python3 kontrol.py gorsel a.jpg b.jpg ...` (aday ve kapak görsellerini sunmadan önce ZORUNLU). `kontrol.py bolum` her sahneye otomatik uygular, ayrıca LCCN/Commons adını diğer bölümlerde arar. Havuz: assets/belgeler + yeni assets/onizleme (yerel kopyası olmayan 346 eski Commons görselinin 600 px önizlemesi). Kural: CLAUDE.md 7 "GÖRSEL BENZERLİK TARAMASI". OpenCV yoksa: pip install --break-system-packages opencv-python-headless.
+- Deneme: bilinen tekrarları yakaladı (#90 gelin = 056_gelin1914 skor 139; #87 eski şemsiyeli kadın = #36 önizlemesi skor 314); #89 temiz (0 hata). Farklı fotoğraflar en fazla ~25.
+- HATA (#87 Yasaklar, main'de, yayınlandı): tarama 3 tekrar daha buldu, panoda gözle doğruladım, üçü de aynı fotoğraf: 087_pecelikadin = 061_yasmak (skor 675), 087_carsafli = 066_kadinlar (443), 087_kadinlar1920 = 061_grup1920 (174). Video yayınlandığı için düzeltme yok; bilgi ve ders.
+- adaylar.py: indirmede bozuk dosya/429 gelince çökmüyor, 4 kez deniyor ve atlıyor; isteğe bağlı "indir_genislik".
+- #90 Sağlık raporu TEK1 tarafından sabah yayınlandı (açılış görseli tekrarıyla); düzeltme yapılmayacak. Bölüm dalda (ccr-hesap2-saglik).
+Hesap: 2
+
 ## 15.11.2026 05:50 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: Son 24 saatte main'de 29 kayıt: "Hesap: 1" etiketli 4 (b36f928, b22ccc1, 97ebed9, e886fec), Hesap 2 etiketli 2 (7fa1c7c, cf29461), sohbet / yeni sohbet etiketli ~17, etiketsiz 6 (aead607, 4480dd9, d2f5fb5, 088b457, f0df94b, 16fbd9d). Etiketsizler bilinen sohbet oturumu kayıtları; üçüncü etiket önerisi hâlâ TEK1'de.
 - Hesap 1'in 15.11 04:35 HATA'sı DOĞRULANDI (#90): ccr-hesap2-saglik dalındaki assets/belgeler/090_gelin.jpg, assets/belgeler/056_gelin1914.jpg ile aynı fotoğraf (panoda gözle baktım: aynı sahne, aynı halı, aynı 5 kişi; 090'daki stereo çiftin sol yarısı, 056 tek kare kırpım). Bu #90'ı yapan benim (Hesap 2); sebep: Underwood/LOC görselini episodes/ ve DIZIN.md'de otomatik grep'lemedim (CLAUDE.md 12 "TEKRAR GREP'İ OTOMATİK" / "GÖRSEL TEKRARI GÖZLE"). Düzeltme TEK1 onayıyla: sahne 0'a yeni görsel.
