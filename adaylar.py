@@ -4,7 +4,8 @@ numaralı küçük resim panoları (contact sheet) üretir. Doğru fotoğraf ell
 Girdi:  aday_sorgular.json  {"bolum": "...", "sorgular": ["...", ...]}
 Çıktı:  out_adaylar/pano_XX.jpg  + adaylar.json (numara -> tam dosya adı, lisans)
 """
-import io, json, os, re, time
+import io
+import json, os, re, time
 import requests
 from PIL import Image, ImageDraw, ImageFont
 
@@ -82,18 +83,30 @@ indir = cfg.get("indir", [])
 if indir:
     os.makedirs(f"{OUT}/paket", exist_ok=True)
     kunye = []
+    gen = int(cfg.get("indir_genislik", 1920))
     for it in indir:
-        pages = api(action="query", prop="imageinfo", titles=it["file"], iiprop="url|extmetadata",
-                    iiurlwidth=1920).get("query", {}).get("pages", [])
-        ii = (pages[0].get("imageinfo") or [{}])[0] if pages else {}
-        url = ii.get("thumburl") or ii.get("url")
-        em = ii.get("extmetadata", {})
-        if not url:
-            print("İNDİRİLEMEDİ:", it["file"]); continue
-        data = requests.get(url, headers=HEADERS, timeout=60).content
-        im = Image.open(io.BytesIO(data)).convert("RGB")
-        im.save(f"{OUT}/paket/{it['ad']}", quality=90)
-        kunye.append(f"{it['ad']} | {it['file'][5:]} | {strip(em.get('Artist', {}).get('value'))[:80]} | "
-                     f"{strip(em.get('LicenseShortName', {}).get('value'))} | {ii.get('descriptionurl', '')}")
-        print("indirildi:", it["ad"], im.size)
+        try:
+            pages = api(action="query", prop="imageinfo", titles=it["file"], iiprop="url|extmetadata",
+                        iiurlwidth=gen).get("query", {}).get("pages", [])
+            ii = (pages[0].get("imageinfo") or [{}])[0] if pages else {}
+            url = ii.get("thumburl") or ii.get("url")
+            em = ii.get("extmetadata", {})
+            if not url:
+                print("İNDİRİLEMEDİ:", it["file"]); continue
+            im = None
+            for deneme in range(4):
+                data = requests.get(url, headers=HEADERS, timeout=60).content
+                try:
+                    im = Image.open(io.BytesIO(data)).convert("RGB"); break
+                except Exception:
+                    time.sleep(5 * (deneme + 1))
+            if im is None:
+                print("İNDİRİLEMEDİ (bozuk/429):", it["file"]); continue
+            im.save(f"{OUT}/paket/{it['ad']}", quality=90)
+            kunye.append(f"{it['ad']} | {it['file'][5:]} | {strip(em.get('Artist', {}).get('value'))[:80]} | "
+                         f"{strip(em.get('LicenseShortName', {}).get('value'))} | {ii.get('descriptionurl', '')}")
+            print("indirildi:", it["ad"], im.size)
+            time.sleep(1)
+        except Exception as e:
+            print("İNDİRİLEMEDİ (hata):", it["file"], e)
     open(f"{OUT}/paket/kunyeler.txt", "w", encoding="utf-8").write("\n".join(kunye) + "\n")

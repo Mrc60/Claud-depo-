@@ -1,9 +1,574 @@
 {
  "bolum": "onizleme2",
  "min_w": 100,
+ "indir_genislik": 600,
  "sorgular": [],
  "incele": [],
  "indir": [
+  {
+   "file": "File:Assyrian Hirmiz Family of Midyat.jpg",
+   "ad": "oniz_036_034.jpg"
+  },
+  {
+   "file": "File:Assyrian Malke Family of Harput.jpg",
+   "ad": "oniz_036_035.jpg"
+  },
+  {
+   "file": "File:Ataturk visits a school.jpg",
+   "ad": "oniz_026_036.jpg"
+  },
+  {
+   "file": "File:Ataturk-September 20, 1928.jpg",
+   "ad": "oniz_025_037.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), 1940's (16645153807).jpg",
+   "ad": "oniz_018_038.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, Radio House, 1940s (16851412171).jpg",
+   "ad": "oniz_033_039.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, Radio House, 1940s (17050524392).jpg",
+   "ad": "oniz_033_040.jpg"
+  },
+  {
+   "file": "File:Atatürk TBMM'den çıkarken.jpg",
+   "ad": "oniz_021_041.jpg"
+  },
+  {
+   "file": "File:Atatürk'ün 993 814 seri numaralı nüfus cüzdanı.jpg",
+   "ad": "oniz_021_042.jpg"
+  },
+  {
+   "file": "File:Atatürk'ün 993 815 seri numaralı nüfus cüzdanı.jpg",
+   "ad": "oniz_024_043.jpg"
+  },
+  {
+   "file": "File:Atatürk'ün nüfus hüviyet cüzdanı (Zafer Müzesi).jpg",
+   "ad": "oniz_021_044.jpg"
+  },
+  {
+   "file": "File:Atatürk, Ankara, 9 Mayıs 1935.png",
+   "ad": "oniz_035_045.jpg"
+  },
+  {
+   "file": "File:Auschwitz II-Birkenau (main gate).JPG",
+   "ad": "oniz_020_046.jpg"
+  },
+  {
+   "file": "File:Ausfahrt ins Marmarameer, Istanbul (Konstantinopel) (BildID 15545532).jpg",
+   "ad": "oniz_016_047.jpg"
+  },
+  {
+   "file": "File:Autumn Red peaches.jpg",
+   "ad": "oniz_010_048.jpg"
+  },
+  {
+   "file": "File:Ayasofya Mosque Istanbul 1890.jpg",
+   "ad": "oniz_001_049.jpg"
+  },
+  {
+   "file": "File:Ayazma Mosque 0519.jpg",
+   "ad": "oniz_019_050.jpg"
+  },
+  {
+   "file": "File:Ayazma Mosque 0524.jpg",
+   "ad": "oniz_019_051.jpg"
+  },
+  {
+   "file": "File:Ayazma Mosque DSCF4194.jpg",
+   "ad": "oniz_019_052.jpg"
+  },
+  {
+   "file": "File:Ayazma Mosque birdhouse DSCF4206.jpg",
+   "ad": "oniz_019_053.jpg"
+  },
+  {
+   "file": "File:Ayazma birdhouse DSCF0956.jpg",
+   "ad": "oniz_019_054.jpg"
+  },
+  {
+   "file": "File:Bakırcezve-fincan.jpg",
+   "ad": "oniz_015_055.jpg"
+  },
+  {
+   "file": "File:Balbal at Mongol Els - panoramio.jpg",
+   "ad": "oniz_027_056.jpg"
+  },
+  {
+   "file": "File:Balbal at Munkh-Khairkhan mount - panoramio.jpg",
+   "ad": "oniz_027_057.jpg"
+  },
+  {
+   "file": "File:Barbers near Seraskerat, Constantinople, Turkey, ca. 1895.jpg",
+   "ad": "oniz_002_058.jpg"
+  },
+  {
+   "file": "File:BelenKahvesi1.jpg",
+   "ad": "oniz_029_059.jpg"
+  },
+  {
+   "file": "File:BelenKahvesi2.jpg",
+   "ad": "oniz_029_060.jpg"
+  },
+  {
+   "file": "File:Beykoz-Öğümce.jpg",
+   "ad": "oniz_003_061.jpg"
+  },
+  {
+   "file": "File:Bilge Khagan monument Mongolia.JPG",
+   "ad": "oniz_027_062.jpg"
+  },
+  {
+   "file": "File:Blossom in Mongolian steppe.jpg",
+   "ad": "oniz_027_063.jpg"
+  },
+  {
+   "file": "File:Blue eyes.JPG",
+   "ad": "oniz_005_064.jpg"
+  },
+  {
+   "file": "File:Bread for Sale - Mardin - Turkey (5789539506).jpg",
+   "ad": "oniz_004_065.jpg"
+  },
+  {
+   "file": "File:Breakfast in Turkey.jpg",
+   "ad": "oniz_003_066.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg",
+   "ad": "oniz_037_067.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-192.jpg",
+   "ad": "oniz_037_068.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Gebäude - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-057.jpg",
+   "ad": "oniz_033_069.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-048.jpg",
+   "ad": "oniz_033_070.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-060.jpg",
+   "ad": "oniz_033_071.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-064.jpg",
+   "ad": "oniz_033_072.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-122.jpg",
+   "ad": "oniz_037_073.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Ankara- Stadtansicht - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-167.jpg",
+   "ad": "oniz_033_074.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-005.jpg",
+   "ad": "oniz_031_075.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-013.jpg",
+   "ad": "oniz_031_076.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-015.jpg",
+   "ad": "oniz_031_077.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-017.jpg",
+   "ad": "oniz_031_078.jpg"
+  },
+  {
+   "file": "File:CH-NB - Türkei, Istanbul- Stadtansicht - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-016.jpg",
+   "ad": "oniz_031_079.jpg"
+  },
+  {
+   "file": "File:Cappadocia LOC matpc.12147.jpg",
+   "ad": "oniz_028_080.jpg"
+  },
+  {
+   "file": "File:Cappadocia LOC matpc.12149.jpg",
+   "ad": "oniz_028_081.jpg"
+  },
+  {
+   "file": "File:Cappadocia LOC matpc.12152.jpg",
+   "ad": "oniz_028_082.jpg"
+  },
+  {
+   "file": "File:Cappadocia LOC matpc.12153.jpg",
+   "ad": "oniz_028_083.jpg"
+  },
+  {
+   "file": "File:Cappadocia LOC matpc.12155.jpg",
+   "ad": "oniz_028_084.jpg"
+  },
+  {
+   "file": "File:Cappadocia LOC matpc.12159.jpg",
+   "ad": "oniz_028_085.jpg"
+  },
+  {
+   "file": "File:Cağaloğlu Hamam.jpg",
+   "ad": "oniz_008_086.jpg"
+  },
+  {
+   "file": "File:Close up of red-yellow tulip in bloom.jpg",
+   "ad": "oniz_013_087.jpg"
+  },
+  {
+   "file": "File:Cobblestones, dirt and dogs in a typical thoroughfare of Constantinople, Turkey LCCN2004672929.jpg",
+   "ad": "oniz_034_088.jpg"
+  },
+  {
+   "file": "File:Coffereading.jpg",
+   "ad": "oniz_015_089.jpg"
+  },
+  {
+   "file": "File:Constantinople settings and traits (1926)- Two turkish man.png",
+   "ad": "oniz_023_090.jpg"
+  },
+  {
+   "file": "File:Constitutional Court of Turkey.jpg",
+   "ad": "oniz_036_091.jpg"
+  },
+  {
+   "file": "File:Copper(II) oxide sample.jpg",
+   "ad": "oniz_005_092.jpg"
+  },
+  {
+   "file": "File:Crowd gathered on village hill (all looking at man on house. Turkish flag) LOC matpc.04639.jpg",
+   "ad": "oniz_024_093.jpg"
+  },
+  {
+   "file": "File:Der Schneider from Jost Amman's Stände und Handwerker Wellcome L0069530.jpg",
+   "ad": "oniz_012_094.jpg"
+  },
+  {
+   "file": "File:Dogs choosing their sleeping quarters for the night - Constantinople LCCN2004672931.jpg",
+   "ad": "oniz_034_095.jpg"
+  },
+  {
+   "file": "File:Dolmabahçe Clock Tower 2014.jpg",
+   "ad": "oniz_023_096.jpg"
+  },
+  {
+   "file": "File:Dolmabahçe Palace Clock Tower in 2015 5918.jpg",
+   "ad": "oniz_023_097.jpg"
+  },
+  {
+   "file": "File:Dolmuş kapı.JPG",
+   "ad": "oniz_008_098.jpg"
+  },
+  {
+   "file": "File:Dolmuş.JPG",
+   "ad": "oniz_008_099.jpg"
+  },
+  {
+   "file": "File:Early morning preparations in the greengrocers store Gaziantep City Turkey (18419024682).jpg",
+   "ad": "oniz_022_100.jpg"
+  },
+  {
+   "file": "File:Edirne Belediye meclisi üyeleri 1930.jpg",
+   "ad": "oniz_021_101.jpg"
+  },
+  {
+   "file": "File:Edward Jenner vaccinating a boy. Oil painting by E.-E. Hille Wellcome L0029094 (cropped).jpg",
+   "ad": "oniz_011_102.jpg"
+  },
+  {
+   "file": "File:Een hofdignitaris Seyhülislam.JPG",
+   "ad": "oniz_013_103.jpg"
+  },
+  {
+   "file": "File:Eminönü and The New Mosque (Yeni Cami) on the left (8396712760).jpg",
+   "ad": "oniz_008_104.jpg"
+  },
+  {
+   "file": "File:Evil Eye Decorations.jpg",
+   "ad": "oniz_005_105.jpg"
+  },
+  {
+   "file": "File:Farina gegenueber - Gebrauchszettel 1811 (deutsch).jpg",
+   "ad": "oniz_001_106.jpg"
+  },
+  {
+   "file": "File:Farina-Haus Köln (4213-15).jpg",
+   "ad": "oniz_001_107.jpg"
+  },
+  {
+   "file": "File:Field Day 2016 Saturday man on floor.jpg",
+   "ad": "oniz_012_108.jpg"
+  },
+  {
+   "file": "File:Galata híd déli hídfője, szemben a Süleymaniye mecset. Fortepan 30852.jpg",
+   "ad": "oniz_032_109.jpg"
+  },
+  {
+   "file": "File:Gallina de Guinea (Numida meleagris), zona de conservación de Ngorongoro, Tanzania, 2024-05-27, DD 61.jpg",
+   "ad": "oniz_006_110.jpg"
+  },
+  {
+   "file": "File:General view of Çankırı.jpeg",
+   "ad": "oniz_024_111.jpg"
+  },
+  {
+   "file": "File:German dive bombers attacking harbor installations, Piraeus, Greece, 1941 (24519722426).jpg",
+   "ad": "oniz_018_112.jpg"
+  },
+  {
+   "file": "File:Gessnertulip.jpg",
+   "ad": "oniz_013_113.jpg"
+  },
+  {
+   "file": "File:Gevrek Fırını.jpg",
+   "ad": "oniz_004_114.jpg"
+  },
+  {
+   "file": "File:Glass of tea 05119.jpg",
+   "ad": "oniz_001_115.jpg"
+  },
+  {
+   "file": "File:Gloucester smallpox epidemic, 1896; Henry Wicklin, aged 6 Wellcome V0031456.jpg",
+   "ad": "oniz_011_116.jpg"
+  },
+  {
+   "file": "File:Goats in Orkhon Valley 02.jpg",
+   "ad": "oniz_027_117.jpg"
+  },
+  {
+   "file": "File:Gravestones with Hijri and Gregorian dates Ferikoy Cemetery Istanbul 2024.jpg",
+   "ad": "oniz_016_118.jpg"
+  },
+  {
+   "file": "File:Gülhane-Sarayburnu - panoramio.jpg",
+   "ad": "oniz_025_119.jpg"
+  },
+  {
+   "file": "File:Hidirbey village (Turkey) 1.jpg",
+   "ad": "oniz_029_120.jpg"
+  },
+  {
+   "file": "File:Human blue eye.jpg",
+   "ad": "oniz_005_121.jpg"
+  },
+  {
+   "file": "File:Interior of Spice Bazaar (Misir Carsisi), Istanbul - Tarik Kaan Muslu.jpg",
+   "ad": "oniz_009_122.jpg"
+  },
+  {
+   "file": "File:Intérieur du Gran Bazar, by Sébah & Joaillier, c. 1889-1900, from the Digital Commonwealth - commonwealth 3x8195553.jpg",
+   "ad": "oniz_022_123.jpg"
+  },
+  {
+   "file": "File:Istanbul - panoramio (77) (muvakkithane).jpg",
+   "ad": "oniz_023_124.jpg"
+  },
+  {
+   "file": "File:Istanbul Pera museum Anatolian weights and measures 0434.jpg",
+   "ad": "oniz_022_125.jpg"
+  },
+  {
+   "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0438.jpg",
+   "ad": "oniz_022_126.jpg"
+  },
+  {
+   "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0439.jpg",
+   "ad": "oniz_022_127.jpg"
+  },
+  {
+   "file": "File:Istanbul Pera museum Anatolian weights and measures 2015 0440.jpg",
+   "ad": "oniz_022_128.jpg"
+  },
+  {
+   "file": "File:Istanbul Selimiye Mosque birds' house 2019 6596.jpg",
+   "ad": "oniz_019_129.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51191372862).jpg",
+   "ad": "oniz_032_130.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51191373592).jpg",
+   "ad": "oniz_032_131.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51192080241).jpg",
+   "ad": "oniz_032_132.jpg"
+  },
+  {
+   "file": "File:Istanbul Turkey 1966 (51193149465).jpg",
+   "ad": "oniz_032_133.jpg"
+  },
+  {
+   "file": "File:Istanbul Yeni Valide Mosque bird house in 2015 5667.jpg",
+   "ad": "oniz_019_134.jpg"
+  },
+  {
+   "file": "File:Istanbul ferry at sunset on the Bosphorus - Tarik Kaan Muslu.jpg",
+   "ad": "oniz_023_135.jpg"
+  },
+  {
+   "file": "File:Istanbul minibus 02.JPG",
+   "ad": "oniz_008_136.jpg"
+  },
+  {
+   "file": "File:Istanbul photos by J.Lubbock 2014 336.jpg",
+   "ad": "oniz_009_137.jpg"
+  },
+  {
+   "file": "File:Istanbul photos by J.Lubbock 2014 340.jpg",
+   "ad": "oniz_009_138.jpg"
+  },
+  {
+   "file": "File:Istanbul, İstanbul, Turkey - panoramio (142).jpg",
+   "ad": "oniz_008_139.jpg"
+  },
+  {
+   "file": "File:Jean-Baptiste Vanmour - Women Drinking Coffee - Google Art Project.jpg",
+   "ad": "oniz_011_140.jpg"
+  },
+  {
+   "file": "File:Jewish Quarter in the Old Town, Rhodes (4016756958).jpg",
+   "ad": "oniz_020_141.jpg"
+  },
+  {
+   "file": "File:Jeźdźcy na stepie przed rozpoczęciem lokalnego festiwalu Naadam (01).jpg",
+   "ad": "oniz_027_142.jpg"
+  },
+  {
+   "file": "File:Jeźdźcy na stepie przed rozpoczęciem lokalnego festiwalu Naadam (03).jpg",
+   "ad": "oniz_027_143.jpg"
+  },
+  {
+   "file": "File:Johann Maria Farina 1685-1766.jpg",
+   "ad": "oniz_001_144.jpg"
+  },
+  {
+   "file": "File:KAPUTAŞ PLAJI - panoramio - HALUK COMERTEL.jpg",
+   "ad": "oniz_014_145.jpg"
+  },
+  {
+   "file": "File:Kade met flessenkratten, koetsen, tramrails, zeelieden en omstanders in Smyrna, RP-F-F00998-AQ.jpg",
+   "ad": "oniz_036_146.jpg"
+  },
+  {
+   "file": "File:Kahal Shalom Synagogue entrance 2010.jpg",
+   "ad": "oniz_020_147.jpg"
+  },
+  {
+   "file": "File:KahalShalomSynagogue ListOfNames.JPG",
+   "ad": "oniz_020_148.jpg"
+  },
+  {
+   "file": "File:Kai von Galata, Istanbul (Konstantinopel) (BildID 15545511).jpg",
+   "ad": "oniz_016_149.jpg"
+  },
+  {
+   "file": "File:Kairo Sultan Hassan Moschee BW 1.jpg",
+   "ad": "oniz_006_150.jpg"
+  },
+  {
+   "file": "File:Kapadokya'dan Nazar Boncuğu.jpg",
+   "ad": "oniz_005_151.jpg"
+  },
+  {
+   "file": "File:Kaputaş Plajı (with D5100).jpg",
+   "ad": "oniz_014_152.jpg"
+  },
+  {
+   "file": "File:Kemalpaşa in winter.jpg",
+   "ad": "oniz_005_153.jpg"
+  },
+  {
+   "file": "File:Khalili Collection Hajj and Arts of Pilgrimage arc.mx 0571.1.jpg",
+   "ad": "oniz_023_154.jpg"
+  },
+  {
+   "file": "File:Kuahuqiao Site.JPG",
+   "ad": "oniz_010_155.jpg"
+  },
+  {
+   "file": "File:Kultegin monument Mongolia.JPG",
+   "ad": "oniz_027_156.jpg"
+  },
+  {
+   "file": "File:Kultigin Monument of Orkhon Inscriptions.jpeg",
+   "ad": "oniz_027_157.jpg"
+  },
+  {
+   "file": "File:Köy bakkali.jpg",
+   "ad": "oniz_022_158.jpg"
+  },
+  {
+   "file": "File:Közde Türk Kahvesi, Safranbolu 2014.jpg",
+   "ad": "oniz_015_159.jpg"
+  },
+  {
+   "file": "File:La Photographie - CONSTANTINOPLE - Le nouveau pont de Galata.JPG",
+   "ad": "oniz_023_160.jpg"
+  },
+  {
+   "file": "File:Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants by Jean Baptiste Vanmour.jpg",
+   "ad": "oniz_011_161.jpg"
+  },
+  {
+   "file": "File:Le Petit Parisien Supplément littéraire (...) bpt6k9105167 7.jpg",
+   "ad": "oniz_034_162.jpg"
+  },
+  {
+   "file": "File:Les chiens dans la rue - De Amicis Edmondo - 1883.jpg",
+   "ad": "oniz_034_163.jpg"
+  },
+  {
+   "file": "File:Les chiens des rues - Abdullah Frères. LCCN2003677082.jpg",
+   "ad": "oniz_034_164.jpg"
+  },
+  {
+   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 014.jpg",
+   "ad": "oniz_029_165.jpg"
+  },
+  {
+   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 017.jpg",
+   "ad": "oniz_029_166.jpg"
+  },
+  {
+   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 019.jpg",
+   "ad": "oniz_029_167.jpg"
+  },
+  {
+   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 020.jpg",
+   "ad": "oniz_029_168.jpg"
+  },
+  {
+   "file": "File:Letter from Dupnitsa 1863.JPG",
+   "ad": "oniz_025_169.jpg"
+  },
+  {
+   "file": "File:Lisbone Abysmée - estampe - btv1b52524679j.jpg",
+   "ad": "oniz_017_170.jpg"
+  },
+  {
+   "file": "File:Luxurious red tulips (Unsplash).jpg",
+   "ad": "oniz_013_171.jpg"
+  },
+  {
+   "file": "File:Male wild turkey (Meleagris gallopavo) strutting.jpg",
+   "ad": "oniz_006_172.jpg"
+  },
+  {
+   "file": "File:Male wild turkey - Meleagris gallopavo.jpg",
+   "ad": "oniz_006_173.jpg"
+  },
+  {
+   "file": "File:Man with facial scarring and blindness due to smallpox, 1972.jpg",
+   "ad": "oniz_011_174.jpg"
+  },
   {
    "file": "File:Manav dükkanı 02.jpg",
    "ad": "oniz_022_175.jpg"
