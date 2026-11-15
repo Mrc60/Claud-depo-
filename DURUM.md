@@ -1,4 +1,8 @@
-# DURUM — şu anki işler (son güncelleme: 15.11.2026 04:35, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 15.11.2026 05:50, Hesap 2 gece kontrolü)
+
+## GECE KONTROLÜ (15.11.2026 05:50, Hesap 2)
+- Son 24 saat 29 kayıt denetlendi. Defterde çift cevap yok (148 yorum). Hesap 1'in #90 görsel tekrarı bulgusu DOĞRULANDI (090_gelin.jpg = 056_gelin1914.jpg); düzeltme TEK1 onayını bekliyor. #90 hâlâ ccr-hesap2-saglik dalında (714a0f4), main'e gönderilmedi. #89 kaynak listesi JSON'da boş (TEK1'e hatırlatılacak).
+- TEK1'in bekleyen kararları değişmedi (bkz. Hesap 1 gece kontrolü maddesi).
 
 ## GECE KONTROLÜ (15.11.2026 04:35, Hesap 1)
 - #90 SAĞLIK RAPORU (evlilik öncesi sağlık raporu): Hesap 2'nin ccr-hesap2-saglik dalında (714a0f4) bölüm JSON, 9 görsel, ses var; main'e gönderilmemiş, video üretilmemiş. HATA: açılış görseli 090_gelin.jpg = #56'daki 056_gelin1914.jpg (aynı fotoğraf). TEK1 KARARI: görsel değişsin mi (öneri: evet, videodan önce). Ayrıntı MESAJLAR 15.11 04:35.
