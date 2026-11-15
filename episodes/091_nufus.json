@@ -15,12 +15,6 @@
    [
     [
      0,
-     3.48
-    ]
-   ],
-   [
-    [
-     3.48,
      7.88
     ]
    ],
@@ -45,12 +39,12 @@
    [
     [
      25.88,
-     29.32
+     31.86
     ]
    ],
    [
     [
-     29.32,
+     31.86,
      37.52
     ]
    ],
@@ -63,24 +57,12 @@
    [
     [
      43.94,
-     48.14
-    ]
-   ],
-   [
-    [
-     48.14,
      55.7
     ]
    ],
    [
     [
      55.7,
-     59.04
-    ]
-   ],
-   [
-    [
-     59.04,
      66.06
     ]
    ],
@@ -106,17 +88,17 @@
  },
  "segments": [
   {
-   "say": "Ya kimliğinizde yazan yaş, gerçek yaşınız değilse?",
-   "caption": "Ya kimliğinizde yazan yaş, gerçek yaşınız değilse?",
+   "say": "Ya kimliğinizde yazan yaş, gerçek yaşınız değilse? Hatta… Ya yıllardır başka birinin kimliğiyle yaşıyorsanız?",
+   "caption": "Ya kimliğinizde yazan yaş, gerçek yaşınız değilse? Hatta… Ya yıllardır başka birinin kimliğiyle yaşıyorsanız?",
    "key": [
     "kimlik"
    ],
    "image": {
-    "local": "assets/belgeler/091_kadinlar.jpg",
+    "local": "assets/belgeler/091_cuzdan_mubadil.jpg",
     "fit": "doldur",
-    "baslik": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "baslik": "Eski bir nüfus hüviyet cüzdanı, Samsun Kent Müzesi (fotoğraf, siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
     "lisans": "",
-    "kaynak": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "kaynak": "Eski bir nüfus hüviyet cüzdanı, Samsun Kent Müzesi (fotoğraf, siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -156,26 +138,7 @@
      "start": 2.84,
      "end": 3.36,
      "n": 1
-    }
-   ]
-  },
-  {
-   "say": "Hatta… Ya yıllardır başka birinin kimliğiyle yaşıyorsanız?",
-   "caption": "Hatta… Ya yıllardır başka birinin kimliğiyle yaşıyorsanız?",
-   "key": [
-    "kimlik"
-   ],
-   "image": {
-    "local": "assets/belgeler/091_koy_minare.jpg",
-    "fit": "doldur",
-    "baslik": "Minareli bir Anadolu köyü, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "lisans": "",
-    "kaynak": "Minareli bir Anadolu köyü, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo",
-   "bolumler": [
+    },
     {
      "start": 3.98,
      "end": 4.78,
@@ -275,7 +238,22 @@
      "end": 12.9,
      "n": 1
     }
-   ]
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "MAHKEME KARARLARI",
+    "baslik": "Ölen kardeşin kaydıyla yaşamak",
+    "bekle": 0.6,
+    "maddeler": [
+     "Anayasa Mahkemesi",
+     "Yargıtay"
+    ],
+    "basla": 2.82,
+    "zamanlar": [
+     3.12,
+     3.64
+    ]
+   }
   },
   {
    "say": "Bazı ailelerde bir bebek doğuyor, nüfusa kaydediliyor… Ancak kısa süre sonra hayatını kaybediyordu.",
@@ -447,17 +425,17 @@
    ]
   },
   {
-   "say": "Bir mahkeme dosyasındaki örnek ise oldukça çarpıcı:",
-   "caption": "Bir mahkeme dosyasındaki örnek ise oldukça çarpıcı:",
+   "say": "Bir mahkeme dosyasındaki örnek ise oldukça çarpıcı: 1970 yılında doğan biri,",
+   "caption": "Bir mahkeme dosyasındaki örnek ise oldukça çarpıcı: 1970 yılında doğan biri,",
    "key": [
-    "mahkeme"
+    "1970"
    ],
    "image": {
-    "local": "assets/belgeler/091_cocuklar.jpg",
+    "local": "assets/belgeler/091_dogum_belgesi.jpg",
     "fit": "doldur",
-    "baslik": "Sokakta oynayan köy çocukları, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "baslik": "Doğum belgesi, 1862 (belge, siyah-beyaz) · Wikimedia Commons, kamu malı",
     "lisans": "",
-    "kaynak": "Sokakta oynayan köy çocukları, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "kaynak": "Doğum belgesi, 1862 (belge, siyah-beyaz) · Wikimedia Commons, kamu malı",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -497,26 +475,7 @@
      "start": 28.74,
      "end": 29.32,
      "n": 1
-    }
-   ]
-  },
-  {
-   "say": "1970 yılında doğan biri, 1963te doğup aynı yıl hayatını kaybeden ağabeyinin nüfus kaydıyla yaşıyordu.",
-   "caption": "1970 yılında doğan biri, 1963'te doğup aynı yıl hayatını kaybeden ağabeyinin nüfus kaydıyla yaşıyordu.",
-   "key": [
-    "1963"
-   ],
-   "image": {
-    "local": "assets/belgeler/091_anne_koy.jpg",
-    "fit": "doldur",
-    "baslik": "Köylü anne ve çocuğu, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "lisans": "",
-    "kaynak": "Köylü anne ve çocuğu, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo",
-   "bolumler": [
+    },
     {
      "start": 29.32,
      "end": 30.48,
@@ -536,7 +495,26 @@
      "start": 31.42,
      "end": 31.74,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "1963te doğup aynı yıl hayatını kaybeden ağabeyinin nüfus kaydıyla yaşıyordu.",
+   "caption": "1963'te doğup aynı yıl hayatını kaybeden ağabeyinin nüfus kaydıyla yaşıyordu.",
+   "key": [
+    "1963"
+   ],
+   "image": {
+    "local": "assets/belgeler/091_mezarlik2.jpg",
+    "fit": "doldur",
+    "baslik": "Üsküdar'da Türk mezarlığı, 19. yüzyıl · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Üsküdar'da Türk mezarlığı, 19. yüzyıl · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 32.36,
      "end": 33.26,
@@ -596,11 +574,11 @@
     "yedi yıl"
    ],
    "image": {
-    "local": "assets/belgeler/091_anne_yol.jpg",
+    "local": "assets/belgeler/091_cocuklar.jpg",
     "fit": "doldur",
-    "baslik": "Çocuğunu sırtında taşıyan anne, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "baslik": "Sokakta oynayan köy çocukları, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
     "lisans": "",
-    "kaynak": "Çocuğunu sırtında taşıyan anne, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "kaynak": "Sokakta oynayan köy çocukları, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -671,13 +649,28 @@
      "end": 43.82,
      "n": 1
     }
-   ]
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "ANAYASA MAHKEMESİ DOSYASI",
+    "baslik": "Kâğıt üstünde 7 yaş büyük",
+    "bekle": 0.6,
+    "maddeler": [
+     "Kayıttaki doğum: 1963",
+     "Gerçek doğum: 1970"
+    ],
+    "basla": 0.02,
+    "zamanlar": [
+     0.62,
+     1.88
+    ]
+   }
   },
   {
-   "say": "Çünkü o yıllarda ölümleri nüfusa bildirmemek çok yaygındı.",
-   "caption": "Çünkü o yıllarda ölümleri nüfusa bildirmemek çok yaygındı.",
+   "say": "Çünkü o yıllarda ölümleri nüfusa bildirmemek çok yaygındı. 1934 yılında yapılan gizli nüfus taramasında, bir buçuk milyondan fazla ölümün nüfusa bildirilmediği ortaya çıktı.",
+   "caption": "Çünkü o yıllarda ölümleri nüfusa bildirmemek çok yaygındı. 1934 yılında yapılan gizli nüfus taramasında, bir buçuk milyondan fazla ölümün nüfusa bildirilmediği ortaya çıktı.",
    "key": [
-    "yaygın"
+    "1934"
    ],
    "image": {
     "local": "assets/belgeler/091_koy1905.jpg",
@@ -729,26 +722,7 @@
      "start": 47.36,
      "end": 48.02,
      "n": 1
-    }
-   ]
-  },
-  {
-   "say": "1934 yılında yapılan gizli nüfus taramasında, bir buçuk milyondan fazla ölümün nüfusa bildirilmediği ortaya çıktı.",
-   "caption": "1934 yılında yapılan gizli nüfus taramasında, bir buçuk milyondan fazla ölümün nüfusa bildirilmediği ortaya çıktı.",
-   "key": [
-    "1934"
-   ],
-   "image": {
-    "local": "assets/belgeler/091_ciftci.jpg",
-    "fit": "doldur",
-    "baslik": "Tarlada bir çiftçi, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "lisans": "",
-    "kaynak": "Tarlada bir çiftçi, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo",
-   "bolumler": [
+    },
     {
      "start": 48.5,
      "end": 49.26,
@@ -834,25 +808,25 @@
      "Gizli doğum: 2.504.289",
      "Gizli ölüm: 1.532.959"
     ],
-    "basla": 0.16,
+    "basla": 4.36,
     "zamanlar": [
-     1.96,
-     3.46
+     6.16,
+     7.66
     ]
    }
   },
   {
-   "say": "Peki bugün böyle bir durum ortaya çıkarsa ne oluyor?",
-   "caption": "Peki bugün böyle bir durum ortaya çıkarsa ne oluyor?",
+   "say": "Peki bugün böyle bir durum ortaya çıkarsa ne oluyor? Kişi, hastane ve okul kayıtları gibi belgelerle gerçek kimliğini kanıtlayarak nüfus kaydını düzelttirebiliyor.",
+   "caption": "Peki bugün böyle bir durum ortaya çıkarsa ne oluyor? Kişi, hastane ve okul kayıtları gibi belgelerle gerçek kimliğini kanıtlayarak nüfus kaydını düzelttirebiliyor.",
    "key": [
     "bugün"
    ],
    "image": {
-    "local": "assets/belgeler/091_firin.jpg",
+    "local": "assets/belgeler/091_nvi_bina.jpg",
     "fit": "doldur",
-    "baslik": "Ekmek fırını, Tarsus, 1907 · T. J. Arne / Etnografiska museet (SMVK), CC0",
+    "baslik": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, Ankara (günümüz, siyah-beyaz) · Sabri76 / Wikimedia Commons, CC0",
     "lisans": "",
-    "kaynak": "Ekmek fırını, Tarsus, 1907 · T. J. Arne / Etnografiska museet (SMVK), CC0",
+    "kaynak": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü, Ankara (günümüz, siyah-beyaz) · Sabri76 / Wikimedia Commons, CC0",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -902,26 +876,7 @@
      "start": 58.68,
      "end": 58.92,
      "n": 1
-    }
-   ]
-  },
-  {
-   "say": "Kişi, hastane ve okul kayıtları gibi belgelerle gerçek kimliğini kanıtlayarak nüfus kaydını düzelttirebiliyor.",
-   "caption": "Kişi, hastane ve okul kayıtları gibi belgelerle gerçek kimliğini kanıtlayarak nüfus kaydını düzelttirebiliyor.",
-   "key": [
-    "kayıt"
-   ],
-   "image": {
-    "local": "assets/belgeler/091_kadin_is.jpg",
-    "fit": "doldur",
-    "baslik": "Köy kadınları iş başında, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "lisans": "",
-    "kaynak": "Köy kadınları iş başında, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo",
-   "bolumler": [
+    },
     {
      "start": 59.32,
      "end": 59.92,
@@ -987,7 +942,22 @@
      "end": 65.94,
      "n": 1
     }
-   ]
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "BUGÜN",
+    "baslik": "Kendi kimliğine kavuşmak",
+    "bekle": 0.6,
+    "maddeler": [
+     "Hastane kayıtları",
+     "Okul kayıtları"
+    ],
+    "basla": 3.42,
+    "zamanlar": [
+     4.44,
+     4.92
+    ]
+   }
   },
   {
    "say": "Düşünsenize… Yıllarca başka birinin kimliğiyle yaşamış olabilirsiniz.",
@@ -996,11 +966,11 @@
     "kimlik"
    ],
    "image": {
-    "local": "assets/belgeler/091_katir.jpg",
+    "local": "assets/belgeler/091_cuzdan_vitrin.jpg",
     "fit": "doldur",
-    "baslik": "Katır arabasıyla bir köylü, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "baslik": "Eski bir nüfus hüviyet cüzdanı ve aile fotoğrafları, Samsun Kent Müzesi (siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
     "lisans": "",
-    "kaynak": "Katır arabasıyla bir köylü, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "kaynak": "Eski bir nüfus hüviyet cüzdanı ve aile fotoğrafları, Samsun Kent Müzesi (siyah-beyaz) · Cobija / Wikimedia Commons, CC BY-SA 3.0",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -1050,11 +1020,11 @@
     "aile"
    ],
    "image": {
-    "local": "assets/belgeler/091_saban.jpg",
+    "local": "assets/belgeler/091_kadinlar.jpg",
     "fit": "doldur",
-    "baslik": "Ahşap saban, Anadolu, 1907 · T. J. Arne / Etnografiska museet (SMVK), CC0",
+    "baslik": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
     "lisans": "",
-    "kaynak": "Ahşap saban, Anadolu, 1907 · T. J. Arne / Etnografiska museet (SMVK), CC0",
+    "kaynak": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -1119,11 +1089,11 @@
     "kaynak"
    ],
    "image": {
-    "local": "assets/belgeler/091_hasat.jpg",
+    "local": "assets/belgeler/091_koy_minare.jpg",
     "fit": "doldur",
-    "baslik": "Hasatta köylüler, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "baslik": "Minareli bir Anadolu köyü, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
     "lisans": "",
-    "kaynak": "Hasatta köylüler, Türkiye, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
+    "kaynak": "Minareli bir Anadolu köyü, 1960'lar (renkli fotoğraf, siyah-beyaza çevrildi) · Etnografiska museet (SMVK), CC0",
     "sayfa": "",
     "hiz": 1.0
    },
