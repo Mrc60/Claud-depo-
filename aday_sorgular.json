@@ -1,1 +1,49 @@
-{"bolum": "091c", "min_w": 800, "sorgular": ["Ministry of Justice Ankara 1930s", "Adliye Sarayı", "Ankara courthouse DGPI", "Ankara 1930s DGPI children", "Turkish family 1930s DGPI", "Turkish village family photograph 1930s", "Anatolian boy photograph 1920s", "Turkish peasant boy LCCN", "Ottoman schoolboys photograph", "village children Turkey LCCN", "Turkish peasant family LCCN", "hüviyet cüzdanı", "Ottoman birth certificate", "doğum kağıdı", "Ministry of Health Ankara 1930s", "Numune Hastanesi", "Turkish young man portrait 1930s", "Anatolian woman portrait 1930s"], "incele": [], "indir": []}
+{
+ "bolum": "091d",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [
+  "File:Bir mübadilin hüviyet cüzdanı.JPG",
+  "File:Bir mübadilin hüviyet cüzdanı ve fotoğrafları.JPG",
+  "File:Potvrda za rodeni, 1862.jpg",
+  "File:Atatürk Boulevard, Ministry of Health, Ankara Boys’ High School (Stone Maktab - Taş Mektep), Numune Hospital, 1930s (16645155127).jpg",
+  "File:Cimetiere Turc à Scutari - Abdullah Frères. LCCN2003677079.jpg",
+  "File:Constantinople- Turkish Cemetery in Scutari (SM stf12).png",
+  "File:Republic of Turkey Identity Card (post-2016, back).png",
+  "File:Nüfus ve Vatandaşlık İşleri.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Bir mübadilin hüviyet cüzdanı.JPG",
+   "ad": "091_cuzdan_mubadil.jpg"
+  },
+  {
+   "file": "File:Bir mübadilin hüviyet cüzdanı ve fotoğrafları.JPG",
+   "ad": "091_cuzdan_vitrin.jpg"
+  },
+  {
+   "file": "File:Potvrda za rodeni, 1862.jpg",
+   "ad": "091_dogum_belgesi.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, Ministry of Health, Ankara Boys’ High School (Stone Maktab - Taş Mektep), Numune Hospital, 1930s (16645155127).jpg",
+   "ad": "091_saglik_bak.jpg"
+  },
+  {
+   "file": "File:Cimetiere Turc à Scutari - Abdullah Frères. LCCN2003677079.jpg",
+   "ad": "091_mezarlik1.jpg"
+  },
+  {
+   "file": "File:Constantinople- Turkish Cemetery in Scutari (SM stf12).png",
+   "ad": "091_mezarlik2.jpg"
+  },
+  {
+   "file": "File:Republic of Turkey Identity Card (post-2016, back).png",
+   "ad": "091_kimlik_ornek.jpg"
+  },
+  {
+   "file": "File:Nüfus ve Vatandaşlık İşleri.jpg",
+   "ad": "091_nvi_bina.jpg"
+  }
+ ]
+}
