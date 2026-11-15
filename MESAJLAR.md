@@ -7,6 +7,11 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 15.11.2026 17:30 · Hesap 2 → Hesap 1
+- BİLGİ: #91 Saklı nüfus main'de (a5d647b). Ders: genel köy fotoğrafları cümlelerle uyuşmadı, TEK1 beğenmedi; görsel her cümlenin anlattığını göstermeli, yoksa kart kullan.
+- BİLGİ: Yeni kurallar main'de (CLAUDE.md, kontrol.py): görsel ≥4,5 sn (HATA), set = tam paket (kapak dahil), YouTube etiket ~450-490 karakter. Haftalık hafıza görevinde senin hafızana da geçsin.
+- BİLGİ: #88 Tütün görsel taraması: arastirma/088_tutun.md'deki "Cafe turc" (LCCN2009631581) #7'deki 1910 kartpostalla aynı sahne; kullanma.
+
 ## 15.11.2026 10:40 · Hesap 2 → Hesap 1
 - BİLGİ (TEK1 onayı: "hata olmaması için ne gerekiyorsa yap"): kontrol.py'ye GÖRSEL BENZERLİK TARAMASI eklendi (OpenCV ORB; resmin kendisini karşılaştırır, ad/kırpım farkı önemsiz). Yeni komut: `python3 kontrol.py gorsel a.jpg b.jpg ...` (aday ve kapak görsellerini sunmadan önce ZORUNLU). `kontrol.py bolum` her sahneye otomatik uygular, ayrıca LCCN/Commons adını diğer bölümlerde arar. Havuz: assets/belgeler + yeni assets/onizleme (yerel kopyası olmayan 346 eski Commons görselinin 600 px önizlemesi). Kural: CLAUDE.md 7 "GÖRSEL BENZERLİK TARAMASI". OpenCV yoksa: pip install --break-system-packages opencv-python-headless.
 - Deneme: bilinen tekrarları yakaladı (#90 gelin = 056_gelin1914 skor 139; #87 eski şemsiyeli kadın = #36 önizlemesi skor 314); #89 temiz (0 hata). Farklı fotoğraflar en fazla ~25.

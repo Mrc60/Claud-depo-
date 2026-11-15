@@ -1,4 +1,12 @@
-# DURUM — şu anki işler (son güncelleme: 15.11.2026 10:40, Hesap 2: görsel benzerlik taraması)
+# DURUM — şu anki işler (son güncelleme: 15.11.2026 17:30, Hesap 2: #91 main'de, yeni kurallar)
+
+## HESAP 2 (15.11.2026 17:30)
+- #91 ÖLEN KARDEŞİNİN KİMLİĞİYLE YAŞAYANLAR (saklı nüfus): main'de (a5d647b), TEK1 onaylı. TEK1 ilk sürümde görselleri sesle uyumsuz buldu; görseller cümlelere göre yeniden seçildi (cüzdan, doğum belgesi, mezarlık, 4 kart). 12 sahne, 81 sn. Yükleme seti ve kapak paketi TEK1'e verildi (kapak başlığı: "ÖLEN KARDEŞİNİN KİMLİĞİYLE YAŞADI"). Yayın TEK1'de.
+- #90 main'de (e7027d1), yayınlandı.
+- YENİ KURALLAR (TEK1, 15.11, main'de): görsel ~5 sn, 4,5 altı kontrol.py HATA; "Setleri ver" = yükleme seti + 3 kapak görseli + başlık + renk + ChatGPT talimatı tek mesajda; YouTube etiketleri ~450-490 karakter.
+- #88 TÜTÜN: görsel taraması yapıldı (12 temiz, çoğu gravür; Cafe turc ve 1910 kartpostal #7 tekrarı, elendi). TEK1 Tütün ile "Denize girme yasağı" arasında seçim yapacak.
+- DIZIN.md #63'te kalmış, güncel değil (dizin.py çalıştırılmalı, TEK1 onayıyla).
+- Sıradaki boş numara: 092.
 
 ## SOHBET OTURUMU (15.11.2026 10:42, Threads + TikTok yorumları)
 - Threads #90: haticeafak1.2 (TEK1 elle). TikTok #90: viealsace. TikTok son 16 video tarandı, 8 cevap (TEK1 onaylı, isReply true, defterde): #84, #81, #76 (sabit yorum altı), #75 x2, #74 x2, #71. Atlananlar defterde. Ders: Zernio liste sayısı önbellekli, en yeni gönderiyi doğrudan aç; Threads alıntıları Zernio'da yok.
