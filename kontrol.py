@@ -99,8 +99,8 @@ def metin_kontrol(yol):
 # ---------------- GÖRSEL BENZERLİĞİ (15.11.2026, #90 hatası) ----------------
 # Aynı fotoğraf başka adla / başka kırpımla indirilince md5 ve ad kontrolü yakalamıyordu
 # (#68, #87, #90). Burada resmin kendisi karşılaştırılır (ORB özellik eşleşmesi + RANSAC).
-# Skor = ortak nokta sayısı. Ölçüm: aynı fotoğraf 139, farklı fotoğraflar en fazla ~10.
-BENZER_HATA, BENZER_UYARI = 40, 20
+# Skor = ortak nokta sayısı. Ölçüm: aynı fotoğraf 139-675; farklı fotoğraf ~10, aynı kitap çerçevesindeki farklı fotoğraf 41 (yanlış alarm, bu yüzden HATA 60).
+BENZER_HATA, BENZER_UYARI = 60, 20
 
 
 def _cv():
