@@ -1,7 +1,7 @@
 # 091 Nüfus kaydı: "Büyüklerimiz neden 1 Ocak doğumlu?" (Claude raporu, Hesap 2, 15.11.2026)
 
 ## ÖZET (en üstte)
-- GÖRSEL: bulunan ilgili aday 23 | şu an kullanılabilir 1 (kesin) + 3 (TEK1 onayına bağlı: renkli/harita) | erişilemeyen 19 (LOC 12: Cloudflare bot engeli; SMVK İsveç Etnografya Müzesi 7: collections.smvk.se ağ izni yok) | gereken ~15-16 (74 sn / 4-5 sn).
+- GÖRSEL (güncel 15.11 13:10): kullanılabilir siyah-beyaz 5 (SMVK 1905-1907: Trabzon-Erzurum arası köy, Konya kuzeyi kervan, ahşap saban, Tarsus ekmek fırını; DGPI Ballıkpınar köylüleri 1930'lar) | TEK1 onayına bağlı 9 (SMVK 1960'lar RENKLİ köy fotoğrafları 6: bebekli köylü anneler 4, köy kadınları, köy çocukları; renkli harita 2; renkli kimlik 1) | erişilemeyen LOC 12 (Cloudflare) | kontrol.py gorsel: 20 SMVK adayı 0 hata | gereken ~15-16. Lisans: SMVK CC0.
 - Eksik sahneler: kışın kapalı köy yolu, muhtar, nüfus dairesi/kütük, 1934 taraması, bebek/anne, hastane doğum belgesi.
 - DOĞRULAMA: 9 iddia, 7'si 2+ kaynakla doğrulandı; 2'si tek kaynak (Torun & Tumen 2017: "60 yaş üstünün %35'i Ocak" ve "muhtar baharda topluca bildirir, 1 Ocak yazılır"). Kaynak sayısı 7.
 - KONU DEĞİŞİKLİĞİ: "Yaşarsa nüfusa yazdırırız" (bebek ölümü yüzünden geç kayıt) iddiası akademik kaynakta BULUNAMADI (4 arama). Belgelenen asıl hikâye: kış/muhtar yüzünden 1 Ocak yığılması + 1934 gizli nüfus taraması. Konu buna daraltıldı.
