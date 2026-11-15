@@ -1,26 +1,56 @@
 {
  "bolum": "091_nufus",
  "min_w": 600,
- "sorgular": [
-  "LCCN2010648359",
-  "LCCN2010647214",
-  "LCCN2010647238",
-  "LCCN2010648447",
-  "LCCN2010647237",
-  "LCCN2010647236",
-  "LCCN2016651973",
-  "LCCN2010647240",
-  "LCCN2010648360",
-  "LCCN2016651976",
-  "LCCN2010648363",
-  "LCCN2010647229",
-  "Sekili",
-  "Djerid Muminli",
-  "Ceritmüminli",
-  "Alaca Çorum 1921",
-  "Peace Corps Turkey village",
-  "Near East Relief Turkey village 1921"
- ],
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "loc": "2010648359",
+   "ad": "091_karda_kizlar.jpg"
+  },
+  {
+   "loc": "2010647214",
+   "ad": "091_cocuklar_koy.jpg"
+  },
+  {
+   "loc": "2010647238",
+   "ad": "091_alaca_meydan.jpg"
+  },
+  {
+   "loc": "2010648447",
+   "ad": "091_cerit_koylu.jpg"
+  },
+  {
+   "loc": "2010647237",
+   "ad": "091_yozgat.jpg"
+  },
+  {
+   "loc": "2010647236",
+   "ad": "091_sekili.jpg"
+  },
+  {
+   "loc": "2016651973",
+   "ad": "091_anneler_bebek1964.jpg"
+  },
+  {
+   "loc": "2010647240",
+   "ad": "091_corum.jpg"
+  },
+  {
+   "loc": "2010648360",
+   "ad": "091_misafirhane.jpg"
+  },
+  {
+   "loc": "2016651976",
+   "ad": "091_kuyu1962.jpg"
+  },
+  {
+   "loc": "2010648363",
+   "ad": "091_jandarma.jpg"
+  },
+  {
+   "loc": "2010647229",
+   "ad": "091_han.jpg"
+  }
+ ]
 }

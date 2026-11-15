@@ -85,6 +85,20 @@ if indir:
     kunye = []
     gen = int(cfg.get("indir_genislik", 1920))
     for it in indir:
+        if it.get("loc"):  # Library of Congress öğesi: {"loc": "2010648359", "ad": "x.jpg"}
+            try:
+                d = requests.get(f"https://www.loc.gov/item/{it['loc']}/?fo=json", headers=HEADERS, timeout=60).json()
+                fl = [f for grp in d.get("resources", [{}])[0].get("files", []) for f in grp if f.get("mimetype") == "image/jpeg"]
+                best = sorted(fl, key=lambda f: f.get("width") or 0)[-1]
+                im = Image.open(io.BytesIO(requests.get(best["url"], headers=HEADERS, timeout=90).content)).convert("RGB")
+                im.save(f"{OUT}/paket/{it['ad']}", quality=90)
+                itm = d.get("item", {})
+                kunye.append(f"{it['ad']} | LOC {it['loc']} | {itm.get('title', '')[:90]} | {itm.get('rights_advisory') or ''} | {itm.get('created_published') or ''}")
+                print("indirildi:", it["ad"], im.size)
+                time.sleep(2)
+            except Exception as e:
+                print("İNDİRİLEMEDİ (LOC):", it["loc"], e)
+            continue
         try:
             pages = api(action="query", prop="imageinfo", titles=it["file"], iiprop="url|extmetadata",
                         iiurlwidth=gen).get("query", {}).get("pages", [])
