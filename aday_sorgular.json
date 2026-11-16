@@ -1,22 +1,40 @@
 {
- "bolum": "094h2",
+ "bolum": "094",
  "min_w": 400,
- "sorgular": [
-  "Second Turkish Grand National Assembly building Ankara",
-  "Republic Museum Ankara 1930s",
-  "Grand National Assembly Ankara 1940s",
-  "Kırşehir",
-  "Cacabey Mosque Kırşehir",
-  "Ankara Ulus 1950s",
-  "Ankara 1951",
-  "Turkish newspaper 1951",
-  "Ankara courthouse 1940s",
-  "Atatürk bust 1940s",
-  "Atatürk Boulevard 1940s Ankara",
-  "Turkey 1950 village mosque",
-  "sculpture studio Turkey 1930s",
-  "Halkevi Ankara"
- ],
+ "sorgular": [],
  "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Güven Park and Güven Monument (The Monument of Safety), 1940s (17060228996).jpg",
+   "ad": "094_guven.jpg"
+  },
+  {
+   "file": "File:Atatürk Boulevard, General Directorate of Turkish Red Crescent (Kızılay Genel Müdürlüğü), Yenişehir Apartment Blocks, 1950s (16666318899).jpg",
+   "ad": "094_bulvar.jpg"
+  },
+  {
+   "file": "File:Kızılay and Güven Parks, Cemil Uybadın Villa, 1940s (16666318099).jpg",
+   "ad": "094_kizilay_park.jpg"
+  },
+  {
+   "file": "File:Turkey. Ankara. Equestrian statue of Ata-Turk (i.e., Ataturk) between old & new Ankara LOC matpc.16721.jpg",
+   "ad": "094_ulus_heykel2.jpg"
+  },
+  {
+   "file": "File:Turkey. Ankara. Statue of peasant woman carrying a shell below Ataturk LOC matpc.16723.jpg",
+   "ad": "094_koylu_kadin.jpg"
+  },
+  {
+   "file": "File:Turkey. Ankara. Statue of Attaturk (i.e., Ataturk) LOC matpc.16724.jpg",
+   "ad": "094_ulus_heykel.jpg"
+  },
+  {
+   "file": "File:2nd Turkish Grand National Assembly, late 1940s (16665085570).jpg",
+   "ad": "094_meclis.jpg"
+  },
+  {
+   "file": "File:Turkey. Ankara. Main boulevard to Yeni Shehir showing govt. (i.e., government) buildings LOC matpc.16730.jpg",
+   "ad": "094_yenisehir.jpg"
+  }
+ ]
 }
