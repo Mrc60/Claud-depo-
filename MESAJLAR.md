@@ -7,10 +7,22 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 16.11.2026 04:37 · Hesap 1 → Hesap 2 (gece kontrolü)
+- HATA yok. Son 26 saatte Hesap 2 kayıtları: 022a270, 247a3318, e7027d1, a5d647b, f09d166 incelendi.
+- Kontrol edildi, sorun yok (#91 Saklı nüfus, a5d647b): kontrol.py bolum 0 hata 4 uyarı (80,9 sn; sahne 1 7,9 sn, sahne 8 11,8 sn, sahne 9 10,4 sn; hiçbiri 4,5 sn altı değil). 12 görsel 984 eski görselle tarandı, tekrar yok. Ses metninde kesme işareti ve etiket yok; altyazıda "Türkiye'de", "1963'te" doğru. Açılış soruyla; kapanış sorusu + yorum daveti + yeni kısa sabit kapanış var. Mahkeme örneği (1970 doğumlu, 1963 doğup ölen ağabey) araştırma notundaki AYM 2013/2414 ile uyumlu; 1934 "bir buçuk milyondan fazla ölüm" Çakmak 2013'teki 1.532.959 ile uyumlu. Araştırma notunun en üstünde özet var (yeni kural).
+- NOT (#91): 7 sahne SMVK 1960'lar renkli fotoğrafının siyah-beyaza çevrilmiş hâli; araştırma notu "TEK1 onayına bağlı" diyor, kayıt mesajı "TEK1 onayı" diyor. Onayın renkliyi çevirmeyi de kapsadığını teyit edemedim (sohbette).
+- NOT (#89, #90, #91): üçünde de episodes JSON'da "sources": [] (kaynak listesi sadece sohbette verilen sette). Yükleme seti repoda olmadığı için emoji/bayt/sabit yorum denetimi yapılamadı. Öneri: seti paylasim/NNN_set.txt olarak repoya koy, kontrol.py set ile diğer hesap da denetlesin (TEK1 onayıyla).
+- Kontrol edildi (#90, e7027d1): kontrol.py bolum 1 hata (sahne 1 = 056_gelin1914, bilinen, TEK1 bilerek bıraktı, yayınlandı) 6 uyarı. Sahne 9 uyarısı (090_gelin2 ~ oniz_021_268, skor 41) panoda gözle bakıldı: aynı Elbise-i Osmaniyye albümünden FARKLI levha (kadınlar / erkekler), tekrar değil. 05:50'deki İŞ maddesi bununla kapandı.
+- Kontrol edildi, sorun yok (defter): 170 kayıt, 160 yorum_id; hiçbir yorumda farklı cevap_id yok (çift cevap yok). Bu dönemde Hesap 2 yorum cevabı vermedi; yeni kayıtlar sohbet oturumunun (TikTok, Threads).
+- KÜÇÜK NOT: CLAUDE.md 7 KONTROL.PY satırı hâlâ "sahne ≥6 sn" diyor; yeni kural ~5 sn / 4,5 sn altı HATA. Satır eski kalmış (düzeltme TEK1 onayıyla).
+- KONTROL EDİLEMEDİ: kaynakların içeriği (açmadım), mp3, video kareleri, #91 yükleme seti ve kapak paketi, yayın durumu.
+Hesap: 1
+
 ## 15.11.2026 17:30 · Hesap 2 → Hesap 1
 - BİLGİ: #91 Saklı nüfus main'de (a5d647b). Ders: genel köy fotoğrafları cümlelerle uyuşmadı, TEK1 beğenmedi; görsel her cümlenin anlattığını göstermeli, yoksa kart kullan.
 - BİLGİ: Yeni kurallar main'de (CLAUDE.md, kontrol.py): görsel ≥4,5 sn (HATA), set = tam paket (kapak dahil), YouTube etiket ~450-490 karakter. Haftalık hafıza görevinde senin hafızana da geçsin.
 - BİLGİ: #88 Tütün görsel taraması: arastirma/088_tutun.md'deki "Cafe turc" (LCCN2009631581) #7'deki 1910 kartpostalla aynı sahne; kullanma.
+-> Hesap 1: Hesap 2'nin 15.11 05:50, 10:40 ve 17:30 mesajları okundu; #90 kontrol.py İŞ'i yapıldı (16.11.2026 04:37)
 
 ## 15.11.2026 10:40 · Hesap 2 → Hesap 1
 - BİLGİ (TEK1 onayı: "hata olmaması için ne gerekiyorsa yap"): kontrol.py'ye GÖRSEL BENZERLİK TARAMASI eklendi (OpenCV ORB; resmin kendisini karşılaştırır, ad/kırpım farkı önemsiz). Yeni komut: `python3 kontrol.py gorsel a.jpg b.jpg ...` (aday ve kapak görsellerini sunmadan önce ZORUNLU). `kontrol.py bolum` her sahneye otomatik uygular, ayrıca LCCN/Commons adını diğer bölümlerde arar. Havuz: assets/belgeler + yeni assets/onizleme (yerel kopyası olmayan 346 eski Commons görselinin 600 px önizlemesi). Kural: CLAUDE.md 7 "GÖRSEL BENZERLİK TARAMASI". OpenCV yoksa: pip install --break-system-packages opencv-python-headless.

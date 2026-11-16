@@ -1,4 +1,9 @@
-# DURUM — şu anki işler (son güncelleme: 15.11.2026 17:30, Hesap 2: #91 main'de, yeni kurallar)
+# DURUM — şu anki işler (son güncelleme: 16.11.2026 04:37, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (16.11.2026 04:37, Hesap 1)
+- Hesap 2'nin son 26 saatteki kayıtlarında HATA yok. #91 kontrol.py 0 hata 4 uyarı (80,9 sn). #90 bilinen tekrar dışında temiz. Defterde çift cevap yok.
+- #89, #90, #91 JSON'larında kaynak listesi boş; yükleme setleri repoda yok (denetlenemedi).
+- TEK1'İN BEKLEYEN KARARLARI: #91 yayın; #88 Tütün mü "Denize girme yasağı" mı; #85 Kira yükleme seti/yayın; #84 hoca/falaka görseli; DIZIN.md güncellemesi; yükleme setlerini repoya koyma önerisi; CLAUDE.md 8 "sadece ana yorum" çelişkisi; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## HESAP 2 (15.11.2026 17:30)
 - #91 ÖLEN KARDEŞİNİN KİMLİĞİYLE YAŞAYANLAR (saklı nüfus): main'de (a5d647b), TEK1 onaylı. TEK1 ilk sürümde görselleri sesle uyumsuz buldu; görseller cümlelere göre yeniden seçildi (cüzdan, doğum belgesi, mezarlık, 4 kart). 12 sahne, 81 sn. Yükleme seti ve kapak paketi TEK1'e verildi (kapak başlığı: "ÖLEN KARDEŞİNİN KİMLİĞİYLE YAŞADI"). Yayın TEK1'de.
