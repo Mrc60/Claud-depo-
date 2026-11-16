@@ -110,7 +110,33 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
 - Kapak: Kapağı TEK1 ChatGPT'de kendisi yapar. Sen sadece 2–3 arka plan fotoğrafı ve başlık fikri verirsin. Eski kapak tarzı istenir, yıpranma efekti hafif olsun.
 - KAPAK TALİMATI (TEK1 kararı, 04.11.2026, kesin): Her kapakta 2-3 arka plan görseli + başlık önerisi + ChatGPT talimatı ver. Talimatta: yazılar KALIN; başlık kapağın ORTASINDA (dikey ortada; üstte olursa bazı platformlarda kesik çıkıyor, üst ve alt %20'ye yazı koyma); dikkat çeken ama videoya ve fotoğrafa uyumlu renk (siyah-beyaz fotoğrafa altın sarısı/kehribar + beyaz, videodaki vurgu rengiyle aynı); fotoğrafı değiştirme/yeniden çizme, siyah-beyaz kalsın, hafif eski kâğıt dokusu; yazıyı kapatan koyu kutu yok, ince kontur/gölge olabilir.
 - KAPAK GÖRSELLERİ (TEK1 kararı, 12.11.2026, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Ekte verdiğim görsellerin hepsini kapakta kullan." Talimat tek görsele göre yazılmasın.
-- KAPAK ÜST BOŞLUK (TEK1 kararı, 12.11.2026, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Kapağın üst kısmında yüksekliğin %12'si kadar boş alan bırak; bu alana yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma." Sebep: platformlar kapağın üstünü kesiyor, görseller kesik kalıyor.
+- KAPAK ÜST VE ALT BOŞLUK (TEK1 kararı, 12.11.2026; alt boşluk 16.11.2026: %10, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %10'u kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma." Sebep: platformlar kapağın üstünü ve altını kesiyor.
+- KAPAK TALİMAT ŞABLONU (TEK1, 16.11.2026, kesin): ChatGPT kapak talimatı HER ZAMAN bu şablonla yazılır; köşeli parantezli yerler bölüme göre doldurulur:
+```
+Bu kapağı KENDİ GÖRSEL ÜRETİM ARACINLA tasarla. Python, kod ya da basit kolaj kullanma; düz kâğıda fotoğraf dizme. Dikkat çekici, sinematik, profesyonel bir YouTube Shorts kapağı istiyorum.
+
+Format: dikey 9:16.
+
+Stil: 1900'lerin başından kalma eski bir gazete ya da afiş havası. Sararmış ve yer yer yırtılmış kâğıt katmanları, kenarlarda yanık ve yıpranma izleri, kâğıt dokusu, hafif gren. Yazıların arkasında yırtık kâğıt şeritler ve [RENK 2 adı (#KOD)] fırça darbesi bantlar. Derinlik, ışık ve gölge olsun; düz ve boş görünmesin.
+
+Fotoğraflar: Ekteki [N] gerçek fotoğrafın hepsini kullan; yırtık kâğıt parçaları ya da eski fotoğraf kartları gibi kompozisyona yerleştir. [ANA FOTOĞRAF] en büyük ve ön planda olsun. Fotoğraflardaki kişilerin yüzlerini, sayısını ve kıyafetlerini DEĞİŞTİRME; yeni kişi ÜRETME. Fotoğraflar siyah-beyaz ya da sepya kalsın, renklendirme yok. Yüzler kesilmesin.
+
+Arka plan: Fotoğrafların arkasına [KONUYA UYGUN DEKOR, ör. eski İstanbul silueti], sis ve eski kâğıt dokusu ekleyebilirsin; ama arka planda da insan figürü üretme.
+
+Logo: Hiçbir logo veya arma koyma.
+
+Boşluklar: Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %10'u kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma.
+
+Başlık: Kapağın ORTASINDA, çok büyük ve kalın, eski afiş harfleri gibi, iki satır:
+"[SATIR 1]
+[SATIR 2]"
+"[SATIR 1]" [RENK 1 adı (#KOD)], "[SATIR 2]" kırık beyaz yazıyla [RENK 2] fırça darbesi bandın üstünde. Yazılarda hafif yıpranma ve gölge olsun, ama net okunsun.
+
+Altta küçük ve kalın (alt %10'luk boşluğun üstünde): "Sıradan Değil[ · Seri: ...]"
+
+Cevabını bana kopyalanabilir formatta ver.
+```
+- KAPAK TASARIMI (TEK1, 16.11.2026): Talimatta ChatGPT'nin KENDİ görsel üretim aracıyla sinematik, eski gazete/afiş havasında tasarlaması istenir; "sadece yerleştir" yazılırsa kodla düz kolaj yapıyor (#93'te basit çıktı). Gerçek fotoğraflardaki kişiler değiştirilmez, sahte kişi/logo üretilmez.
 - KAPAK RENGİ (05.11.2026, hata dersi): Kapak yazı renklerini her videoda konuya ve fotoğrafa göre ayrı seç; hep beyaz + altın yazma. Arka arkaya iki kapakta aynı renk çifti olmasın. Talimatta rengin adını ve kod değerini (#RRGGBB) yaz, neden seçtiğini bir cümleyle söyle (ör. kaymak: krem + bordo, alfabe: taş grisi + gök mavisi).
 
 ## 7. YÜKLEME SETİ
