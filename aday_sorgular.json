@@ -1,1 +1,29 @@
-{"bolum":"094t","min_w":500,"sorgular":["Zawiya Tijaniyya Fes","Tijani zawiya Fez","Ahmad al-Tijani mausoleum","Prime Ministry building Ankara 1940s","Başbakanlık Ankara","Ankara courthouse 1930s","Adliye Sarayı Ankara","Ministry of Justice Ankara 1930s","Victory Monument Ulus Ankara","Zafer Anıtı Ulus"],"incele":[],"indir":[]}
+{
+ "bolum": "094d",
+ "min_w": 400,
+ "sorgular": [],
+ "incele": [
+  "File:Zaouiya Tidjaniya de Fès - facade.jpg",
+  "File:State Neighbourhood (Devlet Mahallesi), 1940s (16666317939).jpg",
+  "File:Republic Boulevard from Victory Monument in Ulus Square to Ankara Railway Station, 1937 (16645160627).jpg",
+  "File:Ankara Victory Monument Atatürk equestrain statue at top in 2019 15.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Zaouiya Tidjaniya de Fès - facade.jpg",
+   "ad": "094_zaviye.jpg"
+  },
+  {
+   "file": "File:State Neighbourhood (Devlet Mahallesi), 1940s (16666317939).jpg",
+   "ad": "094_devlet_mahallesi.jpg"
+  },
+  {
+   "file": "File:Republic Boulevard from Victory Monument in Ulus Square to Ankara Railway Station, 1937 (16645160627).jpg",
+   "ad": "094_ulus1937.jpg"
+  },
+  {
+   "file": "File:Ankara Victory Monument Atatürk equestrain statue at top in 2019 15.jpg",
+   "ad": "094_heykel2019.jpg"
+  }
+ ]
+}
