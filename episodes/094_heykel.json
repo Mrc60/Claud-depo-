@@ -189,18 +189,18 @@
     "Kırşehir"
    ],
    "image": {
-    "local": "assets/belgeler/094_koylu_kadin.jpg",
+    "local": "assets/belgeler/094_ulus_heykel2.jpg",
     "fit": "doldur",
-    "baslik": "Ulus anıtındaki köylü kadın heykeli, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "baslik": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "lisans": "",
-    "kaynak": "Ulus anıtındaki köylü kadın heykeli, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "kaynak": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.1,
-     0.025,
-     0.9,
-     0.86
+     0.24,
+     0.05,
+     0.56,
+     0.74
     ]
    },
    "scene": "photo",
@@ -274,13 +274,19 @@
     "Ticani"
    ],
    "image": {
-    "local": "assets/belgeler/085_ankara_kale1950.jpg",
+    "local": "assets/belgeler/094_zaviye.jpg",
     "fit": "doldur",
-    "baslik": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi",
+    "baslik": "Ticani tarikatının Fas'taki merkezi, Fes zaviyesi (günümüz, siyah-beyaza çevrildi) · Mourad07 / Wikimedia Commons, CC BY-SA 4.0",
     "lisans": "",
-    "kaynak": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi",
+    "kaynak": "Ticani tarikatının Fas'taki merkezi, Fes zaviyesi (günümüz, siyah-beyaza çevrildi) · Mourad07 / Wikimedia Commons, CC BY-SA 4.0",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0,
+     0.75,
+     1
+    ]
    },
    "scene": "photo",
    "bolumler": [
@@ -360,21 +366,21 @@
    "say": "Peki devlet ne yaptı? Mayıs ayında iktidardaki Demokrat Parti, Atatürkü ve heykellerini koruyacak bir kanun tasarısı getirdi.",
    "caption": "Peki devlet ne yaptı? Mayıs ayında iktidardaki Demokrat Parti, Atatürk'ü ve heykellerini koruyacak bir kanun tasarısı getirdi.",
    "key": [
-    "devlet"
+    "Meclis"
    ],
    "image": {
-    "local": "assets/belgeler/094_yenisehir.jpg",
+    "local": "assets/belgeler/094_meclis.jpg",
     "fit": "doldur",
-    "baslik": "Yenişehir bulvarı ve devlet binaları, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "baslik": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Yenişehir bulvarı ve devlet binaları, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "kaynak": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.33,
-     0.05,
-     0.76,
-     0.92
+     0.38,
+     0,
+     0.82,
+     1
     ]
    },
    "scene": "photo",
@@ -593,17 +599,17 @@
     "Hükümet"
    ],
    "image": {
-    "local": "assets/belgeler/094_meclis.jpg",
+    "local": "assets/belgeler/094_devlet_mahallesi.jpg",
     "fit": "doldur",
-    "baslik": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "baslik": "Devlet Mahallesi, Ankara, 1940'lar · DGPI arşivi, kısıtlamasız",
     "lisans": "",
-    "kaynak": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "kaynak": "Devlet Mahallesi, Ankara, 1940'lar · DGPI arşivi, kısıtlamasız",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.38,
+     0.29,
      0,
-     0.82,
+     0.71,
      1
     ]
    },
@@ -668,17 +674,17 @@
     "Ankara"
    ],
    "image": {
-    "local": "assets/belgeler/094_guven.jpg",
+    "local": "assets/belgeler/094_ulus_dikey.jpg",
     "fit": "doldur",
-    "baslik": "Güvenlik Anıtı, Ankara, 1940'lar · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "baslik": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "lisans": "",
-    "kaynak": "Güvenlik Anıtı, Ankara, 1940'lar · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "kaynak": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.1,
+     0.05,
      0,
-     0.54,
+     0.96,
      1
     ]
    },
@@ -763,17 +769,17 @@
     "5816"
    ],
    "image": {
-    "local": "assets/belgeler/094_kizilay_park.jpg",
+    "local": "assets/belgeler/094_rg7872.jpg",
     "fit": "doldur",
-    "baslik": "Kızılay ve Güven parkları, Ankara, 1940'lar · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "baslik": "Resmî Gazete, 31 Temmuz 1951, sayı 7872: 5816 sayılı Kanun · kamu belgesi",
     "lisans": "",
-    "kaynak": "Kızılay ve Güven parkları, Ankara, 1940'lar · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "kaynak": "Resmî Gazete, 31 Temmuz 1951, sayı 7872: 5816 sayılı Kanun · kamu belgesi",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.29,
+     0.108,
      0,
-     0.71,
+     0.892,
      1
     ]
    },
@@ -938,18 +944,18 @@
     "heykel"
    ],
    "image": {
-    "local": "assets/belgeler/094_ulus_heykel2.jpg",
+    "local": "assets/belgeler/094_ulus1937.jpg",
     "fit": "doldur",
-    "baslik": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "baslik": "Ulus Zafer Anıtı ve Cumhuriyet Bulvarı, 1937 · DGPI arşivi, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "kaynak": "Ulus Zafer Anıtı ve Cumhuriyet Bulvarı, 1937 · DGPI arşivi, kısıtlamasız",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.24,
-     0.05,
-     0.56,
-     0.74
+     0,
+     0.3,
+     0.6,
+     1
     ]
    },
    "scene": "photo",
@@ -1018,18 +1024,18 @@
     "yürürlükte"
    ],
    "image": {
-    "local": "assets/belgeler/094_bulvar.jpg",
+    "local": "assets/belgeler/094_heykel2019.jpg",
     "fit": "doldur",
-    "baslik": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "baslik": "Ulus Zafer Anıtı, Atatürk heykeli (günümüz, siyah-beyaza çevrildi) · Dosseman / Wikimedia Commons, CC BY-SA 4.0",
     "lisans": "",
-    "kaynak": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "kaynak": "Ulus Zafer Anıtı, Atatürk heykeli (günümüz, siyah-beyaza çevrildi) · Dosseman / Wikimedia Commons, CC BY-SA 4.0",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.12,
+     0.28,
      0,
      0.7,
-     1
+     0.9
     ]
    },
    "scene": "photo",
@@ -1083,13 +1089,19 @@
     "kaynaklar"
    ],
    "image": {
-    "local": "assets/belgeler/085_bentderesi1950.jpg",
+    "local": "assets/belgeler/094_bulvar.jpg",
     "fit": "doldur",
-    "baslik": "Bentderesi, Ankara, 1950'ler · Basın Yayın Genel Müdürlüğü arşivi",
+    "baslik": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Bentderesi, Ankara, 1950'ler · Basın Yayın Genel Müdürlüğü arşivi",
+    "kaynak": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0,
+     0.7,
+     1
+    ]
    },
    "scene": "photo",
    "bolumler": [
