@@ -1,0 +1,1360 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 93,
+ "slug": "galatasaray",
+ "title": "Galatasaray'ı Kim Kurdu",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Galatasaray'ın adını\nseyirciler koydu",
+ "dis_ses": {
+  "file": "assets/ses/093_galatasaray.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     6.72
+    ]
+   ],
+   [
+    [
+     6.72,
+     13.14
+    ]
+   ],
+   [
+    [
+     13.14,
+     19.06
+    ]
+   ],
+   [
+    [
+     19.06,
+     24.37
+    ]
+   ],
+   [
+    [
+     24.37,
+     31.42
+    ]
+   ],
+   [
+    [
+     31.42,
+     38.8
+    ]
+   ],
+   [
+    [
+     38.8,
+     44.68
+    ]
+   ],
+   [
+    [
+     44.68,
+     49.24
+    ]
+   ],
+   [
+    [
+     49.24,
+     57.74
+    ]
+   ],
+   [
+    [
+     57.74,
+     65.06
+    ]
+   ],
+   [
+    [
+     65.06,
+     75.26
+    ]
+   ],
+   [
+    [
+     75.26,
+     79.92
+    ]
+   ],
+   [
+    [
+     79.92,
+     85.62
+    ]
+   ],
+   [
+    [
+     85.62,
+     98.51
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Galatasarayın adını, kulübü kuranlar koymadı. İlk maçı izleyen seyirciler koydu. Peki nasıl?",
+   "caption": "Galatasaray'ın adını, kulübü kuranlar koymadı. İlk maçı izleyen seyirciler koydu. Peki nasıl?",
+   "key": [
+    "Galatasaray"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_kurucular.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray'ın kurucuları · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray'ın kurucuları · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.92,
+     "n": 1
+    },
+    {
+     "start": 0.92,
+     "end": 1.52,
+     "n": 1
+    },
+    {
+     "start": 1.7,
+     "end": 2.04,
+     "n": 1
+    },
+    {
+     "start": 2.04,
+     "end": 2.44,
+     "n": 1
+    },
+    {
+     "start": 2.44,
+     "end": 3.36,
+     "n": 1
+    },
+    {
+     "start": 3.54,
+     "end": 3.76,
+     "n": 1
+    },
+    {
+     "start": 3.76,
+     "end": 4.1,
+     "n": 1
+    },
+    {
+     "start": 4.1,
+     "end": 4.44,
+     "n": 1
+    },
+    {
+     "start": 4.44,
+     "end": 5.08,
+     "n": 1
+    },
+    {
+     "start": 5.08,
+     "end": 5.84,
+     "n": 1
+    },
+    {
+     "start": 5.94,
+     "end": 6.24,
+     "n": 1
+    },
+    {
+     "start": 6.24,
+     "end": 6.6,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1905te Mekteb-i Sultaninin, yani bugünkü Galatasaray Lisesinin öğrencileri,",
+   "caption": "1905'te Mekteb-i Sultani'nin, yani bugünkü Galatasaray Lisesi'nin öğrencileri,",
+   "key": [
+    "Mekteb-i Sultani"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_ms_bina1.jpg",
+    "fit": "doldur",
+    "baslik": "Mekteb-i Sultani (bugünkü Galatasaray Lisesi), 1880-1893 · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Mekteb-i Sultani (bugünkü Galatasaray Lisesi), 1880-1893 · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 7.52,
+     "end": 8.32,
+     "n": 1
+    },
+    {
+     "start": 8.32,
+     "end": 8.84,
+     "n": 1
+    },
+    {
+     "start": 8.84,
+     "end": 9.74,
+     "n": 1
+    },
+    {
+     "start": 10.22,
+     "end": 10.34,
+     "n": 1
+    },
+    {
+     "start": 10.34,
+     "end": 10.78,
+     "n": 1
+    },
+    {
+     "start": 10.78,
+     "end": 11.54,
+     "n": 1
+    },
+    {
+     "start": 11.54,
+     "end": 12.08,
+     "n": 1
+    },
+    {
+     "start": 12.08,
+     "end": 13.02,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "bir edebiyat dersi sırasında futbol kulübü kurmaya karar verdi. Başlarında Ali Sami vardı.",
+   "caption": "bir edebiyat dersi sırasında futbol kulübü kurmaya karar verdi. Başlarında Ali Sami vardı.",
+   "key": [
+    "Ali Sami"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_yonetim.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray yönetimi; sağ üstte kurucu Ali Sami Bey, İdman dergisi · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray yönetimi; sağ üstte kurucu Ali Sami Bey, İdman dergisi · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 13.3,
+     "end": 13.42,
+     "n": 1
+    },
+    {
+     "start": 13.42,
+     "end": 13.94,
+     "n": 1
+    },
+    {
+     "start": 13.94,
+     "end": 14.3,
+     "n": 1
+    },
+    {
+     "start": 14.3,
+     "end": 14.84,
+     "n": 1
+    },
+    {
+     "start": 14.84,
+     "end": 15.36,
+     "n": 1
+    },
+    {
+     "start": 15.36,
+     "end": 15.76,
+     "n": 1
+    },
+    {
+     "start": 15.76,
+     "end": 16.1,
+     "n": 1
+    },
+    {
+     "start": 16.1,
+     "end": 16.52,
+     "n": 1
+    },
+    {
+     "start": 16.52,
+     "end": 16.76,
+     "n": 1
+    },
+    {
+     "start": 17.24,
+     "end": 17.88,
+     "n": 1
+    },
+    {
+     "start": 17.88,
+     "end": 18.24,
+     "n": 1
+    },
+    {
+     "start": 18.24,
+     "end": 18.52,
+     "n": 1
+    },
+    {
+     "start": 18.52,
+     "end": 18.94,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama takımın henüz adı yoktu. İlk maçlarına adsız çıktılar. Rakip,",
+   "caption": "Ama takımın henüz adı yoktu. İlk maçlarına adsız çıktılar. Rakip,",
+   "key": [
+    "adsız"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_mektebisultani.jpg",
+    "fit": "doldur",
+    "baslik": "Mekteb-i Sultani öğrencileri · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Mekteb-i Sultani öğrencileri · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 19.32,
+     "end": 19.62,
+     "n": 1
+    },
+    {
+     "start": 19.62,
+     "end": 20.24,
+     "n": 1
+    },
+    {
+     "start": 20.24,
+     "end": 20.58,
+     "n": 1
+    },
+    {
+     "start": 20.58,
+     "end": 20.82,
+     "n": 1
+    },
+    {
+     "start": 20.82,
+     "end": 21.32,
+     "n": 1
+    },
+    {
+     "start": 21.5,
+     "end": 21.76,
+     "n": 1
+    },
+    {
+     "start": 21.76,
+     "end": 22.36,
+     "n": 1
+    },
+    {
+     "start": 22.36,
+     "end": 22.82,
+     "n": 1
+    },
+    {
+     "start": 22.82,
+     "end": 23.42,
+     "n": 1
+    },
+    {
+     "start": 23.84,
+     "end": 24.28,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kadıköydeki Faure Mektebiydi. Sahaysa Papazın Çayırı. Yani bugün Fenerbahçe stadının bulunduğu yer.",
+   "caption": "Kadıköy'deki Faure Mektebi'ydi. Sahaysa Papazın Çayırı. Yani bugün Fenerbahçe stadının bulunduğu yer.",
+   "key": [
+    "ilk maç"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_union_kadikoy.jpg",
+    "fit": "doldur",
+    "baslik": "Kadıköy'de bir spor sahası, 20. yüzyıl başı · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Kadıköy'de bir spor sahası, 20. yüzyıl başı · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 24.46,
+     "end": 25.16,
+     "n": 1
+    },
+    {
+     "start": 25.16,
+     "end": 25.62,
+     "n": 1
+    },
+    {
+     "start": 25.62,
+     "end": 26.46,
+     "n": 1
+    },
+    {
+     "start": 26.74,
+     "end": 27.38,
+     "n": 1
+    },
+    {
+     "start": 27.54,
+     "end": 27.94,
+     "n": 1
+    },
+    {
+     "start": 27.94,
+     "end": 28.46,
+     "n": 1
+    },
+    {
+     "start": 28.46,
+     "end": 28.86,
+     "n": 1
+    },
+    {
+     "start": 28.86,
+     "end": 29.38,
+     "n": 1
+    },
+    {
+     "start": 29.38,
+     "end": 30.06,
+     "n": 1
+    },
+    {
+     "start": 30.06,
+     "end": 30.5,
+     "n": 1
+    },
+    {
+     "start": 30.5,
+     "end": 31.08,
+     "n": 1
+    },
+    {
+     "start": 31.08,
+     "end": 31.3,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "10 KASIM 1905 · İLK MAÇ",
+    "baslik": "Galatasaray - Faure Mektebi",
+    "bekle": 0.6,
+    "maddeler": [
+     "Yer: Kadıköy",
+     "Saha: Papazın Çayırı"
+    ],
+    "basla": -0.11,
+    "zamanlar": [
+     0.49,
+     3.17
+    ]
+   }
+  },
+  {
+   "say": "Galatasaray bu ilk maçı iki sıfır kazandı. Maçı izleyenler de bu gençlere Galata Sarayı efendileri dedi.",
+   "caption": "Galatasaray bu ilk maçı iki sıfır kazandı. Maçı izleyenler de bu gençlere Galata Sarayı efendileri dedi.",
+   "key": [
+    "isim"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_galata_kopru.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Köprüsü ve Galata, 1880-1893 · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata Köprüsü ve Galata, 1880-1893 · Abdullah Frères / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.74,
+     "end": 32.36,
+     "n": 1
+    },
+    {
+     "start": 32.36,
+     "end": 32.66,
+     "n": 1
+    },
+    {
+     "start": 32.66,
+     "end": 32.94,
+     "n": 1
+    },
+    {
+     "start": 32.94,
+     "end": 33.48,
+     "n": 1
+    },
+    {
+     "start": 33.48,
+     "end": 33.68,
+     "n": 1
+    },
+    {
+     "start": 33.68,
+     "end": 33.94,
+     "n": 1
+    },
+    {
+     "start": 33.94,
+     "end": 34.72,
+     "n": 1
+    },
+    {
+     "start": 34.92,
+     "end": 35.22,
+     "n": 1
+    },
+    {
+     "start": 35.22,
+     "end": 35.82,
+     "n": 1
+    },
+    {
+     "start": 35.82,
+     "end": 36.06,
+     "n": 1
+    },
+    {
+     "start": 36.06,
+     "end": 36.24,
+     "n": 1
+    },
+    {
+     "start": 36.24,
+     "end": 36.82,
+     "n": 1
+    },
+    {
+     "start": 36.82,
+     "end": 37.37,
+     "n": 1
+    },
+    {
+     "start": 37.37,
+     "end": 37.92,
+     "n": 1
+    },
+    {
+     "start": 37.92,
+     "end": 38.4,
+     "n": 1
+    },
+    {
+     "start": 38.4,
+     "end": 38.68,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "İLK MAÇIN SONUCU",
+    "baslik": "Galatasaray 2 - 0 Faure Mektebi",
+    "bekle": 0.6,
+    "maddeler": [
+     "Seyirciler: Galata Sarayı efendileri"
+    ],
+    "basla": 0.22,
+    "zamanlar": [
+     3.5
+    ]
+   }
+  },
+  {
+   "say": "İsim işte böyle doğdu. Peki ya renkler? Önce kırmızı beyaz giydiler.",
+   "caption": "İsim işte böyle doğdu. Peki ya renkler? Önce kırmızı beyaz giydiler.",
+   "key": [
+    "renkler"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_galata_kule.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Kulesi, 20. yüzyıl başı · Agence Rol / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata Kulesi, 20. yüzyıl başı · Agence Rol / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 39.16,
+     "end": 39.58,
+     "n": 1
+    },
+    {
+     "start": 39.58,
+     "end": 40.0,
+     "n": 1
+    },
+    {
+     "start": 40.0,
+     "end": 40.38,
+     "n": 1
+    },
+    {
+     "start": 40.38,
+     "end": 40.72,
+     "n": 1
+    },
+    {
+     "start": 41.1,
+     "end": 41.4,
+     "n": 1
+    },
+    {
+     "start": 41.4,
+     "end": 41.76,
+     "n": 1
+    },
+    {
+     "start": 41.76,
+     "end": 42.32,
+     "n": 1
+    },
+    {
+     "start": 42.74,
+     "end": 43.2,
+     "n": 1
+    },
+    {
+     "start": 43.2,
+     "end": 43.72,
+     "n": 1
+    },
+    {
+     "start": 43.72,
+     "end": 44.02,
+     "n": 1
+    },
+    {
+     "start": 44.02,
+     "end": 44.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama bu renkler polisin dikkatini çekebilirdi. Sarı siyaha geçtiler.",
+   "caption": "Ama bu renkler polisin dikkatini çekebilirdi. Sarı siyaha geçtiler.",
+   "key": [
+    "sarı siyah"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_gs1909.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray takımı, 1909-1910 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray takımı, 1909-1910 · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 44.92,
+     "end": 45.12,
+     "n": 1
+    },
+    {
+     "start": 45.12,
+     "end": 45.34,
+     "n": 1
+    },
+    {
+     "start": 45.34,
+     "end": 45.82,
+     "n": 1
+    },
+    {
+     "start": 45.82,
+     "end": 46.18,
+     "n": 1
+    },
+    {
+     "start": 46.18,
+     "end": 46.72,
+     "n": 1
+    },
+    {
+     "start": 46.72,
+     "end": 47.46,
+     "n": 1
+    },
+    {
+     "start": 47.92,
+     "end": 48.16,
+     "n": 1
+    },
+    {
+     "start": 48.16,
+     "end": 48.44,
+     "n": 1
+    },
+    {
+     "start": 48.44,
+     "end": 49.12,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "RENKLER",
+    "baslik": "Galatasaray'ın formaları",
+    "bekle": 0.6,
+    "maddeler": [
+     "Önce: kırmızı-beyaz",
+     "Sonra: sarı-siyah"
+    ],
+    "basla": 0.14,
+    "zamanlar": [
+     0.54,
+     3.24
+    ]
+   }
+  },
+  {
+   "say": "Sonunda Bahçekapıdaki bir dükkânda sarı kırmızı bir kumaşa rastladılar. Formaları Ali Saminin kız kardeşi Samiye dikti.",
+   "caption": "Sonunda Bahçekapı'daki bir dükkânda sarı kırmızı bir kumaşa rastladılar. Formaları Ali Sami'nin kız kardeşi Samiye dikti.",
+   "key": [
+    "sarı kırmızı"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_barham.jpg",
+    "fit": "doldur",
+    "baslik": "HMS Barham gemisinin futbol takımı. Galatasaray sarı-kırmızıyı ilk kez 1908'de bu takıma karşı giydi · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "HMS Barham gemisinin futbol takımı. Galatasaray sarı-kırmızıyı ilk kez 1908'de bu takıma karşı giydi · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 49.58,
+     "end": 50.04,
+     "n": 1
+    },
+    {
+     "start": 50.04,
+     "end": 50.94,
+     "n": 1
+    },
+    {
+     "start": 50.94,
+     "end": 51.16,
+     "n": 1
+    },
+    {
+     "start": 51.16,
+     "end": 51.78,
+     "n": 1
+    },
+    {
+     "start": 52.14,
+     "end": 52.3,
+     "n": 1
+    },
+    {
+     "start": 52.3,
+     "end": 52.76,
+     "n": 1
+    },
+    {
+     "start": 52.76,
+     "end": 52.96,
+     "n": 1
+    },
+    {
+     "start": 52.96,
+     "end": 53.28,
+     "n": 1
+    },
+    {
+     "start": 53.28,
+     "end": 53.96,
+     "n": 1
+    },
+    {
+     "start": 54.46,
+     "end": 54.96,
+     "n": 1
+    },
+    {
+     "start": 54.96,
+     "end": 55.4,
+     "n": 1
+    },
+    {
+     "start": 55.4,
+     "end": 55.94,
+     "n": 1
+    },
+    {
+     "start": 55.94,
+     "end": 56.22,
+     "n": 1
+    },
+    {
+     "start": 56.22,
+     "end": 56.8,
+     "n": 1
+    },
+    {
+     "start": 56.8,
+     "end": 57.28,
+     "n": 1
+    },
+    {
+     "start": 57.28,
+     "end": 57.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu takım, İstanbul Ligine giren ilk Türk takımı oldu ve 1909da ilk şampiyonluğunu kazandı.",
+   "caption": "Bu takım, İstanbul Ligi'ne giren ilk Türk takımı oldu ve 1909'da ilk şampiyonluğunu kazandı.",
+   "key": [
+    "şampiyonluk"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_gs1908.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray, 1908-1909 İstanbul Ligi şampiyonu · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray, 1908-1909 İstanbul Ligi şampiyonu · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.74,
+     "end": 58.08,
+     "n": 1
+    },
+    {
+     "start": 58.08,
+     "end": 58.56,
+     "n": 1
+    },
+    {
+     "start": 58.56,
+     "end": 59.12,
+     "n": 1
+    },
+    {
+     "start": 59.12,
+     "end": 59.56,
+     "n": 1
+    },
+    {
+     "start": 59.56,
+     "end": 59.8,
+     "n": 1
+    },
+    {
+     "start": 59.8,
+     "end": 60.28,
+     "n": 1
+    },
+    {
+     "start": 60.28,
+     "end": 60.52,
+     "n": 1
+    },
+    {
+     "start": 60.52,
+     "end": 60.9,
+     "n": 1
+    },
+    {
+     "start": 60.9,
+     "end": 61.24,
+     "n": 1
+    },
+    {
+     "start": 61.24,
+     "end": 61.76,
+     "n": 1
+    },
+    {
+     "start": 61.76,
+     "end": 63.14,
+     "n": 1
+    },
+    {
+     "start": 63.14,
+     "end": 63.42,
+     "n": 1
+    },
+    {
+     "start": 63.42,
+     "end": 64.18,
+     "n": 1
+    },
+    {
+     "start": 64.18,
+     "end": 64.94,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki bugün Galatasaray kimin? Bir patronu yok. Kulüp bir dernek ve üyelerine ait. Futbol şirketinin hisselerini ise borsadan herkes alabiliyor.",
+   "caption": "Peki bugün Galatasaray kimin? Bir patronu yok. Kulüp bir dernek ve üyelerine ait. Futbol şirketinin hisselerini ise borsadan herkes alabiliyor.",
+   "key": [
+    "bugün"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_alisami1923.jpg",
+    "fit": "doldur",
+    "baslik": "Ali Sami Yen, 1923 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Ali Sami Yen, 1923 · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0,
+     0.72,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 65.24,
+     "end": 65.32,
+     "n": 1
+    },
+    {
+     "start": 65.28,
+     "end": 65.88,
+     "n": 1
+    },
+    {
+     "start": 65.88,
+     "end": 66.68,
+     "n": 1
+    },
+    {
+     "start": 66.68,
+     "end": 66.94,
+     "n": 1
+    },
+    {
+     "start": 67.38,
+     "end": 67.6,
+     "n": 1
+    },
+    {
+     "start": 67.6,
+     "end": 68.12,
+     "n": 1
+    },
+    {
+     "start": 68.12,
+     "end": 68.38,
+     "n": 1
+    },
+    {
+     "start": 68.76,
+     "end": 69.04,
+     "n": 1
+    },
+    {
+     "start": 69.04,
+     "end": 69.32,
+     "n": 1
+    },
+    {
+     "start": 69.32,
+     "end": 69.8,
+     "n": 1
+    },
+    {
+     "start": 69.8,
+     "end": 70.06,
+     "n": 1
+    },
+    {
+     "start": 70.06,
+     "end": 70.7,
+     "n": 1
+    },
+    {
+     "start": 70.7,
+     "end": 71.04,
+     "n": 1
+    },
+    {
+     "start": 71.42,
+     "end": 71.8,
+     "n": 1
+    },
+    {
+     "start": 71.8,
+     "end": 72.38,
+     "n": 1
+    },
+    {
+     "start": 72.38,
+     "end": 73.04,
+     "n": 1
+    },
+    {
+     "start": 73.04,
+     "end": 73.44,
+     "n": 1
+    },
+    {
+     "start": 73.44,
+     "end": 74.08,
+     "n": 1
+    },
+    {
+     "start": 74.08,
+     "end": 74.54,
+     "n": 1
+    },
+    {
+     "start": 74.54,
+     "end": 75.14,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "BUGÜN",
+    "baslik": "Galatasaray kimin?",
+    "bekle": 0.6,
+    "maddeler": [
+     "Kulüp: dernek ve üyeleri",
+     "Futbol şirketi: borsada"
+    ],
+    "basla": 2.22,
+    "zamanlar": [
+     3.7,
+     6.36
+    ]
+   }
+  },
+  {
+   "say": "Galatasaray ilk maçını Fenerbahçenin bugünkü stadının yerinde oynadı.",
+   "caption": "Galatasaray ilk maçını Fenerbahçe'nin bugünkü stadının yerinde oynadı.",
+   "key": [
+    "Fenerbahçe"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_gsfb1923.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray - Fenerbahçe maçı, 1923 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray - Fenerbahçe maçı, 1923 · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 75.56,
+     "end": 76.28,
+     "n": 1
+    },
+    {
+     "start": 76.28,
+     "end": 76.54,
+     "n": 1
+    },
+    {
+     "start": 76.54,
+     "end": 77.06,
+     "n": 1
+    },
+    {
+     "start": 77.06,
+     "end": 77.96,
+     "n": 1
+    },
+    {
+     "start": 77.96,
+     "end": 78.44,
+     "n": 1
+    },
+    {
+     "start": 78.44,
+     "end": 78.94,
+     "n": 1
+    },
+    {
+     "start": 78.94,
+     "end": 79.36,
+     "n": 1
+    },
+    {
+     "start": 79.36,
+     "end": 79.8,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizce dört büyüklerin en köklüsü hangisi? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce dört büyüklerin en köklüsü hangisi? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "soru"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_kadikoy1905.jpg",
+    "fit": "doldur",
+    "baslik": "Kadıköy FC, 1905-1906 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Kadıköy FC, 1905-1906 · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 80.24,
+     "end": 80.72,
+     "n": 1
+    },
+    {
+     "start": 80.72,
+     "end": 81.04,
+     "n": 1
+    },
+    {
+     "start": 81.04,
+     "end": 81.6,
+     "n": 1
+    },
+    {
+     "start": 81.6,
+     "end": 81.96,
+     "n": 1
+    },
+    {
+     "start": 81.96,
+     "end": 82.56,
+     "n": 1
+    },
+    {
+     "start": 82.56,
+     "end": 83.02,
+     "n": 1
+    },
+    {
+     "start": 83.38,
+     "end": 84.22,
+     "n": 1
+    },
+    {
+     "start": 84.22,
+     "end": 84.84,
+     "n": 1
+    },
+    {
+     "start": 84.84,
+     "end": 85.62,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Beşiktaşın kuruluş hikâyesini bir önceki videomuzda anlattık. Bir sonraki videomuz Fenerbahçe, bakalım bizi neler bekliyor. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Beşiktaş'ın kuruluş hikâyesini bir önceki videomuzda anlattık. Bir sonraki videomuz Fenerbahçe, bakalım bizi neler bekliyor. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "seri"
+   ],
+   "image": {
+    "local": "assets/belgeler/093_kadikoy1906.jpg",
+    "fit": "doldur",
+    "baslik": "Kadıköy FC, 1906-1907 İstanbul Ligi şampiyonu · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Kadıköy FC, 1906-1907 İstanbul Ligi şampiyonu · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 85.62,
+     "end": 86.44,
+     "n": 1
+    },
+    {
+     "start": 86.44,
+     "end": 86.84,
+     "n": 1
+    },
+    {
+     "start": 86.84,
+     "end": 87.54,
+     "n": 1
+    },
+    {
+     "start": 87.54,
+     "end": 87.76,
+     "n": 1
+    },
+    {
+     "start": 87.76,
+     "end": 88.26,
+     "n": 1
+    },
+    {
+     "start": 88.26,
+     "end": 88.76,
+     "n": 1
+    },
+    {
+     "start": 88.76,
+     "end": 89.4,
+     "n": 1
+    },
+    {
+     "start": 89.66,
+     "end": 89.8,
+     "n": 1
+    },
+    {
+     "start": 89.8,
+     "end": 90.26,
+     "n": 1
+    },
+    {
+     "start": 90.26,
+     "end": 90.74,
+     "n": 1
+    },
+    {
+     "start": 90.74,
+     "end": 91.6,
+     "n": 1
+    },
+    {
+     "start": 91.82,
+     "end": 92.18,
+     "n": 1
+    },
+    {
+     "start": 92.18,
+     "end": 92.44,
+     "n": 1
+    },
+    {
+     "start": 92.44,
+     "end": 92.76,
+     "n": 1
+    },
+    {
+     "start": 92.76,
+     "end": 93.24,
+     "n": 1
+    },
+    {
+     "start": 93.72,
+     "end": 94.18,
+     "n": 1
+    },
+    {
+     "start": 94.18,
+     "end": 94.48,
+     "n": 1
+    },
+    {
+     "start": 94.48,
+     "end": 95.32,
+     "n": 1
+    },
+    {
+     "start": 95.76,
+     "end": 96.34,
+     "n": 1
+    },
+    {
+     "start": 96.34,
+     "end": 96.56,
+     "n": 1
+    },
+    {
+     "start": 96.56,
+     "end": 96.94,
+     "n": 1
+    },
+    {
+     "start": 96.94,
+     "end": 97.44,
+     "n": 1
+    },
+    {
+     "start": 97.44,
+     "end": 97.78,
+     "n": 1
+    },
+    {
+     "start": 97.78,
+     "end": 98.32,
+     "n": 1
+    }
+   ],
+   "anim": {
+    "tur": "kart",
+    "ust": "SERİ: DÖRT BÜYÜKLER",
+    "baslik": "Kim kurdu?",
+    "bekle": 0.6,
+    "maddeler": [
+     "Beşiktaş: yayında",
+     "Galatasaray: bu video",
+     "Sıradaki: Fenerbahçe"
+    ],
+    "basla": -0.1,
+    "zamanlar": [
+     0.3,
+     2.14,
+     4.18
+    ]
+   }
+  }
+ ]
+}
