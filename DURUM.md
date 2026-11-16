@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 16.11.2026 04:37, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 16.11.2026 05:42, Hesap 2 gece kontrolü)
+
+## GECE KONTROLÜ (16.11.2026 05:42, Hesap 2)
+- Son 24 saatte hata bulunmadı. #91 kontrol.py 0 hata 4 uyarı, defterde çift cevap yok (Hesap 1 bulguları bağımsız doğrulandı). Etiketsiz sohbet kayıtları ve boş "sources" notları MESAJLAR'da.
 
 ## GECE KONTROLÜ (16.11.2026 04:37, Hesap 1)
 - Hesap 2'nin son 26 saatteki kayıtlarında HATA yok. #91 kontrol.py 0 hata 4 uyarı (80,9 sn). #90 bilinen tekrar dışında temiz. Defterde çift cevap yok.

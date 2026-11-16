@@ -7,6 +7,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 16.11.2026 05:42 · Hesap 2 → Hesap 1 (gece kontrolü)
+- Son 24 saatte hata bulunmadı. Hesap 1'in son kaydı c505b7d (16.11 04:37 gece kontrolü); ondan sonra yeni kayıt yok.
+- Kontrol edildi, sorun yok: Hesap 1'in 16.11 04:37 mesajı okundu; içindeki bulgular (#91 kontrol.py 0 hata 4 uyarı, defterde çift cevap yok) bu gece bağımsız yeniden çalıştırıldı ve aynı çıktı: #91 0 hata 4 uyarı (80,9 sn, 12 sahne, 984 görselle tarandı); defter 169 kayıt / 159 yorum_id, farklı cevap_id ile çift cevap yok.
+- BİLGİ (etiket): son 24 saatteki 11 kaydın 5'inde "Hesap: N" etiketi yok: d018c43, f47ea4a, 6c0c5f5, 7218fef, 393ee58 (sohbet oturumu). Üçüncü etiket önerisi hâlâ TEK1'de.
+- BİLGİ: DURUM.md ile gerçek kayıtlar uyumlu; yeni kural satırları (görsel ≥4,5 sn, set = tam paket, YouTube etiket ~450-490) CLAUDE.md'de var.
+- NOT (Hesap 1'in küçük notu doğru): CLAUDE.md 7 KONTROL.PY satırı hâlâ "sahne ≥6 sn" diyor, yeni kural 4,5 sn altı HATA. Düzeltme TEK1 onayıyla.
+- NOT (#91): 7 sahne renkli SMVK fotoğrafının siyah-beyaza çevrilmiş hâli; TEK1'in bunu kapsayan onayı repodan teyit edilemedi (sohbette olabilir).
+- NOT (#89, #90, #91): JSON'larda "sources" boş, yükleme setleri repoda yok; emoji/bayt/sabit yorum denetimi yapılamıyor. Öneri: setleri paylasim/NNN_set.txt olarak repoya koymak (TEK1 onayıyla).
+- KONTROL EDİLEMEDİ: kaynak içerikleri, mp3'ler, video kareleri, yükleme setleri ve kapak paketi, Zernio/yayın durumu, FB/IG yorumlarının canlı hâli.
+Hesap: 2
+
 ## 16.11.2026 04:37 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA yok. Son 26 saatte Hesap 2 kayıtları: 022a270, 247a3318, e7027d1, a5d647b, f09d166 incelendi.
 - Kontrol edildi, sorun yok (#91 Saklı nüfus, a5d647b): kontrol.py bolum 0 hata 4 uyarı (80,9 sn; sahne 1 7,9 sn, sahne 8 11,8 sn, sahne 9 10,4 sn; hiçbiri 4,5 sn altı değil). 12 görsel 984 eski görselle tarandı, tekrar yok. Ses metninde kesme işareti ve etiket yok; altyazıda "Türkiye'de", "1963'te" doğru. Açılış soruyla; kapanış sorusu + yorum daveti + yeni kısa sabit kapanış var. Mahkeme örneği (1970 doğumlu, 1963 doğup ölen ağabey) araştırma notundaki AYM 2013/2414 ile uyumlu; 1934 "bir buçuk milyondan fazla ölüm" Çakmak 2013'teki 1.532.959 ile uyumlu. Araştırma notunun en üstünde özet var (yeni kural).
@@ -17,6 +28,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - KÜÇÜK NOT: CLAUDE.md 7 KONTROL.PY satırı hâlâ "sahne ≥6 sn" diyor; yeni kural ~5 sn / 4,5 sn altı HATA. Satır eski kalmış (düzeltme TEK1 onayıyla).
 - KONTROL EDİLEMEDİ: kaynakların içeriği (açmadım), mp3, video kareleri, #91 yükleme seti ve kapak paketi, yayın durumu.
 Hesap: 1
+-> Hesap 2: okundu (16.11.2026 05:42)
 
 ## 15.11.2026 17:30 · Hesap 2 → Hesap 1
 - BİLGİ: #91 Saklı nüfus main'de (a5d647b). Ders: genel köy fotoğrafları cümlelerle uyuşmadı, TEK1 beğenmedi; görsel her cümlenin anlattığını göstermeli, yoksa kart kullan.
