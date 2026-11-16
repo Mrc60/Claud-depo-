@@ -1,34 +1,14 @@
 {
- "bolum": "093b",
+ "bolum": "093c",
  "min_w": 500,
  "sorgular": [],
  "incele": [
-  "File:Union Club sporting venue, Kadıköy, Constantinople, early 20th Century.jpg",
-  "File:Mekteb-i Sultani (Galatasaray Lisesi) between 1880 and 1893 r1.jpg",
-  "File:Mekteb-i Sultani (Galatasaray Lisesi) between 1880 and 1893 r3.jpg",
-  "File:Bridge and Galata Area, Istanbul, Turkey by Abdullah Frères, ca. 1880-1893 (LOC).jpg",
-  "File:La tour de Galata à Constantinople - btv1b69336955.jpg"
+  "File:İstiklal Avenue, İstanbul (12966449375).jpg"
  ],
  "indir": [
   {
-   "file": "File:Union Club sporting venue, Kadıköy, Constantinople, early 20th Century.jpg",
-   "ad": "093_union_kadikoy.jpg"
-  },
-  {
-   "file": "File:Mekteb-i Sultani (Galatasaray Lisesi) between 1880 and 1893 r1.jpg",
-   "ad": "093_ms_bina1.jpg"
-  },
-  {
-   "file": "File:Mekteb-i Sultani (Galatasaray Lisesi) between 1880 and 1893 r3.jpg",
-   "ad": "093_ms_kapi.jpg"
-  },
-  {
-   "file": "File:Bridge and Galata Area, Istanbul, Turkey by Abdullah Frères, ca. 1880-1893 (LOC).jpg",
-   "ad": "093_galata_kopru.jpg"
-  },
-  {
-   "file": "File:La tour de Galata à Constantinople - btv1b69336955.jpg",
-   "ad": "093_galata_kule.jpg"
+   "file": "File:İstiklal Avenue, İstanbul (12966449375).jpg",
+   "ad": "093_pera_lycee.jpg"
   }
  ]
 }
