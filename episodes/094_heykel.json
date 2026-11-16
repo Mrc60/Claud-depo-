@@ -189,13 +189,19 @@
     "Kırşehir"
    ],
    "image": {
-    "local": "assets/belgeler/094_kagit1.jpg",
+    "local": "assets/belgeler/094_koylu_kadin.jpg",
     "fit": "doldur",
-    "baslik": "Eski kâğıt zemin",
+    "baslik": "Ulus anıtındaki köylü kadın heykeli, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "lisans": "",
-    "kaynak": "Eski kâğıt zemin",
+    "kaynak": "Ulus anıtındaki köylü kadın heykeli, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.1,
+     0.025,
+     0.9,
+     0.86
+    ]
    },
    "scene": "photo",
    "bolumler": [
@@ -259,22 +265,7 @@
      "end": 14.02,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "ŞUBAT 1951",
-    "baslik": "Kırşehir",
-    "bekle": 0.6,
-    "maddeler": [
-     "Atatürk heykeli kırıldı",
-     "Ardından başka şehirlerde de"
-    ],
-    "basla": 0.42,
-    "zamanlar": [
-     3.14,
-     5.02
-    ]
-   }
+   ]
   },
   {
    "say": "Bu olayların arkasında Ticani tarikatı vardı. Yani şeyh Kemal Pilavoğluna bağlı dini bir topluluk.",
@@ -283,11 +274,11 @@
     "Ticani"
    ],
    "image": {
-    "local": "assets/belgeler/094_kagit2.jpg",
+    "local": "assets/belgeler/085_ankara_kale1950.jpg",
     "fit": "doldur",
-    "baslik": "Eski kâğıt zemin",
+    "baslik": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi",
     "lisans": "",
-    "kaynak": "Eski kâğıt zemin",
+    "kaynak": "Ankara Kalesi eteğindeki evler, 1950'lerin başı · Basın Yayın Genel Müdürlüğü arşivi",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -363,42 +354,27 @@
      "end": 21.5,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "BU OLAYLARIN ARKASINDA",
-    "baslik": "Ticani tarikatı",
-    "bekle": 0.6,
-    "maddeler": [
-     "Şeyhi: Kemal Pilavoğlu",
-     "Şeyhe bağlı dini topluluk"
-    ],
-    "basla": 0.2,
-    "zamanlar": [
-     4.08,
-     6.14
-    ]
-   }
+   ]
   },
   {
    "say": "Peki devlet ne yaptı? Mayıs ayında iktidardaki Demokrat Parti, Atatürkü ve heykellerini koruyacak bir kanun tasarısı getirdi.",
    "caption": "Peki devlet ne yaptı? Mayıs ayında iktidardaki Demokrat Parti, Atatürk'ü ve heykellerini koruyacak bir kanun tasarısı getirdi.",
    "key": [
-    "Meclis"
+    "devlet"
    ],
    "image": {
-    "local": "assets/belgeler/094_meclis.jpg",
+    "local": "assets/belgeler/094_yenisehir.jpg",
     "fit": "doldur",
-    "baslik": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "baslik": "Yenişehir bulvarı ve devlet binaları, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "lisans": "",
-    "kaynak": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "kaynak": "Yenişehir bulvarı ve devlet binaları, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.38,
-     0,
-     0.82,
-     1
+     0.33,
+     0.05,
+     0.76,
+     0.92
     ]
    },
    "scene": "photo",
@@ -497,13 +473,19 @@
     "itiraz"
    ],
    "image": {
-    "local": "assets/belgeler/094_kagit3.jpg",
+    "local": "assets/belgeler/053_meclis1928.jpg",
     "fit": "doldur",
-    "baslik": "Eski kâğıt zemin",
+    "baslik": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
     "lisans": "",
-    "kaynak": "Eski kâğıt zemin",
+    "kaynak": "TBMM Genel Kurulu, 1928 · Wikimedia Commons, kamu malı",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.36,
+     0,
+     0.72,
+     1
+    ]
    },
    "scene": "photo",
    "bolumler": [
@@ -602,22 +584,7 @@
      "end": 40.0,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "MECLİSTE İTİRAZ",
-    "baslik": "Karşı çıkanların çoğu DP vekili",
-    "bekle": 0.6,
-    "maddeler": [
-     "Bir kişiye özel kanun olmaz",
-     "Söz özgürlüğü kısılır"
-    ],
-    "basla": 0.36,
-    "zamanlar": [
-     4.9,
-     7.88
-    ]
-   }
+   ]
   },
   {
    "say": "Hükümet ise eleştiriyi değil, hakareti yasakladıklarını söyledi. Tartışma sürerken Haziranda,",
@@ -626,18 +593,18 @@
     "Hükümet"
    ],
    "image": {
-    "local": "assets/belgeler/094_yenisehir.jpg",
+    "local": "assets/belgeler/094_meclis.jpg",
     "fit": "doldur",
-    "baslik": "Yenişehir bulvarı ve devlet binaları, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "baslik": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Yenişehir bulvarı ve devlet binaları, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "kaynak": "TBMM binası, Ankara, 1940'ların sonu · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.33,
-     0.05,
-     0.76,
-     0.92
+     0.38,
+     0,
+     0.82,
+     1
     ]
    },
    "scene": "photo",
@@ -787,20 +754,7 @@
      "end": 53.9,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "HAZİRAN 1951",
-    "baslik": "Pilavoğlu tutuklandı",
-    "bekle": 0.6,
-    "maddeler": [
-     "Müritleriyle birlikte"
-    ],
-    "basla": 4.28,
-    "zamanlar": [
-     4.9
-    ]
-   }
+   ]
   },
   {
    "say": "Sonunda 25 Temmuz 1951de, 5816 sayılı kanun kabul edildi.",
@@ -809,13 +763,19 @@
     "5816"
    ],
    "image": {
-    "local": "assets/belgeler/094_kagit4.jpg",
+    "local": "assets/belgeler/094_kizilay_park.jpg",
     "fit": "doldur",
-    "baslik": "Eski kâğıt zemin",
+    "baslik": "Kızılay ve Güven parkları, Ankara, 1940'lar · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Eski kâğıt zemin",
+    "kaynak": "Kızılay ve Güven parkları, Ankara, 1940'lar · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.29,
+     0,
+     0.71,
+     1
+    ]
    },
    "scene": "photo",
    "bolumler": [
@@ -864,20 +824,7 @@
      "end": 60.28,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "25 TEMMUZ 1951",
-    "baslik": "5816 sayılı kanun",
-    "bekle": 0.6,
-    "maddeler": [
-     "Kabul edildi"
-    ],
-    "basla": 0.15,
-    "zamanlar": [
-     5.54
-    ]
-   }
+   ]
   },
   {
    "say": "Atatürke alenen, yani herkesin duyabileceği şekilde hakaret edene bir yıldan üç yıla kadar hapis cezası getirildi.",
@@ -886,13 +833,19 @@
     "hakaret"
    ],
    "image": {
-    "local": "assets/belgeler/094_kagit5.jpg",
+    "local": "assets/belgeler/053_anafartalar.jpg",
     "fit": "doldur",
-    "baslik": "Eski kâğıt zemin",
+    "baslik": "Anafartalar Caddesi, Ankara, 1950'ler · Wikimedia Commons, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Eski kâğıt zemin",
+    "kaynak": "Anafartalar Caddesi, Ankara, 1950'ler · Wikimedia Commons, kısıtlamasız",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 1.0,
+    "kirp": [
+     0.1,
+     0,
+     0.67,
+     1
+    ]
    },
    "scene": "photo",
    "bolumler": [
@@ -976,20 +929,7 @@
      "end": 68.2,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "KANUNUN CEZASI",
-    "baslik": "Alenen hakaret",
-    "bekle": 0.6,
-    "maddeler": [
-     "1 yıldan 3 yıla kadar hapis"
-    ],
-    "basla": 0.16,
-    "zamanlar": [
-     4.72
-    ]
-   }
+   ]
   },
   {
    "say": "Heykellerine zarar verene ise bir yıldan beş yıla kadar ağır hapis.",
@@ -998,18 +938,18 @@
     "heykel"
    ],
    "image": {
-    "local": "assets/belgeler/094_koylu_kadin.jpg",
+    "local": "assets/belgeler/094_ulus_heykel2.jpg",
     "fit": "doldur",
-    "baslik": "Ulus anıtındaki köylü kadın heykeli, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "baslik": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "lisans": "",
-    "kaynak": "Ulus anıtındaki köylü kadın heykeli, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "kaynak": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.1,
-     0.03,
-     0.9,
-     0.9
+     0.24,
+     0.05,
+     0.56,
+     0.74
     ]
    },
    "scene": "photo",
@@ -1069,20 +1009,7 @@
      "end": 73.18,
      "n": 1
     }
-   ],
-   "anim": {
-    "tur": "kart",
-    "ust": "KANUNUN CEZASI",
-    "baslik": "Heykele zarar",
-    "bekle": 0.6,
-    "maddeler": [
-     "1 yıldan 5 yıla kadar ağır hapis"
-    ],
-    "basla": 0.24,
-    "zamanlar": [
-     2.08
-    ]
-   }
+   ]
   },
   {
    "say": "Bu kanun bugün hâlâ yürürlükte. Düşüncelerinizi yorumlarda paylaşın.",
@@ -1091,18 +1018,18 @@
     "yürürlükte"
    ],
    "image": {
-    "local": "assets/belgeler/094_ulus_heykel2.jpg",
+    "local": "assets/belgeler/094_bulvar.jpg",
     "fit": "doldur",
-    "baslik": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "baslik": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "lisans": "",
-    "kaynak": "Ulus'taki Atatürk heykeli, Ankara, 1930'lar · Library of Congress, Matson Koleksiyonu, kamu malı",
+    "kaynak": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.24,
-     0.05,
-     0.56,
-     0.74
+     0.12,
+     0,
+     0.7,
+     1
     ]
    },
    "scene": "photo",
@@ -1156,19 +1083,13 @@
     "kaynaklar"
    ],
    "image": {
-    "local": "assets/belgeler/094_bulvar.jpg",
+    "local": "assets/belgeler/085_bentderesi1950.jpg",
     "fit": "doldur",
-    "baslik": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "baslik": "Bentderesi, Ankara, 1950'ler · Basın Yayın Genel Müdürlüğü arşivi",
     "lisans": "",
-    "kaynak": "Atatürk Bulvarı, Ankara, 1950'ler · DGPI arşivi, Wikimedia Commons, kısıtlamasız",
+    "kaynak": "Bentderesi, Ankara, 1950'ler · Basın Yayın Genel Müdürlüğü arşivi",
     "sayfa": "",
-    "hiz": 1.0,
-    "kirp": [
-     0.12,
-     0,
-     0.7,
-     1
-    ]
+    "hiz": 1.0
    },
    "scene": "photo",
    "bolumler": [
