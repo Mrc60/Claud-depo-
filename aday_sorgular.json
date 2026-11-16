@@ -1,1 +1,76 @@
-{"bolum":"095","min_w":400,"sorgular":["Fenerbahçe 1908","Fenerbahçe 1910","Fenerbahçe 1911","Fenerbahçe 1912","Fenerbahçe 1913 team","Fenerbahçe 1923","Fenerbahçe vs Kumkapı","Harington Cup 1923","Ziya Songülen","Ayetullah Bey Fenerbahçe","Necip Okaner","Fenerbahçe lighthouse old","Fenerbahçe Kadıköy 1900s","Moda Kadıköy old photograph","Taksim Stadium 1920s","Fenerbahçe Spor Kulübü 1920s","Fenerbahce team old photograph","Fenerbahçe Galatasaray 1909"],"incele":[],"indir":[]}
+{
+ "bolum": "095i",
+ "min_w": 300,
+ "sorgular": [
+  "Abdul Hamid II",
+  "Abdülhamid II portrait photograph",
+  "Sultan Abdul Hamid II 1890s"
+ ],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:Fener 1907.png",
+   "ad": "095_takim1907.jpg"
+  },
+  {
+   "file": "File:Nurizâde Mehmed Ziya.jpg",
+   "ad": "095_ziya.jpg"
+  },
+  {
+   "file": "File:Vue de Fener-Bakcthé et de la campagne de Chalcédoine - Pertusier Charles - 1817.jpg",
+   "ad": "095_fener_gravur.jpg"
+  },
+  {
+   "file": "File:Fenerbahçe SK 1913-1914.JPG",
+   "ad": "095_takim1913.jpg"
+  },
+  {
+   "file": "File:Galatasaray-Fenerbahçe match in the 1910s.JPG",
+   "ad": "095_gsfb1910.jpg"
+  },
+  {
+   "file": "File:Fenerbahçe SK 1911-12.jpg",
+   "ad": "095_sampiyon1912.jpg"
+  },
+  {
+   "file": "File:Fenerbahçe-Artillaries match in 4 March 1923.jpg",
+   "ad": "095_isgal1923.jpg"
+  },
+  {
+   "file": "File:Zeki Rıza Sporel before second goal.jpg",
+   "ad": "095_zekiriza.jpg"
+  },
+  {
+   "file": "File:19230630 VatanGazetesi HaringtonKupasi.jpg",
+   "ad": "095_vatan1923.jpg"
+  },
+  {
+   "file": "File:Fenerbahce SK 1922-1923.JPG",
+   "ad": "095_takim1923.jpg"
+  },
+  {
+   "file": "File:Fenerbahçe SK 1913 Tüzük.jpg",
+   "ad": "095_tuzuk1913.jpg"
+  },
+  {
+   "file": "File:Dönemin Gazetelerinde Harington Kupası Maçı Haber Fotoğrafları.jpg",
+   "ad": "095_harington_gazete.jpg"
+  },
+  {
+   "file": "File:Fenerbahçe football team before the match against Nikolayev in 21 June 1914.JPG",
+   "ad": "095_takim1914.jpg"
+  },
+  {
+   "file": "File:Şevkipaşazade Ayetullah.jpg",
+   "ad": "095_ayetullah.jpg"
+  },
+  {
+   "file": "File:Necipokaner1911.jpg",
+   "ad": "095_necip.jpg"
+  },
+  {
+   "file": "File:Fenerbahçe vs Kumkapı Match (1 March 1908).jpg",
+   "ad": "095_levant1908.jpg"
+  }
+ ]
+}
