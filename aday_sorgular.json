@@ -1,29 +1,80 @@
 {
- "bolum": "092c",
- "min_w": 500,
- "sorgular": [],
+ "bolum": "093_galatasaray",
+ "min_w": 600,
+ "sorgular": [
+  "Bahçekapı Istanbul old photograph",
+  "Bahçekapı 1900",
+  "Kadıköy 1900s photograph",
+  "Moda Kadıköy old photograph",
+  "Galata Istanbul 1900 photograph",
+  "Pera Galatasaray 1900",
+  "Mekteb-i Sultani building",
+  "Galatasaray Lycée 1890",
+  "Istanbul fabric shop old photograph",
+  "Ottoman tailor woman sewing photograph"
+ ],
  "incele": [
-  "File:Sultan Abdul Hamid II of the Ottoman Empire.jpg",
-  "File:Abdul Hamid II in Balmoral Castle in 1867.jpg",
-  "File:Abdul Hamid II 1908.jpg",
-  "File:1923 05 01 Turkiye Idman Mecmuasi Hilal Darussafaka.jpg"
+  "File:GS Kuruculari.jpg",
+  "File:Idman No 02 Galatasaray Yonetim Kurulu.jpg",
+  "File:Students of Mekteb-i Sultani.jpg",
+  "File:Ali Sami Yen, 1923.png",
+  "File:1924 06 14 TICI Ali Sami Yen TMOK.jpg",
+  "File:Galatasaray SK 1908-1909.JPG",
+  "File:Galatasaray SK 1909-1910.jpg",
+  "File:Galatasaray-Fenerbahçe match (1923).jpg",
+  "File:HMS Barham football team.jpg",
+  "File:Cadi-Ceuy FC 1905-06.jpg",
+  "File:Cadi-Keuy Football Club 1906-1907 Champion.jpg",
+  "File:Le Lycée Galatasaray.png"
  ],
  "indir": [
   {
-   "file": "File:Sultan Abdul Hamid II of the Ottoman Empire.jpg",
-   "ad": "092_abdulhamid.jpg"
+   "file": "File:GS Kuruculari.jpg",
+   "ad": "093_kurucular.jpg"
   },
   {
-   "file": "File:Abdul Hamid II in Balmoral Castle in 1867.jpg",
-   "ad": "092_abdulhamid2.jpg"
+   "file": "File:Idman No 02 Galatasaray Yonetim Kurulu.jpg",
+   "ad": "093_yonetim.jpg"
   },
   {
-   "file": "File:Abdul Hamid II 1908.jpg",
-   "ad": "092_abdulhamid1908.jpg"
+   "file": "File:Students of Mekteb-i Sultani.jpg",
+   "ad": "093_mektebisultani.jpg"
   },
   {
-   "file": "File:1923 05 01 Turkiye Idman Mecmuasi Hilal Darussafaka.jpg",
-   "ad": "092_mac1923.jpg"
+   "file": "File:Ali Sami Yen, 1923.png",
+   "ad": "093_alisami1923.jpg"
+  },
+  {
+   "file": "File:1924 06 14 TICI Ali Sami Yen TMOK.jpg",
+   "ad": "093_alisami1924.jpg"
+  },
+  {
+   "file": "File:Galatasaray SK 1908-1909.JPG",
+   "ad": "093_gs1908.jpg"
+  },
+  {
+   "file": "File:Galatasaray SK 1909-1910.jpg",
+   "ad": "093_gs1909.jpg"
+  },
+  {
+   "file": "File:Galatasaray-Fenerbahçe match (1923).jpg",
+   "ad": "093_gsfb1923.jpg"
+  },
+  {
+   "file": "File:HMS Barham football team.jpg",
+   "ad": "093_barham.jpg"
+  },
+  {
+   "file": "File:Cadi-Ceuy FC 1905-06.jpg",
+   "ad": "093_kadikoy1905.jpg"
+  },
+  {
+   "file": "File:Cadi-Keuy Football Club 1906-1907 Champion.jpg",
+   "ad": "093_kadikoy1906.jpg"
+  },
+  {
+   "file": "File:Le Lycée Galatasaray.png",
+   "ad": "093_lycee.jpg"
   }
  ]
 }
