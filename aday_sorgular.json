@@ -1,22 +1,19 @@
 {
- "bolum": "099nd4",
- "min_w": 500,
- "sorgular": [
-  "Nouri Demirag",
-  "Demirag avion",
-  "Yeşilköy Havalimanı 1953",
-  "Istanbul Yesilkoy airport 1950",
-  "Beşiktaş 1930",
-  "Barbaros Hayreddin Paşa Türbesi eski",
-  "Sivas Erzurum railway construction",
-  "Ankara Sivas railway 1930",
-  "Türkiye demiryolu 1930 inşaat",
-  "aviation Turkey 1938 photograph",
-  "airplane factory 1930s workers",
-  "Walter Gemma engine",
-  "avion turc 1938",
-  "DGPI uçak"
+ "bolum": "099nd5",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [
+  "File:Selahattin_Alan_aircraft.jpg",
+  "File:Flight_Tour_in_Turkey.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Selahattin_Alan_aircraft.jpg",
+   "ad": "099_alan_ucak.jpg"
+  },
+  {
+   "file": "File:Flight_Tour_in_Turkey.jpg",
+   "ad": "099_pilotlar1934.jpg"
+  }
+ ]
 }
