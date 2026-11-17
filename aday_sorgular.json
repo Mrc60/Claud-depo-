@@ -1,11 +1,32 @@
 {
- "bolum": "099k",
- "min_w": 300,
- "sorgular": [],
- "incele": [
-  "File:Ottoman Public Debt Administration, Istanbul (16033721200).jpg",
-  "File:Water Pumpers (14646224516).jpg",
-  "File:07 DETTE PUBLIQUE OTOMANE, photo collection priv+®e.png"
+ "bolum": "099nd",
+ "min_w": 400,
+ "sorgular": [
+  "Nuri Demirağ",
+  "Nu.D.36",
+  "Nu.D.38",
+  "NuD 36 aircraft",
+  "Selahattin Reşit Alan",
+  "Gök Okulu Yeşilköy",
+  "Yeşilköy airport 1940s",
+  "Türk Hava Kurumu 1936",
+  "Türkkuşu planör",
+  "Türk Hava Kurumu uçak 1930",
+  "Barbaros türbesi Beşiktaş eski",
+  "Demirağ tayyare"
  ],
- "indir": []
+ "incele": [
+  "File:Demiraglar-Inonuler-Mehmet Kum.jpg",
+  "File:NuD-38.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Demiraglar-Inonuler-Mehmet Kum.jpg",
+   "ad": "099_demiraglar.jpg"
+  },
+  {
+   "file": "File:NuD-38.jpg",
+   "ad": "099_nud38.jpg"
+  }
+ ]
 }
