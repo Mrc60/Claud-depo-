@@ -224,7 +224,8 @@ Cevabını bana kopyalanabilir formatta ver.
 - Kare kontrolü: kareleri tek tek değil, tek bir pano görselinde toplu kontrol et.
 - Video bitince kareleri çıkarıp kontrol et (ffmpeg), sonra gönder.
 - Zernio (yorum cevabı):
-  - Instagram hesabı 6af726139e9ae65dc6987f92 (@siradandegill, 14.11.2026'da doğrulandı; eski 6ade30e2924b817a8f5f9a8a artık boş liste döndürüyor), TikTok hesabı 6ade311b2981fad19e1d90f3 (14.11'de doğrulanmadı)
+  - 17.11.2026 yeni bağlantı (Hesap 2, ZERN_O_2 bağlayıcısı, ikisi de sağlıklı): Instagram 6ae7e1428d01bfa137edca93 (@siradandegill, token 16.01.2027'de doluyor), Facebook 6ae7ca62c2a9484aee7a62b3 (Sıradan Değil sayfası). TikTok bu bağlantıda yok.
+  - Eski numaralar: Instagram 6af726139e9ae65dc6987f92 (14.11.2026), 6ade30e2924b817a8f5f9a8a (boş liste); TikTok 6ade311b2981fad19e1d90f3 (14.11'de doğrulanmadı). Hangi bağlayıcıdaysan accounts_list ile kontrol et.
   - Instagram'da beğeni yok.
   - TikTok: cevap gönderme test edildi (29.10.2026, Lozan 7700989622838480146). Yanıtlar doğru yorumun altında gelir, replyCount güvenilir. Lozan/Musul yorumları çoğunlukla gergin ve siyasi: savunmacı olmayan, yumuşak, kısa cevap.
   - Post ID'leri: gelin 18020789228731773, okuma 18129154627891169
