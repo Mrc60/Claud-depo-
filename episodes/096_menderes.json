@@ -1,0 +1,1275 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 96,
+ "slug": "menderes",
+ "title": "Menderes Neden İdam Edildi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Uçak kazasından kurtuldu\nsonra idam edildi",
+ "dis_ses": {
+  "file": "assets/ses/096_menderes.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.92
+    ]
+   ],
+   [
+    [
+     8.92,
+     15.56
+    ]
+   ],
+   [
+    [
+     15.56,
+     22.22
+    ]
+   ],
+   [
+    [
+     22.22,
+     29.7
+    ]
+   ],
+   [
+    [
+     29.7,
+     36.84
+    ]
+   ],
+   [
+    [
+     36.84,
+     45.68
+    ]
+   ],
+   [
+    [
+     45.68,
+     55.68
+    ]
+   ],
+   [
+    [
+     55.68,
+     61.8
+    ]
+   ],
+   [
+    [
+     61.8,
+     68.98
+    ]
+   ],
+   [
+    [
+     68.98,
+     74.12
+    ]
+   ],
+   [
+    [
+     74.12,
+     79.87
+    ]
+   ],
+   [
+    [
+     79.87,
+     87.22
+    ]
+   ],
+   [
+    [
+     87.22,
+     95.16
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir uçak kazasından sağ kurtulan başbakan, iki buçuk yıl sonra idam edildi. Bu başbakan Adnan Menderesti. Peki neden?",
+   "caption": "Bir uçak kazasından sağ kurtulan başbakan, iki buçuk yıl sonra idam edildi. Bu başbakan Adnan Menderes'ti. Peki neden?",
+   "key": [
+    "Menderes"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_menderes2.jpg",
+    "fit": "doldur",
+    "baslik": "Adnan Menderes VI. Yasama Dönemi.jpg · Unknown authorUnknown author, Public domain",
+    "lisans": "",
+    "kaynak": "Adnan Menderes VI. Yasama Dönemi.jpg · Unknown authorUnknown author, Public domain",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.36,
+     "n": 1
+    },
+    {
+     "start": 0.36,
+     "end": 0.74,
+     "n": 1
+    },
+    {
+     "start": 0.74,
+     "end": 1.38,
+     "n": 1
+    },
+    {
+     "start": 1.38,
+     "end": 1.64,
+     "n": 1
+    },
+    {
+     "start": 1.64,
+     "end": 2.08,
+     "n": 1
+    },
+    {
+     "start": 2.08,
+     "end": 2.78,
+     "n": 1
+    },
+    {
+     "start": 3.22,
+     "end": 3.32,
+     "n": 1
+    },
+    {
+     "start": 3.32,
+     "end": 3.64,
+     "n": 1
+    },
+    {
+     "start": 3.64,
+     "end": 3.8,
+     "n": 1
+    },
+    {
+     "start": 3.8,
+     "end": 4.16,
+     "n": 1
+    },
+    {
+     "start": 4.16,
+     "end": 4.62,
+     "n": 1
+    },
+    {
+     "start": 4.62,
+     "end": 5.04,
+     "n": 1
+    },
+    {
+     "start": 5.66,
+     "end": 5.78,
+     "n": 1
+    },
+    {
+     "start": 5.78,
+     "end": 6.46,
+     "n": 1
+    },
+    {
+     "start": 6.46,
+     "end": 6.94,
+     "n": 1
+    },
+    {
+     "start": 6.94,
+     "end": 7.72,
+     "n": 1
+    },
+    {
+     "start": 8.06,
+     "end": 8.38,
+     "n": 1
+    },
+    {
+     "start": 8.38,
+     "end": 8.8,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Şubat 1959. Menderes, Kıbrıs antlaşmasını imzalamak için Londraya uçuyordu.",
+   "caption": "Şubat 1959. Menderes, Kıbrıs antlaşmasını imzalamak için Londra'ya uçuyordu.",
+   "key": [
+    "Kıbrıs"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_zurih.jpg",
+    "fit": "doldur",
+    "baslik": "Cyprusconferentie tussen Griekenland en Turkije in Zurich v.l.n.r. premier Karam, Bestanddeelnr 910-1498.jpg · Herbert Behrens / Anefo, CC0",
+    "lisans": "",
+    "kaynak": "Cyprusconferentie tussen Griekenland en Turkije in Zurich v.l.n.r. premier Karam, Bestanddeelnr 910-1498.jpg · Herbert Behrens / Anefo, CC0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.2,
+     0.08,
+     0.8,
+     0.85
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.62,
+     "end": 10.04,
+     "n": 1
+    },
+    {
+     "start": 10.04,
+     "end": 11.24,
+     "n": 1
+    },
+    {
+     "start": 11.82,
+     "end": 12.32,
+     "n": 1
+    },
+    {
+     "start": 12.54,
+     "end": 12.78,
+     "n": 1
+    },
+    {
+     "start": 12.78,
+     "end": 13.42,
+     "n": 1
+    },
+    {
+     "start": 13.42,
+     "end": 14.06,
+     "n": 1
+    },
+    {
+     "start": 14.06,
+     "end": 14.32,
+     "n": 1
+    },
+    {
+     "start": 14.32,
+     "end": 14.82,
+     "n": 1
+    },
+    {
+     "start": 14.82,
+     "end": 15.44,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yoğun sis yüzünden uçak inemedi ve ormanlık bir alana düştü. On dört kişi hayatını kaybetti.",
+   "caption": "Yoğun sis yüzünden uçak inemedi ve ormanlık bir alana düştü. On dört kişi hayatını kaybetti.",
+   "key": [
+    "düştü"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_anit_tasi.jpg",
+    "fit": "doldur",
+    "baslik": "Turkish Disaster Gatwick 1959.jpg · Jack1956, CC0 (günümüz, siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Turkish Disaster Gatwick 1959.jpg · Jack1956, CC0 (günümüz, siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.08,
+     0,
+     0.92,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 15.86,
+     "end": 16.16,
+     "n": 1
+    },
+    {
+     "start": 16.16,
+     "end": 16.36,
+     "n": 1
+    },
+    {
+     "start": 16.36,
+     "end": 16.9,
+     "n": 1
+    },
+    {
+     "start": 16.9,
+     "end": 17.32,
+     "n": 1
+    },
+    {
+     "start": 17.32,
+     "end": 17.86,
+     "n": 1
+    },
+    {
+     "start": 17.86,
+     "end": 18.28,
+     "n": 1
+    },
+    {
+     "start": 18.28,
+     "end": 18.9,
+     "n": 1
+    },
+    {
+     "start": 18.9,
+     "end": 19.18,
+     "n": 1
+    },
+    {
+     "start": 19.18,
+     "end": 19.4,
+     "n": 1
+    },
+    {
+     "start": 19.4,
+     "end": 19.82,
+     "n": 1
+    },
+    {
+     "start": 20.3,
+     "end": 20.46,
+     "n": 1
+    },
+    {
+     "start": 20.46,
+     "end": 20.62,
+     "n": 1
+    },
+    {
+     "start": 20.62,
+     "end": 20.98,
+     "n": 1
+    },
+    {
+     "start": 20.98,
+     "end": 21.56,
+     "n": 1
+    },
+    {
+     "start": 21.56,
+     "end": 22.1,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ters dönen uçakta Menderesin ayağı yarılan tabana sıkıştı. Yanındaki milletvekili yarığı açıp onu kurtardı.",
+   "caption": "Ters dönen uçakta Menderes'in ayağı yarılan tabana sıkıştı. Yanındaki milletvekili yarığı açıp onu kurtardı.",
+   "key": [
+    "ayağı"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_viscount.jpg",
+    "fit": "doldur",
+    "baslik": "Vickers Viscount 812 G-AVHK, Channel AW - Scottish Flyer, Southend, UK, 28 Feb 1969 (9400857113).jpg · Richard  Goring, CC BY-SA 2.0",
+    "lisans": "",
+    "kaynak": "Vickers Viscount 812 G-AVHK, Channel AW - Scottish Flyer, Southend, UK, 28 Feb 1969 (9400857113).jpg · Richard  Goring, CC BY-SA 2.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.08,
+     0.1,
+     0.75,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 22.6,
+     "end": 22.8,
+     "n": 1
+    },
+    {
+     "start": 22.8,
+     "end": 23.08,
+     "n": 1
+    },
+    {
+     "start": 23.08,
+     "end": 23.72,
+     "n": 1
+    },
+    {
+     "start": 23.72,
+     "end": 24.46,
+     "n": 1
+    },
+    {
+     "start": 24.46,
+     "end": 24.8,
+     "n": 1
+    },
+    {
+     "start": 24.8,
+     "end": 25.18,
+     "n": 1
+    },
+    {
+     "start": 25.18,
+     "end": 25.58,
+     "n": 1
+    },
+    {
+     "start": 25.58,
+     "end": 26.16,
+     "n": 1
+    },
+    {
+     "start": 26.56,
+     "end": 26.98,
+     "n": 1
+    },
+    {
+     "start": 26.98,
+     "end": 27.84,
+     "n": 1
+    },
+    {
+     "start": 27.84,
+     "end": 28.3,
+     "n": 1
+    },
+    {
+     "start": 28.3,
+     "end": 28.76,
+     "n": 1
+    },
+    {
+     "start": 28.76,
+     "end": 29.0,
+     "n": 1
+    },
+    {
+     "start": 29.0,
+     "end": 29.58,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Türkiyeye döndüğünde binlerce kişi onu karşıladı. Ankara Garında muhalefet lideri İsmet İnönü de oradaydı.",
+   "caption": "Türkiye'ye döndüğünde binlerce kişi onu karşıladı. Ankara Garı'nda muhalefet lideri İsmet İnönü de oradaydı.",
+   "key": [
+    "İnönü"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_inonu.jpg",
+    "fit": "doldur",
+    "baslik": "Ismet Inonu at the congress of CHP.jpg · NA, Public domain",
+    "lisans": "",
+    "kaynak": "Ismet Inonu at the congress of CHP.jpg · NA, Public domain",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0,
+     0.8,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 30.0,
+     "end": 30.6,
+     "n": 1
+    },
+    {
+     "start": 30.6,
+     "end": 31.24,
+     "n": 1
+    },
+    {
+     "start": 31.24,
+     "end": 32.04,
+     "n": 1
+    },
+    {
+     "start": 32.04,
+     "end": 32.2,
+     "n": 1
+    },
+    {
+     "start": 32.2,
+     "end": 32.44,
+     "n": 1
+    },
+    {
+     "start": 32.44,
+     "end": 32.82,
+     "n": 1
+    },
+    {
+     "start": 33.46,
+     "end": 33.82,
+     "n": 1
+    },
+    {
+     "start": 33.82,
+     "end": 34.34,
+     "n": 1
+    },
+    {
+     "start": 34.34,
+     "end": 34.92,
+     "n": 1
+    },
+    {
+     "start": 34.92,
+     "end": 35.4,
+     "n": 1
+    },
+    {
+     "start": 35.4,
+     "end": 35.76,
+     "n": 1
+    },
+    {
+     "start": 35.76,
+     "end": 36.1,
+     "n": 1
+    },
+    {
+     "start": 36.1,
+     "end": 36.34,
+     "n": 1
+    },
+    {
+     "start": 36.34,
+     "end": 36.72,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama on beş ay sonra her şey değişti. 27 Mayıs 1960ta ordu yönetime el koydu, yani darbe yapıldı.",
+   "caption": "Ama on beş ay sonra her şey değişti. 27 Mayıs 1960'ta ordu yönetime el koydu, yani darbe yapıldı.",
+   "key": [
+    "darbe"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_madalya.jpg",
+    "fit": "doldur",
+    "baslik": "27 Mayıs Darbesi hatıra parası.png · TCMB, Public domain",
+    "lisans": "",
+    "kaynak": "27 Mayıs Darbesi hatıra parası.png · TCMB, Public domain",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.05,
+     0.02,
+     0.95,
+     0.98
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.36,
+     "end": 37.6,
+     "n": 1
+    },
+    {
+     "start": 37.6,
+     "end": 37.83,
+     "n": 1
+    },
+    {
+     "start": 37.83,
+     "end": 38.06,
+     "n": 1
+    },
+    {
+     "start": 38.06,
+     "end": 38.28,
+     "n": 1
+    },
+    {
+     "start": 38.28,
+     "end": 38.68,
+     "n": 1
+    },
+    {
+     "start": 38.68,
+     "end": 39.1,
+     "n": 1
+    },
+    {
+     "start": 39.1,
+     "end": 39.22,
+     "n": 1
+    },
+    {
+     "start": 39.22,
+     "end": 39.78,
+     "n": 1
+    },
+    {
+     "start": 40.34,
+     "end": 40.58,
+     "n": 1
+    },
+    {
+     "start": 40.58,
+     "end": 41.02,
+     "n": 1
+    },
+    {
+     "start": 41.02,
+     "end": 42.36,
+     "n": 1
+    },
+    {
+     "start": 42.36,
+     "end": 42.7,
+     "n": 1
+    },
+    {
+     "start": 42.7,
+     "end": 43.14,
+     "n": 1
+    },
+    {
+     "start": 43.14,
+     "end": 43.48,
+     "n": 1
+    },
+    {
+     "start": 43.48,
+     "end": 43.86,
+     "n": 1
+    },
+    {
+     "start": 44.28,
+     "end": 44.62,
+     "n": 1
+    },
+    {
+     "start": 44.62,
+     "end": 45.06,
+     "n": 1
+    },
+    {
+     "start": 45.06,
+     "end": 45.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Menderes ve Demokrat Partinin yöneticileri gözaltına alındı. İstanbul açıklarındaki Yassıadada yargılandılar. En ağır suçlama, anayasayı ihlal etmekti.",
+   "caption": "Menderes ve Demokrat Parti'nin yöneticileri gözaltına alındı. İstanbul açıklarındaki Yassıada'da yargılandılar. En ağır suçlama, anayasayı ihlal etmekti.",
+   "key": [
+    "Yassıada"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_yassiada.jpg",
+    "fit": "doldur",
+    "baslik": "Yassiada 1.jpg · Knemo, CC BY 3.0 (günümüz, siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Yassiada 1.jpg · Knemo, CC BY 3.0 (günümüz, siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0,
+     0.85,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 45.94,
+     "end": 46.4,
+     "n": 1
+    },
+    {
+     "start": 46.4,
+     "end": 46.6,
+     "n": 1
+    },
+    {
+     "start": 46.6,
+     "end": 47.06,
+     "n": 1
+    },
+    {
+     "start": 47.06,
+     "end": 47.56,
+     "n": 1
+    },
+    {
+     "start": 47.56,
+     "end": 48.28,
+     "n": 1
+    },
+    {
+     "start": 48.28,
+     "end": 48.92,
+     "n": 1
+    },
+    {
+     "start": 48.92,
+     "end": 49.46,
+     "n": 1
+    },
+    {
+     "start": 49.72,
+     "end": 50.04,
+     "n": 1
+    },
+    {
+     "start": 50.04,
+     "end": 50.82,
+     "n": 1
+    },
+    {
+     "start": 50.82,
+     "end": 51.58,
+     "n": 1
+    },
+    {
+     "start": 51.58,
+     "end": 52.38,
+     "n": 1
+    },
+    {
+     "start": 52.74,
+     "end": 52.92,
+     "n": 1
+    },
+    {
+     "start": 52.92,
+     "end": 53.14,
+     "n": 1
+    },
+    {
+     "start": 53.14,
+     "end": 53.74,
+     "n": 1
+    },
+    {
+     "start": 54.12,
+     "end": 54.58,
+     "n": 1
+    },
+    {
+     "start": 54.58,
+     "end": 55.04,
+     "n": 1
+    },
+    {
+     "start": 55.04,
+     "end": 55.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "15 Eylül 1961de karar açıklandı: on beş kişiye idam cezası.",
+   "caption": "15 Eylül 1961'de karar açıklandı: on beş kişiye idam cezası.",
+   "key": [
+    "karar"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_mbk_karar.jpg",
+    "fit": "doldur",
+    "baslik": "Millî Birlik Komitesi Kararı No. 75, 15 Eylül 1961 · TBMM, kamu belgesi",
+    "lisans": "",
+    "kaynak": "Millî Birlik Komitesi Kararı No. 75, 15 Eylül 1961 · TBMM, kamu belgesi",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.06,
+     0.03,
+     0.94,
+     0.4
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 56.1,
+     "end": 56.36,
+     "n": 1
+    },
+    {
+     "start": 56.36,
+     "end": 56.74,
+     "n": 1
+    },
+    {
+     "start": 56.74,
+     "end": 58.16,
+     "n": 1
+    },
+    {
+     "start": 58.16,
+     "end": 58.54,
+     "n": 1
+    },
+    {
+     "start": 58.54,
+     "end": 59.14,
+     "n": 1
+    },
+    {
+     "start": 59.14,
+     "end": 59.48,
+     "n": 1
+    },
+    {
+     "start": 59.48,
+     "end": 59.82,
+     "n": 1
+    },
+    {
+     "start": 59.82,
+     "end": 60.44,
+     "n": 1
+    },
+    {
+     "start": 60.44,
+     "end": 60.92,
+     "n": 1
+    },
+    {
+     "start": 60.92,
+     "end": 61.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Askerî yönetim bunlardan sadece üçünü onayladı: Menderes, Fatin Rüştü Zorlu ve Hasan Polatkan.",
+   "caption": "Askerî yönetim bunlardan sadece üçünü onayladı: Menderes, Fatin Rüştü Zorlu ve Hasan Polatkan.",
+   "key": [
+    "Zorlu"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_zorlu.jpg",
+    "fit": "doldur",
+    "baslik": "Fatin Rüştü Zorlu.jpg · Behrens, Herbert / Anefo, CC BY-SA 3.0 nl",
+    "lisans": "",
+    "kaynak": "Fatin Rüştü Zorlu.jpg · Behrens, Herbert / Anefo, CC BY-SA 3.0 nl",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 61.96,
+     "end": 62.34,
+     "n": 1
+    },
+    {
+     "start": 62.34,
+     "end": 62.84,
+     "n": 1
+    },
+    {
+     "start": 62.84,
+     "end": 63.44,
+     "n": 1
+    },
+    {
+     "start": 63.44,
+     "end": 63.92,
+     "n": 1
+    },
+    {
+     "start": 63.92,
+     "end": 64.32,
+     "n": 1
+    },
+    {
+     "start": 64.32,
+     "end": 64.94,
+     "n": 1
+    },
+    {
+     "start": 65.5,
+     "end": 65.94,
+     "n": 1
+    },
+    {
+     "start": 66.18,
+     "end": 66.56,
+     "n": 1
+    },
+    {
+     "start": 66.56,
+     "end": 66.98,
+     "n": 1
+    },
+    {
+     "start": 66.98,
+     "end": 67.34,
+     "n": 1
+    },
+    {
+     "start": 67.34,
+     "end": 67.74,
+     "n": 1
+    },
+    {
+     "start": 67.74,
+     "end": 68.1,
+     "n": 1
+    },
+    {
+     "start": 68.1,
+     "end": 68.86,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Celal Bayarın cezası ise altmış beş yaşını geçtiği için ömür boyu hapse çevrildi.",
+   "caption": "Celal Bayar'ın cezası ise altmış beş yaşını geçtiği için ömür boyu hapse çevrildi.",
+   "key": [
+    "Bayar"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_bayar.jpg",
+    "fit": "doldur",
+    "baslik": "Celal Bayar.jpg · Türkiye Büyük Millet Meclisi Arşivi (TBMM), Public domain",
+    "lisans": "",
+    "kaynak": "Celal Bayar.jpg · Türkiye Büyük Millet Meclisi Arşivi (TBMM), Public domain",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 69.14,
+     "end": 69.44,
+     "n": 1
+    },
+    {
+     "start": 69.44,
+     "end": 69.8,
+     "n": 1
+    },
+    {
+     "start": 69.8,
+     "end": 70.38,
+     "n": 1
+    },
+    {
+     "start": 70.38,
+     "end": 70.76,
+     "n": 1
+    },
+    {
+     "start": 70.76,
+     "end": 71.01,
+     "n": 1
+    },
+    {
+     "start": 71.01,
+     "end": 71.26,
+     "n": 1
+    },
+    {
+     "start": 71.26,
+     "end": 71.7,
+     "n": 1
+    },
+    {
+     "start": 71.7,
+     "end": 72.22,
+     "n": 1
+    },
+    {
+     "start": 72.22,
+     "end": 72.56,
+     "n": 1
+    },
+    {
+     "start": 72.56,
+     "end": 73.0,
+     "n": 1
+    },
+    {
+     "start": 73.0,
+     "end": 73.26,
+     "n": 1
+    },
+    {
+     "start": 73.26,
+     "end": 73.58,
+     "n": 1
+    },
+    {
+     "start": 73.58,
+     "end": 74.0,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Menderes, 17 Eylül 1961de İmralı Adasında idam edildi.",
+   "caption": "Menderes, 17 Eylül 1961'de İmralı Adası'nda idam edildi.",
+   "key": [
+    "İmralı"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_imrali_harita.jpg",
+    "fit": "doldur",
+    "baslik": "Kalolimno Island cropped from Admiralty Chart No 844 Ports in the Sea of Marmara, Published 1883.jpg · United Kingdom Hydrographic Office, Public domain (harita, 1883)",
+    "lisans": "",
+    "kaynak": "Kalolimno Island cropped from Admiralty Chart No 844 Ports in the Sea of Marmara, Published 1883.jpg · United Kingdom Hydrographic Office, Public domain (harita, 1883)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.8
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 74.62,
+     "end": 75.16,
+     "n": 1
+    },
+    {
+     "start": 75.16,
+     "end": 75.62,
+     "n": 1
+    },
+    {
+     "start": 75.62,
+     "end": 76.0,
+     "n": 1
+    },
+    {
+     "start": 76.0,
+     "end": 77.54,
+     "n": 1
+    },
+    {
+     "start": 77.54,
+     "end": 78.04,
+     "n": 1
+    },
+    {
+     "start": 78.04,
+     "end": 78.62,
+     "n": 1
+    },
+    {
+     "start": 78.62,
+     "end": 79.04,
+     "n": 1
+    },
+    {
+     "start": 79.04,
+     "end": 79.78,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu yargılamalar o gün de bugün de tartışılıyor. 1990da Meclis, üçünün itibarını iade etti.",
+   "caption": "Bu yargılamalar o gün de bugün de tartışılıyor. 1990'da Meclis, üçünün itibarını iade etti.",
+   "key": [
+    "tartışılıyor"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_menderes.jpg",
+    "fit": "doldur",
+    "baslik": "AdnanMenderes.jpg · Unknown authorUnknown author, Public domain",
+    "lisans": "",
+    "kaynak": "AdnanMenderes.jpg · Unknown authorUnknown author, Public domain",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 79.96,
+     "end": 80.04,
+     "n": 1
+    },
+    {
+     "start": 80.04,
+     "end": 80.92,
+     "n": 1
+    },
+    {
+     "start": 80.92,
+     "end": 81.26,
+     "n": 1
+    },
+    {
+     "start": 81.26,
+     "end": 81.51,
+     "n": 1
+    },
+    {
+     "start": 81.51,
+     "end": 81.76,
+     "n": 1
+    },
+    {
+     "start": 81.84,
+     "end": 82.1,
+     "n": 1
+    },
+    {
+     "start": 82.1,
+     "end": 82.3,
+     "n": 1
+    },
+    {
+     "start": 82.3,
+     "end": 83.12,
+     "n": 1
+    },
+    {
+     "start": 83.78,
+     "end": 84.62,
+     "n": 1
+    },
+    {
+     "start": 84.62,
+     "end": 85.22,
+     "n": 1
+    },
+    {
+     "start": 85.22,
+     "end": 85.8,
+     "n": 1
+    },
+    {
+     "start": 85.8,
+     "end": 86.48,
+     "n": 1
+    },
+    {
+     "start": 86.48,
+     "end": 86.9,
+     "n": 1
+    },
+    {
+     "start": 86.9,
+     "end": 87.22,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Naaşları İmralıdan alınıp İstanbuldaki anıt mezara taşındı. Kaynaklar video açıklamasında.",
+   "caption": "Naaşları İmralı'dan alınıp İstanbul'daki anıt mezara taşındı. Kaynaklar video açıklamasında.",
+   "key": [
+    "anıt"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_anitmezar.jpg",
+    "fit": "doldur",
+    "baslik": "Adnan menderes mezar.jpg · Mirada, CC BY 2.5 (günümüz, siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Adnan menderes mezar.jpg · Mirada, CC BY 2.5 (günümüz, siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0,
+     0.75,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 87.22,
+     "end": 88.22,
+     "n": 1
+    },
+    {
+     "start": 88.22,
+     "end": 88.92,
+     "n": 1
+    },
+    {
+     "start": 88.92,
+     "end": 89.5,
+     "n": 1
+    },
+    {
+     "start": 89.68,
+     "end": 90.38,
+     "n": 1
+    },
+    {
+     "start": 90.38,
+     "end": 90.78,
+     "n": 1
+    },
+    {
+     "start": 90.78,
+     "end": 91.1,
+     "n": 1
+    },
+    {
+     "start": 91.1,
+     "end": 92.04,
+     "n": 1
+    },
+    {
+     "start": 93.2,
+     "end": 93.88,
+     "n": 1
+    },
+    {
+     "start": 93.88,
+     "end": 94.24,
+     "n": 1
+    },
+    {
+     "start": 94.24,
+     "end": 94.96,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
