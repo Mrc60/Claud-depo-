@@ -1,5 +1,9 @@
 # DURUM — şu anki işler (son güncelleme: 17.11.2026 05:45, Hesap 2 gece kontrolü)
 
+## SOHBET OTURUMU (18.11.2026 00:25, TikTok yorumları)
+- 13 cevap gönderildi (TEK1 onaylı, isReply true, defterde): #95 x4, #93 x8, #92 x1. #96 kadirkesh2 ve #95 serkan kalkan atlandı. #95 mtulumen ("3'ü de Saint Joseph'li") araştırıldı, taslak TEK1'de. #94 Heykel yorumları (154, din/siyaset) atlanması önerildi, karar TEK1'de. #93'te 136 yorumun sadece en yeni 30'u tarandı.
+- NOT: Instagram bu sohbetin Zernio bağlantısında yok (Hesap 2 yeni bağlantı kurmuş, CLAUDE.md 9).
+
 ## GECE KONTROLÜ (17.11.2026 05:45, Hesap 2)
 - Son 24 saatte yeni hata yok. Hesap 1 bulgusu doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 37 kayıt (#92-#96; son c34d5a6 #96 Menderes). Defterde çift cevap yok (170 kayıt). Ayrıntı MESAJLAR 17.11 05:45.
 
