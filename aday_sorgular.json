@@ -1,18 +1,14 @@
 {
- "bolum": "097f",
- "min_w": 700,
- "sorgular": [
-  "Ahmet Suat Özyazıcı",
-  "Şenol Güneş 1970s",
-  "Trabzon 1960s",
-  "Trabzon 1970s",
-  "Atatürk Alanı Trabzon",
-  "Uzun Sokak Trabzon",
-  "Trabzon Atatürk Alanı eski",
-  "Trabzon old photograph",
-  "Trebizond photograph 1920",
-  "Trabzon Lisesi"
+ "bolum": "097g",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [
+  "File:Rue de Ouzoun Sokak, Trebizond.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Rue de Ouzoun Sokak, Trebizond.jpg",
+   "ad": "097_uzunsokak.jpg"
+  }
+ ]
 }
