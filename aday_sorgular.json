@@ -1,48 +1,19 @@
 {
- "bolum": "098u",
- "min_w": 500,
- "sorgular": [
-  "1936 07 21",
-  "Montrö 1936",
-  "Bundesarchiv Bild Rheinland 1936",
-  "Remilitarisierung des Rheinlandes",
-  "Italian troops Abyssinia 1935",
-  "Second Italo-Ethiopian War Italian soldiers march",
-  "Lausanne Ouchy 1923 conference",
-  "Turkish soldiers 1936"
- ],
+ "bolum": "098v",
+ "min_w": 300,
+ "sorgular": [],
  "incele": [
-  "File:Chanak (Çanakkale, la ville et des ruines antiques) (cliché CNews) - btv1b53090674z.jpg",
-  "File:Chanak (Çanakkale, détroit des Dardanelles) (cliché CNews) - btv1b53090675d.jpg",
-  "File:Vg n13x18 12173.jpg",
-  "File:A-Swedish-Red-Cross-facility-on-the-second-Italo-Ethiopian-War-391759100238.jpg",
-  "File:USS Porter transits the Bosphorus Strait. (32561661471).jpg",
-  "File:Rumeli Mecidiye Tabyası (Bastion) in 2014 Gun and gunners 7990.jpg"
+  "File:Conférence de Lausanne - Ouchy, vue générale de la salle - btv1b9053952f.jpg",
+  "File:Abyssinian-soldiers-1936-142348340618.jpg"
  ],
  "indir": [
   {
-   "file": "File:Chanak (Çanakkale, la ville et des ruines antiques) (cliché CNews) - btv1b53090674z.jpg",
-   "ad": "098_chanak_sehir.jpg"
+   "file": "File:Conférence de Lausanne - Ouchy, vue générale de la salle - btv1b9053952f.jpg",
+   "ad": "098_lozan_salon.jpg"
   },
   {
-   "file": "File:Chanak (Çanakkale, détroit des Dardanelles) (cliché CNews) - btv1b53090675d.jpg",
-   "ad": "098_chanak_bogaz.jpg"
-  },
-  {
-   "file": "File:Vg n13x18 12173.jpg",
-   "ad": "098_vg12173.jpg"
-  },
-  {
-   "file": "File:A-Swedish-Red-Cross-facility-on-the-second-Italo-Ethiopian-War-391759100238.jpg",
-   "ad": "098_habes_kizilhac.jpg"
-  },
-  {
-   "file": "File:USS Porter transits the Bosphorus Strait. (32561661471).jpg",
-   "ad": "098_bogaz_gunumuz.jpg"
-  },
-  {
-   "file": "File:Rumeli Mecidiye Tabyası (Bastion) in 2014 Gun and gunners 7990.jpg",
-   "ad": "098_mecidiye_top.jpg"
+   "file": "File:Abyssinian-soldiers-1936-142348340618.jpg",
+   "ad": "098_habes1936.jpg"
   }
  ]
 }
