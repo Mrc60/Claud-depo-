@@ -1,21 +1,14 @@
 {
- "bolum": "097k",
+ "bolum": "097l",
  "min_w": 200,
- "sorgular": [
-  "İdmangücü",
-  "Trabzon İdmangücü",
-  "İdmanocağı",
-  "Trabzon İdmanocağı",
-  "İdman Ocağı Trabzon",
-  "Idmangucu",
-  "Idmanocagi",
-  "Karadenizgücü",
-  "Trabzon futbol 1920",
-  "Trabzon futbol takımı",
-  "Trabzonspor 1967",
-  "Trabzonspor 1976",
-  "Trabzonspor 1970s"
+ "sorgular": [],
+ "incele": [
+  "File:1941 07 14 Ulus 2 Trabzon Sampiyonu Idman Ocagi.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:1941 07 14 Ulus 2 Trabzon Sampiyonu Idman Ocagi.jpg",
+   "ad": "097_idmanocagi1941.jpg"
+  }
+ ]
 }
