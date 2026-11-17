@@ -1,14 +1,14 @@
 {
- "bolum": "097g",
- "min_w": 300,
- "sorgular": [],
- "incele": [
-  "File:Rue de Ouzoun Sokak, Trebizond.jpg"
+ "bolum": "097h",
+ "min_w": 900,
+ "sorgular": [
+  "Trabzonspor fans",
+  "Trabzonspor taraftarları",
+  "Trabzonspor supporters stadium",
+  "Trabzonspor match",
+  "Hüseyin Avni Aker Stadium",
+  "Trabzonspor flag"
  ],
- "indir": [
-  {
-   "file": "File:Rue de Ouzoun Sokak, Trebizond.jpg",
-   "ad": "097_uzunsokak.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
