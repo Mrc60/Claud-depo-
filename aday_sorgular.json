@@ -1,19 +1,21 @@
 {
- "bolum": "097i2",
- "min_w": 300,
- "sorgular": [],
- "incele": [
-  "File:Medical Park Arena Trabzonspor - Galatasaray.jpg",
-  "File:Şenol Güneş Stadyumu - Medical Park Arena.jpg"
+ "bolum": "097k",
+ "min_w": 200,
+ "sorgular": [
+  "İdmangücü",
+  "Trabzon İdmangücü",
+  "İdmanocağı",
+  "Trabzon İdmanocağı",
+  "İdman Ocağı Trabzon",
+  "Idmangucu",
+  "Idmanocagi",
+  "Karadenizgücü",
+  "Trabzon futbol 1920",
+  "Trabzon futbol takımı",
+  "Trabzonspor 1967",
+  "Trabzonspor 1976",
+  "Trabzonspor 1970s"
  ],
- "indir": [
-  {
-   "file": "File:Medical Park Arena Trabzonspor - Galatasaray.jpg",
-   "ad": "097_arena.jpg"
-  },
-  {
-   "file": "File:Şenol Güneş Stadyumu - Medical Park Arena.jpg",
-   "ad": "097_arena2.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
