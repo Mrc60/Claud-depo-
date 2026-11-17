@@ -1,32 +1,39 @@
 {
- "bolum": "099nd",
+ "bolum": "099nd2",
  "min_w": 400,
  "sorgular": [
-  "Nuri Demirağ",
-  "Nu.D.36",
-  "Nu.D.38",
-  "NuD 36 aircraft",
-  "Selahattin Reşit Alan",
-  "Gök Okulu Yeşilköy",
-  "Yeşilköy airport 1940s",
-  "Türk Hava Kurumu 1936",
-  "Türkkuşu planör",
-  "Türk Hava Kurumu uçak 1930",
-  "Barbaros türbesi Beşiktaş eski",
-  "Demirağ tayyare"
+  "Türkkuşu",
+  "Türk Tayyare Cemiyeti",
+  "Turkish Aeronautical Association 1930s",
+  "İnönü kampı planör",
+  "Kayseri Tayyare Fabrikası",
+  "Turkish Air Force 1930s aircraft",
+  "Yeşilköy 1940",
+  "Turkish pilots 1930s",
+  "tayyare 1936 gazete",
+  "Demirağ 1936",
+  "Nuri Demirağ uçak",
+  "Sivas Erzurum demiryolu Demirağ",
+  "Turkish aviation history 1938",
+  "Vecihi Hürkuş"
  ],
  "incele": [
-  "File:Demiraglar-Inonuler-Mehmet Kum.jpg",
+  "File:Turkiye-nin-ilk-yerli-ucagi-nu.d-38.jpg",
+  "File:Nuri Demirag Nu.D.36.jpg",
   "File:NuD-38.jpg"
  ],
  "indir": [
   {
-   "file": "File:Demiraglar-Inonuler-Mehmet Kum.jpg",
-   "ad": "099_demiraglar.jpg"
+   "file": "File:Turkiye-nin-ilk-yerli-ucagi-nu.d-38.jpg",
+   "ad": "099_nud38_eski.jpg"
+  },
+  {
+   "file": "File:Nuri Demirag Nu.D.36.jpg",
+   "ad": "099_nud36.jpg"
   },
   {
    "file": "File:NuD-38.jpg",
-   "ad": "099_nud38.jpg"
+   "ad": "099_nud38_muze.jpg"
   }
  ]
 }
