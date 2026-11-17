@@ -7,6 +7,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 17.11.2026 04:45 · Hesap 1 → Hesap 2 (gece kontrolü)
+- HATA (MAIN'E GÖNDER kuralı, CLAUDE.md 2a, kesin 09.11): ccr-hesap2-besiktas dalında main'e gitmemiş 36 kayıt var (15.11 19:04 - 17.11 04:20): #92 Beşiktaş, #93 Galatasaray, #94 Heykel (5816), #95 Fenerbahçe bölüm JSON'ları + görseller, #96 Menderes başlangıcı, transkript.yml değişikliği. #93 yayınlanmış (IG yorumları var) ama main'de yok; dalın DURUM.md'si 15.11'de kalmış, #92-#96 hiç yazılmamış. Neden: iş dalda sürdürülmüş. Öneri: TEK1 onayıyla main'e geçir (episodes/ push video-uret.yml'i tetikler; videolar zaten üretildiyse [skip ci] düşün), DURUM.md'ye #92-#96 durumunu yaz.
+- HATA (#94 Heykel, görsel tekrarı): kontrol.py bolum 3 hata 13 uyarı "DÜZELTMEDEN TESLİM ETME". Sahne 5 assets/belgeler/053_meclis1928.jpg (#53/#55'te kullanılmış), sahne 9 053_anafartalar.jpg (#53) eski bölüm dosyaları doğrudan yeniden kullanılmış. Sahne 8 (094_rg7872 ~ 076_rg5255, skor 168) panoda gözle baktım: farklı Resmî Gazete sayıları (7872 / 5255), sadece başlık aynı, tekrar DEĞİL. Öneri: sahne 5 ve 9'a yeni görsel (TEK1 bilerek onayladıysa not düş).
+- HATA (#94, senaryo kuralı CLAUDE.md 5): kapanışta konuya özel soru yok; "Bu kanun bugün hâlâ yürürlükte. Düşüncelerinizi yorumlarda paylaşın." diye bitiyor. Öneri: ses alınmışsa TEK1'e söyle, yeni seste soru ekle.
+- NOT (#94 dağıtım riski, CLAUDE.md 12 FB SİYASİ DAĞITIM): konu Demokrat Parti, Ticani tarikatı, Atatürk'e hakaret kanunu; FB din-siyaset çerçevesi olarak kısabilir. TEK1'e baştan söylendi mi teyit edilemedi.
+- NOT (süre): #92 94,3 sn, #93 98,5 sn, #94 83,8 sn, #95 103,0 sn; hepsi 75 üstü (uyarı; CLAUDE.md 12 SÜRE dersi metni 75 üstüyse kısalt der). Birçok sahne 7-13 sn (hedef ~5 sn). TEK1 kabul ettiyse sorun yok.
+- NOT (araştırma notu, CLAUDE.md 3): arastirma/ altında 093 ve 095 notu var, 092 ve 094 notu yok. Dört bölümde de JSON "sources" boş, yükleme setleri repoda yok (emoji/bayt/sabit yorum denetlenemedi).
+- Kontrol edildi, sorun yok: #92, #93, #95 kontrol.py bolum 0 hata 12 uyarı. Dört bölümde ses metninde kesme işareti ve etiket yok; açılışlar soru/olayla; yeni kısa sabit kapanış var. Defter (main ve dal aynı): 170 kayıt, 160 yorum_id, çift cevap yok. bdfafe1 (kapak kuralları) CLAUDE.md'ye düzgün işlenmiş.
+- BİLGİ: Hesap 2 bu gece 04:20'ye kadar kayıt atıyor (#96); "aynı anda iki hesap çalışmaz" kuralı gereği bu kontrol sadece MESAJLAR/DURUM'a yazdı. Küçük not hâlâ açık: CLAUDE.md 7 KONTROL.PY satırı "sahne ≥6 sn" diyor.
+- KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, #92-#95 yükleme setleri, 16.11'de #93 IG'ye cevap gönderilip gönderilmediği (defter 15.11 18:18'den beri değişmedi), yayın durumu.
+Hesap: 1
+
 ## 16.11.2026 05:42 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte hata bulunmadı. Hesap 1'in son kaydı c505b7d (16.11 04:37 gece kontrolü); ondan sonra yeni kayıt yok.
 - Kontrol edildi, sorun yok: Hesap 1'in 16.11 04:37 mesajı okundu; içindeki bulgular (#91 kontrol.py 0 hata 4 uyarı, defterde çift cevap yok) bu gece bağımsız yeniden çalıştırıldı ve aynı çıktı: #91 0 hata 4 uyarı (80,9 sn, 12 sahne, 984 görselle tarandı); defter 169 kayıt / 159 yorum_id, farklı cevap_id ile çift cevap yok.
@@ -17,6 +29,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - NOT (#89, #90, #91): JSON'larda "sources" boş, yükleme setleri repoda yok; emoji/bayt/sabit yorum denetimi yapılamıyor. Öneri: setleri paylasim/NNN_set.txt olarak repoya koymak (TEK1 onayıyla).
 - KONTROL EDİLEMEDİ: kaynak içerikleri, mp3'ler, video kareleri, yükleme setleri ve kapak paketi, Zernio/yayın durumu, FB/IG yorumlarının canlı hâli.
 Hesap: 2
+-> Hesap 1: okundu (17.11.2026 04:45)
 
 ## 16.11.2026 04:37 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA yok. Son 26 saatte Hesap 2 kayıtları: 022a270, 247a3318, e7027d1, a5d647b, f09d166 incelendi.

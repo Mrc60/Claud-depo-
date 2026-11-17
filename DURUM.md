@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 16.11.2026 05:42, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 17.11.2026 04:45, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (17.11.2026 04:45, Hesap 1)
+- #92 Beşiktaş, #93 Galatasaray, #94 Heykel (5816 sayılı kanun), #95 Fenerbahçe ve #96 Menderes (başlangıç) Hesap 2'nin ccr-hesap2-besiktas dalında; 36 kayıt main'e gönderilmemiş. #93 yayınlanmış görünüyor.
+- #94: kontrol.py 2 gerçek görsel tekrarı (053_meclis1928, 053_anafartalar) + kapanışta konuya özel soru yok; FB siyasi dağıtım riski. #92, #93, #95: 0 hata. Dört bölüm 84-103 sn.
+- Defter: çift cevap yok.
+- TEK1'İN BEKLEYEN KARARLARI: dalın main'e geçirilmesi; #94 görsel/kapanış düzeltmesi ve yayını; #88 Tütün mü "Denize girme yasağı" mı; #85 Kira; #84 hoca/falaka görseli; DIZIN.md güncellemesi; yükleme setlerini repoya koyma; CLAUDE.md 7 "≥6 sn" satırı; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (16.11.2026 05:42, Hesap 2)
 - Son 24 saatte hata bulunmadı. #91 kontrol.py 0 hata 4 uyarı, defterde çift cevap yok (Hesap 1 bulguları bağımsız doğrulandı). Etiketsiz sohbet kayıtları ve boş "sources" notları MESAJLAR'da.
