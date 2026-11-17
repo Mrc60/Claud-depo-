@@ -1,1 +1,59 @@
-{"bolum":"097b","min_w":300,"sorgular":["Trabzonspor 1975","Trabzonspor şampiyon","Trabzonspor 1980","Trabzonspor 1984","Avni Aker 1970","Trabzon 1970","Trabzon 1965","Trabzon stadium 1950","Trabzon football 1930","Necmi Perekli","Şenol Güneş 1980"],"incele":["File:Trabzon FC 1920s.jpg"],"indir":[]}
+{
+ "bolum": "097i",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [
+  "File:Meydan square, Trebizond.jpg",
+  "File:View of Kabak square in Trebizond.jpg",
+  "File:Trebizonde - The harbour.jpg",
+  "File:View from Boztepe, Trebizond.jpg",
+  "File:Panoramic view of Trebizond from the east.jpg",
+  "File:Meydan Trebizond.jpg",
+  "File:H avni aker stadyum - panoramio.jpg",
+  "File:Ahmet Suat Özyazıcı Stadyumu, Trabzon - Ağustos 2011.jpg",
+  "File:Danıştay Binası.jpg",
+  "File:Port of Trebizond 2.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Meydan square, Trebizond.jpg",
+   "ad": "097_meydan.jpg"
+  },
+  {
+   "file": "File:View of Kabak square in Trebizond.jpg",
+   "ad": "097_kabak_meydani.jpg"
+  },
+  {
+   "file": "File:Trebizonde - The harbour.jpg",
+   "ad": "097_liman.jpg"
+  },
+  {
+   "file": "File:View from Boztepe, Trebizond.jpg",
+   "ad": "097_boztepe.jpg"
+  },
+  {
+   "file": "File:Panoramic view of Trebizond from the east.jpg",
+   "ad": "097_panorama.jpg"
+  },
+  {
+   "file": "File:Meydan Trebizond.jpg",
+   "ad": "097_meydan2.jpg"
+  },
+  {
+   "file": "File:H avni aker stadyum - panoramio.jpg",
+   "ad": "097_avniaker.jpg"
+  },
+  {
+   "file": "File:Ahmet Suat Özyazıcı Stadyumu, Trabzon - Ağustos 2011.jpg",
+   "ad": "097_ozyazici_stad.jpg"
+  },
+  {
+   "file": "File:Danıştay Binası.jpg",
+   "ad": "097_danistay.jpg"
+  },
+  {
+   "file": "File:Port of Trebizond 2.jpg",
+   "ad": "097_liman2.jpg"
+  }
+ ]
+}
