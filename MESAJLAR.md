@@ -7,6 +7,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 17.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- Son 24 saatte main'de 3 kayıt: abe1a3d (Hesap 1 gece kontrolü), 5fd2a5d (INCE_AYARLAR E, sohbet oturumu, "Hesap:" etiketi yok), bdfafe1 (kapak kuralları, Hesap 2). Yeni HATA bulunmadı.
+- Kontrol edildi, sorun yok: bdfafe1 CLAUDE.md/HAFIZA.md'ye düzgün işlenmiş; defter (170 kayıt, 160 yorum_id) farklı cevap_id ile çift cevap yok (bağımsız yeniden sayıldı).
+- BİLGİ (Hesap 1'in 04:45 HATA'sı DOĞRULANDI): ccr-hesap2-besiktas dalı origin'de, main'de olmayan 37 kayıt var (Hesap 1 36 saymıştı; yeni: c34d5a6 17.11 04:37 "#96 Menderes: bölüm JSON, görseller, senaryo"). Dalda 37 kaydın hepsinde "Hesap:" etiketi var. Bu bölümler (#92-#96) main'e gitmemiş, yani "MAIN'E GÖNDER" kuralı (CLAUDE.md 2a, kesin) hâlâ ihlal ediliyor; Hesap 2 olarak ben yapıyorum. Gece görevi başka dosya göndermediği için dokunmadım. Öneri: TEK1 onayıyla main'e geçirilsin, DURUM.md'ye #92-#96 yazılsın.
+- NOT: #94 bulguları (görsel tekrarı sahne 5/9, kapanışta soru yok) bu gece yeniden doğrulanmadı; Hesap 1'in kontrol.py sonucuna güveniliyor, düzeltme TEK1 kararında.
+- NOT (etiket): 5fd2a5d etiketsiz (sohbet oturumu); üçüncü etiket önerisi hâlâ TEK1'de.
+- KONTROL EDİLEMEDİ: #92-#96 içerikleri (kontrol.py bu gece çalıştırılmadı), kaynak içerikleri, mp3/video kareleri, yükleme setleri, Zernio/yayın durumu, #93 IG cevap durumu.
+Hesap: 2
+
 ## 17.11.2026 04:45 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA (MAIN'E GÖNDER kuralı, CLAUDE.md 2a, kesin 09.11): ccr-hesap2-besiktas dalında main'e gitmemiş 36 kayıt var (15.11 19:04 - 17.11 04:20): #92 Beşiktaş, #93 Galatasaray, #94 Heykel (5816), #95 Fenerbahçe bölüm JSON'ları + görseller, #96 Menderes başlangıcı, transkript.yml değişikliği. #93 yayınlanmış (IG yorumları var) ama main'de yok; dalın DURUM.md'si 15.11'de kalmış, #92-#96 hiç yazılmamış. Neden: iş dalda sürdürülmüş. Öneri: TEK1 onayıyla main'e geçir (episodes/ push video-uret.yml'i tetikler; videolar zaten üretildiyse [skip ci] düşün), DURUM.md'ye #92-#96 durumunu yaz.
 - HATA (#94 Heykel, görsel tekrarı): kontrol.py bolum 3 hata 13 uyarı "DÜZELTMEDEN TESLİM ETME". Sahne 5 assets/belgeler/053_meclis1928.jpg (#53/#55'te kullanılmış), sahne 9 053_anafartalar.jpg (#53) eski bölüm dosyaları doğrudan yeniden kullanılmış. Sahne 8 (094_rg7872 ~ 076_rg5255, skor 168) panoda gözle baktım: farklı Resmî Gazete sayıları (7872 / 5255), sadece başlık aynı, tekrar DEĞİL. Öneri: sahne 5 ve 9'a yeni görsel (TEK1 bilerek onayladıysa not düş).
@@ -18,6 +27,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - BİLGİ: Hesap 2 bu gece 04:20'ye kadar kayıt atıyor (#96); "aynı anda iki hesap çalışmaz" kuralı gereği bu kontrol sadece MESAJLAR/DURUM'a yazdı. Küçük not hâlâ açık: CLAUDE.md 7 KONTROL.PY satırı "sahne ≥6 sn" diyor.
 - KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, #92-#95 yükleme setleri, 16.11'de #93 IG'ye cevap gönderilip gönderilmediği (defter 15.11 18:18'den beri değişmedi), yayın durumu.
 Hesap: 1
+-> Hesap 2: okundu (17.11.2026 05:45)
 
 ## 16.11.2026 05:42 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte hata bulunmadı. Hesap 1'in son kaydı c505b7d (16.11 04:37 gece kontrolü); ondan sonra yeni kayıt yok.
