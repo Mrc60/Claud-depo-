@@ -1,1 +1,60 @@
-{"bolum":"096","min_w":400,"sorgular":["Vickers Viscount 1958","Vickers Viscount KLM 1957","Vickers Viscount airliner 1950s","Ismet Inonu","İsmet İnönü 1959","27 May 1960 coup Turkey","1960 Turkish coup d'état","27 Mayıs 1960 Ankara","Yassıada trials 1960","Yassıada mahkemesi","Fatin Rüştü Zorlu","Hasan Polatkan","Celal Bayar","İmralı Island","Turkish Grand National Assembly 1990","Ankara railway station 1950s","Yeşilköy Airport 1950s"],"incele":[],"indir":[]}
+{
+ "bolum": "096i",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [],
+ "indir": [
+  {
+   "file": "File:AdnanMenderes.jpg",
+   "ad": "096_menderes.jpg"
+  },
+  {
+   "file": "File:Adnan Menderes VI. Yasama Dönemi.jpg",
+   "ad": "096_menderes2.jpg"
+  },
+  {
+   "file": "File:Cyprusconferentie tussen Griekenland en Turkije in Zurich v.l.n.r. premier Karam, Bestanddeelnr 910-1498.jpg",
+   "ad": "096_zurih.jpg"
+  },
+  {
+   "file": "File:Cyprusconferentie tussen Griekenland en Turkije (cropped)(2).jpeg",
+   "ad": "096_menderes1959.jpg"
+  },
+  {
+   "file": "File:Turkish Disaster Gatwick 1959.jpg",
+   "ad": "096_anit_tasi.jpg"
+  },
+  {
+   "file": "File:Adnan menderes mezar.jpg",
+   "ad": "096_anitmezar.jpg"
+  },
+  {
+   "file": "File:Vickers Viscount 812 G-AVHK, Channel AW - Scottish Flyer, Southend, UK, 28 Feb 1969 (9400857113).jpg",
+   "ad": "096_viscount.jpg"
+  },
+  {
+   "file": "File:Ismet Inonu at the congress of CHP.jpg",
+   "ad": "096_inonu.jpg"
+  },
+  {
+   "file": "File:27 Mayıs Darbesi hatıra parası.png",
+   "ad": "096_madalya.jpg"
+  },
+  {
+   "file": "File:Yassiada 1.jpg",
+   "ad": "096_yassiada.jpg"
+  },
+  {
+   "file": "File:Fatin Rüştü Zorlu.jpg",
+   "ad": "096_zorlu.jpg"
+  },
+  {
+   "file": "File:Celal Bayar.jpg",
+   "ad": "096_bayar.jpg"
+  },
+  {
+   "file": "File:Kalolimno Island cropped from Admiralty Chart No 844 Ports in the Sea of Marmara, Published 1883.jpg",
+   "ad": "096_imrali_harita.jpg"
+  }
+ ]
+}
