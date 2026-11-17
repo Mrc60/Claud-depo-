@@ -1,14 +1,24 @@
 {
- "bolum": "097l",
+ "bolum": "097m",
  "min_w": 200,
  "sorgular": [],
  "incele": [
-  "File:1941 07 14 Ulus 2 Trabzon Sampiyonu Idman Ocagi.jpg"
+  "File:Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg",
+  "File:Trabzonspor vs Altay, 15.05.2022.jpg",
+  "File:Sadrisener.jpg"
  ],
  "indir": [
   {
-   "file": "File:1941 07 14 Ulus 2 Trabzon Sampiyonu Idman Ocagi.jpg",
-   "ad": "097_idmanocagi1941.jpg"
+   "file": "File:Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg",
+   "ad": "097_altay_stad.jpg"
+  },
+  {
+   "file": "File:Trabzonspor vs Altay, 15.05.2022.jpg",
+   "ad": "097_bayrak.jpg"
+  },
+  {
+   "file": "File:Sadrisener.jpg",
+   "ad": "097_kulup_bina.jpg"
   }
  ]
 }
