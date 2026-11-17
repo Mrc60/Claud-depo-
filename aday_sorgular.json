@@ -1,39 +1,54 @@
 {
- "bolum": "099nd2",
- "min_w": 400,
- "sorgular": [
-  "Türkkuşu",
-  "Türk Tayyare Cemiyeti",
-  "Turkish Aeronautical Association 1930s",
-  "İnönü kampı planör",
-  "Kayseri Tayyare Fabrikası",
-  "Turkish Air Force 1930s aircraft",
-  "Yeşilköy 1940",
-  "Turkish pilots 1930s",
-  "tayyare 1936 gazete",
-  "Demirağ 1936",
-  "Nuri Demirağ uçak",
-  "Sivas Erzurum demiryolu Demirağ",
-  "Turkish aviation history 1938",
-  "Vecihi Hürkuş"
- ],
+ "bolum": "099nd3",
+ "min_w": 300,
+ "sorgular": [],
  "incele": [
-  "File:Turkiye-nin-ilk-yerli-ucagi-nu.d-38.jpg",
-  "File:Nuri Demirag Nu.D.36.jpg",
-  "File:NuD-38.jpg"
+  "File:Atatürk Etimesgut Türkkuşu Tesislerinin açılışında, Ankara, 3 Mayıs 1935.png",
+  "File:Atatürk Türkkuşu'nun açılışında US-4 planörü hakkında bilgi alıyor.jpg",
+  "File:TOMTAS.jpg",
+  "File:Flying Festival.jpg",
+  "File:Kayseri Aircraft Factory 2126.jpg",
+  "File:Istanbul Beyoglu aircraft.jpg",
+  "File:Dewoitine D.21 monoplane named Orhaneli.jpg",
+  "File:Turkish delegation for research to Europe.jpg",
+  "File:Ismet Inonu on aircraft.jpg"
  ],
  "indir": [
   {
-   "file": "File:Turkiye-nin-ilk-yerli-ucagi-nu.d-38.jpg",
-   "ad": "099_nud38_eski.jpg"
+   "file": "File:Atatürk Etimesgut Türkkuşu Tesislerinin açılışında, Ankara, 3 Mayıs 1935.png",
+   "ad": "099_turkkusu1935.jpg"
   },
   {
-   "file": "File:Nuri Demirag Nu.D.36.jpg",
-   "ad": "099_nud36.jpg"
+   "file": "File:Atatürk Türkkuşu'nun açılışında US-4 planörü hakkında bilgi alıyor.jpg",
+   "ad": "099_planor.jpg"
   },
   {
-   "file": "File:NuD-38.jpg",
-   "ad": "099_nud38_muze.jpg"
+   "file": "File:TOMTAS.jpg",
+   "ad": "099_tomtas.jpg"
+  },
+  {
+   "file": "File:Flying Festival.jpg",
+   "ad": "099_senlik.jpg"
+  },
+  {
+   "file": "File:Kayseri Aircraft Factory 2126.jpg",
+   "ad": "099_kayseri.jpg"
+  },
+  {
+   "file": "File:Istanbul Beyoglu aircraft.jpg",
+   "ad": "099_beyoglu_ucak.jpg"
+  },
+  {
+   "file": "File:Dewoitine D.21 monoplane named Orhaneli.jpg",
+   "ad": "099_orhaneli.jpg"
+  },
+  {
+   "file": "File:Turkish delegation for research to Europe.jpg",
+   "ad": "099_heyet_avrupa.jpg"
+  },
+  {
+   "file": "File:Ismet Inonu on aircraft.jpg",
+   "ad": "099_inonu_ucak.jpg"
   }
  ]
 }
