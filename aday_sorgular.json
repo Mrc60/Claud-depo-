@@ -1,24 +1,18 @@
 {
- "bolum": "097e",
- "min_w": 300,
- "sorgular": [],
+ "bolum": "097f",
+ "min_w": 700,
+ "sorgular": [
+  "Ahmet Suat Özyazıcı",
+  "Şenol Güneş 1970s",
+  "Trabzon 1960s",
+  "Trabzon 1970s",
+  "Atatürk Alanı Trabzon",
+  "Uzun Sokak Trabzon",
+  "Trabzon Atatürk Alanı eski",
+  "Trabzon old photograph",
+  "Trebizond photograph 1920",
+  "Trabzon Lisesi"
+ ],
  "incele": [],
- "indir": [
-  {
-   "file": "File:Towns and cities in Asia Minor - Trebizond on the Black Sea LCCN2004672920.jpg",
-   "ad": "097_trebizond1915.jpg"
-  },
-  {
-   "file": "File:Trabzonspor'un 1983-84 sezonundaki lig kupası.JPG",
-   "ad": "097_kupa.jpg"
-  },
-  {
-   "file": "File:Trabzonspor trophy museum.jpg",
-   "ad": "097_muze.jpg"
-  },
-  {
-   "file": "File:Trabzonspor Kafilesi Almanya Sokaklarinda( İskender Günen, Şenol Güneş, Alper Boğuşlu, Sinan Ünal ) 2014-06-13 14-59.jpg",
-   "ad": "097_kafile.jpg"
-  }
- ]
+ "indir": []
 }
