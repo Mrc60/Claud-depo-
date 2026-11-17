@@ -1,89 +1,48 @@
 {
- "bolum": "098t",
+ "bolum": "098u",
  "min_w": 500,
  "sorgular": [
-  "Rheinlandbesetzung 1936",
-  "Einmarsch Rheinland 1936",
-  "Remilitarisierung Rheinland Köln 1936",
-  "Völkerbund Genf Sitzung 1935",
-  "Société des Nations Genève 1936 btv1b",
-  "Cumhuriyet gazetesi 1936",
-  "Ulus gazetesi 1936",
-  "Akşam gazetesi 1936",
-  "Chanak 1922",
-  "Dardanelles fort 1919",
-  "Çanakkale 1930",
-  "Gelibolu 1920s",
-  "Lausanne 1923 Straits Convention",
-  "Haile Selassie 1936 Geneva"
+  "1936 07 21",
+  "Montrö 1936",
+  "Bundesarchiv Bild Rheinland 1936",
+  "Remilitarisierung des Rheinlandes",
+  "Italian troops Abyssinia 1935",
+  "Second Italo-Ethiopian War Italian soldiers march",
+  "Lausanne Ouchy 1923 conference",
+  "Turkish soldiers 1936"
  ],
  "incele": [
-  "File:Monsieur Rustu Aras, ministre des Affaires étrangères de Turquie à Paris - de gauche à droite M.M. Vienot, Rustu Aras, Delbos et l'ambassadeur de Turquie - btv1b9045659n.jpg",
-  "File:Genève, Congrès S.D.N. - Tevfik Ruchdi Bey, chef de la délégation - btv1b9024800v.jpg",
-  "File:Voyage de Laval à Genève - Rouchdy Bey et Litvinoff - btv1b9046328c.jpg",
-  "File:Bahribaba Parkı'ndan Türk gemilerinin gidişi 1936.jpg",
-  "File:Turkish fleet in Malta 1936.jpg",
-  "File:Yavuz in Malta 1936.jpg",
-  "File:Kreuzer Hamidiye.jpg",
-  "File:Hamidiye Kruvazörü.jpg",
-  "File:Ethiopian Female Soldier (1935).jpg",
-  "File:Ethiopian soldiers 1935.jpg",
-  "File:Plakat Simplonlinie Montreux 1928.jpg",
-  "File:The Great war (1915) (14784874213).jpg",
-  "File:Michael Zeno Diemer - Sailing off the Kilitbahir Fortress in the Dardenelles, Turkey.jpg"
+  "File:Chanak (Çanakkale, la ville et des ruines antiques) (cliché CNews) - btv1b53090674z.jpg",
+  "File:Chanak (Çanakkale, détroit des Dardanelles) (cliché CNews) - btv1b53090675d.jpg",
+  "File:Vg n13x18 12173.jpg",
+  "File:A-Swedish-Red-Cross-facility-on-the-second-Italo-Ethiopian-War-391759100238.jpg",
+  "File:USS Porter transits the Bosphorus Strait. (32561661471).jpg",
+  "File:Rumeli Mecidiye Tabyası (Bastion) in 2014 Gun and gunners 7990.jpg"
  ],
  "indir": [
   {
-   "file": "File:Monsieur Rustu Aras, ministre des Affaires étrangères de Turquie à Paris - de gauche à droite M.M. Vienot, Rustu Aras, Delbos et l'ambassadeur de Turquie - btv1b9045659n.jpg",
-   "ad": "098_aras1936.jpg"
+   "file": "File:Chanak (Çanakkale, la ville et des ruines antiques) (cliché CNews) - btv1b53090674z.jpg",
+   "ad": "098_chanak_sehir.jpg"
   },
   {
-   "file": "File:Genève, Congrès S.D.N. - Tevfik Ruchdi Bey, chef de la délégation - btv1b9024800v.jpg",
-   "ad": "098_aras_sdn.jpg"
+   "file": "File:Chanak (Çanakkale, détroit des Dardanelles) (cliché CNews) - btv1b53090675d.jpg",
+   "ad": "098_chanak_bogaz.jpg"
   },
   {
-   "file": "File:Voyage de Laval à Genève - Rouchdy Bey et Litvinoff - btv1b9046328c.jpg",
-   "ad": "098_aras_litvinov.jpg"
+   "file": "File:Vg n13x18 12173.jpg",
+   "ad": "098_vg12173.jpg"
   },
   {
-   "file": "File:Bahribaba Parkı'ndan Türk gemilerinin gidişi 1936.jpg",
-   "ad": "098_bahribaba1936.jpg"
+   "file": "File:A-Swedish-Red-Cross-facility-on-the-second-Italo-Ethiopian-War-391759100238.jpg",
+   "ad": "098_habes_kizilhac.jpg"
   },
   {
-   "file": "File:Turkish fleet in Malta 1936.jpg",
-   "ad": "098_filo_malta1936.jpg"
+   "file": "File:USS Porter transits the Bosphorus Strait. (32561661471).jpg",
+   "ad": "098_bogaz_gunumuz.jpg"
   },
   {
-   "file": "File:Yavuz in Malta 1936.jpg",
-   "ad": "098_yavuz1936.jpg"
-  },
-  {
-   "file": "File:Kreuzer Hamidiye.jpg",
-   "ad": "098_hamidiye.jpg"
-  },
-  {
-   "file": "File:Hamidiye Kruvazörü.jpg",
-   "ad": "098_hamidiye2.jpg"
-  },
-  {
-   "file": "File:Ethiopian Female Soldier (1935).jpg",
-   "ad": "098_habes_kadin.jpg"
-  },
-  {
-   "file": "File:Ethiopian soldiers 1935.jpg",
-   "ad": "098_habes_asker.jpg"
-  },
-  {
-   "file": "File:Plakat Simplonlinie Montreux 1928.jpg",
-   "ad": "098_montreux_afis.jpg"
-  },
-  {
-   "file": "File:The Great war (1915) (14784874213).jpg",
-   "ad": "098_bogaz1915.jpg"
-  },
-  {
-   "file": "File:Michael Zeno Diemer - Sailing off the Kilitbahir Fortress in the Dardenelles, Turkey.jpg",
-   "ad": "098_kilitbahir_tablo.jpg"
+   "file": "File:Rumeli Mecidiye Tabyası (Bastion) in 2014 Gun and gunners 7990.jpg",
+   "ad": "098_mecidiye_top.jpg"
   }
  ]
 }
