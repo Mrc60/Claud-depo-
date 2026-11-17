@@ -1,2 +1,9 @@
-099_vatan_1941_08_18.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vatan/vatan_1941/vatan_1941_agustos_/vatan_1941_agustos_18_.pdf
-099_tasvir_1942_10_15.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tasviriefkar/tasviriefkar_1942/tasviri%20efkar_1942_ilktesrin_/tasviri%20efkar_1942_ilktesrin_15_.pdf
+v44s12.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vatan/vatan_1944/vatan_1944_subat_/vatan_1944_subat_12_.pdf
+v44s13.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vatan/vatan_1944/vatan_1944_subat_/vatan_1944_subat_13_.pdf
+v44s14.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vatan/vatan_1944/vatan_1944_subat_/vatan_1944_subat_14_.pdf
+v44m27.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vatan/vatan_1944/vatan_1944_mayis_/vatan_1944_mayis_27_.pdf
+v44m28.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/vatan/vatan_1944/vatan_1944_mayis_/vatan_1944_mayis_28_.pdf
+t44s12.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tasviriefkar/tasviriefkar_1944/tasviri%20efkar_1944_subat_/tasviri%20efkar_1944_subat_12_.pdf
+t44s13.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tasviriefkar/tasviriefkar_1944/tasviri%20efkar_1944_subat_/tasviri%20efkar_1944_subat_13_.pdf
+t44m27.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tasviriefkar/tasviriefkar_1944/tasviri%20efkar_1944_mayis_/tasviri%20efkar_1944_mayis_27_.pdf
+t44m28.pdf https://nek.istanbul.edu.tr/ekos/GAZETE/tasviriefkar/tasviriefkar_1944/tasviri%20efkar_1944_mayis_/tasviri%20efkar_1944_mayis_28_.pdf
