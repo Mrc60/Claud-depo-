@@ -1,24 +1,18 @@
 {
- "bolum": "097m",
- "min_w": 200,
- "sorgular": [],
- "incele": [
-  "File:Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg",
-  "File:Trabzonspor vs Altay, 15.05.2022.jpg",
-  "File:Sadrisener.jpg"
+ "bolum": "098fikir",
+ "min_w": 600,
+ "sorgular": [
+  "Nuri Demirağ",
+  "Nu.D.36",
+  "Nu.D.38 aircraft",
+  "Montreux Convention 1936",
+  "Turkish women vote 1935",
+  "Türk kadını seçim 1935",
+  "Ottoman coffeehouse engraving",
+  "Murad IV coffee ban",
+  "Turkish ship 1926 Istanbul harbor",
+  "Istanbul fire brigade tulumbacı"
  ],
- "indir": [
-  {
-   "file": "File:Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg",
-   "ad": "097_altay_stad.jpg"
-  },
-  {
-   "file": "File:Trabzonspor vs Altay, 15.05.2022.jpg",
-   "ad": "097_bayrak.jpg"
-  },
-  {
-   "file": "File:Sadrisener.jpg",
-   "ad": "097_kulup_bina.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
