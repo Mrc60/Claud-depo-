@@ -1,19 +1,18 @@
 {
- "bolum": "098v",
+ "bolum": "098w",
  "min_w": 300,
- "sorgular": [],
- "incele": [
-  "File:Conférence de Lausanne - Ouchy, vue générale de la salle - btv1b9053952f.jpg",
-  "File:Abyssinian-soldiers-1936-142348340618.jpg"
+ "sorgular": [
+  "Akşam 1936 Çanakkale",
+  "Son Posta 1936",
+  "1936 Çanakkale",
+  "Çanakkale 1936 asker",
+  "Akşam Gazetesi 1936 Temmuz",
+  "Montrö 1936 Çanakkale",
+  "Boğazlar 1936 ordu",
+  "Çanakkale halk 1936",
+  "Son Posta Gazetesi 1936 07 22",
+  "Akşam 1936 07 22"
  ],
- "indir": [
-  {
-   "file": "File:Conférence de Lausanne - Ouchy, vue générale de la salle - btv1b9053952f.jpg",
-   "ad": "098_lozan_salon.jpg"
-  },
-  {
-   "file": "File:Abyssinian-soldiers-1936-142348340618.jpg",
-   "ad": "098_habes1936.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
