@@ -1,14 +1,19 @@
 {
- "bolum": "097h",
- "min_w": 900,
- "sorgular": [
-  "Trabzonspor fans",
-  "Trabzonspor taraftarları",
-  "Trabzonspor supporters stadium",
-  "Trabzonspor match",
-  "Hüseyin Avni Aker Stadium",
-  "Trabzonspor flag"
+ "bolum": "097i2",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [
+  "File:Medical Park Arena Trabzonspor - Galatasaray.jpg",
+  "File:Şenol Güneş Stadyumu - Medical Park Arena.jpg"
  ],
- "incele": [],
- "indir": []
+ "indir": [
+  {
+   "file": "File:Medical Park Arena Trabzonspor - Galatasaray.jpg",
+   "ad": "097_arena.jpg"
+  },
+  {
+   "file": "File:Şenol Güneş Stadyumu - Medical Park Arena.jpg",
+   "ad": "097_arena2.jpg"
+  }
+ ]
 }
