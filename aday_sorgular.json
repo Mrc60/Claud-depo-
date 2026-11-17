@@ -1,20 +1,11 @@
 {
- "bolum": "099fikir",
- "min_w": 500,
- "sorgular": [
-  "Düyun-u Umumiye",
-  "Ottoman Public Debt Administration",
-  "Ottoman Public Debt building Istanbul",
-  "tulumbacı",
-  "Istanbul firemen tulumbaci",
-  "Ottoman coffeehouse photograph",
-  "Murad IV",
-  "Altay İzmir 1914",
-  "Göztepe 1925",
-  "Bursaspor 1963",
-  "Turkish steamship 1926",
-  "Seyr-i Sefain vapur"
+ "bolum": "099k",
+ "min_w": 300,
+ "sorgular": [],
+ "incele": [
+  "File:Ottoman Public Debt Administration, Istanbul (16033721200).jpg",
+  "File:Water Pumpers (14646224516).jpg",
+  "File:07 DETTE PUBLIQUE OTOMANE, photo collection priv+®e.png"
  ],
- "incele": [],
  "indir": []
 }
