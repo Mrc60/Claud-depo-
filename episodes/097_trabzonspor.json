@@ -45,6 +45,12 @@
    [
     [
      42.46,
+     48.18
+    ]
+   ],
+   [
+    [
+     48.18,
      57.38
     ]
    ],
@@ -79,21 +85,21 @@
    "say": "Trabzonsporu kurmak için şehrin iki ezeli rakibini aynı çatı altında toplamak gerekiyordu. Bu hiç kolay olmadı.",
    "caption": "Trabzonspor'u kurmak için şehrin iki ezeli rakibini aynı çatı altında toplamak gerekiyordu. Bu hiç kolay olmadı.",
    "key": [
-    "Trabzon"
+    "Trabzonspor"
    ],
    "image": {
-    "local": "assets/belgeler/097_meydan.jpg",
+    "local": "assets/belgeler/097_arena2.jpg",
     "fit": "doldur",
-    "baslik": "Meydan square, Trebizond.jpg · Cacouli Frères, Public domain (kartpostal)",
+    "baslik": "Şenol Güneş Stadyumu - Medical Park Arena.jpg · Myrat, CC BY-SA 4.0 (günümüz, siyah-beyaza çevrildi)",
     "lisans": "",
-    "kaynak": "Meydan square, Trebizond.jpg · Cacouli Frères, Public domain (kartpostal)",
+    "kaynak": "Şenol Güneş Stadyumu - Medical Park Arena.jpg · Myrat, CC BY-SA 4.0 (günümüz, siyah-beyaza çevrildi)",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.08,
-     0.12,
-     0.62,
-     0.9
+     0.3,
+     0.2,
+     0.85,
+     0.85
     ]
    },
    "scene": "photo",
@@ -188,18 +194,18 @@
     "İdmangücü"
    ],
    "image": {
-    "local": "assets/belgeler/097_trebizond1915.jpg",
+    "local": "assets/belgeler/097_idmanocagi1941.jpg",
     "fit": "doldur",
-    "baslik": "Towns and cities in Asia Minor - Trebizond on the Black Sea · Underwood & Underwood, LOC, Public domain",
+    "baslik": "1941 07 14 Ulus 2 Trabzon Sampiyonu Idman Ocagi.jpg · Ulus Gazetesi (Milli Kütüphane), Public domain",
     "lisans": "",
-    "kaynak": "Towns and cities in Asia Minor - Trebizond on the Black Sea · Underwood & Underwood, LOC, Public domain",
+    "kaynak": "1941 07 14 Ulus 2 Trabzon Sampiyonu Idman Ocagi.jpg · Ulus Gazetesi (Milli Kütüphane), Public domain",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.28,
-     0.47,
-     0.62,
-     0.93
+     0.36,
+     0.0,
+     0.64,
+     0.86
     ]
    },
    "scene": "photo",
@@ -313,17 +319,17 @@
     "birleşme"
    ],
    "image": {
-    "local": "assets/belgeler/097_liman.jpg",
+    "local": "assets/belgeler/097_altay_stad.jpg",
     "fit": "doldur",
-    "baslik": "Trebizonde - The harbour.jpg · Unknown author, Public domain (kartpostal)",
+    "baslik": "Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg · Myrat, CC BY-SA 4.0 (günümüz, siyah-beyaza çevrildi)",
     "lisans": "",
-    "kaynak": "Trebizonde - The harbour.jpg · Unknown author, Public domain (kartpostal)",
+    "kaynak": "Trabzonspor vs Altay, 15.05.2022, Istanbul.jpg · Myrat, CC BY-SA 4.0 (günümüz, siyah-beyaza çevrildi)",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0,
      0.25,
-     0.6,
+     0.1,
+     0.75,
      1
     ]
    },
@@ -588,12 +594,10 @@
    ]
   },
   {
-   "say": "Sonunda, 2 Ağustos 1967de iki rakip birleşmeyi kabul etti. İdmanocağı, İdmangücü, Karadenizgücü ve Martıspor tek kulüp oldu. Renkler de değişti: Bordo ve mavi.",
-   "caption": "Sonunda, 2 Ağustos 1967'de iki rakip birleşmeyi kabul etti. İdmanocağı, İdmangücü, Karadenizgücü ve Martıspor tek kulüp oldu. Renkler de değişti: Bordo ve mavi.",
+   "say": "Sonunda, 2 Ağustos 1967de iki rakip birleşmeyi kabul etti.",
+   "caption": "Sonunda, 2 Ağustos 1967'de iki rakip birleşmeyi kabul etti.",
    "key": [
-    "2 Ağustos 1967",
-    "bordo",
-    "mavi"
+    "2 Ağustos 1967"
    ],
    "image": {
     "local": "assets/belgeler/097_kafile.jpg",
@@ -656,7 +660,33 @@
      "start": 47.76,
      "end": 48.06,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "İdmanocağı, İdmangücü, Karadenizgücü ve Martıspor tek kulüp oldu. Renkler de değişti: Bordo ve mavi.",
+   "caption": "İdmanocağı, İdmangücü, Karadenizgücü ve Martıspor tek kulüp oldu. Renkler de değişti: Bordo ve mavi.",
+   "key": [
+    "bordo",
+    "mavi"
+   ],
+   "image": {
+    "local": "assets/belgeler/097_bayrak.jpg",
+    "fit": "doldur",
+    "baslik": "Trabzonspor vs Altay, 15.05.2022.jpg · Myrat, CC BY-SA 4.0 (günümüz, siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Trabzonspor vs Altay, 15.05.2022.jpg · Myrat, CC BY-SA 4.0 (günümüz, siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.4,
+     0.25,
+     0.98,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 48.52,
      "end": 49.51,
@@ -1009,18 +1039,18 @@
     "borsa"
    ],
    "image": {
-    "local": "assets/belgeler/097_muze.jpg",
+    "local": "assets/belgeler/097_kulup_bina.jpg",
     "fit": "doldur",
-    "baslik": "Trabzonspor trophy museum.jpg · Aleksasfi, Public domain (günümüz, siyah-beyaza çevrildi)",
+    "baslik": "Sadrisener.jpg · Xyzblood, CC BY 2.0 (günümüz, siyah-beyaza çevrildi)",
     "lisans": "",
-    "kaynak": "Trabzonspor trophy museum.jpg · Aleksasfi, Public domain (günümüz, siyah-beyaza çevrildi)",
+    "kaynak": "Sadrisener.jpg · Xyzblood, CC BY 2.0 (günümüz, siyah-beyaza çevrildi)",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.1,
-     0.04,
-     0.9,
-     1
+     0,
+     0.08,
+     1,
+     0.95
     ]
    },
    "scene": "photo",
