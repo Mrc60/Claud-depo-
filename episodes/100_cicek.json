@@ -33,12 +33,18 @@
    [
     [
      20.98,
-     30.44
+     27.12
     ]
    ],
    [
     [
-     30.44,
+     27.12,
+     32.46
+    ]
+   ],
+   [
+    [
+     32.46,
      37.07
     ]
    ],
@@ -333,24 +339,24 @@
    ]
   },
   {
-   "say": "ineklerde görülen hafif bir hastalıktan geliştirilen yeni aşı ortaya çıkınca halk korktu. Bazı aileler çocuklarını aşıcılardan sakladı.",
-   "caption": "ineklerde görülen hafif bir hastalıktan geliştirilen yeni aşı ortaya çıkınca halk korktu. Bazı aileler çocuklarını aşıcılardan sakladı.",
+   "say": "ineklerde görülen hafif bir hastalıktan geliştirilen yeni aşı ortaya çıkınca halk korktu.",
+   "caption": "ineklerde görülen hafif bir hastalıktan geliştirilen yeni aşı ortaya çıkınca halk korktu.",
    "key": [
-    "halk korktu"
+    "ineklerde"
    ],
    "image": {
-    "local": "assets/belgeler/100_cowpock.jpg",
+    "local": "assets/belgeler/100_jenner.jpg",
     "fit": "doldur",
-    "baslik": "İnek aşısıyla alay eden İngiliz karikatürü, 1802 (James Gillray) · Library of Congress, kamu malı",
+    "baslik": "Jenner çocuğu aşılıyor, arkada inekten aşı sıvısı alınıyor (taş baskı) · Wellcome Collection, CC BY 4.0",
     "lisans": "",
-    "kaynak": "İnek aşısıyla alay eden İngiliz karikatürü, 1802 (James Gillray) · Library of Congress, kamu malı",
+    "kaynak": "Jenner çocuğu aşılıyor, arkada inekten aşı sıvısı alınıyor (taş baskı) · Wellcome Collection, CC BY 4.0",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.25,
      0,
-     0.65,
-     1
+     0.12,
+     0.45,
+     0.58
     ]
    },
    "scene": "photo",
@@ -414,7 +420,32 @@
      "start": 26.4,
      "end": 27.12,
      "n": 1
-    },
+    }
+   ]
+  },
+  {
+   "say": "Bazı aileler çocuklarını aşıcılardan sakladı. Peki devlet ne yaptı?",
+   "caption": "Bazı aileler çocuklarını aşıcılardan sakladı. Peki devlet ne yaptı?",
+   "key": [
+    "sakladı"
+   ],
+   "image": {
+    "local": "assets/belgeler/100_cowpock.jpg",
+    "fit": "doldur",
+    "baslik": "İnek aşısıyla alay eden İngiliz karikatürü, 1802 (James Gillray) · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İnek aşısıyla alay eden İngiliz karikatürü, 1802 (James Gillray) · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.55,
+     0,
+     0.95,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 27.12,
      "end": 27.72,
@@ -439,12 +470,32 @@
      "start": 29.74,
      "end": 30.32,
      "n": 1
+    },
+    {
+     "start": 30.88,
+     "end": 31.22,
+     "n": 1
+    },
+    {
+     "start": 31.22,
+     "end": 31.8,
+     "n": 1
+    },
+    {
+     "start": 31.8,
+     "end": 31.98,
+     "n": 1
+    },
+    {
+     "start": 31.98,
+     "end": 32.34,
+     "n": 1
     }
    ]
   },
   {
-   "say": "Peki devlet ne yaptı? Önce halkı ikna etmeye çalıştı. Aşıyı ücretsiz yaptı.",
-   "caption": "Peki devlet ne yaptı? Önce halkı ikna etmeye çalıştı. Aşıyı ücretsiz yaptı.",
+   "say": "Önce halkı ikna etmeye çalıştı. Aşıyı ücretsiz yaptı.",
+   "caption": "Önce halkı ikna etmeye çalıştı. Aşıyı ücretsiz yaptı.",
    "key": [
     "ücretsiz"
    ],
@@ -465,26 +516,6 @@
    },
    "scene": "photo",
    "bolumler": [
-    {
-     "start": 30.88,
-     "end": 31.22,
-     "n": 1
-    },
-    {
-     "start": 31.22,
-     "end": 31.8,
-     "n": 1
-    },
-    {
-     "start": 31.8,
-     "end": 31.98,
-     "n": 1
-    },
-    {
-     "start": 31.98,
-     "end": 32.34,
-     "n": 1
-    },
     {
      "start": 32.74,
      "end": 33.22,
