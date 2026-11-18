@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 17.11.2026 05:45, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 18.11.2026 04:40, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (18.11.2026 04:40, Hesap 1)
+- Hesap 2'nin ccr-hesap2-besiktas dalı: main'e gitmemiş 80 kayıt. Dalda #92-#98 bölümleri (#96 Menderes, #97 Trabzonspor, #98 Montrö yeni) ve #99 Nuri Demirağ görsel taraması var; hiçbiri main'de değil. Dalın defteri main'den geride (birleştirmede main defteri korunmalı).
+- #96, #97, #98: kontrol.py bolum 0 hata (95, 91, 106 sn). Kapanış eksikleri: #96 soru + yorum daveti + sabit son cümle yok (kontrol.py metin 1 HATA); #97 yorum daveti ve "Kaynaklar video açıklamasında" yok; #98 soru ve yorum daveti yok. #96 FB siyasi dağıtım riski.
+- Defter: çift cevap yok (184 kayıt).
+- TEK1'İN BEKLEYEN KARARLARI: dalın main'e geçirilmesi; #96/#97/#98 kapanış düzeltmesi; #94 görsel/kapanış; #88 Tütün mü "Denize girme yasağı" mı; #85 Kira; #84 hoca/falaka görseli; DIZIN.md güncellemesi; yükleme setlerini repoya koyma; CLAUDE.md 7 "≥6 sn" satırı; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## SOHBET OTURUMU (18.11.2026 00:25, TikTok yorumları)
 - 13 cevap gönderildi (TEK1 onaylı, isReply true, defterde): #95 x4, #93 x8, #92 x1. #96 kadirkesh2 ve #95 serkan kalkan atlandı. #95 mtulumen ("3'ü de Saint Joseph'li") araştırıldı, taslak TEK1'de. #94 Heykel yorumları (154, din/siyaset) atlanması önerildi, karar TEK1'de. #93'te 136 yorumun sadece en yeni 30'u tarandı.

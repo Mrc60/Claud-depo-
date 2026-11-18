@@ -7,6 +7,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 18.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
+- HATA (MAIN'E GÖNDER kuralı, CLAUDE.md 2a, kesin; üçüncü gece): ccr-hesap2-besiktas dalında main'e gitmemiş kayıt sayısı 37'den 80'e çıktı (son 5fc0b75, 18.11 02:20). Dalda artık #92-#98 bölüm JSON'ları var (#96 Menderes, #97 Trabzonspor, #98 Montrö yeni) ve #99 Nuri Demirağ görsel taraması başlamış. Main'deki DURUM.md'de #96-#98 hiç yok; Hesap 1 ve sohbet oturumu bu bölümleri göremiyor. Öneri: TEK1 onayıyla dalı main'e geçir (videolar üretildiyse [skip ci]).
+- UYARI (birleştirme): dalın yorumlar/defter.json'u main'den 129 satır GERİDE (main'de sohbet oturumunun 18.11 TikTok cevapları var: 184 kayıt). Birleştirirken defterde main sürümü korunmalı, dalınki üstüne yazılmamalı; yoksa çift cevap koruması bozulur.
+- HATA (#96 Menderes, CLAUDE.md 5 kapanış): ses metni "Naaşları İmralıdan alınıp İstanbuldaki anıt mezara taşındı. Kaynaklar video açıklamasında." diye bitiyor: konuya özel soru yok, yorum daveti yok, "Beğenmeyi ve takip etmeyi lütfen unutmayalım" yok. kontrol.py metin arastirma/096_menderes_senaryo.txt: 1 HATA (sabit son cümle yok) "DÜZELTMEDEN TESLİM ETME". Ayrıca konu (Menderes idamı, Yassıada) FB siyasi dağıtım riski taşıyor (CLAUDE.md 12); TEK1'e söylendi mi teyit edilemedi. arastirma/096 araştırma notu (özet + iddia tablosu) yok, sadece senaryo var.
+- HATA (#97 Trabzonspor, CLAUDE.md 5 kapanış): soru var ("...daha önce duymuş muydunuz?") ama "Düşüncelerinizi yorumlarda paylaşın." ve "Kaynaklar video açıklamasında." yok; doğrudan "Beğenmeyi ve takip etmeyi..." geliyor.
+- HATA (#98 Montrö, CLAUDE.md 5 kapanış): konuya özel kapanış sorusu ve yorum daveti yok ("...egemenliğimizi diplomasiyle yeniden kazandık. Kaynaklar video açıklamasında. Beğenmeyi..."). Süre 105,6 sn. Not: araştırma notu iyi (iddia tablosu, "kim okudu" sütunu var).
+- Öneri (3 bölüm): ses alındıysa TEK1'e söyle; soru + yorum daveti için sesin sonuna kısa ek kayıt alınabilir. Karar TEK1'in.
+- Kontrol edildi, sorun yok: kontrol.py bolum #96 0 hata 13 uyarı (95,2 sn), #97 0 hata 10 uyarı (90,9 sn; sahne 1 ~084_emirgan skor 31, sahne 8 ~098_chanak_bogaz skor 22, panoda bakmadım), #98 0 hata 9 uyarı (105,6 sn). Üç bölümde görsel tekrarı HATA yok; ses metninde kesme işareti ve etiket yok; açılış yazısı (acilis) var, açılışlar olay/soruyla. Defter (main): 184 kayıt, 174 yorum_id, farklı cevap_id ile çift cevap yok. bf813a6 (Zernio yeni IG/FB numaraları) CLAUDE.md 9'a düzgün işlenmiş.
+- NOT: Üç bölümde de JSON "sources" boş, yükleme setleri repoda yok (emoji/bayt/sabit yorum denetlenemedi). Süreler 91-106 sn, çok sahne 7-12 sn (uyarı).
+- KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, yükleme setleri, yayın durumu, #94 düzeltilip düzeltilmediği.
+Hesap: 1
+
 ## 17.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 3 kayıt: abe1a3d (Hesap 1 gece kontrolü), 5fd2a5d (INCE_AYARLAR E, sohbet oturumu, "Hesap:" etiketi yok), bdfafe1 (kapak kuralları, Hesap 2). Yeni HATA bulunmadı.
 - Kontrol edildi, sorun yok: bdfafe1 CLAUDE.md/HAFIZA.md'ye düzgün işlenmiş; defter (170 kayıt, 160 yorum_id) farklı cevap_id ile çift cevap yok (bağımsız yeniden sayıldı).
@@ -15,6 +27,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - NOT (etiket): 5fd2a5d etiketsiz (sohbet oturumu); üçüncü etiket önerisi hâlâ TEK1'de.
 - KONTROL EDİLEMEDİ: #92-#96 içerikleri (kontrol.py bu gece çalıştırılmadı), kaynak içerikleri, mp3/video kareleri, yükleme setleri, Zernio/yayın durumu, #93 IG cevap durumu.
 Hesap: 2
+-> Hesap 1: okundu (18.11.2026 04:40)
 
 ## 17.11.2026 04:45 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA (MAIN'E GÖNDER kuralı, CLAUDE.md 2a, kesin 09.11): ccr-hesap2-besiktas dalında main'e gitmemiş 36 kayıt var (15.11 19:04 - 17.11 04:20): #92 Beşiktaş, #93 Galatasaray, #94 Heykel (5816), #95 Fenerbahçe bölüm JSON'ları + görseller, #96 Menderes başlangıcı, transkript.yml değişikliği. #93 yayınlanmış (IG yorumları var) ama main'de yok; dalın DURUM.md'si 15.11'de kalmış, #92-#96 hiç yazılmamış. Neden: iş dalda sürdürülmüş. Öneri: TEK1 onayıyla main'e geçir (episodes/ push video-uret.yml'i tetikler; videolar zaten üretildiyse [skip ci] düşün), DURUM.md'ye #92-#96 durumunu yaz.
