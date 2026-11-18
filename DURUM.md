@@ -279,3 +279,4 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - TEK1: spor videolarından (#92-#95) artık yorum getirme.
 - Konu fikri (izleyiciden): eskiden ambulans yoktu, hasta nasıl taşınırdı.
 - IG bu sohbetin Zernio bağlantısında yok; Buffer'da yorum aracı yok.
+- 23:47 IG yeni Zernio numarası 6afe0d10d257045b461f4d1d (bu sohbet bağlantısı; FB ve Threads bu bağlantıda yok). #99 Demirağ IG'ye 4 cevap gönderildi.
