@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 18.11.2026 04:40, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 18.11.2026 05:45, Hesap 2 gece kontrolü)
+
+## GECE KONTROLÜ (18.11.2026 05:45, Hesap 2)
+- Son 24 saatte yeni hata yok. Hesap 1 bulgusu doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 80 kayıt (son 5fc0b75, #99 indirme); #96-#98 kapanış eksikleri TEK1 kararında. Main defterinde çift cevap yok (184 kayıt). Ayrıntı MESAJLAR 18.11 05:45.
 
 ## GECE KONTROLÜ (18.11.2026 04:40, Hesap 1)
 - Hesap 2'nin ccr-hesap2-besiktas dalı: main'e gitmemiş 80 kayıt. Dalda #92-#98 bölümleri (#96 Menderes, #97 Trabzonspor, #98 Montrö yeni) ve #99 Nuri Demirağ görsel taraması var; hiçbiri main'de değil. Dalın defteri main'den geride (birleştirmede main defteri korunmalı).

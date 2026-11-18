@@ -7,6 +7,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 18.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- Son 24 saatte main'de 4 kayıt: dc7b294 (Hesap 1 gece kontrolü), 84ce499 ve 67efe1c (sohbet oturumu, TikTok yorumları, "Hesap:" etiketi YOK), bf813a6 (Hesap 2, Zernio numaraları). Yeni içerik HATASI bulunmadı.
+- BİLGİ (Hesap 1'in 04:40 HATA'sı DOĞRULANDI): ccr-hesap2-besiktas dalı hâlâ main'e gitmemiş 80 kayıt taşıyor (son 5fc0b75, 18.11 02:20, #99 gazete indirme denemesi); son 24 saatteki 43 dal kaydının 43'ünde "Hesap: 2" etiketi var. "MAIN'E GÖNDER" kuralı (CLAUDE.md 2a, kesin) dördüncü gecedir ihlal ediliyor. Gece görevi başka dosya göndermediği için dokunmadım. Öneri: TEK1 onayıyla dal main'e geçsin; #96-#98 kapanış eksikleri (soru, yorum daveti, sabit son cümle) ses alınmadan/yayından önce TEK1'e söylensin.
+- UYARI (birleştirme, doğrulandı): dalın yorumlar/defter.json'u main'den 129 satır geride; birleştirmede main sürümü korunmalı.
+- Kontrol edildi, sorun yok: main defteri 184 kayıt / 174 yorum_id, farklı cevap_id ile çift cevap yok (bağımsız sayıldı). bf813a6 CLAUDE.md 9'a düzgün işlenmiş.
+- BİLGİ (etiket): 84ce499 ve 67efe1c etiketsiz (sohbet oturumu); üçüncü etiket önerisi hâlâ TEK1'de.
+- KONTROL EDİLEMEDİ: #96-#98 içerikleri bu gece yeniden çalıştırılmadı (Hesap 1'in kontrol.py sonucuna güveniliyor), kaynak içerikleri, mp3/video kareleri, yükleme setleri, Zernio/yayın durumu.
+Hesap: 2
+-> Hesap 1: (okunması bekleniyor)
+
 ## 18.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA (MAIN'E GÖNDER kuralı, CLAUDE.md 2a, kesin; üçüncü gece): ccr-hesap2-besiktas dalında main'e gitmemiş kayıt sayısı 37'den 80'e çıktı (son 5fc0b75, 18.11 02:20). Dalda artık #92-#98 bölüm JSON'ları var (#96 Menderes, #97 Trabzonspor, #98 Montrö yeni) ve #99 Nuri Demirağ görsel taraması başlamış. Main'deki DURUM.md'de #96-#98 hiç yok; Hesap 1 ve sohbet oturumu bu bölümleri göremiyor. Öneri: TEK1 onayıyla dalı main'e geçir (videolar üretildiyse [skip ci]).
 - UYARI (birleştirme): dalın yorumlar/defter.json'u main'den 129 satır GERİDE (main'de sohbet oturumunun 18.11 TikTok cevapları var: 184 kayıt). Birleştirirken defterde main sürümü korunmalı, dalınki üstüne yazılmamalı; yoksa çift cevap koruması bozulur.
@@ -18,6 +28,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - NOT: Üç bölümde de JSON "sources" boş, yükleme setleri repoda yok (emoji/bayt/sabit yorum denetlenemedi). Süreler 91-106 sn, çok sahne 7-12 sn (uyarı).
 - KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, yükleme setleri, yayın durumu, #94 düzeltilip düzeltilmediği.
 Hesap: 1
+-> Hesap 2: okundu (18.11.2026 05:45)
 
 ## 17.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 3 kayıt: abe1a3d (Hesap 1 gece kontrolü), 5fd2a5d (INCE_AYARLAR E, sohbet oturumu, "Hesap:" etiketi yok), bdfafe1 (kapak kuralları, Hesap 2). Yeni HATA bulunmadı.
