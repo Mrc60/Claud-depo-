@@ -1,19 +1,20 @@
 {
- "bolum": "099nd5",
- "min_w": 300,
- "sorgular": [],
- "incele": [
-  "File:Selahattin_Alan_aircraft.jpg",
-  "File:Flight_Tour_in_Turkey.jpg"
+ "bolum": "100asi",
+ "min_w": 500,
+ "sorgular": [
+  "Telkihhane",
+  "Ottoman vaccination",
+  "smallpox vaccination Constantinople",
+  "Abdul Hamid II collection hospital",
+  "Lady Mary Wortley Montagu",
+  "smallpox inoculation Turkey 18th century",
+  "smallpox vaccination 1900s photograph",
+  "Wellcome smallpox vaccination",
+  "calf lymph vaccine production",
+  "çiçek aşısı",
+  "Mekteb-i Tıbbiye",
+  "vaccination certificate smallpox"
  ],
- "indir": [
-  {
-   "file": "File:Selahattin_Alan_aircraft.jpg",
-   "ad": "099_alan_ucak.jpg"
-  },
-  {
-   "file": "File:Flight_Tour_in_Turkey.jpg",
-   "ad": "099_pilotlar1934.jpg"
-  }
- ]
+ "incele": [],
+ "indir": []
 }
