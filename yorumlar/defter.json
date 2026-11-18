@@ -1393,7 +1393,7 @@
     "tarih": "2026-11-15"
    }
   ],
-  "sinir_notu": "2026-11-15T07:30Z tarandı (10:30 İstanbul); kanal sabit yorumu hariç.",
+  "sinir_notu": "2026-11-18T20:28Z tarandı (23:28 İstanbul); yeni yorum yok.",
   "atlananlar": [
    "7708302611145802518 viealsace \"ne alaka\" (kanal cevabının altında yanıt; cevap verilmedi)"
   ]
@@ -1410,7 +1410,7 @@
     "tarih": "2026-11-15"
    }
   ],
-  "sinir_notu": "2026-11-15T07:40Z tarandı (10:40 İstanbul)."
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
  },
  "tiktok/7707394815947787541": {
   "video": "081 Tükürük",
@@ -1422,9 +1422,16 @@
     "yorum": "AB de evet..",
     "cevap_id": "7708298290550801173",
     "tarih": "2026-11-15"
+   },
+   {
+    "yorum_id": "7709387120100410130",
+    "kullanici": "mustafa.akyol25",
+    "yorum": "[Havalı]Birsey soracagım eskiden ambulans yoktu videosu varmı",
+    "cevap_id": "7709611415555851060",
+    "tarih": "2026-11-18T20:38Z"
    }
   ],
-  "sinir_notu": "2026-11-15T07:40Z tarandı (10:40 İstanbul).",
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul).",
   "atlananlar": [
    "7707515102358225672 Sadık Dersimli sadece emoji (TEK1: atla)"
   ]
@@ -1441,7 +1448,7 @@
     "tarih": "2026-11-15"
    }
   ],
-  "sinir_notu": "2026-11-15T07:40Z tarandı (10:40 İstanbul)."
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
  },
  "tiktok/7706258930485300486": {
   "video": "075 10 Kasım",
@@ -1515,7 +1522,7 @@
     "tarih": "2026-11-15"
    }
   ],
-  "sinir_notu": "2026-11-15T15:17Z tarandı (18:17 İstanbul); kanal sabit yorumu hariç."
+  "sinir_notu": "2026-11-18T20:28Z tarandı (23:28 İstanbul); yeni yorum yok."
  },
  "tiktok/7708932956823375112": {
   "video": "095 Fenerbahçe",
@@ -1557,7 +1564,7 @@
     "tarih": "2026-11-18"
    }
   ],
-  "sinir_notu": "2026-11-17T21:20Z tarandı (00:20 İstanbul 18.11); #93 136 yorumun sadece en yeni 30'u tarandı.",
+  "sinir_notu": "2026-11-18T20:26Z tarandı (23:26 İstanbul); madimakpepe atlandı.",
   "atlananlar": [
    "7709081837070746420 serkankalkan1979 (TEK1: atla)"
   ]
@@ -1621,9 +1628,30 @@
     "yorum": "tabiki Fenerbahce tarihine bakınız",
     "cevap_id": "7709236209327113012",
     "tarih": "2026-11-18"
+   },
+   {
+    "yorum_id": "7709606003059720968",
+    "kullanici": "bulent.oral4",
+    "yorum": "Ben bir gs olarak en büyük 3 takım var benden büyük Gs bjk Fb",
+    "cevap_id": "7709609983033950996",
+    "tarih": "2026-11-18T20:34Z"
+   },
+   {
+    "yorum_id": "7709560404883997472",
+    "kullanici": "ceramikdetailing",
+    "yorum": "Lütfenİ verin Galatasaray Spor kulübü terziye gitmişler taksim'e... (Nubar Terziyan)",
+    "cevap_id": "7709610835647169286",
+    "tarih": "2026-11-18T20:34Z"
+   },
+   {
+    "yorum_id": "7709507253892776710",
+    "kullanici": "g.ant27",
+    "yorum": "İlk türk takımı Beşiktaş ?",
+    "cevap_id": "7709610263846667029",
+    "tarih": "2026-11-18T20:34Z"
    }
   ],
-  "sinir_notu": "2026-11-17T21:20Z tarandı (00:20 İstanbul 18.11); #93 136 yorumun sadece en yeni 30'u tarandı."
+  "sinir_notu": "2026-11-18T20:28Z tarandı (23:28 İstanbul); en yeni 25 ana yorum."
  },
  "tiktok/7708552425153629448": {
   "video": "092 Beşiktaş",
@@ -1637,13 +1665,67 @@
     "tarih": "2026-11-18"
    }
   ],
-  "sinir_notu": "2026-11-17T21:20Z tarandı (00:20 İstanbul 18.11); #93 136 yorumun sadece en yeni 30'u tarandı."
+  "sinir_notu": "2026-11-18T20:28Z tarandı (23:28 İstanbul); yeni yorum yok."
  },
  "tiktok/7709151816641957138": {
   "video": "096 Menderes",
-  "kayitlar": [],
+  "kayitlar": [
+   {
+    "yorum_id": "7709257176670110472",
+    "kullanici": "necati.bige12",
+    "yorum": "ilk okulda bunlarda anlatsınlar neden anlatmıyor lar",
+    "cevap_id": "7709608346370163474",
+    "tarih": "2026-11-18T20:26Z"
+   }
+  ],
   "atlananlar": [
    "7709212351635718918 kadirkesh2 siyasi (TEK1: atla)"
+  ],
+  "sinir_notu": "2026-11-18T20:24Z tarandı (23:24 İstanbul); rahmet/siyasi/emoji yorumları atlandı (TEK1 onayı)."
+ },
+ "tiktok/7708859028964723976": {
+  "video": "094 Heykel",
+  "kayitlar": [
+   {
+    "yorum_id": "7709543459980395296",
+    "kullanici": "muratkangal40",
+    "yorum": "düşüncelerinizi yazın diyorsun da,öncesinde 1 ila 3 yıl hapis diyorsun!",
+    "cevap_id": "7709608869546656533",
+    "tarih": "2026-11-18T20:28Z"
+   }
+  ],
+  "atlananlar": [],
+  "sinir_notu": "2026-11-18T20:27Z tarandı (23:27 İstanbul); en yeni 25 ana yorum, siyasiler atlandı."
+ },
+ "tiktok/7706924683693673736": {
+  "video": "Ebe",
+  "kayitlar": [
+   {
+    "yorum_id": "7709101145985352469",
+    "kullanici": "bozca_mehmet",
+    "yorum": "ben",
+    "cevap_id": "7709611472510370567",
+    "tarih": "2026-11-18T20:38Z"
+   }
+  ],
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
+ },
+ "tiktok/7707768930030472456": {
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
+ },
+ "tiktok/7707287635601100040": {
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
+ },
+ "tiktok/7707044702150774036": {
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
+ },
+ "tiktok/7706660560380677396": {
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul)."
+ },
+ "tiktok/7708038091579084084": {
+  "sinir_notu": "2026-11-18T20:34Z tarandı (23:34 İstanbul).",
+  "atlananlar": [
+   "7709006635561485077 okantiktas75 belirsiz"
   ]
  }
 }

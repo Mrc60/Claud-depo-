@@ -273,3 +273,9 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 ## #64 TELEFON (04.11.2026 gece, Hesap 2)
 - Senaryo, 12 görsel, bölüm JSON (episodes/064_telefon.json), yükleme seti taslağı hazır; dal ccr-hesap2-telefon. TEK1'in ElevenLabs sesi bekleniyor.
 - 4-10 Kasım: 1. video 12:00 (5 Kasımdan itibaren 11:00, TEK1 kararı), 2. video 16:00, tüm platformlar. 11 Kasım'da istatistik dalındaki ozet.md ile eski saatleri (07:00/18:00) karşılaştır.
+
+## 18.11.2026 23:40 Sohbet oturumu (TikTok yorumları)
+- Gönderilen 8 cevap: Menderes necati.bige12; Heykel muratkangal40; Galatasaray bulent.oral4, ceramikdetailing, g.ant27; Ebe bozca_mehmet; Tükürük mustafa.akyol25. Hepsi isReply true, defterde.
+- TEK1: spor videolarından (#92-#95) artık yorum getirme.
+- Konu fikri (izleyiciden): eskiden ambulans yoktu, hasta nasıl taşınırdı.
+- IG bu sohbetin Zernio bağlantısında yok; Buffer'da yorum aracı yok.
