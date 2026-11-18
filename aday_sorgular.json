@@ -1,30 +1,128 @@
 {
- "bolum": "100asi4",
+ "bolum": "100asi5",
  "min_w": 600,
  "sorgular": [
-  "Abdul Hamid II collection students",
-  "Abdul Hamid II collection school",
-  "Abdul Hamid II collection children",
-  "Abdul Hamid II collection orphanage",
-  "Darülaceze",
-  "Abdullah Frères students",
-  "Kız Rüşdiyesi",
-  "Ottoman school children LCCN",
-  "Turkish woman holding baby LCCN",
-  "Turkish mother child Sébah",
-  "Ottoman child portrait LCCN",
-  "Pera Palace Hotel 1900",
-  "Istanbul hotel 19th century photograph",
-  "Montagu inoculation",
-  "inoculation smallpox Wellcome",
-  "smallpox hospital Wellcome",
-  "Jenner vaccinating",
-  "vaccination Wellcome photograph child arm",
-  "Ottoman midwife",
-  "Turkey 1950s village photograph",
-  "Sivas Hıfzıssıhha",
-  "Refik Saydam portrait"
+  "calf vaccine lymph Wellcome",
+  "vaccine calf photograph",
+  "cowpox cow",
+  "Ottoman factory Feshane",
+  "Hereke factory 19th century",
+  "Pera Palace Hotel",
+  "Tokatlıyan",
+  "Ottoman soldiers 1890s",
+  "Ottoman officials 1890s photograph",
+  "Turkish baby 1930s",
+  "Ankara Numune Hastanesi",
+  "Refik Saydam",
+  "smallpox vaccination 1950s",
+  "Turkish village 1950s",
+  "Ottoman woman veiled child Abdullah Frères",
+  "Turkish family 1890s photograph LOC",
+  "Sébah Joaillier Turkish women",
+  "vaccination station 1900"
  ],
- "incele": [],
- "indir": []
+ "incele": [
+  "Stammesschule Gruppenfoto.jpg",
+  "Atatürk Boulevard, Ministry of Health, Ankara Boys’ High School (Stone Maktab - Taş Mektep), Numune Hospital, 1930s (16645155127).jpg",
+  "Gülhane II (1903).jpg",
+  "Shaykh al-Islām.jpg",
+  "Sheikh-ul-Islam Ürgüplü Hayri Efendi.jpg",
+  "Memleket Hastanesi.jpg",
+  "Serveti funun-1899-06-08-1 Hamidiye Etfal.jpg",
+  "Drawings showing smallpox and cowpox inoculation. Wellcome L0015944.jpg",
+  "Inoculation certificate from Smallpox Wellcome L0040303.jpg",
+  "Edward Jenner vaccinating a young child, held by its mother, Wellcome L0027357.jpg",
+  "Lady Mary Wortley Montagu. Stipple engraving by Caroline Wat Wellcome V0004079.jpg",
+  "Vaccination against smallpox; a young Turkmen being vaccinat Wellcome L0032924.jpg",
+  "Smallpox epidemic, Palestine; children after vaccination Wellcome V0029326.jpg",
+  "Smallpox epidemic, Palestine; the vaccination team leaving D Wellcome L0032735.jpg",
+  "1909-06-02, Actualidades, Madrid, Campaña contra la viruela, Cifuentes.jpg",
+  "08iulsah021.jpg",
+  "23iulsah.jpg",
+  "41iulsah.jpg",
+  "Royal College of Surgeons certificate - Smallpox Wellcome L0040304.jpg",
+  "Extention of vaccination to the poor - Smallpox Wellcome L0040305.jpg"
+ ],
+ "indir": [
+  {
+   "file": "Stammesschule Gruppenfoto.jpg",
+   "ad": "100_asiret.jpg"
+  },
+  {
+   "file": "Atatürk Boulevard, Ministry of Health, Ankara Boys’ High School (Stone Maktab - Taş Mektep), Numune Hospital, 1930s (16645155127).jpg",
+   "ad": "100_saglikbak.jpg"
+  },
+  {
+   "file": "Gülhane II (1903).jpg",
+   "ad": "100_gulhane.jpg"
+  },
+  {
+   "file": "Shaykh al-Islām.jpg",
+   "ad": "100_seyhulislam.jpg"
+  },
+  {
+   "file": "Sheikh-ul-Islam Ürgüplü Hayri Efendi.jpg",
+   "ad": "100_hayriefendi.jpg"
+  },
+  {
+   "file": "Memleket Hastanesi.jpg",
+   "ad": "100_memleket.jpg"
+  },
+  {
+   "file": "Serveti funun-1899-06-08-1 Hamidiye Etfal.jpg",
+   "ad": "100_servetifunun.jpg"
+  },
+  {
+   "file": "Drawings showing smallpox and cowpox inoculation. Wellcome L0015944.jpg",
+   "ad": "100_kol_cizim.jpg"
+  },
+  {
+   "file": "Inoculation certificate from Smallpox Wellcome L0040303.jpg",
+   "ad": "100_belge1837.jpg"
+  },
+  {
+   "file": "Edward Jenner vaccinating a young child, held by its mother, Wellcome L0027357.jpg",
+   "ad": "100_jenner.jpg"
+  },
+  {
+   "file": "Lady Mary Wortley Montagu. Stipple engraving by Caroline Wat Wellcome V0004079.jpg",
+   "ad": "100_montagu.jpg"
+  },
+  {
+   "file": "Vaccination against smallpox; a young Turkmen being vaccinat Wellcome L0032924.jpg",
+   "ad": "100_turkmen.jpg"
+  },
+  {
+   "file": "Smallpox epidemic, Palestine; children after vaccination Wellcome V0029326.jpg",
+   "ad": "100_filistin_cocuk.jpg"
+  },
+  {
+   "file": "Smallpox epidemic, Palestine; the vaccination team leaving D Wellcome L0032735.jpg",
+   "ad": "100_filistin_ekip.jpg"
+  },
+  {
+   "file": "1909-06-02, Actualidades, Madrid, Campaña contra la viruela, Cifuentes.jpg",
+   "ad": "100_madrid1909.jpg"
+  },
+  {
+   "file": "08iulsah021.jpg",
+   "ad": "100_iul08.jpg"
+  },
+  {
+   "file": "23iulsah.jpg",
+   "ad": "100_iul23.jpg"
+  },
+  {
+   "file": "41iulsah.jpg",
+   "ad": "100_iul41.jpg"
+  },
+  {
+   "file": "Royal College of Surgeons certificate - Smallpox Wellcome L0040304.jpg",
+   "ad": "100_belge_rcs.jpg"
+  },
+  {
+   "file": "Extention of vaccination to the poor - Smallpox Wellcome L0040305.jpg",
+   "ad": "100_fakir.jpg"
+  }
+ ]
 }
