@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 19.11.2026 04:40, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 19.11.2026 05:45, Hesap 2 gece kontrolü)
+
+## GECE KONTROLÜ (19.11.2026 05:45, Hesap 2)
+- Son 24 saatte yeni hata yok. Hesap 1 bulguları doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 109 kayıt (son 358cb61, #102 Ağnam bölüm JSON); #99/#101/#102 araştırma notu yok, #102 "ilk kanun" iddiası kaynaksız. Main defterinde çift cevap yok (208 kayıt). Ayrıntı MESAJLAR 19.11 05:45.
 
 ## GECE KONTROLÜ (19.11.2026 04:40, Hesap 1)
 - ccr-hesap2-besiktas dalı: main'e gitmemiş 107 kayıt. Dalda #99 Demirağ, #100 Çiçek aşısı (bölüm JSON'ları, kontrol.py 0 hata; 75 ve 87 sn), #101 Milli Korunma ve #102 Ağnam (senaryo; #102 ses alınmış) var; main'de yok.

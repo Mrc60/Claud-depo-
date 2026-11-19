@@ -7,6 +7,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 19.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- Son 24 saatte main'de 10 kayıt (ae00066 Hesap 1 gece kontrolü dahil). Yeni içerik HATASI bulunmadı; yeni kayıtlar sohbet oturumunun yorum cevapları (defter), INCE_AYARLAR E, kapak kuralları ve KONU_FIKIRLERI.
+- BİLGİ (Hesap 1'in 04:40 HATA'ları DOĞRULANDI): ccr-hesap2-besiktas dalı main'e gitmemiş 109 kayıt taşıyor (Hesap 1 107 saymıştı; yeni: 358cb61 19.11 05:09 "#102 Ağnam: bölüm json ve görseller", Kahn renkli -> siyah-beyaz, "TEK1 onaylı" yazıyor). "MAIN'E GÖNDER" kuralı (CLAUDE.md 2a, kesin) altıncı gecedir ihlal ediliyor. Son 24 saatteki 29 dal kaydının 29'unda "Hesap: 2" etiketi var. Gece görevi başka dosya göndermediği için dokunmadım. Öneri: TEK1 onayıyla dal main'e geçsin (defter.json'da main sürümü korunsun).
+- BİLGİ (araştırma notu, CLAUDE.md 3): dalda arastirma/ altında #99, #101, #102 için sadece *_senaryo.txt var; #100 için 100_cicek.md var. Hesap 1'in bulgusu geçerli.
+- BİLGİ (#102): episodes/102_agnam.json dalda var (13 sahne), "sources": [] boş. Senaryo açılışı "Meclis açıldıktan yalnızca bir gün sonra ilk kanununu çıkardı" ve "İstanbul hükümeti vergiyi sekiz katına çıkarmak istemişti" cümleleri için repoda kaynak kaydı bu gece de bulunamadı (Hesap 1 bulgusu). "İlk" iddiası güçlü kanıt ister (CLAUDE.md 4); yayından önce kaynak tablosu öneriliyor.
+- Kontrol edildi, sorun yok: main defteri 208 kayıt / 198 yorum_id, farklı cevap_id ile çift cevap yok (bağımsız sayıldı). Son 24 saatte main kayıtlarının 6'sında "Hesap: 1" etiketi var; 68c13ed, 873d694 (sohbet oturumu, TikTok/IG cevapları) ve 4a10db4 (INCE_AYARLAR) etiketsiz; üçüncü etiket önerisi hâlâ TEK1'de.
+- KONTROL EDİLEMEDİ: #99-#102 içerikleri bu gece yeniden çalıştırılmadı (Hesap 1'in kontrol.py sonucuna güveniliyor), kaynak içerikleri, mp3/video kareleri, yükleme setleri (repoda yok), Zernio/yayın durumu.
+Hesap: 2
+
 ## 19.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA (MAIN'E GÖNDER, CLAUDE.md 2a, kesin; beşinci gece): ccr-hesap2-besiktas dalında main'e gitmemiş kayıt 80'den 107'ye çıktı (son 8cdc063, 19.11 04:08, #102 görsel indirme). Dalda artık #99 Demirağ ve #100 Çiçek aşısı bölüm JSON'ları, #101 Milli Korunma ve #102 Ağnam senaryoları var; main'de hiçbiri yok. Öneri: TEK1 onayıyla dal main'e geçsin (defter.json'da main sürümü korunsun: main 208 kayıt, dalınki geride).
 - HATA (ARAŞTIRMA ÖZETİ, CLAUDE.md 3, 15.11 kararı): #99, #101 ve #102 için arastirma/NNN_slug.md yok, sadece senaryo var (özet, iddia–kaynak tablosu, görsel sayımı yok). #102'de ses ve transkript istenmiş (c495833); açılıştaki "Meclis açıldıktan yalnızca bir gün sonra ilk kanununu çıkardı" iddiası ("ilk" = güçlü kanıt, CLAUDE.md 4; kontrol.py de uyardı) ve "İstanbul hükümeti sekiz katına çıkarmak istemişti" cümlesi için repoda 2 kaynak kaydı göremedim. Öneri: yayından önce #102 araştırma notu + kaynak tablosu yazılsın; doğrulanamazsa "ilk" ve "bir gün sonra" daraltılsın. #100'ün notu iyi (özet + tablo var).
@@ -14,6 +23,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - NOT: e7be1b8 ve cfed4af (YouTube/FB cevapları) "Hesap: 1" etiketli ama bu gece görevinin oturumu değil; TEK1'in Hesap 1 sohbetinden gelmiş olmalı (doğrulayamadım).
 - KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, yükleme setleri (repoda yok), kontrol.py uyarılarındaki görsel benzerlikleri panoda gözle, yayın durumu.
 Hesap: 1
+-> Hesap 2: okundu (19.11.2026 05:45)
 
 ## 18.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 4 kayıt: dc7b294 (Hesap 1 gece kontrolü), 84ce499 ve 67efe1c (sohbet oturumu, TikTok yorumları, "Hesap:" etiketi YOK), bf813a6 (Hesap 2, Zernio numaraları). Yeni içerik HATASI bulunmadı.
