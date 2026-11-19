@@ -1,0 +1,1327 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 103,
+ "slug": "milli",
+ "title": "Türkiyenin İlk Milli Maçları",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Cumhuriyetten 3 gün önce\nilk milli maç",
+ "dis_ses": {
+  "file": "assets/ses/103_milli.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.42
+    ]
+   ],
+   [
+    [
+     8.42,
+     15.18
+    ]
+   ],
+   [
+    [
+     15.18,
+     20.76
+    ]
+   ],
+   [
+    [
+     20.76,
+     29.02
+    ]
+   ],
+   [
+    [
+     29.02,
+     37.14
+    ]
+   ],
+   [
+    [
+     37.14,
+     48.04
+    ]
+   ],
+   [
+    [
+     48.04,
+     54.18
+    ]
+   ],
+   [
+    [
+     54.18,
+     60.6
+    ]
+   ],
+   [
+    [
+     60.6,
+     68.22
+    ]
+   ],
+   [
+    [
+     68.22,
+     78.48
+    ]
+   ],
+   [
+    [
+     78.48,
+     87.02
+    ]
+   ],
+   [
+    [
+     87.02,
+     99.39
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Henüz Türkiye Cumhuriyeti ilan edilmemişti. Ama Türkiye, dünya sahnesine çıkmaya hazırlanıyordu. Hem de bir futbol takımıyla.",
+   "caption": "Henüz Türkiye Cumhuriyeti ilan edilmemişti. Ama Türkiye, dünya sahnesine çıkmaya hazırlanıyordu. Hem de bir futbol takımıyla.",
+   "key": [
+    "Cumhuriyeti"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_isvec1924.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiye milli futbol takımı, İsveç, 1924 · hifhistoria.se, kamu malı",
+    "lisans": "",
+    "kaynak": "Türkiye milli futbol takımı, İsveç, 1924 · hifhistoria.se, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.298,
+     0,
+     0.702,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.52,
+     "n": 1
+    },
+    {
+     "start": 0.52,
+     "end": 0.94,
+     "n": 1
+    },
+    {
+     "start": 0.94,
+     "end": 1.54,
+     "n": 1
+    },
+    {
+     "start": 1.54,
+     "end": 1.98,
+     "n": 1
+    },
+    {
+     "start": 1.98,
+     "end": 3.0,
+     "n": 1
+    },
+    {
+     "start": 3.0,
+     "end": 3.32,
+     "n": 1
+    },
+    {
+     "start": 3.32,
+     "end": 4.0,
+     "n": 1
+    },
+    {
+     "start": 4.4,
+     "end": 4.58,
+     "n": 1
+    },
+    {
+     "start": 4.58,
+     "end": 5.14,
+     "n": 1
+    },
+    {
+     "start": 5.14,
+     "end": 5.5,
+     "n": 1
+    },
+    {
+     "start": 5.5,
+     "end": 6.6,
+     "n": 1
+    },
+    {
+     "start": 6.84,
+     "end": 6.94,
+     "n": 1
+    },
+    {
+     "start": 6.94,
+     "end": 7.1,
+     "n": 1
+    },
+    {
+     "start": 7.1,
+     "end": 7.3,
+     "n": 1
+    },
+    {
+     "start": 7.3,
+     "end": 7.68,
+     "n": 1
+    },
+    {
+     "start": 7.68,
+     "end": 8.3,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "İstanbul işgalden kurtulalı yalnızca yirmi gün olmuştu. Taksim Stadında rakip Romanyaydı.",
+   "caption": "İstanbul işgalden kurtulalı yalnızca yirmi gün olmuştu. Taksim Stadı'nda rakip Romanya'ydı.",
+   "key": [
+    "işgalden"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_kurtulus.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulun kurtuluşu, 6 Ekim 1923 · Cumhuriyetin 75 Yılı, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulun kurtuluşu, 6 Ekim 1923 · Cumhuriyetin 75 Yılı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.314,
+     0,
+     0.686,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.92,
+     "end": 9.26,
+     "n": 1
+    },
+    {
+     "start": 9.26,
+     "end": 9.94,
+     "n": 1
+    },
+    {
+     "start": 9.94,
+     "end": 10.54,
+     "n": 1
+    },
+    {
+     "start": 10.54,
+     "end": 11.3,
+     "n": 1
+    },
+    {
+     "start": 11.3,
+     "end": 11.62,
+     "n": 1
+    },
+    {
+     "start": 11.62,
+     "end": 11.8,
+     "n": 1
+    },
+    {
+     "start": 11.8,
+     "end": 12.58,
+     "n": 1
+    },
+    {
+     "start": 12.84,
+     "end": 13.16,
+     "n": 1
+    },
+    {
+     "start": 13.16,
+     "end": 13.74,
+     "n": 1
+    },
+    {
+     "start": 13.74,
+     "end": 14.22,
+     "n": 1
+    },
+    {
+     "start": 14.22,
+     "end": 15.18,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama ortada henüz cumhuriyet yoktu. Peki bu takım nasıl milli takım olmuştu?",
+   "caption": "Ama ortada henüz cumhuriyet yoktu. Peki bu takım nasıl milli takım olmuştu?",
+   "key": [
+    "milli"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_kurtulus2.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbulun kurtuluşu, Resimli Gazete, 13 Ekim 1923 · Milli Kütüphane, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbulun kurtuluşu, Resimli Gazete, 13 Ekim 1923 · Milli Kütüphane, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.328,
+     0,
+     0.672,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 15.18,
+     "end": 15.52,
+     "n": 1
+    },
+    {
+     "start": 15.52,
+     "end": 15.98,
+     "n": 1
+    },
+    {
+     "start": 15.98,
+     "end": 16.32,
+     "n": 1
+    },
+    {
+     "start": 16.32,
+     "end": 16.88,
+     "n": 1
+    },
+    {
+     "start": 16.88,
+     "end": 17.64,
+     "n": 1
+    },
+    {
+     "start": 17.82,
+     "end": 18.08,
+     "n": 1
+    },
+    {
+     "start": 18.08,
+     "end": 18.4,
+     "n": 1
+    },
+    {
+     "start": 18.4,
+     "end": 18.74,
+     "n": 1
+    },
+    {
+     "start": 18.74,
+     "end": 19.16,
+     "n": 1
+    },
+    {
+     "start": 19.16,
+     "end": 19.46,
+     "n": 1
+    },
+    {
+     "start": 19.46,
+     "end": 19.8,
+     "n": 1
+    },
+    {
+     "start": 19.8,
+     "end": 20.66,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yeni kurulan Türkiye Futbol Federasyonu, 1923 baharında FIFAya, yani dünya futbol birliğine üye olmuştu.",
+   "caption": "Yeni kurulan Türkiye Futbol Federasyonu, 1923 baharında FIFAya, yani dünya futbol birliğine üye olmuştu.",
+   "key": [
+    "FIFAya"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_tribun.jpg",
+    "fit": "doldur",
+    "baslik": "Taksim Stadında seyirciler, 1932 · Akşam gazetesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Taksim Stadında seyirciler, 1932 · Akşam gazetesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.29,
+     0,
+     0.71,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 20.86,
+     "end": 21.12,
+     "n": 1
+    },
+    {
+     "start": 21.12,
+     "end": 21.48,
+     "n": 1
+    },
+    {
+     "start": 21.48,
+     "end": 21.92,
+     "n": 1
+    },
+    {
+     "start": 21.92,
+     "end": 22.32,
+     "n": 1
+    },
+    {
+     "start": 22.32,
+     "end": 23.26,
+     "n": 1
+    },
+    {
+     "start": 23.26,
+     "end": 24.42,
+     "n": 1
+    },
+    {
+     "start": 24.42,
+     "end": 25.2,
+     "n": 1
+    },
+    {
+     "start": 25.2,
+     "end": 26.04,
+     "n": 1
+    },
+    {
+     "start": 26.04,
+     "end": 26.48,
+     "n": 1
+    },
+    {
+     "start": 26.48,
+     "end": 27.0,
+     "n": 1
+    },
+    {
+     "start": 27.0,
+     "end": 27.42,
+     "n": 1
+    },
+    {
+     "start": 27.42,
+     "end": 27.96,
+     "n": 1
+    },
+    {
+     "start": 27.96,
+     "end": 28.24,
+     "n": 1
+    },
+    {
+     "start": 28.24,
+     "end": 29.02,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Böylece Türkiyenin resmî milli maç yapmasının önü açılmıştı. Ve ilk maç başladı... Romanya öne geçti.",
+   "caption": "Böylece Türkiye'nin resmî milli maç yapmasının önü açılmıştı. Ve ilk maç başladı... Romanya öne geçti.",
+   "key": [
+    "Romanya"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_taksim_mac.jpg",
+    "fit": "doldur",
+    "baslik": "Taksim Stadında bir milli maç, 1932 · TFF Türk Futbol Tarihi, kamu malı",
+    "lisans": "",
+    "kaynak": "Taksim Stadında bir milli maç, 1932 · TFF Türk Futbol Tarihi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.257,
+     0,
+     0.643,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 29.02,
+     "end": 29.96,
+     "n": 1
+    },
+    {
+     "start": 29.96,
+     "end": 30.62,
+     "n": 1
+    },
+    {
+     "start": 30.62,
+     "end": 31.2,
+     "n": 1
+    },
+    {
+     "start": 31.2,
+     "end": 31.52,
+     "n": 1
+    },
+    {
+     "start": 31.52,
+     "end": 31.84,
+     "n": 1
+    },
+    {
+     "start": 31.84,
+     "end": 32.44,
+     "n": 1
+    },
+    {
+     "start": 32.44,
+     "end": 32.82,
+     "n": 1
+    },
+    {
+     "start": 32.82,
+     "end": 33.4,
+     "n": 1
+    },
+    {
+     "start": 33.4,
+     "end": 34.02,
+     "n": 1
+    },
+    {
+     "start": 34.02,
+     "end": 34.42,
+     "n": 1
+    },
+    {
+     "start": 34.42,
+     "end": 34.68,
+     "n": 1
+    },
+    {
+     "start": 34.68,
+     "end": 35.32,
+     "n": 1
+    },
+    {
+     "start": 35.8,
+     "end": 36.24,
+     "n": 1
+    },
+    {
+     "start": 36.24,
+     "end": 36.6,
+     "n": 1
+    },
+    {
+     "start": 36.6,
+     "end": 37.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ancak sonra Zeki Rıza öne çıktı. İki gol attı. Milli takım tarihinin ilk golü de onun imzasını taşıdı. Karşılaşma ikiye iki sona erdi.",
+   "caption": "Ancak sonra Zeki Rıza öne çıktı. İki gol attı. Milli takım tarihinin ilk golü de onun imzasını taşıdı. Karşılaşma ikiye iki sona erdi.",
+   "key": [
+    "Zeki",
+    "Rıza"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_zekiriza.jpg",
+    "fit": "doldur",
+    "baslik": "Zeki Rıza Sporel, 1931 · Türkspor dergisi, kamu malı",
+    "lisans": "",
+    "kaynak": "Zeki Rıza Sporel, 1931 · Türkspor dergisi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.7
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.14,
+     "end": 37.66,
+     "n": 1
+    },
+    {
+     "start": 37.66,
+     "end": 38.18,
+     "n": 1
+    },
+    {
+     "start": 38.18,
+     "end": 38.64,
+     "n": 1
+    },
+    {
+     "start": 38.64,
+     "end": 39.0,
+     "n": 1
+    },
+    {
+     "start": 39.0,
+     "end": 39.34,
+     "n": 1
+    },
+    {
+     "start": 39.34,
+     "end": 39.66,
+     "n": 1
+    },
+    {
+     "start": 40.1,
+     "end": 40.3,
+     "n": 1
+    },
+    {
+     "start": 40.3,
+     "end": 40.52,
+     "n": 1
+    },
+    {
+     "start": 40.52,
+     "end": 41.18,
+     "n": 1
+    },
+    {
+     "start": 41.46,
+     "end": 41.64,
+     "n": 1
+    },
+    {
+     "start": 41.64,
+     "end": 41.96,
+     "n": 1
+    },
+    {
+     "start": 41.96,
+     "end": 42.54,
+     "n": 1
+    },
+    {
+     "start": 42.54,
+     "end": 42.98,
+     "n": 1
+    },
+    {
+     "start": 42.98,
+     "end": 43.28,
+     "n": 1
+    },
+    {
+     "start": 43.28,
+     "end": 43.52,
+     "n": 1
+    },
+    {
+     "start": 43.52,
+     "end": 43.76,
+     "n": 1
+    },
+    {
+     "start": 43.76,
+     "end": 44.32,
+     "n": 1
+    },
+    {
+     "start": 44.32,
+     "end": 45.04,
+     "n": 1
+    },
+    {
+     "start": 45.3,
+     "end": 46.08,
+     "n": 1
+    },
+    {
+     "start": 46.08,
+     "end": 46.6,
+     "n": 1
+    },
+    {
+     "start": 46.6,
+     "end": 46.88,
+     "n": 1
+    },
+    {
+     "start": 46.88,
+     "end": 47.28,
+     "n": 1
+    },
+    {
+     "start": 47.28,
+     "end": 47.92,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ertesi yıl takımın kasasında para yoktu. Ancak hükümetin desteğiyle Paris Olimpiyatlarına gitti.",
+   "caption": "Ertesi yıl takımın kasasında para yoktu. Ancak hükümetin desteğiyle Paris Olimpiyatları'na gitti.",
+   "key": [
+    "Paris"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_colombes.jpg",
+    "fit": "doldur",
+    "baslik": "Colombes Stadı, Paris Olimpiyatları, 1924 · Agence Rol, Gallica, kamu malı",
+    "lisans": "",
+    "kaynak": "Colombes Stadı, Paris Olimpiyatları, 1924 · Agence Rol, Gallica, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.305,
+     0,
+     0.695,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.22,
+     "end": 48.64,
+     "n": 1
+    },
+    {
+     "start": 48.64,
+     "end": 48.76,
+     "n": 1
+    },
+    {
+     "start": 48.76,
+     "end": 49.28,
+     "n": 1
+    },
+    {
+     "start": 49.28,
+     "end": 49.74,
+     "n": 1
+    },
+    {
+     "start": 49.74,
+     "end": 50.02,
+     "n": 1
+    },
+    {
+     "start": 50.02,
+     "end": 50.66,
+     "n": 1
+    },
+    {
+     "start": 50.66,
+     "end": 51.12,
+     "n": 1
+    },
+    {
+     "start": 51.12,
+     "end": 51.78,
+     "n": 1
+    },
+    {
+     "start": 51.78,
+     "end": 52.58,
+     "n": 1
+    },
+    {
+     "start": 52.58,
+     "end": 52.94,
+     "n": 1
+    },
+    {
+     "start": 52.94,
+     "end": 53.78,
+     "n": 1
+    },
+    {
+     "start": 53.78,
+     "end": 54.18,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Güçlü Çekoslovakya karşısında ise mağlup oldu. Ama bu yenilgi yolculuğun sonu değildi.",
+   "caption": "Güçlü Çekoslovakya karşısında ise mağlup oldu. Ama bu yenilgi yolculuğun sonu değildi.",
+   "key": [
+    "Çekoslovakya"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_paris_takim.jpg",
+    "fit": "doldur",
+    "baslik": "Türk takımı, Paris Olimpiyatları, 1924 · kamu malı",
+    "lisans": "",
+    "kaynak": "Türk takımı, Paris Olimpiyatları, 1924 · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.323,
+     0,
+     0.677,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 54.18,
+     "end": 55.0,
+     "n": 1
+    },
+    {
+     "start": 55.0,
+     "end": 55.78,
+     "n": 1
+    },
+    {
+     "start": 55.78,
+     "end": 56.48,
+     "n": 1
+    },
+    {
+     "start": 56.48,
+     "end": 56.88,
+     "n": 1
+    },
+    {
+     "start": 56.88,
+     "end": 57.3,
+     "n": 1
+    },
+    {
+     "start": 57.3,
+     "end": 57.54,
+     "n": 1
+    },
+    {
+     "start": 57.54,
+     "end": 58.14,
+     "n": 1
+    },
+    {
+     "start": 58.14,
+     "end": 58.4,
+     "n": 1
+    },
+    {
+     "start": 58.4,
+     "end": 59.06,
+     "n": 1
+    },
+    {
+     "start": 59.06,
+     "end": 59.8,
+     "n": 1
+    },
+    {
+     "start": 59.8,
+     "end": 60.1,
+     "n": 1
+    },
+    {
+     "start": 60.1,
+     "end": 60.48,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Milli takım dönüşte kuzey ülkelerine açıldı. Finlandiyayı, Estonyayı ve Letonyayı peş peşe mağlup etti.",
+   "caption": "Milli takım dönüşte kuzey ülkelerine açıldı. Finlandiya'yı, Estonya'yı ve Letonya'yı peş peşe mağlup etti.",
+   "key": [
+    "Finlandiyayı"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_helsinki1924.jpg",
+    "fit": "doldur",
+    "baslik": "Töölö futbol sahası, Helsinki, 1924 · Helsinki Şehir Müzesi, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "Töölö futbol sahası, Helsinki, 1924 · Helsinki Şehir Müzesi, CC BY 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.369,
+     0,
+     0.731,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 61.06,
+     "end": 61.24,
+     "n": 1
+    },
+    {
+     "start": 61.24,
+     "end": 61.62,
+     "n": 1
+    },
+    {
+     "start": 61.62,
+     "end": 62.2,
+     "n": 1
+    },
+    {
+     "start": 62.2,
+     "end": 62.58,
+     "n": 1
+    },
+    {
+     "start": 62.58,
+     "end": 63.12,
+     "n": 1
+    },
+    {
+     "start": 63.12,
+     "end": 63.5,
+     "n": 1
+    },
+    {
+     "start": 64.06,
+     "end": 64.92,
+     "n": 1
+    },
+    {
+     "start": 65.06,
+     "end": 65.82,
+     "n": 1
+    },
+    {
+     "start": 65.82,
+     "end": 66.0,
+     "n": 1
+    },
+    {
+     "start": 66.0,
+     "end": 66.8,
+     "n": 1
+    },
+    {
+     "start": 66.8,
+     "end": 67.16,
+     "n": 1
+    },
+    {
+     "start": 67.16,
+     "end": 67.5,
+     "n": 1
+    },
+    {
+     "start": 67.5,
+     "end": 67.82,
+     "n": 1
+    },
+    {
+     "start": 67.82,
+     "end": 68.1,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Devrimden sonra Sovyet Rusyaya giden ilk yabancı milli takım da Türkiye oldu. Üstelik maç, FIFAnın şartıyla bir Türk hakemin yönetiminde oynandı.",
+   "caption": "Devrimden sonra Sovyet Rusya'ya giden ilk yabancı milli takım da Türkiye oldu. Üstelik maç, FIFA'nın şartıyla bir Türk hakemin yönetiminde oynandı.",
+   "key": [
+    "Sovyet"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_sovyet1925.jpg",
+    "fit": "doldur",
+    "baslik": "Sovyet milli takımı, Ankara, 1925 · Smena dergisi, kamu malı",
+    "lisans": "",
+    "kaynak": "Sovyet milli takımı, Ankara, 1925 · Smena dergisi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.323,
+     0,
+     0.677,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 68.6,
+     "end": 69.16,
+     "n": 1
+    },
+    {
+     "start": 69.16,
+     "end": 69.54,
+     "n": 1
+    },
+    {
+     "start": 69.54,
+     "end": 70.08,
+     "n": 1
+    },
+    {
+     "start": 70.08,
+     "end": 70.58,
+     "n": 1
+    },
+    {
+     "start": 70.58,
+     "end": 70.84,
+     "n": 1
+    },
+    {
+     "start": 70.84,
+     "end": 71.24,
+     "n": 1
+    },
+    {
+     "start": 71.24,
+     "end": 71.8,
+     "n": 1
+    },
+    {
+     "start": 71.8,
+     "end": 72.04,
+     "n": 1
+    },
+    {
+     "start": 72.04,
+     "end": 72.4,
+     "n": 1
+    },
+    {
+     "start": 72.4,
+     "end": 72.7,
+     "n": 1
+    },
+    {
+     "start": 72.7,
+     "end": 73.1,
+     "n": 1
+    },
+    {
+     "start": 73.1,
+     "end": 73.52,
+     "n": 1
+    },
+    {
+     "start": 73.88,
+     "end": 74.28,
+     "n": 1
+    },
+    {
+     "start": 74.28,
+     "end": 74.76,
+     "n": 1
+    },
+    {
+     "start": 74.76,
+     "end": 75.24,
+     "n": 1
+    },
+    {
+     "start": 75.24,
+     "end": 75.88,
+     "n": 1
+    },
+    {
+     "start": 75.88,
+     "end": 76.3,
+     "n": 1
+    },
+    {
+     "start": 76.3,
+     "end": 76.56,
+     "n": 1
+    },
+    {
+     "start": 76.56,
+     "end": 76.92,
+     "n": 1
+    },
+    {
+     "start": 76.92,
+     "end": 77.52,
+     "n": 1
+    },
+    {
+     "start": 77.52,
+     "end": 78.38,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Henüz iki yıl bile geçmemişti. Ama milli takım Taksimden Parise, Helsinkiden Moskovaya uzanan bir yolculuk yapmıştı.",
+   "caption": "Henüz iki yıl bile geçmemişti. Ama milli takım Taksim'den Paris'e, Helsinki'den Moskova'ya uzanan bir yolculuk yapmıştı.",
+   "key": [
+    "yolculuk"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_milli1925.jpg",
+    "fit": "doldur",
+    "baslik": "Türkiye milli futbol takımı, 10 Nisan 1925 · Türkspor, Milli Kütüphane, kamu malı",
+    "lisans": "",
+    "kaynak": "Türkiye milli futbol takımı, 10 Nisan 1925 · Türkspor, Milli Kütüphane, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.22,
+     0,
+     0.78,
+     0.85
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 78.58,
+     "end": 78.98,
+     "n": 1
+    },
+    {
+     "start": 78.98,
+     "end": 79.24,
+     "n": 1
+    },
+    {
+     "start": 79.24,
+     "end": 79.4,
+     "n": 1
+    },
+    {
+     "start": 79.4,
+     "end": 79.68,
+     "n": 1
+    },
+    {
+     "start": 79.68,
+     "end": 80.7,
+     "n": 1
+    },
+    {
+     "start": 80.7,
+     "end": 81.08,
+     "n": 1
+    },
+    {
+     "start": 81.08,
+     "end": 81.44,
+     "n": 1
+    },
+    {
+     "start": 81.44,
+     "end": 81.98,
+     "n": 1
+    },
+    {
+     "start": 81.98,
+     "end": 82.74,
+     "n": 1
+    },
+    {
+     "start": 82.74,
+     "end": 83.64,
+     "n": 1
+    },
+    {
+     "start": 83.78,
+     "end": 84.42,
+     "n": 1
+    },
+    {
+     "start": 84.42,
+     "end": 85.12,
+     "n": 1
+    },
+    {
+     "start": 85.12,
+     "end": 85.44,
+     "n": 1
+    },
+    {
+     "start": 85.44,
+     "end": 85.78,
+     "n": 1
+    },
+    {
+     "start": 85.78,
+     "end": 86.2,
+     "n": 1
+    },
+    {
+     "start": 86.2,
+     "end": 86.9,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki sizce milli takım tarihinin en unutulmaz maçı hangisi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki sizce milli takım tarihinin en unutulmaz maçı hangisi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "unutulmaz"
+   ],
+   "image": {
+    "local": "assets/belgeler/103_acilis1924.jpg",
+    "fit": "doldur",
+    "baslik": "Paris Olimpiyatları açılış töreni, 1924 · Agence Rol, Gallica, kamu malı",
+    "lisans": "",
+    "kaynak": "Paris Olimpiyatları açılış töreni, 1924 · Agence Rol, Gallica, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.305,
+     0,
+     0.695,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 87.28,
+     "end": 87.56,
+     "n": 1
+    },
+    {
+     "start": 87.56,
+     "end": 88.32,
+     "n": 1
+    },
+    {
+     "start": 88.32,
+     "end": 88.7,
+     "n": 1
+    },
+    {
+     "start": 88.7,
+     "end": 89.02,
+     "n": 1
+    },
+    {
+     "start": 89.02,
+     "end": 89.64,
+     "n": 1
+    },
+    {
+     "start": 89.64,
+     "end": 90.06,
+     "n": 1
+    },
+    {
+     "start": 90.06,
+     "end": 90.66,
+     "n": 1
+    },
+    {
+     "start": 90.66,
+     "end": 91.04,
+     "n": 1
+    },
+    {
+     "start": 91.04,
+     "end": 91.52,
+     "n": 1
+    },
+    {
+     "start": 92.08,
+     "end": 92.9,
+     "n": 1
+    },
+    {
+     "start": 92.9,
+     "end": 93.5,
+     "n": 1
+    },
+    {
+     "start": 93.5,
+     "end": 93.94,
+     "n": 1
+    },
+    {
+     "start": 94.48,
+     "end": 95.04,
+     "n": 1
+    },
+    {
+     "start": 95.04,
+     "end": 95.38,
+     "n": 1
+    },
+    {
+     "start": 95.38,
+     "end": 96.26,
+     "n": 1
+    },
+    {
+     "start": 96.74,
+     "end": 97.28,
+     "n": 1
+    },
+    {
+     "start": 97.28,
+     "end": 97.48,
+     "n": 1
+    },
+    {
+     "start": 97.48,
+     "end": 97.86,
+     "n": 1
+    },
+    {
+     "start": 97.86,
+     "end": 98.32,
+     "n": 1
+    },
+    {
+     "start": 98.32,
+     "end": 98.7,
+     "n": 1
+    },
+    {
+     "start": 98.7,
+     "end": 99.22,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
