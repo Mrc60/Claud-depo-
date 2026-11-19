@@ -1,83 +1,29 @@
 {
- "bolum": "102agnam3",
+ "bolum": "102agnam4",
  "min_w": 700,
- "sorgular": [
-  "Meclis-i Mebusan 1920",
-  "Ottoman parliament 1920",
-  "Damat Ferid Pasha",
-  "Istanbul occupation 1920",
-  "Turkish village 1950s",
-  "Anatolian village mosque old photograph",
-  "village imam Turkey old photograph",
-  "Turkey sheep 1950s"
- ],
+ "sorgular": [],
  "incele": [
-  "File:I.-Türkiye-Büyük-Millet-Meclisi-Ankara-1920.jpg",
-  "File:TGNA circa 1920.jpg",
-  "File:Prayers in the front of BMM large.jpg",
-  "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
-  "File:Berger turc ou alawite - A30006S.jpg",
-  "File:Berger turc ou alawite - A30007S.jpg",
-  "File:Berger turc ou alawite portant un gilet formant une besace dorsale - A30008.jpg",
-  "File:Paysan turc - A36392S.jpg",
-  "File:Turquie, Biledjik, Jeunes Garçons turcs d'Anatolie - A36799.jpg",
-  "File:Türk köylüleri - Amasya.jpg",
-  "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 014.jpg",
-  "File:Angora 001.jpg",
-  "File:Ahlat 10 06 1988 Schäfer mit Herde.jpg"
+  "File:Damad Ferid Pasha 1919.jpg",
+  "File:Members of Turkish Parliament in chamber LCCN2014684022.jpg",
+  "File:Occupation of Constantinople LCCN2010650577.jpg",
+  "File:Member of Turkish Parliament in chamber LCCN2014684001.jpg"
  ],
  "indir": [
   {
-   "file": "File:I.-Türkiye-Büyük-Millet-Meclisi-Ankara-1920.jpg",
-   "ad": "102_tbmm1920.jpg"
+   "file": "File:Damad Ferid Pasha 1919.jpg",
+   "ad": "102_damatferid.jpg"
   },
   {
-   "file": "File:TGNA circa 1920.jpg",
-   "ad": "102_tgna1920.jpg"
+   "file": "File:Members of Turkish Parliament in chamber LCCN2014684022.jpg",
+   "ad": "102_mebusan.jpg"
   },
   {
-   "file": "File:Prayers in the front of BMM large.jpg",
-   "ad": "102_tbmm_dua.jpg"
+   "file": "File:Occupation of Constantinople LCCN2010650577.jpg",
+   "ad": "102_isgal.jpg"
   },
   {
-   "file": "File:Residents of Ballıkpınar Village, movie screening, 1930s (16852456935).jpg",
-   "ad": "102_ballikpinar.jpg"
-  },
-  {
-   "file": "File:Berger turc ou alawite - A30006S.jpg",
-   "ad": "102_coban1.jpg"
-  },
-  {
-   "file": "File:Berger turc ou alawite - A30007S.jpg",
-   "ad": "102_coban2.jpg"
-  },
-  {
-   "file": "File:Berger turc ou alawite portant un gilet formant une besace dorsale - A30008.jpg",
-   "ad": "102_coban3.jpg"
-  },
-  {
-   "file": "File:Paysan turc - A36392S.jpg",
-   "ad": "102_koylu_yasli.jpg"
-  },
-  {
-   "file": "File:Turquie, Biledjik, Jeunes Garçons turcs d'Anatolie - A36799.jpg",
-   "ad": "102_bilecik_cocuk.jpg"
-  },
-  {
-   "file": "File:Türk köylüleri - Amasya.jpg",
-   "ad": "102_amasya_koylu.jpg"
-  },
-  {
-   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 014.jpg",
-   "ad": "102_kiyafet1873.jpg"
-  },
-  {
-   "file": "File:Angora 001.jpg",
-   "ad": "102_angora_keci.jpg"
-  },
-  {
-   "file": "File:Ahlat 10 06 1988 Schäfer mit Herde.jpg",
-   "ad": "102_ahlat1988.jpg"
+   "file": "File:Member of Turkish Parliament in chamber LCCN2014684001.jpg",
+   "ad": "102_mebus.jpg"
   }
  ]
 }
