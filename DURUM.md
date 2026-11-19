@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 18.11.2026 05:45, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 19.11.2026 04:40, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (19.11.2026 04:40, Hesap 1)
+- ccr-hesap2-besiktas dalı: main'e gitmemiş 107 kayıt. Dalda #99 Demirağ, #100 Çiçek aşısı (bölüm JSON'ları, kontrol.py 0 hata; 75 ve 87 sn), #101 Milli Korunma ve #102 Ağnam (senaryo; #102 ses alınmış) var; main'de yok.
+- HATA: #99, #101, #102 araştırma notu (arastirma/NNN_slug.md) yok; #102'deki "Meclisin ilk kanunu, açıldıktan bir gün sonra" iddiası için repoda kaynak kaydı yok.
+- #99-#102 kapanışları tam. Defter: çift cevap yok (208 kayıt).
+- TEK1'İN BEKLEYEN KARARLARI: dalın main'e geçirilmesi; #102 yayından önce kaynak kontrolü; #96/#97/#98 kapanış düzeltmesi; #94 görsel/kapanış; #88; #85; #84; DIZIN.md; yükleme setlerini repoya koyma; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (18.11.2026 05:45, Hesap 2)
 - Son 24 saatte yeni hata yok. Hesap 1 bulgusu doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 80 kayıt (son 5fc0b75, #99 indirme); #96-#98 kapanış eksikleri TEK1 kararında. Main defterinde çift cevap yok (184 kayıt). Ayrıntı MESAJLAR 18.11 05:45.
