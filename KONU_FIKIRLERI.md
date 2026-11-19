@@ -8,7 +8,7 @@ Hiçbir fikrin bilgisi doğrulanmadı; görsel taraması yapılmadı. Sıra TEK1
 |---|---|---|
 | 1 | Aldatma konusu | AÇIK |
 | 2 | Erkek tarafının düğün masraflarını karşılaması nereden geliyor? | YAPILDI sayılabilir: 056_baslik, 063_dugun (gözle kontrol et) |
-| 3 | Eski okul cezaları | AÇIK |
+| 3 | Eski okul cezaları | YAPILDI: 084_okul_ceza |
 | 4 | En değerli tartışma: okul disiplini | AÇIK (3 ile birleşebilir) |
 | 5 | Neden Müslüman ülkelerde hep savaş var | YAPILDI: 062_savas (FB siyasi sayıp kıstı, tekrar önerilmez) |
 | 6 | Atatürk döneminde hangi toplumsal değişimler yaşandı? | Kısmen: 052_devrim, 021_soyadi, 065_alfabe vb. (geniş konu) |
@@ -29,7 +29,7 @@ Hiçbir fikrin bilgisi doğrulanmadı; görsel taraması yapılmadı. Sıra TEK1
 | 21 | Cirit oyunu neden yasaklandı? (1826) | AÇIK |
 | 22 | Osmanlı'da ilk karantina (1838) | AÇIK |
 | 23 | Döviz bulundurmak suçtu | YAPILDI: 071_doviz |
-| 24 | Kadın ve erkek aynı plajda denize giremezdi | AÇIK |
+| 24 | Kadın ve erkek aynı plajda denize giremezdi | Kısmen YAPILDI: 087_yasaklar (deniz hamamları, perdeler) |
 | 25 | Bir Osmanlı ailesi bir ayda nelere para harcıyordu? | AÇIK |
 | 26 | 1931: Osmanlı belgeleri Bulgaristan'a hurda kâğıt diye satıldı | AÇIK |
 | 27 | Bir İngiliz kızının kaçırılması Osmanlı ile İran'ı karşı karşıya getirdi | AÇIK |
@@ -47,7 +47,7 @@ Hiçbir fikrin bilgisi doğrulanmadı; görsel taraması yapılmadı. Sıra TEK1
 | 39 | Yerli malı, milli marka | AÇIK |
 | 40 | Devlet mektubunuzu açıp okudu | AÇIK |
 | 41 | Osmanlı'da ülkeye sokulması yasaklanan kitaplar | AÇIK |
-| 42 | Ev sahipleri kirayı istedikleri gibi artıramıyordu | AÇIK |
+| 42 | Ev sahipleri kirayı istedikleri gibi artıramıyordu | YAPILDI: 085_kira |
 | 43 | Hayvanat-ı Ehliye Vergisi | AÇIK (29 ile birleşebilir) |
 | 44 | Milli Korunma Kanunu cezaları | AÇIK (077_kuyruk ile ilişkili olabilir) |
 | 45 | Sigara yasağı | AÇIK (52 ile birleşebilir) |
@@ -59,3 +59,21 @@ Hiçbir fikrin bilgisi doğrulanmadı; görsel taraması yapılmadı. Sıra TEK1
 | 51 | Hafta tatili eskiden cumaydı (1935) | YAPILDI olabilir: 009_gunler (gözle kontrol et) |
 | 52 | Tütün içmenin cezası ölümdü (IV. Murad, 1633) | AÇIK |
 | 53 | Eskiden hastane muayene zorlukları | ERTELENDİ: #82 SSK (görsel yok) |
+
+## BEKLEYEN VE YENİ FİKİRLER (19.11.2026, Hesap 2)
+| # | Fikir | Durum |
+|---|---|---|
+| 54 | Ecevit'in önüne yazar kasa fırlatan esnaf (4 Nisan 2001, 2001 krizi) | BEKLİYOR: FB para kazanma incelemesi bitene kadar (en geç 14.01.2027); başbakan adı/siyaset riski; 2001 fotoğrafları ajansa ait, serbest lisanslı görsel aranmadı |
+| 55 | Türkiye'nin ilk milli maçları (1923-1925, Sovyet takımı 1925'te Ankara'da) | AÇIK. Görsel: Turkey-USSR 15 May 1925 ve Sovyet takımı Ankara 1925 (kamu malı); 1923 maçının fotoğrafı aranacak |
+| 56 | Altay: İzmir'in en eski kulübü (Anadolu kulüpleri serisi) | AÇIK. Görsel: 1920 Levanten maçı, 1929 Altay-GS, 1930 Havacılık ve Spor, Vasıf Çınar ve Altay (kamu malı/CC0) |
+| 57 | Tütün tekeli ve kaçakçılık (#88) | AÇIK. Daha önce 12 temiz görsel bulundu (çoğu gravür); 45 ve 52 ile birleşebilir |
+| 58 | Korona aşısı ve "pişman olanlar" | VAZGEÇİLDİ (sağlık bilgisi riski); yerine 100_cicek (zorunlu çiçek aşısı) yapıldı |
+| 59 | Uzun derleme videoları (YouTube izlenme saati için): "Dört Büyükleri Kim Kurdu?" vb. | ÖNERİ, TEK1 onayı bekliyor |
+
+## TARİHLİ (YIL DÖNÜMÜ) VİDEOLAR (19.11.2026, Hesap 2)
+| # | Konu | Yayın günü | Hatırlatma | Durum |
+|---|---|---|---|---|
+| 60 | Öğretmenler Günü / Başöğretmen | 24 Kasım | 22 Kasım 09:00 (Hesap 2'de kurulu) | AÇIK; 035_unvan ile tekrar kontrolü yapılacak |
+| 61 | Sarıkamış Harekâtı | 21-22 Aralık | 19 Aralık (Hesap 1'de kurulu, CLAUDE.md 11) | AÇIK |
+| 62 | 1939 Erzincan depremi (27 Aralık 1939) | 26-27 Aralık | 24 Aralık (Hesap 1'de kurulu) | AÇIK |
+| 63 | 17 Ağustos 1999 Marmara depremi | 17 Ağustos 2027 | yok, kurulmadı | AÇIK; 1999 fotoğrafları ajans/gazete telifli, serbest lisanslı görsel aranmalı |
