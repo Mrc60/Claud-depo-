@@ -299,20 +299,20 @@
    "say": "1932de, Atatürkün cumhurbaşkanı olduğu tek parti döneminde, ibadet dilini Türkçeleştirme çalışmaları başladı.",
    "caption": "1932'de, Atatürk'ün cumhurbaşkanı olduğu tek parti döneminde, ibadet dilini Türkçeleştirme çalışmaları başladı.",
    "key": [
-    "1932"
+    "Atatürkün"
    ],
    "image": {
-    "local": "assets/belgeler/105_ayasofya_ic.jpg",
+    "local": "assets/belgeler/105_ataturk_inonu1932.jpg",
     "fit": "doldur",
-    "baslik": "Ayasofya Camii içi · Sébah & Joaillier, kamu malı",
+    "baslik": "Atatürk ve İsmet İnönü, Türk Tarih Kongresi · kamu malı",
     "lisans": "",
-    "kaynak": "Ayasofya Camii içi · Sébah & Joaillier, kamu malı",
+    "kaynak": "Atatürk ve İsmet İnönü, Türk Tarih Kongresi · kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.137,
+     0.081,
      0,
-     0.863,
+     0.919,
      1
     ]
    },
@@ -384,21 +384,21 @@
    "say": "Bu çalışmalar Atatürkün emriyle yürütüldü. Dokuz ünlü hafızdan oluşan bir heyet, ezanı Türkçeye çevirdi.",
    "caption": "Bu çalışmalar Atatürk'ün emriyle yürütüldü. Dokuz ünlü hafızdan oluşan bir heyet, ezanı Türkçeye çevirdi.",
    "key": [
-    "hafızdan"
+    "emriyle"
    ],
    "image": {
-    "local": "assets/belgeler/105_ayasofya1915.jpg",
+    "local": "assets/belgeler/105_ataturk_portre.jpg",
     "fit": "doldur",
-    "baslik": "Ayasofya Camii, 1915 · Underwood & Underwood, kamu malı",
+    "baslik": "Mustafa Kemal Atatürk · kamu malı",
     "lisans": "",
-    "kaynak": "Ayasofya Camii, 1915 · Underwood & Underwood, kamu malı",
+    "kaynak": "Mustafa Kemal Atatürk · kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.084,
+     0.212,
      0,
-     0.916,
-     1
+     0.788,
+     0.85
     ]
    },
    "scene": "photo",
@@ -833,17 +833,17 @@
     "dildir"
    ],
    "image": {
-    "local": "assets/belgeler/105_bursa_ulucami_tablo.jpg",
+    "local": "assets/belgeler/105_ataturk1933_konusma.jpg",
     "fit": "doldur",
-    "baslik": "Bursa Ulu Cami girişi, tablo · John Frederick Lewis, kamu malı",
+    "baslik": "Atatürk, Cumhuriyetin 10. yılı konuşması, 1933 · kamu malı",
     "lisans": "",
-    "kaynak": "Bursa Ulu Cami girişi, tablo · John Frederick Lewis, kamu malı",
+    "kaynak": "Atatürk, Cumhuriyetin 10. yılı konuşması, 1933 · kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.322,
+     0.383,
      0,
-     0.678,
+     0.717,
      1
     ]
    },
@@ -905,21 +905,21 @@
    "say": "1941de, İsmet İnönünün cumhurbaşkanlığı döneminde, Arapça ezan okuyana üç aya kadar hapis ya da para cezası getirildi.",
    "caption": "1941'de, İsmet İnönü'nün cumhurbaşkanlığı döneminde, Arapça ezan okuyana üç aya kadar hapis ya da para cezası getirildi.",
    "key": [
-    "1941"
+    "İnönünün"
    ],
    "image": {
-    "local": "assets/belgeler/105_sultanahmet1903.jpg",
+    "local": "assets/belgeler/105_inonu2.jpg",
     "fit": "doldur",
-    "baslik": "Sultanahmet Camii, 1903 · W. H. Goodyear, Brooklyn Museum, kamu malı",
+    "baslik": "İsmet İnönü, cumhurbaşkanlığı yılları · kamu malı",
     "lisans": "",
-    "kaynak": "Sultanahmet Camii, 1903 · W. H. Goodyear, Brooklyn Museum, kamu malı",
+    "kaynak": "İsmet İnönü, cumhurbaşkanlığı yılları · kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.29,
-     0.05,
-     0.71,
-     0.82
+     0.129,
+     0,
+     0.871,
+     1
     ]
    },
    "scene": "photo",
