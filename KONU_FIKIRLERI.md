@@ -49,7 +49,7 @@ Hiçbir fikrin bilgisi doğrulanmadı; görsel taraması yapılmadı. Sıra TEK1
 | 41 | Osmanlı'da ülkeye sokulması yasaklanan kitaplar | AÇIK |
 | 42 | Ev sahipleri kirayı istedikleri gibi artıramıyordu | YAPILDI: 085_kira |
 | 43 | Hayvanat-ı Ehliye Vergisi | AÇIK (29 ile birleşebilir) |
-| 44 | Milli Korunma Kanunu cezaları | AÇIK (077_kuyruk ile ilişkili olabilir) |
+| 44 | Milli Korunma Kanunu cezaları | GÖRSEL BEKLİYOR (19.11): araştırma ve senaryo hazır (Hesap 2 dalı arastirma/101_milli_korunma_senaryo.txt; Doğu 2021, Albayrak 2005); uygun görsel yok (sadece 4-5 DGPI) |
 | 45 | Sigara yasağı | AÇIK (52 ile birleşebilir) |
 | 46 | Osmanlı'da kumar cezaları | AÇIK |
 | 47 | Savaş çıkınca olağanüstü vergi: avarız | SÜRÜYOR: #83 (arastirma/083_avariz_arastirma.md) |
@@ -68,6 +68,10 @@ Hiçbir fikrin bilgisi doğrulanmadı; görsel taraması yapılmadı. Sıra TEK1
 | 56 | Altay: İzmir'in en eski kulübü (Anadolu kulüpleri serisi) | AÇIK. Görsel: 1920 Levanten maçı, 1929 Altay-GS, 1930 Havacılık ve Spor, Vasıf Çınar ve Altay (kamu malı/CC0) |
 | 57 | Tütün tekeli ve kaçakçılık (#88) | AÇIK. Daha önce 12 temiz görsel bulundu (çoğu gravür); 45 ve 52 ile birleşebilir |
 | 58 | Korona aşısı ve "pişman olanlar" | VAZGEÇİLDİ (sağlık bilgisi riski); yerine 100_cicek (zorunlu çiçek aşısı) yapıldı |
+| 64 | Şapka Kanunu (1925) | ERTELENDİ: TEK1 riskli buluyor (din/siyaset tepkisi, FB riski); kayıtta bekliyor |
+| 65 | 5816'nın devamı: Hasan Mezarcı davası (1990'lar) | BEKLİYOR: FB incelemesi bitene kadar (14.01.2027); din+siyaset+Atatürk riski çok yüksek; 1990'lar görselleri telifli |
+| 66 | Kadir Mısıroğlu (yazar, 1933-2019) | BEKLİYOR: açı belirlenmedi; din+siyaset+Atatürk tartışması nedeniyle FB riski çok yüksek (en erken 14.01.2027 sonrası); yakın dönem görselleri telifli |
+| 67 | Balyoz davası (2010-2015) | BEKLİYOR: yakın dönem siyasi dava (darbe planı iddiası, sonra beraat); FB riski çok yüksek, en erken 14.01.2027 sonrası; görseller telifli |
 | 59 | Uzun derleme videoları (YouTube izlenme saati için): "Dört Büyükleri Kim Kurdu?" vb. | ÖNERİ, TEK1 onayı bekliyor |
 
 ## TARİHLİ (YIL DÖNÜMÜ) VİDEOLAR (19.11.2026, Hesap 2)
