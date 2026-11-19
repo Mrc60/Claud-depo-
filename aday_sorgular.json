@@ -1,1 +1,39 @@
-{"bolum":"102agnam5","min_w":700,"sorgular":["Turquie, Angora","Turquie, Biledjik","Turquie, Brousse","Turquie paysan","Turquie paysanne","Turquie moutons","Turquie village","Turquie berger","Turquie, Eski-Chehir","Turquie, Ismid","Anatolie paysans autochrome"],"incele":[],"indir":[]}
+{
+ "bolum": "102agnam6",
+ "min_w": 700,
+ "sorgular": [],
+ "incele": [
+  "File:Turquie, Angora, La Poste - A36968.jpg",
+  "File:Turquie, Biledjik,¨Petite fille turque - A36783.jpg",
+  "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 012.jpg",
+  "File:Les costumes populaires de la Turquie en 1873 - Partie 1 - Planche 017.jpg",
+  "File:3. Turquie d'Asia - 4. Vilayet d'Angora - 12. Planche.png",
+  "File:Les deux moutons devant être sacrifiés, au Topkapi-Sarayi (\"palais de la Porte-du-Canon\"), le jour de l'investiture du Calife - A36614.jpg"
+ ],
+ "indir": [
+  {
+   "file": "File:Turquie, Angora, La Poste - A36968.jpg",
+   "ad": "102_ankara_posta.jpg"
+  },
+  {
+   "file": "File:Turquie, Biledjik,¨Petite fille turque - A36783.jpg",
+   "ad": "102_bilecik_kiz.jpg"
+  },
+  {
+   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 3 - Planche 012.jpg",
+   "ad": "102_kiyafet012.jpg"
+  },
+  {
+   "file": "File:Les costumes populaires de la Turquie en 1873 - Partie 1 - Planche 017.jpg",
+   "ad": "102_kiyafet017.jpg"
+  },
+  {
+   "file": "File:3. Turquie d'Asia - 4. Vilayet d'Angora - 12. Planche.png",
+   "ad": "102_angora_planche.jpg"
+  },
+  {
+   "file": "File:Les deux moutons devant être sacrifiés, au Topkapi-Sarayi (\"palais de la Porte-du-Canon\"), le jour de l'investiture du Calife - A36614.jpg",
+   "ad": "102_topkapi_koyun.jpg"
+  }
+ ]
+}
