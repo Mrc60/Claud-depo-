@@ -384,21 +384,21 @@
    "say": "Bu çalışmalar Atatürkün emriyle yürütüldü. Dokuz ünlü hafızdan oluşan bir heyet, ezanı Türkçeye çevirdi.",
    "caption": "Bu çalışmalar Atatürk'ün emriyle yürütüldü. Dokuz ünlü hafızdan oluşan bir heyet, ezanı Türkçeye çevirdi.",
    "key": [
-    "emriyle"
+    "hafızdan"
    ],
    "image": {
-    "local": "assets/belgeler/105_ataturk_portre.jpg",
+    "local": "assets/belgeler/105_ayasofya1915.jpg",
     "fit": "doldur",
-    "baslik": "Mustafa Kemal Atatürk · kamu malı",
+    "baslik": "Ayasofya Camii, 1915 · Underwood & Underwood, kamu malı",
     "lisans": "",
-    "kaynak": "Mustafa Kemal Atatürk · kamu malı",
+    "kaynak": "Ayasofya Camii, 1915 · Underwood & Underwood, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.212,
+     0.084,
      0,
-     0.788,
-     0.85
+     0.916,
+     1
     ]
    },
    "scene": "photo",
@@ -624,21 +624,21 @@
    "say": "Ama herkes bunu kabul etmedi. 1933te Bursada Ulu Camide ezan Arapça okununca kalabalık sokağa döküldü.",
    "caption": "Ama herkes bunu kabul etmedi. 1933'te Bursa'da Ulu Cami'de ezan Arapça okununca kalabalık sokağa döküldü.",
    "key": [
-    "Bursada"
+    "kalabalık"
    ],
    "image": {
-    "local": "assets/belgeler/105_bursa_ulucami_ic.jpg",
+    "local": "assets/belgeler/105_kalabalik_galata.jpg",
     "fit": "doldur",
-    "baslik": "Bursa Ulu Cami içi · Rijksmuseum, CC0",
+    "baslik": "Galata Köprüsü başında kalabalık, İstanbul · Keystone View Company, kamu malı",
     "lisans": "",
-    "kaynak": "Bursa Ulu Cami içi · Rijksmuseum, CC0",
+    "kaynak": "Galata Köprüsü başında kalabalık, İstanbul · Keystone View Company, kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.155,
-     0,
-     0.845,
-     1
+     0.176,
+     0.05,
+     0.404,
+     0.43
     ]
    },
    "scene": "photo",
@@ -728,18 +728,18 @@
     "Olayı"
    ],
    "image": {
-    "local": "assets/belgeler/105_bursa_genel.jpg",
+    "local": "assets/belgeler/105_bursa_ulucami_ic.jpg",
     "fit": "doldur",
-    "baslik": "Bursa ve Ulu Cami, gravür, 1838 · Léon de Laborde, kamu malı",
+    "baslik": "Bursa Ulu Cami içi · Rijksmuseum, CC0",
     "lisans": "",
-    "kaynak": "Bursa ve Ulu Cami, gravür, 1838 · Léon de Laborde, kamu malı",
+    "kaynak": "Bursa Ulu Cami içi · Rijksmuseum, CC0",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.29,
+     0.19,
      0,
-     0.71,
-     1
+     0.81,
+     0.9
     ]
    },
    "scene": "photo",
@@ -1015,21 +1015,21 @@
    "say": "1950 seçimlerini Demokrat Parti kazandı ve Adnan Menderes başbakan oldu. Yeni Meclis, 16 Haziranda bu cezayı kaldırdı.",
    "caption": "1950 seçimlerini Demokrat Parti kazandı ve Adnan Menderes başbakan oldu. Yeni Meclis, 16 Haziran'da bu cezayı kaldırdı.",
    "key": [
-    "1950"
+    "Menderes"
    ],
    "image": {
-    "local": "assets/belgeler/105_valide1903.jpg",
+    "local": "assets/belgeler/096_menderes2.jpg",
     "fit": "doldur",
-    "baslik": "İstanbul'da bir cami, 1903 · Brooklyn Museum, kamu malı",
+    "baslik": "Adnan Menderes, TBMM 9. dönem · kamu malı",
     "lisans": "",
-    "kaynak": "İstanbul'da bir cami, 1903 · Brooklyn Museum, kamu malı",
+    "kaynak": "Adnan Menderes, TBMM 9. dönem · kamu malı",
     "sayfa": "",
     "hiz": 1.0,
     "kirp": [
-     0.259,
-     0.03,
-     0.741,
-     0.95
+     0.122,
+     0,
+     0.878,
+     1
     ]
    },
    "scene": "photo",
