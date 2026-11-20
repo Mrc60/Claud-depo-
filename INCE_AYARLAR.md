@@ -87,6 +87,9 @@ Ton:
 - ANLAYIŞLI VE İNSAN GİBİ (TEK1, 02.11.2026): Acı ama espriyle anlatılan (trajikomik) yorumda önce duyguyu anla ("Gülmekle yanmak arasında kalmışsınız, anlıyoruz"), sonra yorumcunun asıl derdine değin. Yardımcı olabiliyorsan kısa, genel bir fikir ver (ör. "o kâğıtta ne imzalandığına ve tapunun hangi işlemle devredildiğine bakmak işe yarayabilir, gerekirse bir hukukçuya da danışabilirsiniz 🙏"); yasa maddesi ya da kesin hukuki iddia verme. Robot gibi kalıp cevap yok. Onaylanan örnek: havvatks.38, Miras videosu, IG.
 - ALINTI TAM OLSUN (TEK1 gözlemi, 02.11.2026): Ayet/kanun kartında metni kısaltıp "payı vardır" demek yorumda "atlayarak anlattınız" eleştirisi getirdi. Alıntı kartı tam metin olsun ya da kısaltma "..." ile belli olsun; kart içeriği sesle birebir eşleşsin (Miras 3. sahne kartı sesle uyuşmuyordu).
 
+- ⚠️ TARAF TUTMA (TEK1, 20.11.2026, #99 Demirağ): Tartışmalı/siyasi konuda yorumcunun yargısını onaylayan duygu cümlesi yazma ("söyleyecek söz bulamaz hâle getiriyor", "kaçırılan fırsat", "keşke bu hikâyenin özeti"). Sadece videodaki bilgiyi ver ya da sade teşekkür et. REDDEDİLEN: Naci Ceneviz "Allah Allah yazdım..." -> "Bu hikâye gerçekten insanı söyleyecek söz bulamaz hâle getiriyor". ONAYLANAN: "Duygunuzu bizimle paylaştığınız için teşekkür ederiz 🙏". Ayrıca: 'kim kapattı' sorusunda kaynak bulunamazsa dönemi söyle (TEK1).
+- ⚠️ OLAY SIRASI (20.11.2026, hata): Vural Mimtaş'a "Fabrikası durduktan sonra bile Gök Okulu'nu açtı" yazıp gönderdim; Gök Okulu 1941, üretim 1944'te durdu. Önlem: cevapta zaman sırası kuran her cümleyi karttaki tarihlerle karşılaştır.
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.
