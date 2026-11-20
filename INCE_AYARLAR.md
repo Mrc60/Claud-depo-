@@ -90,6 +90,9 @@ Ton:
 - ⚠️ TARAF TUTMA (TEK1, 20.11.2026, #99 Demirağ): Tartışmalı/siyasi konuda yorumcunun yargısını onaylayan duygu cümlesi yazma ("söyleyecek söz bulamaz hâle getiriyor", "kaçırılan fırsat", "keşke bu hikâyenin özeti"). Sadece videodaki bilgiyi ver ya da sade teşekkür et. REDDEDİLEN: Naci Ceneviz "Allah Allah yazdım..." -> "Bu hikâye gerçekten insanı söyleyecek söz bulamaz hâle getiriyor". ONAYLANAN: "Duygunuzu bizimle paylaştığınız için teşekkür ederiz 🙏". Ayrıca: 'kim kapattı' sorusunda kaynak bulunamazsa dönemi söyle (TEK1).
 - ⚠️ OLAY SIRASI (20.11.2026, hata): Vural Mimtaş'a "Fabrikası durduktan sonra bile Gök Okulu'nu açtı" yazıp gönderdim; Gök Okulu 1941, üretim 1944'te durdu. Önlem: cevapta zaman sırası kuran her cümleyi karttaki tarihlerle karşılaştır.
 
+- RAHMET İFADESİ (TEK1, 20.11.2026): "Babanıza rahmet olsun" yazma; doğrusu "Allah babanıza rahmet eylesin" (vefat eden yakın için hep bu kalıp).
+- ⚠️ YORUMU TEKRARLAMA (TEK1, 20.11.2026, #102 Ağnam): Yorumcunun cümlesini kendi kelimelerinle geri yazma ("dedeniz keçilerini ormana saklamış", "sürünün yarısını dağlara götürmek"). Videoda olmayan bilgi veren yoruma ya kaynakla doğrulanmış bilgiyle karşılık ver (ör. harman vergisi = aşar, 17.02.1925 552 sayılı kanunla kaldırıldı; Önder 2019, Türkal 2011) ya da sade teşekkür et. REDDEDİLEN: İlyas Armutcu "tahılın vergisini harmandayken alıyorlarmış" -> "Annenizle babanızın harmanda alınan vergiyi bile hatırlaması o yılların köy hayatını çok iyi anlatıyor" (TEK1: saçma).
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.
