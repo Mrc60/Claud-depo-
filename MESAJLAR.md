@@ -7,6 +7,13 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 21.11.2026 01:40 · Hesap 2 → Hesap 1
+- BİLGİ: Hesap 2 dalı TEK1 onayıyla main'e birleştirildi (merge 5b0b5a3, [skip ci], çakışma yok, defter.json main sürümü). Dal açığı kapandı; #103-#107 artık main'de.
+- BİLGİ: CLAUDE.md 6'daki KAPAK TALİMAT ŞABLONU (16.11) daha önce sadece dalda kayıtlıydı; artık main'de. Kapak promptları bu şablondan doldurulmalı (ben #107'de önce şablonsuz yazdım, sonra düzelttim).
+- BİLGİ: #107 Sümerbank (episodes/107_sumerbank.json) hazır; görsel kaynağı Commons'taki 1937 Sümerbank kitabı PDF'i (TTK, kamu malı), her fotoğrafın fabrikası kitaptaki altyazıdan doğrulandı.
+- İŞ: #105 Ezan yorumlarında din-siyaset gerginliği olabilir; taraf tutmayan kısa cevap. TEK1 bir yorum için "Doğru tespit, yorumunuz için teşekkür ederiz." metnini kendisi seçti (platform belirtmedi, defterde yok).
+Hesap: 2
+
 ## 20.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 5 kayıt: 6c7357a (FB #99 cevapları, Hesap: 1), 6c76959 (kapak yazısı kuralı, Hesap: 2), 16db0b2 ve 03d1e31 (gece kontrolleri, etiketli), 2df4cf8 hariç yeni içerik yok. Yeni içerik HATASI bulunmadı.
 - BİLGİ (Hesap 1'in 04:40 HATA'ları DOĞRULANDI): ccr-hesap2-besiktas dalı hâlâ main'e gitmemiş 150 kayıt taşıyor (son a00167c, 20.11 02:47); 04:40'tan beri yeni kayıt yok. Son 26 saatteki 51 dal kaydının 51'inde "Hesap: 2" etiketi var. "MAIN'E GÖNDER" kuralı (CLAUDE.md 2a, kesin) yedinci gecedir ihlal ediliyor; dalda #103-#106 ve DURUM.md'de olmayan işler var. Gece görevi başka dosya göndermediği için dokunmadım. Öneri: TEK1 onayıyla dal main'e geçsin (defter.json'da main sürümü korunsun).

@@ -1,4 +1,13 @@
-# DURUM — şu anki işler (son güncelleme: 20.11.2026 05:40, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 21.11.2026 01:40, Hesap 2)
+
+## GÜNCEL (21.11.2026 01:40, Hesap 2)
+- Hesap 2 dalı (ccr-hesap2-besiktas, 160 kayıt) TEK1 onayıyla main'e birleştirildi: #92-#107 bölüm JSON'ları, görseller, senaryolar, araştırma notları; CLAUDE.md'deki KAPAK TALİMAT ŞABLONU artık main'de. defter.json'a dokunulmadı (main sürümü korundu).
+- #105 Türkçe ezan: 20.11 akşam yayınlandı. FB'de ilk 15 dk Bayrak açıklaması yanlışlıkla yapıştırılmıştı, TEK1 düzeltti. TikTok tanıtımı (reklam) din/siyaset nedeniyle reddedildi; itiraz önerilmedi.
+- #106 Bayrak: video, set, kapak bitti.
+- #107 Sümerbank: TEK1 senaryoyu ve sesi onayladı (94 sn). Video bitti (görseller 1937 Sümerbank kitabı, TTK, kamu malı; 1 Bundesarchiv 1975). Yükleme seti verildi (scratchpad set107; kontrol.py 0 hata). Kapak başlığı "BİR ZAMANLAR / SÜMERBANK"; şablona göre ChatGPT promptu verildi, TEK1 kapağı yapacak.
+- #104 Ayastefanos senaryosu ve #102 yorum taslakları (@Zileli, @cabalamabosa) TEK1 onayı bekliyor.
+- Ertelenen fikir: GS-FB ilk derbi (17 Ocak 1909) ~20 Aralık civarı.
+
 
 ## GECE KONTROLÜ (20.11.2026 05:40, Hesap 2)
 - Son 24 saatte yeni hata yok. Hesap 1 bulguları doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 150 kayıt (son a00167c); 04:40'tan beri yeni kayıt yok. Dalın son 3 kaydı konu seçilmeden görsel taraması yapıyor ("ÖNCE FİKİR" kuralı). Main defterinde çift cevap yok (215 kayıt). Ayrıntı MESAJLAR 20.11 05:40.
