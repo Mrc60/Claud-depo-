@@ -4,9 +4,10 @@
 - Konu: TEK1 seçti (21.11 02:04, "yetki sende").
 - Doğrulanan iddia: 7 (her biri en az 2 kaynak ya da adı verilen tarihçinin kendi sözü). Çıkarılan: 3 (aşağıda).
 - Kaynak: 8 (2 akademik, 1 akademik bildiri/özet, 1 TDV dışı resmî kurum sayfası, tarihçi yazıları, gazete). "Okundu" = metni ben açıp okudum.
-- Görsel: 1. tur 93 aday (Commons), 14 seçildi ve indirildi; 2. tur Beşiktaş/güreş/Akaretler sürüyor (ayrıntı aşağıda, bölüm görsel planı).
+- Görsel: 114 aday tarandı (Commons, 3 tur); 18 indirildi; 6 elendi (1 SALT/NC, 5 eski bölümlerde kullanılmış); KULLANILABİLİR 12 (hepsi siyah-beyaz/sepya, kontrol.py gorsel 0 hata). Gereken ~13 (68 sn / 5 sn); kapanış sahnesi son görselde biraz uzun kalır.
 - Süre: 116 kelime, kontrol.py tahmini 68 sn. Gereken görsel ~13 (5 sn).
-- Eksik sahne: Beşiktaş eski fotoğrafı ve Akaretler'in eski (siyah-beyaz) fotoğrafı 1. turda çıkmadı; Atatürk-güreş fotoğrafı yok.
+- Eksik sahne: Akaretler evinin eski fotoğrafı yok (Beşiktaş 1917 takım fotoğrafı ve Mustafa Kemal 1918 kullanıldı); Atatürk-güreş fotoğrafı yok; Canonica büstünün fotoğrafı yok.
+- Atatürk görseli: 12 sahnenin 4'ünde (konu gereği). TEK1 isterse azaltılır.
 
 ## İDDİA – KAYNAK TABLOSU
 | Cümle (ses metni) | Kaynak | Kaynaktaki ifade | Durum |
@@ -37,3 +38,23 @@
 - Taraftar tartışması beklenir (etkileşim). Metin üç kulübü de aynı tonda anıyor; Beşiktaş için sadece belgeli olan (Akaretler evi) söylendi.
 - Atatürk görseli: konu gereği birkaç sahnede Atatürk var (CLAUDE.md 3 "az kullan"); TEK1 kararı.
 - FB siyasi dağıtım riski: düşük (tarih + spor).
+
+## GÖRSEL PLANI (12 görsel, hepsi siyah-beyaz/sepya, kontrol.py gorsel: 0 hata)
+| # | Cümle | Görsel | Altyazı | Commons dosyası | Tarih | Lisans/künye |
+|---|---|---|---|---|---|---|
+| 1 | Atatürk Galatasaraylı mıydı, Fenerbahçeli mi, Beşiktaşlı mı? | assets/belgeler/108_gsfb_1920.jpg | Galatasaray-Fenerbahçe maçı, 1920ler | Galatasaray-Fenerbahçe match in the 1920s.JPG | circa 1920da | Public domain; Unknown authorUnknown author |
+| 2 | Belgelere bakalım. | assets/belgeler/108_mk_gazete.jpg | İleri gazetesi, 6 Ekim 1919: "Mustafa Kemal Paşa" (belge) | "Mustafa Kemal Paşa".jpg | 1919-10-06 | Public domain; Unknown authorUnknown author |
+| 3 | Mayıs 1918de Mustafa Kemal Paşa, Fenerbahçe kulübünü ziyaret etti. | assets/belgeler/108_mk_portre.jpg | Mustafa Kemal Paşa, 1918 (Agence Rol, BnF) | Kemal Pacha (Mustafa Kemal Atatürk) - btv1b530466803.jpg | 1918date QS: | Public domain; Agence Rol. Agence photographique (comma |
+| 4 | Hatıra defterine, kulübü tebrik etmekten onur duyduğunu yazdı. | assets/belgeler/108_fb_1914.jpg | Fenerbahçe futbol takımı, 1914-1915 | Fenerbahçe Futbol Takımı 1914-1915.png | 1914-01-01 | Public domain; Spor Âlemi Mecmuası |
+| 5 | 1928de onun izniyle bir maç düzenlendi. | assets/belgeler/108_taksim_1923.jpg | Taksim Stadı, 1923 | Turkey 1923.jpg | Taken on 26  | Public domain; Unknown authorUnknown author |
+| 6 | Fenerbahçe ile Galatasaray, Atatürkün büstü için karşılaştı. | assets/belgeler/108_fb_1928.jpg | Fenerbahçe, 1927-1928 sezonu | Fenerbahçe SK 1927-1928.jpg | 1927-01-01 | Public domain; Fenerbahçe SK Tarihi |
+| 7 | İlk maç üç üç bitti. Tekrarını Galatasaray dört sıfır kazandı ve büstü aldı. | assets/belgeler/108_gs_1928.jpg | Galatasaray, 1921-1922 | 1928-29 Galatasaray.jpg | Unknown date | Public domain; The author, Cevat Çobanlı, died in 1938 |
+| 8 | Beşiktaşın bağı ise başka. Mustafa Kemal, ailesi için Beşiktaşta, Akaretlerde ev kiralamıştı. | assets/belgeler/108_bjk_1917.jpg | Beşiktaş Jimnastik Kulübü, Donanma dergisi, 11 Ekim 1917 | 1917 10 11 Donanma Besiktas.jpg | 1917-10-11 | Public domain; Donanma Mecmuası |
+| 9 | Annesi yıllarca orada yaşadı. | assets/belgeler/108_mk_1918.jpg | Mustafa Kemal Paşa (sağda), Yıldırım Orduları, 1918 | Mustafa Kemal Pasha, Yıldırım Orduları Kumandanı, 1918.jpg | 1918-01-01 | Public domain; Unknown authorUnknown author |
+| 10 | Peki tarihçiler ne diyor? Murat Bardakçıya göre Atatürkün tuttuğu bir takım yoktu. | assets/belgeler/108_mk_karlsbad.jpg | Mustafa Kemal, Karlsbad, 1918 | Mustafa Kemal in Karlsbad in 1918.jpg | 1918 | Public domain; Unknown authorUnknown author |
+| 11 | Futbolu merak etmez, güreşe ilgi gösterirdi. Defterlere yazdıkları birer nezaket sözüydü. | assets/belgeler/108_fb_1913.jpg | Fenerbahçe-Anadolu maçı sonrası, 14 Şubat 1914 | Fenerbahçe SK 1913-14.jpg | 1914-02-14 | Public domain; Ziyad Ebüzziya (1911–1994) |
+| 12 | Yani Atatürk, üç kulübün de ortak gururu. + kapanış sorusu ve kapanış | assets/belgeler/108_bjk_1933.jpg | Beşiktaş takımı, Cumhuriyet, 17 Haziran 1933 | 1933 06 17 Cumhuriyet Besiktas.jpg | 1933-06-17 | Public domain; Cumhuriyet Gazetesi |
+
+Elenen görseller: 108_taksim_kisla (kaynak SALT, NC), 108_canonica_ankara (#60'ta kullanıldı), 108_gsfb_1910 (#95), 108_gsfb_1923 (#93), 108_taksim_alisami (#93), 108_bjk_seref1911 (#92). Hepsi kontrol.py gorsel ile yakalandı (skor 958-1000).
+Bulunamayan: Akaretler evinin eski fotoğrafı (Commons'ta sadece renkli günümüz fotoğrafları var; renkli kullanmadım), Atatürk'ün güreş izlerken fotoğrafı, Canonica büstünün kendisi.
+Not: 108_taksim_1923 küçük (500 px), hafif bulanık görünebilir. 108_mk_gazete ve 108_bjk_1933 gazete sayfası (belge).

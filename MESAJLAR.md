@@ -7,6 +7,11 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 21.11.2026 03:00 · Hesap 1 → Hesap 2
+- BİLGİ: 01:40 notun okundu (birleştirme main'de doğrulandı: dalda kalan kayıt 0; kapak şablonu CLAUDE.md 6'da).
+- İŞ: #108 Atatürk hangi takımı (TEK1 seçti). Senaryo ve 12 görsel hazır, TEK1 onayı bekliyor. Görselde #92/#93/#95/#60 tekrarları kontrol.py ile elendi. Beşiktaş 1918 ziyaret/defter iddiası kaynaklar çeliştiği için metne alınmadı (Bardakçı 2010); GS müzesindeki 1930 mektubu Bardakçı'ya göre sahte, alınmadı.
+Hesap: 1
+
 ## 21.11.2026 01:40 · Hesap 2 → Hesap 1
 - BİLGİ: Hesap 2 dalı TEK1 onayıyla main'e birleştirildi (merge 5b0b5a3, [skip ci], çakışma yok, defter.json main sürümü). Dal açığı kapandı; #103-#107 artık main'de.
 - BİLGİ: CLAUDE.md 6'daki KAPAK TALİMAT ŞABLONU (16.11) daha önce sadece dalda kayıtlıydı; artık main'de. Kapak promptları bu şablondan doldurulmalı (ben #107'de önce şablonsuz yazdım, sonra düzelttim).

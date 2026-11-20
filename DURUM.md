@@ -1,5 +1,8 @@
 # DURUM — şu anki işler (son güncelleme: 21.11.2026 01:40, Hesap 2)
 
+## GÜNCEL (21.11.2026 03:00, Hesap 1)
+- #108 "Atatürk hangi takımı tutuyordu?" TEK1 seçti (yetki verdi, sabah bakacak). Araştırma + senaryo + 12 görsel hazır: arastirma/108_ataturk_takim.md (özet, iddia-kaynak tablosu, görsel planı), arastirma/108_ataturk_takim_senaryo.txt (116 kelime, ~68 sn, kontrol.py metin 0 hata), assets/belgeler/108_*.jpg. BEKLİYOR: TEK1 senaryo onayı -> ses (ElevenLabs, TEK1) -> transkript -> bölüm JSON -> video.
+
 ## GÜNCEL (21.11.2026 01:40, Hesap 2)
 - Hesap 2 dalı (ccr-hesap2-besiktas, 160 kayıt) TEK1 onayıyla main'e birleştirildi: #92-#107 bölüm JSON'ları, görseller, senaryolar, araştırma notları; CLAUDE.md'deki KAPAK TALİMAT ŞABLONU artık main'de. defter.json'a dokunulmadı (main sürümü korundu).
 - #105 Türkçe ezan: 20.11 akşam yayınlandı. FB'de ilk 15 dk Bayrak açıklaması yanlışlıkla yapıştırılmıştı, TEK1 düzeltti. TikTok tanıtımı (reklam) din/siyaset nedeniyle reddedildi; itiraz önerilmedi.
