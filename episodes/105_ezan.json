@@ -1,0 +1,1360 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 105,
+ "slug": "ezan",
+ "title": "Ezanın Türkçe Okunduğu Yıllar",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "18 yıl boyunca\nezan Türkçe okundu",
+ "dis_ses": {
+  "file": "assets/ses/105_ezan.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.43
+    ]
+   ],
+   [
+    [
+     7.43,
+     15.18
+    ]
+   ],
+   [
+    [
+     15.18,
+     23.86
+    ]
+   ],
+   [
+    [
+     23.86,
+     31.28
+    ]
+   ],
+   [
+    [
+     31.28,
+     36.12
+    ]
+   ],
+   [
+    [
+     36.12,
+     41.8
+    ]
+   ],
+   [
+    [
+     41.8,
+     50.82
+    ]
+   ],
+   [
+    [
+     50.82,
+     58.34
+    ]
+   ],
+   [
+    [
+     58.34,
+     64.2
+    ]
+   ],
+   [
+    [
+     64.2,
+     73.36
+    ]
+   ],
+   [
+    [
+     73.36,
+     82.42
+    ]
+   ],
+   [
+    [
+     82.42,
+     88.52
+    ]
+   ],
+   [
+    [
+     88.52,
+     95.26
+    ]
+   ],
+   [
+    [
+     95.26,
+     100.28
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir sabah minareden alışık olmadığınız bir ses yükseliyor: Tanrı uludur, Tanrı uludur.",
+   "caption": "Bir sabah minareden alışık olmadığınız bir ses yükseliyor: Tanrı uludur, Tanrı uludur.",
+   "key": [
+    "minareden"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_suleymaniye_loc.jpg",
+    "fit": "doldur",
+    "baslik": "Süleymaniye Camii ve Haliç · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Süleymaniye Camii ve Haliç · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.275,
+     0,
+     0.725,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.38,
+     "n": 1
+    },
+    {
+     "start": 0.38,
+     "end": 0.92,
+     "n": 1
+    },
+    {
+     "start": 1.12,
+     "end": 1.6,
+     "n": 1
+    },
+    {
+     "start": 1.6,
+     "end": 2.12,
+     "n": 1
+    },
+    {
+     "start": 2.12,
+     "end": 2.7,
+     "n": 1
+    },
+    {
+     "start": 2.7,
+     "end": 2.96,
+     "n": 1
+    },
+    {
+     "start": 2.96,
+     "end": 3.08,
+     "n": 1
+    },
+    {
+     "start": 3.08,
+     "end": 4.0,
+     "n": 1
+    },
+    {
+     "start": 4.0,
+     "end": 4.92,
+     "n": 1
+    },
+    {
+     "start": 4.92,
+     "end": 5.4,
+     "n": 1
+    },
+    {
+     "start": 5.7,
+     "end": 6.32,
+     "n": 1
+    },
+    {
+     "start": 6.32,
+     "end": 7.32,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu ses, Türkiyede tam on sekiz yıl boyunca günde beş vakit duyuldu. Peki ezan neden Türkçe okundu?",
+   "caption": "Bu ses, Türkiye'de tam on sekiz yıl boyunca günde beş vakit duyuldu. Peki ezan neden Türkçe okundu?",
+   "key": [
+    "beş",
+    "vakit"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_sultanahmet_meydan.jpg",
+    "fit": "doldur",
+    "baslik": "Sultanahmet Camii önünde halk · Sébah & Joaillier, kamu malı",
+    "lisans": "",
+    "kaynak": "Sultanahmet Camii önünde halk · Sébah & Joaillier, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.283,
+     0,
+     0.717,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 7.54,
+     "end": 7.8,
+     "n": 1
+    },
+    {
+     "start": 7.8,
+     "end": 8.18,
+     "n": 1
+    },
+    {
+     "start": 8.5,
+     "end": 8.98,
+     "n": 1
+    },
+    {
+     "start": 8.98,
+     "end": 9.3,
+     "n": 1
+    },
+    {
+     "start": 9.3,
+     "end": 9.61,
+     "n": 1
+    },
+    {
+     "start": 9.61,
+     "end": 9.92,
+     "n": 1
+    },
+    {
+     "start": 9.92,
+     "end": 10.28,
+     "n": 1
+    },
+    {
+     "start": 10.28,
+     "end": 10.9,
+     "n": 1
+    },
+    {
+     "start": 10.9,
+     "end": 11.28,
+     "n": 1
+    },
+    {
+     "start": 11.28,
+     "end": 11.6,
+     "n": 1
+    },
+    {
+     "start": 11.6,
+     "end": 11.94,
+     "n": 1
+    },
+    {
+     "start": 11.94,
+     "end": 12.66,
+     "n": 1
+    },
+    {
+     "start": 12.88,
+     "end": 13.34,
+     "n": 1
+    },
+    {
+     "start": 13.56,
+     "end": 13.76,
+     "n": 1
+    },
+    {
+     "start": 13.76,
+     "end": 14.18,
+     "n": 1
+    },
+    {
+     "start": 14.18,
+     "end": 14.56,
+     "n": 1
+    },
+    {
+     "start": 14.56,
+     "end": 15.06,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1932de, Atatürkün cumhurbaşkanı olduğu tek parti döneminde, ibadet dilini Türkçeleştirme çalışmaları başladı.",
+   "caption": "1932'de, Atatürk'ün cumhurbaşkanı olduğu tek parti döneminde, ibadet dilini Türkçeleştirme çalışmaları başladı.",
+   "key": [
+    "Atatürkün"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_ataturk_inonu1932.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk ve İsmet İnönü, Türk Tarih Kongresi · kamu malı",
+    "lisans": "",
+    "kaynak": "Atatürk ve İsmet İnönü, Türk Tarih Kongresi · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.081,
+     0,
+     0.919,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 16.72,
+     "end": 17.6,
+     "n": 1
+    },
+    {
+     "start": 17.6,
+     "end": 18.32,
+     "n": 1
+    },
+    {
+     "start": 18.32,
+     "end": 19.22,
+     "n": 1
+    },
+    {
+     "start": 19.22,
+     "end": 19.44,
+     "n": 1
+    },
+    {
+     "start": 19.44,
+     "end": 19.76,
+     "n": 1
+    },
+    {
+     "start": 19.76,
+     "end": 20.06,
+     "n": 1
+    },
+    {
+     "start": 20.06,
+     "end": 20.8,
+     "n": 1
+    },
+    {
+     "start": 20.8,
+     "end": 21.56,
+     "n": 1
+    },
+    {
+     "start": 21.56,
+     "end": 21.92,
+     "n": 1
+    },
+    {
+     "start": 21.92,
+     "end": 22.72,
+     "n": 1
+    },
+    {
+     "start": 22.72,
+     "end": 23.26,
+     "n": 1
+    },
+    {
+     "start": 23.26,
+     "end": 23.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu çalışmalar Atatürkün emriyle yürütüldü. Dokuz ünlü hafızdan oluşan bir heyet, ezanı Türkçeye çevirdi.",
+   "caption": "Bu çalışmalar Atatürk'ün emriyle yürütüldü. Dokuz ünlü hafızdan oluşan bir heyet, ezanı Türkçeye çevirdi.",
+   "key": [
+    "hafızdan"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_ayasofya1915.jpg",
+    "fit": "doldur",
+    "baslik": "Ayasofya Camii, 1915 · Underwood & Underwood, kamu malı",
+    "lisans": "",
+    "kaynak": "Ayasofya Camii, 1915 · Underwood & Underwood, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.084,
+     0,
+     0.916,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 24.16,
+     "end": 24.3,
+     "n": 1
+    },
+    {
+     "start": 24.3,
+     "end": 25.08,
+     "n": 1
+    },
+    {
+     "start": 25.08,
+     "end": 25.84,
+     "n": 1
+    },
+    {
+     "start": 25.84,
+     "end": 26.28,
+     "n": 1
+    },
+    {
+     "start": 26.28,
+     "end": 27.14,
+     "n": 1
+    },
+    {
+     "start": 27.14,
+     "end": 27.72,
+     "n": 1
+    },
+    {
+     "start": 27.72,
+     "end": 28.06,
+     "n": 1
+    },
+    {
+     "start": 28.06,
+     "end": 28.62,
+     "n": 1
+    },
+    {
+     "start": 28.62,
+     "end": 29.02,
+     "n": 1
+    },
+    {
+     "start": 29.02,
+     "end": 29.26,
+     "n": 1
+    },
+    {
+     "start": 29.26,
+     "end": 29.7,
+     "n": 1
+    },
+    {
+     "start": 29.92,
+     "end": 30.28,
+     "n": 1
+    },
+    {
+     "start": 30.28,
+     "end": 30.66,
+     "n": 1
+    },
+    {
+     "start": 30.66,
+     "end": 31.16,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ocak ayında İstanbulda Fatih Camiinde ezan Türkçe okundu.",
+   "caption": "Ocak ayında İstanbul'da Fatih Camii'nde ezan Türkçe okundu.",
+   "key": [
+    "Fatih"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_fatih_sebah.jpg",
+    "fit": "doldur",
+    "baslik": "Fatih Camii, İstanbul · Sébah & Joaillier, kamu malı",
+    "lisans": "",
+    "kaynak": "Fatih Camii, İstanbul · Sébah & Joaillier, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.279,
+     0,
+     0.721,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.66,
+     "end": 31.9,
+     "n": 1
+    },
+    {
+     "start": 31.9,
+     "end": 32.42,
+     "n": 1
+    },
+    {
+     "start": 32.42,
+     "end": 33.26,
+     "n": 1
+    },
+    {
+     "start": 33.26,
+     "end": 33.72,
+     "n": 1
+    },
+    {
+     "start": 33.72,
+     "end": 34.44,
+     "n": 1
+    },
+    {
+     "start": 34.44,
+     "end": 34.92,
+     "n": 1
+    },
+    {
+     "start": 34.92,
+     "end": 35.34,
+     "n": 1
+    },
+    {
+     "start": 35.34,
+     "end": 36.0,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Aynı yılın temmuzunda Diyanet, ezanın bütün camilerde Türkçe okunması talimatını verdi.",
+   "caption": "Aynı yılın temmuzunda Diyanet, ezanın bütün camilerde Türkçe okunması talimatını verdi.",
+   "key": [
+    "Diyanet"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_laleli.jpg",
+    "fit": "doldur",
+    "baslik": "Laleli Camii, İstanbul · Sébah & Joaillier, kamu malı",
+    "lisans": "",
+    "kaynak": "Laleli Camii, İstanbul · Sébah & Joaillier, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.279,
+     0,
+     0.721,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 36.26,
+     "end": 36.42,
+     "n": 1
+    },
+    {
+     "start": 36.42,
+     "end": 36.8,
+     "n": 1
+    },
+    {
+     "start": 36.8,
+     "end": 37.36,
+     "n": 1
+    },
+    {
+     "start": 37.36,
+     "end": 38.02,
+     "n": 1
+    },
+    {
+     "start": 38.24,
+     "end": 38.72,
+     "n": 1
+    },
+    {
+     "start": 38.72,
+     "end": 39.08,
+     "n": 1
+    },
+    {
+     "start": 39.08,
+     "end": 39.82,
+     "n": 1
+    },
+    {
+     "start": 39.82,
+     "end": 40.22,
+     "n": 1
+    },
+    {
+     "start": 40.22,
+     "end": 40.68,
+     "n": 1
+    },
+    {
+     "start": 40.68,
+     "end": 41.4,
+     "n": 1
+    },
+    {
+     "start": 41.4,
+     "end": 41.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama herkes bunu kabul etmedi. 1933te Bursada Ulu Camide ezan Arapça okununca kalabalık sokağa döküldü.",
+   "caption": "Ama herkes bunu kabul etmedi. 1933'te Bursa'da Ulu Cami'de ezan Arapça okununca kalabalık sokağa döküldü.",
+   "key": [
+    "kalabalık"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_kalabalik_galata.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Köprüsü başında kalabalık, İstanbul · Keystone View Company, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata Köprüsü başında kalabalık, İstanbul · Keystone View Company, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.176,
+     0.05,
+     0.404,
+     0.43
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 42.2,
+     "end": 42.42,
+     "n": 1
+    },
+    {
+     "start": 42.42,
+     "end": 42.94,
+     "n": 1
+    },
+    {
+     "start": 42.94,
+     "end": 43.22,
+     "n": 1
+    },
+    {
+     "start": 43.22,
+     "end": 43.56,
+     "n": 1
+    },
+    {
+     "start": 43.56,
+     "end": 43.98,
+     "n": 1
+    },
+    {
+     "start": 45.02,
+     "end": 45.86,
+     "n": 1
+    },
+    {
+     "start": 45.86,
+     "end": 46.48,
+     "n": 1
+    },
+    {
+     "start": 46.48,
+     "end": 46.86,
+     "n": 1
+    },
+    {
+     "start": 46.86,
+     "end": 47.36,
+     "n": 1
+    },
+    {
+     "start": 47.36,
+     "end": 47.84,
+     "n": 1
+    },
+    {
+     "start": 47.84,
+     "end": 48.28,
+     "n": 1
+    },
+    {
+     "start": 48.28,
+     "end": 49.02,
+     "n": 1
+    },
+    {
+     "start": 49.02,
+     "end": 49.64,
+     "n": 1
+    },
+    {
+     "start": 49.64,
+     "end": 50.04,
+     "n": 1
+    },
+    {
+     "start": 50.04,
+     "end": 50.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bu olay tarihe Bursa Olayı diye geçti. Olayın ardından Atatürk Bursaya geldi ve şu açıklamayı yaptı:",
+   "caption": "Bu olay tarihe Bursa Olayı diye geçti. Olayın ardından Atatürk Bursa'ya geldi ve şu açıklamayı yaptı:",
+   "key": [
+    "Bursa",
+    "Olayı"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_bursa_ulucami_ic.jpg",
+    "fit": "doldur",
+    "baslik": "Bursa Ulu Cami içi · Rijksmuseum, CC0",
+    "lisans": "",
+    "kaynak": "Bursa Ulu Cami içi · Rijksmuseum, CC0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.19,
+     0,
+     0.81,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 50.9,
+     "end": 51.12,
+     "n": 1
+    },
+    {
+     "start": 51.12,
+     "end": 51.48,
+     "n": 1
+    },
+    {
+     "start": 51.48,
+     "end": 52.12,
+     "n": 1
+    },
+    {
+     "start": 52.12,
+     "end": 52.54,
+     "n": 1
+    },
+    {
+     "start": 52.54,
+     "end": 52.78,
+     "n": 1
+    },
+    {
+     "start": 52.78,
+     "end": 53.0,
+     "n": 1
+    },
+    {
+     "start": 53.0,
+     "end": 53.68,
+     "n": 1
+    },
+    {
+     "start": 53.68,
+     "end": 54.26,
+     "n": 1
+    },
+    {
+     "start": 54.26,
+     "end": 54.78,
+     "n": 1
+    },
+    {
+     "start": 54.78,
+     "end": 55.38,
+     "n": 1
+    },
+    {
+     "start": 55.38,
+     "end": 55.94,
+     "n": 1
+    },
+    {
+     "start": 55.94,
+     "end": 56.24,
+     "n": 1
+    },
+    {
+     "start": 56.24,
+     "end": 56.66,
+     "n": 1
+    },
+    {
+     "start": 56.66,
+     "end": 56.88,
+     "n": 1
+    },
+    {
+     "start": 56.88,
+     "end": 57.44,
+     "n": 1
+    },
+    {
+     "start": 57.44,
+     "end": 58.22,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Meselenin mahiyeti esasen din değil, dildir. Sonra kanun da değişti.",
+   "caption": "Meselenin mahiyeti esasen din değil, dildir. Sonra kanun da değişti.",
+   "key": [
+    "dildir"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_ataturk1933_konusma.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk, Cumhuriyetin 10. yılı konuşması, 1933 · kamu malı",
+    "lisans": "",
+    "kaynak": "Atatürk, Cumhuriyetin 10. yılı konuşması, 1933 · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.383,
+     0,
+     0.717,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 58.56,
+     "end": 58.96,
+     "n": 1
+    },
+    {
+     "start": 58.96,
+     "end": 59.6,
+     "n": 1
+    },
+    {
+     "start": 59.6,
+     "end": 60.28,
+     "n": 1
+    },
+    {
+     "start": 60.28,
+     "end": 60.48,
+     "n": 1
+    },
+    {
+     "start": 60.48,
+     "end": 61.04,
+     "n": 1
+    },
+    {
+     "start": 61.04,
+     "end": 62.14,
+     "n": 1
+    },
+    {
+     "start": 62.36,
+     "end": 62.76,
+     "n": 1
+    },
+    {
+     "start": 62.76,
+     "end": 63.26,
+     "n": 1
+    },
+    {
+     "start": 63.26,
+     "end": 63.46,
+     "n": 1
+    },
+    {
+     "start": 63.46,
+     "end": 64.08,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1941de, İsmet İnönünün cumhurbaşkanlığı döneminde, Arapça ezan okuyana üç aya kadar hapis ya da para cezası getirildi.",
+   "caption": "1941'de, İsmet İnönü'nün cumhurbaşkanlığı döneminde, Arapça ezan okuyana üç aya kadar hapis ya da para cezası getirildi.",
+   "key": [
+    "İnönünün"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_inonu2.jpg",
+    "fit": "doldur",
+    "baslik": "İsmet İnönü, cumhurbaşkanlığı yılları · kamu malı",
+    "lisans": "",
+    "kaynak": "İsmet İnönü, cumhurbaşkanlığı yılları · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.129,
+     0,
+     0.871,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 64.8,
+     "end": 65.64,
+     "n": 1
+    },
+    {
+     "start": 65.64,
+     "end": 66.04,
+     "n": 1
+    },
+    {
+     "start": 66.04,
+     "end": 66.66,
+     "n": 1
+    },
+    {
+     "start": 66.66,
+     "end": 67.58,
+     "n": 1
+    },
+    {
+     "start": 67.58,
+     "end": 68.42,
+     "n": 1
+    },
+    {
+     "start": 68.42,
+     "end": 68.96,
+     "n": 1
+    },
+    {
+     "start": 68.96,
+     "end": 69.2,
+     "n": 1
+    },
+    {
+     "start": 69.2,
+     "end": 69.72,
+     "n": 1
+    },
+    {
+     "start": 69.72,
+     "end": 70.08,
+     "n": 1
+    },
+    {
+     "start": 70.08,
+     "end": 70.34,
+     "n": 1
+    },
+    {
+     "start": 70.34,
+     "end": 70.64,
+     "n": 1
+    },
+    {
+     "start": 70.64,
+     "end": 71.18,
+     "n": 1
+    },
+    {
+     "start": 71.18,
+     "end": 71.44,
+     "n": 1
+    },
+    {
+     "start": 71.44,
+     "end": 71.66,
+     "n": 1
+    },
+    {
+     "start": 71.66,
+     "end": 71.88,
+     "n": 1
+    },
+    {
+     "start": 71.88,
+     "end": 72.3,
+     "n": 1
+    },
+    {
+     "start": 72.3,
+     "end": 73.24,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1950 seçimlerini Demokrat Parti kazandı ve Adnan Menderes başbakan oldu. Yeni Meclis, 16 Haziranda bu cezayı kaldırdı.",
+   "caption": "1950 seçimlerini Demokrat Parti kazandı ve Adnan Menderes başbakan oldu. Yeni Meclis, 16 Haziran'da bu cezayı kaldırdı.",
+   "key": [
+    "Menderes"
+   ],
+   "image": {
+    "local": "assets/belgeler/096_menderes2.jpg",
+    "fit": "doldur",
+    "baslik": "Adnan Menderes, TBMM 9. dönem · kamu malı",
+    "lisans": "",
+    "kaynak": "Adnan Menderes, TBMM 9. dönem · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.122,
+     0,
+     0.878,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 73.64,
+     "end": 74.1,
+     "n": 1
+    },
+    {
+     "start": 74.1,
+     "end": 74.98,
+     "n": 1
+    },
+    {
+     "start": 74.98,
+     "end": 75.46,
+     "n": 1
+    },
+    {
+     "start": 75.46,
+     "end": 75.82,
+     "n": 1
+    },
+    {
+     "start": 75.82,
+     "end": 76.48,
+     "n": 1
+    },
+    {
+     "start": 76.48,
+     "end": 76.8,
+     "n": 1
+    },
+    {
+     "start": 76.8,
+     "end": 77.14,
+     "n": 1
+    },
+    {
+     "start": 77.14,
+     "end": 77.64,
+     "n": 1
+    },
+    {
+     "start": 77.64,
+     "end": 78.18,
+     "n": 1
+    },
+    {
+     "start": 78.18,
+     "end": 78.52,
+     "n": 1
+    },
+    {
+     "start": 79.0,
+     "end": 79.2,
+     "n": 1
+    },
+    {
+     "start": 79.2,
+     "end": 79.72,
+     "n": 1
+    },
+    {
+     "start": 79.72,
+     "end": 80.14,
+     "n": 1
+    },
+    {
+     "start": 80.14,
+     "end": 80.9,
+     "n": 1
+    },
+    {
+     "start": 80.9,
+     "end": 81.16,
+     "n": 1
+    },
+    {
+     "start": 81.16,
+     "end": 81.54,
+     "n": 1
+    },
+    {
+     "start": 81.54,
+     "end": 82.42,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ertesi gün İstanbulda Fatih ve Beyazıt camilerinde yeniden Arapça ezan okundu.",
+   "caption": "Ertesi gün İstanbul'da Fatih ve Beyazıt camilerinde yeniden Arapça ezan okundu.",
+   "key": [
+    "Beyazıt"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_bayezid1912.jpg",
+    "fit": "doldur",
+    "baslik": "Beyazıt Camii ve meydanı, 1912 · Agence Rol, Gallica, kamu malı",
+    "lisans": "",
+    "kaynak": "Beyazıt Camii ve meydanı, 1912 · Agence Rol, Gallica, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.294,
+     0,
+     0.706,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 82.42,
+     "end": 83.08,
+     "n": 1
+    },
+    {
+     "start": 83.08,
+     "end": 83.28,
+     "n": 1
+    },
+    {
+     "start": 83.28,
+     "end": 84.12,
+     "n": 1
+    },
+    {
+     "start": 84.12,
+     "end": 84.6,
+     "n": 1
+    },
+    {
+     "start": 84.6,
+     "end": 84.78,
+     "n": 1
+    },
+    {
+     "start": 84.78,
+     "end": 85.26,
+     "n": 1
+    },
+    {
+     "start": 85.26,
+     "end": 86.22,
+     "n": 1
+    },
+    {
+     "start": 86.22,
+     "end": 86.84,
+     "n": 1
+    },
+    {
+     "start": 86.84,
+     "end": 87.26,
+     "n": 1
+    },
+    {
+     "start": 87.26,
+     "end": 87.5,
+     "n": 1
+    },
+    {
+     "start": 87.5,
+     "end": 88.4,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizce bu dönemin bugüne bıraktığı en önemli ders ne? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce bu dönemin bugüne bıraktığı en önemli ders ne? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "ders"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_bayezid_pano.jpg",
+    "fit": "doldur",
+    "baslik": "Beyazıt Camii, 1913 · Sébah & Joaillier, kamu malı",
+    "lisans": "",
+    "kaynak": "Beyazıt Camii, 1913 · Sébah & Joaillier, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.303,
+     0.0,
+     0.697,
+     0.84
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 88.72,
+     "end": 89.18,
+     "n": 1
+    },
+    {
+     "start": 89.18,
+     "end": 89.4,
+     "n": 1
+    },
+    {
+     "start": 89.4,
+     "end": 89.82,
+     "n": 1
+    },
+    {
+     "start": 89.82,
+     "end": 90.28,
+     "n": 1
+    },
+    {
+     "start": 90.28,
+     "end": 90.88,
+     "n": 1
+    },
+    {
+     "start": 90.88,
+     "end": 91.16,
+     "n": 1
+    },
+    {
+     "start": 91.16,
+     "end": 91.5,
+     "n": 1
+    },
+    {
+     "start": 91.5,
+     "end": 91.82,
+     "n": 1
+    },
+    {
+     "start": 91.82,
+     "end": 92.08,
+     "n": 1
+    },
+    {
+     "start": 92.94,
+     "end": 93.76,
+     "n": 1
+    },
+    {
+     "start": 93.76,
+     "end": 94.34,
+     "n": 1
+    },
+    {
+     "start": 94.34,
+     "end": 95.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "unutmayalım"
+   ],
+   "image": {
+    "local": "assets/belgeler/105_fatih_r2.jpg",
+    "fit": "doldur",
+    "baslik": "Fatih Camii, 1880-1893 · Abdullah Frères, kamu malı",
+    "lisans": "",
+    "kaynak": "Fatih Camii, 1880-1893 · Abdullah Frères, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.352,
+     0.13,
+     0.648,
+     0.8
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 95.38,
+     "end": 95.86,
+     "n": 1
+    },
+    {
+     "start": 95.86,
+     "end": 96.18,
+     "n": 1
+    },
+    {
+     "start": 96.18,
+     "end": 97.0,
+     "n": 1
+    },
+    {
+     "start": 97.46,
+     "end": 98.02,
+     "n": 1
+    },
+    {
+     "start": 98.02,
+     "end": 98.2,
+     "n": 1
+    },
+    {
+     "start": 98.2,
+     "end": 98.62,
+     "n": 1
+    },
+    {
+     "start": 98.62,
+     "end": 99.14,
+     "n": 1
+    },
+    {
+     "start": 99.14,
+     "end": 99.54,
+     "n": 1
+    },
+    {
+     "start": 99.54,
+     "end": 100.08,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1002 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 99,
+ "slug": "demirag",
+ "title": "Nuri Demirağ Uçak Fabrikası",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Türk uçağı yaptı\nfabrika kapandı",
+ "dis_ses": {
+  "file": "assets/ses/099_demirag.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.18
+    ]
+   ],
+   [
+    [
+     7.18,
+     14.12
+    ]
+   ],
+   [
+    [
+     14.12,
+     18.7
+    ]
+   ],
+   [
+    [
+     18.7,
+     24.22
+    ]
+   ],
+   [
+    [
+     24.22,
+     33.59
+    ]
+   ],
+   [
+    [
+     33.59,
+     39.96
+    ]
+   ],
+   [
+    [
+     39.96,
+     48.76
+    ]
+   ],
+   [
+    [
+     48.76,
+     53.46
+    ]
+   ],
+   [
+    [
+     53.46,
+     59.88
+    ]
+   ],
+   [
+    [
+     59.88,
+     74.9975
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Türkiyede uçak fabrikası kuran bir adam vardı. Uçakları da uçtu. Ama fabrika kapandı. Neden?",
+   "caption": "Türkiye'de uçak fabrikası kuran bir adam vardı. Uçakları da uçtu. Ama fabrika kapandı. Neden?",
+   "key": [
+    "uçak fabrikası"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_tasvir_ucaklar.jpg",
+    "fit": "doldur",
+    "baslik": "Yeşilköyde Türk yapımı uçaklar, Tasvir-i Efkâr, 15 Ekim 1942 · İÜ Nadir Eserler Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Yeşilköyde Türk yapımı uçaklar, Tasvir-i Efkâr, 15 Ekim 1942 · İÜ Nadir Eserler Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0,
+     0.85,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.82,
+     "n": 1
+    },
+    {
+     "start": 0.82,
+     "end": 1.22,
+     "n": 1
+    },
+    {
+     "start": 1.22,
+     "end": 1.7,
+     "n": 1
+    },
+    {
+     "start": 1.7,
+     "end": 2.02,
+     "n": 1
+    },
+    {
+     "start": 2.02,
+     "end": 2.26,
+     "n": 1
+    },
+    {
+     "start": 2.26,
+     "end": 2.46,
+     "n": 1
+    },
+    {
+     "start": 2.46,
+     "end": 3.04,
+     "n": 1
+    },
+    {
+     "start": 3.46,
+     "end": 3.96,
+     "n": 1
+    },
+    {
+     "start": 3.96,
+     "end": 4.12,
+     "n": 1
+    },
+    {
+     "start": 4.12,
+     "end": 4.9,
+     "n": 1
+    },
+    {
+     "start": 5.16,
+     "end": 5.34,
+     "n": 1
+    },
+    {
+     "start": 5.34,
+     "end": 5.78,
+     "n": 1
+    },
+    {
+     "start": 5.78,
+     "end": 6.64,
+     "n": 1
+    },
+    {
+     "start": 6.86,
+     "end": 7.06,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Adı Nuri Demirağ. 17 Eylül 1936da Beşiktaşta uçak fabrikasını kurdu.",
+   "caption": "Adı Nuri Demirağ. 17 Eylül 1936'da Beşiktaş'ta uçak fabrikasını kurdu.",
+   "key": [
+    "Nuri Demirağ",
+    "1936"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_demiraglar.jpg",
+    "fit": "doldur",
+    "baslik": "Nuri Demirağ (ortada), 1941 · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Nuri Demirağ (ortada), 1941 · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0,
+     0.72,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 7.78,
+     "end": 8.24,
+     "n": 1
+    },
+    {
+     "start": 8.24,
+     "end": 8.62,
+     "n": 1
+    },
+    {
+     "start": 8.62,
+     "end": 9.08,
+     "n": 1
+    },
+    {
+     "start": 9.6,
+     "end": 10.0,
+     "n": 1
+    },
+    {
+     "start": 10.0,
+     "end": 10.38,
+     "n": 1
+    },
+    {
+     "start": 10.38,
+     "end": 11.84,
+     "n": 1
+    },
+    {
+     "start": 11.84,
+     "end": 12.6,
+     "n": 1
+    },
+    {
+     "start": 12.6,
+     "end": 12.94,
+     "n": 1
+    },
+    {
+     "start": 12.94,
+     "end": 13.54,
+     "n": 1
+    },
+    {
+     "start": 13.54,
+     "end": 14.0,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yabancı uçak kopyalamak değil, yeni bir Türk uçağı yapmak istiyordu.",
+   "caption": "Yabancı uçak kopyalamak değil, yeni bir Türk uçağı yapmak istiyordu.",
+   "key": [
+    "Türk uçağı"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_nud36.jpg",
+    "fit": "doldur",
+    "baslik": "Nu.D.36 eğitim uçağı · Janes All the World Aircraft 1946 / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Nu.D.36 eğitim uçağı · Janes All the World Aircraft 1946 / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0,
+     0.8,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 14.44,
+     "end": 14.86,
+     "n": 1
+    },
+    {
+     "start": 14.86,
+     "end": 15.12,
+     "n": 1
+    },
+    {
+     "start": 15.12,
+     "end": 15.78,
+     "n": 1
+    },
+    {
+     "start": 15.78,
+     "end": 16.12,
+     "n": 1
+    },
+    {
+     "start": 16.54,
+     "end": 16.7,
+     "n": 1
+    },
+    {
+     "start": 16.7,
+     "end": 17.04,
+     "n": 1
+    },
+    {
+     "start": 17.04,
+     "end": 17.24,
+     "n": 1
+    },
+    {
+     "start": 17.24,
+     "end": 17.66,
+     "n": 1
+    },
+    {
+     "start": 17.66,
+     "end": 18.02,
+     "n": 1
+    },
+    {
+     "start": 18.02,
+     "end": 18.58,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Uçakları mühendis Selahattin Reşit Alan tasarladı. Türk Hava Kurumu sipariş verdi.",
+   "caption": "Uçakları mühendis Selahattin Reşit Alan tasarladı. Türk Hava Kurumu sipariş verdi.",
+   "key": [
+    "Selahattin Reşit Alan"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_alan_ucak.jpg",
+    "fit": "doldur",
+    "baslik": "Selahattin Alan adını taşıyan uçak · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Selahattin Alan adını taşıyan uçak · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0.1,
+     0.85,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 19.04,
+     "end": 19.62,
+     "n": 1
+    },
+    {
+     "start": 19.62,
+     "end": 20.14,
+     "n": 1
+    },
+    {
+     "start": 20.14,
+     "end": 20.68,
+     "n": 1
+    },
+    {
+     "start": 20.68,
+     "end": 21.08,
+     "n": 1
+    },
+    {
+     "start": 21.08,
+     "end": 21.28,
+     "n": 1
+    },
+    {
+     "start": 21.28,
+     "end": 22.02,
+     "n": 1
+    },
+    {
+     "start": 22.48,
+     "end": 22.66,
+     "n": 1
+    },
+    {
+     "start": 22.66,
+     "end": 22.96,
+     "n": 1
+    },
+    {
+     "start": 22.96,
+     "end": 23.2,
+     "n": 1
+    },
+    {
+     "start": 23.2,
+     "end": 23.8,
+     "n": 1
+    },
+    {
+     "start": 23.8,
+     "end": 24.1,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sonra bir kaza oldu. Selahattin Alan bir deneme uçuşunda inerken, pistte kazılmış bir hendeğe çarptı ve hayatını kaybetti.",
+   "caption": "Sonra bir kaza oldu. Selahattin Alan bir deneme uçuşunda inerken, pistte kazılmış bir hendeğe çarptı ve hayatını kaybetti.",
+   "key": [
+    "kaza"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_heyet_avrupa.jpg",
+    "fit": "doldur",
+    "baslik": "Türk havacılık heyeti, 1930lar · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk havacılık heyeti, 1930lar · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0.05,
+     0.7,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 24.7,
+     "end": 25.12,
+     "n": 1
+    },
+    {
+     "start": 25.12,
+     "end": 25.56,
+     "n": 1
+    },
+    {
+     "start": 25.56,
+     "end": 25.88,
+     "n": 1
+    },
+    {
+     "start": 25.88,
+     "end": 26.28,
+     "n": 1
+    },
+    {
+     "start": 26.28,
+     "end": 27.34,
+     "n": 1
+    },
+    {
+     "start": 27.34,
+     "end": 27.58,
+     "n": 1
+    },
+    {
+     "start": 27.58,
+     "end": 27.96,
+     "n": 1
+    },
+    {
+     "start": 27.96,
+     "end": 28.26,
+     "n": 1
+    },
+    {
+     "start": 28.26,
+     "end": 28.76,
+     "n": 1
+    },
+    {
+     "start": 28.76,
+     "end": 29.56,
+     "n": 1
+    },
+    {
+     "start": 29.56,
+     "end": 30.0,
+     "n": 1
+    },
+    {
+     "start": 30.0,
+     "end": 30.48,
+     "n": 1
+    },
+    {
+     "start": 30.48,
+     "end": 30.8,
+     "n": 1
+    },
+    {
+     "start": 30.8,
+     "end": 31.18,
+     "n": 1
+    },
+    {
+     "start": 31.18,
+     "end": 31.76,
+     "n": 1
+    },
+    {
+     "start": 31.76,
+     "end": 32.06,
+     "n": 1
+    },
+    {
+     "start": 32.06,
+     "end": 32.64,
+     "n": 1
+    },
+    {
+     "start": 32.64,
+     "end": 33.48,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Türk Hava Kurumu siparişi iptal etti. Uçakların yurt dışına satılması da bir kanunla engellendi.",
+   "caption": "Türk Hava Kurumu siparişi iptal etti. Uçakların yurt dışına satılması da bir kanunla engellendi.",
+   "key": [
+    "iptal",
+    "kanunla"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_pilotlar1934.jpg",
+    "fit": "doldur",
+    "baslik": "Türk pilotlar, 1934 · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk pilotlar, 1934 · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.1,
+     0,
+     0.9,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 33.7,
+     "end": 33.88,
+     "n": 1
+    },
+    {
+     "start": 33.88,
+     "end": 34.1,
+     "n": 1
+    },
+    {
+     "start": 34.1,
+     "end": 34.48,
+     "n": 1
+    },
+    {
+     "start": 34.48,
+     "end": 35.24,
+     "n": 1
+    },
+    {
+     "start": 35.24,
+     "end": 35.64,
+     "n": 1
+    },
+    {
+     "start": 35.64,
+     "end": 35.94,
+     "n": 1
+    },
+    {
+     "start": 36.34,
+     "end": 36.86,
+     "n": 1
+    },
+    {
+     "start": 36.86,
+     "end": 37.16,
+     "n": 1
+    },
+    {
+     "start": 37.16,
+     "end": 37.48,
+     "n": 1
+    },
+    {
+     "start": 37.48,
+     "end": 37.98,
+     "n": 1
+    },
+    {
+     "start": 37.98,
+     "end": 38.32,
+     "n": 1
+    },
+    {
+     "start": 38.32,
+     "end": 38.58,
+     "n": 1
+    },
+    {
+     "start": 38.58,
+     "end": 39.08,
+     "n": 1
+    },
+    {
+     "start": 39.08,
+     "end": 39.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Demirağ vazgeçmedi. 1941de Yeşilköyde Gök Okulunu açtı, iki yılda 290 pilot yetişti.",
+   "caption": "Demirağ vazgeçmedi. 1941'de Yeşilköy'de Gök Okulu'nu açtı, iki yılda 290 pilot yetişti.",
+   "key": [
+    "Gök Okulu",
+    "290 pilot"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_vatan_gokokulu.jpg",
+    "fit": "doldur",
+    "baslik": "Nuri Demirağ, Gök Okulunun açılışında, Vatan, 18 Ağustos 1941 · İÜ Nadir Eserler Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Nuri Demirağ, Gök Okulunun açılışında, Vatan, 18 Ağustos 1941 · İÜ Nadir Eserler Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     0.94
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 40.4,
+     "end": 40.8,
+     "n": 1
+    },
+    {
+     "start": 40.8,
+     "end": 41.6,
+     "n": 1
+    },
+    {
+     "start": 42.56,
+     "end": 43.36,
+     "n": 1
+    },
+    {
+     "start": 43.36,
+     "end": 44.16,
+     "n": 1
+    },
+    {
+     "start": 44.16,
+     "end": 44.48,
+     "n": 1
+    },
+    {
+     "start": 44.48,
+     "end": 44.86,
+     "n": 1
+    },
+    {
+     "start": 44.86,
+     "end": 45.4,
+     "n": 1
+    },
+    {
+     "start": 45.8,
+     "end": 45.94,
+     "n": 1
+    },
+    {
+     "start": 45.94,
+     "end": 46.56,
+     "n": 1
+    },
+    {
+     "start": 46.56,
+     "end": 47.46,
+     "n": 1
+    },
+    {
+     "start": 47.46,
+     "end": 47.8,
+     "n": 1
+    },
+    {
+     "start": 47.8,
+     "end": 48.64,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Gazetelere şöyle dedi: Gömleğim satılıncaya kadar bu işe devam edeceğim.",
+   "caption": "Gazetelere şöyle dedi: Gömleğim satılıncaya kadar bu işe devam edeceğim.",
+   "key": [
+    "Gömleğim"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_tasvir_pilotlar.jpg",
+    "fit": "doldur",
+    "baslik": "Gök Okulunu bitiren pilotlar ve hocaları, Tasvir-i Efkâr, 15 Ekim 1942 · İÜ Nadir Eserler Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Gök Okulunu bitiren pilotlar ve hocaları, Tasvir-i Efkâr, 15 Ekim 1942 · İÜ Nadir Eserler Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0.05,
+     0.85,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.88,
+     "end": 49.48,
+     "n": 1
+    },
+    {
+     "start": 49.48,
+     "end": 49.82,
+     "n": 1
+    },
+    {
+     "start": 49.82,
+     "end": 50.1,
+     "n": 1
+    },
+    {
+     "start": 50.56,
+     "end": 50.96,
+     "n": 1
+    },
+    {
+     "start": 50.96,
+     "end": 51.7,
+     "n": 1
+    },
+    {
+     "start": 51.7,
+     "end": 52.08,
+     "n": 1
+    },
+    {
+     "start": 52.08,
+     "end": 52.32,
+     "n": 1
+    },
+    {
+     "start": 52.32,
+     "end": 52.64,
+     "n": 1
+    },
+    {
+     "start": 52.64,
+     "end": 52.88,
+     "n": 1
+    },
+    {
+     "start": 52.88,
+     "end": 53.34,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama yeni sipariş gelmedi, fabrika 1940ların ortasında üretimi durdurdu.",
+   "caption": "Ama yeni sipariş gelmedi, fabrika 1940'ların ortasında üretimi durdurdu.",
+   "key": [
+    "üretimi durdurdu"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_tomtas.jpg",
+    "fit": "doldur",
+    "baslik": "Kayseri uçak fabrikası (TOMTAŞ) · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Kayseri uçak fabrikası (TOMTAŞ) · Hava Kuvvetleri / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0,
+     0.85,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 53.8,
+     "end": 54.18,
+     "n": 1
+    },
+    {
+     "start": 54.18,
+     "end": 54.52,
+     "n": 1
+    },
+    {
+     "start": 54.52,
+     "end": 55.06,
+     "n": 1
+    },
+    {
+     "start": 55.06,
+     "end": 55.56,
+     "n": 1
+    },
+    {
+     "start": 55.56,
+     "end": 56.52,
+     "n": 1
+    },
+    {
+     "start": 56.52,
+     "end": 57.72,
+     "n": 1
+    },
+    {
+     "start": 57.72,
+     "end": 58.46,
+     "n": 1
+    },
+    {
+     "start": 58.46,
+     "end": 58.94,
+     "n": 1
+    },
+    {
+     "start": 58.94,
+     "end": 59.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Gök Okulunun arazisi, bugün Atatürk Havalimanının bulunduğu yer. Sizce bu fabrika kapanmasaydı ne olurdu? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Gök Okulu'nun arazisi, bugün Atatürk Havalimanı'nın bulunduğu yer. Sizce bu fabrika kapanmasaydı ne olurdu? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "Atatürk Havalimanı"
+   ],
+   "image": {
+    "local": "assets/belgeler/099_nud38_muze.jpg",
+    "fit": "doldur",
+    "baslik": "Sivasta sergilenen Nu.D.38 kopyası (günümüz) · Wikimedia Commons, CC BY 4.0, siyah-beyaza çevrildi",
+    "lisans": "",
+    "kaynak": "Sivasta sergilenen Nu.D.38 kopyası (günümüz) · Wikimedia Commons, CC BY 4.0, siyah-beyaza çevrildi",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.1,
+     0.2,
+     0.9,
+     0.85
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 60.02,
+     "end": 60.22,
+     "n": 1
+    },
+    {
+     "start": 60.22,
+     "end": 60.72,
+     "n": 1
+    },
+    {
+     "start": 60.72,
+     "end": 61.5,
+     "n": 1
+    },
+    {
+     "start": 61.5,
+     "end": 61.92,
+     "n": 1
+    },
+    {
+     "start": 61.92,
+     "end": 62.52,
+     "n": 1
+    },
+    {
+     "start": 62.52,
+     "end": 63.28,
+     "n": 1
+    },
+    {
+     "start": 63.28,
+     "end": 63.78,
+     "n": 1
+    },
+    {
+     "start": 63.78,
+     "end": 64.02,
+     "n": 1
+    },
+    {
+     "start": 64.54,
+     "end": 65.06,
+     "n": 1
+    },
+    {
+     "start": 65.06,
+     "end": 65.26,
+     "n": 1
+    },
+    {
+     "start": 65.26,
+     "end": 65.7,
+     "n": 1
+    },
+    {
+     "start": 65.7,
+     "end": 66.58,
+     "n": 1
+    },
+    {
+     "start": 66.58,
+     "end": 66.84,
+     "n": 1
+    },
+    {
+     "start": 66.84,
+     "end": 67.3,
+     "n": 1
+    },
+    {
+     "start": 67.74,
+     "end": 68.5,
+     "n": 1
+    },
+    {
+     "start": 68.5,
+     "end": 69.08,
+     "n": 1
+    },
+    {
+     "start": 69.08,
+     "end": 69.92,
+     "n": 1
+    },
+    {
+     "start": 70.14,
+     "end": 70.6,
+     "n": 1
+    },
+    {
+     "start": 70.6,
+     "end": 70.92,
+     "n": 1
+    },
+    {
+     "start": 70.92,
+     "end": 71.74,
+     "n": 1
+    },
+    {
+     "start": 72.24,
+     "end": 72.74,
+     "n": 1
+    },
+    {
+     "start": 72.74,
+     "end": 72.92,
+     "n": 1
+    },
+    {
+     "start": 72.92,
+     "end": 73.3,
+     "n": 1
+    },
+    {
+     "start": 73.3,
+     "end": 73.76,
+     "n": 1
+    },
+    {
+     "start": 73.76,
+     "end": 74.2,
+     "n": 1
+    },
+    {
+     "start": 74.2,
+     "end": 74.76,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}

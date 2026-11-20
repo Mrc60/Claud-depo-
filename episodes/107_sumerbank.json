@@ -1,0 +1,1204 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 107,
+ "slug": "sumerbank",
+ "title": "Sümerbank Fabrikaları",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Bu fabrikalar\nbugün neden yok?",
+ "dis_ses": {
+  "file": "assets/ses/107_sumerbank.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     5.52
+    ]
+   ],
+   [
+    [
+     5.52,
+     12.86
+    ]
+   ],
+   [
+    [
+     12.86,
+     19.22
+    ]
+   ],
+   [
+    [
+     19.22,
+     24.42
+    ]
+   ],
+   [
+    [
+     24.42,
+     30.98
+    ]
+   ],
+   [
+    [
+     30.98,
+     38.58
+    ]
+   ],
+   [
+    [
+     38.58,
+     44.38
+    ]
+   ],
+   [
+    [
+     44.38,
+     50.13
+    ]
+   ],
+   [
+    [
+     50.13,
+     58.2
+    ]
+   ],
+   [
+    [
+     58.2,
+     63.79
+    ]
+   ],
+   [
+    [
+     63.79,
+     69.88
+    ]
+   ],
+   [
+    [
+     69.88,
+     74.77
+    ]
+   ],
+   [
+    [
+     74.77,
+     81.26
+    ]
+   ],
+   [
+    [
+     81.26,
+     86.14
+    ]
+   ],
+   [
+    [
+     86.14,
+     94.1
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir zamanlar, Türkiyenin dört bir yanında üretim yapan bu fabrikalar, bugün neden yok?",
+   "caption": "Bir zamanlar, Türkiye'nin dört bir yanında üretim yapan bu fabrikalar, bugün neden yok?",
+   "key": [
+    "fabrika"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kayseri_baca.jpg",
+    "fit": "doldur",
+    "baslik": "Sümerbank Kayseri Bez Fabrikası, 1937 · Sümerbank kitabı, TTK Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Sümerbank Kayseri Bez Fabrikası, 1937 · Sümerbank kitabı, TTK Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.38,
+     "n": 1
+    },
+    {
+     "start": 0.38,
+     "end": 1.04,
+     "n": 1
+    },
+    {
+     "start": 1.22,
+     "end": 1.66,
+     "n": 1
+    },
+    {
+     "start": 1.66,
+     "end": 1.98,
+     "n": 1
+    },
+    {
+     "start": 1.98,
+     "end": 2.22,
+     "n": 1
+    },
+    {
+     "start": 2.22,
+     "end": 2.54,
+     "n": 1
+    },
+    {
+     "start": 2.54,
+     "end": 2.98,
+     "n": 1
+    },
+    {
+     "start": 2.98,
+     "end": 3.2,
+     "n": 1
+    },
+    {
+     "start": 3.2,
+     "end": 3.5,
+     "n": 1
+    },
+    {
+     "start": 3.5,
+     "end": 4.26,
+     "n": 1
+    },
+    {
+     "start": 4.5,
+     "end": 4.7,
+     "n": 1
+    },
+    {
+     "start": 4.7,
+     "end": 5.08,
+     "n": 1
+    },
+    {
+     "start": 5.08,
+     "end": 5.4,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1933te devlet, kumaşı yurt dışından almak yerine kendi üretmek için Sümerbankı kurdu.",
+   "caption": "1933'te devlet, kumaşı yurt dışından almak yerine kendi üretmek için Sümerbank'ı kurdu.",
+   "key": [
+    "Sümerbank"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_sumerbank_merkez.jpg",
+    "fit": "doldur",
+    "baslik": "Sümerbank Genel Müdürlük binası, Ankara · Sümerbank kitabı 1937, kamu malı",
+    "lisans": "",
+    "kaynak": "Sümerbank Genel Müdürlük binası, Ankara · Sümerbank kitabı 1937, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 6.66,
+     "end": 7.44,
+     "n": 1
+    },
+    {
+     "start": 7.44,
+     "end": 8.1,
+     "n": 1
+    },
+    {
+     "start": 8.26,
+     "end": 8.66,
+     "n": 1
+    },
+    {
+     "start": 8.66,
+     "end": 8.99,
+     "n": 1
+    },
+    {
+     "start": 8.99,
+     "end": 9.32,
+     "n": 1
+    },
+    {
+     "start": 9.32,
+     "end": 9.66,
+     "n": 1
+    },
+    {
+     "start": 9.66,
+     "end": 10.16,
+     "n": 1
+    },
+    {
+     "start": 10.16,
+     "end": 10.54,
+     "n": 1
+    },
+    {
+     "start": 10.54,
+     "end": 11.06,
+     "n": 1
+    },
+    {
+     "start": 11.06,
+     "end": 11.34,
+     "n": 1
+    },
+    {
+     "start": 11.34,
+     "end": 12.08,
+     "n": 1
+    },
+    {
+     "start": 12.08,
+     "end": 12.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1935te Kayseri Bez Fabrikası açıldı. 1937de ise Atatürk,",
+   "caption": "1935'te Kayseri Bez Fabrikası açıldı. 1937'de ise Atatürk,",
+   "key": [
+    "Kayseri"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kayseri_on.jpg",
+    "fit": "doldur",
+    "baslik": "Kayseri Bez Fabrikası, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Kayseri Bez Fabrikası, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 13.58,
+     "end": 14.36,
+     "n": 1
+    },
+    {
+     "start": 14.36,
+     "end": 14.9,
+     "n": 1
+    },
+    {
+     "start": 14.9,
+     "end": 15.16,
+     "n": 1
+    },
+    {
+     "start": 15.16,
+     "end": 15.72,
+     "n": 1
+    },
+    {
+     "start": 15.72,
+     "end": 16.2,
+     "n": 1
+    },
+    {
+     "start": 17.24,
+     "end": 18.02,
+     "n": 1
+    },
+    {
+     "start": 18.02,
+     "end": 18.36,
+     "n": 1
+    },
+    {
+     "start": 18.36,
+     "end": 19.1,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Nazilli Basma Fabrikasını açtı. Bu fabrikalar küçük birer şehir gibiydi.",
+   "caption": "Nazilli Basma Fabrikası'nı açtı. Bu fabrikalar küçük birer şehir gibiydi.",
+   "key": [
+    "Nazilli"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_nazilli_ataturk.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk Nazilli Basma Fabrikasında, 1937 · kamu malı",
+    "lisans": "",
+    "kaynak": "Atatürk Nazilli Basma Fabrikasında, 1937 · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 19.36,
+     "end": 19.68,
+     "n": 1
+    },
+    {
+     "start": 19.68,
+     "end": 20.1,
+     "n": 1
+    },
+    {
+     "start": 20.1,
+     "end": 20.84,
+     "n": 1
+    },
+    {
+     "start": 20.84,
+     "end": 21.4,
+     "n": 1
+    },
+    {
+     "start": 21.68,
+     "end": 21.84,
+     "n": 1
+    },
+    {
+     "start": 21.84,
+     "end": 22.56,
+     "n": 1
+    },
+    {
+     "start": 22.56,
+     "end": 23.02,
+     "n": 1
+    },
+    {
+     "start": 23.02,
+     "end": 23.46,
+     "n": 1
+    },
+    {
+     "start": 23.46,
+     "end": 23.82,
+     "n": 1
+    },
+    {
+     "start": 23.82,
+     "end": 24.3,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "İşçiler için lojmanlar yapıldı, hastaneler ve çalışan annelerin çocukları için kreşler açıldı.",
+   "caption": "İşçiler için lojmanlar yapıldı, hastaneler ve çalışan annelerin çocukları için kreşler açıldı.",
+   "key": [
+    "kreş"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kadin_isciler.jpg",
+    "fit": "doldur",
+    "baslik": "Sümerbank fabrikalarında kadın işçiler, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Sümerbank fabrikalarında kadın işçiler, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 24.72,
+     "end": 25.18,
+     "n": 1
+    },
+    {
+     "start": 25.18,
+     "end": 25.42,
+     "n": 1
+    },
+    {
+     "start": 25.42,
+     "end": 26.12,
+     "n": 1
+    },
+    {
+     "start": 26.12,
+     "end": 26.58,
+     "n": 1
+    },
+    {
+     "start": 26.58,
+     "end": 27.52,
+     "n": 1
+    },
+    {
+     "start": 27.52,
+     "end": 27.86,
+     "n": 1
+    },
+    {
+     "start": 27.86,
+     "end": 28.4,
+     "n": 1
+    },
+    {
+     "start": 28.4,
+     "end": 28.88,
+     "n": 1
+    },
+    {
+     "start": 28.88,
+     "end": 29.36,
+     "n": 1
+    },
+    {
+     "start": 29.36,
+     "end": 29.64,
+     "n": 1
+    },
+    {
+     "start": 29.64,
+     "end": 30.24,
+     "n": 1
+    },
+    {
+     "start": 30.24,
+     "end": 30.86,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sinemalar, yüzme havuzları, balolar vardı. Nazilli fabrikasında bir dönem 3 binden fazla kişi çalışıyordu.",
+   "caption": "Sinemalar, yüzme havuzları, balolar vardı. Nazilli fabrikasında bir dönem 3 binden fazla kişi çalışıyordu.",
+   "key": [
+    "işçi"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_erkek_isciler.jpg",
+    "fit": "doldur",
+    "baslik": "Sümerbank fabrikalarında işçiler, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Sümerbank fabrikalarında işçiler, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.14,
+     "end": 31.72,
+     "n": 1
+    },
+    {
+     "start": 31.94,
+     "end": 32.28,
+     "n": 1
+    },
+    {
+     "start": 32.28,
+     "end": 32.86,
+     "n": 1
+    },
+    {
+     "start": 33.08,
+     "end": 33.46,
+     "n": 1
+    },
+    {
+     "start": 33.46,
+     "end": 33.86,
+     "n": 1
+    },
+    {
+     "start": 34.4,
+     "end": 34.74,
+     "n": 1
+    },
+    {
+     "start": 34.74,
+     "end": 35.76,
+     "n": 1
+    },
+    {
+     "start": 35.76,
+     "end": 35.98,
+     "n": 1
+    },
+    {
+     "start": 35.98,
+     "end": 36.42,
+     "n": 1
+    },
+    {
+     "start": 36.42,
+     "end": 36.72,
+     "n": 1
+    },
+    {
+     "start": 36.72,
+     "end": 37.08,
+     "n": 1
+    },
+    {
+     "start": 37.08,
+     "end": 37.4,
+     "n": 1
+    },
+    {
+     "start": 37.4,
+     "end": 37.7,
+     "n": 1
+    },
+    {
+     "start": 37.7,
+     "end": 38.46,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki ne oldu da bu fabrikalar kapandı? Makineler yıllarca yenilenmedi.",
+   "caption": "Peki ne oldu da bu fabrikalar kapandı? Makineler yıllarca yenilenmedi.",
+   "key": [
+    "makine"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kayseri_iplik.jpg",
+    "fit": "doldur",
+    "baslik": "Kayseri Bez Fabrikasında iplik dairesi, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Kayseri Bez Fabrikasında iplik dairesi, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 38.96,
+     "end": 39.28,
+     "n": 1
+    },
+    {
+     "start": 39.28,
+     "end": 39.76,
+     "n": 1
+    },
+    {
+     "start": 39.76,
+     "end": 40.02,
+     "n": 1
+    },
+    {
+     "start": 40.02,
+     "end": 40.22,
+     "n": 1
+    },
+    {
+     "start": 40.22,
+     "end": 40.5,
+     "n": 1
+    },
+    {
+     "start": 40.5,
+     "end": 40.96,
+     "n": 1
+    },
+    {
+     "start": 40.96,
+     "end": 41.92,
+     "n": 1
+    },
+    {
+     "start": 42.16,
+     "end": 42.8,
+     "n": 1
+    },
+    {
+     "start": 42.8,
+     "end": 43.5,
+     "n": 1
+    },
+    {
+     "start": 43.5,
+     "end": 44.26,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Nazillide 1970lerde bile 1930ların tezgâhları çalışıyordu.",
+   "caption": "Nazilli'de 1970'lerde bile 1930'ların tezgâhları çalışıyordu.",
+   "key": [
+    "tezgâh"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kayseri_tezgah.jpg",
+    "fit": "doldur",
+    "baslik": "Kayseri Bez Fabrikasında dokuma tezgâhları, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Kayseri Bez Fabrikasında dokuma tezgâhları, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 44.72,
+     "end": 45.4,
+     "n": 1
+    },
+    {
+     "start": 45.4,
+     "end": 46.74,
+     "n": 1
+    },
+    {
+     "start": 46.74,
+     "end": 47.12,
+     "n": 1
+    },
+    {
+     "start": 47.12,
+     "end": 48.34,
+     "n": 1
+    },
+    {
+     "start": 48.34,
+     "end": 49.02,
+     "n": 1
+    },
+    {
+     "start": 49.02,
+     "end": 50.02,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Rakipler ise otomatik tezgâhlara geçmişti. Üstüne bir de yabancı markalar gelince Sümerbank rekabette geride kaldı.",
+   "caption": "Rakipler ise otomatik tezgâhlara geçmişti. Üstüne bir de yabancı markalar gelince Sümerbank rekabette geride kaldı.",
+   "key": [
+    "otomatik"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_otomatik.jpg",
+    "fit": "doldur",
+    "baslik": "Otomatik dokuma tezgâhları, Almanya, 1975 · Bundesarchiv, CC BY-SA 3.0 de",
+    "lisans": "",
+    "kaynak": "Otomatik dokuma tezgâhları, Almanya, 1975 · Bundesarchiv, CC BY-SA 3.0 de",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 50.24,
+     "end": 50.63,
+     "n": 1
+    },
+    {
+     "start": 50.63,
+     "end": 51.02,
+     "n": 1
+    },
+    {
+     "start": 51.02,
+     "end": 51.6,
+     "n": 1
+    },
+    {
+     "start": 51.6,
+     "end": 52.16,
+     "n": 1
+    },
+    {
+     "start": 52.16,
+     "end": 52.98,
+     "n": 1
+    },
+    {
+     "start": 52.98,
+     "end": 53.58,
+     "n": 1
+    },
+    {
+     "start": 53.58,
+     "end": 53.8,
+     "n": 1
+    },
+    {
+     "start": 53.8,
+     "end": 53.96,
+     "n": 1
+    },
+    {
+     "start": 53.96,
+     "end": 54.5,
+     "n": 1
+    },
+    {
+     "start": 54.5,
+     "end": 54.88,
+     "n": 1
+    },
+    {
+     "start": 54.88,
+     "end": 55.54,
+     "n": 1
+    },
+    {
+     "start": 55.54,
+     "end": 56.3,
+     "n": 1
+    },
+    {
+     "start": 56.3,
+     "end": 57.0,
+     "n": 1
+    },
+    {
+     "start": 57.0,
+     "end": 57.5,
+     "n": 1
+    },
+    {
+     "start": 57.5,
+     "end": 58.08,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1987de özelleştirme, yani fabrikaların satılması kararı alındı.",
+   "caption": "1987'de özelleştirme, yani fabrikaların satılması kararı alındı.",
+   "key": [
+    "özelleştirme"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_izmit_fabrika.jpg",
+    "fit": "doldur",
+    "baslik": "Sümerbank İzmit Kâğıt Fabrikası, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Sümerbank İzmit Kâğıt Fabrikası, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 59.2,
+     "end": 60.0,
+     "n": 1
+    },
+    {
+     "start": 60.0,
+     "end": 60.8,
+     "n": 1
+    },
+    {
+     "start": 60.98,
+     "end": 61.34,
+     "n": 1
+    },
+    {
+     "start": 61.34,
+     "end": 62.14,
+     "n": 1
+    },
+    {
+     "start": 62.14,
+     "end": 62.66,
+     "n": 1
+    },
+    {
+     "start": 62.66,
+     "end": 63.06,
+     "n": 1
+    },
+    {
+     "start": 63.06,
+     "end": 63.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "O yıla kadar kâr eden Sümerbank, ertesi yıl zarar etti ve zarar her yıl katlandı.",
+   "caption": "O yıla kadar kâr eden Sümerbank, ertesi yıl zarar etti ve zarar her yıl katlandı.",
+   "key": [
+    "zarar"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_beykoz.jpg",
+    "fit": "doldur",
+    "baslik": "Sümerbank Beykoz Deri ve Kundura Fabrikası, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Sümerbank Beykoz Deri ve Kundura Fabrikası, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 63.9,
+     "end": 64.02,
+     "n": 1
+    },
+    {
+     "start": 64.02,
+     "end": 64.22,
+     "n": 1
+    },
+    {
+     "start": 64.22,
+     "end": 64.62,
+     "n": 1
+    },
+    {
+     "start": 64.62,
+     "end": 64.88,
+     "n": 1
+    },
+    {
+     "start": 64.88,
+     "end": 65.1,
+     "n": 1
+    },
+    {
+     "start": 65.1,
+     "end": 65.92,
+     "n": 1
+    },
+    {
+     "start": 65.92,
+     "end": 66.5,
+     "n": 1
+    },
+    {
+     "start": 66.5,
+     "end": 66.66,
+     "n": 1
+    },
+    {
+     "start": 66.66,
+     "end": 67.14,
+     "n": 1
+    },
+    {
+     "start": 67.14,
+     "end": 67.38,
+     "n": 1
+    },
+    {
+     "start": 67.38,
+     "end": 67.88,
+     "n": 1
+    },
+    {
+     "start": 67.88,
+     "end": 68.46,
+     "n": 1
+    },
+    {
+     "start": 68.46,
+     "end": 68.74,
+     "n": 1
+    },
+    {
+     "start": 68.74,
+     "end": 68.9,
+     "n": 1
+    },
+    {
+     "start": 68.9,
+     "end": 69.76,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "2002de Nazilli fabrikasında sadece 420 işçi kalmıştı.",
+   "caption": "2002'de Nazilli fabrikasında sadece 420 işçi kalmıştı.",
+   "key": [
+    "420"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kayseri_kiz_isci.jpg",
+    "fit": "doldur",
+    "baslik": "Kayseri Bez Fabrikasında makine başında bir kız işçi, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Kayseri Bez Fabrikasında makine başında bir kız işçi, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 70.12,
+     "end": 70.82,
+     "n": 1
+    },
+    {
+     "start": 70.82,
+     "end": 71.32,
+     "n": 1
+    },
+    {
+     "start": 71.32,
+     "end": 72.26,
+     "n": 1
+    },
+    {
+     "start": 72.26,
+     "end": 72.76,
+     "n": 1
+    },
+    {
+     "start": 72.76,
+     "end": 73.52,
+     "n": 1
+    },
+    {
+     "start": 73.52,
+     "end": 73.88,
+     "n": 1
+    },
+    {
+     "start": 73.88,
+     "end": 74.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Fabrika kapandı ve üniversiteye devredildi. Kayseri fabrikası da bugün bir üniversite kampüsü.",
+   "caption": "Fabrika kapandı ve üniversiteye devredildi. Kayseri fabrikası da bugün bir üniversite kampüsü.",
+   "key": [
+    "üniversite"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_kayseri_dokuma_bina.jpg",
+    "fit": "doldur",
+    "baslik": "Kayseri Bez Fabrikası dokuma dairesi binası, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Kayseri Bez Fabrikası dokuma dairesi binası, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 74.86,
+     "end": 75.26,
+     "n": 1
+    },
+    {
+     "start": 75.26,
+     "end": 76.06,
+     "n": 1
+    },
+    {
+     "start": 76.06,
+     "end": 76.44,
+     "n": 1
+    },
+    {
+     "start": 76.44,
+     "end": 77.1,
+     "n": 1
+    },
+    {
+     "start": 77.1,
+     "end": 77.94,
+     "n": 1
+    },
+    {
+     "start": 78.2,
+     "end": 78.52,
+     "n": 1
+    },
+    {
+     "start": 78.52,
+     "end": 79.12,
+     "n": 1
+    },
+    {
+     "start": 79.12,
+     "end": 79.46,
+     "n": 1
+    },
+    {
+     "start": 79.46,
+     "end": 79.74,
+     "n": 1
+    },
+    {
+     "start": 79.74,
+     "end": 80.14,
+     "n": 1
+    },
+    {
+     "start": 80.14,
+     "end": 80.62,
+     "n": 1
+    },
+    {
+     "start": 80.62,
+     "end": 81.26,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sizce Türkiye kendi üretim devlerini neden birer birer kaybetti?",
+   "caption": "Sizce Türkiye kendi üretim devlerini neden birer birer kaybetti?",
+   "key": [
+    "soru"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_fabrika_kolaj.jpg",
+    "fit": "doldur",
+    "baslik": "Ereğli, Kayseri ve Hereke fabrikalarından, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Ereğli, Kayseri ve Hereke fabrikalarından, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 81.26,
+     "end": 82.32,
+     "n": 1
+    },
+    {
+     "start": 82.32,
+     "end": 82.82,
+     "n": 1
+    },
+    {
+     "start": 82.82,
+     "end": 83.32,
+     "n": 1
+    },
+    {
+     "start": 83.32,
+     "end": 83.8,
+     "n": 1
+    },
+    {
+     "start": 83.8,
+     "end": 84.34,
+     "n": 1
+    },
+    {
+     "start": 84.34,
+     "end": 84.82,
+     "n": 1
+    },
+    {
+     "start": 84.82,
+     "end": 85.2,
+     "n": 1
+    },
+    {
+     "start": 85.2,
+     "end": 85.48,
+     "n": 1
+    },
+    {
+     "start": 85.48,
+     "end": 86.02,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "yorum"
+   ],
+   "image": {
+    "local": "assets/belgeler/107_bakirkoy_iplik.jpg",
+    "fit": "doldur",
+    "baslik": "Bakırköy Bez Fabrikasında bir iplik makinesi, 1937 · Sümerbank kitabı, kamu malı",
+    "lisans": "",
+    "kaynak": "Bakırköy Bez Fabrikasında bir iplik makinesi, 1937 · Sümerbank kitabı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 86.68,
+     "end": 87.54,
+     "n": 1
+    },
+    {
+     "start": 87.54,
+     "end": 88.14,
+     "n": 1
+    },
+    {
+     "start": 88.14,
+     "end": 88.96,
+     "n": 1
+    },
+    {
+     "start": 89.12,
+     "end": 89.64,
+     "n": 1
+    },
+    {
+     "start": 89.64,
+     "end": 89.94,
+     "n": 1
+    },
+    {
+     "start": 89.94,
+     "end": 90.78,
+     "n": 1
+    },
+    {
+     "start": 91.32,
+     "end": 91.86,
+     "n": 1
+    },
+    {
+     "start": 91.86,
+     "end": 92.06,
+     "n": 1
+    },
+    {
+     "start": 92.06,
+     "end": 92.46,
+     "n": 1
+    },
+    {
+     "start": 92.46,
+     "end": 92.98,
+     "n": 1
+    },
+    {
+     "start": 92.98,
+     "end": 93.34,
+     "n": 1
+    },
+    {
+     "start": 93.34,
+     "end": 93.92,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}

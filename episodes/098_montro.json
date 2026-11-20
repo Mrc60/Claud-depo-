@@ -1,0 +1,1387 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 98,
+ "slug": "montro",
+ "title": "Montrö Boğazlar Sözleşmesi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Boğazlarda 13 yıl\ntek top yoktu",
+ "dis_ses": {
+  "file": "assets/ses/098_montro.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.93
+    ]
+   ],
+   [
+    [
+     8.93,
+     15.62
+    ]
+   ],
+   [
+    [
+     15.62,
+     23.83
+    ]
+   ],
+   [
+    [
+     23.83,
+     31.1
+    ]
+   ],
+   [
+    [
+     31.1,
+     37.66
+    ]
+   ],
+   [
+    [
+     37.66,
+     43.72
+    ]
+   ],
+   [
+    [
+     43.72,
+     49.2
+    ]
+   ],
+   [
+    [
+     49.2,
+     55.86
+    ]
+   ],
+   [
+    [
+     55.86,
+     60.56
+    ]
+   ],
+   [
+    [
+     60.56,
+     68.77
+    ]
+   ],
+   [
+    [
+     68.77,
+     74.14
+    ]
+   ],
+   [
+    [
+     74.14,
+     79.86
+    ]
+   ],
+   [
+    [
+     79.86,
+     85.36
+    ]
+   ],
+   [
+    [
+     85.36,
+     93.12
+    ]
+   ],
+   [
+    [
+     93.12,
+     105.639
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Çanakkale Savaşını kazandık. İngiliz ve Fransız donanmalarını Boğazda durdurduk. Ama sonra inanılması güç bir şey yaşandı.",
+   "caption": "Çanakkale Savaşı'nı kazandık. İngiliz ve Fransız donanmalarını Boğaz'da durdurduk. Ama sonra inanılması güç bir şey yaşandı.",
+   "key": [
+    "Çanakkale",
+    "donanmalarını"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_hamidiye.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı donanmasından Hamidiye kruvazörü · Weltrundschau 1913 / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı donanmasından Hamidiye kruvazörü · Weltrundschau 1913 / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0.1,
+     0.85,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.66,
+     "n": 1
+    },
+    {
+     "start": 0.66,
+     "end": 1.2,
+     "n": 1
+    },
+    {
+     "start": 1.2,
+     "end": 2.06,
+     "n": 1
+    },
+    {
+     "start": 2.34,
+     "end": 2.68,
+     "n": 1
+    },
+    {
+     "start": 2.68,
+     "end": 2.88,
+     "n": 1
+    },
+    {
+     "start": 2.88,
+     "end": 3.28,
+     "n": 1
+    },
+    {
+     "start": 3.28,
+     "end": 4.06,
+     "n": 1
+    },
+    {
+     "start": 4.06,
+     "end": 4.58,
+     "n": 1
+    },
+    {
+     "start": 4.58,
+     "end": 5.52,
+     "n": 1
+    },
+    {
+     "start": 5.7,
+     "end": 5.88,
+     "n": 1
+    },
+    {
+     "start": 5.88,
+     "end": 6.52,
+     "n": 1
+    },
+    {
+     "start": 6.52,
+     "end": 7.34,
+     "n": 1
+    },
+    {
+     "start": 7.34,
+     "end": 7.6,
+     "n": 1
+    },
+    {
+     "start": 7.6,
+     "end": 7.82,
+     "n": 1
+    },
+    {
+     "start": 7.82,
+     "end": 7.96,
+     "n": 1
+    },
+    {
+     "start": 7.96,
+     "end": 8.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Cumhuriyetin ilk 13 yılında, kendi Boğazlarımızdaki tabyalara tek bir top bile koyamadık. Neden?",
+   "caption": "Cumhuriyetin ilk 13 yılında, kendi Boğazlarımızdaki tabyalara tek bir top bile koyamadık. Neden?",
+   "key": [
+    "13 yılında",
+    "top"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_bogaz1915.jpg",
+    "fit": "doldur",
+    "baslik": "Çanakkale Boğazı ve tabyalar, harita, 1915 · The Great War (1915) / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Çanakkale Boğazı ve tabyalar, harita, 1915 · The Great War (1915) / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.02,
+     "end": 9.84,
+     "n": 1
+    },
+    {
+     "start": 9.84,
+     "end": 10.1,
+     "n": 1
+    },
+    {
+     "start": 10.1,
+     "end": 10.42,
+     "n": 1
+    },
+    {
+     "start": 10.42,
+     "end": 11.12,
+     "n": 1
+    },
+    {
+     "start": 11.12,
+     "end": 11.56,
+     "n": 1
+    },
+    {
+     "start": 11.56,
+     "end": 12.46,
+     "n": 1
+    },
+    {
+     "start": 12.46,
+     "end": 13.06,
+     "n": 1
+    },
+    {
+     "start": 13.06,
+     "end": 13.48,
+     "n": 1
+    },
+    {
+     "start": 13.48,
+     "end": 13.78,
+     "n": 1
+    },
+    {
+     "start": 13.78,
+     "end": 13.9,
+     "n": 1
+    },
+    {
+     "start": 13.9,
+     "end": 14.24,
+     "n": 1
+    },
+    {
+     "start": 14.24,
+     "end": 15.06,
+     "n": 1
+    },
+    {
+     "start": 15.28,
+     "end": 15.5,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1923te Lozanda Boğazlar askerden arındırıldı. İki yakada tabya ve top bulundurmak yasaktı.",
+   "caption": "1923'te Lozan'da Boğazlar askerden arındırıldı. İki yakada tabya ve top bulundurmak yasaktı.",
+   "key": [
+    "Lozan",
+    "1923"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_lozan_salon.jpg",
+    "fit": "doldur",
+    "baslik": "Lozan Konferansı salonu, Ouchy, 1922 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Lozan Konferansı salonu, Ouchy, 1922 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0.05,
+     0.85,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 16.76,
+     "end": 17.72,
+     "n": 1
+    },
+    {
+     "start": 17.72,
+     "end": 18.42,
+     "n": 1
+    },
+    {
+     "start": 18.42,
+     "end": 19.04,
+     "n": 1
+    },
+    {
+     "start": 19.04,
+     "end": 19.58,
+     "n": 1
+    },
+    {
+     "start": 19.58,
+     "end": 20.24,
+     "n": 1
+    },
+    {
+     "start": 20.76,
+     "end": 20.98,
+     "n": 1
+    },
+    {
+     "start": 20.98,
+     "end": 21.4,
+     "n": 1
+    },
+    {
+     "start": 21.4,
+     "end": 21.88,
+     "n": 1
+    },
+    {
+     "start": 21.88,
+     "end": 22.06,
+     "n": 1
+    },
+    {
+     "start": 22.06,
+     "end": 22.28,
+     "n": 1
+    },
+    {
+     "start": 22.28,
+     "end": 22.9,
+     "n": 1
+    },
+    {
+     "start": 22.9,
+     "end": 23.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bölgede yalnızca jandarma görev yapabiliyordu. İstanbuldaki asker sayısı bile en fazla on iki bin olabiliyordu.",
+   "caption": "Bölgede yalnızca jandarma görev yapabiliyordu. İstanbul'daki asker sayısı bile en fazla on iki bin olabiliyordu.",
+   "key": [
+    "jandarma",
+    "12 bin"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_chanak_sehir.jpg",
+    "fit": "doldur",
+    "baslik": "Çanakkale, 1922 · Agence Rol, BnF Gallica / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Çanakkale, 1922 · Agence Rol, BnF Gallica / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.02,
+     0.08,
+     0.98,
+     0.92
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 23.92,
+     "end": 24.42,
+     "n": 1
+    },
+    {
+     "start": 24.42,
+     "end": 24.96,
+     "n": 1
+    },
+    {
+     "start": 24.96,
+     "end": 25.5,
+     "n": 1
+    },
+    {
+     "start": 25.5,
+     "end": 25.84,
+     "n": 1
+    },
+    {
+     "start": 25.84,
+     "end": 26.6,
+     "n": 1
+    },
+    {
+     "start": 26.6,
+     "end": 27.72,
+     "n": 1
+    },
+    {
+     "start": 27.72,
+     "end": 28.2,
+     "n": 1
+    },
+    {
+     "start": 28.2,
+     "end": 28.52,
+     "n": 1
+    },
+    {
+     "start": 28.52,
+     "end": 28.9,
+     "n": 1
+    },
+    {
+     "start": 28.9,
+     "end": 29.26,
+     "n": 1
+    },
+    {
+     "start": 29.26,
+     "end": 29.6,
+     "n": 1
+    },
+    {
+     "start": 29.6,
+     "end": 29.8,
+     "n": 1
+    },
+    {
+     "start": 29.8,
+     "end": 30.0,
+     "n": 1
+    },
+    {
+     "start": 30.0,
+     "end": 30.16,
+     "n": 1
+    },
+    {
+     "start": 30.16,
+     "end": 30.98,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki Türkiyenin güvenliği nasıl sağlanacaktı? Büyük devletler güvenliğimizi garanti edecekti.",
+   "caption": "Peki Türkiye'nin güvenliği nasıl sağlanacaktı? Büyük devletler güvenliğimizi garanti edecekti.",
+   "key": [
+    "garanti"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_aras_sdn.jpg",
+    "fit": "doldur",
+    "baslik": "Tevfik Rüştü Aras, Milletler Cemiyeti, Cenevre, 1925 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Tevfik Rüştü Aras, Milletler Cemiyeti, Cenevre, 1925 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0.02,
+     1,
+     0.75
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.7,
+     "end": 31.78,
+     "n": 1
+    },
+    {
+     "start": 31.7,
+     "end": 32.4,
+     "n": 1
+    },
+    {
+     "start": 32.4,
+     "end": 32.96,
+     "n": 1
+    },
+    {
+     "start": 32.96,
+     "end": 33.3,
+     "n": 1
+    },
+    {
+     "start": 33.3,
+     "end": 34.16,
+     "n": 1
+    },
+    {
+     "start": 34.66,
+     "end": 35.0,
+     "n": 1
+    },
+    {
+     "start": 35.0,
+     "end": 35.56,
+     "n": 1
+    },
+    {
+     "start": 35.56,
+     "end": 36.22,
+     "n": 1
+    },
+    {
+     "start": 36.22,
+     "end": 36.66,
+     "n": 1
+    },
+    {
+     "start": 36.66,
+     "end": 37.54,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama dünya hızla değişiyordu. 1930larda İtalya Habeşistanı işgal etti.",
+   "caption": "Ama dünya hızla değişiyordu. 1930'larda İtalya Habeşistan'ı işgal etti.",
+   "key": [
+    "İtalya",
+    "Habeşistan"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_habes1936.jpg",
+    "fit": "doldur",
+    "baslik": "Habeş askerleri, 1936 · Åhlen & Åkerlund / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Habeş askerleri, 1936 · Åhlen & Åkerlund / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.35,
+     0,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.78,
+     "end": 37.94,
+     "n": 1
+    },
+    {
+     "start": 37.94,
+     "end": 38.38,
+     "n": 1
+    },
+    {
+     "start": 38.38,
+     "end": 38.82,
+     "n": 1
+    },
+    {
+     "start": 38.82,
+     "end": 39.5,
+     "n": 1
+    },
+    {
+     "start": 40.02,
+     "end": 41.24,
+     "n": 1
+    },
+    {
+     "start": 41.24,
+     "end": 41.88,
+     "n": 1
+    },
+    {
+     "start": 41.88,
+     "end": 42.6,
+     "n": 1
+    },
+    {
+     "start": 42.6,
+     "end": 43.02,
+     "n": 1
+    },
+    {
+     "start": 43.02,
+     "end": 43.6,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Almanya, Ren bölgesine asker soktu. Verilen garantiler artık güven vermiyordu.",
+   "caption": "Almanya, Ren bölgesine asker soktu. Verilen garantiler artık güven vermiyordu.",
+   "key": [
+    "Almanya",
+    "Ren"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_vg12173.jpg",
+    "fit": "doldur",
+    "baslik": "Habeş İmparatoru Haile Selassie Milletler Cemiyetinde konuşuyor, Cenevre, 1936 · Bibliothèque de Genève / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Habeş İmparatoru Haile Selassie Milletler Cemiyetinde konuşuyor, Cenevre, 1936 · Bibliothèque de Genève / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.4,
+     0.05,
+     0.9,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 43.86,
+     "end": 44.34,
+     "n": 1
+    },
+    {
+     "start": 44.34,
+     "end": 44.7,
+     "n": 1
+    },
+    {
+     "start": 44.7,
+     "end": 45.3,
+     "n": 1
+    },
+    {
+     "start": 45.3,
+     "end": 45.74,
+     "n": 1
+    },
+    {
+     "start": 45.74,
+     "end": 46.38,
+     "n": 1
+    },
+    {
+     "start": 46.6,
+     "end": 46.94,
+     "n": 1
+    },
+    {
+     "start": 46.94,
+     "end": 47.62,
+     "n": 1
+    },
+    {
+     "start": 47.62,
+     "end": 48.06,
+     "n": 1
+    },
+    {
+     "start": 48.06,
+     "end": 48.42,
+     "n": 1
+    },
+    {
+     "start": 48.42,
+     "end": 49.08,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "1936da Türkiye bir nota gönderdi: Şartlar değişti, Boğazlar yeniden görüşülmeli.",
+   "caption": "1936'da Türkiye bir nota gönderdi: Şartlar değişti, Boğazlar yeniden görüşülmeli.",
+   "key": [
+    "1936",
+    "nota"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_aras1936.jpg",
+    "fit": "doldur",
+    "baslik": "Dışişleri Bakanı Tevfik Rüştü Aras, Paris, 1936 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Dışişleri Bakanı Tevfik Rüştü Aras, Paris, 1936 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.15,
+     0.08,
+     1,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 49.9,
+     "end": 50.86,
+     "n": 1
+    },
+    {
+     "start": 50.86,
+     "end": 51.28,
+     "n": 1
+    },
+    {
+     "start": 51.28,
+     "end": 51.6,
+     "n": 1
+    },
+    {
+     "start": 51.6,
+     "end": 51.82,
+     "n": 1
+    },
+    {
+     "start": 51.82,
+     "end": 52.48,
+     "n": 1
+    },
+    {
+     "start": 52.84,
+     "end": 53.32,
+     "n": 1
+    },
+    {
+     "start": 53.32,
+     "end": 54.02,
+     "n": 1
+    },
+    {
+     "start": 54.26,
+     "end": 54.76,
+     "n": 1
+    },
+    {
+     "start": 54.76,
+     "end": 55.24,
+     "n": 1
+    },
+    {
+     "start": 55.24,
+     "end": 55.86,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bunun üzerine konferans, İsviçrenin Montrö kasabasında toplandı.",
+   "caption": "Bunun üzerine konferans, İsviçre'nin Montrö kasabasında toplandı.",
+   "key": [
+    "Montrö"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_aras_litvinov.jpg",
+    "fit": "doldur",
+    "baslik": "Tevfik Rüştü Aras ve Sovyet Dışişleri Bakanı Litvinov, Cenevre, 1934 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Tevfik Rüştü Aras ve Sovyet Dışişleri Bakanı Litvinov, Cenevre, 1934 · Agence Meurisse, BnF Gallica / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.28,
+     0.04,
+     0.78,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 55.86,
+     "end": 56.54,
+     "n": 1
+    },
+    {
+     "start": 56.54,
+     "end": 56.98,
+     "n": 1
+    },
+    {
+     "start": 56.98,
+     "end": 57.72,
+     "n": 1
+    },
+    {
+     "start": 57.72,
+     "end": 58.54,
+     "n": 1
+    },
+    {
+     "start": 58.54,
+     "end": 58.94,
+     "n": 1
+    },
+    {
+     "start": 58.94,
+     "end": 59.62,
+     "n": 1
+    },
+    {
+     "start": 59.62,
+     "end": 60.44,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "20 Temmuz 1936da Montrö Boğazlar Sözleşmesi imzalandı. Boğazların denetimi yeniden Türkiyeye geçti.",
+   "caption": "20 Temmuz 1936'da Montrö Boğazlar Sözleşmesi imzalandı. Boğazların denetimi yeniden Türkiye'ye geçti.",
+   "key": [
+    "20 Temmuz 1936"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_chanak_bogaz.jpg",
+    "fit": "doldur",
+    "baslik": "Çanakkale Boğazı, 1922 · Agence Rol, BnF Gallica / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Çanakkale Boğazı, 1922 · Agence Rol, BnF Gallica / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.5,
+     0.12,
+     0.92,
+     0.47
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 60.72,
+     "end": 60.9,
+     "n": 1
+    },
+    {
+     "start": 60.9,
+     "end": 61.36,
+     "n": 1
+    },
+    {
+     "start": 61.36,
+     "end": 62.86,
+     "n": 1
+    },
+    {
+     "start": 62.86,
+     "end": 63.36,
+     "n": 1
+    },
+    {
+     "start": 63.36,
+     "end": 63.92,
+     "n": 1
+    },
+    {
+     "start": 63.92,
+     "end": 64.54,
+     "n": 1
+    },
+    {
+     "start": 64.54,
+     "end": 65.48,
+     "n": 1
+    },
+    {
+     "start": 65.7,
+     "end": 66.22,
+     "n": 1
+    },
+    {
+     "start": 66.22,
+     "end": 66.8,
+     "n": 1
+    },
+    {
+     "start": 66.8,
+     "end": 67.36,
+     "n": 1
+    },
+    {
+     "start": 67.36,
+     "end": 67.96,
+     "n": 1
+    },
+    {
+     "start": 67.96,
+     "end": 68.66,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki sonra ne oldu? Ertesi gün öğlene kadar Türk ordusu Boğazlara girdi.",
+   "caption": "Peki sonra ne oldu? Ertesi gün öğlene kadar Türk ordusu Boğazlara girdi.",
+   "key": [
+    "Türk ordusu"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_bahribaba1936.jpg",
+    "fit": "doldur",
+    "baslik": "Türk savaş gemileri İstanbuldan ayrılıyor, Ağustos 1936 · Akşam gazetesi, İÜ Kütüphanesi / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk savaş gemileri İstanbuldan ayrılıyor, Ağustos 1936 · Akşam gazetesi, İÜ Kütüphanesi / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.1,
+     0.05,
+     0.9,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 68.88,
+     "end": 69.2,
+     "n": 1
+    },
+    {
+     "start": 69.2,
+     "end": 69.68,
+     "n": 1
+    },
+    {
+     "start": 69.68,
+     "end": 69.92,
+     "n": 1
+    },
+    {
+     "start": 69.92,
+     "end": 70.2,
+     "n": 1
+    },
+    {
+     "start": 70.62,
+     "end": 71.12,
+     "n": 1
+    },
+    {
+     "start": 71.12,
+     "end": 71.32,
+     "n": 1
+    },
+    {
+     "start": 71.32,
+     "end": 71.76,
+     "n": 1
+    },
+    {
+     "start": 71.76,
+     "end": 72.12,
+     "n": 1
+    },
+    {
+     "start": 72.12,
+     "end": 72.4,
+     "n": 1
+    },
+    {
+     "start": 72.4,
+     "end": 72.86,
+     "n": 1
+    },
+    {
+     "start": 72.86,
+     "end": 73.52,
+     "n": 1
+    },
+    {
+     "start": 73.52,
+     "end": 74.02,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Çanakkalede yaşlılar ve şehit anneleri, generalin atının üzengisini öperek ağladı.",
+   "caption": "Çanakkale'de yaşlılar ve şehit anneleri, generalin atının üzengisini öperek ağladı.",
+   "key": [
+    "şehit anneleri"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_yavuz1936.jpg",
+    "fit": "doldur",
+    "baslik": "Yavuz zırhlısı, Kasım 1936 · Deniz Kuvvetleri / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Yavuz zırhlısı, Kasım 1936 · Deniz Kuvvetleri / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0.05,
+     0.85,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 74.28,
+     "end": 75.06,
+     "n": 1
+    },
+    {
+     "start": 75.06,
+     "end": 75.74,
+     "n": 1
+    },
+    {
+     "start": 75.74,
+     "end": 75.94,
+     "n": 1
+    },
+    {
+     "start": 75.94,
+     "end": 76.28,
+     "n": 1
+    },
+    {
+     "start": 76.28,
+     "end": 76.98,
+     "n": 1
+    },
+    {
+     "start": 76.98,
+     "end": 77.74,
+     "n": 1
+    },
+    {
+     "start": 77.74,
+     "end": 78.18,
+     "n": 1
+    },
+    {
+     "start": 78.18,
+     "end": 78.86,
+     "n": 1
+    },
+    {
+     "start": 78.86,
+     "end": 79.32,
+     "n": 1
+    },
+    {
+     "start": 79.32,
+     "end": 79.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Montrö bugün de yürürlükte. Barış zamanında ticaret gemileri serbestçe geçiyor.",
+   "caption": "Montrö bugün de yürürlükte. Barış zamanında ticaret gemileri serbestçe geçiyor.",
+   "key": [
+    "ticaret gemileri"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_filo_malta1936.jpg",
+    "fit": "doldur",
+    "baslik": "Türk donanması, Kasım 1936 · Deniz Kuvvetleri / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Türk donanması, Kasım 1936 · Deniz Kuvvetleri / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.05,
+     0.1,
+     0.75,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 80.28,
+     "end": 80.8,
+     "n": 1
+    },
+    {
+     "start": 80.8,
+     "end": 81.1,
+     "n": 1
+    },
+    {
+     "start": 81.1,
+     "end": 81.3,
+     "n": 1
+    },
+    {
+     "start": 81.3,
+     "end": 82.12,
+     "n": 1
+    },
+    {
+     "start": 82.3,
+     "end": 82.6,
+     "n": 1
+    },
+    {
+     "start": 82.6,
+     "end": 83.24,
+     "n": 1
+    },
+    {
+     "start": 83.24,
+     "end": 83.78,
+     "n": 1
+    },
+    {
+     "start": 83.78,
+     "end": 84.24,
+     "n": 1
+    },
+    {
+     "start": 84.24,
+     "end": 84.92,
+     "n": 1
+    },
+    {
+     "start": 84.92,
+     "end": 85.36,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ancak Türkiye savaşta olursa veya savaş tehdidi görürse, savaş gemilerinin geçişine Türkiye karar veriyor.",
+   "caption": "Ancak Türkiye savaşta olursa veya savaş tehdidi görürse, savaş gemilerinin geçişine Türkiye karar veriyor.",
+   "key": [
+    "savaş gemilerinin",
+    "diplomasiyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_hamidiye2.jpg",
+    "fit": "doldur",
+    "baslik": "Hamidiye kruvazörü, İstanbul · Şehbal dergisi, 1909 / Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Hamidiye kruvazörü, İstanbul · Şehbal dergisi, 1909 / Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.2,
+     0.1,
+     0.85,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 85.36,
+     "end": 86.08,
+     "n": 1
+    },
+    {
+     "start": 86.08,
+     "end": 86.54,
+     "n": 1
+    },
+    {
+     "start": 86.54,
+     "end": 87.16,
+     "n": 1
+    },
+    {
+     "start": 87.16,
+     "end": 87.86,
+     "n": 1
+    },
+    {
+     "start": 87.86,
+     "end": 88.14,
+     "n": 1
+    },
+    {
+     "start": 88.14,
+     "end": 88.7,
+     "n": 1
+    },
+    {
+     "start": 88.7,
+     "end": 89.06,
+     "n": 1
+    },
+    {
+     "start": 89.06,
+     "end": 89.84,
+     "n": 1
+    },
+    {
+     "start": 89.84,
+     "end": 90.34,
+     "n": 1
+    },
+    {
+     "start": 90.34,
+     "end": 90.88,
+     "n": 1
+    },
+    {
+     "start": 90.88,
+     "end": 91.5,
+     "n": 1
+    },
+    {
+     "start": 91.5,
+     "end": 91.92,
+     "n": 1
+    },
+    {
+     "start": 91.92,
+     "end": 92.38,
+     "n": 1
+    },
+    {
+     "start": 92.38,
+     "end": 93.0,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Çanakkalede kazandığımız zaferin ardından, Boğazlar üzerindeki egemenliğimizi diplomasiyle yeniden kazandık. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Çanakkale'de kazandığımız zaferin ardından, Boğazlar üzerindeki egemenliğimizi diplomasiyle yeniden kazandık. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "diplomasiyle"
+   ],
+   "image": {
+    "local": "assets/belgeler/098_kilitbahir_tablo.jpg",
+    "fit": "doldur",
+    "baslik": "Kilitbahir Kalesi önünde yelkenli, tablo, Michael Zeno Diemer · Wikimedia Commons, kamu malı (siyah-beyaza çevrildi)",
+    "lisans": "",
+    "kaynak": "Kilitbahir Kalesi önünde yelkenli, tablo, Michael Zeno Diemer · Wikimedia Commons, kamu malı (siyah-beyaza çevrildi)",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0.2,
+     0.75,
+     0.95
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 93.26,
+     "end": 93.9,
+     "n": 1
+    },
+    {
+     "start": 93.9,
+     "end": 94.5,
+     "n": 1
+    },
+    {
+     "start": 94.5,
+     "end": 95.06,
+     "n": 1
+    },
+    {
+     "start": 95.06,
+     "end": 95.78,
+     "n": 1
+    },
+    {
+     "start": 95.78,
+     "end": 96.36,
+     "n": 1
+    },
+    {
+     "start": 96.36,
+     "end": 96.94,
+     "n": 1
+    },
+    {
+     "start": 96.94,
+     "end": 97.98,
+     "n": 1
+    },
+    {
+     "start": 97.98,
+     "end": 98.96,
+     "n": 1
+    },
+    {
+     "start": 98.96,
+     "end": 99.4,
+     "n": 1
+    },
+    {
+     "start": 99.4,
+     "end": 100.28,
+     "n": 1
+    },
+    {
+     "start": 100.6,
+     "end": 101.06,
+     "n": 1
+    },
+    {
+     "start": 101.06,
+     "end": 101.36,
+     "n": 1
+    },
+    {
+     "start": 101.36,
+     "end": 102.26,
+     "n": 1
+    },
+    {
+     "start": 102.76,
+     "end": 103.32,
+     "n": 1
+    },
+    {
+     "start": 103.32,
+     "end": 103.5,
+     "n": 1
+    },
+    {
+     "start": 103.5,
+     "end": 103.92,
+     "n": 1
+    },
+    {
+     "start": 103.92,
+     "end": 104.38,
+     "n": 1
+    },
+    {
+     "start": 104.38,
+     "end": 104.84,
+     "n": 1
+    },
+    {
+     "start": 104.84,
+     "end": 105.44,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}

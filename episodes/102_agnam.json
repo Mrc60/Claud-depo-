@@ -1,0 +1,1352 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 102,
+ "slug": "agnam",
+ "title": "Meclisin İlk Kanunu: Koyun Vergisi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Meclisin ilk kanunu\nkoyun vergisiydi",
+ "dis_ses": {
+  "file": "assets/ses/102_agnam.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     5.8
+    ]
+   ],
+   [
+    [
+     5.8,
+     11.08
+    ]
+   ],
+   [
+    [
+     11.08,
+     18.91
+    ]
+   ],
+   [
+    [
+     18.91,
+     23.79
+    ]
+   ],
+   [
+    [
+     23.79,
+     31.65
+    ]
+   ],
+   [
+    [
+     31.65,
+     39.56
+    ]
+   ],
+   [
+    [
+     39.56,
+     48.1
+    ]
+   ],
+   [
+    [
+     48.1,
+     56.56
+    ]
+   ],
+   [
+    [
+     56.56,
+     64.28
+    ]
+   ],
+   [
+    [
+     64.28,
+     70.52
+    ]
+   ],
+   [
+    [
+     70.52,
+     76.0
+    ]
+   ],
+   [
+    [
+     76.0,
+     85.14
+    ]
+   ],
+   [
+    [
+     85.14,
+     95.24
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Türkiye Büyük Millet Meclisi açıldıktan yalnızca bir gün sonra ilk kanununu çıkardı.",
+   "caption": "Türkiye Büyük Millet Meclisi açıldıktan yalnızca bir gün sonra ilk kanununu çıkardı.",
+   "key": [
+    "Meclisi"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_tbmm_dua.jpg",
+    "fit": "doldur",
+    "baslik": "Meclisin açılış günü dua, Ankara, 23 Nisan 1920 · Kâzım Karabekir Vakfı, kamu malı",
+    "lisans": "",
+    "kaynak": "Meclisin açılış günü dua, Ankara, 23 Nisan 1920 · Kâzım Karabekir Vakfı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0,
+     0.61,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.48,
+     "n": 1
+    },
+    {
+     "start": 0.48,
+     "end": 0.9,
+     "n": 1
+    },
+    {
+     "start": 0.9,
+     "end": 1.24,
+     "n": 1
+    },
+    {
+     "start": 1.24,
+     "end": 1.64,
+     "n": 1
+    },
+    {
+     "start": 1.64,
+     "end": 2.44,
+     "n": 1
+    },
+    {
+     "start": 2.44,
+     "end": 3.2,
+     "n": 1
+    },
+    {
+     "start": 3.2,
+     "end": 3.48,
+     "n": 1
+    },
+    {
+     "start": 3.48,
+     "end": 3.64,
+     "n": 1
+    },
+    {
+     "start": 3.64,
+     "end": 4.14,
+     "n": 1
+    },
+    {
+     "start": 4.14,
+     "end": 4.54,
+     "n": 1
+    },
+    {
+     "start": 4.54,
+     "end": 5.12,
+     "n": 1
+    },
+    {
+     "start": 5.12,
+     "end": 5.68,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki, bağımsızlık mücadelesinin ortasında Meclisin ilk işi neydi?",
+   "caption": "Peki, bağımsızlık mücadelesinin ortasında Meclis'in ilk işi neydi?",
+   "key": [
+    "bağımsızlık"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_isgal.jpg",
+    "fit": "doldur",
+    "baslik": "İşgal altındaki İstanbul, 1920 · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "İşgal altındaki İstanbul, 1920 · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0.02,
+     0.75,
+     0.98
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 6.18,
+     "end": 6.62,
+     "n": 1
+    },
+    {
+     "start": 6.62,
+     "end": 7.5,
+     "n": 1
+    },
+    {
+     "start": 7.5,
+     "end": 8.3,
+     "n": 1
+    },
+    {
+     "start": 8.3,
+     "end": 9.16,
+     "n": 1
+    },
+    {
+     "start": 9.16,
+     "end": 9.86,
+     "n": 1
+    },
+    {
+     "start": 9.86,
+     "end": 10.3,
+     "n": 1
+    },
+    {
+     "start": 10.3,
+     "end": 10.48,
+     "n": 1
+    },
+    {
+     "start": 10.48,
+     "end": 10.96,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Koyun vergisi! Kurtuluş Savaşının henüz ilk günleriydi. Köylerde endişe yaratan bir söylenti yayılmıştı:",
+   "caption": "Koyun vergisi! Kurtuluş Savaşı'nın henüz ilk günleriydi. Köylerde endişe yaratan bir söylenti yayılmıştı:",
+   "key": [
+    "Koyun vergisi"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_coban2.jpg",
+    "fit": "doldur",
+    "baslik": "Kilikya bölgesinde bir çoban, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Kilikya bölgesinde bir çoban, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.2,
+     0.02,
+     0.96,
+     0.98
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 11.68,
+     "end": 12.06,
+     "n": 1
+    },
+    {
+     "start": 12.06,
+     "end": 12.92,
+     "n": 1
+    },
+    {
+     "start": 13.24,
+     "end": 13.54,
+     "n": 1
+    },
+    {
+     "start": 13.54,
+     "end": 14.16,
+     "n": 1
+    },
+    {
+     "start": 14.16,
+     "end": 14.58,
+     "n": 1
+    },
+    {
+     "start": 14.58,
+     "end": 14.8,
+     "n": 1
+    },
+    {
+     "start": 14.8,
+     "end": 15.42,
+     "n": 1
+    },
+    {
+     "start": 15.8,
+     "end": 16.3,
+     "n": 1
+    },
+    {
+     "start": 16.3,
+     "end": 16.88,
+     "n": 1
+    },
+    {
+     "start": 16.88,
+     "end": 17.3,
+     "n": 1
+    },
+    {
+     "start": 17.3,
+     "end": 17.54,
+     "n": 1
+    },
+    {
+     "start": 17.54,
+     "end": 17.92,
+     "n": 1
+    },
+    {
+     "start": 17.92,
+     "end": 18.8,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Koyun ve keçilerden alınan ağnam vergisi sekiz katına çıkarılacaktı.",
+   "caption": "Koyun ve keçilerden alınan ağnam vergisi sekiz katına çıkarılacaktı.",
+   "key": [
+    "sekiz katına"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_koylu_yasli.jpg",
+    "fit": "doldur",
+    "baslik": "Yaşlı bir Türk köylüsü, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Yaşlı bir Türk köylüsü, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.1,
+     0.03,
+     0.86,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 19.02,
+     "end": 19.36,
+     "n": 1
+    },
+    {
+     "start": 19.36,
+     "end": 19.52,
+     "n": 1
+    },
+    {
+     "start": 19.52,
+     "end": 20.2,
+     "n": 1
+    },
+    {
+     "start": 20.2,
+     "end": 20.64,
+     "n": 1
+    },
+    {
+     "start": 20.64,
+     "end": 21.08,
+     "n": 1
+    },
+    {
+     "start": 21.08,
+     "end": 21.82,
+     "n": 1
+    },
+    {
+     "start": 21.82,
+     "end": 22.22,
+     "n": 1
+    },
+    {
+     "start": 22.22,
+     "end": 22.6,
+     "n": 1
+    },
+    {
+     "start": 22.6,
+     "end": 23.72,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Üstelik bu söylenti tamamen asılsız değildi. İstanbul hükümeti gerçekten vergiyi sekiz katına çıkarmak istemişti.",
+   "caption": "Üstelik bu söylenti tamamen asılsız değildi. İstanbul hükümeti gerçekten vergiyi sekiz katına çıkarmak istemişti.",
+   "key": [
+    "İstanbul hükümeti"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_damatferid.jpg",
+    "fit": "doldur",
+    "baslik": "İstanbul hükümetinin sadrazamı Damat Ferid Paşa, 1919 · Agence Meurisse, BnF, kamu malı",
+    "lisans": "",
+    "kaynak": "İstanbul hükümetinin sadrazamı Damat Ferid Paşa, 1919 · Agence Meurisse, BnF, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0,
+     0.87,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 23.86,
+     "end": 24.32,
+     "n": 1
+    },
+    {
+     "start": 24.32,
+     "end": 24.62,
+     "n": 1
+    },
+    {
+     "start": 24.62,
+     "end": 25.16,
+     "n": 1
+    },
+    {
+     "start": 25.16,
+     "end": 25.8,
+     "n": 1
+    },
+    {
+     "start": 25.8,
+     "end": 26.32,
+     "n": 1
+    },
+    {
+     "start": 26.32,
+     "end": 26.96,
+     "n": 1
+    },
+    {
+     "start": 26.96,
+     "end": 27.6,
+     "n": 1
+    },
+    {
+     "start": 27.6,
+     "end": 28.38,
+     "n": 1
+    },
+    {
+     "start": 28.38,
+     "end": 28.98,
+     "n": 1
+    },
+    {
+     "start": 28.98,
+     "end": 29.48,
+     "n": 1
+    },
+    {
+     "start": 29.48,
+     "end": 29.82,
+     "n": 1
+    },
+    {
+     "start": 29.82,
+     "end": 30.16,
+     "n": 1
+    },
+    {
+     "start": 30.16,
+     "end": 30.7,
+     "n": 1
+    },
+    {
+     "start": 30.7,
+     "end": 31.54,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ankarada yeni açılan Meclis ise farklı bir karar aldı. Köylünün üzerindeki yükü artırmamak için vergiyi sekiz kat değil,",
+   "caption": "Ankara'da yeni açılan Meclis ise farklı bir karar aldı. Köylünün üzerindeki yükü artırmamak için vergiyi sekiz kat değil,",
+   "key": [
+    "Ankarada"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_ankara_posta.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara'da postane, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Ankara'da postane, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0.03,
+     0.72,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.76,
+     "end": 32.3,
+     "n": 1
+    },
+    {
+     "start": 32.3,
+     "end": 32.5,
+     "n": 1
+    },
+    {
+     "start": 32.5,
+     "end": 32.98,
+     "n": 1
+    },
+    {
+     "start": 32.98,
+     "end": 33.4,
+     "n": 1
+    },
+    {
+     "start": 33.4,
+     "end": 33.74,
+     "n": 1
+    },
+    {
+     "start": 33.74,
+     "end": 34.12,
+     "n": 1
+    },
+    {
+     "start": 34.12,
+     "end": 34.46,
+     "n": 1
+    },
+    {
+     "start": 34.46,
+     "end": 34.7,
+     "n": 1
+    },
+    {
+     "start": 34.7,
+     "end": 35.24,
+     "n": 1
+    },
+    {
+     "start": 35.46,
+     "end": 36.0,
+     "n": 1
+    },
+    {
+     "start": 36.0,
+     "end": 36.52,
+     "n": 1
+    },
+    {
+     "start": 36.52,
+     "end": 36.84,
+     "n": 1
+    },
+    {
+     "start": 36.84,
+     "end": 37.52,
+     "n": 1
+    },
+    {
+     "start": 37.52,
+     "end": 38.0,
+     "n": 1
+    },
+    {
+     "start": 38.0,
+     "end": 38.54,
+     "n": 1
+    },
+    {
+     "start": 38.54,
+     "end": 38.94,
+     "n": 1
+    },
+    {
+     "start": 38.94,
+     "end": 39.16,
+     "n": 1
+    },
+    {
+     "start": 39.16,
+     "end": 39.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "geçen yılki gibi dört kat uyguladı. Böylece bir koyun için dört-beş kuruş olan vergi, on altı-yirmi kuruşa çıktı.",
+   "caption": "geçen yılki gibi dört kat uyguladı. Böylece bir koyun için dört-beş kuruş olan vergi, on altı-yirmi kuruşa çıktı.",
+   "key": [
+    "dört kat"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_amasya_koylu.jpg",
+    "fit": "doldur",
+    "baslik": "Amasya'da köylüler, 1904-1907 · Guillaume de Jerphanion, Archives Jésuites, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Amasya'da köylüler, 1904-1907 · Guillaume de Jerphanion, Archives Jésuites, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.33,
+     0.05,
+     0.69,
+     0.85
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 39.56,
+     "end": 40.3,
+     "n": 1
+    },
+    {
+     "start": 40.3,
+     "end": 40.6,
+     "n": 1
+    },
+    {
+     "start": 40.6,
+     "end": 40.82,
+     "n": 1
+    },
+    {
+     "start": 40.82,
+     "end": 41.18,
+     "n": 1
+    },
+    {
+     "start": 41.18,
+     "end": 41.36,
+     "n": 1
+    },
+    {
+     "start": 41.36,
+     "end": 42.16,
+     "n": 1
+    },
+    {
+     "start": 42.4,
+     "end": 43.04,
+     "n": 1
+    },
+    {
+     "start": 43.04,
+     "end": 43.36,
+     "n": 1
+    },
+    {
+     "start": 43.36,
+     "end": 43.58,
+     "n": 1
+    },
+    {
+     "start": 43.58,
+     "end": 43.92,
+     "n": 1
+    },
+    {
+     "start": 43.92,
+     "end": 44.86,
+     "n": 1
+    },
+    {
+     "start": 44.86,
+     "end": 45.1,
+     "n": 1
+    },
+    {
+     "start": 45.1,
+     "end": 45.38,
+     "n": 1
+    },
+    {
+     "start": 45.38,
+     "end": 46.0,
+     "n": 1
+    },
+    {
+     "start": 46.0,
+     "end": 46.65,
+     "n": 1
+    },
+    {
+     "start": 46.65,
+     "end": 47.3,
+     "n": 1
+    },
+    {
+     "start": 47.3,
+     "end": 47.74,
+     "n": 1
+    },
+    {
+     "start": 47.74,
+     "end": 47.98,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ama asıl şaşırtıcı olan bundan sonraydı… Henüz yedi ay geçmişti ki Meclis vergiyi bir kez daha iki katına çıkardı.",
+   "caption": "Ama asıl şaşırtıcı olan bundan sonraydı… Henüz yedi ay geçmişti ki Meclis vergiyi bir kez daha iki katına çıkardı.",
+   "key": [
+    "iki katına"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_bilecik_cocuk.jpg",
+    "fit": "doldur",
+    "baslik": "Bilecik'te çocuklar, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Bilecik'te çocuklar, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0.03,
+     0.88,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 48.6,
+     "end": 48.92,
+     "n": 1
+    },
+    {
+     "start": 48.92,
+     "end": 49.26,
+     "n": 1
+    },
+    {
+     "start": 49.26,
+     "end": 49.92,
+     "n": 1
+    },
+    {
+     "start": 49.92,
+     "end": 50.28,
+     "n": 1
+    },
+    {
+     "start": 50.28,
+     "end": 50.86,
+     "n": 1
+    },
+    {
+     "start": 50.86,
+     "end": 51.52,
+     "n": 1
+    },
+    {
+     "start": 51.82,
+     "end": 52.14,
+     "n": 1
+    },
+    {
+     "start": 52.14,
+     "end": 52.38,
+     "n": 1
+    },
+    {
+     "start": 52.38,
+     "end": 52.58,
+     "n": 1
+    },
+    {
+     "start": 52.58,
+     "end": 53.16,
+     "n": 1
+    },
+    {
+     "start": 53.16,
+     "end": 53.6,
+     "n": 1
+    },
+    {
+     "start": 53.6,
+     "end": 54.2,
+     "n": 1
+    },
+    {
+     "start": 54.2,
+     "end": 54.74,
+     "n": 1
+    },
+    {
+     "start": 54.74,
+     "end": 55.04,
+     "n": 1
+    },
+    {
+     "start": 55.04,
+     "end": 55.3,
+     "n": 1
+    },
+    {
+     "start": 55.3,
+     "end": 55.48,
+     "n": 1
+    },
+    {
+     "start": 55.48,
+     "end": 55.74,
+     "n": 1
+    },
+    {
+     "start": 55.74,
+     "end": 56.1,
+     "n": 1
+    },
+    {
+     "start": 56.1,
+     "end": 56.56,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Artık bir koyun için otuz iki-kırk kuruş ödeniyordu. Üstelik bu vergi Cumhuriyet döneminde de devam etti.",
+   "caption": "Artık bir koyun için otuz iki-kırk kuruş ödeniyordu. Üstelik bu vergi Cumhuriyet döneminde de devam etti.",
+   "key": [
+    "otuz iki-kırk kuruş"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_bilecik_kiz.jpg",
+    "fit": "doldur",
+    "baslik": "Bilecik'te bir kız çocuğu, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Bilecik'te bir kız çocuğu, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0.03,
+     0.88,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 56.56,
+     "end": 57.36,
+     "n": 1
+    },
+    {
+     "start": 57.36,
+     "end": 57.66,
+     "n": 1
+    },
+    {
+     "start": 57.66,
+     "end": 57.9,
+     "n": 1
+    },
+    {
+     "start": 57.9,
+     "end": 58.38,
+     "n": 1
+    },
+    {
+     "start": 58.38,
+     "end": 59.01,
+     "n": 1
+    },
+    {
+     "start": 59.01,
+     "end": 59.64,
+     "n": 1
+    },
+    {
+     "start": 59.64,
+     "end": 59.9,
+     "n": 1
+    },
+    {
+     "start": 59.9,
+     "end": 60.86,
+     "n": 1
+    },
+    {
+     "start": 61.04,
+     "end": 61.48,
+     "n": 1
+    },
+    {
+     "start": 61.48,
+     "end": 61.7,
+     "n": 1
+    },
+    {
+     "start": 61.7,
+     "end": 62.14,
+     "n": 1
+    },
+    {
+     "start": 62.14,
+     "end": 62.84,
+     "n": 1
+    },
+    {
+     "start": 62.84,
+     "end": 63.4,
+     "n": 1
+    },
+    {
+     "start": 63.4,
+     "end": 63.58,
+     "n": 1
+    },
+    {
+     "start": 63.58,
+     "end": 63.84,
+     "n": 1
+    },
+    {
+     "start": 63.84,
+     "end": 64.16,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Her yıl köylerde hayvanlar tek tek sayılır, imam ve muhtarın onayladığı deftere kaydedilirdi.",
+   "caption": "Her yıl köylerde hayvanlar tek tek sayılır, imam ve muhtarın onayladığı deftere kaydedilirdi.",
+   "key": [
+    "sayılır"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_ahlat1988.jpg",
+    "fit": "doldur",
+    "baslik": "Ahlat'ta sürüsüyle bir çoban, 1988 (renkli, siyah-beyaza çevrildi) · Volker Höhfeld, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Ahlat'ta sürüsüyle bir çoban, 1988 (renkli, siyah-beyaza çevrildi) · Volker Höhfeld, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.3,
+     0,
+     0.66,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 64.72,
+     "end": 64.92,
+     "n": 1
+    },
+    {
+     "start": 64.92,
+     "end": 65.1,
+     "n": 1
+    },
+    {
+     "start": 65.1,
+     "end": 65.68,
+     "n": 1
+    },
+    {
+     "start": 65.68,
+     "end": 66.36,
+     "n": 1
+    },
+    {
+     "start": 66.36,
+     "end": 66.64,
+     "n": 1
+    },
+    {
+     "start": 66.64,
+     "end": 66.88,
+     "n": 1
+    },
+    {
+     "start": 66.88,
+     "end": 67.48,
+     "n": 1
+    },
+    {
+     "start": 67.7,
+     "end": 67.98,
+     "n": 1
+    },
+    {
+     "start": 67.98,
+     "end": 68.1,
+     "n": 1
+    },
+    {
+     "start": 68.1,
+     "end": 68.6,
+     "n": 1
+    },
+    {
+     "start": 68.6,
+     "end": 69.14,
+     "n": 1
+    },
+    {
+     "start": 69.14,
+     "end": 69.58,
+     "n": 1
+    },
+    {
+     "start": 69.58,
+     "end": 70.4,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sayım zamanı bazı köylüler koyunlarını ormanlara ve kapalı yerlere saklardı.",
+   "caption": "Sayım zamanı bazı köylüler koyunlarını ormanlara ve kapalı yerlere saklardı.",
+   "key": [
+    "saklardı"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_coban3.jpg",
+    "fit": "doldur",
+    "baslik": "Kilikya bölgesinde bir çoban, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Kilikya bölgesinde bir çoban, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0.03,
+     0.88,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 70.88,
+     "end": 71.22,
+     "n": 1
+    },
+    {
+     "start": 71.22,
+     "end": 71.78,
+     "n": 1
+    },
+    {
+     "start": 71.78,
+     "end": 72.24,
+     "n": 1
+    },
+    {
+     "start": 72.24,
+     "end": 72.68,
+     "n": 1
+    },
+    {
+     "start": 72.68,
+     "end": 73.34,
+     "n": 1
+    },
+    {
+     "start": 73.34,
+     "end": 74.1,
+     "n": 1
+    },
+    {
+     "start": 74.1,
+     "end": 74.48,
+     "n": 1
+    },
+    {
+     "start": 74.48,
+     "end": 74.88,
+     "n": 1
+    },
+    {
+     "start": 74.88,
+     "end": 75.26,
+     "n": 1
+    },
+    {
+     "start": 75.26,
+     "end": 75.88,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Yakalananlar ise vergiyi cezasıyla birlikte öderdi. Hayvanlardan alınan bu vergi ancak 1962 yılında tamamen kaldırıldı.",
+   "caption": "Yakalananlar ise vergiyi cezasıyla birlikte öderdi. Hayvanlardan alınan bu vergi ancak 1962 yılında tamamen kaldırıldı.",
+   "key": [
+    "1962"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_girdev1975.jpg",
+    "fit": "doldur",
+    "baslik": "Girdev Gölü kıyısında koyun sürüsü, 1975 (renkli, siyah-beyaza çevrildi) · Nurettin Gülay, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Girdev Gölü kıyısında koyun sürüsü, 1975 (renkli, siyah-beyaza çevrildi) · Nurettin Gülay, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.4,
+     0.3,
+     0.68,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 76.42,
+     "end": 76.86,
+     "n": 1
+    },
+    {
+     "start": 76.86,
+     "end": 77.3,
+     "n": 1
+    },
+    {
+     "start": 77.3,
+     "end": 77.94,
+     "n": 1
+    },
+    {
+     "start": 77.94,
+     "end": 78.64,
+     "n": 1
+    },
+    {
+     "start": 78.64,
+     "end": 79.06,
+     "n": 1
+    },
+    {
+     "start": 79.06,
+     "end": 79.82,
+     "n": 1
+    },
+    {
+     "start": 80.02,
+     "end": 80.64,
+     "n": 1
+    },
+    {
+     "start": 80.64,
+     "end": 81.06,
+     "n": 1
+    },
+    {
+     "start": 81.06,
+     "end": 81.32,
+     "n": 1
+    },
+    {
+     "start": 81.32,
+     "end": 81.8,
+     "n": 1
+    },
+    {
+     "start": 81.8,
+     "end": 82.32,
+     "n": 1
+    },
+    {
+     "start": 82.32,
+     "end": 83.44,
+     "n": 1
+    },
+    {
+     "start": 83.44,
+     "end": 84.02,
+     "n": 1
+    },
+    {
+     "start": 84.02,
+     "end": 84.62,
+     "n": 1
+    },
+    {
+     "start": 84.62,
+     "end": 85.14,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Peki, sizin ailenizde bu hayvan sayımlarını hatırlayan var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki, sizin ailenizde bu hayvan sayımlarını hatırlayan var mı? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "hayvan sayımlarını"
+   ],
+   "image": {
+    "local": "assets/belgeler/102_topkapi_koyun.jpg",
+    "fit": "doldur",
+    "baslik": "Topkapı Sarayı'nda koyunlar, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "lisans": "",
+    "kaynak": "Topkapı Sarayı'nda koyunlar, 1920'ler (renkli, siyah-beyaza çevrildi) · Frédéric Gadmer, Albert Kahn Müzesi, CC BY-SA 4.0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0.03,
+     0.67,
+     0.97
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 85.14,
+     "end": 86.14,
+     "n": 1
+    },
+    {
+     "start": 86.14,
+     "end": 86.64,
+     "n": 1
+    },
+    {
+     "start": 86.64,
+     "end": 87.44,
+     "n": 1
+    },
+    {
+     "start": 87.44,
+     "end": 87.72,
+     "n": 1
+    },
+    {
+     "start": 87.72,
+     "end": 88.06,
+     "n": 1
+    },
+    {
+     "start": 88.06,
+     "end": 88.6,
+     "n": 1
+    },
+    {
+     "start": 88.6,
+     "end": 89.22,
+     "n": 1
+    },
+    {
+     "start": 89.22,
+     "end": 89.38,
+     "n": 1
+    },
+    {
+     "start": 89.38,
+     "end": 89.7,
+     "n": 1
+    },
+    {
+     "start": 89.7,
+     "end": 90.22,
+     "n": 1
+    },
+    {
+     "start": 90.22,
+     "end": 90.32,
+     "n": 1
+    },
+    {
+     "start": 90.32,
+     "end": 90.42,
+     "n": 1
+    },
+    {
+     "start": 90.22,
+     "end": 90.68,
+     "n": 1
+    },
+    {
+     "start": 90.68,
+     "end": 90.98,
+     "n": 1
+    },
+    {
+     "start": 90.98,
+     "end": 91.86,
+     "n": 1
+    },
+    {
+     "start": 92.3,
+     "end": 92.9,
+     "n": 1
+    },
+    {
+     "start": 92.9,
+     "end": 93.1,
+     "n": 1
+    },
+    {
+     "start": 93.1,
+     "end": 93.5,
+     "n": 1
+    },
+    {
+     "start": 93.5,
+     "end": 94.0,
+     "n": 1
+    },
+    {
+     "start": 94.0,
+     "end": 94.42,
+     "n": 1
+    },
+    {
+     "start": 94.42,
+     "end": 95.04,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}

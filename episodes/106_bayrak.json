@@ -1,0 +1,1107 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 106,
+ "slug": "bayrak",
+ "title": "Bayrağımızın Hikâyesi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [],
+ "acilis": "Bayraktaki yıldız\nsekiz köşeliydi",
+ "dis_ses": {
+  "file": "assets/ses/106_bayrak.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     8.72
+    ]
+   ],
+   [
+    [
+     8.72,
+     18.02
+    ]
+   ],
+   [
+    [
+     18.02,
+     22.86
+    ]
+   ],
+   [
+    [
+     22.86,
+     31.58
+    ]
+   ],
+   [
+    [
+     31.58,
+     36.4
+    ]
+   ],
+   [
+    [
+     36.4,
+     44.96
+    ]
+   ],
+   [
+    [
+     44.96,
+     52.48
+    ]
+   ],
+   [
+    [
+     52.48,
+     59.46
+    ]
+   ],
+   [
+    [
+     59.46,
+     69.36
+    ]
+   ],
+   [
+    [
+     69.36,
+     81.0
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bayrağımızdaki yıldız, bir zamanlar beş değil sekiz köşeliydi. Peki bugünkü ay yıldızlı al bayrak nasıl ortaya çıktı?",
+   "caption": "Bayrağımızdaki yıldız, bir zamanlar beş değil sekiz köşeliydi. Peki bugünkü ay yıldızlı al bayrak nasıl ortaya çıktı?",
+   "key": [
+    "sekiz",
+    "köşeliydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_alay_sancagi.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı alay sancağı, Kanlısırt, Çanakkale · Osmanlı Ordusu, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı alay sancağı, Kanlısırt, Çanakkale · Osmanlı Ordusu, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.255,
+     0,
+     0.685,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 0.94,
+     "n": 1
+    },
+    {
+     "start": 0.94,
+     "end": 1.6,
+     "n": 1
+    },
+    {
+     "start": 1.88,
+     "end": 1.98,
+     "n": 1
+    },
+    {
+     "start": 1.98,
+     "end": 2.52,
+     "n": 1
+    },
+    {
+     "start": 2.52,
+     "end": 2.8,
+     "n": 1
+    },
+    {
+     "start": 2.8,
+     "end": 3.22,
+     "n": 1
+    },
+    {
+     "start": 3.5,
+     "end": 3.76,
+     "n": 1
+    },
+    {
+     "start": 3.76,
+     "end": 4.42,
+     "n": 1
+    },
+    {
+     "start": 5.02,
+     "end": 5.44,
+     "n": 1
+    },
+    {
+     "start": 5.44,
+     "end": 6.14,
+     "n": 1
+    },
+    {
+     "start": 6.14,
+     "end": 6.4,
+     "n": 1
+    },
+    {
+     "start": 6.4,
+     "end": 6.94,
+     "n": 1
+    },
+    {
+     "start": 6.94,
+     "end": 7.18,
+     "n": 1
+    },
+    {
+     "start": 7.18,
+     "end": 7.58,
+     "n": 1
+    },
+    {
+     "start": 7.58,
+     "end": 7.92,
+     "n": 1
+    },
+    {
+     "start": 7.92,
+     "end": 8.38,
+     "n": 1
+    },
+    {
+     "start": 8.38,
+     "end": 8.6,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Osmanlının ilk yüzyıllarında tek bir bayrak yoktu. Ordunun ve donanmanın sancakları farklı renklerdeydi. Üzerlerinde ay da vardı,",
+   "caption": "Osmanlı'nın ilk yüzyıllarında tek bir bayrak yoktu. Ordunun ve donanmanın sancakları farklı renklerdeydi. Üzerlerinde ay da vardı,",
+   "key": [
+    "renklerdeydi"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_caldiran_minyatur.jpg",
+    "fit": "doldur",
+    "baslik": "Sancaklarla Osmanlı ordusu, Selimname minyatürü, 1525 · kamu malı",
+    "lisans": "",
+    "kaynak": "Sancaklarla Osmanlı ordusu, Selimname minyatürü, 1525 · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.146,
+     0,
+     0.854,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 9.22,
+     "end": 9.96,
+     "n": 1
+    },
+    {
+     "start": 9.96,
+     "end": 10.26,
+     "n": 1
+    },
+    {
+     "start": 10.26,
+     "end": 11.14,
+     "n": 1
+    },
+    {
+     "start": 11.14,
+     "end": 11.42,
+     "n": 1
+    },
+    {
+     "start": 11.42,
+     "end": 11.62,
+     "n": 1
+    },
+    {
+     "start": 11.62,
+     "end": 12.0,
+     "n": 1
+    },
+    {
+     "start": 12.0,
+     "end": 12.64,
+     "n": 1
+    },
+    {
+     "start": 12.84,
+     "end": 13.26,
+     "n": 1
+    },
+    {
+     "start": 13.26,
+     "end": 13.5,
+     "n": 1
+    },
+    {
+     "start": 13.5,
+     "end": 14.14,
+     "n": 1
+    },
+    {
+     "start": 14.14,
+     "end": 14.74,
+     "n": 1
+    },
+    {
+     "start": 14.74,
+     "end": 15.14,
+     "n": 1
+    },
+    {
+     "start": 15.14,
+     "end": 15.94,
+     "n": 1
+    },
+    {
+     "start": 16.4,
+     "end": 17.04,
+     "n": 1
+    },
+    {
+     "start": 17.04,
+     "end": 17.34,
+     "n": 1
+    },
+    {
+     "start": 17.34,
+     "end": 17.56,
+     "n": 1
+    },
+    {
+     "start": 17.56,
+     "end": 17.9,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "güneş de, yazı da. 1700lerin sonunda Sultan Üçüncü Selim,",
+   "caption": "güneş de, yazı da. 1700'lerin sonunda Sultan Üçüncü Selim,",
+   "key": [
+    "yazı"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_bowles_bayraklar.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı gemi bayrakları, gravür, 1783 · Bowles, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı gemi bayrakları, gravür, 1783 · Bowles, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.34,
+     0.06,
+     0.66,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 18.18,
+     "end": 18.58,
+     "n": 1
+    },
+    {
+     "start": 18.58,
+     "end": 18.88,
+     "n": 1
+    },
+    {
+     "start": 19.0,
+     "end": 19.32,
+     "n": 1
+    },
+    {
+     "start": 19.32,
+     "end": 19.44,
+     "n": 1
+    },
+    {
+     "start": 19.88,
+     "end": 20.72,
+     "n": 1
+    },
+    {
+     "start": 20.72,
+     "end": 21.32,
+     "n": 1
+    },
+    {
+     "start": 21.32,
+     "end": 21.74,
+     "n": 1
+    },
+    {
+     "start": 21.74,
+     "end": 22.1,
+     "n": 1
+    },
+    {
+     "start": 22.26,
+     "end": 22.74,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "ordu ve donanma bayraklarındaki hilalin yanına sekiz köşeli bir yıldız ekletti. Ay yıldızın resmî olarak kullanılması böyle başladı.",
+   "caption": "ordu ve donanma bayraklarındaki hilalin yanına sekiz köşeli bir yıldız ekletti. Ay yıldızın resmî olarak kullanılması böyle başladı.",
+   "key": [
+    "Selim"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_selim3_gravur.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan III. Selim, gravür · kamu malı",
+    "lisans": "",
+    "kaynak": "Sultan III. Selim, gravür · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.087,
+     0,
+     0.913,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 23.04,
+     "end": 23.18,
+     "n": 1
+    },
+    {
+     "start": 23.18,
+     "end": 23.38,
+     "n": 1
+    },
+    {
+     "start": 23.38,
+     "end": 23.82,
+     "n": 1
+    },
+    {
+     "start": 23.82,
+     "end": 24.7,
+     "n": 1
+    },
+    {
+     "start": 24.7,
+     "end": 25.08,
+     "n": 1
+    },
+    {
+     "start": 25.08,
+     "end": 25.72,
+     "n": 1
+    },
+    {
+     "start": 25.72,
+     "end": 26.3,
+     "n": 1
+    },
+    {
+     "start": 26.3,
+     "end": 26.64,
+     "n": 1
+    },
+    {
+     "start": 26.64,
+     "end": 26.86,
+     "n": 1
+    },
+    {
+     "start": 26.86,
+     "end": 27.22,
+     "n": 1
+    },
+    {
+     "start": 27.22,
+     "end": 28.06,
+     "n": 1
+    },
+    {
+     "start": 28.06,
+     "end": 28.42,
+     "n": 1
+    },
+    {
+     "start": 28.42,
+     "end": 29.0,
+     "n": 1
+    },
+    {
+     "start": 29.0,
+     "end": 29.46,
+     "n": 1
+    },
+    {
+     "start": 29.46,
+     "end": 29.8,
+     "n": 1
+    },
+    {
+     "start": 29.8,
+     "end": 30.56,
+     "n": 1
+    },
+    {
+     "start": 30.56,
+     "end": 30.86,
+     "n": 1
+    },
+    {
+     "start": 30.86,
+     "end": 31.46,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Sultan Abdülmecid döneminde ise sekiz köşeli yıldız beş köşeli oldu.",
+   "caption": "Sultan Abdülmecid döneminde ise sekiz köşeli yıldız beş köşeli oldu.",
+   "key": [
+    "Abdülmecid"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_abdulmecid_foto.jpg",
+    "fit": "doldur",
+    "baslik": "Sultan Abdülmecid, 1850 civarı · Basile Kargopoulo, CC0",
+    "lisans": "",
+    "kaynak": "Sultan Abdülmecid, 1850 civarı · Basile Kargopoulo, CC0",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.181,
+     0,
+     0.819,
+     0.8
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.98,
+     "end": 32.26,
+     "n": 1
+    },
+    {
+     "start": 32.26,
+     "end": 32.84,
+     "n": 1
+    },
+    {
+     "start": 32.84,
+     "end": 33.44,
+     "n": 1
+    },
+    {
+     "start": 33.44,
+     "end": 33.86,
+     "n": 1
+    },
+    {
+     "start": 33.86,
+     "end": 34.3,
+     "n": 1
+    },
+    {
+     "start": 34.3,
+     "end": 34.64,
+     "n": 1
+    },
+    {
+     "start": 34.64,
+     "end": 35.2,
+     "n": 1
+    },
+    {
+     "start": 35.2,
+     "end": 35.54,
+     "n": 1
+    },
+    {
+     "start": 35.54,
+     "end": 35.98,
+     "n": 1
+    },
+    {
+     "start": 35.98,
+     "end": 36.28,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Kırmızı zemin üzerinde beyaz ay yıldız artık devletin bayrağıydı. Cumhuriyet kurulunca bu bayrak aynen korundu.",
+   "caption": "Kırmızı zemin üzerinde beyaz ay yıldız artık devletin bayrağıydı. Cumhuriyet kurulunca bu bayrak aynen korundu.",
+   "key": [
+    "ay",
+    "yıldız"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_asker_bayrak.jpg",
+    "fit": "doldur",
+    "baslik": "Ay yıldızlı bayrakla Osmanlı askerleri · Agence Rol, Gallica, kamu malı",
+    "lisans": "",
+    "kaynak": "Ay yıldızlı bayrakla Osmanlı askerleri · Agence Rol, Gallica, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.239,
+     0,
+     0.661,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 36.8,
+     "end": 37.18,
+     "n": 1
+    },
+    {
+     "start": 37.18,
+     "end": 37.44,
+     "n": 1
+    },
+    {
+     "start": 37.44,
+     "end": 38.06,
+     "n": 1
+    },
+    {
+     "start": 38.06,
+     "end": 38.58,
+     "n": 1
+    },
+    {
+     "start": 38.58,
+     "end": 38.78,
+     "n": 1
+    },
+    {
+     "start": 38.78,
+     "end": 39.4,
+     "n": 1
+    },
+    {
+     "start": 39.4,
+     "end": 39.98,
+     "n": 1
+    },
+    {
+     "start": 39.98,
+     "end": 40.62,
+     "n": 1
+    },
+    {
+     "start": 40.62,
+     "end": 41.5,
+     "n": 1
+    },
+    {
+     "start": 41.7,
+     "end": 42.22,
+     "n": 1
+    },
+    {
+     "start": 42.22,
+     "end": 42.94,
+     "n": 1
+    },
+    {
+     "start": 42.94,
+     "end": 43.18,
+     "n": 1
+    },
+    {
+     "start": 43.18,
+     "end": 43.58,
+     "n": 1
+    },
+    {
+     "start": 43.58,
+     "end": 44.08,
+     "n": 1
+    },
+    {
+     "start": 44.08,
+     "end": 44.84,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "29 Mayıs 1936da ise Türk Bayrağı Kanunu kabul edildi ve bayrağın şekli kanunla belirlendi.",
+   "caption": "29 Mayıs 1936'da ise Türk Bayrağı Kanunu kabul edildi ve bayrağın şekli kanunla belirlendi.",
+   "key": [
+    "1936"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_kursu_bayrak.jpg",
+    "fit": "doldur",
+    "baslik": "Cumhuriyet Bayramı kutlamaları, Ankara · kamu malı",
+    "lisans": "",
+    "kaynak": "Cumhuriyet Bayramı kutlamaları, Ankara · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.292,
+     0,
+     0.708,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 45.14,
+     "end": 45.36,
+     "n": 1
+    },
+    {
+     "start": 45.36,
+     "end": 45.9,
+     "n": 1
+    },
+    {
+     "start": 45.9,
+     "end": 47.32,
+     "n": 1
+    },
+    {
+     "start": 47.32,
+     "end": 47.78,
+     "n": 1
+    },
+    {
+     "start": 47.78,
+     "end": 48.06,
+     "n": 1
+    },
+    {
+     "start": 48.06,
+     "end": 48.48,
+     "n": 1
+    },
+    {
+     "start": 48.48,
+     "end": 48.88,
+     "n": 1
+    },
+    {
+     "start": 48.88,
+     "end": 49.3,
+     "n": 1
+    },
+    {
+     "start": 49.3,
+     "end": 49.8,
+     "n": 1
+    },
+    {
+     "start": 49.8,
+     "end": 50.14,
+     "n": 1
+    },
+    {
+     "start": 50.14,
+     "end": 50.72,
+     "n": 1
+    },
+    {
+     "start": 50.72,
+     "end": 51.18,
+     "n": 1
+    },
+    {
+     "start": 51.18,
+     "end": 51.74,
+     "n": 1
+    },
+    {
+     "start": 51.74,
+     "end": 52.36,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bugün geçerli olan 1983 tarihli kanuna göre bayrağın boyu, eninin bir buçuk katıdır.",
+   "caption": "Bugün geçerli olan 1983 tarihli kanuna göre bayrağın boyu, eninin bir buçuk katıdır.",
+   "key": [
+    "buçuk"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_ankara1940.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara Garı ve 19 Mayıs Meydanı, 1940lar · DGPI, kamu malı",
+    "lisans": "",
+    "kaynak": "Ankara Garı ve 19 Mayıs Meydanı, 1940lar · DGPI, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.19,
+     0,
+     0.81,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 52.9,
+     "end": 53.16,
+     "n": 1
+    },
+    {
+     "start": 53.16,
+     "end": 53.76,
+     "n": 1
+    },
+    {
+     "start": 53.76,
+     "end": 54.04,
+     "n": 1
+    },
+    {
+     "start": 54.04,
+     "end": 54.84,
+     "n": 1
+    },
+    {
+     "start": 54.84,
+     "end": 55.76,
+     "n": 1
+    },
+    {
+     "start": 55.76,
+     "end": 56.18,
+     "n": 1
+    },
+    {
+     "start": 56.18,
+     "end": 56.56,
+     "n": 1
+    },
+    {
+     "start": 56.56,
+     "end": 57.28,
+     "n": 1
+    },
+    {
+     "start": 57.28,
+     "end": 57.74,
+     "n": 1
+    },
+    {
+     "start": 57.74,
+     "end": 58.22,
+     "n": 1
+    },
+    {
+     "start": 58.22,
+     "end": 58.48,
+     "n": 1
+    },
+    {
+     "start": 58.48,
+     "end": 58.8,
+     "n": 1
+    },
+    {
+     "start": 58.8,
+     "end": 59.34,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Ayın ve yıldızın bütün ölçüleri de bu orana göre hesaplanır. Yani masadaki küçük bayrakla bir binayı kaplayan dev bayrak, aynı ölçülerle yapılır.",
+   "caption": "Ayın ve yıldızın bütün ölçüleri de bu orana göre hesaplanır. Yani masadaki küçük bayrakla bir binayı kaplayan dev bayrak, aynı ölçülerle yapılır.",
+   "key": [
+    "dev",
+    "bayrak"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_onur_aniti1933.jpg",
+    "fit": "doldur",
+    "baslik": "Onur Anıtı çevresinde kutlama, 1933 · kamu malı",
+    "lisans": "",
+    "kaynak": "Onur Anıtı çevresinde kutlama, 1933 · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.312,
+     0,
+     0.688,
+     1
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 59.68,
+     "end": 59.94,
+     "n": 1
+    },
+    {
+     "start": 59.94,
+     "end": 60.12,
+     "n": 1
+    },
+    {
+     "start": 60.12,
+     "end": 60.74,
+     "n": 1
+    },
+    {
+     "start": 60.74,
+     "end": 60.98,
+     "n": 1
+    },
+    {
+     "start": 60.98,
+     "end": 61.52,
+     "n": 1
+    },
+    {
+     "start": 61.52,
+     "end": 61.8,
+     "n": 1
+    },
+    {
+     "start": 61.8,
+     "end": 62.02,
+     "n": 1
+    },
+    {
+     "start": 62.02,
+     "end": 62.28,
+     "n": 1
+    },
+    {
+     "start": 62.28,
+     "end": 62.54,
+     "n": 1
+    },
+    {
+     "start": 62.54,
+     "end": 63.26,
+     "n": 1
+    },
+    {
+     "start": 63.66,
+     "end": 63.98,
+     "n": 1
+    },
+    {
+     "start": 63.98,
+     "end": 64.56,
+     "n": 1
+    },
+    {
+     "start": 64.56,
+     "end": 64.92,
+     "n": 1
+    },
+    {
+     "start": 64.92,
+     "end": 65.6,
+     "n": 1
+    },
+    {
+     "start": 65.6,
+     "end": 65.94,
+     "n": 1
+    },
+    {
+     "start": 65.94,
+     "end": 66.28,
+     "n": 1
+    },
+    {
+     "start": 66.28,
+     "end": 66.94,
+     "n": 1
+    },
+    {
+     "start": 66.94,
+     "end": 67.18,
+     "n": 1
+    },
+    {
+     "start": 67.18,
+     "end": 67.76,
+     "n": 1
+    },
+    {
+     "start": 67.76,
+     "end": 68.12,
+     "n": 1
+    },
+    {
+     "start": 68.12,
+     "end": 68.76,
+     "n": 1
+    },
+    {
+     "start": 68.76,
+     "end": 69.24,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bayrağımızın tarihindeki bu değişimi daha önce duymuş muydunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Bayrağımızın tarihindeki bu değişimi daha önce duymuş muydunuz? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "duymuş"
+   ],
+   "image": {
+    "local": "assets/belgeler/106_ankara_bulvar.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara, ana bulvar, 1930lar · Matson Collection, LOC, kamu malı",
+    "lisans": "",
+    "kaynak": "Ankara, ana bulvar, 1930lar · Matson Collection, LOC, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0,
+    "kirp": [
+     0.165,
+     0.02,
+     0.835,
+     0.9
+    ]
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 69.6,
+     "end": 70.3,
+     "n": 1
+    },
+    {
+     "start": 70.3,
+     "end": 70.98,
+     "n": 1
+    },
+    {
+     "start": 70.98,
+     "end": 71.24,
+     "n": 1
+    },
+    {
+     "start": 71.24,
+     "end": 71.74,
+     "n": 1
+    },
+    {
+     "start": 71.74,
+     "end": 72.04,
+     "n": 1
+    },
+    {
+     "start": 72.04,
+     "end": 72.28,
+     "n": 1
+    },
+    {
+     "start": 72.28,
+     "end": 72.68,
+     "n": 1
+    },
+    {
+     "start": 72.68,
+     "end": 73.34,
+     "n": 1
+    },
+    {
+     "start": 73.74,
+     "end": 74.54,
+     "n": 1
+    },
+    {
+     "start": 74.54,
+     "end": 75.16,
+     "n": 1
+    },
+    {
+     "start": 75.16,
+     "end": 75.92,
+     "n": 1
+    },
+    {
+     "start": 76.1,
+     "end": 76.66,
+     "n": 1
+    },
+    {
+     "start": 76.66,
+     "end": 76.96,
+     "n": 1
+    },
+    {
+     "start": 76.96,
+     "end": 77.78,
+     "n": 1
+    },
+    {
+     "start": 78.24,
+     "end": 78.76,
+     "n": 1
+    },
+    {
+     "start": 78.76,
+     "end": 78.94,
+     "n": 1
+    },
+    {
+     "start": 78.94,
+     "end": 79.34,
+     "n": 1
+    },
+    {
+     "start": 79.34,
+     "end": 79.82,
+     "n": 1
+    },
+    {
+     "start": 79.82,
+     "end": 80.24,
+     "n": 1
+    },
+    {
+     "start": 80.24,
+     "end": 80.8,
+     "n": 1
+    }
+   ]
+  }
+ ]
+}
