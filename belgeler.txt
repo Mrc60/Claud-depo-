@@ -1,16 +1,1 @@
-tuseb24.pdf https://files.tuseb.gov.tr/tae/files/yayinlar/2024-10-24-06-26-29.pdf
-tuseb7.pdf https://files.tuseb.gov.tr/tae/files/yayinlar/tarih-arastirmalari/7-baslik.pdf
-tuseb3.pdf https://files.tuseb.gov.tr/tae/files/yayinlar/tarih-arastirmalari/3-baslik.pdf
-nizam.pdf https://www.tr.cocukenfeksiyondergisi.org/upload/documents/2025-02/2025-19-2-130-143.pdf
-cocuk23.pdf https://www.tr.cocukenfeksiyondergisi.org/upload/documents/2023-04/2023-17-4-273-289.pdf
-sosyal.pdf https://www.sosyalarastirmalar.com/articles/ottoman-public-health-in-the-last-quarter-of-the-19th-century-smallpox-epidemics-in-istanbul-and-vaccination-practices-i.pdf
-ttk.pdf https://ttk.gov.tr/wp-content/uploads/2024/06/84-DeryaDerinPasaoglu.pdf
-c26.pdf https://cocukenfeksiyondergisi.org/upload/2026-02/2026-20-2-168-173.pdf
-c24.pdf https://www.tr.cocukenfeksiyondergisi.org/upload/documents/2024-02/2024-18-2-133-144.pdf
-aktas.pdf https://www.klimik.org.tr/wp-content/uploads/2019/11/10.15-11.00-firdevs-akta%C5%9FCUMHUR%C4%B0YET-VE-A%C5%9EILAMA-%C3%87ALI%C5%9EMALARI_compressed.pdf
-marmara.pdf https://openaccess.marmara.edu.tr/bitstreams/07d3c813-cb42-409a-80e7-1081f451963b/download
-dp1.pdf https://dergipark.org.tr/en/download/article-file/2104423
-dp2.pdf https://dergipark.org.tr/tr/download/article-file/628417
-dp3.pdf https://dergipark.org.tr/en/download/article-file/3501381
-dp4.pdf https://dergipark.org.tr/tr/download/article-file/173026
-dp5.pdf https://dergipark.org.tr/en/download/article-file/1905137
+sumerbank1937.pdf https://upload.wikimedia.org/wikipedia/commons/1/16/S%C3%BCmerbank.pdf
