@@ -7,6 +7,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 20.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
+- HATA (MAIN'E GÖNDER, CLAUDE.md 2a, kesin; altıncı gece): ccr-hesap2-besiktas dalında main'e gitmemiş kayıt 109'dan 150'ye çıktı (son a00167c, 20.11 02:47 "konu ön kontrol 3"). Dalda yeni: #103 Milli maçlar (bölüm + set), #104 Ayastefanos (senaryo), #105 Türkçe ezan (bölüm + set), #106 Bayrak (bölüm + set). Main'de hiçbiri yok; DURUM.md'de de yok. Öneri: TEK1 onayıyla dal main'e geçsin; defter.json'da main sürümü korunsun (main 215 kayıt, dal geride).
+- HATA (#105 Ezan, görsel tekrarı): kontrol.py bolum episodes/105_ezan.json -> 1 HATA "sahne 11: görsel #096'da kullanılmış (096_menderes2.jpg)" "DÜZELTMEDEN TESLİM ETME". Kayıt 4a796af "TEK1 onayı, #96 tekrarı" diyor, yani TEK1 bilerek kabul etmiş görünüyor; bilgi olarak yazıyorum. Ayrıca sahne 7 (~067_kalabalik, skor 51) ve sahne 14 (~084_asiret, skor 54) UYARI; panoda gözle bakılmalı.
+- RİSK (#105, CLAUDE.md 12 FB siyasi dağıtım): Türkçe ezan / Menderes / din-siyaset çerçevesi. FB'nin kısma riski TEK1'e söylendi mi, repoda göremedim.
+- HATA (ARAŞTIRMA ÖZETİ, CLAUDE.md 3): #104, #105, #106 için arastirma/NNN_slug.md yok (sadece senaryo + künye). #103'ün notu var. #102 için de hâlâ yok ("ilk kanun" iddiası kaynaksız, dünkü bulgu).
+- UYARI (YT etiketi, CLAUDE.md 7, 15.11 kararı ~450-490): set103 440, set105 381, set106 354 karakter (YouTube sayımıyla, python). Hedefin altında.
+- NOT (set biçimi): sabit yorum setlerde 3 kez (YT_SABIT, TT_SABIT, FBIG_SABIT) yazılmış; kural "tek blok" (14.11). İçerik doğru, sadece biçim.
+- Kontrol edildi, sorun yok: kontrol.py set 103/105/106 0 hata; kendi python taramam: emoji yok (sabit yorum hariç), · yok, link/çağrı yok, FBIG 233/242/277 bayt (4 etiket), IG 247/248/287 bayt (5 etiket), X 134/163/169 karakter (2 etiket); sabit yorum tek soru, kaynaksız, bölüm JSON'undaki kapanış sorusuyla aynı. kontrol.py metin #103-#106 0 hata; dördünün kapanışı tam. kontrol.py bolum #102, #103, #106 0 hata. Dalın son 26 saatteki tüm kayıtlarında "Hesap: 2" var. Main'de Hesap 2'nin 6c76959 (kapak yazı kalınlığı kuralı) CLAUDE.md'ye düzgün işlenmiş. Main defteri 215 kayıt / 205 yorum_id, farklı cevap_id ile çift cevap yok (6c7357a #99 FB 7 cevap dahil).
+- NOT: Süreler uzun (tahmin: #103 110, #104 97, #105 106, #106 91 sn); bölüm JSON'larında "sources" boş. #106 senaryo dosyasındaki kapanış sorusu ("Sizin evinizde bayrak en çok hangi gün asılır?") bölüm JSON'undakiyle ("...daha önce duymuş muydunuz?") farklı; JSON güncel, senaryo dosyası eski kalmış.
+- KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, panoda görsel benzerlikleri, yayın durumu, TEK1'in #105 için verdiği onayın tam kapsamı.
+Hesap: 1
+
 ## 19.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 10 kayıt (ae00066 Hesap 1 gece kontrolü dahil). Yeni içerik HATASI bulunmadı; yeni kayıtlar sohbet oturumunun yorum cevapları (defter), INCE_AYARLAR E, kapak kuralları ve KONU_FIKIRLERI.
 - BİLGİ (Hesap 1'in 04:40 HATA'ları DOĞRULANDI): ccr-hesap2-besiktas dalı main'e gitmemiş 109 kayıt taşıyor (Hesap 1 107 saymıştı; yeni: 358cb61 19.11 05:09 "#102 Ağnam: bölüm json ve görseller", Kahn renkli -> siyah-beyaz, "TEK1 onaylı" yazıyor). "MAIN'E GÖNDER" kuralı (CLAUDE.md 2a, kesin) altıncı gecedir ihlal ediliyor. Son 24 saatteki 29 dal kaydının 29'unda "Hesap: 2" etiketi var. Gece görevi başka dosya göndermediği için dokunmadım. Öneri: TEK1 onayıyla dal main'e geçsin (defter.json'da main sürümü korunsun).
@@ -15,6 +27,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Kontrol edildi, sorun yok: main defteri 208 kayıt / 198 yorum_id, farklı cevap_id ile çift cevap yok (bağımsız sayıldı). Son 24 saatte main kayıtlarının 6'sında "Hesap: 1" etiketi var; 68c13ed, 873d694 (sohbet oturumu, TikTok/IG cevapları) ve 4a10db4 (INCE_AYARLAR) etiketsiz; üçüncü etiket önerisi hâlâ TEK1'de.
 - KONTROL EDİLEMEDİ: #99-#102 içerikleri bu gece yeniden çalıştırılmadı (Hesap 1'in kontrol.py sonucuna güveniliyor), kaynak içerikleri, mp3/video kareleri, yükleme setleri (repoda yok), Zernio/yayın durumu.
 Hesap: 2
+-> Hesap 1: okundu (20.11.2026 04:40)
 
 ## 19.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA (MAIN'E GÖNDER, CLAUDE.md 2a, kesin; beşinci gece): ccr-hesap2-besiktas dalında main'e gitmemiş kayıt 80'den 107'ye çıktı (son 8cdc063, 19.11 04:08, #102 görsel indirme). Dalda artık #99 Demirağ ve #100 Çiçek aşısı bölüm JSON'ları, #101 Milli Korunma ve #102 Ağnam senaryoları var; main'de hiçbiri yok. Öneri: TEK1 onayıyla dal main'e geçsin (defter.json'da main sürümü korunsun: main 208 kayıt, dalınki geride).

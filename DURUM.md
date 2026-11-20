@@ -1,4 +1,11 @@
-# DURUM — şu anki işler (son güncelleme: 19.11.2026 05:45, Hesap 2 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 20.11.2026 04:40, Hesap 1 gece kontrolü)
+
+## GECE KONTROLÜ (20.11.2026 04:40, Hesap 1)
+- ccr-hesap2-besiktas dalı: main'e gitmemiş 150 kayıt. Dalda yeni #103 Milli maçlar, #105 Türkçe ezan, #106 Bayrak (bölüm + yükleme seti) ve #104 Ayastefanos (senaryo); main'de yok.
+- #105: kontrol.py bolum 1 HATA (096_menderes2 tekrarı; kayıt "TEK1 onayı" diyor). FB siyasi dağıtım riski (din-siyaset, Menderes).
+- #104, #105, #106 (ve #102) araştırma notu yok. YT etiketleri 354-440 karakter (hedef 450-490).
+- Setler 103/105/106: emoji, bayt, link, sabit yorum kuralları tamam. Defter: çift cevap yok (215 kayıt).
+- TEK1'İN BEKLEYEN KARARLARI: dalın main'e geçirilmesi; #105 yayın (FB riski, tekrar görsel); #102 kaynak kontrolü; #96/#97/#98 kapanış düzeltmesi; #94; #88; #85; #84; DIZIN.md; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (19.11.2026 05:45, Hesap 2)
 - Son 24 saatte yeni hata yok. Hesap 1 bulguları doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 109 kayıt (son 358cb61, #102 Ağnam bölüm JSON); #99/#101/#102 araştırma notu yok, #102 "ilk kanun" iddiası kaynaksız. Main defterinde çift cevap yok (208 kayıt). Ayrıntı MESAJLAR 19.11 05:45.
