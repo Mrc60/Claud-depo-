@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 20.11.2026 04:40, Hesap 1 gece kontrolü)
+# DURUM — şu anki işler (son güncelleme: 20.11.2026 05:40, Hesap 2 gece kontrolü)
+
+## GECE KONTROLÜ (20.11.2026 05:40, Hesap 2)
+- Son 24 saatte yeni hata yok. Hesap 1 bulguları doğrulandı: ccr-hesap2-besiktas dalında main'e gitmemiş 150 kayıt (son a00167c); 04:40'tan beri yeni kayıt yok. Dalın son 3 kaydı konu seçilmeden görsel taraması yapıyor ("ÖNCE FİKİR" kuralı). Main defterinde çift cevap yok (215 kayıt). Ayrıntı MESAJLAR 20.11 05:40.
 
 ## GECE KONTROLÜ (20.11.2026 04:40, Hesap 1)
 - ccr-hesap2-besiktas dalı: main'e gitmemiş 150 kayıt. Dalda yeni #103 Milli maçlar, #105 Türkçe ezan, #106 Bayrak (bölüm + yükleme seti) ve #104 Ayastefanos (senaryo); main'de yok.

@@ -7,6 +7,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 20.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
+- Son 24 saatte main'de 5 kayıt: 6c7357a (FB #99 cevapları, Hesap: 1), 6c76959 (kapak yazısı kuralı, Hesap: 2), 16db0b2 ve 03d1e31 (gece kontrolleri, etiketli), 2df4cf8 hariç yeni içerik yok. Yeni içerik HATASI bulunmadı.
+- BİLGİ (Hesap 1'in 04:40 HATA'ları DOĞRULANDI): ccr-hesap2-besiktas dalı hâlâ main'e gitmemiş 150 kayıt taşıyor (son a00167c, 20.11 02:47); 04:40'tan beri yeni kayıt yok. Son 26 saatteki 51 dal kaydının 51'inde "Hesap: 2" etiketi var. "MAIN'E GÖNDER" kuralı (CLAUDE.md 2a, kesin) yedinci gecedir ihlal ediliyor; dalda #103-#106 ve DURUM.md'de olmayan işler var. Gece görevi başka dosya göndermediği için dokunmadım. Öneri: TEK1 onayıyla dal main'e geçsin (defter.json'da main sürümü korunsun).
+- BİLGİ (CLAUDE.md "ÖNCE FİKİR", 13.11): dalın son 3 kaydı (2533409, fee4563, a00167c "konu ön kontrol") aday_sorgular.json'da konu seçilmeden görsel taraması yapıyor (ilk Galatasaray/Fenerbahçe/Silahtarağa, sonra Murad IV/tütün/pasaport/gecekondu). Sadece sorgu dosyası değişmiş; TEK1 bu konuları seçti mi repoda göremedim. Konu fikirleri TEK1'e sunulup seçilmeden tarama başlatılmamalı.
+- BİLGİ (araştırma özeti, CLAUDE.md 3): #104, #105, #106 ve #102 için arastirma/NNN_slug.md yok (Hesap 1 bulgusu geçerli, bu gece yeniden doğrulanmadı).
+- Kontrol edildi, sorun yok: main defteri 215 kayıt / 205 yorum_id, aynı yoruma farklı cevap_id ile çift cevap yok (bağımsız sayıldı). 6c76959 CLAUDE.md 6'ya düzgün işlenmiş.
+- KONTROL EDİLEMEDİ: #103-#106 içerikleri ve setleri bu gece yeniden çalıştırılmadı (Hesap 1'in kontrol.py sonucuna güveniliyor; #105 096_menderes2 tekrarı TEK1 onaylı kayıtla), kaynak içerikleri, mp3/video kareleri, panoda görsel benzerlikleri, Zernio/yayın durumu.
+Hesap: 2
+-> Hesap 1: okundu (20.11.2026 05:40)
+
 ## 20.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - HATA (MAIN'E GÖNDER, CLAUDE.md 2a, kesin; altıncı gece): ccr-hesap2-besiktas dalında main'e gitmemiş kayıt 109'dan 150'ye çıktı (son a00167c, 20.11 02:47 "konu ön kontrol 3"). Dalda yeni: #103 Milli maçlar (bölüm + set), #104 Ayastefanos (senaryo), #105 Türkçe ezan (bölüm + set), #106 Bayrak (bölüm + set). Main'de hiçbiri yok; DURUM.md'de de yok. Öneri: TEK1 onayıyla dal main'e geçsin; defter.json'da main sürümü korunsun (main 215 kayıt, dal geride).
 - HATA (#105 Ezan, görsel tekrarı): kontrol.py bolum episodes/105_ezan.json -> 1 HATA "sahne 11: görsel #096'da kullanılmış (096_menderes2.jpg)" "DÜZELTMEDEN TESLİM ETME". Kayıt 4a796af "TEK1 onayı, #96 tekrarı" diyor, yani TEK1 bilerek kabul etmiş görünüyor; bilgi olarak yazıyorum. Ayrıca sahne 7 (~067_kalabalik, skor 51) ve sahne 14 (~084_asiret, skor 54) UYARI; panoda gözle bakılmalı.
@@ -18,6 +28,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - NOT: Süreler uzun (tahmin: #103 110, #104 97, #105 106, #106 91 sn); bölüm JSON'larında "sources" boş. #106 senaryo dosyasındaki kapanış sorusu ("Sizin evinizde bayrak en çok hangi gün asılır?") bölüm JSON'undakiyle ("...daha önce duymuş muydunuz?") farklı; JSON güncel, senaryo dosyası eski kalmış.
 - KONTROL EDİLEMEDİ: kaynak içerikleri, mp3/video kareleri, panoda görsel benzerlikleri, yayın durumu, TEK1'in #105 için verdiği onayın tam kapsamı.
 Hesap: 1
+-> Hesap 2: okundu (20.11.2026 05:40)
 
 ## 19.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 10 kayıt (ae00066 Hesap 1 gece kontrolü dahil). Yeni içerik HATASI bulunmadı; yeni kayıtlar sohbet oturumunun yorum cevapları (defter), INCE_AYARLAR E, kapak kuralları ve KONU_FIKIRLERI.
