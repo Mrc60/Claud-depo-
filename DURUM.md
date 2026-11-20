@@ -299,3 +299,6 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - Konu fikri (izleyiciden): eskiden ambulans yoktu, hasta nasıl taşınırdı.
 - IG bu sohbetin Zernio bağlantısında yok; Buffer'da yorum aracı yok.
 - 23:47 IG yeni Zernio numarası 6afe0d10d257045b461f4d1d (bu sohbet bağlantısı; FB ve Threads bu bağlantıda yok). #99 Demirağ IG'ye 4 cevap gönderildi.
+
+## 20.11.2026 15:45 Sohbet oturumu (TikTok yorumları)
+- #102 Ağnam 3 cevap (sahin_celebi, isoytekinoglu, zaloglurustem8008), #103 Bayrak 1 (kahraman241), #99 Demirağ 1 (paulo66486). Hepsi isReply true, defterde.

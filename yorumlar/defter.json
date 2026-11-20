@@ -1681,7 +1681,7 @@
   "atlananlar": [
    "7709212351635718918 kadirkesh2 siyasi (TEK1: atla)"
   ],
-  "sinir_notu": "2026-11-18T20:24Z tarandı (23:24 İstanbul); rahmet/siyasi/emoji yorumları atlandı (TEK1 onayı)."
+  "sinir_notu": "2026-11-20T12:40Z tarandı (15:40 İstanbul); yeni cevaplanacak yorum yok."
  },
  "tiktok/7708859028964723976": {
   "video": "094 Heykel",
@@ -2099,5 +2099,61 @@
    }
   ],
   "sinir_notu": "2026-11-20T12:22Z tarandı (15:22 İstanbul), tüm ana yorumlar. Atlanan: Cemal Aydın (siyasi çerçeve, doğrulanmamış iddia)."
+ },
+ "tiktok/7709913879182134536": {
+  "video": "102 Agnam",
+  "kayitlar": [
+   {
+    "yorum_id": "7710211711555486472",
+    "kullanici": "sahin_celebi",
+    "yorum": "benim dedem derdiki kapıdakı tavuktan bile vergi aldılar... 2012 yılında vefat etti",
+    "cevap_id": "7710220512475235080",
+    "tarih": "2026-11-20T12:41Z"
+   },
+   {
+    "yorum_id": "7709945184356778772",
+    "kullanici": "isoytekinoglu",
+    "yorum": "Hayvan vergisi Osmanlı döneminde de varmış ama Cumhuriyet kurulduktan sonra 5 kat artırılarak...",
+    "cevap_id": "7710212620636881685",
+    "tarih": "2026-11-20T12:41Z"
+   },
+   {
+    "yorum_id": "7710158649351635718",
+    "kullanici": "zaloglurustem8008",
+    "yorum": "Halen köylüden aliyorlar",
+    "cevap_id": "7710223440170533638",
+    "tarih": "2026-11-20T12:41Z"
+   }
+  ],
+  "sinir_notu": "2026-11-20T12:36Z tarandı (15:36 İstanbul), tüm yorumlar; siyasi/gizli atlandı."
+ },
+ "tiktok/7710020753311206663": {
+  "video": "103 Bayrak",
+  "kayitlar": [
+   {
+    "yorum_id": "7710169033002222357",
+    "kullanici": "kahraman241",
+    "yorum": "ulan hani şehitlerini kanun üstünde görüldü diye bize ilk okulda söylüyordunuz osekil ortaya cikmiştı 😂",
+    "cevap_id": "7710217888463897345",
+    "tarih": "2026-11-20T12:44Z"
+   }
+  ],
+  "sinir_notu": "2026-11-20T12:40Z tarandı (15:40 İstanbul)."
+ },
+ "tiktok/7709562528132500754": {
+  "video": "099 Demirag",
+  "kayitlar": [
+   {
+    "yorum_id": "7709787470678917921",
+    "kullanici": "paulo66486",
+    "yorum": "Neuer olmazdiki kendi ucamizi dünyaya tanitirdik",
+    "cevap_id": "7710221193428927284",
+    "tarih": "2026-11-20T12:44Z"
+   }
+  ],
+  "sinir_notu": "2026-11-20T12:40Z tarandı (15:40 İstanbul)."
+ },
+ "tiktok/7709662576329657618": {
+  "sinir_notu": "2026-11-20T12:40Z tarandı (15:40 İstanbul); yeni cevaplanacak yorum yok."
  }
 }
