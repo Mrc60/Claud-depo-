@@ -14,6 +14,12 @@
 - İddialar: 10 cümle en az 2 kaynakla doğrulandı. 1 cümle tek kaynaklı: 7. satır, TFF, "taraftarlar kazağı çok sevdi"; ana iddia 8. satırda iki kaynaklı. 3 cümle anlatım. Okuduğum kaynak: 9.
 - RİSK: Kartal hikâyesinin bütün kaynakları kulübün resmî anlatısına dayanıyor (TFF dergisindeki metin ile bjk.com.tr aynı). Maç günüyle aynı tarihli gazete (Cumhuriyet/Akşam 20.1.1941) OKUNMADI, arşive ulaşamadım. Hikâye kulüp ve TFF düzeyinde yerleşik; tartışan kaynak bulamadım.
 
+## GÜNCELLEME (21.11.2026 10:00, GPT raporu + TEK1 ekran görüntüsü)
+- 6-0 BİRİNCİL KAYNAKLA DOĞRULANDI: Vakit, 20 İkincikânun (Ocak) 1941, s.4, manşet "Dünkü lik maçları – Beşiktaş Süleymaniyeyi 6-0, Vefa Beykozu 5-1 yendiler" (TEK1'in gastearsivi ekran görüntüsü, arastirma/109_vakit_19410120.jpg; ben gözle okudum). "Dünkü" = maç 19 Ocak 1941 Pazar. Küçük metinde "kartal" kelimesi var mı okunamadı.
+- GPT ayrıca Tasvir-i Efkâr 20.1.1941 s.4'te "Beşiktaş 6 — Süleymaniye 0" dedi; ben açamadım (site erişimi kapalı).
+- Nihat'ın mevkisi çelişkili (Fanatik: stoper; GPT'ye göre galatasaray.org: ortahaf, açamadım) → metinden çıkarıldı.
+- Tezahürat sözleri çelişkili (TFF/BJK "Hücum edin", UEFA/CNN Türk "Bastır") → sadece "Haydi Kara Kartallar" kaldı; an "Kulübün anlattığına göre" diye verildi.
+
 ## ÇIKARILANLAR (kaynaklar çelişti ya da zayıftı)
 - Aslan lakabının "Aslan adlı teknesinden" geldiği (Goal, CNN Türk) vs "eşofmanındaki aslan arması" (Wikipedia) vs "fedakâr oyunu" (TFF, GS resmî mesajı). Teknede ve armada kaynaklar çelişiyor, çıkarıldı. TFF ve GS'nin ortak söylediği kaldı.
 - Fenerbahçe'de taraftarın söylediği söz ("Kanaryama bak, yine uçtu" vb.): kaynaklar farklı yazıyor, çıkarıldı.
