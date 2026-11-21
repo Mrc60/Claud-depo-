@@ -2123,9 +2123,44 @@
     "yorum": "Halen köylüden aliyorlar",
     "cevap_id": "7710223440170533638",
     "tarih": "2026-11-20T12:41Z"
+   },
+   {
+    "yorum_id": "7710392819214648116",
+    "kullanici": "kacaktc",
+    "yorum": "var tabıkı hayvan yoksa bağladıkları pshtı ordaysa lna yazardılar",
+    "cevap_id": "7710530134352364306",
+    "tarih": "2026-11-21T08:00Z"
+   },
+   {
+    "yorum_id": "7710342996172063509",
+    "kullanici": "imparator8677",
+    "yorum": "osmanli zamaninda boyle bir vergi yoktu sacmalamayin",
+    "cevap_id": "7710530452804748050",
+    "tarih": "2026-11-21T08:00Z"
+   },
+   {
+    "yorum_id": "7710342752860996373",
+    "kullanici": "imparator8677",
+    "yorum": "var hatta hasattan alinan öşür vergisi bizimkiler kuyu kazip...",
+    "cevap_id": "7710530145232880391",
+    "tarih": "2026-11-21T08:00Z"
+   },
+   {
+    "yorum_id": "7710293106130961158",
+    "kullanici": "i.i8737",
+    "yorum": "yaşlılarımızdan aynı olayı hep duydum",
+    "cevap_id": "7710530506256958215",
+    "tarih": "2026-11-21T08:00Z"
+   },
+   {
+    "yorum_id": "7710242654425039624",
+    "kullanici": "typhoon891",
+    "yorum": "imamlar her işe yarıyormuş..🤔",
+    "cevap_id": "7710530086067520264",
+    "tarih": "2026-11-21T08:00Z"
    }
   ],
-  "sinir_notu": "2026-11-20T12:36Z tarandı (15:36 İstanbul), tüm yorumlar; siyasi/gizli atlandı."
+  "sinir_notu": "2026-11-21T07:56Z tarandı (10:56 İstanbul), en yeni 25 ana yorum."
  },
  "tiktok/7710020753311206663": {
   "video": "103 Bayrak",
@@ -2151,9 +2186,40 @@
     "tarih": "2026-11-20T12:44Z"
    }
   ],
-  "sinir_notu": "2026-11-20T12:40Z tarandı (15:40 İstanbul)."
+  "sinir_notu": "2026-11-21T07:56Z tarandı; yeni cevaplanacak yorum yok."
  },
  "tiktok/7709662576329657618": {
   "sinir_notu": "2026-11-20T12:40Z tarandı (15:40 İstanbul); yeni cevaplanacak yorum yok."
+ },
+ "tiktok/7710383920994405639": {
+  "video": "107 Sumerbank",
+  "kayitlar": [
+   {
+    "yorum_id": "7710508338349769473",
+    "kullanici": "kadir_27064",
+    "yorum": "devlet aklıyla fabrika yönetilmiyor! çünkü 10 kişilik yere 30 kişi dolduruyorlar!",
+    "cevap_id": "7710529126377177908",
+    "tarih": "2026-11-21T07:57Z"
+   },
+   {
+    "yorum_id": "7710503532701909780",
+    "kullanici": "ahmetdeneme8",
+    "yorum": "Hangi işi doğru yaptık ki bunları güncelleyip rekabet edebilir hale getirmek yerine...",
+    "cevap_id": "7710529541856772884",
+    "tarih": "2026-11-21T07:57Z"
+   },
+   {
+    "yorum_id": "7710501293102531346",
+    "kullanici": "serdal831",
+    "yorum": "Sattılar",
+    "cevap_id": "7710529130907222791",
+    "tarih": "2026-11-21T07:57Z"
+   }
+  ],
+  "sinir_notu": "2026-11-21T07:52Z tarandı (10:52 İstanbul), tüm yorumlar; siyasi/gizli atlandı."
+ },
+ "tiktok/7710024796322532616": {
+  "video": "105 Ezan",
+  "sinir_notu": "2026-11-21T07:52Z tarandı; yorum yok."
  }
 }

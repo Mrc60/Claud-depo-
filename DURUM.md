@@ -327,3 +327,8 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 
 ## 20.11.2026 15:45 Sohbet oturumu (TikTok yorumları)
 - #102 Ağnam 3 cevap (sahin_celebi, isoytekinoglu, zaloglurustem8008), #103 Bayrak 1 (kahraman241), #99 Demirağ 1 (paulo66486). Hepsi isReply true, defterde.
+
+## 21.11.2026 11:00 Sohbet oturumu (TikTok yorumları)
+- #107 Sümerbank 3 cevap (kadir_27064, ahmetdeneme8, serdal831), #102 Ağnam 5 cevap (kacaktc, imparator8677 x2, i.i8737, typhoon891). Hepsi isReply true, defterde.
+- Bu sohbet bağlantısında Zernio'da sadece TikTok var (IG/FB yok).
+- NOT TEK1'e: #107 sabit yorum sorusu yfdem'in yorumuna yanıt olarak düşmüş görünüyor.
