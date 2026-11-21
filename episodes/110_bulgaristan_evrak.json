@@ -1,0 +1,552 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 110,
+ "slug": "bulgaristan_evrak",
+ "title": "Okkayla satılan arşiv",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Binark, İSAM 2000",
+  "Altay, JBLU 2017",
+  "Ünal, Fokus+ 2026",
+  "DAGM, Bulgaristan'a Satılan Evrak, 1993",
+  "Son Posta 13 ve 21 Mayıs 1931",
+  "Vakit 11 Temmuz 1932",
+  "BNR 2018"
+ ],
+ "acilis": "Osmanlı arşivi\nhurda kâğıt diye satıldı",
+ "dis_ses": {
+  "file": "assets/ses/110_bulgaristan_evrak.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     5.32
+    ]
+   ],
+   [
+    [
+     5.32,
+     11.08
+    ]
+   ],
+   [
+    [
+     11.08,
+     19.42
+    ]
+   ],
+   [
+    [
+     19.42,
+     25.02
+    ]
+   ],
+   [
+    [
+     25.02,
+     29.62
+    ]
+   ],
+   [
+    [
+     29.62,
+     36.86
+    ]
+   ],
+   [
+    [
+     36.86,
+     42.8
+    ]
+   ],
+   [
+    [
+     42.8,
+     47.44
+    ]
+   ],
+   [
+    [
+     47.44,
+     52.6
+    ]
+   ],
+   [
+    [
+     52.6,
+     57.4
+    ]
+   ],
+   [
+    [
+     57.4,
+     62.02
+    ]
+   ],
+   [
+    [
+     62.02,
+     68.91
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir devlet, kendi tarihini kiloyla satar mı? İstanbulda bu oldu.",
+   "caption": "Bir devlet, kendi tarihini kiloyla satar mı? İstanbul'da bu oldu.",
+   "key": [
+    "kiloyla"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_sonposta_araba.jpg",
+    "fit": "doldur",
+    "baslik": "Son Posta, 13 Mayıs 1931: \"Eski evrak nakledilirken\" · gazete arşivi, kamu malı",
+    "lisans": "",
+    "kaynak": "Son Posta, 13 Mayıs 1931: \"Eski evrak nakledilirken\" · gazete arşivi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 1.1,
+     "n": 2
+    },
+    {
+     "start": 1.34,
+     "end": 3.1,
+     "n": 4
+    },
+    {
+     "start": 3.1,
+     "end": 3.3,
+     "n": 1
+    },
+    {
+     "start": 3.76,
+     "end": 5.1,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Maliye, depodaki eski kâğıtlara lüzumsuz dedi ve okkası üç kuruştan sattı.",
+   "caption": "Maliye, depodaki eski kâğıtlara lüzumsuz dedi ve okkası 3 kuruştan sattı.",
+   "key": [
+    "lüzumsuz",
+    "üç"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_sonposta_depo.jpg",
+    "fit": "doldur",
+    "baslik": "Son Posta, 21 Mayıs 1931: \"Tarihimizin en kıymetli vesikaları satıldıktan sonra\" · kamu malı",
+    "lisans": "",
+    "kaynak": "Son Posta, 21 Mayıs 1931: \"Tarihimizin en kıymetli vesikaları satıldıktan sonra\" · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 5.54,
+     "end": 6.04,
+     "n": 1
+    },
+    {
+     "start": 6.18,
+     "end": 8.12,
+     "n": 4
+    },
+    {
+     "start": 8.12,
+     "end": 9.78,
+     "n": 4
+    },
+    {
+     "start": 9.78,
+     "end": 10.98,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "say": "Alıcı onları Bulgaristanda kâğıt hamuru yapacaktı. Ama o balyalarda fermanlar, vakıf kayıtları, yeniçeri defterleri vardı.",
+   "caption": "Alıcı onları Bulgaristan'da kâğıt hamuru yapacaktı. Ama o balyalarda fermanlar, vakıf kayıtları, yeniçeri defterleri vardı.",
+   "key": [
+    "fermanlar,"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_ferman_fatih.jpg",
+    "fit": "doldur",
+    "baslik": "Fatih Sultan Mehmed fermanı, 1459 (temsilî örnek) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Fatih Sultan Mehmed fermanı, 1459 (temsilî örnek) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 11.18,
+     "end": 13.12,
+     "n": 4
+    },
+    {
+     "start": 13.12,
+     "end": 14.14,
+     "n": 2
+    },
+    {
+     "start": 14.3,
+     "end": 14.9,
+     "n": 2
+    },
+    {
+     "start": 15.0,
+     "end": 16.32,
+     "n": 2
+    },
+    {
+     "start": 16.62,
+     "end": 17.5,
+     "n": 2
+    },
+    {
+     "start": 17.82,
+     "end": 19.12,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Arabalarla Sirkeciye taşınırken kâğıtlar sokağa döküldü, çocuklar toplayıp sattı.",
+   "caption": "Arabalarla Sirkeci'ye taşınırken kâğıtlar sokağa döküldü, çocuklar toplayıp sattı.",
+   "key": [
+    "sokağa"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_galata_araba.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Köprüsü'nde yük arabası, 1923 (temsilî) · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata Köprüsü'nde yük arabası, 1923 (temsilî) · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 19.72,
+     "end": 22.16,
+     "n": 4
+    },
+    {
+     "start": 22.16,
+     "end": 23.26,
+     "n": 2
+    },
+    {
+     "start": 23.48,
+     "end": 24.8,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Bir öğretmen, Muallim Cevdet, bu belgeleri alıp Başbakana mektup yazdı.",
+   "caption": "Bir öğretmen, Muallim Cevdet, bu belgeleri alıp Başbakan'a mektup yazdı.",
+   "key": [
+    "Muallim",
+    "Cevdet,"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_cevdet.jpg",
+    "fit": "doldur",
+    "baslik": "Muallim Cevdet (İnançalp) · Atatürk Kitaplığı, CC BY 4.0",
+    "lisans": "",
+    "kaynak": "Muallim Cevdet (İnançalp) · Atatürk Kitaplığı, CC BY 4.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 25.24,
+     "end": 26.0,
+     "n": 2
+    },
+    {
+     "start": 26.18,
+     "end": 26.98,
+     "n": 2
+    },
+    {
+     "start": 27.3,
+     "end": 28.92,
+     "n": 4
+    },
+    {
+     "start": 28.92,
+     "end": 29.62,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "say": "Tarihçi Fuat Köprülü ise dedi ki: Dünyada hiçbir milletin kendi tarihi belgelerini sattığı görülmemiştir.",
+   "caption": "Tarihçi Fuat Köprülü ise dedi ki: Dünyada hiçbir milletin kendi tarihi belgelerini sattığı görülmemiştir.",
+   "key": [
+    "hiçbir"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_ferman_cem.jpg",
+    "fit": "doldur",
+    "baslik": "Osmanlı fermanı, 1481 (temsilî örnek) · Topkapı Sarayı Arşivi, Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Osmanlı fermanı, 1481 (temsilî örnek) · Topkapı Sarayı Arşivi, Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 29.62,
+     "end": 31.42,
+     "n": 4
+    },
+    {
+     "start": 31.42,
+     "end": 32.28,
+     "n": 2
+    },
+    {
+     "start": 32.38,
+     "end": 34.14,
+     "n": 4
+    },
+    {
+     "start": 34.14,
+     "end": 36.56,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "Satış yasaklandı. Sorumlular için yargılama kararı da çıktı, ama kimse ceza almadı.",
+   "caption": "Satış yasaklandı. Sorumlular için yargılama kararı da çıktı, ama kimse ceza almadı.",
+   "key": [
+    "ceza"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_ayasofya_park.jpg",
+    "fit": "doldur",
+    "baslik": "Sultanahmet, 1937 · Fortepan 76187, CC BY-SA 3.0",
+    "lisans": "",
+    "kaynak": "Sultanahmet, 1937 · Fortepan 76187, CC BY-SA 3.0",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 37.16,
+     "end": 38.36,
+     "n": 2
+    },
+    {
+     "start": 38.54,
+     "end": 40.3,
+     "n": 4
+    },
+    {
+     "start": 40.3,
+     "end": 40.74,
+     "n": 2
+    },
+    {
+     "start": 41.24,
+     "end": 42.8,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "Tren ise çoktan gitmişti. Peki Bulgaristanda ne oldu?",
+   "caption": "Tren ise çoktan gitmişti. Peki Bulgaristan'da ne oldu?",
+   "key": [
+    "Bulgaristanda"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_sirkeci_sebah.jpg",
+    "fit": "doldur",
+    "baslik": "Sirkeci Garı, 1920'ler · Sébah & Joaillier, kamu malı",
+    "lisans": "",
+    "kaynak": "Sirkeci Garı, 1920'ler · Sébah & Joaillier, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 43.2,
+     "end": 44.98,
+     "n": 4
+    },
+    {
+     "start": 45.34,
+     "end": 45.64,
+     "n": 1
+    },
+    {
+     "start": 45.9,
+     "end": 46.92,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Bulgarlar değerini kısa sürede anladı, hamur yapmadı, kütüphanelerine koydu.",
+   "caption": "Bulgarlar değerini kısa sürede anladı, hamur yapmadı, kütüphanelerine koydu.",
+   "key": [
+    "anladı,"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_sofya_hava.jpg",
+    "fit": "doldur",
+    "baslik": "Sofya, havadan, 1927-1934 · Bulgar Devlet Arşivleri, kamu malı",
+    "lisans": "",
+    "kaynak": "Sofya, havadan, 1927-1934 · Bulgar Devlet Arşivleri, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 47.44,
+     "end": 49.32,
+     "n": 4
+    },
+    {
+     "start": 49.32,
+     "end": 49.68,
+     "n": 1
+    },
+    {
+     "start": 50.02,
+     "end": 50.84,
+     "n": 2
+    },
+    {
+     "start": 51.14,
+     "end": 52.5,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "say": "Geri gelen sadece 53 çuval oldu. Gerisi bugün hâlâ Sofyada.",
+   "caption": "Geri gelen sadece 53 çuval oldu. Gerisi bugün hâlâ Sofya'da.",
+   "key": [
+    "53"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_vakit_1932_cuval.jpg",
+    "fit": "doldur",
+    "baslik": "Vakit, 11 Temmuz 1932: Bulgaristan'dan geri gelen evrak gümrükte · kamu malı",
+    "lisans": "",
+    "kaynak": "Vakit, 11 Temmuz 1932: Bulgaristan'dan geri gelen evrak gümrükte · kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 52.7,
+     "end": 54.38,
+     "n": 4
+    },
+    {
+     "start": 54.38,
+     "end": 55.12,
+     "n": 2
+    },
+    {
+     "start": 55.56,
+     "end": 57.56,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "Sizce tarihini okkayla satan bir millet ne kaybeder?",
+   "caption": "Sizce tarihini okkayla satan bir millet ne kaybeder?",
+   "key": [
+    "kaybeder?"
+   ],
+   "image": {
+    "local": "assets/belgeler/110_ulufe.jpg",
+    "fit": "doldur",
+    "baslik": "Yeniçeri ulufe defteri, 1652 (temsilî örnek) · Wikimedia Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Yeniçeri ulufe defteri, 1652 (temsilî örnek) · Wikimedia Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 57.56,
+     "end": 60.14,
+     "n": 4
+    },
+    {
+     "start": 60.14,
+     "end": 61.5,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/110_galata_hamal.jpg",
+    "fit": "doldur",
+    "baslik": "Galata Köprüsü'nde hamallar, 1923 · Library of Congress, kamu malı",
+    "lisans": "",
+    "kaynak": "Galata Köprüsü'nde hamallar, 1923 · Library of Congress, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 62.02,
+     "end": 64.18,
+     "n": 3
+    },
+    {
+     "start": 64.36,
+     "end": 65.94,
+     "n": 3
+    },
+    {
+     "start": 66.36,
+     "end": 67.76,
+     "n": 4
+    },
+    {
+     "start": 67.76,
+     "end": 68.76,
+     "n": 2
+    }
+   ]
+  }
+ ]
+}
