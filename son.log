@@ -1,0 +1,29 @@
+durum: failure · 2026-11-21T15:12:48Z · episodes/111_inonu_para.json
+
+== Fotoğraflar (Wikimedia Commons) ==
+  seg 0: kendi çekimimiz assets/belgeler/111_ulus_1946_cumhuriyet.jpg
+  seg 1: kendi çekimimiz assets/belgeler/111_inonu_kirpik.jpg
+  seg 2: kendi çekimimiz assets/belgeler/111_ulus_1946.jpg
+  seg 3: kendi çekimimiz assets/belgeler/111_merkez_bankasi_1940.jpg
+  seg 4: kendi çekimimiz assets/belgeler/111_pire_bombardiman.jpg
+  seg 5: kendi çekimimiz assets/belgeler/111_pire_hava.jpg
+  seg 6: kendi çekimimiz assets/belgeler/111_5lira_1927.jpg
+  seg 7: kendi çekimimiz assets/belgeler/111_ataturk_inonu_bayar_cakmak.jpg
+  seg 8: kendi çekimimiz assets/belgeler/111_inonu_latife_ataturk.jpg
+  seg 9: kendi çekimimiz assets/belgeler/111_ankara_1937.jpg
+  seg 10: kendi çekimimiz assets/belgeler/111_kahire_konf.jpg
+Fotoğraflar tamam: 11 adet
+
+== Seslendirme (Google TTS) ==
+HATA: kapanış sahnesinde eksik: yorum daveti. Kibar bir kapanış yazın (ör. 'Peki size soruyorum, değerli izleyicilerimiz... Yorumlarda buluşalım. Takip edip beğenirseniz çok mutlu olurum.')
+Traceback (most recent call last):
+  File "/home/runner/work/Claud-depo-/Claud-depo-/run.py", line 20, in <module>
+    step("Seslendirme (Google TTS)", "tts_google.py", ep_path, build)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/Claud-depo-/Claud-depo-/run.py", line 17, in step
+    subprocess.run([py, *cmd], check=True)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/subprocess.py", line 578, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['/usr/bin/python3', 'tts_google.py', 'episodes/111_inonu_para.json', 'build/111_inonu_para']' returned non-zero exit status 1.
