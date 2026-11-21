@@ -2,7 +2,7 @@
 
 
 ## GÜNCEL (21.11.2026 akşamüstü, Hesap 1)
-- #110 Okkayla satılan arşiv: senaryo onaylı (TEK1 sesi gönderdi, 68,9 sn). Bölüm episodes/110_bulgaristan_evrak.json (12 sahne), kontrol.py bolum 0 hata 6 uyarı. Video v2 (videolar dalı, 69,7 sn): v1'de gazete/LOC görselleri sarımsı-pembe kaldı, siyah-beyaza çevrildi. Kareler panoda kontrol edildi (kamera hareketli, küçük pencere yok, karartma yok). BEKLİYOR: TEK1 video onayı -> yükleme seti + kapak.
+- #110 Okkayla satılan arşiv: senaryo onaylı (TEK1 sesi gönderdi, 68,9 sn). Bölüm episodes/110_bulgaristan_evrak.json (12 sahne), kontrol.py bolum 0 hata 6 uyarı. Video v2 (videolar dalı, 69,7 sn): v1'de gazete/LOC görselleri sarımsı-pembe kaldı, siyah-beyaza çevrildi. Kareler panoda kontrol edildi (kamera hareketli, küçük pencere yok, karartma yok). Yükleme seti arastirma/set110.txt (kontrol.py set 0 hata 8 uyarı). Kapak: 3 görsel + 5 başlık verildi, TEK1 başlık seçince ChatGPT talimatı yazılacak.
 - "Kimse ceza almadı" cümlesi eklendi: Ünal + DAGM 1993 resmî yayınındaki Konyalı yazıları (OCR ile okundu).
 
 ## GÜNCEL (21.11.2026 akşam, Hesap 1)
