@@ -60,3 +60,11 @@ Ek (tek kaynakta, kullanılırsa "anlatım" değil, ÇIKAR): Viyana seferi ordu 
 | 8 | Ferman Cem Sultan.jpg | 1481 | PD | ferman | renkli kâğıt (44) |
 Elendi: Sirkeci Garı, eski.jpg (kaynak blog), Knyazhevo 1918.jpg (yer çelişkili), 1952 01 07 Milliyet Fuat Koprulu.jpg (kişi belirsiz).
 Commons'ta bulunamadı: Son Posta 13 ve 21 Mayıs 1931, Vakit/Milliyet Mayıs 1931, Vakit 11 Temmuz 1932 (Commons'ta sadece "Cumhuriyet 1931 mayis 21.pdf" var, ilk sayfasında haber yok). İÜ ve İBB gazete arşivleri bu oturumdan açılmadı (ağ izni yok).
+
+## EK (21.11.2026, GPT raporu kontrolü, Hesap 1) — birincil gazete sayfaları (gastearsivi.com, metnini ben okudum)
+- Son Posta 13.5.1931 s.1: "Eski Evrak Hazinesi Satıldı" + fotoğraf altyazısı "Eski evrak nakledilirken". Metin: "okkası (3) kuruş (12) paraya İzzet Halim Bey ve M. Takforyan ve ortaklarına satılmıştır", "(120) balyalık bir kısım arabalarla Sirkeci istasyonuna", "Fatih devrine ... yeniçerilere ait birçok vesikalar". -> Fiyat küsuru birincil kaynakta 12 para (Binark'ın "10 para"sı hatalı); metinde yine "okkası üç kuruşa" denebilir.
+- Son Posta 21.5.1931 s.1: "Paçavra Fiatına Satılan Tarihî Vesikalar Milyonlar Değerindedir", "adi bakkal kâğıdı fiatına, yani okkası üç kuruş on iki paraya".
+- Vakit 11.7.1932 s.1: "Tarihi evrak nihayet gümrükten çıkarıldı!", "Çıkarılan tarihi evrak 997 kilo olup 53 çuval içindedir." -> 53 çuval artık 2 kaynak (Ünal + Vakit). 997 kilo birincil kaynakta.
+- Cumhuriyet 20.5.1931 s.4: sadece metin (GPT'ye göre), görsel değeri yok.
+- Görsel: gastearsivi CDN'i bu oturumdan ve GitHub Actions'tan 403 veriyor; sayfa görüntüleri TEK1'in telefondan "Sayfayı indir" ile alması gerekiyor (site günlük görüntüleme sınırı gösteriyor).
+- LOC 1923 Galata Köprüsü albüm sayfası (Commons, PD, LCCN2011649907): indirildi, kontrol.py gorsel 0 hata 0 uyarı, daha önce kullanılmamış (grep). İki baskı: üstte at arabası, altta hamallar -> 2 ayrı kırpım. GPT'nin verdiği upload bağlantısı yanlıştı (404), doğru dosya 2/28 yolunda.
