@@ -35,3 +35,19 @@
 - YÖK, "İsmet İnönü Dönemi Atatürk'e bakış (1939-1946)" tez özeti (okudum, özet)
 - Marmara Üniv., "Demokrat Parti dönemi Atatürk imajı (1950-1960)" tez özeti (okudum, özet)
 - Sinan Meydan, Sözcü 2018 (popüler, okudum, özet)
+
+## GÖRSEL KONTROLÜ (21.11.2026 17:30; 26 aday indirildi, gözle açıldı, kontrol.py gorsel + grep)
+- Elenen 10:
+  - Tekrar (6): 5lira_1927 (#71), bayar ve bayar_kirpik (#96), inonu_kirpik (#105), merkez_bankasi_1940 (#51), roosevelt_inonu_churchill (#76).
+  - Kural (4): bankalar_cad (SALT), ataturk_inonu_bayar_cakmak (kaynak tarihtarih.com blog), pire_hava (2026 "own work", şüpheli), inonu_portre (müzedeki renkli yağlı boya tablonun fotoğrafı).
+- Kullanılabilir siyah-beyaz (8):
+  - churchill_inonu (IWM 1943)
+  - kahire_konf (ABD Ordusu 1943)
+  - inonu_latife_ataturk (1924)
+  - pire_bombardiman (Nisan 1941)
+  - ulus_1946_cumhuriyet (Atatürk ve İnönü portreleri yan yana)
+  - ulus_1946 (İnönü yakın plan)
+  - inonu_aile (BYEGM, 1920'ler; konuyla bağı zayıf)
+  - ankara_1937 (DGPI; konuyla bağı zayıf)
+- Renkli (TEK1 onayı gerekir): pul_1950_secim (1950 seçim hatıra pulları) + 7 banknot (TCMB SPECIMEN damgalı, 349-385 px): e2_500tl, e3_1000tl, e3_50tl, e4_100tl, e4_10tl (İnönü'lü), e5_10tl, e5_5tl (Atatürk'lü).
+- kontrol.py uyarıları (ankara_1937 ve 042; churchill_inonu ve 078) gözle bakıldı: farklı fotoğraflar.
