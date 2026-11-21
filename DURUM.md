@@ -1,5 +1,10 @@
 # DURUM — şu anki işler (son güncelleme: 21.11.2026 01:40, Hesap 2)
 
+## GECE KONTROLÜ (21.11.2026 04:35, Hesap 1)
+- Dal birleştirmesi doğrulandı: main'de eksik iş yok, defter korunmuş (238 kayıt, çift cevap yok).
+- #107 Sümerbank: kontrol.py bolum 0 hata; araştırma notu ve kaynak tablosu repoda yok (5 iddia repoda doğrulanamadı), set107 repoda yok; senaryoda [short pause] eksik (ses zaten alındı). Kapanış sorusu özelleştirme nedeniyle siyasi yoruma açık.
+- TEK1'İN BEKLEYEN KARARLARI: #108 senaryo onayı; #104 senaryo; #102 yorum taslakları; #107 kaynak notunun repoya yazılması; #96/#97/#98 kapanış; #94; #88; #85; #84; DIZIN.md; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
+
 ## GÜNCEL (21.11.2026 03:00, Hesap 1)
 - #108 "Atatürk hangi takımı tutuyordu?" TEK1 seçti (yetki verdi, sabah bakacak). Araştırma + senaryo + 12 görsel hazır: arastirma/108_ataturk_takim.md (özet, iddia-kaynak tablosu, görsel planı), arastirma/108_ataturk_takim_senaryo.txt (116 kelime, ~68 sn, kontrol.py metin 0 hata), assets/belgeler/108_*.jpg. BEKLİYOR: TEK1 senaryo onayı -> ses (ElevenLabs, TEK1) -> transkript -> bölüm JSON -> video.
 

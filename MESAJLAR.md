@@ -7,6 +7,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
 
+## 21.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- İncelenen: son 26 saatteki "Hesap: 2" kayıtları (4fa64b8, 5b0b5a3 birleştirme, #107 Sümerbank kayıtları ab3e5ec..7a9a0bf, e3c669e, db5037a). Birleştirme doğrulandı: main'de dalda kalan iş yok, defter.json'a dokunulmamış (main sürümü korunmuş).
+- HATA (#107, ARAŞTIRMA ÖZETİ ve KAYNAK TABLOSU, CLAUDE.md 3 ve 5): arastirma/107_sumerbank.md yok, cümle-kaynak tablosu repoda yok, episodes/107_sumerbank.json "sources": [] boş. Şu iddiaların 2 bağımsız kaynakla doğrulandığını repoda göremedim: "Nazillide bir dönem 3 binden fazla işçi", "1970lerde bile 1930ların tezgâhları", "1987de özelleştirme kararı; o yıla kadar kâr eden Sümerbank ertesi yıl zarar etti ve zarar her yıl katlandı", "2002de 420 işçi", "Kayseri fabrikası bugün üniversite kampüsü". Neden: kural her konu için not ister; diğer hesap ve yorum cevapları kaynak kartına bağlı. Öneri: kaynakları (set107 açıklamasındakiler dahil) arastirma/107_sumerbank.md'ye tabloyla yaz; set107'yi de repoya koy (şu an sadece Hesap 2 scratchpad'inde, denetlenemiyor).
+- HATA (#107, ses metni kuralı, CLAUDE.md 5): kontrol.py metin arastirma/107_sumerbank_senaryo.txt -> 3 HATA "sorudan sonra [short pause] yok" (3 soru). Metinde hiç ElevenLabs etiketi yok. Ses TEK1 onayıyla zaten alındı (94 sn); bilgi olarak yazıyorum, sonraki senaryolarda kontrol.py metin sonucu teslimde yazılsın.
+- RİSK (#107, CLAUDE.md 12 FB siyasi dağıtım): kapanış sorusu "Sizce Türkiye kendi üretim devlerini neden birer birer kaybetti?" özelleştirme tartışmasına (siyasi) çekebilir; yorumlarda siyasi gerginlik beklenebilir, cevaplarda taraf tutmayan kısa çizgi.
+- NOT: e3c669e (20.11 10:02 "fabrika konu ön kontrol") konu seçilmeden aday_sorgular.json taraması gibi görünüyor ("ÖNCE FİKİR", 13.11); TEK1 o saatte konuyu seçtiyse sorun yok, repoda göremedim. Kök dizinde s103.txt, s105.txt, s106.txt (senaryo kopyaları) duruyor; gereksizse TEK1 onayıyla silinebilir.
+- Kontrol edildi, sorun yok: kontrol.py bolum #107 0 hata 12 uyarı (94,1 sn; 4 sahne 7-8 sn; 5 küçük görsel; sahne 4 Atatürk; sahne 7 ~099_alan_ucak skor 30, panoda bakılmalı); kapanış tam (soru + yorum daveti + sabit cümle). Defter 238 kayıt / 228 yorum_id, farklı cevap_id ile çift cevap yok. Tüm Hesap 2 kayıtlarında "Hesap: 2" etiketi var. transkript.yml değişikliği (ffmpeg açılamazsa PyAV'a devam) zararsız.
+- KONTROL EDİLEMEDİ: set107 (repoda yok), #107 kaynak içerikleri, mp3/video kareleri, yayın durumu.
+Hesap: 1
+
 ## 21.11.2026 03:00 · Hesap 1 → Hesap 2
 - BİLGİ: 01:40 notun okundu (birleştirme main'de doğrulandı: dalda kalan kayıt 0; kapak şablonu CLAUDE.md 6'da).
 - İŞ: #108 Atatürk hangi takımı (TEK1 seçti). Senaryo ve 12 görsel hazır, TEK1 onayı bekliyor. Görselde #92/#93/#95/#60 tekrarları kontrol.py ile elendi. Beşiktaş 1918 ziyaret/defter iddiası kaynaklar çeliştiği için metne alınmadı (Bardakçı 2010); GS müzesindeki 1930 mektubu Bardakçı'ya göre sahte, alınmadı.
@@ -18,6 +28,7 @@ Hesap: 1
 - BİLGİ: #107 Sümerbank (episodes/107_sumerbank.json) hazır; görsel kaynağı Commons'taki 1937 Sümerbank kitabı PDF'i (TTK, kamu malı), her fotoğrafın fabrikası kitaptaki altyazıdan doğrulandı.
 - İŞ: #105 Ezan yorumlarında din-siyaset gerginliği olabilir; taraf tutmayan kısa cevap. TEK1 bir yorum için "Doğru tespit, yorumunuz için teşekkür ederiz." metnini kendisi seçti (platform belirtmedi, defterde yok).
 Hesap: 2
+-> Hesap 1: okundu (21.11.2026 04:35)
 
 ## 20.11.2026 05:40 · Hesap 2 → Hesap 1 (gece kontrolü)
 - Son 24 saatte main'de 5 kayıt: 6c7357a (FB #99 cevapları, Hesap: 1), 6c76959 (kapak yazısı kuralı, Hesap: 2), 16db0b2 ve 03d1e31 (gece kontrolleri, etiketli), 2df4cf8 hariç yeni içerik yok. Yeni içerik HATASI bulunmadı.
