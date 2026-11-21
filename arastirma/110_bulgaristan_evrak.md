@@ -73,3 +73,25 @@ Commons'ta bulunamadı: Son Posta 13 ve 21 Mayıs 1931, Vakit/Milliyet Mayıs 19
 - 3 gazete fotoğrafı kırpıldı (kontrol.py gorsel 0 hata 0 uyarı): 110_sonposta_araba.jpg (Son Posta 13.5.1931 s.1, "Eski evrak nakledilirken", 591x371), 110_sonposta_depo.jpg (Son Posta 21.5.1931 s.1, "Tarihimizin en kıymetli vesikaları satıldıktan sonra", 567x392), 110_vakit_1932_cuval.jpg (Vakit 11.7.1932 s.1, geri gelen çuvallar kamyonda, 745x505). Kaynak: gastearsivi.com sayfa görüntüleri. Lisans: 1931-32 Türk gazetesi, fotoğrafçı belirtilmemiş; Commons aynı dönem gazeteleri "PD Tr" ile tutuyor (kesin hukuki görüş değil). Hepsi küçük çözünürlük, ekranda yumuşak görünebilir.
 - LOC albüm sayfasından 2 kırpım: 110_galata_araba.jpg, 110_galata_hamal.jpg (1923, PD, 0 hata).
 - Toplam kullanılabilir görsel: 13 (Commons 8 + gazete 3 + LOC 2). ~65 sn'ye yeter.
+
+## SENARYO (taslak, TEK1 onayı bekliyor): arastirma/110_bulgaristan_evrak_senaryo.txt — 122 kelime, kontrol.py metin 0 hata 0 uyarı, ~72 sn
+### Cümle - kaynak tablosu
+| Cümle | Kaynak | Kaynaktaki ifade |
+|---|---|---|
+| Bir devlet, kendi tarihini kiloyla satar mı? | anlatım | — |
+| Maliye, depodaki eski kâğıtlara lüzumsuz dedi ve okkası üç kuruştan sattı. | Son Posta 13.5.1931; Ünal; Binark | "Maliye Vekâleti ... eski kâğıt ve defterlerin satılmasına karar vermiştir ... okkası (3) kuruş (12) paraya"; "'lüzumsuz' görülerek" |
+| Alıcı onları Bulgaristanda kâğıt hamuru yapacaktı. | Binark; BNR; Altay | "kağıt fabrikalarında hamur haline getirilmek maksadıyla Bulgaristan'a"; "for melting" |
+| O balyalarda fermanlar, vakıf kayıtları, yeniçeri defterleri vardı. | Son Posta 13.5.1931; Ünal; Binark (Vakit 30.5.1931) | "yeniçerilere ait birçok vesikalar ... ulufename"; "Sultan fermanları, vakıf kayıtları, tımar defterleri"; "2 bin vakfiye ... fermanlar" |
+| Arabalarla Sirkeciye taşınırken kâğıtlar sokağa döküldü, çocuklar toplayıp sattı. | Son Posta (Ünal'ın alıntısı); Binark | "25-30 kadar araba ... Sirkeci İstasyonu'na ... sokaklara dökülüp saçılıyordu"; "çocuklar tarafından toplanmış"; Cevdet: "iki sokak çocuğu toplamış ... yirmi kuruşa satmıştır" |
+| Bir öğretmen, Muallim Cevdet, bu belgeleri alıp Başbakana mektup yazdı. | Ünal; Binark; Altay | "Erkek Muallim Mektebi hocası ... Başvekil İsmet İnönü'ye ... 17 Mayıs 1931 ... mektup"; "reached up to the period's Prime Minister" |
+| Köprülü: "Dünyada hiçbir milletin kendi tarihi belgelerini sattığı görülmemiştir." | Binark (Milliyet 20.5.1931); Ünal | "Dünyada hiçbir milletin kendi tarihî vesikalarını sattığı görülmemiştir." (ses metninde "vesika" -> "belge" sadeleştirildi) |
+| Satış yasaklandı. | Binark (genelge metni 26.5.1931); Ünal; Altay | "hiçbir bahane ile ve hiçbir suretle ziyana uğramalarına meydan verilmemesi"; "the sale was halted with a circular" |
+| Ama tren çoktan gitmişti. | anlatım (Ünal: "Arşivin çoktan Bulgaristan'a gönderildiğini öğrenen") | — |
+| Bulgarlar değerini kısa sürede anladı, hamur yapmadı, kütüphanelerine koydu. | Ünal; BNR; Binark; Altay | "komisyon incelemelerini üç dört gün içerisinde tamamladığı"; "directed to the National Library"; "Cyril ve Methodius Kütüphanesi'nin Şarkiyat Şubesi'nde muhafaza altına" |
+| Geri gelen sadece 53 çuval oldu. | Vakit 11.7.1932; Ünal; Altay | "997 kilo olup 53 çuval"; "18 sandık içerisindeki 53 çuval"; "returned very few" |
+| Gerisi bugün hâlâ Sofyada. | Altay; BNR | "Most of the Ottoman Archive records were not returned"; "third largest in the world" |
+| Kapanış soru + sabit cümleler | anlatım | — |
+
+### Görsel planı (13 görsel, hepsi siyah-beyaz)
+1 soru: 110_sonposta_araba (1931 yükleme) | 2 Maliye, depo: 110_ayasofya_park (Sultanahmet 1937) -> 110_sonposta_depo | 3 hamur: 110_galata_hamal | 4 fermanlar/defterler: 110_ferman_fatih -> 110_ferman_cem -> 110_ulufe | 5 Sirkeci: 110_galata_araba -> 110_sirkeci_sebah | 6 Muallim Cevdet: 110_cevdet | 7 Köprülü sözü: 110_halil_edhem? (HAYIR, Halil Edhem mektubu götüren mebus; Köprülü'nün uygun fotoğrafı yok) -> sözü 110_sonposta_depo üstünde altyazıyla ver | 8 Bulgaristan: 110_sofya_hava | 9 53 çuval: 110_vakit_1932_cuval.
+Not: Halil Edhem senaryoda geçmiyor; kullanılmayacak. Fiili sayı 12.
