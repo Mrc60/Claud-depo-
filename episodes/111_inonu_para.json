@@ -43,24 +43,24 @@
    [
     [
      25.12,
-     31.51
+     34.36
     ]
    ],
    [
     [
-     31.51,
-     38.4
+     34.36,
+     41.32
     ]
    ],
    [
     [
-     38.4,
-     45.65
+     41.32,
+     47.59
     ]
    ],
    [
     [
-     45.65,
+     47.59,
      52.82
     ]
    ],
@@ -92,13 +92,13 @@
     "Atatürk"
    ],
    "image": {
-    "local": "assets/belgeler/111_ulus_1946_cumhuriyet.jpg",
+    "local": "assets/belgeler/111_k_e2_ataturk_1000.jpg",
     "fit": "doldur",
-    "baslik": "Ulus, 29 Ekim 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "baslik": "Atatürk portreli 1000 lira, 1938 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "Ulus, 29 Ekim 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "kaynak": "Atatürk portreli 1000 lira, 1938 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
@@ -121,13 +121,13 @@
     "İnönü'nün"
    ],
    "image": {
-    "local": "assets/belgeler/111_inonu_kirpik.jpg",
+    "local": "assets/belgeler/111_k_e4_100tl.jpg",
     "fit": "doldur",
-    "baslik": "İsmet İnönü, 1938 · Cumhurbaşkanlığı resmî fotoğrafı, kamu malı",
+    "baslik": "İnönü portreli 100 lira, 1947 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "İsmet İnönü, 1938 · Cumhurbaşkanlığı resmî fotoğrafı, kamu malı",
+    "kaynak": "İnönü portreli 100 lira, 1947 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
@@ -150,11 +150,11 @@
     "1940'ta"
    ],
    "image": {
-    "local": "assets/belgeler/111_ulus_1946.jpg",
+    "local": "assets/belgeler/111_inonu_kirpik.jpg",
     "fit": "doldur",
-    "baslik": "Ulus, 1 Ağustos 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "baslik": "İsmet İnönü, 1938 · Cumhurbaşkanlığı resmî fotoğrafı",
     "lisans": "",
-    "kaynak": "Ulus, 1 Ağustos 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "kaynak": "İsmet İnönü, 1938 · Cumhurbaşkanlığı resmî fotoğrafı",
     "sayfa": "",
     "hiz": 1.0
    },
@@ -179,13 +179,13 @@
     "İnönü"
    ],
    "image": {
-    "local": "assets/belgeler/111_merkez_bankasi_1940.jpg",
+    "local": "assets/belgeler/111_k_e2_inonu_1000.jpg",
     "fit": "doldur",
-    "baslik": "Merkez Bankası, Ankara, 1940'lar · DGPI, kısıtlama yok",
+    "baslik": "İnönü portreli 1000 lira, 1940 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "Merkez Bankası, Ankara, 1940'lar · DGPI, kısıtlama yok",
+    "kaynak": "İnönü portreli 1000 lira, 1940 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
@@ -202,8 +202,8 @@
    ]
   },
   {
-   "say": "İngilterede basılan İnönü portreli paraları taşıyan gemi, Yunanistanın Pire Limanında saldırıya uğradı.",
-   "caption": "İngiltere'de basılan İnönü portreli paraları taşıyan gemi, Yunanistan'ın Pire Limanı'nda saldırıya uğradı.",
+   "say": "İngilterede basılan İnönü portreli paraları taşıyan gemi, Yunanistanın Pire Limanında saldırıya uğradı. Bu paralar hiçbir zaman piyasaya çıkamadı.",
+   "caption": "İngiltere'de basılan İnönü portreli paraları taşıyan gemi, Yunanistan'ın Pire Limanı'nda saldırıya uğradı. Bu paralar hiçbir zaman piyasaya çıkamadı.",
    "key": [
     "Pire"
    ],
@@ -222,84 +222,89 @@
      "start": 25.33,
      "end": 31.29,
      "n": 12
-    }
-   ]
-  },
-  {
-   "say": "Bu paralar hiçbir zaman piyasaya çıkamadı. Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı.",
-   "caption": "Bu paralar hiçbir zaman piyasaya çıkamadı. Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı.",
-   "key": [
-    "çıkamadı."
-   ],
-   "image": {
-    "local": "assets/belgeler/111_pire_hava.jpg",
-    "fit": "doldur",
-    "baslik": "Pire Limanı bombardımanı, 1941 · Commons",
-    "lisans": "",
-    "kaynak": "Pire Limanı bombardımanı, 1941 · Commons",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo",
-   "bolumler": [
+    },
     {
      "start": 31.73,
      "end": 34.18,
      "n": 6
-    },
+    }
+   ]
+  },
+  {
+   "say": "Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı. 5, 10 ve 50 liralık banknotlar",
+   "caption": "Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı. 5, 10 ve 50 liralık banknotlar",
+   "key": [
+    "Atatürk"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_k_e2_50tl.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk portreli 50 lira, 1938 · TCMB örnek banknot",
+    "lisans": "",
+    "kaynak": "Atatürk portreli 50 lira, 1938 · TCMB örnek banknot",
+    "sayfa": "",
+    "hiz": 0
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 34.54,
      "end": 38.26,
      "n": 8
+    },
+    {
+     "start": 38.54,
+     "end": 41.17,
+     "n": 6
     }
    ]
   },
   {
-   "say": "5, 10 ve 50 liralık banknotlar 1952ye kadar insanların cebinde dolaşmaya devam etti.",
-   "caption": "5, 10 ve 50 liralık banknotlar 1952'ye kadar insanların cebinde dolaşmaya devam etti.",
+   "say": "1952ye kadar insanların cebinde dolaşmaya devam etti. Sonra değişim başladı.",
+   "caption": "1952'ye kadar insanların cebinde dolaşmaya devam etti. Sonra değişim başladı.",
    "key": [
     "1952'ye"
    ],
    "image": {
-    "local": "assets/belgeler/111_5lira_1927.jpg",
+    "local": "assets/belgeler/111_k_e2_10tl.jpg",
     "fit": "doldur",
-    "baslik": "1927 tarihli 5 lira · TCMB, kamu malı",
+    "baslik": "Atatürk portreli 10 lira, 1938 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "1927 tarihli 5 lira · TCMB, kamu malı",
+    "kaynak": "Atatürk portreli 10 lira, 1938 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
     {
-     "start": 38.54,
+     "start": 41.46,
      "end": 45.46,
-     "n": 13
-    }
-   ]
-  },
-  {
-   "say": "Sonra değişim başladı. 1 Aralık 1951de İnönü portreli 50 lira tedavülden kaldırıldı.",
-   "caption": "Sonra değişim başladı. 1 Aralık 1951'de İnönü portreli 50 lira tedavülden kaldırıldı.",
-   "key": [
-    "1951'de"
-   ],
-   "image": {
-    "local": "assets/belgeler/111_ataturk_inonu_bayar_cakmak.jpg",
-    "fit": "doldur",
-    "baslik": "Atatürk, İnönü, Bayar ve Çakmak · Commons, kamu malı",
-    "lisans": "",
-    "kaynak": "Atatürk, İnönü, Bayar ve Çakmak · Commons, kamu malı",
-    "sayfa": "",
-    "hiz": 1.0
-   },
-   "scene": "photo",
-   "bolumler": [
+     "n": 7
+    },
     {
      "start": 45.84,
      "end": 47.41,
      "n": 3
-    },
+    }
+   ]
+  },
+  {
+   "say": "1 Aralık 1951de İnönü portreli 50 lira tedavülden kaldırıldı.",
+   "caption": "1 Aralık 1951'de İnönü portreli 50 lira tedavülden kaldırıldı.",
+   "key": [
+    "1951'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_k_e3_50tl.jpg",
+    "fit": "doldur",
+    "baslik": "İnönü portreli 50 lira, 1942 · TCMB örnek banknot",
+    "lisans": "",
+    "kaynak": "İnönü portreli 50 lira, 1942 · TCMB örnek banknot",
+    "sayfa": "",
+    "hiz": 0
+   },
+   "scene": "photo",
+   "bolumler": [
     {
      "start": 47.77,
      "end": 52.62,
@@ -314,13 +319,13 @@
     "Atatürk"
    ],
    "image": {
-    "local": "assets/belgeler/111_inonu_latife_ataturk.jpg",
+    "local": "assets/belgeler/111_k_e5_50tl.jpg",
     "fit": "doldur",
-    "baslik": "İnönü, Latife Hanım ve Atatürk, 1924 · Commons, kamu malı",
+    "baslik": "Atatürk portreli 50 lira, 1 Aralık 1951 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "İnönü, Latife Hanım ve Atatürk, 1924 · Commons, kamu malı",
+    "kaynak": "Atatürk portreli 50 lira, 1 Aralık 1951 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
@@ -343,13 +348,13 @@
     "Atatürk"
    ],
    "image": {
-    "local": "assets/belgeler/111_ankara_1937.jpg",
+    "local": "assets/belgeler/111_k_e5_500tl.jpg",
     "fit": "doldur",
-    "baslik": "Ankara Kalesi'nden şehir, 1937 · DGPI, kısıtlama yok",
+    "baslik": "Atatürk portreli 500 lira, 1953 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "Ankara Kalesi'nden şehir, 1937 · DGPI, kısıtlama yok",
+    "kaynak": "Atatürk portreli 500 lira, 1953 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
@@ -372,13 +377,13 @@
     "gördünüz"
    ],
    "image": {
-    "local": "assets/belgeler/111_kahire_konf.jpg",
+    "local": "assets/belgeler/111_k_e3_1000tl.jpg",
     "fit": "doldur",
-    "baslik": "İnönü, Kahire Konferansı, 1943 · ABD Ordusu, kamu malı",
+    "baslik": "İnönü portreli 1000 lira, 1946 · TCMB örnek banknot",
     "lisans": "",
-    "kaynak": "İnönü, Kahire Konferansı, 1943 · ABD Ordusu, kamu malı",
+    "kaynak": "İnönü portreli 1000 lira, 1946 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 1.0
+    "hiz": 0
    },
    "scene": "photo",
    "bolumler": [
@@ -395,5 +400,6 @@
    ]
   }
  ],
- "kapanis_kontrol_atla": true
+ "kapanis_kontrol_atla": true,
+ "surum": 2
 }
