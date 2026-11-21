@@ -1,10 +1,12 @@
 [serious] Cebinizdeki paranın üzerinde hep Atatürk mü vardı? [short pause]
-[calm] Hayır. 1940larda yeni paralarda İsmet İnönü vardı.
-[thoughtful] Atatürk 1938de vefat etti, İnönü cumhurbaşkanı oldu. 1940ta 500 ve 1000 liralıklar onun resmiyle yeniden basıldı.
-[serious] 1942den sonra çıkan paraların hepsinde artık İnönü vardı.
-[thoughtful] Savaş yıllarıydı. İngilterede basılan İnönülü paraları taşıyan gemi, Yunanistanın Pire Limanında saldırıya uğradı. Paralar hiç piyasaya çıkamadı.
-[calm] Ama Atatürklü eski paralar da ortadan kalkmadı. 5, 10 ve 50 liralıklar 1952ye kadar ceplerde dolaştı.
-[serious] Sonra her şey değişti. 1 Aralık 1951de İnönülü 50 lira tedavülden kalktı. Aynı gün yerine Atatürklü 50 lira çıktı.
-[thoughtful] 1953te son İnönülü paralar da çekildi. Bugün bütün banknotlarımızın ön yüzünde Atatürk var.
-[thoughtful] Siz hiç İnönülü eski bir para gördünüz mü? [short pause]
+[calm] Hayır. Bir dönem Türk paralarında İsmet İnönünün portresi vardı.
+[thoughtful] Atatürk, 1938de hayatını kaybetti. İnönü cumhurbaşkanı oldu. 1940ta 500 ve 1000 liralık banknotlar onun portresiyle yeniden basıldı.
+[serious] 1942den sonra çıkarılan banknotların tamamında artık İnönü vardı.
+[short pause]
+[serious] İngilterede basılan İnönü portreli paraları taşıyan gemi, Yunanistanın Pire Limanında saldırıya uğradı. Bu paralar hiçbir zaman piyasaya çıkamadı.
+[calm] Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı. 5, 10 ve 50 liralık banknotlar 1952ye kadar insanların cebinde dolaşmaya devam etti.
+[serious] Sonra değişim başladı. 1 Aralık 1951de İnönü portreli 50 lira tedavülden kaldırıldı. Aynı gün Atatürk portreli 50 lira dolaşıma girdi.
+[thoughtful] 1953te ise son İnönü portreli banknotlar da çekildi. Bugün bütün banknotlarımızın ön yüzünde Atatürk var.
+[short pause]
+[thoughtful] Peki, siz hiç İnönü portreli eski bir banknot gördünüz mü? [short pause]
 [calm] Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.
