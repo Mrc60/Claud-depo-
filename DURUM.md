@@ -1,4 +1,9 @@
-# DURUM — şu anki işler (son güncelleme: 21.11.2026 05:30, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 21.11.2026, Hesap 1)
+
+
+## GÜNCEL (21.11.2026 gündüz, Hesap 1)
+- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. TEK1'in senaryo onayı bekleniyor.
+- #108: TEK1 senaryoyu aldı, ses bekleniyor. Hesap 2'nin uyarısı (Fenerbahçe 1918 ziyareti cümlesi sadece popüler basın) TEK1'e iletildi, karar onun.
 
 ## GECE KONTROLÜ (21.11.2026 05:30, Hesap 2)
 - #108 araştırma/senaryo/görsel kontrolü: kontrol.py metin ve gorsel 0 hata. Uyarılar: Fenerbahçe 1918 ziyareti cümlesi sadece popüler basına dayanıyor; 6 görselde doygunluk >20 (sepya mı renkli mi, panoda bakılmalı). c36ae82 kaydında "Hesap: N" etiketi yok. Defterde çift cevap yok (238 kayıt). Ayrıntı MESAJLAR 21.11 05:30.
