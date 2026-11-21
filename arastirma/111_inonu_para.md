@@ -51,3 +51,7 @@
   - ankara_1937 (DGPI; konuyla bağı zayıf)
 - Renkli (TEK1 onayı gerekir): pul_1950_secim (1950 seçim hatıra pulları) + 7 banknot (TCMB SPECIMEN damgalı, 349-385 px): e2_500tl, e3_1000tl, e3_50tl, e4_100tl, e4_10tl (İnönü'lü), e5_10tl, e5_5tl (Atatürk'lü).
 - kontrol.py uyarıları (ankara_1937 ve 042; churchill_inonu ve 078) gözle bakıldı: farklı fotoğraflar.
+
+## TEK1 KARARI (21.11.2026 17:28)
+- "10 ve 2 kullanma, diğerlerini kullan": elenen listeden inonu_portre (tablo) ve bayar çıkarıldı; tekrar olanlar (5lira_1927, bayar_kirpik, inonu_kirpik, merkez_bankasi_1940, roosevelt_inonu_churchill), blog kaynaklı ataturk_inonu_bayar_cakmak ve şüpheli pire_hava TEK1 onayıyla kullanılabilir. bankalar_cad (SALT, ticari kullanım yasak) için lisans riski TEK1'e ayrıca soruldu.
+- Senaryo taslağı: arastirma/111_inonu_para_senaryo.txt (123 kelime, ~72 sn, kontrol.py 0 hata). TEK1 onayı bekleniyor.
