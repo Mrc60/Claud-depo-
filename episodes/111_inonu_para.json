@@ -1,0 +1,398 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 111,
+ "slug": "inonu_para",
+ "title": "Paralarda İnönü",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "TCMB Sanal Müze, banknot serileri",
+  "TCMB, Cumhuriyet Dönemi Banknotları",
+  "Öksüz, Tarih Dergisi 81 (2023)"
+ ],
+ "acilis": "Paralarda hep\nAtatürk mü vardı?",
+ "dis_ses": {
+  "file": "assets/ses/111_inonu_para.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     4.51
+    ]
+   ],
+   [
+    [
+     4.51,
+     12.0
+    ]
+   ],
+   [
+    [
+     12.0,
+     17.62
+    ]
+   ],
+   [
+    [
+     17.62,
+     25.12
+    ]
+   ],
+   [
+    [
+     25.12,
+     31.51
+    ]
+   ],
+   [
+    [
+     31.51,
+     38.4
+    ]
+   ],
+   [
+    [
+     38.4,
+     45.65
+    ]
+   ],
+   [
+    [
+     45.65,
+     52.82
+    ]
+   ],
+   [
+    [
+     52.82,
+     58.3
+    ]
+   ],
+   [
+    [
+     58.3,
+     64.85
+    ]
+   ],
+   [
+    [
+     64.85,
+     72.5
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Cebinizdeki paranın üzerinde hep Atatürk mü vardı? Hayır.",
+   "caption": "Cebinizdeki paranın üzerinde hep Atatürk mü vardı? Hayır.",
+   "key": [
+    "Atatürk"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_ulus_1946_cumhuriyet.jpg",
+    "fit": "doldur",
+    "baslik": "Ulus, 29 Ekim 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "lisans": "",
+    "kaynak": "Ulus, 29 Ekim 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0,
+     "end": 3.28,
+     "n": 7
+    },
+    {
+     "start": 3.92,
+     "end": 4.33,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Bir dönem Türk paralarında İsmet İnönünün portresi vardı. Atatürk, 1938de hayatını kaybetti.",
+   "caption": "Bir dönem Türk paralarında İsmet İnönü'nün portresi vardı. Atatürk, 1938'de hayatını kaybetti.",
+   "key": [
+    "İnönü'nün"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_inonu_kirpik.jpg",
+    "fit": "doldur",
+    "baslik": "İsmet İnönü, 1938 · Cumhurbaşkanlığı resmî fotoğrafı, kamu malı",
+    "lisans": "",
+    "kaynak": "İsmet İnönü, 1938 · Cumhurbaşkanlığı resmî fotoğrafı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 4.69,
+     "end": 8.27,
+     "n": 8
+    },
+    {
+     "start": 8.74,
+     "end": 11.77,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "İnönü cumhurbaşkanı oldu. 1940ta 500 ve 1000 liralık banknotlar",
+   "caption": "İnönü cumhurbaşkanı oldu. 1940'ta 500 ve 1000 liralık banknotlar",
+   "key": [
+    "1940'ta"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_ulus_1946.jpg",
+    "fit": "doldur",
+    "baslik": "Ulus, 1 Ağustos 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "lisans": "",
+    "kaynak": "Ulus, 1 Ağustos 1946 · İBB Atatürk Kitaplığı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 12.22,
+     "end": 13.7,
+     "n": 3
+    },
+    {
+     "start": 14.13,
+     "end": 17.62,
+     "n": 6
+    }
+   ]
+  },
+  {
+   "say": "onun portresiyle yeniden basıldı. 1942den sonra çıkarılan banknotların tamamında artık İnönü vardı.",
+   "caption": "onun portresiyle yeniden basıldı. 1942'den sonra çıkarılan banknotların tamamında artık İnönü vardı.",
+   "key": [
+    "İnönü"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_merkez_bankasi_1940.jpg",
+    "fit": "doldur",
+    "baslik": "Merkez Bankası, Ankara, 1940'lar · DGPI, kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Merkez Bankası, Ankara, 1940'lar · DGPI, kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 17.62,
+     "end": 19.63,
+     "n": 4
+    },
+    {
+     "start": 20.0,
+     "end": 24.91,
+     "n": 8
+    }
+   ]
+  },
+  {
+   "say": "İngilterede basılan İnönü portreli paraları taşıyan gemi, Yunanistanın Pire Limanında saldırıya uğradı.",
+   "caption": "İngiltere'de basılan İnönü portreli paraları taşıyan gemi, Yunanistan'ın Pire Limanı'nda saldırıya uğradı.",
+   "key": [
+    "Pire"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_pire_bombardiman.jpg",
+    "fit": "doldur",
+    "baslik": "Pire Limanı, Nisan 1941 · Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Pire Limanı, Nisan 1941 · Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 25.33,
+     "end": 31.29,
+     "n": 12
+    }
+   ]
+  },
+  {
+   "say": "Bu paralar hiçbir zaman piyasaya çıkamadı. Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı.",
+   "caption": "Bu paralar hiçbir zaman piyasaya çıkamadı. Ancak Atatürk portreli eski paralar da dolaşımdan kaybolmadı.",
+   "key": [
+    "çıkamadı."
+   ],
+   "image": {
+    "local": "assets/belgeler/111_pire_hava.jpg",
+    "fit": "doldur",
+    "baslik": "Pire Limanı bombardımanı, 1941 · Commons",
+    "lisans": "",
+    "kaynak": "Pire Limanı bombardımanı, 1941 · Commons",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 31.73,
+     "end": 34.18,
+     "n": 6
+    },
+    {
+     "start": 34.54,
+     "end": 38.26,
+     "n": 8
+    }
+   ]
+  },
+  {
+   "say": "5, 10 ve 50 liralık banknotlar 1952ye kadar insanların cebinde dolaşmaya devam etti.",
+   "caption": "5, 10 ve 50 liralık banknotlar 1952'ye kadar insanların cebinde dolaşmaya devam etti.",
+   "key": [
+    "1952'ye"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_5lira_1927.jpg",
+    "fit": "doldur",
+    "baslik": "1927 tarihli 5 lira · TCMB, kamu malı",
+    "lisans": "",
+    "kaynak": "1927 tarihli 5 lira · TCMB, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 38.54,
+     "end": 45.46,
+     "n": 13
+    }
+   ]
+  },
+  {
+   "say": "Sonra değişim başladı. 1 Aralık 1951de İnönü portreli 50 lira tedavülden kaldırıldı.",
+   "caption": "Sonra değişim başladı. 1 Aralık 1951'de İnönü portreli 50 lira tedavülden kaldırıldı.",
+   "key": [
+    "1951'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_ataturk_inonu_bayar_cakmak.jpg",
+    "fit": "doldur",
+    "baslik": "Atatürk, İnönü, Bayar ve Çakmak · Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Atatürk, İnönü, Bayar ve Çakmak · Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 45.84,
+     "end": 47.41,
+     "n": 3
+    },
+    {
+     "start": 47.77,
+     "end": 52.62,
+     "n": 9
+    }
+   ]
+  },
+  {
+   "say": "Aynı gün Atatürk portreli 50 lira dolaşıma girdi. 1953te ise",
+   "caption": "Aynı gün Atatürk portreli 50 lira dolaşıma girdi. 1953'te ise",
+   "key": [
+    "Atatürk"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_inonu_latife_ataturk.jpg",
+    "fit": "doldur",
+    "baslik": "İnönü, Latife Hanım ve Atatürk, 1924 · Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "İnönü, Latife Hanım ve Atatürk, 1924 · Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 53.02,
+     "end": 56.24,
+     "n": 8
+    },
+    {
+     "start": 56.32,
+     "end": 58.3,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "say": "son İnönü portreli banknotlar da çekildi. Bugün bütün banknotlarımızın ön yüzünde Atatürk var.",
+   "caption": "son İnönü portreli banknotlar da çekildi. Bugün bütün banknotlarımızın ön yüzünde Atatürk var.",
+   "key": [
+    "Atatürk"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_ankara_1937.jpg",
+    "fit": "doldur",
+    "baslik": "Ankara Kalesi'nden şehir, 1937 · DGPI, kısıtlama yok",
+    "lisans": "",
+    "kaynak": "Ankara Kalesi'nden şehir, 1937 · DGPI, kısıtlama yok",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 58.3,
+     "end": 60.76,
+     "n": 6
+    },
+    {
+     "start": 61.16,
+     "end": 64.66,
+     "n": 7
+    }
+   ]
+  },
+  {
+   "say": "Peki, siz hiç İnönü portreli eski bir banknot gördünüz mü? Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki, siz hiç İnönü portreli eski bir banknot gördünüz mü? Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [
+    "gördünüz"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_kahire_konf.jpg",
+    "fit": "doldur",
+    "baslik": "İnönü, Kahire Konferansı, 1943 · ABD Ordusu, kamu malı",
+    "lisans": "",
+    "kaynak": "İnönü, Kahire Konferansı, 1943 · ABD Ordusu, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 65.04,
+     "end": 68.98,
+     "n": 10
+    },
+    {
+     "start": 69.39,
+     "end": 72.24,
+     "n": 6
+    }
+   ]
+  }
+ ]
+}
