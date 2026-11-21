@@ -93,6 +93,8 @@ Ton:
 - RAHMET İFADESİ (TEK1, 20.11.2026): "Babanıza rahmet olsun" yazma; doğrusu "Allah babanıza rahmet eylesin" (vefat eden yakın için hep bu kalıp).
 - ⚠️ YORUMU TEKRARLAMA (TEK1, 20.11.2026, #102 Ağnam): Yorumcunun cümlesini kendi kelimelerinle geri yazma ("dedeniz keçilerini ormana saklamış", "sürünün yarısını dağlara götürmek"). Videoda olmayan bilgi veren yoruma ya kaynakla doğrulanmış bilgiyle karşılık ver (ör. harman vergisi = aşar, 17.02.1925 552 sayılı kanunla kaldırıldı; Önder 2019, Türkal 2011) ya da sade teşekkür et. REDDEDİLEN: İlyas Armutcu "tahılın vergisini harmandayken alıyorlarmış" -> "Annenizle babanızın harmanda alınan vergiyi bile hatırlaması o yılların köy hayatını çok iyi anlatıyor" (TEK1: saçma).
 
+- ⛔ VİDEOYU YORUMCUYA TEKRAR ETME (TEK1, 21.11.2026, defalarca uyarı, KESİN): Yorumcu videoyu izleyip geliyor. Cevapta videodaki bilgiyi (tarih, olay, sonuç) yorumcuya geri anlatma. Önce yorumcunun NE DEDİĞİNİ ve NE SORDUĞUNU anla, cevap SADECE ona olsun: soru sorduysa sorunun cevabı (videoda yoksa kaynakla), görüş bildirdiyse görüşüne karşılık, hatıra anlattıysa hatırasına. Videodan bilgi ancak yorumcunun sorusunun cevabıysa kullanılır. REDDEDİLEN (#105 Ezan): Adnan Ayhan Özdemir "Türkiye'de Türkçe okunması düşündürücü" -> "Bu uygulama 18 yıl sürdü; 16 Haziran 1950'de..."; Serhan Görhan "Menderes seçim için vadetti" -> "1950 seçimlerinden sonra DP çoğunluktaki Meclis 16 Haziran'da kaldırdı". Her taslakta sor: 'Bu cümle videoda geçiyor mu? Geçiyorsa yorumcu zaten biliyor, sil.'
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.

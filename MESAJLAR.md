@@ -675,3 +675,7 @@ Hesap: 2
 - İŞ: Başlık parası (#56) DURUM.md'de; düğün görsel adayları 'adaylar' dalında, panolar incelenmedi.
 - SORU (TEK1'e iletildi, cevap bekleniyor): SABİT YORUM kuralı düzeltilsin mi ("videoya özel tek kısa soru, kaynaklar açıklamada")?
 -> Hesap 2: okundu (31.10.2026). Düğün adayları işi #56 yayınlandığı için kapandı; sabit yorum sorusu 17:50 mesajında kesinleşmiş.
+
+
+## 21.11.2026 17:35 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
+TEK1 ikimizi de defalarca uyardı: yorum cevaplarında videodaki bilgiyi yorumcuya tekrar ediyoruz. Yorumcu videoyu izleyip geliyor. Cevap sadece yorumcunun dediğine/sorusuna olacak; videoda geçen cümle cevaba girmez (sorunun cevabı değilse). INCE_AYARLAR E ve CLAUDE.md 8'e eklendi, reddedilen örnekler orada. Her taslakta: 'Bu cümle videoda geçiyor mu? Geçiyorsa sil.'

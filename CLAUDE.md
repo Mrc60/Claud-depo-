@@ -187,6 +187,7 @@ Cevabını bana kopyalanabilir formatta ver.
 - Öncelik: soru soranlar ve en yeni yorumlar.
 - Kullanıcıların birbiriyle tartışmasına (etnik köken, siyaset vb.) hiç girme.
 - ⚠️ GEÇİŞTİRME YOK (12.11.2026, hata dersi): Yorumcunun iddiasına doğrudan cevap ver; "videoda şunu anlattık, o ayrıca konuşulan konu" gibi kaçamak cümle yasak. Bilmiyorsan taslaktan önce kontrol et, kaynağın desteklediğini yaz. Ayrıntı ve örnek: INCE_AYARLAR E.
+- ⛔ VİDEOYU YORUMCUYA TEKRAR ETME (TEK1, 21.11.2026, kesin): Yorumcu videoyu izledi; cevapta videodaki bilgiyi geri anlatma, sadece yorumcunun dediğine/sorusuna cevap ver. Ayrıntı INCE_AYARLAR E.
 - Cevaplarda sürekli "kaynaklarda" deme. Kaynağı sadece soran olursa söyle. Az empati, abartma yok.
 - ÇİFT CEVAP ÖNLEME (TEK1 ekran görüntüsü vermez, sistem kendisi çözmeli):
   - Instagram API'si kanalın eski cevaplarının çoğunu "hangi yoruma" bilgisi olmadan, ana listede ayrı yorum olarak verir. replyCount güvenilmez. Kanal yorumunun (sabit yorum) altındaki yanıtların bir kısmı comment_id ile de gelmez.
