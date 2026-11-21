@@ -2,7 +2,7 @@
 
 
 ## GÜNCEL (21.11.2026 akşamüstü, Hesap 1)
-- #110 Okkayla satılan arşiv: senaryo onaylı (TEK1 sesi gönderdi, 68,9 sn). Bölüm episodes/110_bulgaristan_evrak.json (12 sahne), kontrol.py bolum 0 hata 6 uyarı. Video v2 (videolar dalı, 69,7 sn): v1'de gazete/LOC görselleri sarımsı-pembe kaldı, siyah-beyaza çevrildi. Kareler panoda kontrol edildi (kamera hareketli, küçük pencere yok, karartma yok). Yükleme seti arastirma/set110.txt (kontrol.py set 0 hata 8 uyarı). Kapak: TEK1 "TARİHİMİZ / OKKAYLA SATILDI" seçti; şablonla ChatGPT talimatı verildi (krem #E8D9B5 + mühür kırmızısı #9E2B25).
+- #110 Okkayla satılan arşiv: senaryo onaylı (TEK1 sesi gönderdi, 68,9 sn). Bölüm episodes/110_bulgaristan_evrak.json (12 sahne), kontrol.py bolum 0 hata 6 uyarı. Video v2 (videolar dalı, 69,7 sn): v1'de gazete/LOC görselleri sarımsı-pembe kaldı, siyah-beyaza çevrildi. Kareler panoda kontrol edildi (kamera hareketli, küçük pencere yok, karartma yok). Yükleme seti arastirma/set110.txt (kontrol.py set 0 hata 8 uyarı). Kapak: TEK1 "TARİHİMİZ / OKKAYLA SATILDI" seçti; şablonla ChatGPT talimatı verildi (krem #E8D9B5 + mühür kırmızısı #9E2B25). Sabit yorum TEK1 seçimiyle değişti: "Tarihimiz okkayla satıldı. Sizce bu bir ihmal miydi, cehalet mi?" (videodaki kapanış sorusundan farklı, TEK1 kararı).
 - "Kimse ceza almadı" cümlesi eklendi: Ünal + DAGM 1993 resmî yayınındaki Konyalı yazıları (OCR ile okundu).
 
 ## GÜNCEL (21.11.2026 akşam, Hesap 1)
@@ -10,7 +10,7 @@
 - Görsel zayıf: 8 kullanılabilir (kontrol.py gorsel 0 hata), ~14 gerekiyor. Asıl fotoğraflar (Son Posta 13.5.1931 yükleme, Vakit 11.7.1932 geri dönüş) Commons'ta yok. BEKLİYOR: TEK1 kararı (görsel çözümü + senaryoya geçiş). Senaryo yazılmadı.
 
 ## GÜNCEL (21.11.2026 gündüz, Hesap 1)
-- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. Senaryo onaylandı, ses alındı, video yapıldı (videolar dalı 109_simgeler.mp4, 70,6 sn, 12 sahne, kontrol.py bolum 0 hata). Yükleme seti arastirma/set109.txt (kontrol.py set 0 hata). Kapak: TEK1 "TARİHİMİZ / OKKAYLA SATILDI" seçti; şablonla ChatGPT talimatı verildi (krem #E8D9B5 + mühür kırmızısı #9E2B25).
+- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. Senaryo onaylandı, ses alındı, video yapıldı (videolar dalı 109_simgeler.mp4, 70,6 sn, 12 sahne, kontrol.py bolum 0 hata). Yükleme seti arastirma/set109.txt (kontrol.py set 0 hata). Kapak: TEK1 "TARİHİMİZ / OKKAYLA SATILDI" seçti; şablonla ChatGPT talimatı verildi (krem #E8D9B5 + mühür kırmızısı #9E2B25). Sabit yorum TEK1 seçimiyle değişti: "Tarihimiz okkayla satıldı. Sizce bu bir ihmal miydi, cehalet mi?" (videodaki kapanış sorusundan farklı, TEK1 kararı).
 - #108: TEK1 senaryoyu aldı, ses bekleniyor. Hesap 2'nin uyarısı (Fenerbahçe 1918 ziyareti cümlesi sadece popüler basın) TEK1'e iletildi, karar onun.
 
 ## GECE KONTROLÜ (21.11.2026 05:30, Hesap 2)
