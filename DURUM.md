@@ -1,6 +1,10 @@
 # DURUM — şu anki işler (son güncelleme: 21.11.2026, Hesap 1)
 
 
+## GÜNCEL (21.11.2026 akşamüstü, Hesap 1)
+- #110 Okkayla satılan arşiv: senaryo onaylı (TEK1 sesi gönderdi, 68,9 sn). Bölüm episodes/110_bulgaristan_evrak.json (12 sahne), kontrol.py bolum 0 hata 6 uyarı. Video v2 (videolar dalı, 69,7 sn): v1'de gazete/LOC görselleri sarımsı-pembe kaldı, siyah-beyaza çevrildi. Kareler panoda kontrol edildi (kamera hareketli, küçük pencere yok, karartma yok). BEKLİYOR: TEK1 video onayı -> yükleme seti + kapak.
+- "Kimse ceza almadı" cümlesi eklendi: Ünal + DAGM 1993 resmî yayınındaki Konyalı yazıları (OCR ile okundu).
+
 ## GÜNCEL (21.11.2026 akşam, Hesap 1)
 - #110 "Osmanlı arşivi okkayla Bulgaristana satıldı (1931)": TEK1 seçti ("5 iyi araştır uyduruk ilerlemeyelim"). Araştırma bitti: arastirma/110_bulgaristan_evrak.md (özet, 11 iddia-2 kaynak tablosu, çıkarılan 9 çelişkili ayrıntı, görsel tablosu). Kaynaklar okundu: Binark 2000, Altay 2017, Ünal 2026, BNR 2018.
 - Görsel zayıf: 8 kullanılabilir (kontrol.py gorsel 0 hata), ~14 gerekiyor. Asıl fotoğraflar (Son Posta 13.5.1931 yükleme, Vakit 11.7.1932 geri dönüş) Commons'ta yok. BEKLİYOR: TEK1 kararı (görsel çözümü + senaryoya geçiş). Senaryo yazılmadı.
