@@ -1,0 +1,449 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 109,
+ "slug": "simgeler",
+ "title": "Kartal, Kanarya, Aslan",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "TFF Tamsaha Süper Kupa 2017/2024/2025",
+  "bjk.com.tr tarihçe",
+  "Galatasaray resmî mesajı (Fanatik 22.6.2025)",
+  "Vakit, 20 Ocak 1941, s.4"
+ ],
+ "acilis": "Kartal, Kanarya, Aslan\nBu adları kim verdi?",
+ "dis_ses": {
+  "file": "assets/ses/109_simgeler.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     5.6
+    ]
+   ],
+   [
+    [
+     5.6,
+     10.93
+    ]
+   ],
+   [
+    [
+     10.93,
+     16.35
+    ]
+   ],
+   [
+    [
+     16.35,
+     22.87
+    ]
+   ],
+   [
+    [
+     22.87,
+     29.59
+    ]
+   ],
+   [
+    [
+     29.59,
+     35.76
+    ]
+   ],
+   [
+    [
+     35.76,
+     41.6
+    ]
+   ],
+   [
+    [
+     41.6,
+     47.76
+    ]
+   ],
+   [
+    [
+     47.76,
+     54.3
+    ]
+   ],
+   [
+    [
+     54.3,
+     59.07
+    ]
+   ],
+   [
+    [
+     59.07,
+     64.75
+    ]
+   ],
+   [
+    [
+     64.75,
+     69.8
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Kartal, Kanarya, Aslan. Üç büyük takıma bu adları kim verdi?",
+   "caption": "Kartal, Kanarya, Aslan. Üç büyük takıma bu adları kim verdi?",
+   "key": [
+    "Kartal,",
+    "Kanarya,",
+    "Aslan."
+   ],
+   "image": {
+    "local": "assets/belgeler/109_fbbjk_1946b.jpg",
+    "fit": "doldur",
+    "baslik": "Tanin, 29 Nisan 1946: Fenerbahçe-Beşiktaş maçı · İÜ Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Tanin, 29 Nisan 1946: Fenerbahçe-Beşiktaş maçı · İÜ Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 0,
+     "end": 2.24,
+     "n": 3
+    },
+    {
+     "start": 2.9,
+     "end": 5.1,
+     "n": 7
+    }
+   ]
+  },
+  {
+   "say": "Cevap: tribün. Önce Galatasaray. 1920lerde",
+   "caption": "Cevap: tribün. Önce Galatasaray. 1920'lerde",
+   "key": [
+    "tribün."
+   ],
+   "image": {
+    "local": "assets/belgeler/109_tribun_1925.jpg",
+    "fit": "doldur",
+    "baslik": "Golspor, 10 Kasım 1925: Taksim Stadı'nda seyirciler · Milli Kütüphane, kamu malı",
+    "lisans": "",
+    "kaynak": "Golspor, 10 Kasım 1925: Taksim Stadı'nda seyirciler · Milli Kütüphane, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 5.98,
+     "end": 7.33,
+     "n": 2
+    },
+    {
+     "start": 7.92,
+     "end": 9.06,
+     "n": 2
+    },
+    {
+     "start": 9.6,
+     "end": 10.93,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "takımda Nihat Bekdik adında bir oyuncu vardı. Sahada kendini hiç esirgemezdi.",
+   "caption": "takımda Nihat Bekdik adında bir oyuncu vardı. Sahada kendini hiç esirgemezdi.",
+   "key": [
+    "Nihat",
+    "Bekdik"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_gs_1931.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray, 1930-31; kaptan Nihat Bekdik · Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray, 1930-31; kaptan Nihat Bekdik · Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 10.96,
+     "end": 13.66,
+     "n": 7
+    },
+    {
+     "start": 14.02,
+     "end": 16.13,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "Taraftarlar ona Aslan demeye başladı. Nihat futbolu bırakınca bu lakap bütün takıma geçti.",
+   "caption": "Taraftarlar ona Aslan demeye başladı. Nihat futbolu bırakınca bu lakap bütün takıma geçti.",
+   "key": [
+    "Aslan"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_gs_1926.jpg",
+    "fit": "doldur",
+    "baslik": "Galatasaray, 1926-27 · Commons, kamu malı",
+    "lisans": "",
+    "kaynak": "Galatasaray, 1926-27 · Commons, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 16.58,
+     "end": 18.9,
+     "n": 5
+    },
+    {
+     "start": 19.35,
+     "end": 22.64,
+     "n": 8
+    }
+   ]
+  },
+  {
+   "say": "Fenerbahçenin kalecisi Cihat Arman ise 1940larda maçlara kanarya sarısı bir kazakla çıkardı.",
+   "caption": "Fenerbahçe'nin kalecisi Cihat Arman ise 1940'larda maçlara kanarya sarısı bir kazakla çıkardı.",
+   "key": [
+    "Cihat",
+    "Arman",
+    "kanarya",
+    "sarısı"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_cihat.jpg",
+    "fit": "doldur",
+    "baslik": "Kaleci Cihat Arman · Yeni Sabah, 19 Şubat 1950, kamu malı",
+    "lisans": "",
+    "kaynak": "Kaleci Cihat Arman · Yeni Sabah, 19 Şubat 1950, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 23.1,
+     "end": 29.43,
+     "n": 12
+    }
+   ]
+  },
+  {
+   "say": "Taraftarlar bu kazağı çok sevdi. Önce Cihata, sonra bütün takıma Kanarya dediler.",
+   "caption": "Taraftarlar bu kazağı çok sevdi. Önce Cihat'a, sonra bütün takıma Kanarya dediler.",
+   "key": [
+    "Kanarya"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_fb_cihat1943.jpg",
+    "fit": "doldur",
+    "baslik": "Cumhuriyet, 20 Mayıs 1943: Cihat bir kurtarışta · İBB Atatürk Kitaplığı, kamu malı",
+    "lisans": "",
+    "kaynak": "Cumhuriyet, 20 Mayıs 1943: Cihat bir kurtarışta · İBB Atatürk Kitaplığı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 29.75,
+     "end": 31.71,
+     "n": 5
+    },
+    {
+     "start": 32.04,
+     "end": 35.56,
+     "n": 7
+    }
+   ]
+  },
+  {
+   "say": "Beşiktaşın kartalı tek bir maçta doğdu. Ocak 1941, Şeref Stadı.",
+   "caption": "Beşiktaş'ın kartalı tek bir maçta doğdu. Ocak 1941, Şeref Stadı.",
+   "key": [
+    "kartalı"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_bjk_aksam41.jpg",
+    "fit": "doldur",
+    "baslik": "Akşam, 30 Haziran 1941: şampiyon Beşiktaş · İBB Atatürk Kitaplığı, kamu malı",
+    "lisans": "",
+    "kaynak": "Akşam, 30 Haziran 1941: şampiyon Beşiktaş · İBB Atatürk Kitaplığı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 35.96,
+     "end": 38.42,
+     "n": 6
+    },
+    {
+     "start": 38.87,
+     "end": 41.34,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "Beşiktaş, Süleymaniyeyi farklı yeniyordu. Kulübün anlattığına göre tribünden bir ses yükseldi:",
+   "caption": "Beşiktaş, Süleymaniye'yi farklı yeniyordu. Kulübün anlattığına göre tribünden bir ses yükseldi:",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/109_bjk_hucum1946.jpg",
+    "fit": "doldur",
+    "baslik": "Ulus, 6 Mayıs 1946: Beşiktaş hücumda · İÜ Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Ulus, 6 Mayıs 1946: Beşiktaş hücumda · İÜ Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 41.88,
+     "end": 44.25,
+     "n": 4
+    },
+    {
+     "start": 44.67,
+     "end": 47.53,
+     "n": 7
+    }
+   ]
+  },
+  {
+   "say": "Haydi Kara Kartallar! Maç altı sıfır bitti. O günden beri Beşiktaş, Kara Kartal.",
+   "caption": "Haydi Kara Kartallar! Maç 6-0 bitti. O günden beri Beşiktaş, Kara Kartal.",
+   "key": [
+    "Kara",
+    "Kartallar!",
+    "6-0",
+    "Kartal."
+   ],
+   "image": {
+    "local": "assets/belgeler/109_tribun_1932.jpg",
+    "fit": "doldur",
+    "baslik": "Cumhuriyet, 28 Mayıs 1932: Taksim Stadı'nda seyirciler · İBB Atatürk Kitaplığı, kamu malı",
+    "lisans": "",
+    "kaynak": "Cumhuriyet, 28 Mayıs 1932: Taksim Stadı'nda seyirciler · İBB Atatürk Kitaplığı, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 47.99,
+     "end": 49.38,
+     "n": 3
+    },
+    {
+     "start": 49.85,
+     "end": 51.36,
+     "n": 3
+    },
+    {
+     "start": 51.79,
+     "end": 54.11,
+     "n": 6
+    }
+   ]
+  },
+  {
+   "say": "Takımınızın simgesi değişecek olsa, yerine hangi simgeyi koyardınız?",
+   "caption": "Takımınızın simgesi değişecek olsa, yerine hangi simgeyi koyardınız?",
+   "key": [
+    "simgeyi"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_fbbjk_1946a.jpg",
+    "fit": "doldur",
+    "baslik": "Cumhuriyet, 29 Nisan 1946: Fenerbahçe-Beşiktaş maçı · İÜ Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Cumhuriyet, 29 Nisan 1946: Fenerbahçe-Beşiktaş maçı · İÜ Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 54.53,
+     "end": 58.81,
+     "n": 8
+    }
+   ]
+  },
+  {
+   "say": "Ya da herkes takımının simgesinden memnun mu? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Ya da herkes takımının simgesinden memnun mu? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [
+    "memnun"
+   ],
+   "image": {
+    "local": "assets/belgeler/109_fb_1945b.jpg",
+    "fit": "doldur",
+    "baslik": "Vakit, 21 Mayıs 1945: şampiyon Fenerbahçe · İÜ Kütüphanesi, kamu malı",
+    "lisans": "",
+    "kaynak": "Vakit, 21 Mayıs 1945: şampiyon Fenerbahçe · İÜ Kütüphanesi, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 59.32,
+     "end": 62.17,
+     "n": 7
+    },
+    {
+     "start": 62.62,
+     "end": 64.56,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/109_taksim_1925.jpg",
+    "fit": "doldur",
+    "baslik": "Golspor, 26 Temmuz 1925: Taksim Stadı girişi · Milli Kütüphane, kamu malı",
+    "lisans": "",
+    "kaynak": "Golspor, 26 Temmuz 1925: Taksim Stadı girişi · Milli Kütüphane, kamu malı",
+    "sayfa": "",
+    "hiz": 1.0
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 64.95,
+     "end": 66.6,
+     "n": 3
+    },
+    {
+     "start": 66.91,
+     "end": 69.59,
+     "n": 6
+    }
+   ]
+  }
+ ]
+}
