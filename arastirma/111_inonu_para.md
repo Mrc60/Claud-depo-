@@ -7,6 +7,12 @@
 - İddialar: aşağıdaki 6 ana iddia TCMB birincil kaynağıyla doğrulandı (Sanal Müze tabloları + emisyon sayfaları). İkinci bağımsız kaynak: YÖK/Marmara tezleri (özet okundu) ve Sinan Meydan/Sözcü (popüler). GPT raporu bekleniyor.
 - RİSK: Konu bugün de siyasi polemik (DP 1951'den beri; Cumhurbaşkanı'nın 10 Kasım konuşması, Taha Akyol yazısı). FB siyasi dağıtım kısıtı ve yorum kavgası riski yüksek.
 
+## GPT RAPORU KONTROLÜ (21.11.2026 17:10)
+- GPT'nin 1-4, 6, 7. iddiaları TCMB tablolarıyla örtüşüyor (ben de aynı tabloları okudum; ikisi de TCMB, bağımsız sayılmaz).
+- GPT 5. iddia ("1926 kararnamesi banknota CUMHURBAŞKANININ resmini öngörüyordu", kaynak İnönü Vakfı) YANLIŞ: Melek Öksüz, Tarih Dergisi 81 (2023), s.74, 3322 sayılı kararnameyi Cumhuriyet 4 Nisan 1926'dan aktarıyor: "50, 100, 500, 1000 liralık evrak-ı nakdiyede Gazi'nin resmi; 1, 5, 10 liralıklarda Cumhuriyeti musavver bir timsal konulacak" (Düstur III. Tertip C.7 s.659-660). Yani kural "Gazi'nin resmi", "cumhurbaşkanının resmi" değil. (ben okudum)
+- 701 sayılı kanun 30.12.1925: TCMB Sanal Müze + Atatürk Ansiklopedisi (doğrulandı).
+- İnönü Vakfı sayfası bu oturumda açılamadı (erişim listesinde değil).
+
 ## DOĞRULANANLAR (TCMB Sanal Müze / tcmb.gov.tr, ben okudum)
 1. E2 (1937-1944): hem Atatürk hem İnönü portreli banknotlar vardı.
 2. E3 (1942-1947): tamamı İnönü portreli; İngiltere, Almanya, ABD'de basıldı.
