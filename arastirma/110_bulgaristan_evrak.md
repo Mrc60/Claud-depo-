@@ -68,3 +68,8 @@ Commons'ta bulunamadı: Son Posta 13 ve 21 Mayıs 1931, Vakit/Milliyet Mayıs 19
 - Cumhuriyet 20.5.1931 s.4: sadece metin (GPT'ye göre), görsel değeri yok.
 - Görsel: gastearsivi CDN'i bu oturumdan ve GitHub Actions'tan 403 veriyor; sayfa görüntüleri TEK1'in telefondan "Sayfayı indir" ile alması gerekiyor (site günlük görüntüleme sınırı gösteriyor).
 - LOC 1923 Galata Köprüsü albüm sayfası (Commons, PD, LCCN2011649907): indirildi, kontrol.py gorsel 0 hata 0 uyarı, daha önce kullanılmamış (grep). İki baskı: üstte at arabası, altta hamallar -> 2 ayrı kırpım. GPT'nin verdiği upload bağlantısı yanlıştı (404), doğru dosya 2/28 yolunda.
+
+## EK 2 (21.11.2026, TEK1'in gönderdiği gaste arşivi sayfaları)
+- 3 gazete fotoğrafı kırpıldı (kontrol.py gorsel 0 hata 0 uyarı): 110_sonposta_araba.jpg (Son Posta 13.5.1931 s.1, "Eski evrak nakledilirken", 591x371), 110_sonposta_depo.jpg (Son Posta 21.5.1931 s.1, "Tarihimizin en kıymetli vesikaları satıldıktan sonra", 567x392), 110_vakit_1932_cuval.jpg (Vakit 11.7.1932 s.1, geri gelen çuvallar kamyonda, 745x505). Kaynak: gastearsivi.com sayfa görüntüleri. Lisans: 1931-32 Türk gazetesi, fotoğrafçı belirtilmemiş; Commons aynı dönem gazeteleri "PD Tr" ile tutuyor (kesin hukuki görüş değil). Hepsi küçük çözünürlük, ekranda yumuşak görünebilir.
+- LOC albüm sayfasından 2 kırpım: 110_galata_araba.jpg, 110_galata_hamal.jpg (1923, PD, 0 hata).
+- Toplam kullanılabilir görsel: 13 (Commons 8 + gazete 3 + LOC 2). ~65 sn'ye yeter.
