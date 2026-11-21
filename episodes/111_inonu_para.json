@@ -19,24 +19,30 @@
    [
     [
      0,
-     4.51
+     4.4
     ]
    ],
    [
     [
-     4.51,
-     12.0
+     4.4,
+     8.9
     ]
    ],
    [
     [
-     12.0,
-     17.62
+     8.9,
+     13.91
     ]
    ],
    [
     [
-     17.62,
+     13.91,
+     19.82
+    ]
+   ],
+   [
+    [
+     19.82,
      25.12
     ]
    ],
@@ -115,8 +121,8 @@
    ]
   },
   {
-   "say": "Bir dönem Türk paralarında İsmet İnönünün portresi vardı. Atatürk, 1938de hayatını kaybetti.",
-   "caption": "Bir dönem Türk paralarında İsmet İnönü'nün portresi vardı. Atatürk, 1938'de hayatını kaybetti.",
+   "say": "Bir dönem Türk paralarında İsmet İnönünün portresi vardı.",
+   "caption": "Bir dönem Türk paralarında İsmet İnönü'nün portresi vardı.",
    "key": [
     "İnönü'nün"
    ],
@@ -135,17 +141,47 @@
      "start": 4.69,
      "end": 8.27,
      "n": 8
-    },
-    {
-     "start": 8.74,
-     "end": 11.77,
-     "n": 4
     }
    ]
   },
   {
-   "say": "İnönü cumhurbaşkanı oldu. 1940ta 500 ve 1000 liralık banknotlar",
-   "caption": "İnönü cumhurbaşkanı oldu. 1940'ta 500 ve 1000 liralık banknotlar",
+   "say": "Atatürk, 1938de hayatını kaybetti. İnönü cumhurbaşkanı oldu.",
+   "caption": "Atatürk, 1938'de hayatını kaybetti. İnönü cumhurbaşkanı oldu.",
+   "key": [
+    "1938'de"
+   ],
+   "image": {
+    "local": "assets/belgeler/111_ataturk_inonu_1936.jpg",
+    "fit": "doldur",
+    "kirp": [
+     0.48,
+     0,
+     0.89,
+     1
+    ],
+    "hiz": 1.0,
+    "baslik": "Atatürk, 16 Haziran 1936",
+    "kaynak": "Wikimedia Commons, Atatürk ve İnönü 16-06-1936.jpg (kamu malı)",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_ve_%C4%B0n%C3%B6n%C3%BC_16-06-1936.jpg"
+   },
+   "scene": "photo",
+   "bolumler": [
+    {
+     "start": 8.74,
+     "end": 11.77,
+     "n": 4
+    },
+    {
+     "start": 12.22,
+     "end": 13.7,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "1940ta 500 ve 1000 liralık banknotlar onun portresiyle yeniden basıldı.",
+   "caption": "1940'ta 500 ve 1000 liralık banknotlar onun portresiyle yeniden basıldı.",
    "key": [
     "1940'ta"
    ],
@@ -161,22 +197,22 @@
    "scene": "photo",
    "bolumler": [
     {
-     "start": 12.22,
-     "end": 13.7,
-     "n": 3
+     "start": 14.13,
+     "end": 17.6,
+     "n": 6
     },
     {
-     "start": 14.13,
-     "end": 17.62,
-     "n": 6
+     "start": 17.62,
+     "end": 19.63,
+     "n": 4
     }
    ]
   },
   {
-   "say": "onun portresiyle yeniden basıldı. 1942den sonra çıkarılan banknotların tamamında artık İnönü vardı.",
-   "caption": "onun portresiyle yeniden basıldı. 1942'den sonra çıkarılan banknotların tamamında artık İnönü vardı.",
+   "say": "1942den sonra çıkarılan banknotların tamamında artık İnönü vardı.",
+   "caption": "1942'den sonra çıkarılan banknotların tamamında artık İnönü vardı.",
    "key": [
-    "İnönü"
+    "1942'den"
    ],
    "image": {
     "local": "assets/belgeler/111_k_e2_inonu_1000.jpg",
@@ -189,11 +225,6 @@
    },
    "scene": "photo",
    "bolumler": [
-    {
-     "start": 17.62,
-     "end": 19.63,
-     "n": 4
-    },
     {
      "start": 20.0,
      "end": 24.91,
@@ -266,13 +297,19 @@
     "1952'ye"
    ],
    "image": {
-    "local": "assets/belgeler/111_k_e2_10tl.jpg",
+    "local": "assets/belgeler/111_ulus_meydani_1940.jpg",
     "fit": "doldur",
-    "baslik": "Atatürk portreli 10 lira, 1938 · TCMB örnek banknot",
-    "lisans": "",
-    "kaynak": "Atatürk portreli 10 lira, 1938 · TCMB örnek banknot",
-    "sayfa": "",
-    "hiz": 0.6
+    "kirp": [
+     0.585,
+     0,
+     1.0,
+     1
+    ],
+    "hiz": 1.0,
+    "baslik": "Ankara, Ulus Meydanı ve İş Bankası, 1940'lar",
+    "kaynak": "Basın Yayın Genel Müdürlüğü, Commons (No restrictions)",
+    "lisans": "No known restrictions",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Ulus_Square_in_the_night,_1940s_(16230095284).jpg"
    },
    "scene": "photo",
    "bolumler": [
@@ -348,13 +385,19 @@
     "Atatürk"
    ],
    "image": {
-    "local": "assets/belgeler/111_k_e5_500tl.jpg",
+    "local": "assets/belgeler/111_merkez_bankasi_1940.jpg",
     "fit": "doldur",
-    "baslik": "Atatürk portreli 500 lira, 1953 · TCMB örnek banknot",
+    "kirp": [
+     0.35,
+     0,
+     0.757,
+     1
+    ],
+    "hiz": 1.0,
+    "baslik": "Merkez Bankası binası, Ankara",
+    "kaynak": "Wikimedia Commons",
     "lisans": "",
-    "kaynak": "Atatürk portreli 500 lira, 1953 · TCMB örnek banknot",
-    "sayfa": "",
-    "hiz": 0.6
+    "sayfa": ""
    },
    "scene": "photo",
    "bolumler": [
@@ -401,5 +444,5 @@
   }
  ],
  "kapanis_kontrol_atla": true,
- "surum": 4
+ "surum": 5
 }
