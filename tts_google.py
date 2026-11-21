@@ -54,7 +54,8 @@ RATE = float(ep.get("hiz", RATE))
 
 # Kanal kuralı (TEK1): kapanış kibar ve nazik olmalı; videoya göre yazılmış bir soru,
 # yorum daveti, takip ve beğeni ricası içermeli. Eksikse video üretilmez.
-if ep["segments"]:
+# İstisna: TEK1 bir bölümde kapanışı bilerek kısaltırsa bölüm JSON'una "kapanis_kontrol_atla": true yazılır (ilk kez #111, 21.11.2026).
+if ep["segments"] and not ep.get("kapanis_kontrol_atla"):
     son = " ".join(s["say"] for s in ep["segments"][-3:]).lower()  # kapanış üç sahneye bölünebilir
     eksik = [ad for ad, ok in (("soru (?)", "?" in son), ("yorum daveti", "yorum" in son),
                                ("takip ricası", "takip" in son), ("beğeni ricası", "beğen" in son)) if not ok]
