@@ -2,7 +2,7 @@
 
 
 ## GÜNCEL (21.11.2026 gündüz, Hesap 1)
-- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. TEK1'in senaryo onayı bekleniyor.
+- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. Senaryo onaylandı, ses alındı, video yapıldı (videolar dalı 109_simgeler.mp4, 70,6 sn, 12 sahne, kontrol.py bolum 0 hata). Yükleme seti arastirma/set109.txt (kontrol.py set 0 hata). Kapak: 3 görsel + 5 başlık verildi, TEK1 başlık seçince ChatGPT talimatı yazılacak.
 - #108: TEK1 senaryoyu aldı, ses bekleniyor. Hesap 2'nin uyarısı (Fenerbahçe 1918 ziyareti cümlesi sadece popüler basın) TEK1'e iletildi, karar onun.
 
 ## GECE KONTROLÜ (21.11.2026 05:30, Hesap 2)
