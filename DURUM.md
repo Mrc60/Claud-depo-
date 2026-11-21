@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 21.11.2026 01:40, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 21.11.2026 05:30, Hesap 2)
+
+## GECE KONTROLÜ (21.11.2026 05:30, Hesap 2)
+- #108 araştırma/senaryo/görsel kontrolü: kontrol.py metin ve gorsel 0 hata. Uyarılar: Fenerbahçe 1918 ziyareti cümlesi sadece popüler basına dayanıyor; 6 görselde doygunluk >20 (sepya mı renkli mi, panoda bakılmalı). c36ae82 kaydında "Hesap: N" etiketi yok. Defterde çift cevap yok (238 kayıt). Ayrıntı MESAJLAR 21.11 05:30.
 
 ## GECE KONTROLÜ (21.11.2026 04:35, Hesap 1)
 - Dal birleştirmesi doğrulandı: main'de eksik iş yok, defter korunmuş (238 kayıt, çift cevap yok).
