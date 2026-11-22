@@ -127,10 +127,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.125,
-     0,
-     0.875,
-     1
+     0.275,
+     0.0,
+     0.725,
+     0.6
     ],
     "baslik": "Eski mavi nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -312,10 +312,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.125,
-     0,
-     0.875,
-     1
+     0.333,
+     0.0,
+     0.708,
+     0.5
     ],
     "baslik": "Eski pembe nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -350,9 +350,9 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.339,
-     0.12,
-     0.661,
+     0.316,
+     0.06,
+     0.684,
      0.55
     ],
     "baslik": "Eski mavi nüfus cüzdanı, arka yüz (yakın)",
@@ -519,10 +519,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.363,
-     0.03,
-     0.677,
-     0.45
+     0.396,
+     0.0,
+     0.644,
+     0.33
     ],
     "baslik": "Eski pembe nüfus cüzdanı, arka yüz (yakın)",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -560,10 +560,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.125,
-     0,
-     0.875,
-     1
+     0.275,
+     0.0,
+     0.725,
+     0.6
     ],
     "baslik": "Eski mavi nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -601,10 +601,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.125,
-     0,
-     0.875,
-     1
+     0.333,
+     0.0,
+     0.708,
+     0.5
     ],
     "baslik": "Eski pembe nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -615,5 +615,5 @@
    }
   }
  ],
- "surum": 1
+ "surum": 2
 }
