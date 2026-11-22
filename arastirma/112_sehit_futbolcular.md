@@ -3,7 +3,7 @@
 ## ÖZET
 - İddia: 6 ana iddiadan 4'ü iki bağımsız kaynakla destekleniyor, 2'si zayıf (70 sayısı, 23/5/2 dağılımı) -> metne girmez.
 - Kaynak: 1915 Donanma Mecmuası listeleri (TFF tarihçisi Mehmet Yüce'nin aktarımı, ben aktarımı okudum, mecmuanın kendisini okumadım), BJK resmî sitesi, TRT Haber, Cumhuriyet, DergiPark (Terlemez 2024, ben okudum).
-- Görsel: Commons'ta 12 aday bulundu (Hasnun Galip, Celal İbrahim, Şehit Arif Bey portreleri; GS 1913/1915, FB 1914-15 takım fotoğrafları; LOC Gelibolu Türk askerleri). HENÜZ İNDİRİLMEDİ VE AÇILMADI; ad taramasında eski bölümlerde yok (FB 1914-15 sadece #108 araştırma notunda geçiyor). ~65 sn için ~13 görsel gerekir.
+- Görsel (22.11 10:30, indirildi, panoda açıldı, kontrol.py gorsel): 18 aday. Kullanılabilir 10: gs1913, gs1915, gsfb1913, fb1913, fb1914 (sol alttaki sarı yazı kırpılacak), hasnun (305 px, sadece kart olarak), gelibolu_asker (LOC), dardanel_asker (LOC), siper, bundes_top (CC BY-SA). TEK1 onayı gereken 2: donanma_kapak (RENKLİ, Donanma Mecmuası kapağı), bjk1911 (#92'de kullanıldı). Elenen 6: fb1911 (#95 tekrar), donanma_bjk1917 (#108 tekrar), bundes_mg (dardanel_asker ile aynı fotoğraf), celal (113 px), bundes_suvla (alakasız manzara), arif (Arif çıkarıldı). ~65 sn için ~13 görsel gerekir; EKSİK: Beşiktaş için tekrar olmayan görsel yok, Kazım portresi yok.
 
 ## DOĞRULANANLAR
 1. Donanma Mecmuası 1915'te (64. ve 66. sayı) kulüplerden şehit/silah altındaki sporcuların listesini istedi; 5 kulüp gönderdi: Beşiktaş, Galatasaray, Anadolu Kulübü, Fenerbahçe, Türk İdman Ocağı. (Mehmet Yüce/TFF aktarımı: Türkiye Gazetesi ve A Haber kopyaları. Mecmuanın taraması okunmadı.)
@@ -31,3 +31,8 @@
 - 70 ve 23/5/2: GPT de bağımsız kaynak bulamadı -> metne girmez (kesin).
 - İstanbul ligi: GPT'ye göre TFF TamSaha 185: 1912-13 Balkan Savaşı, 1918-19 ve 1919-20 işgal yüzünden oynanmadı; savaş yıllarında Cuma Ligi sürdü. Ben okumadım; kullanılacaksa açılacak. GPT'nin tablosu kendi içinde çelişkili (1918-19 hem "oynanmadı" hem "devam").
 - Görsel adayları (GPT + benim taramam): Galatasaray SK 1913 (4077 px, isimler üzerinde), Beşiktaş JK squad (1911) (750 px, küçük), Fenerbahçe SK 1911-12 (2400 px), Fenerbahçe SK 23 March 1913, Hasnun galip.jpg, Celal ibrahim.jpg, SehitArifBey.jpg, LOC Turk soldiers Gallipoli. İndirilmedi/açılmadı.
+
+## AÇILAN KAYNAKLAR (22.11 10:20)
+- BJK İngilizce tarihçe 2/104 ve 2/76 açıldı: şehitlerden söz etmiyor; 2/76 ilk takımın 11 kişisini sayıyor. Türkçe tarihçe ("tifüs" cümlesi) açılamadı -> Rıdvan'ın cephesi yazılmaz.
+- İstanbul Ansiklopedisi (Koçu): Arif "Birinci Cihan Harbi arifesindeki yıllarda, Anadoluda bir eşkıya takibinde şehid oldu" -> Arif için tarih üç kaynakta üç türlü (Koçu: savaş öncesi; Sözcü: 19.11.1919 Bor; GPT/fenerbahcetarihi: 15.06.1919 Tahtaköprü). KARAR: Arif videoya girmez.
+- ATAM (Kaya 2024) Hasnun Galip: 1915 Çanakkale şehit, Harp Mecmuası'na dayanıyor (okundu).
