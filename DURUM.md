@@ -1,5 +1,11 @@
 # DURUM — şu anki işler (son güncelleme: 22.11.2026 05:50, Hesap 2)
 
+## GÜNCEL (22.11.2026 19:15, Hesap 1)
+- KURAL: Facebook açıklaması artık 5 etiket (TEK1 22.11 19:09). kontrol.py set güncellendi. İlk 5 etiketli videolarda FB kalite listesine bak.
+- #112 Cepheye giden futbolcular: video + set bitti (set112.txt). #113 Mehmet Akif ve II. Abdülhamid: video (82 sn) + set (set113.txt, FB 5 etikete güncellendi) bitti; kapak başlığı "AKİF VE / ABDÜLHAMİD", ChatGPT talimatı verildi. Sabit yorum alternatifleri TEK1'e sunuldu, seçim bekleniyor.
+- Sıradaki: TEK1 konu notu alıyor. Öneriler: Vecihi K-VI cezası, Tekâlif-i Milliye (çorap), kadın seçme hakkı (5 Aralık), Yerli Malı Haftası (12-18 Aralık), "Eskilerin Adabı" serisi (görgü kitapları), yabancı postaneler, Çökertme/Reji kolcuları. İstiklal Marşı sonraya.
+- Öneri (TEK1 onayı yok): 27.11 karşılaştırmasında FB akşam 19:45 testi.
+
 ## GECE KONTROLÜ (22.11.2026 05:50, Hesap 2)
 - Hesap 2: son 26 saatte hata yok (içerik). #111 kontrol.py bolum yeniden: 5 HATA aynı (3 TEK1 onaylı tekrar + sahne 1 4,4 sn + sahne 1-5 benzerlik). Defter 230 kayıt, çift cevap yok. Set109/110/111 0 hata. Etiketsiz kayıt: 3d7cada. Ayrıntı MESAJLAR.md.
 
