@@ -339,7 +339,11 @@ def bolum_kontrol(yol):
             elif sure > 7:
                 uyari(f"sahne {i}: görsel {sure:.1f} sn ekranda (hedef 5 sn, ikinci görsel ekle)")
     if segs and re.match(r"\s*\d{3,4}", segs[0].get("say", "")):
-        hata("ilk sahne tarihle açılıyor")
+        # TEK1 metni kendisi tarihle açtıysa bölüm JSON'unda "onay": {"tarihle_acilis": "TEK1 GG.AA ..."} yazılır.
+        if (d.get("onay") or {}).get("tarihle_acilis"):
+            uyari(f"ilk sahne tarihle açılıyor [TEK1 onaylı: {d['onay']['tarihle_acilis']}]")
+        else:
+            hata("ilk sahne tarihle açılıyor")
 
     # diğer bölümlerin görselleri (md5 + ad)
     diger = {}

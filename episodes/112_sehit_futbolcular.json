@@ -1,0 +1,555 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 112,
+ "slug": "sehit_futbolcular",
+ "title": "Cepheye giden futbolcular",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Donanma Mecmuası 1915, 64. ve 66. sayılar (TFF, Mehmet Yüce aktarımı)",
+  "M. Kaya, Haydar Rüştü Öktem, ATAM 2024 (Harp Mecmuası)",
+  "Beşiktaş JK resmî sitesi"
+ ],
+ "acilis": "Cepheye giden\nfutbolcular",
+ "dis_ses": {
+  "file": "assets/ses/112_sehit_futbolcular.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     5.26
+    ]
+   ],
+   [
+    [
+     5.26,
+     11.13
+    ]
+   ],
+   [
+    [
+     11.13,
+     15.73
+    ]
+   ],
+   [
+    [
+     15.73,
+     20.36
+    ]
+   ],
+   [
+    [
+     20.36,
+     26.76
+    ]
+   ],
+   [
+    [
+     26.76,
+     31.35
+    ]
+   ],
+   [
+    [
+     31.35,
+     39.86
+    ]
+   ],
+   [
+    [
+     39.86,
+     45.2
+    ]
+   ],
+   [
+    [
+     45.2,
+     51.16
+    ]
+   ],
+   [
+    [
+     51.16,
+     57.33
+    ]
+   ],
+   [
+    [
+     57.33,
+     61.88
+    ]
+   ],
+   [
+    [
+     61.88,
+     68.36
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "1915te bir dergi, İstanbulun spor kulüplerinden bir liste istedi.",
+   "caption": "1915'te bir dergi, İstanbul'un spor kulüplerinden bir liste istedi.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_donanma_kapak.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "baslik": "Donanma Mecmuası kapağı (siyah-beyaz)",
+    "kaynak": "Donanma Mecmuası kapağı · Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Donanma_Mecmuas%C4%B1_Kapak_sayfas%C4%B1.jpg"
+   },
+   "scene": "photo",
+   "gorunen": "Donanma Mecmuası'nın kapağı: dalgalanan Türk bayrağı ve bir savaş gemisi",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 2.16,
+     "n": 3
+    },
+    {
+     "start": 2.52,
+     "end": 4.58,
+     "n": 5
+    },
+    {
+     "start": 4.58,
+     "end": 4.88,
+     "n": 1
+    }
+   ]
+  },
+  {
+   "say": "Askere giden ve şehit düşen sporcuların listesi. Çanakkalede savaş sürüyordu.",
+   "caption": "Askere giden ve şehit düşen sporcuların listesi. Çanakkale'de savaş sürüyordu.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_gelibolu_asker.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Gelibolu'da Türk askerleri, 1915",
+    "kaynak": "Library of Congress (Bain News Service), kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Turk_soldiers,_Gallipoli_LCCN2014700276.jpg",
+    "kirp": [
+     0.28,
+     0.06,
+     0.64,
+     0.93
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "Gelibolu'da çadırların önünde Türk askerleri",
+   "bolumler": [
+    {
+     "start": 5.64,
+     "end": 7.28,
+     "n": 5
+    },
+    {
+     "start": 7.28,
+     "end": 8.96,
+     "n": 2
+    },
+    {
+     "start": 9.18,
+     "end": 11.0,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Beş kulüp cevap verdi. Listelerde şehit olarak geçen isimler:",
+   "caption": "Beş kulüp cevap verdi. Listelerde şehit olarak geçen isimler:",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_fb1914.jpg",
+    "fit": "doldur",
+    "hiz": 0.6,
+    "baslik": "Fenerbahçe, 1914-15",
+    "kaynak": "Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Fenerbah%C3%A7e_SK_1914-15.jpg",
+    "kirp": [
+     0.36,
+     0,
+     0.64,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "1914-15 Fenerbahçe futbolcuları, takım fotoğrafı",
+   "bolumler": [
+    {
+     "start": 11.26,
+     "end": 12.52,
+     "n": 4
+    },
+    {
+     "start": 13.1,
+     "end": 15.62,
+     "n": 5
+    }
+   ]
+  },
+  {
+   "say": "Galatasaraydan dokuz, Beşiktaştan üç, Fenerbahçeden iki.",
+   "caption": "Galatasaray'dan dokuz, Beşiktaş'tan üç, Fenerbahçe'den iki.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_gs1915.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Galatasaray, 1915-16",
+    "kaynak": "Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Galatasaray_SK_1915-1916.JPG",
+    "kirp": [
+     0.33,
+     0,
+     0.675,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "1915-16 Galatasaray takımı ve kulüp üyeleri",
+   "bolumler": [
+    {
+     "start": 15.84,
+     "end": 16.94,
+     "n": 2
+    },
+    {
+     "start": 17.34,
+     "end": 18.6,
+     "n": 2
+    },
+    {
+     "start": 18.88,
+     "end": 20.12,
+     "n": 2
+    }
+   ]
+  },
+  {
+   "say": "Galatasarayın dokuz şehidinden biri, forvet Hasnun Galipti. Çanakkalede şehit düştü.",
+   "caption": "Galatasaray'ın dokuz şehidinden biri, forvet Hasnun Galip'ti. Çanakkale'de şehit düştü.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_k_hasnun.jpg",
+    "fit": "doldur",
+    "hiz": 0.6,
+    "baslik": "Hasnun Galip; arkada Galatasaray 1913 takımı",
+    "kaynak": "Wikimedia Commons, kamu malı (Hasnun galip.jpg; Galatasaray SK 1913.jpg)",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Hasnun_galip.jpg"
+   },
+   "scene": "photo",
+   "gorunen": "Hasnun Galip'in askerî üniformalı portresi, arkada 1913 Galatasaray takım fotoğrafı",
+   "bolumler": [
+    {
+     "start": 20.6,
+     "end": 22.88,
+     "n": 4
+    },
+    {
+     "start": 22.88,
+     "end": 24.6,
+     "n": 3
+    },
+    {
+     "start": 25.02,
+     "end": 26.64,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Bugün kulübün Beyoğlundaki binasının bulunduğu sokak, onun adını taşıyor.",
+   "caption": "Bugün kulübün Beyoğlu'ndaki binasının bulunduğu sokak, onun adını taşıyor.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_gs1918.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Galatasaray, 1918-19",
+    "kaynak": "Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Galatasaray_SK_1918-19.jpg",
+    "kirp": [
+     0.56,
+     0,
+     0.937,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "Galatasaray futbolcuları kale önünde, 1918-19",
+   "bolumler": [
+    {
+     "start": 26.88,
+     "end": 29.5,
+     "n": 5
+    },
+    {
+     "start": 29.5,
+     "end": 29.94,
+     "n": 1
+    },
+    {
+     "start": 29.94,
+     "end": 31.14,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Beşiktaşın üç şehidinden ikisi, şair lakaplı kaptan Kazım ve arkadaşı Asımdı. İkisi de Çanakkalede şehit oldu.",
+   "caption": "Beşiktaş'ın üç şehidinden ikisi, şair lakaplı kaptan Kazım ve arkadaşı Asım'dı. İkisi de Çanakkale'de şehit oldu.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_dardanel_asker.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Çanakkale'de Türk askerleri",
+    "kaynak": "Library of Congress, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Turkish_soldiers_under_German_command_near_the_Dardanelles_LCCN2010646029.jpg",
+    "kirp": [
+     0.12,
+     0.02,
+     0.48,
+     0.86
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "Çanakkale'de makineli tüfek başında Türk askerleri",
+   "bolumler": [
+    {
+     "start": 31.56,
+     "end": 33.74,
+     "n": 4
+    },
+    {
+     "start": 34.04,
+     "end": 36.08,
+     "n": 5
+    },
+    {
+     "start": 36.08,
+     "end": 37.56,
+     "n": 2
+    },
+    {
+     "start": 37.72,
+     "end": 39.64,
+     "n": 5
+    }
+   ]
+  },
+  {
+   "say": "Fenerbahçenin iki şehidi Kemal ve Nureddin Beylerdi. Türk İdman Ocağı da",
+   "caption": "Fenerbahçe'nin iki şehidi Kemal ve Nureddin Beylerdi. Türk İdman Ocağı da",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_fb1913.jpg",
+    "fit": "doldur",
+    "hiz": 0.6,
+    "baslik": "Fenerbahçe, 23 Mart 1913",
+    "kaynak": "Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Fenerbah%C3%A7e_SK_(23_March_1913).jpg",
+    "kirp": [
+     0.37,
+     0,
+     0.632,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "1913 Fenerbahçe futbolcuları, takım fotoğrafı",
+   "bolumler": [
+    {
+     "start": 40.08,
+     "end": 42.48,
+     "n": 5
+    },
+    {
+     "start": 42.48,
+     "end": 43.66,
+     "n": 2
+    },
+    {
+     "start": 44.08,
+     "end": 45.2,
+     "n": 4
+    }
+   ]
+  },
+  {
+   "say": "eski başkanı Doktor Mehmet Sedat Beyi şehit vermişti. Savaş sürdükçe bu sayı büyüdü.",
+   "caption": "eski başkanı Doktor Mehmet Sedat Bey'i şehit vermişti. Savaş sürdükçe bu sayı büyüdü.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_bundes_top.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Çanakkale'de ağır top",
+    "kaynak": "Bundesarchiv, Bild 183-R36225 / CC BY-SA 3.0 de",
+    "lisans": "CC BY-SA 3.0 de",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-R36225,_T%C3%BCrkei,_Dardanellen,_Schweres_Gesch%C3%BCtz.jpg",
+    "kirp": [
+     0.45,
+     0,
+     0.844,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "Çanakkale'de ağır topun yanında askerler",
+   "bolumler": [
+    {
+     "start": 45.2,
+     "end": 47.2,
+     "n": 5
+    },
+    {
+     "start": 47.2,
+     "end": 48.62,
+     "n": 3
+    },
+    {
+     "start": 48.86,
+     "end": 51.06,
+     "n": 5
+    }
+   ]
+  },
+  {
+   "say": "Kulübün kayıtlarına göre, Beşiktaşın ilk takımındaki 11 oyuncudan 8i şehit düştü.",
+   "caption": "Kulübün kayıtlarına göre, Beşiktaş'ın ilk takımındaki 11 oyuncudan 8'i şehit düştü.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_bjk1911.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Beşiktaş'ın ilk futbol takımı, 1911",
+    "kaynak": "Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Be%C5%9Fikta%C5%9F_JK_squad_(1911).jpg",
+    "kirp": [
+     0.33,
+     0,
+     0.66,
+     1
+    ],
+    "onay": {
+     "tekrar": "TEK1 22.11 10:13 (Kullanılsın; #92'de kullanılmıştı)"
+    }
+   },
+   "scene": "photo",
+   "gorunen": "Beşiktaş'ın ilk futbol takımı, çizgili formalarla",
+   "bolumler": [
+    {
+     "start": 51.26,
+     "end": 52.66,
+     "n": 3
+    },
+    {
+     "start": 52.84,
+     "end": 55.68,
+     "n": 5
+    },
+    {
+     "start": 55.68,
+     "end": 57.24,
+     "n": 3
+    }
+   ]
+  },
+  {
+   "say": "Takımlarımız farklı olabilir. Söz konusu vatan olduğunda hepimiz",
+   "caption": "Takımlarımız farklı olabilir. Söz konusu vatan olduğunda hepimiz",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_gsfb1913.jpg",
+    "fit": "doldur",
+    "hiz": 0.6,
+    "baslik": "Galatasaray ve Fenerbahçe futbolcuları, 1913-14",
+    "kaynak": "İdman mecmuası · Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Galatasaray-Fenerbah%C3%A7e_1913-14.jpg",
+    "kirp": [
+     0.37,
+     0,
+     0.624,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "Galatasaray ve Fenerbahçe futbolcuları birlikte, 1913-14",
+   "bolumler": [
+    {
+     "start": 57.42,
+     "end": 58.9,
+     "n": 3
+    },
+    {
+     "start": 58.9,
+     "end": 61.88,
+     "n": 5
+    }
+   ]
+  },
+  {
+   "say": "aynı bayrağın altında birleşiriz. Tüm şehitlerimizi rahmet, minnet ve saygıyla anıyoruz.",
+   "caption": "aynı bayrağın altında birleşiriz. Tüm şehitlerimizi rahmet, minnet ve saygıyla anıyoruz.",
+   "key": [],
+   "image": {
+    "local": "assets/belgeler/112_siper.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "baslik": "Çanakkale'de Türk siperi",
+    "kaynak": "Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Gallipoli_Ottoman_firstline_trench.jpg",
+    "kirp": [
+     0.3,
+     0,
+     0.73,
+     1
+    ]
+   },
+   "scene": "photo",
+   "gorunen": "Çanakkale'de siperdeki Türk askerleri",
+   "bolumler": [
+    {
+     "start": 61.88,
+     "end": 63.96,
+     "n": 4
+    },
+    {
+     "start": 64.18,
+     "end": 66.1,
+     "n": 3
+    },
+    {
+     "start": 66.38,
+     "end": 68.04,
+     "n": 4
+    }
+   ]
+  }
+ ],
+ "kapanis_kontrol_atla": true,
+ "kapanis_not": "TEK1 22.11: şehitler var, beğeni/takip istenmeyecek",
+ "surum": 1,
+ "onay": {
+  "tarihle_acilis": "TEK1 22.11 10:51 (metni kendisi '1915'te bir dergi' diye açtı, 11:41'de onayladı)"
+ }
+}
