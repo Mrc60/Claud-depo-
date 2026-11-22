@@ -29,3 +29,10 @@ X3. 120 kahvehane kapatıldı (Eyüp, 2 Eylül 1633): tek kaynak (Karagöz, arş
 - ÇIKAR: "geceleri evlerin bacalarına çıkıp koklarlardı" (Naîmâ "söylenir" diyor, rivayet); "kılık değiştirip denetlerdi" (GPT: popüler, birincil teyit yok).
 - GPT hatası: "Kâtib Çelebi'nin tütün sözü doğrulanamadı" dedi; Kuru çevirisiyle (Balance of Truth) doğrulandı.
 - GPT görsel: Met "A Youth in a Hammam Smoking a Pipe" (Public Domain, 18. yy minyatür) — Met sayfası bu oturumda açılamadı (izin listesinde yok), lisans kendim doğrulamadım.
+
+## PERPLEXITY RAPORU KONTROLÜ (22.11.2026 21:07; rapor başlığı yanlışlıkla "GPT raporu")
+- YENİ, ben okudum: Erman 2026, Akademik Tarih ve Düşünce Dergisi (DergiPark 5503333): Bağdat seferinde "Üçpınar menzilinde on dört kişi tütün içerken yakalanarak idam edilmiş, Urfa ve Halep'te..."; Revan seferinde Bor yakınında zeametli çavuş Cevherizade tütün içtiği için idam (Naîmâ 1968 + Hasan Beyzâde 2004). Hasan Beyzâde ayrı çağdaş tarihçi → seferde idam olayı için Naîmâ + Hasan Beyzâde + Kâtib Çelebi; 14 sayısı Sakaoğlu + Erman (ikisi de Naîmâ'dan) → sayı vermeden "seferde bile" denebilir.
+- 1633 yangını: Erman: "iki mahallenin ve yaklaşık yirmi bin hanenin yok olmasına" (Zinkeisen, Hammer; tek makale) → sayı verme. Solakzâde rivayeti (tiryakiler uyuyunca lüleden düşen ateş) → "rivayete göre" bile kullanma, gerek yok.
+- Kâtib Çelebi'nin görüşü (İSAD 48, Tan 2022, ben okudum): "tütün her ne kadar kötü ve kabih bir şey olsa da haramlığına hükmetmek için kati bir delile ihtiyaç vardır." → tütünü övmüyor, kesin delilsiz haram denmesine karşı.
+- 1609: TDV ("1609'da tütünün yasaklandığına dair ilk fermanda") + Saylan 2020 → iki kaynak, Perplexity'nin "zayıf" dediği yanlış.
+- Görsel: Perplexity Commons "Category:Murad IV" listesi verdi, lisans doğrulamadı. Commons API bu oturumda 429.
