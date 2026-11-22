@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 21.11.2026, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 22.11.2026 04:40, Hesap 1)
+
+## GECE KONTROLÜ (22.11.2026 04:40, Hesap 1)
+- Hesap 2: son 26 saatte sadece gece kontrolü kaydı (7030d56), hata yok. Defterde çift cevap yok (232 kayıt). Sohbet oturumu kaydı 3d7cada'da yine "Hesap: N" etiketi yok.
+- #111 Paralarda İnönü (video v5 + set111 verildi): kontrol.py bolum 5 HATA; 3'ü TEK1 onaylı tekrar görsel, kalan 2: sahne 1 4,4 sn (<4,5) ve sahne 1-5 benzerlik (aynı banknot kalıbı, büyük olasılıkla yanlış alarm). set111 0 hata.
+- Kendi hatam düzeltildi: #109 satırına #110 kapak cümlesi kopyalanmıştı; MESAJLAR başlığındaki bozuk kural satırı onarıldı.
+- TEK1'İN BEKLEYEN KARARLARI: #108 Fenerbahçe 1918 cümlesi ("Bardakçıya göre" mi, çıkarılsın mı) ve ses; #111 yayın; #104 senaryo; #102 yorum taslakları; #107 kaynak notunun repoya yazılması; #96/#97/#98 kapanış; #94; #88; #85; #84; DIZIN.md; üçüncü kayıt etiketi. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 
 ## GÜNCEL (21.11.2026 akşamüstü, Hesap 1)
@@ -10,7 +16,7 @@
 - Görsel zayıf: 8 kullanılabilir (kontrol.py gorsel 0 hata), ~14 gerekiyor. Asıl fotoğraflar (Son Posta 13.5.1931 yükleme, Vakit 11.7.1932 geri dönüş) Commons'ta yok. BEKLİYOR: TEK1 kararı (görsel çözümü + senaryoya geçiş). Senaryo yazılmadı.
 
 ## GÜNCEL (21.11.2026 gündüz, Hesap 1)
-- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. Senaryo onaylandı, ses alındı, video yapıldı (videolar dalı 109_simgeler.mp4, 70,6 sn, 12 sahne, kontrol.py bolum 0 hata). Yükleme seti arastirma/set109.txt (kontrol.py set 0 hata). Kapak: TEK1 "TARİHİMİZ / OKKAYLA SATILDI" seçti; şablonla ChatGPT talimatı verildi (krem #E8D9B5 + mühür kırmızısı #9E2B25). Sabit yorum TEK1 seçimiyle değişti: "Tarihimiz okkayla satıldı. Sizce bu bir ihmal miydi, cehalet mi?" (videodaki kapanış sorusundan farklı, TEK1 kararı).
+- #109 Kartal-Kanarya-Aslan (TEK1 seçti: "Tamam 1 olsun sorunsuz araştır"): araştırma bitti, arastirma/109_simgeler.md (özet en üstte, iddia-kaynak tablosu, çıkarılanlar, görsel planı). Senaryo arastirma/109_simgeler_senaryo.txt: 118 kelime, ~69 sn, kontrol.py 0 hata. 15 görsel assets/belgeler/109_*.jpg, kontrol.py gorsel 0 hata 0 uyarı, blog/sosyal medya kaynaklılar elendi. Senaryo onaylandı, ses alındı, video yapıldı (videolar dalı 109_simgeler.mp4, 70,6 sn, 12 sahne, kontrol.py bolum 0 hata). Yükleme seti arastirma/set109.txt (kontrol.py set 0 hata). (Bu satıra yanlışlıkla #110 kapak cümlesi kopyalanmıştı, 22.11 gece kontrolünde çıkarıldı; #109 kapak/sabit yorum için arastirma/set109.txt.)
 - #108: TEK1 senaryoyu aldı, ses bekleniyor. Hesap 2'nin uyarısı (Fenerbahçe 1918 ziyareti cümlesi sadece popüler basın) TEK1'e iletildi, karar onun.
 
 ## GECE KONTROLÜ (21.11.2026 05:30, Hesap 2)
