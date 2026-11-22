@@ -20,3 +20,12 @@ D8. Devlet 1688'de tütünden resmen vergi almaya başladı ("duhan resmi"). TDV
 X1. Bahâî Efendi "tütün içtiği için azledildi": Saylan böyle diyor; TDV Bahâî maddesi "keyif verici maddelere düşkün olmak" diyor, tütünü açıkça söylemiyor → metinde azil sebebi YOK.
 X2. "IV. Murad kılık değiştirip içenleri kendi öldürürdü", "binlerce kişi öldürüldü": kaynak yok → çıkar.
 X3. 120 kahvehane kapatıldı (Eyüp, 2 Eylül 1633): tek kaynak (Karagöz, arşiv listesi) → çıkar ya da ikinci kaynak bul.
+
+## GPT RAPORU KONTROLÜ (22.11.2026 21:01)
+- DÜZELTME D1: TDV Tütün: "İlk getiriliş tarihi ise en geç 1570'ler olmalıdır." → metinde "1500'lerin sonunda geldi"; 1601/1606 yayılma kaydı.
+- D8 güçlendi: TDV: "İlk resmî vergilendirmeye 9 Ağustos 1688'de karar verildi" (TDV tek kaynak; Saylan yıl vermeden vergi diyor) → metinde "1688'de" kullanılabilir, ikinci kaynak yıl teyidi yok, "17. yüzyılın sonunda" daha güvenli.
+- YENİ (Sakaoğlu 2004, Ehlikeyfin Kitabı, isamveri PDF, ben okudum; Naîmâ özeti): Bağdat seferinde Üçpınar menzilinde gizlice tütün içen 14 kişi padişahın emriyle öldürüldü; Urfa'da 14, Halep'te 20 kişi. Kâtib Çelebi de padişahın huzurunda 15-20 askerin idamını yazıyor. DİKKAT: Naîmâ, Kâtib Çelebi'den yararlanır (Karagöz) → bağımsız iki kaynak SAYILMAZ. Metinde "dönemin tarihçilerine göre" + sayı vermeden ya da "Kâtib Çelebi'ye göre" diye.
+- YENİ (Naîmâ, Sakaoğlu aktarımı): "yasakta ve zecrde şiddet gösterdikçe 'yasağa istek artar' sözünce duhan mübtelalarında da hırs ve rağbet arttı" → D6'yı destekler (Kâtib Çelebi + Saylan + Naîmâ).
+- ÇIKAR: "geceleri evlerin bacalarına çıkıp koklarlardı" (Naîmâ "söylenir" diyor, rivayet); "kılık değiştirip denetlerdi" (GPT: popüler, birincil teyit yok).
+- GPT hatası: "Kâtib Çelebi'nin tütün sözü doğrulanamadı" dedi; Kuru çevirisiyle (Balance of Truth) doğrulandı.
+- GPT görsel: Met "A Youth in a Hammam Smoking a Pipe" (Public Domain, 18. yy minyatür) — Met sayfası bu oturumda açılamadı (izin listesinde yok), lisans kendim doğrulamadım.
