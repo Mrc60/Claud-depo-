@@ -104,7 +104,7 @@
    "caption": "Eski nüfus cüzdanınızın arkasını hatırlıyor musunuz? Orada \"Dini\" diye bir bölüm vardı.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Pembe nüfus cüzdanının arka yüzü; üstte DİNİ: İSLAM, alt kısım mozaikli",
+   "gorunen": "Pembe nüfus cüzdanının arka yüzü; üstte DİNİ: İSLAM, kişisel bilgiler bulanık",
    "bolumler": [
     {
      "start": 0.0,
@@ -127,10 +127,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.333,
+     0.125,
      0.0,
-     0.708,
-     0.5
+     0.875,
+     1.0
     ],
     "baslik": "Eski pembe nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -289,7 +289,7 @@
    "caption": "2006'da yeni bir hak geldi. İsteyen, din hanesini boş bıraktırabiliyordu.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Mavi nüfus cüzdanının arka yüzü; üstte DİNİ: İSLAM, alt kısım mozaikli",
+   "gorunen": "Mavi nüfus cüzdanının arka yüzü; üstte DİNİ: İSLAM, kişisel bilgiler bulanık",
    "bolumler": [
     {
      "start": 25.52,
@@ -312,10 +312,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.271,
-     0.19,
-     0.729,
-     0.8
+     0.15,
+     0.12,
+     0.81,
+     1.0
     ],
     "baslik": "Eski mavi nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -350,10 +350,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.384,
+     0.346,
      0.19,
-     0.616,
-     0.5
+     0.654,
+     0.6
     ],
     "baslik": "Eski mavi nüfus cüzdanı, arka yüz (yakın)",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -519,10 +519,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.396,
-     0.0,
-     0.644,
-     0.33
+     0.363,
+     0.03,
+     0.677,
+     0.45
     ],
     "baslik": "Eski pembe nüfus cüzdanı, arka yüz (yakın)",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -560,10 +560,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.271,
-     0.19,
-     0.729,
-     0.8
+     0.15,
+     0.12,
+     0.81,
+     1.0
     ],
     "baslik": "Eski mavi nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -601,10 +601,10 @@
     "fit": "doldur",
     "hiz": 0,
     "kirp": [
-     0.333,
+     0.125,
      0.0,
-     0.708,
-     0.5
+     0.875,
+     1.0
     ],
     "baslik": "Eski pembe nüfus cüzdanı, arka yüz",
     "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
@@ -615,5 +615,5 @@
    }
   }
  ],
- "surum": 4
+ "surum": 5
 }
