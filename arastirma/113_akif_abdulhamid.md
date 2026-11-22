@@ -18,7 +18,7 @@ D1. Akif ilk başta II. Abdülhamid'e karşıydı, şiirlerinde ona ve dönemine
 D2. "İstibdat" şiirinde Abdülhamid'e "mel'un", "kanlı kâbus" der; "İblis'in ruhuna rahmet okuttun" der. Şiirin son kısmı hürriyeti (Meşrutiyeti) karşılar.
  - Safahat, "İstibdad" (Ersoy 1998: 73), Safi 2022a'da tam alıntı: "Ne mel'unsun ki rahmetler okuttun rûh-i İblîs'e!" [ben okudum]
  - Karaer: "Mehmet Akif, bu şiirinde (istibdât) II. Abdülhamit'i ve dönemini çok ağır bir…" [ben okudum]
- - Not: Yayın tarihi 14 Ocak 1909 Sırat-ı Müstakim (sadece Safi). Tarihi metne koyma.
+ - Not: Yayın 14 Ocak 1909 Sırat-ı Müstakim (Safi). Bu tarih Meşrutiyetten (Temmuz 1908) SONRA; Safi'ye göre şiir hürriyetin ilanı üzerine yazıldı. GPT bunu D4'e 'istisna' saydı, yanlış: şiir baskı döneminde değil, Meşrutiyet gelince yayımlandı. Tarihi metne koyma.
 
 D3. Sebep: hafiye (casus) düzeni, hapis, sürgün, jurnal; "haysiyetli insanları hapse attı, sürgüne gönderdi, her vicdana casus koydu" (şiirin kendisi). Ayrıca çevresi, hocaları ve dönemin kamuoyu.
  - Safahat dizeleri: "'Bu bir cani!' dedin sürdün, ya mahkûm eyledin hapse. / Müvekkel eyleyip casusu her vicdana, her hisse" (Safi 2022a alıntısı) [ben okudum]
@@ -30,9 +30,10 @@ D4. Bu şiirlerin çoğu istibdat döneminde basılamadı, bazıları gizlice el
  - Safi 2022b (Kuntay'dan): "Mehmet Âkif, II. Abdülhamid döneminde kitaplarını bastıramamaktadır." [ben okudum]
  - 1911 yılı: TBMM Safahat baskısı ve Mazıoğlu (İSAM) "1911'de Safahat adıyla kitap halinde bastırır" [arama özeti, PDF açılmadı]
 
-D5. Meşrutiyetin ilanından dört gün sonra İttihat ve Terakki'ye girdi; üyelik yeminindeki "kayıtsız şartsız itaat" sözüne itiraz etti: akla ve vicdana uygun emirlere uyacağını söyledi.
+D5. Meşrutiyetin ilanından birkaç gün sonra İttihat ve Terakki'ye girdi (GÜN SAYISI ÇELİŞKİLİ: Göçer/Kuntay ve MEB '4 gün', Bandırma Onyedi Eylül Üniv. kitabı s.181 ve TBMM konuşması '10 gün' → metinde gün sayısı YOK); üyelik yeminindeki "kayıtsız şartsız itaat" sözüne itiraz etti: akla ve vicdana uygun emirlere uyacağını söyledi.
  - Göçer 2017 (MAKÜ SBE Dergisi): "II. Meşrutiyet'in ilanından dört gün sonra… İttihat ve Terakki Cemiyetine katılmıştır… 'Cemiyetin bütün emirlerine bilâ kaydü şart itaat' ibaresini kabul etmeyerek…" (Kuntay 2007; Düzdağ 1988; Erişirgil 2006'ya dayanır) [ben okudum]
  - MEB İstiklal Marşı sitesi, "Diğer Yönleri": "Ben ancak, akla ve vicdana uygun olan emirlere uyarım. Mutlak söz veremem" ("bir rivayete göre" diye geçiyor) [WebFetch özeti]
+ - Bandırma Onyedi Eylül Üniv., 'Mehmet Âkif ve İstiklâl Marşı' s.181: "'kayıtsız şartsız' ifadesine karşı çıkmış, bunun yerine; «Cemiyetin emirlerinden sadece iyi ve doğru olanlarına uyacağım» şeklinde yemin etmiştir." [ben okudum]
  - Not: Birebir söz MEB'de "rivayet". Metinde birebir alıntı yerine anlamı ver.
 
 D6. Meşrutiyet beklediği gibi çıkmadı; işler eskisinden kötü oldu; Akif bundan İttihat ve Terakki'yi sorumlu tuttu.
@@ -68,3 +69,16 @@ X5. Yemin itirazından sonra cemiyetin yemin metnini değiştirmesi: sadece MEB 
 
 ## RİSK
 - Facebook din/siyaset dağıtım riski var (bkz. CLAUDE.md #62 dersi). Tarafsız dil: Akif'in kendi sözleri + akademisyenlerin tespiti; "Abdülhamid iyi/kötü" hükmü yok.
+
+## GPT RAPORU KONTROLÜ (22.11.2026 15:46)
+- Doğru düzeltme: gün sayısı çelişkili (4/10) → metinden çıkarıldı. Bandırma kitabı yemin için 2. kaynak oldu.
+- Yanlış yorum: "İstibdat şiiri istisna" → şiir Meşrutiyetten sonra yayımlandı, D4 değişmedi.
+- Doğru uyarı: Akif'e özel jurnal/takip belgesi yok → metinde "Akif takip edildi" denmeyecek; baskı dönemin genel durumu olarak anlatılacak.
+- TBMM kaynağı bir milletvekili konuşması, tarih kaynağı sayılmaz. Malumatfuruş açılamadı (izin listesinde yok), kullanılmadı.
+- GPT görselleri: Merzifon (SALT kaynaklı, #074'te kullanılmış) ve Mehmet_Akif.jpg (kaynak site) elendi; II._Abdülahmit.jpg 398 px, elendi.
+- GPT'nin senaryo taslağı kullanılmayacak (rapor dili, kanal kurallarına uymuyor).
+
+## GÖRSEL DURUMU (son)
+- Kullanılabilir 19 (kontrol.py gorsel'den geçti, gözle bakıldı): Akif portre, Akif Mısır'da, Akif cenazesi 1936, Abdülhamid 1907 portre, Abdülhamid 1908 (LOC Bain, dikey), Abdülhamid 1908 halk arasında, Yıldız 1909, Yıldız Camii, 1908 halk gösterisi, 1908 ilan, İttihat ve Terakki merkez heyeti (sepya), Meclis-i Mebusan 1908, Hareket Ordusu Yıldız'da (2), tahttan indirme heyeti, Alatini Köşkü kartpostal, Alatini nöbetçi 1912, Selamsız karakolu (1880-93), Sırat-ı Müstakim başlığı.
+- Elenen (bu turda): Proclamation second c era (İttihat heyetiyle aynı fotoğraf).
+- Hâlâ yok: semerci meseli, Asım/Safahat kapağı, genç Akif.
