@@ -355,3 +355,5 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - #107 Sümerbank 3 cevap (kadir_27064, ahmetdeneme8, serdal831), #102 Ağnam 5 cevap (kacaktc, imparator8677 x2, i.i8737, typhoon891). Hepsi isReply true, defterde.
 - Bu sohbet bağlantısında Zernio'da sadece TikTok var (IG/FB yok).
 - NOT TEK1'e: #107 sabit yorum sorusu yfdem'in yorumuna yanıt olarak düşmüş görünüyor.
+
+- HATIRLATMA (TEK1, 22.11.2026): 1 Aralık 2026'da hurda kâğıt videosu için içerik korumasını aktif edecek. Telefon takvimine 10:00 hatırlatma kuruldu (sohbet oturumu).
