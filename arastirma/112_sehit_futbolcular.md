@@ -36,3 +36,7 @@
 - BJK İngilizce tarihçe 2/104 ve 2/76 açıldı: şehitlerden söz etmiyor; 2/76 ilk takımın 11 kişisini sayıyor. Türkçe tarihçe ("tifüs" cümlesi) açılamadı -> Rıdvan'ın cephesi yazılmaz.
 - İstanbul Ansiklopedisi (Koçu): Arif "Birinci Cihan Harbi arifesindeki yıllarda, Anadoluda bir eşkıya takibinde şehid oldu" -> Arif için tarih üç kaynakta üç türlü (Koçu: savaş öncesi; Sözcü: 19.11.1919 Bor; GPT/fenerbahcetarihi: 15.06.1919 Tahtaköprü). KARAR: Arif videoya girmez.
 - ATAM (Kaya 2024) Hasnun Galip: 1915 Çanakkale şehit, Harp Mecmuası'na dayanıyor (okundu).
+
+## TEK1 ONAYLARI (22.11.2026)
+- 10:11 Donanma Mecmuası kapağı: "sen onu da siyah beyaz yap" -> siyah-beyaza çevrildi (renk %0). Bölüm JSON: image.onay.renkli gerekmez.
+- 10:13 Beşiktaş 1911 ilk takım (#92 7. sahnede kullanıldı): "Kullanılsın" -> bölüm JSON: image.onay.tekrar = "TEK1 22.11 (Kullanılsın)".
