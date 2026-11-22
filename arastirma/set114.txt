@@ -1,0 +1,40 @@
+=== YT_BASLIK ===
+Osmanlı'da tütün içmenin cezası ölümdü #SıradanDeğil 114
+=== YT_ACIKLAMA ===
+IV. Murad döneminde tütün içmenin cezası ölümdü. Tütün Osmanlı'ya 1600'lere doğru ulaştı, ilk yasak 1609'da geldi. 1633'te İstanbul'da çıkan büyük yangının suçu tütün içenlere yüklendi, tütün içilen kahvehaneler yıktırıldı ve yasağa uymamak siyaseten katl, yani padişah emriyle idam sebebi sayıldı. Bağdat Seferi'nde bile tütün içerken yakalananlar idam edildi.
+
+Peki yasak işe yaradı mı? Dönemin yazarı Kâtib Çelebi, insanların küçük pipolarını gömleklerinin altında ve ceplerinde sakladığını, bu baskıya rağmen içenlerin içmeyenlerden fazla olduğunu yazdı.
+
+1640'ta IV. Murad öldü ve yasak gevşedi. 1649'da şeyhülislam olan Bahâî Mehmed Efendi, tütünün mubah, yani dinen serbest olduğuna fetva verdi. Devlet sonunda tütünden vergi almaya başladı; ilk resmî vergilendirmeye 1688'de karar verildi.
+
+Kaynaklar:
+- TDV İslâm Ansiklopedisi, "Tütün" maddesi
+- Fatma Gül Karagöz, "17. Yüzyılda Mühimme Defterleri ve Ayntâb/Antep Şer'iye Sicilleri Örneklerinde Kahvehânelerin Kapatılması ve Tütün Yasaklarının Uygulanması", Hacettepe HFD, 2020
+- Mustafa Saylan, "17. Yüzyıl Osmanlısında Bir Tütün Müdafaası", dergiAbant, 2020
+- Ozan Erman, "IV. Murad Döneminde Revan ve Bağdat Seferlerinin Osmanlı Halkı Üzerindeki Sosyal ve Ekonomik Etkileri", Akademik Tarih ve Düşünce Dergisi, 2026
+- Kâtib Çelebi, Mîzânü'l-hak
+
+Görseller: Wellcome Collection; Library of Congress; Gallica (BnF); Wikimedia Commons (kamu malı, CC BY-SA). Renkli tablolar siyah-beyaza çevrildi.
+
+#SıradanDeğil #TütünYasağı #Osmanlı #Tarih
+=== YT_ETIKET ===
+tütün yasağı, Osmanlı tütün yasağı, IV. Murad, Dördüncü Murad, Sultan Murad tütün, tütün içmenin cezası, siyaseten katl, 1633 İstanbul yangını, kahvehaneler yıkıldı, Osmanlı kahvehane, Kâtib Çelebi, Mîzânü'l-hak, Bahâî Mehmed Efendi, tütün fetvası, şeyhülislam fetvası, Bağdat Seferi 1638, tütün vergisi, duhan, Osmanlı yasakları, eski yasaklar, Osmanlı tarihi, 17. yüzyıl Osmanlı, az bilinen tarih, tarih shorts, ilginç tarih bilgileri, Sıradan Değil
+=== YT_SABIT ===
+Sizce bir alışkanlık, yasakla bırakılır mı?
+=== TT_ACIKLAMA ===
+IV. Murad döneminde tütün içmenin cezası ölümdü. 1633 yangınından sonra kahvehaneler yıktırıldı. Ama Kâtib Çelebi'ye göre içenler yine de içmeyenlerden fazlaydı.
+
+Kaynaklar: TDV İslâm Ansiklopedisi; Karagöz, Hacettepe HFD 2020; Saylan, dergiAbant 2020; Erman 2026; Kâtib Çelebi, Mîzânü'l-hak.
+Görseller: Wellcome (CC BY), Commons (CC BY-SA).
+
+#SıradanDeğil #tütün #osmanlı #tarih
+=== TT_SABIT ===
+Sizce bir alışkanlık, yasakla bırakılır mı?
+=== FBIG_ACIKLAMA ===
+IV. Murad döneminde tütün içmenin cezası ölümdü. Kahvehaneler yıktırıldı, ama içenler azalmadı. Kaynak: TDV; Karagöz 2020; Saylan 2020; Erman 2026; Kâtib Çelebi. Görseller: Wellcome (CC BY), Commons (CC BY-SA). #SıradanDeğil #tütün #osmanlı #tarih #dördüncümurad
+=== IG_ACIKLAMA ===
+IV. Murad döneminde tütün içmenin cezası ölümdü. Kahvehaneler yıktırıldı, ama içenler azalmadı. Kaynak: TDV; Karagöz 2020; Saylan 2020; Erman 2026; Kâtib Çelebi. Görseller: Wellcome (CC BY), Commons (CC BY-SA). #SıradanDeğil #tütün #osmanlı #tarih #dördüncümurad
+=== FBIG_SABIT ===
+Sizce bir alışkanlık, yasakla bırakılır mı?
+=== X_ACIKLAMA ===
+IV. Murad döneminde tütün içmenin cezası ölümdü. Kahvehaneler yıktırıldı, ama Kâtib Çelebi'ye göre içenler içmeyenlerden fazlaydı. Kaynak: TDV; Saylan 2020; Kâtib Çelebi. #SıradanDeğil #TütünYasağı
