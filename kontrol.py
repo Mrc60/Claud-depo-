@@ -6,6 +6,7 @@ Kullanım:
   python3 kontrol.py bolum  episodes/NNN_x.json   # bölüm JSON'u (görsel, süre)
   python3 kontrol.py set    set.txt               # yükleme seti
   python3 kontrol.py gorsel a.jpg b.jpg ...       # aday/kapak görseli: eski görsellerle aynı fotoğraf mı
+  python3 kontrol.py video  episodes/NNN_x.json NNN_x.mp4   # üretilen video: kare panosu + kenarlık/koyuluk
 
 Yükleme seti dosya biçimi: her alan "=== AD ===" satırıyla başlar. Adlar:
   YT_BASLIK, YT_ACIKLAMA, YT_ETIKET, YT_SABIT, TT_ACIKLAMA, TT_SABIT,
@@ -191,6 +192,126 @@ def ad_kontrol(segs, no):
                 hata(f"sahne {i}: {fn[:70]} başka bölümde kullanılmış")
 
 
+
+# ---------------- GÖRSELİN İÇİ (22.11.2026, TEK1: "eklenecekleri hepsini ekle, hata istemiyorum") ----------------
+# Bu denetimler dosya adına/ayara değil, görüntünün kendisine bakar.
+# KENARLIK: #111'de banknotu ortaya koyup üstü/altı gri bulanık doldurulunca FB "Videonda kenarlık var" dedi
+# (4. kez). Ölçüm (Laplace kenar şiddeti, 270x480): bulanık/düz bant 0-1,1; gerçek fotoğraf kenarı 5-100.
+# Belge kenarına konan beyaz pay da bant sayılır (0,0). Düşük ayrıntılı fotoğrafta yanlış alarm olmasın diye eşik
+# min(2,5, orta*0,25). 1263 eski görselde denendi: #51/#54 banknot kolajları, #75-#87 belge payları yakalandı.
+# RENKLİ: sepya (ton 5-25) sayılmaz; doygun ve sepya dışı piksel oranı >%5 ise renkli (#80 dia fotoğrafları %18-21).
+# KOYU: ortalama parlaklık <60 uyarı, açılış sahnesinde <70 HATA ("açılış karesi asla koyu görünmesin").
+YAZI_KELIME = re.compile(r"gazete|\bbelge|tutanak|resm[iî] gazete|kanun|ferman|mektup|sayfa|manşet|ilan|dilekçe|kimlik|tezkere|nüfus", re.I)
+LISANS_YASAK = re.compile(r"\bSALT\b|SALT Araştırma|\bCC[- ]?BY[- ]?NC|\bCC[- ]?BY[- ]?ND|-NC\b|-ND\b|\bNC-|\bND-|non-?commercial|no ?deriv|blogspot|wordpress|\bblog\b|\bforum\b|tarihtarih|arastiralim", re.I)
+
+
+def _bolge(cv2, yol, kirp=None):
+    """Render'ın ekranda göstereceği 9:16 bölgeyi yaklaşık verir (kirp + ortadan 9:16)."""
+    im = cv2.imread(yol, cv2.IMREAD_COLOR)
+    if im is None:
+        return None
+    h, w = im.shape[:2]
+    if kirp:
+        x0, y0, x1, y1 = kirp
+        im = im[int(y0 * h):int(y1 * h), int(x0 * w):int(x1 * w)]
+        h, w = im.shape[:2]
+    if w / h > 9 / 16:
+        nw = int(h * 9 / 16); x = (w - nw) // 2; im = im[:, x:x + nw]
+    else:
+        nh = int(w * 16 / 9); y = (h - nh) // 2; im = im[y:y + nh]
+    return cv2.resize(im, (270, 480), interpolation=cv2.INTER_AREA)
+
+
+def kenar_bant(cv2, im):
+    """Bulanık/düz kenar bandı (letterbox, çerçeve) var mı: (var_mı, ölçümler)."""
+    import numpy as np
+    g = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY).astype(np.float32)
+    L = np.abs(cv2.Laplacian(g, cv2.CV_32F))
+    m = {"ust": float(L[:48].mean()), "alt": float(L[-48:].mean()), "sol": float(L[:, :24].mean()),
+         "sag": float(L[:, -24:].mean()), "orta": float(L[120:360, 40:230].mean())}
+    e = min(2.5, 0.25 * m["orta"])
+    var = (m["ust"] < e and m["alt"] < e) or (m["sol"] < e and m["sag"] < e)
+    return var, m
+
+
+def renk_orani(cv2, im):
+    h = cv2.cvtColor(im, cv2.COLOR_BGR2HSV)
+    H, S, V = h[..., 0], h[..., 1], h[..., 2]
+    renkli = (S > 70) & (V > 50) & ~((H >= 5) & (H <= 25))
+    return float(renkli.mean()) * 100
+
+
+def parlaklik(cv2, im):
+    return float(cv2.cvtColor(im, cv2.COLOR_BGR2GRAY).mean())
+
+
+def yazi_yogunlugu(cv2, im):
+    g = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
+    return float((cv2.Canny(g, 80, 200) > 0).mean()) * 100
+
+
+def icerik_kontrol(i, yol, img, seg):
+    cv2 = _cv()
+    if not cv2:
+        return
+    im = _bolge(cv2, yol, img.get("kirp"))
+    if im is None:
+        hata(f"sahne {i}: görsel açılamadı ({yol})")
+        return
+    var, m = kenar_bant(cv2, im)
+    if var:
+        hata(f"sahne {i}: KENARLIK/BULANIK BANT var (üst {m['ust']:.1f}, alt {m['alt']:.1f}, sol {m['sol']:.1f}, sağ {m['sag']:.1f}; "
+             f"orta {m['orta']:.1f}). FB 'kenarlık' der. Görsel 9:16'yı kendisi doldursun ya da keskin fotoğrafın üstüne kart (≤%66) olsun")
+    r = renk_orani(cv2, im)
+    if r > 5:
+        hata(f"sahne {i}: RENKLİ görsel (renkli piksel %{r:.0f}). Siyah-beyaz ara; yoksa TEK1'e sor, onay gelirse image.onay.renkli yaz")
+    b = parlaklik(cv2, im)
+    if i == 1 and b < 70:
+        hata(f"sahne 1 (açılış): görsel koyu (parlaklık {b:.0f}/255); açılış karesi koyu olmaz")
+    elif b < 60:
+        uyari(f"sahne {i}: görsel koyu (parlaklık {b:.0f}/255), karede bak")
+    hiz = img.get("hiz", 1.0)
+    metin = " ".join(str(img.get(k, "")) for k in ("baslik", "kaynak")) + " " + os.path.basename(str(img.get("local", "")))
+    if YAZI_KELIME.search(metin) and (hiz or 0) > 0:
+        hata(f"sahne {i}: yazılı belge/gazete görünüyor ama kamera hareketli (hiz {hiz}); yazı titrer, hiz 0 ver")
+    elif yazi_yogunlugu(cv2, im) > 22 and (hiz or 0) > 0.6:
+        uyari(f"sahne {i}: çok ayrıntılı/yazılı görsel, hiz {hiz} titreyebilir; karede bak")
+    lis = " ".join(str(img.get(k, "")) for k in ("lisans", "kaynak", "sayfa", "baslik"))
+    mm = LISANS_YASAK.search(lis)
+    if mm:
+        hata(f"sahne {i}: lisans/kaynak yasak listede ('{mm.group()}'): SALT, NC/ND, blog/forum kullanılmaz")
+    if not str(seg.get("gorunen", "")).strip():
+        hata(f"sahne {i}: 'gorunen' alanı boş. Sahnede ne göründüğünü yaz ve altyazıyla eşleştir (ses-görsel uyumu)")
+
+
+ONAY_ESLES = {
+    "tekrar": ("bölümünde kullanılmış", "ESKİ GÖRSELLE AYNI", "başka bölümde"),
+    "renkli": ("RENKLİ",),
+    "benzer": ("aynı fotoğraf (skor",),
+    "sure": ("ekranda (<4,5",),
+}
+
+
+def onay_uygula(segs):
+    """TEK1'in onayladığı istisnalar: image.onay = {"tekrar": "TEK1 21.11", ...}. KENARLIK onaylanamaz."""
+    global hatalar
+    kalan = []
+    for h_ in hatalar:
+        sahneler = [int(x) for x in re.findall(r"sahne (\d+)", h_)]
+        tasindi = False
+        for tur, kaliplar in ONAY_ESLES.items():
+            if not any(k in h_ for k in kaliplar) or not sahneler:
+                continue
+            onaylar = [((segs[n - 1].get("image") or {}).get("onay") or {}).get(tur) if 0 < n <= len(segs) else None for n in sahneler]
+            if all(onaylar):
+                uyarilar.append(f"{h_}  [TEK1 onaylı: {onaylar[0]}]")
+                tasindi = True
+                break
+        if not tasindi:
+            kalan.append(h_)
+    hatalar[:] = kalan
+
+
 # ---------------- BÖLÜM ----------------
 def md5(yol):
     return hashlib.md5(open(yol, "rb").read()).hexdigest()
@@ -271,11 +392,13 @@ def bolum_kontrol(yol):
                 pass
         if "atatürk" in (img.get("baslik", "") + img.get("kaynak", "")).lower():
             uyari(f"sahne {i}: Atatürk görseli (az kullan)")
+        icerik_kontrol(i, p, img, s)
     ad_kontrol(segs, no)
     yeni = [(f"sahne {i}", os.path.join(KOK, (s.get("image") or {}).get("local")))
             for i, s in enumerate(segs, 1)
             if (s.get("image") or {}).get("local") and os.path.exists(os.path.join(KOK, s["image"]["local"]))]
     benzerlik_kontrol(yeni, haric_onek=no + "_")
+    onay_uygula(segs)
 
 
 # ---------------- YÜKLEME SETİ ----------------
@@ -359,9 +482,65 @@ def gorsel_kontrol(yollar):
     benzerlik_kontrol([(os.path.basename(y), y) for y in yollar])
 
 
+# ---------------- HAZIR VİDEO (22.11.2026) ----------------
+def video_kontrol(json_yol, mp4):
+    """Üretilen videodan her sahnenin başı/ortası/sonu karesini alır; kenarlık, koyuluk ve kenardan taşma için
+    tarar, tek panoya koyar. Pano GÖZLE de açılır: python3 kontrol.py video episodes/NNN_x.json NNN_x.mp4"""
+    import subprocess, tempfile
+    cv2 = _cv()
+    if not cv2:
+        return
+    import numpy as np
+    d = json.load(open(json_yol, encoding="utf-8"))
+    kes = (d.get("dis_ses") or {}).get("kesimler") or []
+    try:
+        sure = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", mp4],
+                                    capture_output=True, text=True).stdout.strip())
+    except Exception:
+        hata("video okunamadı (ffprobe)"); return
+    if kes and abs(sure - kes[-1][-1][1]) > 2.5:
+        uyari(f"video süresi {sure:.1f} sn, ses {kes[-1][-1][1]:.1f} sn")
+    tmp = tempfile.mkdtemp()
+    kareler = []
+    for i, k in enumerate(kes, 1):
+        a, b = k[0][0], k[-1][1]
+        for oran in (0.12, 0.5, 0.88):
+            ts = a + (b - a) * oran
+            f = os.path.join(tmp, f"s{i:02d}_{int(oran*100)}.jpg")
+            subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{ts:.2f}", "-i", mp4, "-frames:v", "1", "-y", f])
+            im = cv2.imread(f)
+            if im is None:
+                hata(f"sahne {i}: {ts:.1f}. sn karesi alınamadı"); continue
+            k_ = cv2.resize(im, (270, 480), interpolation=cv2.INTER_AREA)
+            # altyazı ve etiket alt/yan kenarda olduğundan bant ölçümü üst kenar + iki yan kenarla yapılır
+            g = cv2.cvtColor(k_, cv2.COLOR_BGR2GRAY).astype(np.float32)
+            L = np.abs(cv2.Laplacian(g, cv2.CV_32F))
+            # Ölçüm (#111): gri bantlı v5 karelerinde üst 0,7-1,3 ve alt (altyazının altı) 1,0-2,2; temiz v7'de en az biri ≥4,8.
+            ust, alt = L[:48].mean(), L[400:470, 30:240].mean()
+            sol, sag, orta = L[60:300, :24].mean(), L[60:300, -24:].mean(), L[120:300, 40:230].mean()
+            e = min(3.0, 0.3 * orta)
+            if (ust < e and alt < e) or (sol < e and sag < e):
+                hata(f"sahne {i} ({ts:.1f}. sn): karede KENARLIK/BULANIK BANT (üst {ust:.1f}, alt {alt:.1f}, sol {sol:.1f}, sağ {sag:.1f})")
+            if i == 1 and oran == 0.12 and g.mean() < 70:
+                hata(f"açılış karesi koyu (parlaklık {g.mean():.0f})")
+            kareler.append(k_)
+    if kareler:
+        sut = 9
+        satir = (len(kareler) + sut - 1) // sut
+        pano = np.full((satir * 484, sut * 274, 3), 255, np.uint8)
+        for n, k_ in enumerate(kareler):
+            r, c = divmod(n, sut)
+            pano[r * 484:r * 484 + 480, c * 274:c * 274 + 270] = k_
+        cik = os.path.splitext(mp4)[0] + "_pano.jpg"
+        cv2.imwrite(cik, pano)
+        print(f"kare panosu: {cik} (her sahne başı/ortası/sonu; GÖZLE aç: kenardan taşma, yarım yüz, sesle uyum)")
+
+
 def main():
     if len(sys.argv) >= 3 and sys.argv[1] == "gorsel":
         gorsel_kontrol(sys.argv[2:])
+    elif len(sys.argv) == 4 and sys.argv[1] == "video":
+        video_kontrol(sys.argv[2], sys.argv[3])
     elif len(sys.argv) != 3 or sys.argv[1] not in ("metin", "bolum", "set"):
         print(__doc__)
         sys.exit(2)
