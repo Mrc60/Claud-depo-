@@ -1,0 +1,636 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 114,
+ "slug": "tutun_yasagi",
+ "title": "Osmanlı'da tütün yasağı",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "TDV İslâm Ansiklopedisi, Tütün",
+  "F. G. Karagöz, Hacettepe HFD 2020",
+  "M. Saylan, dergiAbant 2020",
+  "O. Erman, Akademik Tarih ve Düşünce Dergisi 2026",
+  "Kâtib Çelebi, Mîzânü'l-hak"
+ ],
+ "acilis": "Bir nefes tütünün\ncezası: ölüm",
+ "dis_ses": {
+  "file": "assets/ses/114_tutun_yasagi.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     7.4
+    ]
+   ],
+   [
+    [
+     7.4,
+     13.3
+    ]
+   ],
+   [
+    [
+     13.3,
+     17.9
+    ]
+   ],
+   [
+    [
+     17.9,
+     23.7
+    ]
+   ],
+   [
+    [
+     23.7,
+     29.1
+    ]
+   ],
+   [
+    [
+     29.1,
+     33.7
+    ]
+   ],
+   [
+    [
+     33.7,
+     39.3
+    ]
+   ],
+   [
+    [
+     39.3,
+     44.3
+    ]
+   ],
+   [
+    [
+     44.3,
+     48.9
+    ]
+   ],
+   [
+    [
+     48.9,
+     53.45
+    ]
+   ],
+   [
+    [
+     53.45,
+     58.75
+    ]
+   ],
+   [
+    [
+     58.75,
+     63.3
+    ]
+   ],
+   [
+    [
+     63.3,
+     68.9
+    ]
+   ],
+   [
+    [
+     68.9,
+     74.031
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Bir nefes tütün yüzünden idam edilmek... Yaklaşık dört yüz yıl önce İstanbulda bu gerçekti.",
+   "caption": "Bir nefes tütün yüzünden idam edilmek... Yaklaşık 400 yıl önce İstanbul'da bu gerçekti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Uzun çubukla tütün içen yaşlı adam (gravür, siyah-beyaz)",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 1.8,
+     "n": 4
+    },
+    {
+     "start": 1.8,
+     "end": 4.26,
+     "n": 4
+    },
+    {
+     "start": 4.26,
+     "end": 6.26,
+     "n": 4
+    },
+    {
+     "start": 6.26,
+     "end": 7.4,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_cubuk_ihtiyar.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.118,
+     0,
+     0.882,
+     1
+    ],
+    "baslik": "Çubuk içen yaşlı adam, 19. yy gravürü",
+    "kaynak": "Wellcome Collection · CC BY 4.0",
+    "lisans": "CC BY 4.0",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:An_old_man_smokes_a_long-stemmed_pipe,_others_water-pipes,_i_Wellcome_V0019268.jpg"
+   }
+  },
+  {
+   "say": "Tütün, 1600lere doğru Osmanlıya ulaştı. 1609da ilk yasak geldi.",
+   "caption": "Tütün, 1600'lere doğru Osmanlı'ya ulaştı. 1609'da ilk yasak geldi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Tütün bitkisinin çiçek ve yaprak çizimi",
+   "bolumler": [
+    {
+     "start": 7.54,
+     "end": 9.22,
+     "n": 4
+    },
+    {
+     "start": 9.22,
+     "end": 12.22,
+     "n": 4
+    },
+    {
+     "start": 12.22,
+     "end": 13.3,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_tutun_bitki.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.041,
+     0,
+     0.959,
+     1
+    ],
+    "baslik": "Tütün bitkisi, botanik çizim",
+    "kaynak": "Library of Congress · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Tobacco_plant_LCCN2006681279.jpg"
+   }
+  },
+  {
+   "say": "Ama asıl sert dönem, Dördüncü Murad zamanında başladı.",
+   "caption": "Ama asıl sert dönem, IV. Murad zamanında başladı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "IV. Murad portresi, sorguçlu kavuk, zırh (tablo, siyah-beyaza çevrildi)",
+   "bolumler": [
+    {
+     "start": 13.3,
+     "end": 15.06,
+     "n": 4
+    },
+    {
+     "start": 15.06,
+     "end": 17.9,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_murad_tablo.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.08,
+     0,
+     0.92,
+     1
+    ],
+    "baslik": "IV. Murad, tablo",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Murad_IV.jpg"
+   }
+  },
+  {
+   "say": "1633te İstanbulda büyük bir yangın çıktı. Suç, tütün içenlere yüklendi.",
+   "caption": "1633'te İstanbul'da büyük bir yangın çıktı. Suç, tütün içenlere yüklendi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "İstanbul kıyısında ahşap evler, kayıklar (gravür)",
+   "bolumler": [
+    {
+     "start": 17.9,
+     "end": 20.14,
+     "n": 4
+    },
+    {
+     "start": 20.14,
+     "end": 22.24,
+     "n": 4
+    },
+    {
+     "start": 22.24,
+     "end": 23.7,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_bogaz_gravur.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.248,
+     0,
+     0.592,
+     1
+    ],
+    "baslik": "İstanbul'da ahşap evler, gravür (1839)",
+    "kaynak": "Internet Archive Book Images · kısıtlama yok",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Constantinople_-_and_the_scenery_of_the_seven_churches_of_Asia_Minor_(1839)_(14596576079).jpg"
+   }
+  },
+  {
+   "say": "Tütün içilen kahvehaneler yıktırıldı. Tütün içmenin cezası artık ölümdü.",
+   "caption": "Tütün içilen kahvehaneler yıktırıldı. Tütün içmenin cezası artık ölümdü.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kahvehane içi, oturan ve çubuk içen insanlar (suluboya, siyah-beyaza çevrildi)",
+   "bolumler": [
+    {
+     "start": 23.82,
+     "end": 26.38,
+     "n": 4
+    },
+    {
+     "start": 26.38,
+     "end": 28.44,
+     "n": 4
+    },
+    {
+     "start": 28.44,
+     "end": 29.1,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_kahvehane_preziosi.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.289,
+     0,
+     0.711,
+     1
+    ],
+    "baslik": "İstanbul'da bir kahvehane, A. Preziosi resmi (1854)",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Preziosi_-_A_Coffee_House_Constantinople_1854.jpg"
+   }
+  },
+  {
+   "say": "Bağdat Seferinde bile, tütün içerken yakalananlar idam edildi.",
+   "caption": "Bağdat Seferi'nde bile, tütün içerken yakalananlar idam edildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "IV. Murad tahtta, yanında iki yeniçeri (eski baskı)",
+   "bolumler": [
+    {
+     "start": 29.16,
+     "end": 31.04,
+     "n": 4
+    },
+    {
+     "start": 31.04,
+     "end": 33.7,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_murad_yenicheri.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.195,
+     0.08,
+     0.805,
+     0.86
+    ],
+    "baslik": "IV. Murad ve iki yeniçeri, eski baskı",
+    "kaynak": "Wikimedia Commons · CC BY-SA 4.0",
+    "lisans": "CC BY-SA 4.0",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Murad_IV-_Sahand_Ace.jpg"
+   }
+  },
+  {
+   "say": "Peki, bu kadar sert bir yasak işe yaradı mı? [short pause] Dönemin yazarı Kâtib Çelebi,",
+   "caption": "Peki, bu kadar sert bir yasak işe yaradı mı? Dönemin yazarı Kâtib Çelebi,",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Eski el çizimi harita, Arapça harfli yazılar",
+   "bolumler": [
+    {
+     "start": 33.84,
+     "end": 35.26,
+     "n": 4
+    },
+    {
+     "start": 35.26,
+     "end": 36.52,
+     "n": 4
+    },
+    {
+     "start": 36.52,
+     "end": 38.5,
+     "n": 4
+    },
+    {
+     "start": 38.5,
+     "end": 39.3,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_katip_harita.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.101,
+     0,
+     0.899,
+     1
+    ],
+    "baslik": "Kâtib Çelebi'nin çizdiği harita, 1650'ler",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Palestine,_Syria_and_the_Egyptian_Delta_in_Katip_%C3%87elebi%27s_maps_from_the_1650s.png"
+   }
+  },
+  {
+   "say": "insanların küçük pipolarını gömleklerinin altında, ceplerinde sakladığını anlatır.",
+   "caption": "insanların küçük pipolarını gömleklerinin altında, ceplerinde sakladığını anlatır.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Açık hava kahvehanesinde oturan sarıklı adamlar (eski fotoğraf)",
+   "bolumler": [
+    {
+     "start": 39.36,
+     "end": 41.7,
+     "n": 4
+    },
+    {
+     "start": 41.7,
+     "end": 44.3,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_kahvehane_foto.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.32,
+     0,
+     0.68,
+     1
+    ],
+    "baslik": "Eski bir İstanbul kahvehanesi, fotoğraf",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Old_Istanbul.jpg"
+   }
+  },
+  {
+   "say": "Ona göre bu baskıya rağmen içenler, içmeyenlerden fazlaydı.",
+   "caption": "Ona göre bu baskıya rağmen içenler, içmeyenlerden fazlaydı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kahvehanede meddahı dinleyen kalabalık (gravür)",
+   "bolumler": [
+    {
+     "start": 44.62,
+     "end": 45.92,
+     "n": 4
+    },
+    {
+     "start": 45.92,
+     "end": 48.9,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_meddah.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.137,
+     0.02,
+     0.863,
+     0.95
+    ],
+    "baslik": "Kahvehanede meddah, T. Allom gravürü",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Meddah_story_teller.png"
+   }
+  },
+  {
+   "say": "1640ta Murad öldü ve yasak gevşedi. Sonra bir",
+   "caption": "1640'ta Murad öldü ve yasak gevşedi. Sonra bir",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yatakta yatan padişah ve çevresindekiler (gravür)",
+   "bolumler": [
+    {
+     "start": 49.3,
+     "end": 51.44,
+     "n": 4
+    },
+    {
+     "start": 51.44,
+     "end": 53.45,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_murad_olum.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.339,
+     0,
+     0.761,
+     1
+    ],
+    "baslik": "IV. Murad'ın ölümü, Rycaut gravürü",
+    "kaynak": "Wikimedia Commons · CC BY-SA 4.0",
+    "lisans": "CC BY-SA 4.0",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Death_of_Murad_IV,_Rycaut.png"
+   }
+  },
+  {
+   "say": "şeyhülislam, tütünün dinen serbest olduğuna fetva verdi. Sonunda devlet,",
+   "caption": "şeyhülislam, tütünün dinen serbest olduğuna fetva verdi. Sonunda devlet,",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kürklü kaftanlı, büyük kavuklu müftü ayakta (gravür, siyah-beyaza çevrildi)",
+   "bolumler": [
+    {
+     "start": 53.48,
+     "end": 55.84,
+     "n": 4
+    },
+    {
+     "start": 55.84,
+     "end": 57.86,
+     "n": 4
+    },
+    {
+     "start": 57.86,
+     "end": 58.75,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_mufti.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.2,
+     0.04,
+     0.8,
+     0.85
+    ],
+    "baslik": "Bir müftü (şeyhülislam), gravür",
+    "kaynak": "Gallica (BnF) · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Ein_Mufti_nach_einer_in_Constantinopel_verfertigten_Originalzeichnung._Le_Mufti_d%27apr%C3%A8s_un_dessin_original_fait_%C3%A0_Constantinople._-_Verhelst._fec_-_btv1b10052394j.jpg"
+   }
+  },
+  {
+   "say": "bir zamanlar ölümle cezalandırdığı tütünden vergi almaya başladı.",
+   "caption": "bir zamanlar ölümle cezalandırdığı tütünden vergi almaya başladı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Tütün fabrikası önünde toplanan kalabalık işçiler (fotoğraf)",
+   "bolumler": [
+    {
+     "start": 58.78,
+     "end": 60.78,
+     "n": 4
+    },
+    {
+     "start": 60.78,
+     "end": 63.3,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_kavala_isci.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.147,
+     0,
+     0.853,
+     1
+    ],
+    "baslik": "Kavala'da tütün işçileri, 1910",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Workers_of_the_Jewish_Tobacco_Factory_in_Kavala_Herzog_1910.jpg"
+   }
+  },
+  {
+   "say": "Sizce bir alışkanlık, yasakla bırakılır mı? [short pause] Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce bir alışkanlık, yasakla bırakılır mı? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "IV. Murad ayakta, uzun kaftanlı (gravür)",
+   "bolumler": [
+    {
+     "start": 63.4,
+     "end": 65.74,
+     "n": 4
+    },
+    {
+     "start": 65.74,
+     "end": 68.2,
+     "n": 4
+    },
+    {
+     "start": 68.2,
+     "end": 68.9,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_murad_ayakta.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.136,
+     0.03,
+     0.864,
+     0.97
+    ],
+    "baslik": "IV. Murad, gravür",
+    "kaynak": "Library of Congress · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Murad_(Amurath)_IV,_Sultan_of_the_Turks,_1612-1640,_full-length_portrait,_standing,_facing_right,_against_building_with_obelisk_at_right_LCCN90705896.jpg"
+   }
+  },
+  {
+   "say": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Atlı padişah ve yaya kalabalık, arkada kubbeli yapı (gravür)",
+   "bolumler": [
+    {
+     "start": 69.12,
+     "end": 71.78,
+     "n": 4
+    },
+    {
+     "start": 71.78,
+     "end": 73.28,
+     "n": 4
+    },
+    {
+     "start": 73.28,
+     "end": 74.03,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/114_elci_gravur.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.229,
+     0,
+     0.671,
+     1
+    ],
+    "baslik": "IV. Murad'ın huzurunda Fransız elçisi, gravür (1638)",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:French_ambassador_Henry_de_Gournay_defends_his_son_arrested_because_of_dauphin%27s_birth_celebration_in_front_of_Murad_IV,_1638.jpg"
+   }
+  }
+ ],
+ "surum": 1
+}
