@@ -289,10 +289,10 @@
     "fit": "doldur",
     "hiz": 0.5,
     "kirp": [
-     0.289,
-     0,
-     0.711,
-     1
+     0.329,
+     0.07,
+     0.671,
+     0.88
     ],
     "baslik": "İstanbul'da bir kahvehane, A. Preziosi resmi (1854)",
     "kaynak": "Wikimedia Commons · kamu malı",
@@ -632,5 +632,5 @@
    }
   }
  ],
- "surum": 1
+ "surum": 2
 }
