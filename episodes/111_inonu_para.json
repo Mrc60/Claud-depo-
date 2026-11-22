@@ -104,7 +104,7 @@
     "lisans": "",
     "kaynak": "Atatürk portreli 1000 lira, 1938 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -133,7 +133,7 @@
     "lisans": "",
     "kaynak": "İnönü portreli 100 lira, 1947 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -221,7 +221,7 @@
     "lisans": "",
     "kaynak": "İnönü portreli 1000 lira, 1940 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -274,7 +274,7 @@
     "lisans": "",
     "kaynak": "Atatürk portreli 50 lira, 1938 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -338,7 +338,7 @@
     "lisans": "",
     "kaynak": "İnönü portreli 50 lira, 1942 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -362,7 +362,7 @@
     "lisans": "",
     "kaynak": "Atatürk portreli 50 lira, 1 Aralık 1951 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -426,7 +426,7 @@
     "lisans": "",
     "kaynak": "İnönü portreli 1000 lira, 1946 · TCMB örnek banknot",
     "sayfa": "",
-    "hiz": 0.6
+    "hiz": 0.4
    },
    "scene": "photo",
    "bolumler": [
@@ -444,5 +444,5 @@
   }
  ],
  "kapanis_kontrol_atla": true,
- "surum": 5
+ "surum": 6
 }
