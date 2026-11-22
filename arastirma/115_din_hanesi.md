@@ -26,3 +26,13 @@ X3. Nüfus kaydında (kütükte) din bilgisi bugün de tutuluyor mu: tek avukatl
 - DOĞRULANMADI: "6 Ocak 2016 TBMM, Genel Müdür Ahmet Sarıcan" açıklaması (tutanağı okumadım). Aynı bilgi Mynet'te Bakan Efkan Ala'ya, AK raporunda başvuru formuna dayanıyor → metinde kişi adı vermeden "2016'daki düzenlemeye göre".
 - KULLANILMAZ: GPT'nin görsel önerileri (TBB PDF sayfası, AİHM binası fotoğrafları, Meclis fotoğrafı): lisansı belirsiz/renkli/belge.
 - GPT kapanış sorusu ("kimlikte din bilgisi bulunmalı mı?") tartışma/siyaset çeker, FB riski → daha nötr soru öner.
+
+## PERPLEXITY RAPORU KONTROLÜ (23.11.2026 00:48)
+- DOĞRULANDI (ben okudum, TBMM PDF): 1914 Sicill-i Nüfus Kanunu md. 3: "Sicilli Nüfus zükûr ve inâsın isim ve şöhretiyle mezhebini yani İslâm ve Hıristiyan ve Musevi mezheplerinden hangisine mensup bulunduğunu ... hâvi olacaktır." md. 4: kaydedilenlere "üçüncü maddede muharrer ahval ... hâvi olarak ... birer hüviyet cüzdanı verilecek". → D1 ikinci kaynak (birincil) tamam: tezkerede/cüzdanda din-mezhep 1914 kanunuyla.
+- DOĞRULANDI (ben okudum, Resmî Gazete 23.11.2006): Yönetmelik md. 82: "Aile kütüklerindeki din bilgisine ilişkin talepler, kişinin yazılı beyanına uygun olarak tescil edilir, değiştirilir, boş bırakılır veya silinir. Din değişikliği veya silinmesi talepleri herhangi bir sayısal sınırlamaya tâbi değildir." (ilginç ayrıntı)
+- 1587 sayılı Kanun 5.5.1972 (AYM 1995 kararı da aynı tarih) → doğrulandı.
+- AYM 1979 kararında "1914 ... din sütunu açılmıştır" cümlesi: PDF 404, okumadım.
+- AİHM "6'ya 1 oy": HUDOC açılamadı, okumadım → metinde kullanma.
+- 2016 çip açıklaması: Perplexity Bakan Efkan Ala diyor (Hürriyet 16.2.2016 + TBMM bütçe görüşmeleri); Mynet de Ala diyor → "İçişleri Bakanı" iki kaynak. Sarıcan bulunamadı (GPT iddiası düşer).
+- Diyanet görüşü: Perplexity birincil bulamadı; bianet + sol.org.tr + Hürriyet 2004 haberleriyle doğrulu (haber düzeyi, 2 bağımsız).
+- Görsel: Perplexity lisansı doğrulanmış görsel VERMEDİ (sadece arama önerisi).
