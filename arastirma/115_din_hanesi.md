@@ -37,7 +37,7 @@ X3. Nüfus kaydında (kütükte) din bilgisi bugün de tutuluyor mu: tek avukatl
 - Diyanet görüşü: Perplexity birincil bulamadı; bianet + sol.org.tr + Hürriyet 2004 haberleriyle doğrulu (haber düzeyi, 2 bağımsız).
 - Görsel: Perplexity lisansı doğrulanmış görsel VERMEDİ (sadece arama önerisi).
 
-## PERPLEXITY 2. RAPOR (PDF, 23.11.2026 01:02)
+## MANUS RAPORU (PDF başlığı yanlışlıkla "Perplexity raporu"; TEK1: Manus, 23.11.2026 01:02)
 - AİHM: §8 "On 9 July 2004 ... the legal adviser to the Directorate of Religious Affairs issued his opinion", §9 "On 7 September 2004 the court dismissed", hüküm "by six votes to one" (Perplexity alıntısı, HUDOC'u ben açamadım). Bianet EN: "Based on advice from the Ministry of Religious Affairs, the court dismissed". → Diyanet görüşü 3 kaynak; 6'ya 1 tek (alıntı), kullanma.
 - 2016 açıklaması: 1. rapor Ala, 2. rapor Sarıcan diyor (ikisi de tutanak cümlesini okuyamamış) → ÇELİŞKİLİ, kişi adı verme.
 - YENİ (okunmadı): Kimlik Kartı Yönetmeliği m.17/2 "talep edilmesi halinde din bilgisi ve kan grubu ... kart kişiselleştirilir" → AK raporu + Mynet ile uyumlu.
