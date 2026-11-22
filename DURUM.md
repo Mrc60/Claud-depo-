@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 22.11.2026 04:40, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 22.11.2026 05:50, Hesap 2)
+
+## GECE KONTROLÜ (22.11.2026 05:50, Hesap 2)
+- Hesap 2: son 26 saatte hata yok (içerik). #111 kontrol.py bolum yeniden: 5 HATA aynı (3 TEK1 onaylı tekrar + sahne 1 4,4 sn + sahne 1-5 benzerlik). Defter 230 kayıt, çift cevap yok. Set109/110/111 0 hata. Etiketsiz kayıt: 3d7cada. Ayrıntı MESAJLAR.md.
 
 ## GECE KONTROLÜ (22.11.2026 04:40, Hesap 1)
 - Hesap 2: son 26 saatte sadece gece kontrolü kaydı (7030d56), hata yok. Defterde çift cevap yok (232 kayıt). Sohbet oturumu kaydı 3d7cada'da yine "Hesap: N" etiketi yok.
