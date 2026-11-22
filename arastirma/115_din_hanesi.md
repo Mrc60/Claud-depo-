@@ -18,3 +18,11 @@ D7. 2016: 5490 değişti, yeni çipli kartların üzerinde din hanesi yok; çipt
 X1. Özenç 2019 "yongada bulunmaya devam ediyor" der; AK raporu "kural olarak çipte yok, isteyen yazdırır" der → metinde "isteyen çipe yazdırabiliyor".
 X2. Din hanesinin Cumhuriyette ilk hangi kanunla geldiği (1914 Sicill-i Nüfus Kanunu? 1972 1587?) okunmadı → yazma.
 X3. Nüfus kaydında (kütükte) din bilgisi bugün de tutuluyor mu: tek avukatlık sitesi (e-Devlet din değişikliği) → ikinci kaynakla doğrula.
+
+## GPT RAPORU KONTROLÜ (23.11.2026 00:43)
+- DOĞRULANDI: Diyanet görüşü. bianet: "İzmir Mahkemesi, Din İşleri Başkanlığı'nın görüşüyle olumsuz yanıt vermişti. Mahkeme, Aleviliğin İslam'ın bir alt kolu olduğuna ... kanaat getirmişti"; sol.org.tr aynı; Hürriyet 1.10.2004 ret haberi. Başvuru 7 Mayıs 2004 İzmir (AİHM karar metni §7, arama özeti).
+- DOĞRULANDI: Bugün nüfus kaydında din bilgisi var, değiştirilebilir/boş bırakılabilir: e-Devlet resmî hizmeti "Nüfus Kaydındaki Din Bilgisi Değişikliği Başvurusu" (turkiye.gov.tr); TİHEK kararı ("aile kütüğündeki din bilgisinin değiştirilebilmesi veya boş bırakılmasının mümkün olduğu"); BirGün 2006 (5490: "kaydolunup, değiştirilip, boş bırakılıp veya silinebilecek"). X3 çözüldü.
+- DOĞRULANDI: Karar 2 Mayıs 2010'da kesinleşti (AK eylem raporu: "final on 2 May 2010").
+- DOĞRULANMADI: "6 Ocak 2016 TBMM, Genel Müdür Ahmet Sarıcan" açıklaması (tutanağı okumadım). Aynı bilgi Mynet'te Bakan Efkan Ala'ya, AK raporunda başvuru formuna dayanıyor → metinde kişi adı vermeden "2016'daki düzenlemeye göre".
+- KULLANILMAZ: GPT'nin görsel önerileri (TBB PDF sayfası, AİHM binası fotoğrafları, Meclis fotoğrafı): lisansı belirsiz/renkli/belge.
+- GPT kapanış sorusu ("kimlikte din bilgisi bulunmalı mı?") tartışma/siyaset çeker, FB riski → daha nötr soru öner.
