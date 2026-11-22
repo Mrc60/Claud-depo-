@@ -23,3 +23,11 @@
 ## RİSK
 - Üç büyük kulüp yan yana: taraftar kavgası riski (kim daha çok şehit verdi). Sayı karşılaştırması YAPILMAMALI.
 - #108 ve #109 da futbol; üst üste üçüncü futbol videosu olur.
+
+## GPT RAPORU KONTROLÜ (22.11.2026 10:00, ben açtım)
+- Hasnun Galip: ATAM yayını (Murat Kaya, Haydar Rüştü Öktem, 2024) okundu: Ali Galip Paşa'nın oğlu, GS'nin ilk futbolcularından, Çanakkale'de 1915'te şehit; kaynak Harp Mecmuası (TTK 2015 tıpkıbasım) s.319. GPT'nin aktardığı "8 Haziran 1331 [21 Haziran 1915]" gün tarihini BEN GÖRMEDİM (özetleyici vermedi). 21 Haziran sadece Cumhuriyet'te okundu -> metinde "1915'te Çanakkale'de" yaz, gün verme.
+- Beşiktaş: GPT'ye göre BJK tarihçesi Rıdvan'ı Kafkas'ta tifüs kurbanı yazıyor, BJK haber sayfası Çanakkale diyor -> ÇELİŞKİ. Rıdvan'ın cephesi yazılmaz. Kazım ve Asım Çanakkale (1915 listesi + BJK). BJK tarihçe sayfasını ben açamadım (izin listesinde yok).
+- Arif Bey: tarih/yer çelişkili: GPT (fenerbahcetarihi.org, arşiv belgeleri) 15.06.1919 Tahtaköprü, demiryolu keşif görevi; Sözcü 19.11.1919 Bor Ovası; Fanatik "maça gelirken". Ben fenerbahcetarihi'ni açamadım. -> Sadece "1919'da yolda saldırıya uğrayıp şehit oldu" yazılabilir; gün, yer ve "maça gelirken" çıkar.
+- 70 ve 23/5/2: GPT de bağımsız kaynak bulamadı -> metne girmez (kesin).
+- İstanbul ligi: GPT'ye göre TFF TamSaha 185: 1912-13 Balkan Savaşı, 1918-19 ve 1919-20 işgal yüzünden oynanmadı; savaş yıllarında Cuma Ligi sürdü. Ben okumadım; kullanılacaksa açılacak. GPT'nin tablosu kendi içinde çelişkili (1918-19 hem "oynanmadı" hem "devam").
+- Görsel adayları (GPT + benim taramam): Galatasaray SK 1913 (4077 px, isimler üzerinde), Beşiktaş JK squad (1911) (750 px, küçük), Fenerbahçe SK 1911-12 (2400 px), Fenerbahçe SK 23 March 1913, Hasnun galip.jpg, Celal ibrahim.jpg, SehitArifBey.jpg, LOC Turk soldiers Gallipoli. İndirilmedi/açılmadı.
