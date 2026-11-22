@@ -1,8 +1,10 @@
-[serious] 1915te bir dergi, İstanbulun futbol kulüplerinden bir liste istedi. [short pause] Askere giden ve şehit düşen sporcuların listesi.
+[serious] 1915te bir dergi, İstanbulun spor kulüplerinden bir liste istedi. [short pause] Askere giden ve şehit düşen sporcuların listesi.
 [calm] Çanakkalede savaş sürüyordu. Beş kulüp cevap verdi.
-[thoughtful] Listelerde şehit olarak geçenler: Galatasaraydan dokuz, Beşiktaştan üç, Fenerbahçeden iki, Türk İdman Ocağından bir sporcu.
-[serious] Galatasarayın forveti Hasnun Galip, Çanakkalede şehit düştü. Bugün kulübün Beyoğlundaki binasının bulunduğu sokak, onun adını taşıyor.
-Beşiktaşın şair lakaplı kaptanı Kazım ve arkadaşı Asım da Çanakkalede şehit oldu. Kulübün kayıtlarına göre, ilk takımın on bir oyuncusundan sekizi şehit düştü.
+[thoughtful] Listelerde şehit olarak geçen isimler: Galatasaraydan dokuz, Beşiktaştan üç, Fenerbahçeden iki.
+[serious] Galatasarayın dokuz şehidinden biri, forvet Hasnun Galipti. Çanakkalede şehit düştü. Bugün kulübün Beyoğlundaki binasının bulunduğu sokak, onun adını taşıyor.
+Beşiktaşın üç şehidinden ikisi, şair lakaplı kaptan Kazım ve arkadaşı Asımdı. İkisi de Çanakkalede şehit oldu.
+Fenerbahçenin iki şehidi Kemal ve Nureddin Beylerdi. Türk İdman Ocağı da eski başkanı Doktor Mehmet Sedat Beyi şehit vermişti.
+Savaş sürdükçe bu sayı büyüdü. Kulübün kayıtlarına göre, Beşiktaşın ilk takımındaki on bir oyuncudan sekizi şehit düştü.
 [short pause] Peki, gerçek sayı kaçtı? [short pause]
 [serious] Bilmiyoruz. Bu listeler yalnızca 1915i gösteriyordu. Savaş, üç yıl daha sürdü.
 [serious] Takımlarımız farklı olabilir. Söz konusu vatan olduğunda hepimiz aynı bayrağın altında birleşiriz. Tüm şehitlerimizi rahmet, minnet ve saygıyla anıyoruz.
