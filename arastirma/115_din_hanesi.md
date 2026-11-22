@@ -36,3 +36,11 @@ X3. Nüfus kaydında (kütükte) din bilgisi bugün de tutuluyor mu: tek avukatl
 - 2016 çip açıklaması: Perplexity Bakan Efkan Ala diyor (Hürriyet 16.2.2016 + TBMM bütçe görüşmeleri); Mynet de Ala diyor → "İçişleri Bakanı" iki kaynak. Sarıcan bulunamadı (GPT iddiası düşer).
 - Diyanet görüşü: Perplexity birincil bulamadı; bianet + sol.org.tr + Hürriyet 2004 haberleriyle doğrulu (haber düzeyi, 2 bağımsız).
 - Görsel: Perplexity lisansı doğrulanmış görsel VERMEDİ (sadece arama önerisi).
+
+## PERPLEXITY 2. RAPOR (PDF, 23.11.2026 01:02)
+- AİHM: §8 "On 9 July 2004 ... the legal adviser to the Directorate of Religious Affairs issued his opinion", §9 "On 7 September 2004 the court dismissed", hüküm "by six votes to one" (Perplexity alıntısı, HUDOC'u ben açamadım). Bianet EN: "Based on advice from the Ministry of Religious Affairs, the court dismissed". → Diyanet görüşü 3 kaynak; 6'ya 1 tek (alıntı), kullanma.
+- 2016 açıklaması: 1. rapor Ala, 2. rapor Sarıcan diyor (ikisi de tutanak cümlesini okuyamamış) → ÇELİŞKİLİ, kişi adı verme.
+- YENİ (okunmadı): Kimlik Kartı Yönetmeliği m.17/2 "talep edilmesi halinde din bilgisi ve kan grubu ... kart kişiselleştirilir" → AK raporu + Mynet ile uyumlu.
+- 1914 kanun: Perplexity "doğrulanamadı" diyor; ben TBMM PDF'sinden md.3'ü okudum → geçerli.
+- AYM 1979 gerekçe: "Söz konusu 43. madde zorlayıcı nitelikte hiç bir hüküm içermemektedir." (Perplexity alıntısı, okumadım).
+- Görsel: lisansı doğrulanmış aday YOK.
