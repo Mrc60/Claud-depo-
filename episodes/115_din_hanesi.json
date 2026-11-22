@@ -1,0 +1,619 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 115,
+ "slug": "din_hanesi",
+ "title": "Kimlikteki din hanesi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "1914 Sicill-i Nüfus Kanunu md. 3",
+  "AYM E.1995/17 K.1995/16",
+  "AİHM Sinan Işık / Türkiye, 2010",
+  "Nüfus Hizmetleri Kanununun Uygulanmasına İlişkin Yönetmelik md. 82 (2006)",
+  "Türkiye eylem raporu, Avrupa Konseyi 2018"
+ ],
+ "acilis": "Kimliğinizdeki din hanesi\nnereye gitti?",
+ "dis_ses": {
+  "file": "assets/ses/115_din_hanesi.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     6.1
+    ]
+   ],
+   [
+    [
+     6.1,
+     11.1
+    ]
+   ],
+   [
+    [
+     11.1,
+     15.9
+    ]
+   ],
+   [
+    [
+     15.9,
+     20.45
+    ]
+   ],
+   [
+    [
+     20.45,
+     25.4
+    ]
+   ],
+   [
+    [
+     25.4,
+     30.9
+    ]
+   ],
+   [
+    [
+     30.9,
+     37.3
+    ]
+   ],
+   [
+    [
+     37.3,
+     44.3
+    ]
+   ],
+   [
+    [
+     44.3,
+     51.1
+    ]
+   ],
+   [
+    [
+     51.1,
+     55.9
+    ]
+   ],
+   [
+    [
+     55.9,
+     61.4
+    ]
+   ],
+   [
+    [
+     61.4,
+     67.2
+    ]
+   ],
+   [
+    [
+     67.2,
+     74.449
+    ]
+   ]
+  ]
+ },
+ "segments": [
+  {
+   "say": "Eski nüfus cüzdanınızın arkasını hatırlıyor musunuz? [short pause] Orada \"Dini\" diye bir bölüm vardı.",
+   "caption": "Eski nüfus cüzdanınızın arkasını hatırlıyor musunuz? Orada \"Dini\" diye bir bölüm vardı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Mavi nüfus cüzdanının arka yüzü; üstte DİNİ: İSLAM okunuyor, gerisi bulanık",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 2.0,
+     "n": 4
+    },
+    {
+     "start": 2.0,
+     "end": 4.68,
+     "n": 4
+    },
+    {
+     "start": 4.68,
+     "end": 6.1,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_cuzdan_mavi.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.125,
+     0,
+     0.875,
+     1
+    ],
+    "baslik": "Eski mavi nüfus cüzdanı, arka yüz",
+    "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
+    "lisans": "Kanalın kendi fotoğrafı"
+   }
+  },
+  {
+   "say": "Peki bu bölüm nereye gitti? [short pause] Hikâye 1914e uzanıyor.",
+   "caption": "Peki bu bölüm nereye gitti? Hikâye 1914'e uzanıyor.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Osmanlı dönemi fotoğraflı kimlik kartı, fesli adam",
+   "bolumler": [
+    {
+     "start": 6.2,
+     "end": 7.42,
+     "n": 4
+    },
+    {
+     "start": 7.42,
+     "end": 11.1,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_mebus_kart1.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.018,
+     0,
+     0.482,
+     1
+    ],
+    "baslik": "Osmanlı dönemi kimlik kartı (Meclis-i Mebusan)",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Stoyo_Hadzhiyski_Ottoman_Parliament_Card.jpg"
+   }
+  },
+  {
+   "say": "Osmanlının nüfus kanunu, herkesin kaydına dinini yazdırıyordu.",
+   "caption": "Osmanlı'nın nüfus kanunu, herkesin kaydına dinini yazdırıyordu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Osmanlı dönemi fotoğraflı kimlik kartı, fesli sakallı adam",
+   "bolumler": [
+    {
+     "start": 11.24,
+     "end": 12.84,
+     "n": 4
+    },
+    {
+     "start": 12.84,
+     "end": 15.9,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_mebus_kart2.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.071,
+     0,
+     0.529,
+     1
+    ],
+    "baslik": "Osmanlı dönemi kimlik kartı (Meclis-i Mebusan)",
+    "kaynak": "Wikimedia Commons · kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Identity_Card_of_Salim_Ali_Salam_as_a_Member_from_Beirut_to_the_Ottoman_Parliament.jpg"
+   }
+  },
+  {
+   "say": "1972 tarihli Nüfus Kanunu da aynı bilgiyi istedi.",
+   "caption": "1972 tarihli Nüfus Kanunu da aynı bilgiyi istedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "1950'lerde Ankara'da bulvar, binalar, eski arabalar ve yayalar",
+   "bolumler": [
+    {
+     "start": 16.06,
+     "end": 18.48,
+     "n": 4
+    },
+    {
+     "start": 18.48,
+     "end": 20.45,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_ankara1950.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.118,
+     0,
+     0.682,
+     1
+    ],
+    "baslik": "Ankara, Atatürk Bulvarı, 1950'ler",
+    "kaynak": "Basın Yayın Genel Müdürlüğü · Wikimedia Commons, kısıtlama yok",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_Boulevard,_Grand_Movie_Theater_and_the_Office_Block,_1950s_(16666319379).jpg",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:29 (kullandıklarımızdan olan görselleri de kullan sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Anayasa Mahkemesi iki kez, bu kural Anayasaya aykırı değil, dedi.",
+   "caption": "Anayasa Mahkemesi iki kez \"bu kural Anayasa'ya aykırı değil\" dedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Anayasa Mahkemesi binasının cephesi",
+   "bolumler": [
+    {
+     "start": 20.52,
+     "end": 22.5,
+     "n": 4
+    },
+    {
+     "start": 22.5,
+     "end": 24.44,
+     "n": 4
+    },
+    {
+     "start": 24.44,
+     "end": 25.4,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_anayasa_mah.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.292,
+     0,
+     0.608,
+     1
+    ],
+    "baslik": "Anayasa Mahkemesi binası, Ankara (siyah-beyaza çevrildi)",
+    "kaynak": "Murat Karabulut (VOA) · Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Constitutional_Court_of_Turkey.jpg",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:29 (kullandıklarımızdan olan görselleri de kullan sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "2006da yeni bir hak geldi. İsteyen, din hanesini boş bıraktırabiliyordu.",
+   "caption": "2006'da yeni bir hak geldi. İsteyen, din hanesini boş bıraktırabiliyordu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Pembe nüfus cüzdanının arka yüzü; üstte DİNİ: İSLAM, gerisi bulanık",
+   "bolumler": [
+    {
+     "start": 25.52,
+     "end": 26.96,
+     "n": 4
+    },
+    {
+     "start": 26.96,
+     "end": 29.3,
+     "n": 4
+    },
+    {
+     "start": 29.3,
+     "end": 30.9,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_cuzdan_pembe.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.125,
+     0,
+     0.875,
+     1
+    ],
+    "baslik": "Eski pembe nüfus cüzdanı, arka yüz",
+    "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
+    "lisans": "Kanalın kendi fotoğrafı"
+   }
+  },
+  {
+   "say": "Ama İzmirli bir vatandaş, Sinan Işık, kimliğine İslam yerine Alevi yazdırmak istedi.",
+   "caption": "Ama İzmirli bir vatandaş, Sinan Işık, kimliğine \"İslam\" yerine \"Alevi\" yazdırmak istedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Mavi cüzdanda DİNİ: İSLAM yazısının yakın çekimi",
+   "bolumler": [
+    {
+     "start": 30.98,
+     "end": 32.76,
+     "n": 4
+    },
+    {
+     "start": 32.76,
+     "end": 34.88,
+     "n": 4
+    },
+    {
+     "start": 34.88,
+     "end": 37.3,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_cuzdan_mavi.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.339,
+     0.12,
+     0.661,
+     0.55
+    ],
+    "baslik": "Eski mavi nüfus cüzdanı, arka yüz (yakın)",
+    "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
+    "lisans": "Kanalın kendi fotoğrafı",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:32 (verdiğim iki kimliği tekrar göster)"
+    }
+   }
+  },
+  {
+   "say": "Mahkeme, Diyanetten görüş aldı ve isteği reddetti. Dava, Avrupa İnsan Hakları Mahkemesine gitti.",
+   "caption": "Mahkeme, Diyanet'ten görüş aldı ve isteği reddetti. Dava, Avrupa İnsan Hakları Mahkemesi'ne gitti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yargıtay binasının girişi, heykeller",
+   "bolumler": [
+    {
+     "start": 37.38,
+     "end": 39.52,
+     "n": 4
+    },
+    {
+     "start": 39.52,
+     "end": 41.7,
+     "n": 4
+    },
+    {
+     "start": 41.7,
+     "end": 43.38,
+     "n": 4
+    },
+    {
+     "start": 43.38,
+     "end": 44.3,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_yargitay.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.342,
+     0,
+     0.658,
+     1
+    ],
+    "baslik": "Yargıtay binası, Ankara (siyah-beyaza çevrildi)",
+    "kaynak": "Yıldız Yazıcıoğlu (VOA) · Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Turkish_Court_of_Cassation.jpg"
+   }
+  },
+  {
+   "say": "2010da mahkeme, kimlikte din hanesi bulunmasını din ve vicdan özgürlüğüne aykırı buldu.",
+   "caption": "2010'da mahkeme, kimlikte din hanesi bulunmasını din ve vicdan özgürlüğüne aykırı buldu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Avrupa İnsan Hakları Mahkemesi binasının yuvarlak kuleleri",
+   "bolumler": [
+    {
+     "start": 44.4,
+     "end": 46.78,
+     "n": 4
+    },
+    {
+     "start": 46.78,
+     "end": 48.74,
+     "n": 4
+    },
+    {
+     "start": 48.74,
+     "end": 51.1,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_aihm.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.162,
+     0,
+     0.537,
+     1
+    ],
+    "baslik": "Avrupa İnsan Hakları Mahkemesi, Strazburg (siyah-beyaza çevrildi)",
+    "kaynak": "Gzen92 · Wikimedia Commons, CC BY-SA 4.0",
+    "lisans": "CC BY-SA 4.0",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:Cour_europ%C3%A9enne_des_droits_de_l%27homme_(Strasbourg)_(2).jpg",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:29 (kullandıklarımızdan olan görselleri de kullan sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "2016da çipli kimlikler geldi. Din hanesi kartın üzerinden kalktı.",
+   "caption": "2016'da çipli kimlikler geldi. Din hanesi kartın üzerinden kalktı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Çipli kimlik kartının arka yüzü, çip görünüyor",
+   "bolumler": [
+    {
+     "start": 51.2,
+     "end": 53.78,
+     "n": 4
+    },
+    {
+     "start": 53.78,
+     "end": 55.42,
+     "n": 4
+    },
+    {
+     "start": 55.42,
+     "end": 55.9,
+     "n": 1
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_kimlik2024.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.122,
+     0,
+     0.478,
+     1
+    ],
+    "baslik": "Çipli kimlik kartı (örnek, siyah-beyaza çevrildi)",
+    "kaynak": "Rakoon · Wikimedia Commons, kamu malı",
+    "lisans": "Kamu malı",
+    "sayfa": "https://commons.wikimedia.org/wiki/File:T%C3%BCrk_kimlik_kart%C4%B1_2024.jpg",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:29 (kullandıklarımızdan olan görselleri de kullan sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Ama din bilgisi nüfus kaydında duruyor. İsteyen, çipe de yazdırabiliyor.",
+   "caption": "Ama din bilgisi nüfus kaydında duruyor. İsteyen, çipe de yazdırabiliyor.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Pembe cüzdanda DİNİ: İSLAM yazısının yakın çekimi",
+   "bolumler": [
+    {
+     "start": 56.06,
+     "end": 57.82,
+     "n": 4
+    },
+    {
+     "start": 57.82,
+     "end": 60.02,
+     "n": 4
+    },
+    {
+     "start": 60.02,
+     "end": 61.4,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_cuzdan_pembe.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.363,
+     0.03,
+     0.677,
+     0.45
+    ],
+    "baslik": "Eski pembe nüfus cüzdanı, arka yüz (yakın)",
+    "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
+    "lisans": "Kanalın kendi fotoğrafı",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:32 (verdiğim iki kimliği tekrar göster)"
+    }
+   }
+  },
+  {
+   "say": "Peki siz, din yazısının kimliğinizin üzerinde yeniden yer almasını ister miydiniz? [short pause]",
+   "caption": "Peki siz, din yazısının kimliğinizin üzerinde yeniden yer almasını ister miydiniz?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Mavi nüfus cüzdanının arka yüzü; DİNİ: İSLAM",
+   "bolumler": [
+    {
+     "start": 61.52,
+     "end": 63.44,
+     "n": 4
+    },
+    {
+     "start": 63.44,
+     "end": 65.4,
+     "n": 4
+    },
+    {
+     "start": 65.4,
+     "end": 67.2,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_cuzdan_mavi.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.125,
+     0,
+     0.875,
+     1
+    ],
+    "baslik": "Eski mavi nüfus cüzdanı, arka yüz",
+    "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
+    "lisans": "Kanalın kendi fotoğrafı",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:32 (verdiğim iki kimliği tekrar göster)"
+    }
+   }
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Pembe nüfus cüzdanının arka yüzü; DİNİ: İSLAM",
+   "bolumler": [
+    {
+     "start": 67.28,
+     "end": 70.1,
+     "n": 4
+    },
+    {
+     "start": 70.1,
+     "end": 72.4,
+     "n": 4
+    },
+    {
+     "start": 72.4,
+     "end": 74.45,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/115_cuzdan_pembe.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.125,
+     0,
+     0.875,
+     1
+    ],
+    "baslik": "Eski pembe nüfus cüzdanı, arka yüz",
+    "kaynak": "Kanalın kendi fotoğrafı, kişisel bilgiler bulanık",
+    "lisans": "Kanalın kendi fotoğrafı",
+    "onay": {
+     "tekrar": "TEK1 23.11 01:32 (verdiğim iki kimliği tekrar göster)"
+    }
+   }
+  }
+ ],
+ "surum": 1
+}

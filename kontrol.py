@@ -379,7 +379,11 @@ def bolum_kontrol(yol):
             continue
         h = md5(p)
         if h in gorulen:
-            hata(f"sahne {i}: görsel sahne {gorulen[h]} ile aynı (tekli olsun)")
+            _onay = (img.get("onay") or {}).get("tekrar")
+            if _onay:
+                uyari(f"sahne {i}: görsel sahne {gorulen[h]} ile aynı  [TEK1 onaylı: {_onay}]")
+            else:
+                hata(f"sahne {i}: görsel sahne {gorulen[h]} ile aynı (tekli olsun)")
         gorulen.setdefault(h, i)
         if h in diger:
             hata(f"sahne {i}: görsel #{diger[h]} bölümünde kullanılmış ({loc})")
