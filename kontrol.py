@@ -272,7 +272,9 @@ def icerik_kontrol(i, yol, img, seg):
         uyari(f"sahne {i}: görsel koyu (parlaklık {b:.0f}/255), karede bak")
     hiz = img.get("hiz", 1.0)
     metin = " ".join(str(img.get(k, "")) for k in ("baslik", "kaynak")) + " " + os.path.basename(str(img.get("local", "")))
-    if YAZI_KELIME.search(metin) and (hiz or 0) > 0:
+    if YAZI_KELIME.search(metin) and (hiz or 0) > 0 and (img.get("onay") or {}).get("hareket"):
+        uyari(f"sahne {i}: yazılı görsel hareketli (hiz {hiz})  [TEK1 onaylı: {img['onay']['hareket']}]; karede titreme bak")
+    elif YAZI_KELIME.search(metin) and (hiz or 0) > 0:
         hata(f"sahne {i}: yazılı belge/gazete görünüyor ama kamera hareketli (hiz {hiz}); yazı titrer, hiz 0 ver")
     elif yazi_yogunlugu(cv2, im) > 22 and (hiz or 0) > 0.6:
         uyari(f"sahne {i}: çok ayrıntılı/yazılı görsel, hiz {hiz} titreyebilir; karede bak")
