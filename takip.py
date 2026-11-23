@@ -79,7 +79,7 @@ def baslangic_bul(caps, ep, dur):
                 return bas if bas <= son else None
     return None
 
-def draw_takip(frame, tt, y_merkez=1170):
+def draw_takip(frame, tt, y_merkez=1635):
     if tt < 0 or tt > SURE: return
     giris = _back(tt / 0.9)
     cikis = _io((tt - (SURE - 0.7)) / 0.7)
@@ -134,7 +134,7 @@ def draw_takip(frame, tt, y_merkez=1170):
 
     # --- imleç ---
     hedef = (kx + bx - UC_X + 6, ky + by - 4)
-    bas_nokta = (W + 40, H * 0.80)
+    bas_nokta = (W + 40, H * 0.93)
     if tt >= 1.2:
         m = _io((tt - 1.2) / 1.3)
         x = bas_nokta[0] + (hedef[0] - bas_nokta[0]) * m
