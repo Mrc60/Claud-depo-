@@ -36,3 +36,10 @@ D10. 24 Temmuz 1923 Lozan'da tamamen kaldırıldı (Nutuk: "her nev'i tamamıyla
 - Berat fiyatı 207 kuruşa mal olup 2.500-6.000 kuruşa satılması (sadece K8) → YAZMA.
 - Gümrük oranları (%3 vb.) → okunan kaynaklarda net değil, YAZMA.
 - "İlk yıldönümünde kimse hatırlamadı" (sadece K1) → YAZMA.
+
+## ChatGPT raporu (24.11, TEK1 iletti) — benim kontrolüm
+- 1673 Fransa gümrük indirimi: Belleten 2514 (Şişman) %5→%3 (ben okudum, arşiv hükmü alıntılı). AMA K6 aynı metinde bir yerde %3, bir yerde "%5'den %4'e" diyor → oran ÇELİŞKİLİ, sayı YAZMA; "Fransız tüccarın gümrük vergisi düşürüldü" denebilir (iki kaynak da indirim diyor).
+- Halep 1.500/6: GPT'nin ikinci kaynağı (pageplace önizleme) bu oturumdan açılamadı → ben okumadım, hâlâ tek kaynak, YAZMA.
+- Sultanahmet mitingi sayıları (Elmacı, İSAM): İSAM 403, okumadım. K3 Haver ~50 bin diyor. Sayı YAZMA; "büyük miting" yeterli.
+- FRUS 1914 d1838/d1839 (Morgenthau, bayraklar) ve Lozan md. 28 (FRUS 1923 d914): bu oturumun izin listesinde değil, açamadım. D7, D8, D10 zaten 2+ okunmuş kaynakla doğrulu.
+- İlk kapitülasyon: GPT de 1535/1536 tartışmalı diyor (TDV: ilk gerçek 1569) → "ilk" iddiası YOK kararı doğru.
