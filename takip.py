@@ -33,19 +33,35 @@ def _avatar(d):
     return _cache[k]
 
 def _imlec(s=1.0):
-    k = ("im", s)
+    """El imleci (işaret parmağı yukarıda). Parmak ucu = (UC_X, 0) noktası."""
+    k = ("el", s)
     if k not in _cache:
-        ss = 4; w, h = int(58 * s), int(84 * s)
-        im = Image.new("RGBA", (w * ss, h * ss), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
-        pts = [(0, 0), (0, 64), (16, 50), (28, 76), (38, 71), (27, 46), (48, 46)]
-        P = [(4 * ss + x * s * ss, 4 * ss + y * s * ss) for x, y in pts]
-        d.polygon(P, fill=(255, 255, 255, 255), outline=(10, 10, 10, 255), width=int(4 * s * ss))
-        im = im.resize((w, h), Image.LANCZOS)
+        ss = 4; u = s * ss; ol = 4 * u
+        w, h = int(70 * s), int(92 * s)
+        def R(x0, y0, x1, y1): return [x0 * u + ol, y0 * u + ol, x1 * u + ol, y1 * u + ol]
+        parca = [  # (kutu, yarıçap)
+            (R(10, 0, 22, 46), 6 * u),      # işaret parmağı
+            (R(21, 26, 32, 50), 5.5 * u),   # orta parmak
+            (R(31, 30, 42, 52), 5.5 * u),   # yüzük parmağı
+            (R(41, 35, 51, 55), 5 * u),     # serçe parmak
+            (R(8, 38, 51, 78), 12 * u),     # avuç
+        ]
+        im = Image.new("RGBA", (int(w * ss + 2 * ol), int(h * ss + 2 * ol)), (0, 0, 0, 0)); d = ImageDraw.Draw(im)
+        bas = [R(-2, 40, 14, 62)]           # başparmak (elips)
+        for b, r in parca:                  # dış kontur
+            d.rounded_rectangle([b[0] - ol, b[1] - ol, b[2] + ol, b[3] + ol], radius=r + ol, fill=(15, 15, 15, 255))
+        for b in bas: d.ellipse([b[0] - ol, b[1] - ol, b[2] + ol, b[3] + ol], fill=(15, 15, 15, 255))
+        for b, r in parca: d.rounded_rectangle(b, radius=r, fill=(255, 255, 255, 255))
+        for b in bas: d.ellipse(b, fill=(255, 255, 255, 255))
+        for x in (21.5, 31.5, 41.5):        # parmak araları
+            d.line([(x * u + ol, 44 * u + ol), (x * u + ol, 54 * u + ol)], fill=(60, 60, 60, 255), width=int(2.2 * u))
+        im = im.resize((int(im.width / ss), int(im.height / ss)), Image.LANCZOS)
         gol = Image.new("RGBA", im.size, (0, 0, 0, 0)); gol.putalpha(im.getchannel("A").point(lambda v: v * 0.45))
         gol = gol.filter(ImageFilter.GaussianBlur(4))
-        out = Image.new("RGBA", (w + 8, h + 8), (0, 0, 0, 0)); out.alpha_composite(gol, (5, 6)); out.alpha_composite(im, (0, 0))
+        out = Image.new("RGBA", (im.width + 8, im.height + 8), (0, 0, 0, 0)); out.alpha_composite(gol, (5, 6)); out.alpha_composite(im, (0, 0))
         _cache[k] = out
     return _cache[k]
+UC_X = 24      # parmak ucunun sprite içindeki x (s=1.5)
 
 def _tik(d, cx, cy, r, renk, kal):
     d.line([(cx - r, cy), (cx - r * 0.3, cy + r * 0.7), (cx + r, cy - r * 0.75)], fill=renk, width=kal, joint="curve")
@@ -105,14 +121,14 @@ def draw_takip(frame, tt, y_merkez=1170):
     frame.alpha_composite(kat, (kx, ky))
 
     # --- imleç ---
-    hedef = (kx + bx + 10, ky + by + 6)
+    hedef = (kx + bx - UC_X + 6, ky + by - 4)
     bas_nokta = (W + 40, H * 0.80)
     if tt >= 1.2:
         m = _io((tt - 1.2) / 1.3)
         x = bas_nokta[0] + (hedef[0] - bas_nokta[0]) * m
         y = bas_nokta[1] + (hedef[1] - bas_nokta[1]) * m - 60 * (4 * m * (1 - m))   # hafif yay
         olc = 0.88 if tik_an <= tt < tik_an + 0.14 else 1.0
-        im = _imlec(1.25 * olc)
+        im = _imlec(1.5 * olc)
         ia = alfa * (1 - _c((tt - 3.9) / 0.5))
         if ia > 0.01:
             if ia < 1:
