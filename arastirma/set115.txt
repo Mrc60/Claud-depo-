@@ -1,0 +1,41 @@
+=== YT_BASLIK ===
+Kimliklerdeki din hanesi nereye gitti? #SıradanDeğil 115
+=== YT_ACIKLAMA ===
+Eski nüfus cüzdanlarının arkasında "Dini" diye bir bölüm vardı. Bu kaydın kökü 1914'e uzanıyor: Sicill-i Nüfus Kanunu, herkesin nüfus kaydına mezhebini yazdırıyordu. Cumhuriyet döneminde 1972 tarihli 1587 sayılı Nüfus Kanunu da aile kütüğüne dini yazdırdı. Anayasa Mahkemesi 1979 ve 1995'te bu hükmü Anayasa'ya aykırı bulmadı.
+
+2006'da 5490 sayılı Nüfus Hizmetleri Kanunu ile din bilgisini boş bıraktırma, değiştirme ya da sildirme imkânı geldi. 2004'te İzmir'de bir vatandaş, Sinan Işık, kimliğine "İslam" yerine "Alevi" yazdırmak istedi; mahkeme Diyanet'in görüşünü alarak talebi reddetti. Avrupa İnsan Hakları Mahkemesi 2010'da kimlikte din hanesi bulunmasını din ve vicdan özgürlüğüne aykırı buldu.
+
+2016'daki düzenlemeyle yeni çipli kimlik kartlarının üzerinde din hanesi yer almadı. Din bilgisi nüfus kaydında duruyor; isteyen kişi başvuruda belirterek çipe de yazdırabiliyor.
+
+Kaynaklar:
+- 1914 tarihli Sicill-i Nüfus Kanunu, 3. madde (TBMM arşivi)
+- Anayasa Mahkemesi, E.1995/17, K.1995/16 kararı (21.06.1995)
+- Avrupa İnsan Hakları Mahkemesi, Sinan Işık / Türkiye, 2 Şubat 2010
+- Nüfus Hizmetleri Kanununun Uygulanmasına İlişkin Yönetmelik, 82. madde, Resmî Gazete 23.11.2006
+- Türkiye'nin Avrupa Konseyi Bakanlar Komitesi'ne sunduğu eylem raporu, 2018
+- Berke Özenç, Türkiye Barolar Birliği Dergisi, 2019
+
+Görseller: Kanalın kendi fotoğrafları (kişisel bilgiler bulanık); Wikimedia Commons (kamu malı; AİHM binası: Gzen92, CC BY-SA 4.0); Basın Yayın Genel Müdürlüğü arşivi. Bazı fotoğraflar siyah-beyaza çevrildi.
+
+#SıradanDeğil #NüfusCüzdanı #Kimlik #Tarih
+=== YT_ETIKET ===
+din hanesi, kimlikte din hanesi, nüfus cüzdanı, eski nüfus cüzdanı, mavi nüfus cüzdanı, pembe nüfus cüzdanı, çipli kimlik kartı, kimlik kartı, nüfus kaydı, din bilgisi, Sicill-i Nüfus Kanunu, 1914 nüfus kanunu, 1587 sayılı Nüfus Kanunu, 5490 sayılı kanun, Nüfus Hizmetleri Kanunu, Anayasa Mahkemesi, AİHM, Sinan Işık davası, din ve vicdan özgürlüğü, Osmanlı nüfus tezkeresi, Türkiye hukuk tarihi, az bilinen tarih, ilginç bilgiler, tarih shorts, Sıradan Değil
+=== YT_SABIT ===
+Peki siz, din yazısının kimliğinizin üzerinde yeniden yer almasını ister miydiniz?
+=== TT_ACIKLAMA ===
+Eski nüfus cüzdanlarında din hanesi vardı. 1914'ten beri kayıtlarda yazan bu bilgi, 2016'da çipli kimliklerin üzerinden kalktı. Ama nüfus kaydında hâlâ duruyor.
+
+Kaynaklar: 1914 Sicill-i Nüfus Kanunu; Anayasa Mahkemesi 1995/16; AİHM Sinan Işık / Türkiye 2010; Nüfus Hizmetleri Yönetmeliği md. 82.
+Görseller: Kanalın kendi fotoğrafları; Commons (kamu malı; Gzen92, CC BY-SA).
+
+#SıradanDeğil #nüfuscüzdanı #kimlik #tarih
+=== TT_SABIT ===
+Peki siz, din yazısının kimliğinizin üzerinde yeniden yer almasını ister miydiniz?
+=== FBIG_ACIKLAMA ===
+Eski nüfus cüzdanlarında din hanesi vardı. 2016'da çipli kimliklerin üzerinden kalktı, ama nüfus kaydında duruyor. Kaynak: 1914 Nüfus Kanunu; AYM 1995; AİHM 2010; Yönetmelik 2006. Görsel: Gzen92 (CC BY-SA). #SıradanDeğil #nüfuscüzdanı #kimlik #tarih #hukuk
+=== IG_ACIKLAMA ===
+Eski nüfus cüzdanlarında din hanesi vardı. 2016'da çipli kimliklerin üzerinden kalktı, ama nüfus kaydında duruyor. Kaynak: 1914 Nüfus Kanunu; AYM 1995; AİHM 2010; Yönetmelik 2006. Görsel: Gzen92 (CC BY-SA). #SıradanDeğil #nüfuscüzdanı #kimlik #tarih #hukuk
+=== FBIG_SABIT ===
+Peki siz, din yazısının kimliğinizin üzerinde yeniden yer almasını ister miydiniz?
+=== X_ACIKLAMA ===
+Eski nüfus cüzdanlarındaki din hanesi 2016'da çipli kimliklerin üzerinden kalktı, ama nüfus kaydında duruyor. Kaynak: 1914 Nüfus Kanunu; AYM 1995; AİHM 2010. #SıradanDeğil #NüfusCüzdanı
