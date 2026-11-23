@@ -2445,5 +2445,33 @@
   "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
   "cevaplar": [],
   "sinir_notu": "2026-11-23T21:05Z tarandı. 4 yoruma TEK1 elle cevap verdi; Halil Ibrahim Sezer, Abdulkadir Kederli atlandı."
+ },
+ "facebook/1400881546439231_122114304249516389": {
+  "video": "110 Osmanli arsivi",
+  "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
+  "cevaplar": [
+   {
+    "yorum_id": "122114304249516389_1116819104487844",
+    "kullanici": "Feyzi Gülbaş",
+    "yorum": "Devlet geri almalı, Ayasofya da sergilemelidir.",
+    "cevap_id": "122114304249516389_1168759852338029",
+    "tarih": "2026-11-23T21:15Z"
+   },
+   {
+    "yorum_id": "122114304249516389_1473072760901314",
+    "kullanici": "Şeref Akdas",
+    "yorum": "Bir tarih yok oldu",
+    "cevap_id": "122114304249516389_29471834742473725",
+    "tarih": "2026-11-23T21:15Z"
+   },
+   {
+    "yorum_id": "122114304249516389_991497896890086",
+    "kullanici": "Murat Korkmaz",
+    "yorum": "Bilim ilim gelecek geçmiş kitaplarda",
+    "cevap_id": "122114304249516389_2220167838570492",
+    "tarih": "2026-11-23T21:15Z"
+   }
+  ],
+  "sinir_notu": "2026-11-23T21:08Z: ilk 40 ana yorum tarandı (cursor NTUz sonrası açılmadı). Çoğu siyasi/hakaret, atlandı."
  }
 }
