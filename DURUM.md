@@ -364,3 +364,8 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - NOT TEK1'e: #107 sabit yorum sorusu yfdem'in yorumuna yanıt olarak düşmüş görünüyor.
 
 - HATIRLATMA (TEK1, 22.11.2026): 1 Aralık 2026'da hurda kâğıt videosu için içerik korumasını aktif edecek. Telefon takvimine 10:00 hatırlatma kuruldu (sohbet oturumu).
+
+## 23.11.2026 12:35 Sohbet oturumu (YouTube yorumları, ilk kez Zernio)
+- TEK1 YouTube'u bu sohbetin Zernio bağlantısına ekledi: youtube siradan.degil 6b04063d2c9a0e122073aab4.
+- 10 cevap gönderildi: #114 1, #113 3, #111 1, #110 1, #105 Ezan 3, #102 1. Hepsi isReply true, defterde.
+- Bakılmadı: #94 Heykel (141 yorum, çoğu siyasi), spor videoları.
