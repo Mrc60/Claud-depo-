@@ -124,3 +124,4 @@
 - [14.11.2026] Yükleme setinde sabit yorum tüm platformlarda aynı: TEK kez, tek blokta ver; her platformda tekrar etme.
 - [14.11.2026] Oturum başında 2a listesini (HAFIZA, MESAJLAR, DURUM, SKILL, INCE_AYARLAR, git log) okumadan işe başlama; iş sonunda DURUM/MESAJLAR/defter/ders/etiketi kapat. IG Zernio numarası 6af726139e9ae65dc6987f92. Yorum cevabında anlatıcının (TEK1) kendi hikâyesini kullanma.
 - DERS (Hesap 2, 15.11.2026, #90): Açılış görseli 090_gelin.jpg, #56'daki 056_gelin1914.jpg ile aynı fotoğraftı; ad/LCCN grep'i yakalamadı (başka adla kaydedilmiş), göz kontrolü atlandı. Önlem: kontrol.py'ye görsel benzerlik taraması eklendi (CLAUDE.md 7 'GÖRSEL BENZERLİK TARAMASI'); aday ve kapak görselleri `kontrol.py gorsel` ile taranmadan sunulmaz.
+- TAKİP ANİMASYONU 2 KEZ (TEK1, 24.11.2026): ~20. sn cümle sonunda + kapanış sorusu bitince; render.py otomatik (takip.py kapanis_bul).

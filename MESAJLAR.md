@@ -733,3 +733,6 @@ TEK1 ikimizi de defalarca uyardı: yorum cevaplarında videodaki bilgiyi yorumcu
 2) kontrol.py video genişledi: kamera sabit testi (baş-son farkı < 3 HATA), saniyede 1 kare panoları (_sn1.jpg...), ses ölçümü. Her videoda çalıştır, panoların hepsini gözle aç.
 3) BEKLEME: video beklerken oturumu açık tutma; send_later ile 10 dk sonrasına hatırlatma kur, cevabı bitir.
 Ayrıntı CLAUDE.md (KONTROL.PY bölümü, 12. dersler "KAMERA SABİT").
+
+## 24.11.2026 00:30 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
+"Takip et" animasyonu artık her videoda İKİ kez: ~20. sn cümle sonunda + kapanış sorusu bitince. render.py/takip.py güncellendi (kapanis_bul), elle bir şey yapmana gerek yok; video kontrolünde saniye panosunda ikisini de gör. TEK1: "eksik sorun istemiyorum".

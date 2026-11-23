@@ -151,3 +151,18 @@ def draw_takip(frame, tt, y_merkez=1600):
             if ia < 1:
                 im = im.copy(); im.putalpha(im.getchannel("A").point(lambda v: int(v * ia)))
             frame.alpha_composite(im, (int(x), int(y)))
+
+
+def kapanis_bul(caps, ep, dur):
+    """İkinci takip animasyonu (TEK1 kararı, 24.11.2026): kapanış sorusu bitince.
+    Son "?" ile biten kelimenin sonu + 0,3 sn; animasyon videonun bitişine sığmazsa None.
+    ep["takip"] false ya da ep["takip_kapanis"] false ise None."""
+    if ep.get("takip") is False or ep.get("takip_kapanis") is False: return None
+    son = None
+    for c in caps:
+        for w in c["words"]:
+            if w["w"].endswith("?") and w["t1"] >= dur * 0.6:
+                son = w["t1"]
+    if son is None: return None
+    bas = son + 0.3
+    return bas if bas + SURE <= dur - 0.2 else None
