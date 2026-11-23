@@ -272,10 +272,11 @@ def icerik_kontrol(i, yol, img, seg):
         uyari(f"sahne {i}: görsel koyu (parlaklık {b:.0f}/255), karede bak")
     hiz = img.get("hiz", 1.0)
     metin = " ".join(str(img.get(k, "")) for k in ("baslik", "kaynak")) + " " + os.path.basename(str(img.get("local", "")))
-    if YAZI_KELIME.search(metin) and (hiz or 0) > 0 and (img.get("onay") or {}).get("hareket"):
-        uyari(f"sahne {i}: yazılı görsel hareketli (hiz {hiz})  [TEK1 onaylı: {img['onay']['hareket']}]; karede titreme bak")
-    elif YAZI_KELIME.search(metin) and (hiz or 0) > 0:
-        hata(f"sahne {i}: yazılı belge/gazete görünüyor ama kamera hareketli (hiz {hiz}); yazı titrer, hiz 0 ver")
+    # TEK1 23.11.2026: "kamera yine sabit" -> SABİT SAHNE YOK. Belge/tahvil/gazete dahil her sahnede hiz 0,4-0,6.
+    if (hiz or 0) < 0.3:
+        hata(f"sahne {i}: kamera sabit (hiz {hiz}); TEK1 kuralı: sabit sahne yok, belgede hiz 0.5 ver")
+    elif YAZI_KELIME.search(metin) and (hiz or 0) > 0.6 and not (img.get("onay") or {}).get("hareket"):
+        hata(f"sahne {i}: yazılı belge/gazete, hiz {hiz} fazla; yazı titrer, hiz 0.5 ver")
     elif yazi_yogunlugu(cv2, im) > 22 and (hiz or 0) > 0.6:
         uyari(f"sahne {i}: çok ayrıntılı/yazılı görsel, hiz {hiz} titreyebilir; karede bak")
     lis = " ".join(str(img.get(k, "")) for k in ("lisans", "kaynak", "sayfa", "baslik"))
@@ -544,6 +545,40 @@ def video_kontrol(json_yol, mp4):
         cik = os.path.splitext(mp4)[0] + "_pano.jpg"
         cv2.imwrite(cik, pano)
         print(f"kare panosu: {cik} (her sahne başı/ortası/sonu; GÖZLE aç: kenardan taşma, yarım yüz, sesle uyum)")
+    # Kamera hareketi (TEK1 23.11.2026): sahne başı (%12) ile sonu (%88) karesi üst bölgede neredeyse aynıysa kamera duruyor
+    for i in range(0, len(kareler) - 2, 3):
+        a_, b_ = (cv2.cvtColor(kareler[i + j], cv2.COLOR_BGR2GRAY)[0:330].astype(np.float32) for j in (0, 2))
+        fark = float(np.abs(a_ - b_).mean())
+        if fark < 3:
+            hata(f"sahne {i // 3 + 1}: kamera SABİT (baş-son farkı {fark:.1f}); hiz ver, yeniden üret")
+    # Saniyede bir kare panosu (TEK1 23.11.2026: her videoda baştan sona kare kontrolü)
+    fps_dir = os.path.join(tmp, "fps"); os.makedirs(fps_dir)
+    subprocess.run(["ffmpeg", "-v", "error", "-i", mp4, "-vf", "fps=1,scale=180:320", os.path.join(fps_dir, "k%03d.jpg")])
+    ks = sorted(os.listdir(fps_dir))
+    for p_ in range(0, len(ks), 30):
+        grup = [cv2.imread(os.path.join(fps_dir, k)) for k in ks[p_:p_ + 30]]
+        pn = np.full((3 * 324, 10 * 184, 3), 255, np.uint8)
+        for n, k_ in enumerate(grup):
+            r, c = divmod(n, 10)
+            pn[r * 324:r * 324 + 320, c * 184:c * 184 + 180] = k_
+            cv2.putText(pn, str(p_ + n), (c * 184 + 4, r * 324 + 18), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2)
+        f_ = os.path.splitext(mp4)[0] + f"_sn{p_ // 30 + 1}.jpg"
+        cv2.imwrite(f_, pn)
+        print(f"saniye panosu: {f_} ({p_}-{p_ + len(grup) - 1}. sn; GÖZLE aç)")
+    # Ses ölçümü: patlama (clipping) ve uzun sessizlik
+    r_ = subprocess.run(["ffmpeg", "-v", "info", "-i", mp4, "-af", "volumedetect,silencedetect=n=-45dB:d=1.5", "-f", "null", "-"],
+                        capture_output=True, text=True).stderr
+    import re as _re
+    mx = _re.search(r"max_volume: (-?[\d.]+) dB", r_); mn = _re.search(r"mean_volume: (-?[\d.]+) dB", r_)
+    if mx:
+        print(f"ses: ortalama {mn.group(1) if mn else '?'} dB, tepe {mx.group(1)} dB")
+        if float(mx.group(1)) > -0.3:
+            uyari(f"ses tepe {mx.group(1)} dB: patlama (clipping) olabilir")
+        if mn and float(mn.group(1)) < -30:
+            uyari(f"ses ortalaması {mn.group(1)} dB: çok kısık")
+    for s_ in _re.findall(r"silence_start: ([\d.]+)", r_):
+        if 1.0 < float(s_) < sure - 3:
+            uyari(f"{float(s_):.1f}. sn: 1,5 sn'den uzun sessizlik")
 
 
 def main():

@@ -726,3 +726,10 @@ Hesap: 2
 
 ## 21.11.2026 17:35 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
 TEK1 ikimizi de defalarca uyardı: yorum cevaplarında videodaki bilgiyi yorumcuya tekrar ediyoruz. Yorumcu videoyu izleyip geliyor. Cevap sadece yorumcunun dediğine/sorusuna olacak; videoda geçen cümle cevaba girmez (sorunun cevabı değilse). INCE_AYARLAR E ve CLAUDE.md 8'e eklendi, reddedilen örnekler orada. Her taslakta: 'Bu cümle videoda geçiyor mu? Geçiyorsa sil.'
+
+
+## 23.11.2026 23:55 · Hesap 1 → Hesap 2 · KURAL + HATA (TEK1, kesin)
+1) SABİT SAHNE YOK: hiz 0 artık yasak; belge/tahvil/gazete hiz 0.5. #116 v1'de 4 tahvil sahnesi hiz 0 kaldı, TEK1 "kamera yine sabit" dedi (HATA, Hesap 1).
+2) kontrol.py video genişledi: kamera sabit testi (baş-son farkı < 3 HATA), saniyede 1 kare panoları (_sn1.jpg...), ses ölçümü. Her videoda çalıştır, panoların hepsini gözle aç.
+3) BEKLEME: video beklerken oturumu açık tutma; send_later ile 10 dk sonrasına hatırlatma kur, cevabı bitir.
+Ayrıntı CLAUDE.md (KONTROL.PY bölümü, 12. dersler "KAMERA SABİT").

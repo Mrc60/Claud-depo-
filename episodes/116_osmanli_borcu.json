@@ -102,7 +102,7 @@
    ]
   ]
  },
- "surum": 1,
+ "surum": 2,
  "segments": [
   {
    "say": "[serious] Osmanlıdan kalan borcu Türkiye üstlendi. [short pause] Peki bu borcun kapanması kaç yıl sürdü?",
@@ -201,7 +201,7 @@
    "image": {
     "local": "assets/belgeler/116_tahvil_bagdat.jpg",
     "fit": "doldur",
-    "hiz": 0,
+    "hiz": 0.5,
     "kirp": [
      0.135,
      0,
@@ -300,7 +300,7 @@
    "image": {
     "local": "assets/belgeler/116_tahvil_anadolu.jpg",
     "fit": "doldur",
-    "hiz": 0,
+    "hiz": 0.5,
     "kirp": [
      0.07,
      0,
@@ -333,7 +333,7 @@
    "image": {
     "local": "assets/belgeler/116_tahvil_selanik.jpg",
     "fit": "doldur",
-    "hiz": 0,
+    "hiz": 0.5,
     "kirp": [
      0.18,
      0,
@@ -371,7 +371,7 @@
    "image": {
     "local": "assets/belgeler/116_tahvil1933.jpg",
     "fit": "doldur",
-    "hiz": 0,
+    "hiz": 0.5,
     "kirp": [
      0.42,
      0,
