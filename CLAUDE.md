@@ -233,6 +233,7 @@ Cevabını bana kopyalanabilir formatta ver.
 - Kenarlık uyarısı: sebebi kenardaki koyu gölgeydi, Devrim'de azaltıldı (Devrim ve Bekârlık 9/9). Gölgeyi tekrar koyulaştırma.
 - TAKİP ANİMASYONU 2 KEZ (TEK1 kararı, 24.11.2026 00:26, kesin): "Takip et" animasyonu her videoda İKİ kez çıkar: (1) 20. sn'den sonraki ilk cümle sonunda (takip.py baslangic_bul), (2) kapanış sorusu bitince (son "?" + 0,3 sn; takip.py kapanis_bul). render.py ikisini otomatik çizer; teslimde saniye panosunda ikisini de gör. Kapatmak için bölüm JSON'unda "takip_kapanis": false (sadece TEK1 isterse).
 - BEKLEME 10 DK (TEK1 kararı, 23.11.2026 23:45, kesin): Video/iş akışı beklerken oturumu açık tutma, ekranda sleep/sorgu çalıştırma. send_later ile 10 dk sonrasına hatırlatma kur ve cevabı bitir; hatırlatma gelince TEK sorgu, bitmediyse yine 10 dk. "Sen 10 dk bir kontrol et, sürekli çalışma kredi bitiyor."
+- BEKLEME SÜRESİ İŞE GÖRE (24.11.2026, TEK1: "iyide biz video üretimine geçmedik ki"): görsel arama/indirme 3-5 dk sürer → 5 dk sonra tek kontrol; video üretimi → 10 dk. TEK1 "bitti mi" derse hemen tek kontrol.
 - (ESKİ) Bekleme (TEK1 kararı, 29.10.2026): 10 sn arayla kontrol ETME. Videoyu gönderdikten sonra arka planda çalışan tek bir komut başlat (run_in_background): önce 5 dk bekler, sonra run "completed" olana kadar 1 dk arayla kendisi kontrol eder ve bitince haber verir. Bu sırada ayrıca kontrol yapma (kullanım harcar).
 - Kare kontrolü: kareleri tek tek değil, tek bir pano görselinde toplu kontrol et.
 - Video bitince kareleri çıkarıp kontrol et (ffmpeg), sonra gönder.

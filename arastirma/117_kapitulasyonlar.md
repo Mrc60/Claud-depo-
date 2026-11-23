@@ -1,7 +1,10 @@
 # #117 Kapitülasyonlar — Claude raporu, Hesap 1, 24.11.2026
 
 ## ÖZET
-- Görsel: (aşağıda, tarama sonucu) 
+- Görsel: 3 tarama (Commons sorgu 2 tur, 105 aday) + ChatGPT önerisi 5; 25 indirildi. Kullanılabilir 22 (kontrol.py gorsel). Elenen 3: galata_rihtim (#087 ile aynı, skor 157) ve sokak1900 (#073 ile aynı, skor 961) TEKRAR; galata_esnaf1878 çok küçük (400x306). fransiz_posta küçük (568x399), bulanık olabilir.
+- Renkli: kanuni_fransuva, elci_kabul, hollanda_elcilik (yağlı boya tablo), alman_posta (renkli kartpostal), kutlama1914 (mavimsi) → siyah-beyaza çevrilmeli (TEK1 onayı). Diğerleri sepya/siyah-beyaz.
+- Gereken: ~15 (75 sn, ~5 sn/görsel). Var: tercüman/berat (tercuman_belluti, tuccar_antet), ahidname (ahidname1569, savary1615), elçi/padişah (kanuni_fransuva, elci_kabul), konsolos mahkemesi (konsolos_mahkeme), elçilik binaları (alman_elcilik, ingiliz_elcilik, palais_france, hollanda_elcilik, balyos_evi), yabancı postane (alman_posta, alman_posta_kudus, fransiz_posta), Pera (pera_sokak, pera_cadde, pera1901, galata_kopru), 1914 (kutlama1914), Sevr (sevr_salon), 1876 konferans (konferans1876).
+- EKSİK: 1914 kutlaması için ikinci görsel; Lozan (eski bölümlerdeki fotoğraflar tekrar olur).
 - Doğrulanan iddia: 10. Kaynak: 11 akademik makale (ben okudum, PDF tam metin; 629070 taranmış PDF, okunabilen kısımlar).
 - Riskler: Din/etnik çerçeve YOK (beratlıların dini yazılmayacak, "bazı tüccarlar" denecek). Lozan görselleri #046/#050'de kullanıldı; tekrar yok.
 
