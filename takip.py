@@ -66,6 +66,19 @@ UC_X = 24      # parmak ucunun sprite içindeki x (s=1.5)
 def _tik(d, cx, cy, r, renk, kal):
     d.line([(cx - r, cy), (cx - r * 0.3, cy + r * 0.7), (cx + r, cy - r * 0.75)], fill=renk, width=kal, joint="curve")
 
+def baslangic_bul(caps, ep, dur):
+    """Animasyonun başlayacağı sn. ep["takip"] false ise None. ep["takip_sn"] verilirse o.
+    Yoksa: 20. sn'den sonraki ilk cümle sonu (. veya !), soru sonu değil; son 15 sn'ye girmez."""
+    if ep.get("takip") is False: return None
+    if ep.get("takip_sn") is not None: return float(ep["takip_sn"])
+    son = dur - 15 - SURE
+    for c in caps:
+        for w in c["words"]:
+            if w["t1"] >= 20 and w["w"].endswith((".", "!")) and not w["w"].endswith("?"):
+                bas = w["t1"] + 0.15
+                return bas if bas <= son else None
+    return None
+
 def draw_takip(frame, tt, y_merkez=1170):
     if tt < 0 or tt > SURE: return
     giris = _back(tt / 0.9)
@@ -88,8 +101,7 @@ def draw_takip(frame, tt, y_merkez=1170):
     kat = kat.resize((KW, KH), Image.LANCZOS)
     d = ImageDraw.Draw(kat)
     av = _avatar(108); kat.alpha_composite(av, (22, (KH - 108) // 2))
-    d.text((150, KH / 2 - 20), "Sıradan Değil", font=F_B(40), fill=KREM, anchor="lm")
-    d.text((150, KH / 2 + 24), "Tarihin gündelik hikâyeleri", font=F_UI(26), fill=(170, 182, 196), anchor="lm")
+    d.text((150, KH / 2), "Sıradan Değil", font=F_B(44), fill=KREM, anchor="lm")
 
     # --- düğme ---
     BW, BH = 250, 84

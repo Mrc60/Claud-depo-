@@ -186,6 +186,9 @@ def build_captions():
     caps[-1]["show_until"] = caps[-1]["t1"] + 0.6
     return caps
 CAPS = build_captions()
+from takip import draw_takip, baslangic_bul
+TAKIP_T = baslangic_bul(CAPS, EP, DUR)
+print("takip animasyonu:", TAKIP_T)
 
 # ---------- daktilo: yıllar söylenirken tuş sesi + üst kenarda harf harf yazılan yıl ----------
 import re as _re
@@ -794,6 +797,7 @@ def render_frame(t, idx):
     chrome(f, t)
     draw_daktilo(f, t)
     draw_acilis(f, t)
+    if TAKIP_T is not None: draw_takip(f, t - TAKIP_T)
     draw_caption(f, t)
     rgb = f.convert("RGB")
     # hafif film greni
