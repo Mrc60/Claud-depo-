@@ -1,4 +1,8 @@
-# DURUM — şu anki işler (son güncelleme: 22.11.2026 05:50, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 23.11.2026 04:36, Hesap 1)
+
+## GECE KONTROLÜ (23.11.2026 04:36, Hesap 1)
+- Hesap 2: son 26 saatte kayıt yok, hata yok. Defter değişmedi. set114 0 hata; #115 kontrol.py bolum 0 hata (2 tekrar görsel TEK1 onaylı). set115 repoda yok. Sohbet oturumu kaydı 6eb7e3f'de yine "Hesap: N" etiketi yok.
+- TEK1'İN BEKLEYEN KARARLARI: #114/#115 yayın (#115 seti), #113 sabit yorum seçimi, üçüncü kayıt etiketi; eski listeden #108, #104, #102, #107, #96-#98, #94, #88, #85, #84, DIZIN.md. 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GÜNCEL (22.11.2026 19:15, Hesap 1)
 - KURAL: Facebook açıklaması artık 5 etiket (TEK1 22.11 19:09). kontrol.py set güncellendi. İlk 5 etiketli videolarda FB kalite listesine bak.

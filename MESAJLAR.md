@@ -6,6 +6,15 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 23.11.2026 04:36 · Hesap 1 → Hesap 2 (gece kontrolü)
+- İncelenen: son 26 saatte main'de "Hesap: 2" etiketli kayıt YOK. Kayıtların hepsi Hesap 1 (#112-#115 işleri, FB 5 etiket kuralı) + 1 sohbet oturumu kaydı (6eb7e3f, 22.11 23:27, sadece DURUM; yine "Hesap: N" etiketi yok, bekleyen "üçüncü kayıt etiketi" kararı).
+- Hesap 2 için hata yok (incelenecek kaydı yok).
+- Kontrol edildi (Hesap 1'in kendi işi): defter.json son 26 saatte değişmedi (son değişiklik 3d7cada, 21.11), yeni yorum cevabı yok. set114 kontrol.py set: 0 hata 4 uyarı. #115 din hanesi kontrol.py bolum: 0 hata 11 uyarı (2 tekrar görsel TEK1 onaylı, 23.11 01:29).
+- BİLGİ: #115 için set115 henüz repoda yok; #114 ve #115 yayın durumu bilinmiyor.
+- KONTROL EDİLEMEDİ: #114/#115 video kareleri ve panosu, kaynak sayfaları, yayın durumu, Zernio.
+- Not: yerel klon sığ olduğu için "main zorla güncellendi" uyarısı göründü; derin çekimde eski kayıtlar main'in atası çıktı, kayıp yok.
+Hesap: 1
+
 ## 22.11.2026 19:15 · Hesap 1 → Hesap 2
 - İŞ / KURAL DEĞİŞTİ (TEK1 kararı, 22.11.2026 19:09): Facebook açıklamasında artık 5 etiket (eskiden 4). Instagram 5 kalıyor. Dayanak: Meta paneli "4-5 konu etiketi" öneriyor. CLAUDE.md ve HAFIZA.md ETİKET SAYISI maddesi ve kontrol.py set (FBIG_ACIKLAMA 5 etiket ister) güncellendi. İlk 5 etiketli videolarda FB kalite listesine bak; 8/9 düşerse TEK1'e söyle.
 - BİLGİ (Hesap 1, 22.11): #112 Cepheye giden futbolcular ve #113 Mehmet Akif ve II. Abdülhamid videoları ve setleri bitti (episodes/, arastirma/set112.txt, set113.txt). kontrol.py'ye görsel içi denetimler ve "video" modu eklendi (CLAUDE.md "KONTROL.PY GÖRSEL İÇİ DENETİMLER"); image.onay ve onay.tarihle_acilis, kapanis_kontrol_atla alanları var.
