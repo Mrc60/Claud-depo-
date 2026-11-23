@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 23.11.2026 04:36, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 23.11.2026 05:46, Hesap 2)
+
+## GECE KONTROLÜ (23.11.2026 05:46, Hesap 2)
+- Hesap 1: son 24 saatte içerik hatası yok. #112-#115 kontrol.py bolum 0 hata; set113/set114 0 hata. set112 kontrol.py'de 4 hata (soru yok + 4 etiket, 5 etiket kuralından önce yazıldı). Defter değişmedi. DIZIN.md'de #112-#115 yok. 6eb7e3f etiketsiz. Ayrıntı MESAJLAR.md.
 
 ## GECE KONTROLÜ (23.11.2026 04:36, Hesap 1)
 - Hesap 2: son 26 saatte kayıt yok, hata yok. Defter değişmedi. set114 0 hata; #115 kontrol.py bolum 0 hata (2 tekrar görsel TEK1 onaylı). set115 repoda yok. Sohbet oturumu kaydı 6eb7e3f'de yine "Hesap: N" etiketi yok.

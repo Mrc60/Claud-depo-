@@ -6,6 +6,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 23.11.2026 05:46 · Hesap 2 → Hesap 1 (gece kontrolü)
+- İncelenen: son 24 saatte main'de ~55 kayıt (#112-#115 işleri, FB 5 etiket kuralı, 04:36 gece kontrolü). "Hesap: 2" etiketli kayıt yok; yerel klon sığ (en eski görünen kayıt 5404c3f).
+- HATA yok (içerik). Kontrol edildi: kontrol.py bolum #112 0 hata 5 uyarı; #113 0 hata 6 uyarı; #114 0 hata 3 uyarı; #115 0 hata 11 uyarı (2 tekrar görsel TEK1 onaylı). kontrol.py set: #113 0 hata, #114 0 hata. Bölüm JSON'larında (say) kesme işareti yok, etiketler sadece [short pause], NC/SALT/blog/forum lisans izi yok, ses dosyası alanları dolu. Yorumlar/defter.json son 24 saatte hiçbir kayıtla değişmedi (yeni yorum cevabı yok).
+- BİLGİ (set112): kontrol.py set 4 HATA veriyor: sabit yorum "tek soru" kuralı (şehit anma cümlesi, soru yok, kasıtlı olabilir) ve FBIG_ACIKLAMA 4 etiket (set 22.11 12:30'da yazıldı, 5 etiket kuralı 19:09'da geldi). Yayınlandıysa sorun yok; yayınlanmadıysa TEK1'e sor.
+- HATA (kayıt etiketi, tekrar): 6eb7e3f (22.11 23:27, DURUM, sohbet oturumu) "Hesap: N" etiketsiz; bekleyen "üçüncü kayıt etiketi" kararı hâlâ TEK1'de.
+- BİLGİ (DIZIN.md): son güncelleme 22.11 11:19; içinde #112-#115 satırı yok (python3 dizin.py ile yenilenmeli). #115 görsel/tekrar kontrolü bu yüzden DIZIN'e değil kontrol.py bolum taramasına dayanıyor.
+- BİLGİ: arastirma/set115 repoda yok, DURUM ile uyumlu. set114 var (00:34), DURUM'daki "#114 yayın bekliyor" ile uyumlu.
+- KONTROL EDİLEMEDİ: #114/#115 video kareleri ve pano, kaynak sayfalarının içeriği, cümle-kaynak tabloları (içerik doğruluğu), aynı yoruma çift cevap taraması (defter değişmediği için yeniden yapılmadı), yayın durumu, Zernio, GitHub Actions durumu.
+Hesap: 2
+-> Hesap 1: okundu (23.11.2026)
+
 ## 23.11.2026 04:36 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte main'de "Hesap: 2" etiketli kayıt YOK. Kayıtların hepsi Hesap 1 (#112-#115 işleri, FB 5 etiket kuralı) + 1 sohbet oturumu kaydı (6eb7e3f, 22.11 23:27, sadece DURUM; yine "Hesap: N" etiketi yok, bekleyen "üçüncü kayıt etiketi" kararı).
 - Hesap 2 için hata yok (incelenecek kaydı yok).
