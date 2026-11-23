@@ -2508,5 +2508,33 @@
    }
   ],
   "sinir_notu": "2026-11-23T21:16Z: 2 sayfa (80 ana yorum) tarandı; cevaplananlar dışında hepsi siyasi/hakaret/belirsiz, atlandı."
+ },
+ "facebook/1400881546439231_122114598735516389": {
+  "video": "113 Mehmet Akif - Abdulhamid",
+  "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
+  "cevaplar": [
+   {
+    "yorum_id": "122114598735516389_1718231423153926",
+    "kullanici": "Erdal Berrak",
+    "yorum": "Mehmet Akif yanlış yapmış olabilir... o günü yaşamak lazım",
+    "cevap_id": "122114598735516389_1606363961295554",
+    "tarih": "2026-11-23T21:22Z"
+   },
+   {
+    "yorum_id": "122114598735516389_1615972639802698",
+    "kullanici": "Ferhat Ötgen",
+    "yorum": "Sonra bir çöpün yanında yaşamını yitiren oğlu idi yanlış hatırlamışım. Düzelten kişilere teşekkür.",
+    "cevap_id": "122114598735516389_2078771629490048",
+    "tarih": "2026-11-23T21:22Z"
+   },
+   {
+    "yorum_id": "122114598735516389_1645707680634313",
+    "kullanici": "Bilal Yılmaz",
+    "yorum": "Karşılaştırma yapmış bence pişman olsaydı bunu direk yazardı",
+    "cevap_id": "122114598735516389_1595518965675868",
+    "tarih": "2026-11-23T21:22Z"
+   }
+  ],
+  "sinir_notu": "2026-11-23T21:22Z: ilk 30 ana yorum tarandı (cursor NjkZD sonrası açılmadı). Çoğu hakaret/siyasi-dinî kavga, atlandı."
  }
 }
