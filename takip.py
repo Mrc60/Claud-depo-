@@ -79,7 +79,9 @@ def baslangic_bul(caps, ep, dur):
                 return bas if bas <= son else None
     return None
 
-def draw_takip(frame, tt, y_merkez=1635):
+OLCEK = 0.55        # TEK1 23.11 11:19: "neredeyse %50 küçült"
+
+def draw_takip(frame, tt, y_merkez=1600):
     if tt < 0 or tt > SURE: return
     giris = _back(tt / 0.9)
     cikis = _io((tt - (SURE - 0.7)) / 0.7)
@@ -129,18 +131,21 @@ def draw_takip(frame, tt, y_merkez=1635):
     # kapsülü kareye koy
     if alfa < 1:
         a = kat.getchannel("A").point(lambda v: int(v * alfa)); kat.putalpha(a)
-    kx = (W - KW) // 2; ky = int(y_merkez - KH / 2 + dy)
+    O = OLCEK
+    kat = kat.resize((int(KW * O), int(KH * O)), Image.LANCZOS)
+    bx, by = bx * O, by * O
+    kx = (W - kat.width) // 2; ky = int(y_merkez - kat.height / 2 + dy * O)
     frame.alpha_composite(kat, (kx, ky))
 
     # --- imleç ---
-    hedef = (kx + bx - UC_X + 6, ky + by - 4)
+    hedef = (kx + bx - UC_X * O + 4, ky + by - 3)
     bas_nokta = (W + 40, H * 0.93)
     if tt >= 1.2:
         m = _io((tt - 1.2) / 1.3)
         x = bas_nokta[0] + (hedef[0] - bas_nokta[0]) * m
-        y = bas_nokta[1] + (hedef[1] - bas_nokta[1]) * m - 60 * (4 * m * (1 - m))   # hafif yay
+        y = bas_nokta[1] + (hedef[1] - bas_nokta[1]) * m - 45 * (4 * m * (1 - m))   # hafif yay
         olc = 0.88 if tik_an <= tt < tik_an + 0.14 else 1.0
-        im = _imlec(1.5 * olc)
+        im = _imlec(round(1.5 * O * olc, 3))
         ia = alfa * (1 - _c((tt - 3.9) / 0.5))
         if ia > 0.01:
             if ia < 1:
