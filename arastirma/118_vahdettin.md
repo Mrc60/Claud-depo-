@@ -19,7 +19,7 @@ D4. Yanında 10 yaşlarındaki oğlu Ertuğrul vardı. Popüler + newlines; akad
 D5. Gemi Malta'ya gitti (varış 20 Kasım; bazı kaynaklar 21) → gün YAZMA. K1, K2.
 D6. 18 Kasım 1922 TBMM yeni halife olarak Abdülmecid Efendi'yi seçti. K3, 3935757.
 D7. Malta'dan Hicaz Kralı'nın davetiyle Mekke'ye, sonra San Remo'ya gitti. K1, K2.
-D8. 16 Mayıs 1926 San Remo'da öldü; cenazesi Türkiye'ye kabul edilmedi, Şam'da Süleymaniye Külliyesi mezarlığına gömüldü. K2 + (popüler çok) → ikinci akademik aranıyor.
+D8. 16 Mayıs 1926 San Remo'da öldü; cenazesi Türkiye'ye kabul edilmedi, Şam'da Süleymaniye Külliyesi mezarlığına gömüldü. K2 (Mengeş 2024, ben okudum) + Küçük 2003, TDV İslâm Ansiklopedisi "Mehmed VI" (WebFetch özeti, ben okudum: 3 Temmuz 1926 Şam Süleymaniye Camii avlusunda defnedildi). 2 kaynak TAMAM.
 
 ## TARTIŞMALI / YAZILMAYACAK
 - Cenazeye alacaklıların haciz koyması, borçlar ödenene kadar tabutun bekletilmesi: sadece popüler kaynaklar (A Haber, Milli Gazete, Timeturk); 1926 Yeni Zelanda gazetesi "cenaze gecikti" başlığı var ama açılamadı → doğrulanmadı, YAZMA (GPT/Perplexity'ye sorulabilir).

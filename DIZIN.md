@@ -65,8 +65,57 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 | 057 | Renk Körlüğü | Kırmızı ile yeşili / karıştıran biri var mı? | 10 |
 | 058 | Evli Kadının Soyadı | Evlenen kadın soyadını / kim seçerdi? | 10 |
 | 059 | Kadın ve Erkeğin Miras Payı | Kız ile erkek kardeşin / miras payı hep aynı mıydı? | 10 |
+| 060 | Siyah Önlük Kimin Fikriydi | Siyah önlük / kimin fikriydi? | 7 |
+| 061 | Çarşaf Neden Yasaklandı | Çarşaf neden / yasaklandı? | 10 |
 | 062 | Savaşlar Neden Müslüman Ülkelerde | Savaşlar neden / Müslüman ülkelerde? | 10 |
-| 063 | Düğün Masrafını Neden Erkek Öder | Düğünü neden / erkek öder? | 10 |
+| 063 | Düğün Masrafını Neden Erkek Öder | Düğünü neden / erkek öder? | 11 |
+| 064 | Telefon İçin Yıllarca Sıra | Telefon için / yıllarca sıra! | 6 |
+| 065 | Türkler Kimin Harflerini Kullandı | Y ve Z aslında / Yunan harfi! | 10 |
+| 066 | Kaymakçıya Kadın Giremez | Kaymakçıya / kadın giremez! | 10 |
+| 067 | Muhtarlık Neden Kuruldu | Muhtarlık neden / kuruldu? | 10 |
+| 068 | Yüzüne Kurşun Sürüyorlardı | Yüzüne kurşun / sürüyorlardı! | 8 |
+| 069 | Milli Piyango Uçak İçin Kuruldu | Piyango bileti / uçak içindi! | 8 |
+| 070 | Ay Adları Nereden Geldi | Ocak ayının adı / bir çeviri! | 6 |
+| 071 | Döviz Tutmak Hapis Sebebiydi | Döviz tutmak / hapis sebebiydi! | 7 |
+| 072 | Osmanlı Cellatları | Cellat yüzünü / gizler miydi? | 10 |
+| 073 | 1927 Nüfus Sayımı | Bütün ülke evde, / kapı çalınıyor! | 8 |
+| 074 | Köleliğin Kaldırılması | Kölelik hangi gün / kaldırıldı? | 6 |
+| 075 | 10 Kasım Saygı Duruşu | Bu sessizlik bir zamanlar / 5 dakika sürüyordu! | 8 |
+| 076 | Varlık Vergisi | Kapıya bir liste asıldı. / Adınız orada! | 7 |
+| 077 | 1979 Kuyrukları | Cebinizde para var / ama alacak tüp yok! | 6 |
+| 078 | Nüfus Cüzdanı | Kimliğinize bıyığınız / yazılırdı! | 7 |
+| 079 | Köy Ebeleri | Köyün ebesi bir gün / suçlu sayıldı! | 8 |
+| 080 | Kıbrıs Nasıl İkiye Bölündü | Bir ada nasıl / ikiye bölündü? | 12 |
+| 081 | Sokağa Tükürme Yasağı | Sokağa tükürene / ceza vardı! | 8 |
+| 084 | Eski Okul Cezaları | Eti senin, / kemiği benim! | 8 |
+| 085 | Kiraların Dondurulduğu Yıllar | Kira artmıyordu, / ama ev yoktu! | 9 |
+| 087 | Kadınlara Konan Perdeler | Kadınlar vapura / binemezdi! | 17 |
+| 089 | Kardeş Katli Kanunu | Kardeşini öldürmeye / izin veren kanun | 8 |
+| 090 | Evlenmek İçin Sağlık Raporu | Rapor olmadan / nikâh kıyılmazdı | 9 |
+| 091 | Ölen Kardeşinin Kimliğiyle Yaşayanlar | Kimliğinizdeki yaş / size ait olmayabilir | 12 |
+| 092 | Beşiktaşı Kim Kurdu | Beşiktaş futbol için / kurulmadı | 12 |
+| 093 | Galatasaray'ı Kim Kurdu | Galatasaray'ın adını / seyirciler koydu | 14 |
+| 094 | 5816 Nasıl Doğdu | Kırılan bir heykel / bir kanun doğurdu | 12 |
+| 095 | Fenerbahçeyi Kim Kurdu | Fenerbahçe / gizlice kuruldu | 14 |
+| 096 | Menderes Neden İdam Edildi | Uçak kazasından kurtuldu / sonra idam edildi | 13 |
+| 097 | Trabzonspor Nasıl Kuruldu | İki ezeli rakip / tek kulüp oldu | 11 |
+| 098 | Montrö Boğazlar Sözleşmesi | Boğazlarda 13 yıl / tek top yoktu | 15 |
+| 099 | Nuri Demirağ Uçak Fabrikası | Türk uçağı yaptı / fabrika kapandı | 10 |
+| 100 | Çiçek Aşısı Zorunluluğu | Aşı kâğıdın yoksa / okula giremezdin | 13 |
+| 102 | Meclisin İlk Kanunu: Koyun Vergisi | Meclisin ilk kanunu / koyun vergisiydi | 13 |
+| 103 | Türkiyenin İlk Milli Maçları | Cumhuriyetten 3 gün önce / ilk milli maç | 12 |
+| 105 | Ezanın Türkçe Okunduğu Yıllar | 18 yıl boyunca / ezan Türkçe okundu | 14 |
+| 106 | Bayrağımızın Hikâyesi | Bayraktaki yıldız / sekiz köşeliydi | 10 |
+| 107 | Sümerbank Fabrikaları | Bu fabrikalar / bugün neden yok? | 15 |
+| 109 | Kartal, Kanarya, Aslan | Kartal, Kanarya, Aslan / Bu adları kim verdi? | 12 |
+| 110 | Okkayla satılan arşiv | Osmanlı arşivi / hurda kâğıt diye satıldı | 12 |
+| 111 | Paralarda İnönü | Paralarda hep / Atatürk mü vardı? | 12 |
+| 112 | Cepheye giden futbolcular | Cepheye giden / futbolcular | 12 |
+| 113 | Mehmet Akif ve II. Abdülhamid | Akif neden / padişaha kızdı? | 14 |
+| 114 | Osmanlı'da tütün yasağı | Bir nefes tütünün / cezası: ölüm | 14 |
+| 115 | Kimlikteki din hanesi | Kimliğinizdeki din hanesi / nereye gitti? | 9 |
+| 116 | Osmanlı borcunu kim ödedi | Osmanlı'nın borcunu / kim ödedi? | 14 |
+| 118 | Son padişah kaçtı mı? | Son padişah / kaçtı mı? | 14 |
 
 ## Birden fazla bölümde kullanılan görseller
 
@@ -78,8 +127,10 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 - 046_heyet.jpg: 046, 047
 - 046_heyet_bank.jpg: 046, 047
 - 046_musul.jpg: 046, 047
+- 053_anafartalar.jpg: 053, 094
 - 053_meclis1920.jpg: 053, 055
-- 053_meclis1928.jpg: 053, 055
+- 053_meclis1928.jpg: 053, 055, 094
+- 096_menderes2.jpg: 096, 105
 - File:An early Republican family, 1920s. (15001811137).jpg: 026, 028
 - File:Atatürk'ün 993 814 seri numaralı nüfus cüzdanı.jpg: 021, 024
 - File:CH-NB - Türkei, Anatolien- Menschen - Annemarie Schwarzenbach - SLA-Schwarzenbach-A-5-02-189.jpg: 037, 039
@@ -165,5 +216,54 @@ Yeni konu/görsel seçmeden önce buraya bak: konu tekrarı ve görsel tekrarı.
 - **057 Renk Körlüğü**: 057_plaka_6.jpg, 057_lale_protanopi.jpg, 057_holmgren.jpg, 057_plaka_42.jpg, 057_dalton_turner.jpg, 057_makale.jpg, 057_dalton_profil.jpg, 057_dalton_cizim.jpg, 057_plaka_74.jpg, 057_plaka_3.jpg
 - **058 Evli Kadının Soyadı**: 058_rg1934.jpg, 058_nufus_cuzdani.jpg, 058_miss1930.jpg, 058_aihm_dis.jpg, 058_ankara_bina.jpg, 058_aym_bina.jpg, 058_aihm_salon.jpg, 058_tbmm.jpg, 058_holiday.jpg, 058_ankara_muze.jpg
 - **059 Kadın ve Erkeğin Miras Payı**: 059_sultanhani_koy.jpg, 059_ayet_4_7.jpg, 059_ayet_4_11.jpg, 059_graf_islam.jpg, 059_kanun_karti.jpg, 059_graf_mk.jpg, 059_tmk495.jpg, 059_giritli_kadin.jpg, 059_leiden.jpg, 059_sultanhani_hamur.jpg
+- **060 Siyah Önlük Kimin Fikriydi**: 060_tablo_acilis.jpg, 060_gravur.jpg, 060_ocakli.jpg, 060_portre.jpg, 060_mavi_erkek.jpg, 060_kizlar.jpg, 060_tablo.jpg
+- **061 Çarşaf Neden Yasaklandı**: 061_kopru.jpg, 061_yasmak.jpg, 061_istanbul1873.jpg, 061_acilis.jpg, 061_uskudar.jpg, 061_hemsire.jpg, 061_grup1920.jpg, 061_yasli.jpg, 061_trabzon.jpg, 061_ankara.jpg
 - **062 Savaşlar Neden Müslüman Ülkelerde**: 062_bagdat1917.jpg, 062_bagdat1932.jpg, 062_afganistan.jpg, 062_harita.jpg, 062_kudus1917.jpg, 062_petrol.jpg, 062_bagdat2003.jpg, 062_saraybosna.jpg, 062_cami_aileler.jpg, 062_bagdat_kutlama.jpg
-- **063 Düğün Masrafını Neden Erkek Öder**: 063_hediye.jpg, 063_damat.jpg, 063_gelin.jpg, 063_nikah.jpg, 063_gelin_at.jpg, 063_meclis1921.jpg, 063_cibali1935.jpg, 063_dinar1921.jpg, 063_karsilama.jpg, 063_kalin_yurt.jpg
+- **063 Düğün Masrafını Neden Erkek Öder**: 063_hediye.jpg, 063_damat.jpg, 063_gerdek_perdesi.jpg, 063_nikah.jpg, 063_gelin.jpg, 063_gelin_at.jpg, 063_meclis1921.jpg, 063_cibali1935.jpg, 063_dinar1921.jpg, 063_karsilama.jpg, 063_kiz_kacar.jpg
+- **064 Telefon İçin Yıllarca Sıra**: 064_telefon_w51.jpg, 064_ptt_santral.jpg, 064_karagoz.jpg, 064_hat_isci1.jpg, 064_akilli_telefon.jpg, 064_operator1941.jpg
+- **065 Türkler Kimin Harflerini Kullandı**: 065_yunan.jpg, 065_tonyukuk.jpg, 065_uygur.jpg, 065_cihannuma.jpg, 065_harf1928.jpg, 065_yanalif.jpg, 065_kiril_afis.jpg, 065_yeniyol.jpg, 065_altay.jpg, 065_likbez.jpg
+- **066 Kaymakçıya Kadın Giremez**: 066_kadinlar.jpg, 066_eyup1857.jpg, 066_eyup_iskele.jpg, 066_carsi_kadin.jpg, 066_divan.jpg, 066_kadi.jpg, 066_ferman.jpg, 066_dukkan2.jpg, 066_kaymak.jpg, 066_eyup_cadde.jpg
+- **067 Muhtarlık Neden Kuruldu**: 067_sokak.jpg, 067_avlu.jpg, 067_pasaport.jpg, 067_yeniceri.jpg, 067_kalabalik.jpg, 067_mahmud.jpg, 067_avlu2.jpg, 067_kastamonu.jpg, 067_karakoy.jpg, 067_esnaf.jpg
+- **068 Yüzüne Kurşun Sürüyorlardı**: 068_tullu.jpg, 068_genckadin.jpg, 068_halilpasa.jpg, 068_ustubec.jpg, 068_kellogg.jpg, 068_seruzit.jpg, 068_lewis.jpg, 068_hamam.jpg
+- **069 Milli Piyango Uçak İçin Kuruldu**: 069_eminonu.jpg, 069_vecihi_k6.jpg, 069_senlik.jpg, 069_orhaneli.jpg, 069_corum.jpg, 069_kayseri.jpg, 069_ilan1939.jpg, 069_izmirmektep.jpg
+- **070 Ay Adları Nereden Geldi**: 070_takvim.jpg, 070_galata1913.jpg, 070_bahar.jpg, 070_eyupkar.jpg, 070_tandir.jpg, 070_tandir_oda.jpg
+- **071 Döviz Tutmak Hapis Sebebiydi**: 071_dolar20.jpg, 071_wallstreet.jpg, 071_cezaevi.jpg, 071_dolar2.jpg, 071_ulucanlar.jpg, 071_carsi_dukkan.jpg, 071_lira1927.jpg
+- **072 Osmanlı Cellatları**: 072_babhumayun.jpg, 072_cesme.jpg, 072_cellat_resim.jpg, 072_ibrahim.jpg, 072_saray.jpg, 072_cesme2.jpg, 072_eyup_kar2.jpg, 072_mezar_taslari.jpg, 072_eyup_gravur.jpg, 072_eyup_kar.jpg
+- **073 1927 Nüfus Sayımı**: 073_ankara_ev.jpg, 073_sokak_gravur.jpg, 073_mahmud.jpg, 073_gazete.jpg, 073_sokak2.jpg, 073_harita_yas.jpg, 073_harita_yogunluk.jpg, 073_uskudar.jpg
+- **074 Köleliğin Kaldırılması**: 074_esir_pazari.jpg, 074_abdulmecid.jpg, 074_harem_agasi.jpg, 074_yildiz.jpg, 074_mesrutiyet.jpg, 074_cenevre.jpg
+- **075 10 Kasım Saygı Duruşu**: 075_anitkabir_2012.jpg, 075_album_302.jpg, 075_mersin_halkevi.jpg, 075_com_l02.jpg, 075_tbmm_salon_1922.jpg, 075_resmi_gazete_1982.jpg, 075_cenaze_kortej.jpg, 075_taksim_2024.jpg
+- **076 Varlık Vergisi**: 076_defter.jpg, 076_kahire.jpg, 076_rg5255.jpg, 076_kamondo.jpg, 076_askale_kar.jpg, 076_stambul_sokak.jpg, 076_uskudar.jpg
+- **077 1979 Kuyrukları**: 077_istanbul1979.jpg, 077_tutanak.jpg, 077_benzin_kuyrugu.jpg, 077_dolar.jpg, 077_carsi_sokak.jpg, 077_istanbul_kiyi1979.jpg
+- **078 Nüfus Cüzdanı**: 078_tezkere_akif.jpg, 078_elbise_1873.jpg, 078_babiali.jpg, 078_cuzdan_saitfaik.jpg, 078_cuzdan_mavi_916.jpg, 078_kimlik_kart.jpg, 078_cuzdan_pembe_916.jpg
+- **079 Köy Ebeleri**: 079_kadin1935.jpg, 079_resmigazete1928.jpg, 079_besimomer.jpg, 079_kadincocuk1935.jpg, 079_kiz1935.jpg, 079_saglikocagi.jpg, 079_koy1935.jpg, 079_kadin1935b.jpg
+- **080 Kıbrıs Nasıl İkiye Bölündü**: 080_ledra1969_916.jpg, 080_makarios1962_916.jpg, 080_kucuk_916.jpg, 080_unficyp1969_916.jpg, 080_makarios1957_916.jpg, 080_uydu1974_916.jpg, 080_lefkosa1969_916.jpg, 080_lefkosa1969b_916.jpg, 080_lefkosa1969c_916.jpg, 080_yesilhat_916.jpg, 080_uydu1974b_916.jpg, 080_lefkosa1969d_916.jpg
+- **081 Sokağa Tükürme Yasağı**: 081_rue1.jpg, 081_stamboul1901.jpg, 081_rue2.jpg, 081_vakit1931.jpg, 081_galata.jpg, 081_sonposta1937.jpg, 081_sokak1906.jpg, 081_rue3.jpg
+- **084 Eski Okul Cezaları**: 084_mehmedpasa_mektep_916.jpg, 084_turkistan_mektep_916.jpg, 084_emirgan_916.jpg, 084_uskudar_kiz_916.jpg, 084_falaka_baku_916.jpg, 084_sultani_916.jpg, 084_asiret_916.jpg, 084_darussafaka_916.jpg
+- **085 Kiraların Dondurulduğu Yıllar**: 085_ankara_kale1950.jpg, 085_ataturk_bulvari1946.jpg, 085_istanbul_ahsap1933.jpg, 085_rasattepe1952.jpg, 085_istanbul_konut1935.jpg, 085_istanbul_kemer1933.jpg, 085_bentderesi1950.jpg, 085_galata1953.jpg, 085_istanbul_sutun1933.jpg
+- **087 Kadınlara Konan Perdeler**: 087_pecelikadin.jpg, 087_tramvay1877.jpg, 087_carsafli.jpg, 087_halic_vapurlar.jpg, 087_uc_kadin1914.jpg, 087_gadmer_iskele.jpg, 087_kizkulesi_hamam.jpg, 087_sebah_kadin.jpg, 087_tramvay_kar.jpg, 087_kadinlar1920.jpg, 087_gadmer_tramvay.jpg, 087_pera_sokak1913.jpg, 087_tutanak137.jpg, 087_tutanak138.jpg, 087_harem_araba.jpg, 087_ogrenciler.jpg, 087_uskudar_kadin.jpg
+- **089 Kardeş Katli Kanunu**: 089_mehmed3b.jpg, 089_fatih.jpg, 089_ankara.jpg, 089_bayezid.jpg, 089_mehmed3.jpg, 089_ahmed1.jpg, 089_silsile.jpg, 089_mustafa1.jpg
+- **090 Evlenmek İçin Sağlık Raporu**: 090_gelin.jpg, 090_frengiafis.jpg, 090_sutdamlasi.jpg, 090_safiyeali.jpg, 090_doktorlar1926.jpg, 090_verem.jpg, 090_etfal.jpg, 090_bakanlik.jpg, 090_gelin2.jpg
+- **091 Ölen Kardeşinin Kimliğiyle Yaşayanlar**: 091_cuzdan_mubadil.jpg, 091_meydan.jpg, 091_anne_yakin.jpg, 091_anne_cocuk.jpg, 091_dogum_belgesi.jpg, 091_mezarlik2.jpg, 091_cocuklar.jpg, 091_koy1905.jpg, 091_nvi_bina.jpg, 091_cuzdan_vitrin.jpg, 091_kadinlar.jpg, 091_koy_minare.jpg
+- **092 Beşiktaşı Kim Kurdu**: 092_kadro1920s7.jpg, 092_serencebey_sebah.jpg, 092_bebek1870.jpg, 092_abdulhamid.jpg, 092_eskrim1928.jpg, 092_seref1911.jpg, 092_kadro1911.jpg, 092_seref1932.jpg, 092_kadro1920.jpg, 092_kadro1920s6.jpg, 092_kadro1920s2.jpg, 092_kadro1920s3.jpg
+- **093 Galatasaray'ı Kim Kurdu**: 093_kurucular.jpg, 093_ms_bina1.jpg, 093_yonetim.jpg, 093_mektebisultani.jpg, 093_union_kadikoy.jpg, 093_galata_kopru.jpg, 093_galata_kule.jpg, 093_gs1909.jpg, 093_barham.jpg, 093_gs1908.jpg, 093_alisami1923.jpg, 093_gsfb1923.jpg, 093_kadikoy1905.jpg, 093_kadikoy1906.jpg
+- **094 5816 Nasıl Doğdu**: 094_ulus_heykel.jpg, 094_ulus_heykel2.jpg, 094_zaviye.jpg, 094_meclis.jpg, 053_meclis1928.jpg, 094_devlet_mahallesi.jpg, 094_ulus_dikey.jpg, 094_rg7872.jpg, 053_anafartalar.jpg, 094_ulus1937.jpg, 094_heykel2019.jpg, 094_bulvar.jpg
+- **095 Fenerbahçeyi Kim Kurdu**: 095_ziya.jpg, 095_necip.jpg, 095_abdulhamid.jpg, 095_fener_gravur.jpg, 095_takim1913.jpg, 095_levant1908.jpg, 095_gsfb1910.jpg, 095_sampiyon1912.jpg, 095_isgal1923.jpg, 095_zekiriza.jpg, 095_vatan1923.jpg, 095_tuzuk1913.jpg, 095_harington_gazete.jpg, 095_takim1914.jpg
+- **096 Menderes Neden İdam Edildi**: 096_menderes2.jpg, 096_zurih.jpg, 096_anit_tasi.jpg, 096_viscount.jpg, 096_inonu.jpg, 096_madalya.jpg, 096_yassiada.jpg, 096_mbk_karar.jpg, 096_zorlu.jpg, 096_bayar.jpg, 096_imrali_harita.jpg, 096_menderes.jpg, 096_anitmezar.jpg
+- **097 Trabzonspor Nasıl Kuruldu**: 097_arena2.jpg, 097_idmanocagi1941.jpg, 097_altay_stad.jpg, 097_avniaker.jpg, 097_danistay.jpg, 097_kafile.jpg, 097_bayrak.jpg, 097_ozyazici_stad.jpg, 097_kupa.jpg, 097_arena.jpg, 097_kulup_bina.jpg
+- **098 Montrö Boğazlar Sözleşmesi**: 098_hamidiye.jpg, 098_bogaz1915.jpg, 098_lozan_salon.jpg, 098_chanak_sehir.jpg, 098_aras_sdn.jpg, 098_habes1936.jpg, 098_vg12173.jpg, 098_aras1936.jpg, 098_aras_litvinov.jpg, 098_chanak_bogaz.jpg, 098_bahribaba1936.jpg, 098_yavuz1936.jpg, 098_filo_malta1936.jpg, 098_hamidiye2.jpg, 098_kilitbahir_tablo.jpg
+- **099 Nuri Demirağ Uçak Fabrikası**: 099_tasvir_ucaklar.jpg, 099_demiraglar.jpg, 099_nud36.jpg, 099_alan_ucak.jpg, 099_heyet_avrupa.jpg, 099_pilotlar1934.jpg, 099_vatan_gokokulu.jpg, 099_tasvir_pilotlar.jpg, 099_tomtas.jpg, 099_nud38_muze.jpg
+- **100 Çiçek Aşısı Zorunluluğu**: 100_belge1837.jpg, 100_filistin_cocuk.jpg, 100_montagu.jpg, 100_jenner.jpg, 100_cowpock.jpg, 100_maden_cocuk.jpg, 100_hayriefendi.jpg, 100_cocuk_bekleyen.jpg, 100_madrid1909.jpg, 100_tokatlian.jpg, 100_saydam_vakit.jpg, 100_filistin_ekip.jpg, 100_kol_cizim.jpg
+- **102 Meclisin İlk Kanunu: Koyun Vergisi**: 102_tbmm_dua.jpg, 102_isgal.jpg, 102_coban2.jpg, 102_koylu_yasli.jpg, 102_damatferid.jpg, 102_ankara_posta.jpg, 102_amasya_koylu.jpg, 102_bilecik_cocuk.jpg, 102_bilecik_kiz.jpg, 102_ahlat1988.jpg, 102_coban3.jpg, 102_girdev1975.jpg, 102_topkapi_koyun.jpg
+- **103 Türkiyenin İlk Milli Maçları**: 103_isvec1924.jpg, 103_kurtulus.jpg, 103_kurtulus2.jpg, 103_tribun.jpg, 103_taksim_mac.jpg, 103_zekiriza.jpg, 103_colombes.jpg, 103_paris_takim.jpg, 103_helsinki1924.jpg, 103_sovyet1925.jpg, 103_milli1925.jpg, 103_acilis1924.jpg
+- **105 Ezanın Türkçe Okunduğu Yıllar**: 105_suleymaniye_loc.jpg, 105_sultanahmet_meydan.jpg, 105_ataturk_inonu1932.jpg, 105_ayasofya1915.jpg, 105_fatih_sebah.jpg, 105_laleli.jpg, 105_kalabalik_galata.jpg, 105_bursa_ulucami_ic.jpg, 105_ataturk1933_konusma.jpg, 105_inonu2.jpg, 096_menderes2.jpg, 105_bayezid1912.jpg, 105_bayezid_pano.jpg, 105_fatih_r2.jpg
+- **106 Bayrağımızın Hikâyesi**: 106_alay_sancagi.jpg, 106_caldiran_minyatur.jpg, 106_bowles_bayraklar.jpg, 106_selim3_gravur.jpg, 106_abdulmecid_foto.jpg, 106_asker_bayrak.jpg, 106_kursu_bayrak.jpg, 106_ankara1940.jpg, 106_onur_aniti1933.jpg, 106_ankara_bulvar.jpg
+- **107 Sümerbank Fabrikaları**: 107_kayseri_baca.jpg, 107_sumerbank_merkez.jpg, 107_kayseri_on.jpg, 107_nazilli_ataturk.jpg, 107_kadin_isciler.jpg, 107_erkek_isciler.jpg, 107_kayseri_iplik.jpg, 107_kayseri_tezgah.jpg, 107_otomatik.jpg, 107_izmit_fabrika.jpg, 107_beykoz.jpg, 107_kayseri_kiz_isci.jpg, 107_kayseri_dokuma_bina.jpg, 107_fabrika_kolaj.jpg, 107_bakirkoy_iplik.jpg
+- **109 Kartal, Kanarya, Aslan**: 109_fbbjk_1946b.jpg, 109_tribun_1925.jpg, 109_gs_1931.jpg, 109_gs_1926.jpg, 109_cihat.jpg, 109_fb_cihat1943.jpg, 109_bjk_aksam41.jpg, 109_bjk_hucum1946.jpg, 109_tribun_1932.jpg, 109_fbbjk_1946a.jpg, 109_fb_1945b.jpg, 109_taksim_1925.jpg
+- **110 Okkayla satılan arşiv**: 110_sonposta_araba.jpg, 110_sonposta_depo.jpg, 110_ferman_fatih.jpg, 110_galata_araba.jpg, 110_cevdet.jpg, 110_ferman_cem.jpg, 110_ayasofya_park.jpg, 110_sirkeci_sebah.jpg, 110_sofya_hava.jpg, 110_vakit_1932_cuval.jpg, 110_ulufe.jpg, 110_galata_hamal.jpg
+- **111 Paralarda İnönü**: 111_k_e2_ataturk_1000.jpg, 111_k_e4_100tl.jpg, 111_ataturk_inonu_1936.jpg, 111_inonu_kirpik.jpg, 111_k_e2_inonu_1000.jpg, 111_pire_bombardiman.jpg, 111_k_e2_50tl.jpg, 111_ulus_meydani_1940.jpg, 111_k_e3_50tl.jpg, 111_k_e5_50tl.jpg, 111_merkez_bankasi_1940.jpg, 111_k_e3_1000tl.jpg
+- **112 Cepheye giden futbolcular**: 112_donanma_kapak.jpg, 112_gelibolu_asker.jpg, 112_fb1914.jpg, 112_gs1915.jpg, 112_k_hasnun.jpg, 112_gs1918.jpg, 112_dardanel_asker.jpg, 112_fb1913.jpg, 112_bundes_top.jpg, 112_bjk1911.jpg, 112_gsfb1913.jpg, 112_siper.jpg
+- **113 Mehmet Akif ve II. Abdülhamid**: 113_ah_1908_loc.jpg, 113_akif.jpg, 113_karakol.jpg, 113_yildiz_cami.jpg, 113_halk1908.jpg, 113_ittihat_heyet.jpg, 113_meclis1908.jpg, 113_hareket1.jpg, 113_alatini.jpg, 113_hareket2.jpg, 113_heyet.jpg, 113_akif_misir.jpg, 113_ah_1907.jpg, 113_yildiz1909.jpg
+- **114 Osmanlı'da tütün yasağı**: 114_cubuk_ihtiyar.jpg, 114_tutun_bitki.jpg, 114_murad_tablo.jpg, 114_bogaz_gravur.jpg, 114_kahvehane_preziosi.jpg, 114_murad_yenicheri.jpg, 114_katip_harita.jpg, 114_kahvehane_foto.jpg, 114_meddah.jpg, 114_murad_olum.jpg, 114_mufti.jpg, 114_kavala_isci.jpg, 114_murad_ayakta.jpg, 114_elci_gravur.jpg
+- **115 Kimlikteki din hanesi**: 115_cuzdan_pembe.jpg, 115_mebus_kart1.jpg, 115_mebus_kart2.jpg, 115_ankara1950.jpg, 115_anayasa_mah.jpg, 115_cuzdan_mavi.jpg, 115_yargitay.jpg, 115_aihm.jpg, 115_kimlik2024.jpg
+- **116 Osmanlı borcunu kim ödedi**: 116_abdulaziz2.jpg, 116_kirim1.jpg, 116_tahvil_bagdat.jpg, 116_abdulaziz_gravur.jpg, 116_abdulaziz.jpg, 116_tahvil_anadolu.jpg, 116_tahvil_selanik.jpg, 116_tahvil1933.jpg, 116_meclis1928.jpg, 116_ziraat_ankara1.jpg, 116_istanbul1950.jpg, 116_kirim2.jpg, 116_kirim4.jpg, 116_kirim5.jpg
+- **118 Son padişah kaçtı mı?**: 118_portre_sebah.jpg, 118_yakin_portre.jpg, 118_tbmm_dua.jpg, 118_dua.jpg, 118_harington.jpg, 118_portre_bnf.jpg, 118_yildiz_cami_cikis.jpg, 118_tophane_panorama.jpg, 118_malta_varis.jpg, 118_abdulmecid.jpg, 118_gemiden_inis.jpg, 118_tekkiye_eski.jpg, 118_fayton.jpg, 118_malaya_iwm.jpg

@@ -1,0 +1,596 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 118,
+ "slug": "vahdettin",
+ "title": "Son padişah kaçtı mı?",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Çelik 2016, ÇTTAD",
+  "Mengeş 2024, Atatürk Yolu",
+  "Akman 2019",
+  "Küçük 2003, TDV İA"
+ ],
+ "acilis": "Son padişah\nkaçtı mı?",
+ "dis_ses": {
+  "file": "assets/ses/118_vahdettin.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     6.4
+    ]
+   ],
+   [
+    [
+     6.4,
+     11.4
+    ]
+   ],
+   [
+    [
+     11.4,
+     15.9
+    ]
+   ],
+   [
+    [
+     15.9,
+     20.45
+    ]
+   ],
+   [
+    [
+     20.45,
+     25.0
+    ]
+   ],
+   [
+    [
+     25.0,
+     32.1
+    ]
+   ],
+   [
+    [
+     32.1,
+     36.6
+    ]
+   ],
+   [
+    [
+     36.6,
+     41.1
+    ]
+   ],
+   [
+    [
+     41.1,
+     45.6
+    ]
+   ],
+   [
+    [
+     45.6,
+     50.1
+    ]
+   ],
+   [
+    [
+     50.1,
+     56.3
+    ]
+   ],
+   [
+    [
+     56.3,
+     60.8
+    ]
+   ],
+   [
+    [
+     60.8,
+     65.3
+    ]
+   ],
+   [
+    [
+     65.3,
+     72.2
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "[serious] Vahdettin... Osmanlının son padişahı, başkentinden bir İngiliz zırhlısıyla ayrıldı.",
+   "caption": "Vahdettin... Osmanlı'nın son padişahı, başkentinden bir İngiliz zırhlısıyla ayrıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Oturan, nişanlı ve fesli Sultan Vahdettin portresi",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 3.56,
+     "n": 4
+    },
+    {
+     "start": 3.56,
+     "end": 6.4,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_portre_sebah.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.103,
+     0,
+     0.897,
+     1
+    ],
+    "baslik": "Sultan Vahdettin (VI. Mehmed), Sébah & Joaillier",
+    "kaynak": "Sébah & Joaillier, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[short pause] Peki, bu bir kaçış mıydı, yoksa başka çaresi mi kalmamıştı? [short pause]",
+   "caption": "Peki, bu bir kaçış mıydı, yoksa başka çaresi mi kalmamıştı?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Gözlüklü, fesli, askerî ceketli Vahdettin yakın portresi",
+   "bolumler": [
+    {
+     "start": 6.4,
+     "end": 8.3,
+     "n": 4
+    },
+    {
+     "start": 8.3,
+     "end": 10.52,
+     "n": 4
+    },
+    {
+     "start": 10.52,
+     "end": 11.4,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_yakin_portre.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.152,
+     0,
+     0.848,
+     1
+    ],
+    "baslik": "Sultan Vahdettin",
+    "kaynak": "Bain News Service, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[calm] 1 Kasım 1922de Meclis saltanatı kaldırdı.",
+   "caption": "1 Kasım 1922'de Meclis saltanatı kaldırdı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Meclis binası önünde ellerini açıp dua eden kalabalık, sarıklı ve kalpaklı kişiler",
+   "bolumler": [
+    {
+     "start": 11.4,
+     "end": 14.4,
+     "n": 4
+    },
+    {
+     "start": 14.4,
+     "end": 15.9,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_tbmm_dua.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.377,
+     0,
+     0.743,
+     1
+    ],
+    "baslik": "Ankara, Büyük Millet Meclisi önünde dua",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Vahdettinin elinde sadece halifelik unvanı kaldı.",
+   "caption": "Vahdettin'in elinde sadece halifelik unvanı kaldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Vahdettin ve yanındakiler ellerini açmış dua ediyor, yanında sarıklı din adamları",
+   "bolumler": [
+    {
+     "start": 15.9,
+     "end": 18.46,
+     "n": 4
+    },
+    {
+     "start": 18.46,
+     "end": 20.3,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_dua.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.189,
+     0,
+     0.611,
+     1
+    ],
+    "baslik": "Sultan Vahdettin dua ederken",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "16 Kasımda İstanbuldaki İngiliz komutanı General Haringtona bir mektup yazdı:",
+   "caption": "16 Kasım'da İstanbul'daki İngiliz komutanı General Harington'a bir mektup yazdı:",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Üniformalı, şapkalı, oturan İngiliz General Harington",
+   "bolumler": [
+    {
+     "start": 19.92,
+     "end": 22.22,
+     "n": 4
+    },
+    {
+     "start": 22.22,
+     "end": 24.28,
+     "n": 4
+    },
+    {
+     "start": 24.28,
+     "end": 25.0,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_harington.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.106,
+     0,
+     0.894,
+     1
+    ],
+    "baslik": "General Charles Harington",
+    "kaynak": "Bassano Ltd, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "\"İstanbulda hayatımı tehlikede görüyorum. İngiltereye sığınıyor, beni hemen başka bir yere götürmenizi istiyorum.\"",
+   "caption": "\"İstanbul'da hayatımı tehlikede görüyorum. İngiltere'ye sığınıyor, beni hemen başka bir yere götürmenizi istiyorum.\"",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Fesli, takım elbiseli Vahdettin profil portresi",
+   "bolumler": [
+    {
+     "start": 25.0,
+     "end": 28.18,
+     "n": 4
+    },
+    {
+     "start": 28.18,
+     "end": 30.12,
+     "n": 4
+    },
+    {
+     "start": 30.12,
+     "end": 32.1,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_portre_bnf.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.113,
+     0,
+     0.887,
+     1
+    ],
+    "baslik": "Sultan Vahdettin, Agence Rol",
+    "kaynak": "Agence Rol, BnF Gallica, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[serious] Ertesi sabah Yıldız Sarayının arka kapısından sessizce çıktı.",
+   "caption": "Ertesi sabah Yıldız Sarayı'nın arka kapısından sessizce çıktı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yıldız'da cami kapısından çıkan padişah ve onu selamlayan askerler",
+   "bolumler": [
+    {
+     "start": 32.1,
+     "end": 34.1,
+     "n": 4
+    },
+    {
+     "start": 34.1,
+     "end": 36.6,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_yildiz_cami_cikis.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.257,
+     0,
+     0.643,
+     1
+    ],
+    "baslik": "Yıldız, Vahdettin Hamidiye Camii'nden çıkarken",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ambulans ve otomobillerle Tophaneye götürüldü, oradan bir motorla",
+   "caption": "Ambulans ve otomobillerle Tophane'ye götürüldü. Oradan bir motorla",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Tophane semti evleri, kıyı ve Boğaz, uzakta camiler",
+   "bolumler": [
+    {
+     "start": 36.6,
+     "end": 38.96,
+     "n": 4
+    },
+    {
+     "start": 38.96,
+     "end": 41.1,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_tophane_panorama.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.334,
+     0,
+     0.766,
+     1
+    ],
+    "baslik": "Tophane ve Boğaz, Guillaume Berggren, 1880'ler",
+    "kaynak": "Guillaume Berggren, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Malaya zırhlısına geçti. Gemi onu Maltaya götürdü.",
+   "caption": "Malaya zırhlısına geçti. Gemi onu Malta'ya götürdü.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Bastonlu Vahdettin, yanında fesli adamlarla Malta'da rıhtımdan çıkıyor",
+   "bolumler": [
+    {
+     "start": 41.1,
+     "end": 43.48,
+     "n": 4
+    },
+    {
+     "start": 43.48,
+     "end": 45.6,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_malta_varis.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.193,
+     0,
+     0.568,
+     1
+    ],
+    "baslik": "Vahdettin Malta'ya varıyor, Kasım 1922",
+    "kaynak": "Grand Studio Malta, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ertesi gün Meclis, Abdülmecid Efendiyi yeni halife seçti.",
+   "caption": "Ertesi gün Meclis, Abdülmecid Efendi'yi yeni halife seçti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Fesli, papyonlu, takım elbiseli Abdülmecid Efendi portresi",
+   "bolumler": [
+    {
+     "start": 45.38,
+     "end": 47.28,
+     "n": 4
+    },
+    {
+     "start": 47.28,
+     "end": 49.94,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_abdulmecid.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.122,
+     0,
+     0.878,
+     1
+    ],
+    "baslik": "Halife Abdülmecid Efendi",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[thoughtful] Vahdettin önce Mekkeye, sonra İtalyada San Remoya gitti. Bir daha İstanbula dönemedi.",
+   "caption": "Vahdettin önce Mekke'ye, sonra İtalya'da San Remo'ya gitti. Bir daha İstanbul'a dönemedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Paltolu, fesli Vahdettin bir vapurun iskelesinden iniyor",
+   "bolumler": [
+    {
+     "start": 49.56,
+     "end": 51.7,
+     "n": 4
+    },
+    {
+     "start": 51.7,
+     "end": 53.36,
+     "n": 4
+    },
+    {
+     "start": 53.36,
+     "end": 56.22,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_gemiden_inis.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.44,
+     0,
+     0.8,
+     1
+    ],
+    "baslik": "Sultan Vahdettin gemiden inerken",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "1926da San Remoda öldü ve Şama gömüldü.",
+   "caption": "1926'da San Remo'da öldü ve Şam'a gömüldü.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "İki minareli, kubbeli Şam Süleymaniye Külliyesi ve önündeki havuz",
+   "bolumler": [
+    {
+     "start": 56.3,
+     "end": 58.64,
+     "n": 4
+    },
+    {
+     "start": 58.64,
+     "end": 60.76,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_tekkiye_eski.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.275,
+     0,
+     0.725,
+     1
+    ],
+    "baslik": "Şam, Süleymaniye Külliyesi (Tekkiye)",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[calm] Sizce son padişah gitmek zorunda mıydı, yoksa kaçtı mı? [short pause]",
+   "caption": "Sizce son padişah gitmek zorunda mıydı, yoksa kaçtı mı?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Faytonda oturan askerî kıyafetli Vahdettin, yanında fesli görevliler",
+   "bolumler": [
+    {
+     "start": 60.44,
+     "end": 62.24,
+     "n": 4
+    },
+    {
+     "start": 62.24,
+     "end": 65.08,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_fayton.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.213,
+     0,
+     0.887,
+     1
+    ],
+    "baslik": "Sultan Vahdettin faytonda",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Denizde gri İngiliz zırhlısı HMS Malaya",
+   "bolumler": [
+    {
+     "start": 64.92,
+     "end": 67.86,
+     "n": 4
+    },
+    {
+     "start": 67.86,
+     "end": 70.12,
+     "n": 4
+    },
+    {
+     "start": 70.12,
+     "end": 72.2,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/118_malaya_iwm.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.375,
+     0,
+     0.725,
+     1
+    ],
+    "baslik": "HMS Malaya zırhlısı",
+    "kaynak": "Ernest Hopkins, IWM, Commons",
+    "lisans": "Kamu malı"
+   }
+  }
+ ]
+}
