@@ -2216,7 +2216,7 @@
     "tarih": "2026-11-21T07:57Z"
    }
   ],
-  "sinir_notu": "2026-11-21T07:52Z tarandı (10:52 İstanbul), tüm yorumlar; siyasi/gizli atlandı."
+  "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
  },
  "tiktok/7710024796322532616": {
   "video": "105 Ezan",
@@ -2353,5 +2353,57 @@
  "youtube/vd4SPl1SdPk": {
   "video": "091 Kimlik",
   "sinir_notu": "2026-11-23T09:33Z ilk tam tarama (12:33 İstanbul)."
+ },
+ "tiktok/7710764824929635592": {
+  "video": "111 Inonu para",
+  "kayitlar": [
+   {
+    "yorum_id": "7711170311820428084",
+    "kullanici": "ali.kkdili",
+    "yorum": "Koleksiyon olarak basılmış bir para onlar",
+    "cevap_id": "7711473541090902802",
+    "tarih": "2026-11-23T21:03Z"
+   }
+  ],
+  "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
+ },
+ "tiktok/7711005947321208071": {
+  "video": "113 Akif",
+  "kayitlar": [
+   {
+    "yorum_id": "7711412291509945089",
+    "kullanici": "hanifigkc01",
+    "yorum": "Peki Mehmet Akif Ersoy'un nasıl öldüğünü bilen var mı...",
+    "cevap_id": "7711473567695192852",
+    "tarih": "2026-11-23T21:03Z"
+   },
+   {
+    "yorum_id": "7711381638080430866",
+    "kullanici": "hkaratas1982",
+    "yorum": "somut bi baskı sıkıntısı görmüş mü ki",
+    "cevap_id": "7711473891054568199",
+    "tarih": "2026-11-23T21:03Z"
+   },
+   {
+    "yorum_id": "7711454519401677620",
+    "kullanici": "memocan37817",
+    "yorum": "pişmanlık ama dile dile gelmeyen bir pişmanlık",
+    "cevap_id": "7711474167572480776",
+    "tarih": "2026-11-23T21:03Z"
+   }
+  ],
+  "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
+ },
+ "tiktok/7711291265186286856": {
+  "video": "115 Din hanesi",
+  "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
+ },
+ "tiktok/7711130297298947346": {
+  "video": "114 Tutun",
+  "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
+ },
+ "tiktok/7710608541349973255": {
+  "video": "110 Arsiv",
+  "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
  }
 }

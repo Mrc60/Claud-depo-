@@ -369,3 +369,8 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - TEK1 YouTube'u bu sohbetin Zernio bağlantısına ekledi: youtube siradan.degil 6b04063d2c9a0e122073aab4.
 - 10 cevap gönderildi: #114 1, #113 3, #111 1, #110 1, #105 Ezan 3, #102 1. Hepsi isReply true, defterde.
 - Bakılmadı: #94 Heykel (141 yorum, çoğu siyasi), spor videoları.
+
+## 24.11.2026 00:05 Sohbet oturumu (TikTok + IG/YT yorumları)
+- TikTok 4 cevap: #111 ali.kkdili, #113 hanifigkc01, hkaratas1982, memocan37817 (isReply true, defterde).
+- #115 Din hanesi IG ve TikTok cevaplarını TEK1 kendisi yazdı (yakupalcan4, 1968_1968_, osman893750, caxapok4343).
+- Ders: Akif vefatı (27.12.1936, siroz, Mısır'dan hasta dönüş) MEB + ISAM makalesi ile doğrulandı; IV. Murad tütün içtiğine dair güvenilir kayıt yok, içki ve siroz var.
