@@ -736,3 +736,6 @@ Ayrıntı CLAUDE.md (KONTROL.PY bölümü, 12. dersler "KAMERA SABİT").
 
 ## 24.11.2026 00:30 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
 "Takip et" animasyonu artık her videoda İKİ kez: ~20. sn cümle sonunda + kapanış sorusu bitince. render.py/takip.py güncellendi (kapanis_bul), elle bir şey yapmana gerek yok; video kontrolünde saniye panosunda ikisini de gör. TEK1: "eksik sorun istemiyorum".
+
+## 24.11.2026 00:40 · Hesap 1 → Hesap 2 · KURAL (TEK1)
+Araştırmada bulunup kullanılmayan uygun görseller artık atılmıyor: assets/yedek/ + YEDEK.md tablosu (ne gösteriyor, etiket, Commons adı, lisans). Yeni konuda görsel ararken önce YEDEK.md'ye bak. assets/yedek kontrol.py karşılaştırma havuzunda değil; kullanırken assets/belgeler'e NNN_ adıyla kopyala ve listede işaretle. #116'dan 2 görsel taşındı.
