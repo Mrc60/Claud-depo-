@@ -1,0 +1,610 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 116,
+ "slug": "osmanli_borcu",
+ "title": "Osmanlı borcunu kim ödedi",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Aysal 2013, Atatürk Yolu 53",
+  "Aşcı 2016, İTOBİAD 5/6",
+  "Dikmen 2005"
+ ],
+ "acilis": "Osmanlı'nın borcunu\nkim ödedi?",
+ "dis_ses": {
+  "file": "assets/ses/116_osmanli_borcu.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     6.5
+    ]
+   ],
+   [
+    [
+     6.5,
+     12.9
+    ]
+   ],
+   [
+    [
+     12.9,
+     18.1
+    ]
+   ],
+   [
+    [
+     18.1,
+     23.0
+    ]
+   ],
+   [
+    [
+     23.0,
+     28.0
+    ]
+   ],
+   [
+    [
+     28.0,
+     33.5
+    ]
+   ],
+   [
+    [
+     33.5,
+     38.7
+    ]
+   ],
+   [
+    [
+     38.7,
+     46.6
+    ]
+   ],
+   [
+    [
+     46.6,
+     51.3
+    ]
+   ],
+   [
+    [
+     51.3,
+     57.9
+    ]
+   ],
+   [
+    [
+     57.9,
+     63.0
+    ]
+   ],
+   [
+    [
+     63.0,
+     68.1
+    ]
+   ],
+   [
+    [
+     68.1,
+     75.0
+    ]
+   ],
+   [
+    [
+     75.0,
+     82.68
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "[serious] Osmanlıdan kalan borcu Türkiye üstlendi. [short pause] Peki bu borcun kapanması kaç yıl sürdü?",
+   "caption": "Osmanlı'dan kalan borcu Türkiye üstlendi. Peki bu borcun kapanması kaç yıl sürdü?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayakta duran Osmanlı padişahı Abdülaziz, fesli, uzun ceketli",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 2.24,
+     "n": 4
+    },
+    {
+     "start": 2.24,
+     "end": 4.64,
+     "n": 4
+    },
+    {
+     "start": 4.64,
+     "end": 6.5,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_abdulaziz2.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.03,
+     0,
+     0.88,
+     1
+    ],
+    "baslik": "Sultan Abdülaziz, 1860'lar",
+    "kaynak": "W. & D. Downey, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[short pause] Tam yüz yıl. [calm] Her şey 1854 yılında, Kırım Savaşı sırasında başladı.",
+   "caption": "Tam 100 yıl. Her şey 1854 yılında, Kırım Savaşı sırasında başladı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kırım Savaşı'nda tüfekli Osmanlı askerleri, yerde oturan ve ayakta duranlar",
+   "bolumler": [
+    {
+     "start": 6.5,
+     "end": 8.66,
+     "n": 4
+    },
+    {
+     "start": 8.66,
+     "end": 11.26,
+     "n": 4
+    },
+    {
+     "start": 11.26,
+     "end": 12.9,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_kirim1.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0,
+     0.71,
+     1
+    ],
+    "baslik": "Kırım Savaşı'nda Osmanlı askerleri, 1855",
+    "kaynak": "Roger Fenton, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Savaşın masrafları büyüyünce Osmanlı, ilk kez Avrupadan borç aldı.",
+   "caption": "Savaşın masrafları büyüyünce Osmanlı, ilk kez Avrupa'dan borç aldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Osmanlı İmparatorluğu borç tahvili, üstte tuğra ve Devlet-i Aliyye-i Osmaniyye yazısı",
+   "bolumler": [
+    {
+     "start": 12.9,
+     "end": 15.76,
+     "n": 4
+    },
+    {
+     "start": 15.76,
+     "end": 18.1,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_tahvil_bagdat.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.135,
+     0,
+     0.865,
+     1
+    ],
+    "baslik": "Osmanlı devlet borcu tahvili (Bağdat Demiryolu)",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ancak ardından borç üstüne borç geldi.",
+   "caption": "Ancak ardından borç üstüne borç geldi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Üniformalı, nişanlı Sultan Abdülaziz gravür portresi",
+   "bolumler": [
+    {
+     "start": 18.1,
+     "end": 20.2,
+     "n": 4
+    },
+    {
+     "start": 20.2,
+     "end": 23.0,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_abdulaziz_gravur.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.268,
+     0.08,
+     0.732,
+     0.62
+    ],
+    "baslik": "Sultan Abdülaziz, gravür",
+    "kaynak": "Rijksmuseum, Commons",
+    "lisans": "CC0"
+   }
+  },
+  {
+   "say": "1875te devlet ödemelerini yapamadı ve iflasını resmen ilan etti.",
+   "caption": "1875'te devlet ödemelerini yapamadı ve iflasını resmen ilan etti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Oturan Sultan Abdülaziz, elleri kavuşturulmuş, göğsünde nişanlar",
+   "bolumler": [
+    {
+     "start": 23.0,
+     "end": 24.78,
+     "n": 4
+    },
+    {
+     "start": 24.78,
+     "end": 28.0,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_abdulaziz.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.135,
+     0,
+     0.862,
+     1
+    ],
+    "baslik": "Sultan Abdülaziz, Abdullah Frères",
+    "kaynak": "Abdullah Frères, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[serious] 1881de Düyun-u Umumiye, yani Genel Borçlar İdaresi kuruldu.",
+   "caption": "1881'de Düyun-u Umumiye, yani Genel Borçlar İdaresi kuruldu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Osmanlı Anadolu Demiryolu Şirketi tahvili, 1893",
+   "bolumler": [
+    {
+     "start": 28.0,
+     "end": 31.22,
+     "n": 4
+    },
+    {
+     "start": 31.22,
+     "end": 33.5,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_tahvil_anadolu.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.07,
+     0,
+     0.927,
+     1
+    ],
+    "baslik": "Anadolu Demiryolu tahvili, 1893",
+    "kaynak": "EDHAC e.V., Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Tütün, tuz ve ipek gibi gelirler artık alacaklıların kontrolündeydi.",
+   "caption": "Tütün, tuz ve ipek gibi gelirler artık alacaklıların kontrolündeydi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Selanik-İstanbul demiryolu tahvili, Obligation de 500 Francs yazısı",
+   "bolumler": [
+    {
+     "start": 33.5,
+     "end": 35.18,
+     "n": 4
+    },
+    {
+     "start": 35.18,
+     "end": 38.7,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_tahvil_selanik.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.18,
+     0,
+     0.589,
+     1
+    ],
+    "baslik": "Selanik-İstanbul demiryolu tahvili, 1893",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Osmanlı yıkıldı ama borçlar bitmedi. Lozanda bu borçlar, Osmanlıdan ayrılan ülkeler arasında paylaştırıldı.",
+   "caption": "Osmanlı yıkıldı ama borçlar bitmedi. Lozan'da bu borçlar, Osmanlı'dan ayrılan ülkeler arasında paylaştırıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Eski Osmanlı İmparatorluğunun paylaştırılmış borcu idaresinin 1933 tarihli tahvil makbuzu",
+   "bolumler": [
+    {
+     "start": 38.7,
+     "end": 41.16,
+     "n": 4
+    },
+    {
+     "start": 41.16,
+     "end": 43.4,
+     "n": 4
+    },
+    {
+     "start": 43.4,
+     "end": 46.6,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_tahvil1933.jpg",
+    "fit": "doldur",
+    "hiz": 0,
+    "kirp": [
+     0.42,
+     0,
+     0.858,
+     1
+    ],
+    "baslik": "Paylaştırılmış Osmanlı borcu makbuzu, 1933",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "En büyük payı, yaklaşık yüzde altmış beşini Türkiye üstlendi.",
+   "caption": "En büyük payı, yaklaşık yüzde 65'ini Türkiye üstlendi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "1928 Türkiye Büyük Millet Meclisi binasında döşenmiş salon",
+   "bolumler": [
+    {
+     "start": 46.6,
+     "end": 48.46,
+     "n": 4
+    },
+    {
+     "start": 48.46,
+     "end": 51.3,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_meclis1928.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.32,
+     0,
+     0.671,
+     1
+    ],
+    "baslik": "TBMM binası, 1928 (Servet-i Fünun)",
+    "kaynak": "Servet-i Fünun, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[thoughtful] 1929 Dünya Ekonomik Buhranıyla ödemeler zorlaştı ve borç yeniden görüşüldü.",
+   "caption": "1929 Dünya Ekonomik Buhranı'yla ödemeler zorlaştı ve borç yeniden görüşüldü.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "1930'larda Ankara'da Ziraat Bankası binası ve demir kapısı",
+   "bolumler": [
+    {
+     "start": 51.3,
+     "end": 54.24,
+     "n": 4
+    },
+    {
+     "start": 54.24,
+     "end": 56.44,
+     "n": 4
+    },
+    {
+     "start": 56.44,
+     "end": 57.9,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_ziraat_ankara1.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.05,
+     0,
+     0.801,
+     1
+    ],
+    "baslik": "Ankara, Bankalar Caddesi, Ziraat Bankası, 1930'lar",
+    "kaynak": "Basın Yayın Genel Müdürlüğü, Commons",
+    "lisans": "Bilinen telif kısıtlaması yok"
+   }
+  },
+  {
+   "say": "Ve 25 Mayıs 1954te son ödeme yapıldı.",
+   "caption": "Ve 25 Mayıs 1954'te son ödeme yapıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "1950'lerde İstanbul'da sahil yolunda bir otomobil, arkada cami",
+   "bolumler": [
+    {
+     "start": 57.9,
+     "end": 60.7,
+     "n": 4
+    },
+    {
+     "start": 60.7,
+     "end": 63.0,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_istanbul1950.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.12,
+     0,
+     0.494,
+     1
+    ],
+    "baslik": "İstanbul, 1950'ler",
+    "kaynak": "Harry Pot, Anefo, Commons",
+    "lisans": "CC0"
+   }
+  },
+  {
+   "say": "İlk borcun alınmasından tam yüz yıl sonra, Osmanlının borcu tamamen kapandı.",
+   "caption": "İlk borcun alınmasından tam 100 yıl sonra, Osmanlı'nın borcu tamamen kapandı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kırım Savaşı'nda çadırların önünde toplanmış askerler",
+   "bolumler": [
+    {
+     "start": 63.0,
+     "end": 64.0,
+     "n": 4
+    },
+    {
+     "start": 64.0,
+     "end": 65.94,
+     "n": 4
+    },
+    {
+     "start": 65.94,
+     "end": 68.1,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_kirim2.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.28,
+     0,
+     0.723,
+     1
+    ],
+    "baslik": "Kırım Savaşı, 1855 (ilk borcun alındığı savaş)",
+    "kaynak": "Roger Fenton, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "[calm] Peki, bir imparatorluktan kalan borcun yeni bir devlet tarafından ödendiğini daha önce biliyor muydunuz? [short pause]",
+   "caption": "Peki, bir imparatorluktan kalan borcun yeni bir devlet tarafından ödendiğini daha önce biliyor muydunuz?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kırım Savaşı'nda bir binanın önünde subaylar ve askerler",
+   "bolumler": [
+    {
+     "start": 68.1,
+     "end": 70.48,
+     "n": 4
+    },
+    {
+     "start": 70.48,
+     "end": 71.96,
+     "n": 4
+    },
+    {
+     "start": 71.96,
+     "end": 73.82,
+     "n": 4
+    },
+    {
+     "start": 73.82,
+     "end": 75.0,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_kirim4.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0,
+     0.65,
+     1
+    ],
+    "baslik": "Kırım Savaşı, 1855",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kırım Savaşı'nda bir evin önünde oturan ve ayakta duran subaylar",
+   "bolumler": [
+    {
+     "start": 75.0,
+     "end": 78.28,
+     "n": 4
+    },
+    {
+     "start": 78.28,
+     "end": 80.6,
+     "n": 4
+    },
+    {
+     "start": 80.6,
+     "end": 82.68,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/116_kirim5.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.2,
+     0,
+     0.815,
+     1
+    ],
+    "baslik": "Kırım Savaşı, 1855",
+    "kaynak": "Roger Fenton, Commons",
+    "lisans": "Kamu malı"
+   }
+  }
+ ]
+}
