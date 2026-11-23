@@ -1,7 +1,8 @@
 # #118 Son padişah Vahdettin neden bir İngiliz gemisiyle ayrıldı? — Claude raporu, Hesap 1, 24.11.2026
 
 ## ÖZET
-- Görsel: 1. tur 56 aday; 20 seçildi (Vahdettin portreleri ve Yıldız Camii çıkışı, Malta'ya varış, HMS Malaya 1922, Harington, Abdülmecid'in biat ve hal fotoğrafları, TBMM 1923). 2. tur: Şam mezarı, San Remo, Malta, Yıldız/Tophane araması + 20 indirme. Eski bölümlerde ad tekrarı yok (ORB taraması indirmeden sonra).
+- Görsel: 1. tur 56 aday; 20 seçildi (Vahdettin portreleri ve Yıldız Camii çıkışı, Malta'ya varış, HMS Malaya 1922, Harington, Abdülmecid'in biat ve hal fotoğrafları, TBMM 1923). 2. tur 63 aday; 8 daha seçildi (Şam Tekkiye eski fotoğrafı ve mezarlığı, Yıldız Sarayı ve Hamidiye Camii, Tophane panoraması, Malta limanı, San Remo afişi). İndirilen 20'nin kontrol.py gorsel taraması: eski bölümlerle tekrar YOK; 118_uniformali ile 118_yakin_portre aynı fotoğraf (sadece biri kullanılacak).
+- Gereken ~15. Eksik: Tophane rıhtımındaki ayrılış anının fotoğrafı yok (Tophane panoraması + Malaya ile anlatılacak); San Remo için sadece renkli afiş var; Mekke yok.
 - Doğrulanan iddia: 8. Kaynak: 4 akademik makale (ben okudum, PDF): Çelik 2016 (ÇTTAD), Mengeş 2024 (Atatürk Yolu), Akman 2019 (dergipark 840572); ek: 3935757 (arama özeti).
 - RİSK: "Hain mi, çaresiz mi" tartışması sert. Metin taraf tutmaz; hüküm cümlesi yok, iki tarafın dayandığı belgeli olay verilir. Facebook: tarih anlatısı, güncel siyaset yok; yine de yorumlar kavgaya dönebilir.
 
