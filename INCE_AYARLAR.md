@@ -95,6 +95,8 @@ Ton:
 
 - ⛔ VİDEOYU YORUMCUYA TEKRAR ETME (TEK1, 21.11.2026, defalarca uyarı, KESİN): Yorumcu videoyu izleyip geliyor. Cevapta videodaki bilgiyi (tarih, olay, sonuç) yorumcuya geri anlatma. Önce yorumcunun NE DEDİĞİNİ ve NE SORDUĞUNU anla, cevap SADECE ona olsun: soru sorduysa sorunun cevabı (videoda yoksa kaynakla), görüş bildirdiyse görüşüne karşılık, hatıra anlattıysa hatırasına. Videodan bilgi ancak yorumcunun sorusunun cevabıysa kullanılır. REDDEDİLEN (#105 Ezan): Adnan Ayhan Özdemir "Türkiye'de Türkçe okunması düşündürücü" -> "Bu uygulama 18 yıl sürdü; 16 Haziran 1950'de..."; Serhan Görhan "Menderes seçim için vadetti" -> "1950 seçimlerinden sonra DP çoğunluktaki Meclis 16 Haziran'da kaldırdı". Her taslakta sor: 'Bu cümle videoda geçiyor mu? Geçiyorsa yorumcu zaten biliyor, sil.'
 
+- TEK VİDEO (TEK1, 24.11.2026): Yorum listesi tek seferde SADECE TEK videodan gelsin; birden çok videoyu karışık getirme. Bir video bitince TEK1 isterse sıradakine geç.
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.

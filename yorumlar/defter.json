@@ -2405,5 +2405,45 @@
  "tiktok/7710608541349973255": {
   "video": "110 Arsiv",
   "sinir_notu": "2026-11-23T20:59Z tarandı (23:59 İstanbul); siyasi/kısa cevaplar atlandı."
+ },
+ "facebook/1400881546439231_122114593683516389": {
+  "video": "112 Sehit futbolcular",
+  "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
+  "cevaplar": [
+   {
+    "yorum_id": "122114593683516389_2664857510633195",
+    "kullanici": "İsmail Kayacı",
+    "yorum": "Allah rahmet eylesin mekanları cennet olsun",
+    "cevap_id": "122114593683516389_1536248688411964",
+    "tarih": "2026-11-23T21:10Z"
+   }
+  ],
+  "sinir_notu": "2026-11-23T21:05Z tarandı (00:05 İstanbul), tüm ana yorumlar. Atlanan: Mahmut Boydak, Huseyin Erkan (TEK1: cevap verme)."
+ },
+ "facebook/1400881546439231_122114298603516389": {
+  "video": "Kartal Kanarya Aslan",
+  "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
+  "cevaplar": [
+   {
+    "yorum_id": "122114298603516389_1629154801639914",
+    "kullanici": "Ali Ertopçu",
+    "yorum": "Tüm takımlar değiştirse Aslan değiştirmez",
+    "cevap_id": "122114298603516389_1166423242506723",
+    "tarih": "2026-11-23T21:10Z"
+   }
+  ],
+  "sinir_notu": "2026-11-23T21:05Z tarandı, tüm ana yorumlar. Atlanan: Nezin Zamanlar, Nuri Çakir, Azade Bey."
+ },
+ "facebook/1400881546439231_122114761065516389": {
+  "video": "115 Din hanesi",
+  "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
+  "cevaplar": [],
+  "sinir_notu": "2026-11-23T21:05Z tarandı, 14 ana yorum hepsi görüş (evet/isterim), TEK1 beğendi; cevap yok."
+ },
+ "facebook/1400881546439231_122114673681516389": {
+  "video": "114 Tutun",
+  "hesap_zernio": "6ae7ca62c2a9484aee7a62b3",
+  "cevaplar": [],
+  "sinir_notu": "2026-11-23T21:05Z tarandı. 4 yoruma TEK1 elle cevap verdi; Halil Ibrahim Sezer, Abdulkadir Kederli atlandı."
  }
 }
