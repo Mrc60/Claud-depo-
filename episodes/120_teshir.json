@@ -1,0 +1,555 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 120,
+ "slug": "teshir",
+ "title": "Hileli esnafın cezası: teşhir",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Kılınç 2015",
+  "Koç 2019",
+  "Şahin 2022",
+  "Erdoğan 2024",
+  "Artukoğlu 2025",
+  "Kılınç 2007"
+ ],
+ "acilis": "Hileli esnafa\nne yapılırdı?",
+ "dis_ses": {
+  "file": "assets/ses/120_teshir.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     7.3
+    ]
+   ],
+   [
+    [
+     7.3,
+     12.24
+    ]
+   ],
+   [
+    [
+     12.24,
+     17.94
+    ]
+   ],
+   [
+    [
+     17.94,
+     22.88
+    ]
+   ],
+   [
+    [
+     22.88,
+     27.56
+    ]
+   ],
+   [
+    [
+     27.56,
+     32.96
+    ]
+   ],
+   [
+    [
+     32.96,
+     38.92
+    ]
+   ],
+   [
+    [
+     38.92,
+     47.28
+    ]
+   ],
+   [
+    [
+     47.28,
+     53.36
+    ]
+   ],
+   [
+    [
+     53.36,
+     58.86
+    ]
+   ],
+   [
+    [
+     58.86,
+     64.18
+    ]
+   ],
+   [
+    [
+     64.18,
+     71.47
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Ekmeği eksik çıkaran fırıncının boynuna kocaman bir tahta geçirildi. Ekmekleri de o tahtaya asıldı.",
+   "caption": "Ekmeği eksik çıkaran fırıncının boynuna kocaman bir tahta geçirildi. Ekmekleri de o tahtaya asıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Boynuna tahta geçirilmiş, tahtaya ekmekler asılmış sarıklı fırıncı (gravür)",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 1.96,
+     "n": 4
+    },
+    {
+     "start": 1.96,
+     "end": 3.58,
+     "n": 4
+    },
+    {
+     "start": 3.58,
+     "end": 5.72,
+     "n": 4
+    },
+    {
+     "start": 5.72,
+     "end": 7.2,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_firinci_ceza_gravur.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.163,
+     0,
+     0.837,
+     0.95
+    ],
+    "baslik": "Fiyatı şişiren fırıncının cezası (gravür)",
+    "kaynak": "Commons: Punishment of a price-gouging baker.jpg",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Peki, Osmanlıda hile yapan esnafa neden böyle bir ceza veriliyordu?",
+   "caption": "Peki, Osmanlı'da hile yapan esnafa neden böyle bir ceza veriliyordu?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Dükkânının önünde oturan ve ayakta duran sarıklı esnaf, raflarda mallar",
+   "bolumler": [
+    {
+     "start": 7.3,
+     "end": 9.22,
+     "n": 4
+    },
+    {
+     "start": 9.22,
+     "end": 10.72,
+     "n": 4
+    },
+    {
+     "start": 10.72,
+     "end": 12.16,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_esnaf_dukkani_sebah.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.299,
+     0,
+     0.741,
+     1.0
+    ],
+    "baslik": "Osmanlı esnafı dükkânı önünde, Sébah & Joaillier",
+    "kaynak": "Sébah & Joaillier, LOC, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Bu cezanın adı teşhirdi. Yani suçluyu halkın önünde rezil etmek.",
+   "caption": "Bu cezanın adı teşhirdi. Yani suçluyu halkın önünde rezil etmek.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kalabalık çarşı sokağı, çarşaflı kadınlar, tablalı satıcı (gravür)",
+   "bolumler": [
+    {
+     "start": 12.24,
+     "end": 14.62,
+     "n": 4
+    },
+    {
+     "start": 14.62,
+     "end": 16.6,
+     "n": 4
+    },
+    {
+     "start": 16.6,
+     "end": 17.94,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_sokak_kalabalik_gravur.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.29,
+     0,
+     0.61,
+     0.93
+    ],
+    "baslik": "İstanbul'da bir çarşı sokağı (gravür, 1897)",
+    "kaynak": "The Innocents Abroad (1897), Internet Archive, Commons",
+    "lisans": "Telif kısıtlaması yok"
+   }
+  },
+  {
+   "say": "Amaç, herkese ibret olması ve hilenin tekrarlanmamasıydı.",
+   "caption": "Amaç, herkese ibret olması ve hilenin tekrarlanmamasıydı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Üstü asma kaplı çarşı sokağı, dükkânlar ve oturan esnaf",
+   "bolumler": [
+    {
+     "start": 17.94,
+     "end": 19.88,
+     "n": 4
+    },
+    {
+     "start": 19.88,
+     "end": 22.88,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_carsi_1880.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.307,
+     0,
+     0.693,
+     0.92
+    ],
+    "baslik": "İstanbul çarşısı, 1880'ler",
+    "kaynak": "Catsimpoolas, DPLA, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Kanunnamelerde hileli esnafın cezası tek tek yazılıydı. Yoğurda",
+   "caption": "Kanunnamelerde hileli esnafın cezası tek tek yazılıydı. Yoğurda",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Divan sedirlerinde oturan kalabalık memurlar, büyük salon (gravür)",
+   "bolumler": [
+    {
+     "start": 22.88,
+     "end": 25.4,
+     "n": 4
+    },
+    {
+     "start": 25.4,
+     "end": 27.56,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_divan_dohsson.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.328,
+     0,
+     0.672,
+     0.9
+    ],
+    "baslik": "Osmanlı'da resmî daire, d'Ohsson 1790 (gravür)",
+    "kaynak": "Mouradgea d'Ohsson, Tableau général, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "ya da sirkeye su katan teşhir edilir, ya da başına tahta külah geçirilirdi.",
+   "caption": "ya da sirkeye su katan teşhir edilir, ya da başına tahta külah geçirilirdi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sırtında yük taşıyan, elinde kaplar olan seyyar satıcı",
+   "bolumler": [
+    {
+     "start": 27.56,
+     "end": 28.54,
+     "n": 4
+    },
+    {
+     "start": 28.54,
+     "end": 30.3,
+     "n": 4
+    },
+    {
+     "start": 30.3,
+     "end": 32.96,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_su_saticisi.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.088,
+     0,
+     0.912,
+     1.0
+    ],
+    "baslik": "Seyyar satıcı, Sébah & Joaillier",
+    "kaynak": "Sébah & Joaillier, DPLA, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Terazide eksik tartanın boynuna tahta bir halka geçirilip gezdirilmesi bile kanunda vardı.",
+   "caption": "Terazide eksik tartanın boynuna tahta bir halka geçirilip gezdirilmesi bile kanunda vardı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Duvarı pabuçlarla dolu dükkânda oturan iki esnaf",
+   "bolumler": [
+    {
+     "start": 32.96,
+     "end": 34.84,
+     "n": 4
+    },
+    {
+     "start": 34.84,
+     "end": 36.38,
+     "n": 4
+    },
+    {
+     "start": 36.38,
+     "end": 38.92,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_pabuccu_carsi.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.146,
+     0,
+     0.854,
+     1.0
+    ],
+    "baslik": "Çarşıda pabuççu dükkânı",
+    "kaynak": "Catsimpoolas, DPLA, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Kayıtlarda gerçek örnekler de var. Eksik ekmek çıkaran fırıncıların ekmekleri boyunlarına asıldı, yüzlerine mürekkep sürüldü.",
+   "caption": "Kayıtlarda gerçek örnekler de var. Eksik ekmek çıkaran fırıncıların ekmekleri boyunlarına asıldı, yüzlerine mürekkep sürüldü.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kemerli uzun çarşı koridoru, yük taşıyan insanlar (gravür)",
+   "bolumler": [
+    {
+     "start": 38.92,
+     "end": 40.68,
+     "n": 4
+    },
+    {
+     "start": 40.68,
+     "end": 42.34,
+     "n": 4
+    },
+    {
+     "start": 42.34,
+     "end": 45.24,
+     "n": 4
+    },
+    {
+     "start": 45.24,
+     "end": 47.28,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_kapalicarsi_gravur1.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.123,
+     0,
+     0.877,
+     0.9
+    ],
+    "baslik": "Kapalıçarşı, pamuk çarşısı (gravür, 1878)",
+    "kaynak": "De Amicis, Costantinopoli (1878), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "İnsanları aldatanlar eşeğe bindirilip çarşıda dolaştırıldı. Yalancı şahit de kurtulamazdı.",
+   "caption": "İnsanları aldatanlar eşeğe bindirilip çarşıda dolaştırıldı. Yalancı şahit de kurtulamazdı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Cami avlusunda yere serili pazar, kalabalık (gravür)",
+   "bolumler": [
+    {
+     "start": 47.28,
+     "end": 49.48,
+     "n": 4
+    },
+    {
+     "start": 49.48,
+     "end": 52.04,
+     "n": 4
+    },
+    {
+     "start": 52.04,
+     "end": 53.36,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_pazar_bauer.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.133,
+     0,
+     0.867,
+     0.95
+    ],
+    "baslik": "Cami önünde pazar, Marius Bauer (gravür)",
+    "kaynak": "Marius Bauer, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Tanındığı çarşıda ilan edilirdi: Bu adam yalancı şahittir, ondan sakının.",
+   "caption": "Tanındığı çarşıda ilan edilirdi: \"Bu adam yalancı şahittir, ondan sakının.\"",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sedefli eşyalar arasında oturan dükkân sahibi ve müşteri (gravür)",
+   "bolumler": [
+    {
+     "start": 53.36,
+     "end": 55.26,
+     "n": 4
+    },
+    {
+     "start": 55.26,
+     "end": 57.6,
+     "n": 4
+    },
+    {
+     "start": 57.6,
+     "end": 58.86,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_kapalicarsi_gravur3.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.137,
+     0,
+     0.863,
+     0.9
+    ],
+    "baslik": "Kapalıçarşı'da bir dükkân (gravür, 1878)",
+    "kaynak": "De Amicis, Costantinopoli (1878), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Sizce bugün hile yapan esnafa böyle bir ceza verilse, hile biter miydi?",
+   "caption": "Sizce bugün hile yapan esnafa böyle bir ceza verilse, hile biter miydi?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Perdeli dükkânda kumaş seçen çarşaflı kadınlar (gravür)",
+   "bolumler": [
+    {
+     "start": 58.86,
+     "end": 60.32,
+     "n": 4
+    },
+    {
+     "start": 60.32,
+     "end": 61.8,
+     "n": 4
+    },
+    {
+     "start": 61.8,
+     "end": 64.14,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_kapalicarsi_gravur4.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.142,
+     0,
+     0.858,
+     0.92
+    ],
+    "baslik": "Kapalıçarşı'da kumaş satıcısı (gravür, 1878)",
+    "kaynak": "De Amicis, Costantinopoli (1878), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Dükkânında uzanmış nargile içen esnaf (gravür)",
+   "bolumler": [
+    {
+     "start": 64.18,
+     "end": 67.08,
+     "n": 4
+    },
+    {
+     "start": 67.08,
+     "end": 69.4,
+     "n": 4
+    },
+    {
+     "start": 69.4,
+     "end": 71.47,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/120_kapalicarsi_gravur2.jpg",
+    "fit": "doldur",
+    "hiz": 0.7,
+    "kirp": [
+     0.147,
+     0,
+     0.853,
+     0.9
+    ],
+    "baslik": "Kapalıçarşı'da kumaşçı (gravür, 1878)",
+    "kaynak": "De Amicis, Costantinopoli (1878), Commons",
+    "lisans": "Kamu malı"
+   }
+  }
+ ]
+}
