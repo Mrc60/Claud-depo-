@@ -383,3 +383,5 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - TikTok 4 cevap: #111 ali.kkdili, #113 hanifigkc01, hkaratas1982, memocan37817 (isReply true, defterde).
 - #115 Din hanesi IG ve TikTok cevaplarını TEK1 kendisi yazdı (yakupalcan4, 1968_1968_, osman893750, caxapok4343).
 - Ders: Akif vefatı (27.12.1936, siroz, Mısır'dan hasta dönüş) MEB + ISAM makalesi ile doğrulandı; IV. Murad tütün içtiğine dair güvenilir kayıt yok, içki ve siroz var.
+
+- 24.11 10:58 (sohbet): #116 Osmanlı borcu yorumları: TikTok 3, YouTube 1 cevap gönderildi; siyasi/hakaret atlandı. #118 Vahdettin henüz yorumsuz.
