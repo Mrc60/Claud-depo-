@@ -93,7 +93,7 @@
    ]
   ]
  },
- "surum": 1,
+ "surum": 2,
  "segments": [
   {
    "say": "Eyüp Sultana gidip bir Fatiha okumak… Bugün ne kadar sıradan, değil mi?",
@@ -318,9 +318,9 @@
     "fit": "doldur",
     "hiz": 1.0,
     "kirp": [
-     0.207,
+     0.136,
      0,
-     0.633,
+     0.544,
      1
     ],
     "baslik": "Ayasofya'da II. Selim türbesinin girişi, 1913",
@@ -571,9 +571,9 @@
     "fit": "doldur",
     "hiz": 1.0,
     "kirp": [
-     0.35,
+     0.29,
      0,
-     0.75,
+     0.69,
      1
     ],
     "baslik": "II. Mahmud ve Abdülaziz'in sandukaları, 1895",

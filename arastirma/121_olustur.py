@@ -34,13 +34,13 @@ K={
 'ayasofya_turbe_ic':("Ayasofya türbelerinin içi","W. H. Goodyear, Brooklyn Museum, Commons","Kamu malı","Türbe içinde yan yana sandukalar, sarık başlıklı mezarlar, ahşap korkuluk",(.45,.5)),
 'turbe_sandukalar_1903':("Bir türbede şehzade sandukaları, 1903","Brooklyn Museum, Flickr, Commons","Telif kısıtlaması yok","Sıra sıra örtülü sandukalar, üstlerinde beyaz sarıklar",(.5,.5)),
 'mahmud_turbe_ic_1870':("II. Mahmud türbesinde sanduka, 1870-1920","Digital Commonwealth, Commons","Kamu malı","Gümüş parmaklıklı, işlemeli örtülü sanduka, yanında rahle ve şamdan",(.5,.5)),
-'selim2_turbe_giris_1913':("Ayasofya'da II. Selim türbesinin girişi, 1913","Hermann Barth, 1913, Commons","Kamu malı","Çinili türbe kapısının önünde duran bir adam, merdivenler",(.42,.5)),
+'selim2_turbe_giris_1913':("Ayasofya'da II. Selim türbesinin girişi, 1913","Hermann Barth, 1913, Commons","Kamu malı","Çinili türbe kapısının önünde duran bir adam, merdivenler",(.34,.5)),
 'selim_turbe_ic':("Bir türbede sanduka","Brooklyn Museum, Commons","Telif kısıtlaması yok","Büyük örtülü sanduka, şamdan ve sarık, loş türbe içi",(.4,.5)),
 'kanuni_hurrem_turbe_clement':("Süleymaniye'de Kanuni ve Hürrem türbeleri, 1895","C. Clement, Constantinople (1895), Commons","Kamu malı","Sekizgen kubbeli türbe ve arkasında ikinci türbe, avlu duvarı",(.28,.5)),
 'kanuni_turbe_gravur_1817':("Kanuni türbesi, Süleymaniye (gravür, Pertusier 1817)","Charles Pertusier, 1817, Commons","Kamu malı","Ağaçlar arasında kubbeli türbe ve revaklı avlu, önde insanlar (gravür)",(.5,.5)),
 'mahmud_turbe_dis':("II. Mahmud türbesi, Divanyolu","LOC LCCN92513539, Commons","Kamu malı","Kubbeli türbe ve yanındaki kemerli avlu duvarı, toprak cadde",(.38,.5)),
 'murad2_turbe_bursa':("Bursa'da II. Murad türbesinin içi, Abdullah Frères","Abdullah Frères, DPLA, Commons","Kamu malı","Türbe içinde sanduka, büyük şamdanlar, ahşap zemin",(.5,.5)),
-'mahmud_turbe_ic_clement':("II. Mahmud ve Abdülaziz'in sandukaları, 1895","C. Clement, Constantinople (1895), Commons","Kamu malı","Parmaklıklı iki sanduka, önünde rahle başında dua eden bir adam",(.55,.5)),
+'mahmud_turbe_ic_clement':("II. Mahmud ve Abdülaziz'in sandukaları, 1895","C. Clement, Constantinople (1895), Commons","Kamu malı","Parmaklıklı iki sanduka, önünde rahle başında dua eden bir adam",(.49,.5)),
 }
 S=[(0,'kanuni_hurrem_turbe_gravur_1853'),(13,'valide_turbe_lccn'),(29,'ayasofya_turbe_ic'),(38,'turbe_sandukalar_1903'),(47,'mahmud_turbe_ic_1870'),(61,'selim2_turbe_giris_1913'),(75,'selim_turbe_ic'),(83,'kanuni_hurrem_turbe_clement'),(95,'kanuni_turbe_gravur_1817'),(113,'mahmud_turbe_dis'),(127,'murad2_turbe_bursa'),(141,'mahmud_turbe_ic_clement')]
 S=[(idx[o],f) for o,f in S]
@@ -68,6 +68,6 @@ for j,(i0,f) in enumerate(S):
     kes.append([[round(bas,2),round(bit,2)]])
 ep={"series":"Sıradan Değil","voice":"ana","takip_cagrisi":False,"episode":121,"slug":"turbe","title":"Türbeler 25 yıl neden kilitli kaldı?","youtube_title":"","youtube_description":"",
 "sources":["Dinç 2017","Dokuyan 2022","Gündoğdu 2024","Hakyemez 2014","Apaydın 2017","Tanyu 1961"],"acilis":"Türbeler neden\n25 yıl kilitli kaldı?",
-"dis_ses":{"file":"assets/ses/121_turbe.mp3","kesimler":kes},"surum":1,"segments":segs}
+"dis_ses":{"file":"assets/ses/121_turbe.mp3","kesimler":kes},"surum":2,"segments":segs}
 json.dump(ep,open('episodes/121_turbe.json','w'),ensure_ascii=False,indent=1)
 for s,k in zip(segs,kes): print(k[0], round(k[0][1]-k[0][0],2), s['image']['local'][20:], s['image']['kirp'], '|', s['caption'][:45])
