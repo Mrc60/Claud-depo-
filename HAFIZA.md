@@ -126,3 +126,5 @@
 - DERS (Hesap 2, 15.11.2026, #90): Açılış görseli 090_gelin.jpg, #56'daki 056_gelin1914.jpg ile aynı fotoğraftı; ad/LCCN grep'i yakalamadı (başka adla kaydedilmiş), göz kontrolü atlandı. Önlem: kontrol.py'ye görsel benzerlik taraması eklendi (CLAUDE.md 7 'GÖRSEL BENZERLİK TARAMASI'); aday ve kapak görselleri `kontrol.py gorsel` ile taranmadan sunulmaz.
 - TAKİP ANİMASYONU 2 KEZ (TEK1, 24.11.2026): ~20. sn cümle sonunda + kapanış sorusu bitince; render.py otomatik (takip.py kapanis_bul).
 - YEDEK GÖRSEL (TEK1, 24.11.2026): kullanılmayan uygun görseller assets/yedek/ + YEDEK.md; yeni konuda önce oraya bak.
+
+- HAFIZADAN CEVAP YOK (TEK1, 24.11.2026): Bilgi kartı dışındaki her bilgi önce araştırılır, sonra yazılır.
