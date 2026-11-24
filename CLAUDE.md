@@ -195,6 +195,7 @@ Cevabını bana kopyalanabilir formatta ver.
 - Kullanıcıların birbiriyle tartışmasına (etnik köken, siyaset vb.) hiç girme.
 - ⚠️ GEÇİŞTİRME YOK (12.11.2026, hata dersi): Yorumcunun iddiasına doğrudan cevap ver; "videoda şunu anlattık, o ayrıca konuşulan konu" gibi kaçamak cümle yasak. Bilmiyorsan taslaktan önce kontrol et, kaynağın desteklediğini yaz. Ayrıntı ve örnek: INCE_AYARLAR E.
 - ⛔ VİDEOYU YORUMCUYA TEKRAR ETME (TEK1, 21.11.2026, kesin): Yorumcu videoyu izledi; cevapta videodaki bilgiyi geri anlatma, sadece yorumcunun dediğine/sorusuna cevap ver. Ayrıntı INCE_AYARLAR E.
+- ⛔ CEVAP DOĞRULANMADAN TASLAK YOK (TEK1, 24.11.2026, kesin): Taslaktaki her bilgi göstermeden önce 2 bağımsız kaynakla doğrulanır, kaynak adları taslağın altına yazılır; doğrulanamayan bilgi girmez, gerekirse yorum atlanır. Ayrıntı INCE_AYARLAR E.
 - ⛔ HAFIZADAN CEVAP YOK (TEK1, 24.11.2026, kesin): Yorum cevabında ve TEK1e verilen bilgide bilgi kartı (episodes/*.json) dışındaki HER bilgi taslaktan ÖNCE kaynakla araştırılır; kendi hafızamdan ya da "kaynak bulamadık" diye araştırmadan cevap yazılmaz. (Hata: MERHAMET 01 altın yorumuna araştırmadan "kaynak bulamadık" taslağı verdim; araştırınca Versay 259 + Lozan 58 belgeli çıktı.)
 - Cevaplarda sürekli "kaynaklarda" deme. Kaynağı sadece soran olursa söyle. Az empati, abartma yok.
 - ÇİFT CEVAP ÖNLEME (TEK1 ekran görüntüsü vermez, sistem kendisi çözmeli):
