@@ -37,3 +37,32 @@ assets/yedek, kontrol.py karşılaştırma havuzunda DEĞİL (kullanılmamış g
 | abdulmecid_hal_1924.jpg | Halife Abdülmecid ve yanındakiler, hal (görevden alınma) günü (fotoğraf, 1924) | Abdülmecid, halifelik, 1924 | Caliph Abdülmecid dethronment.jpg | Public domain | #118 |
 | istanbul_panorama_berggren_1880.jpg | İstanbul panoraması, Haliç ve Boğaz (Berggren, 1880'ler; sepya, siyah-beyaza çevrilebilir) | İstanbul, panorama, 1880, şehir | Guillaume Berggren - Panorama of Constantinople (1880s) (fold 9).jpg | Public domain, Guillaume Berggren | #118 |
 | malta_sa_maison_kartpostal.jpg | Malta, Sa Maison koyu (kartpostal, 1933; sepya, pullu) | Malta, liman, sürgün | S.L.Cassar, Sa Maison Creek (postcard 1933).jpg | Public domain, S.L. Cassar | #118 |
+| kongre_rauf_mk.jpg | Sivas Kongresi 1919: Rauf, Mustafa Kemal ve heyet (kalabalık, ayakta) | Sivas Kongresi, Milli Mücadele, 1919, Atatürk | Rauf Orbay, Kemal Atatürk and Rüstem Bilinski at the Sivas Congress (1919).png | Public domain | #119 manda (iptal) |
+| kongre_heyet.jpg | Sivas Kongresi heyeti toplu fotoğraf, Eylül 1919 | Sivas Kongresi, 1919, heyet | Sivas Congress September 1919.jpg | Public domain | #119 manda (iptal) |
+| kongre_delegeler.jpg | Sivas Kongresi delegeleri bahçede (dikey) | Sivas Kongresi, 1919 | Delegates of the Sivas Congress-1.jpg | Public domain | #119 manda (iptal) |
+| sivas_1919_servetifunun.jpg | Sivas, kongre binası ve cadde (Servet-i Fünun 1919) | Sivas, 1919, şehir | Serveti funun-1919-10-23-1 Sivas kongre.jpg | Public domain | #119 manda (iptal) |
+| bekirsami_mk.jpg | Bekir Sami, Mustafa Kemal ve subaylar 1919 | Milli Mücadele, 1919, Atatürk | Bekir Sami Mustafa Kemal.jpg | Public domain | #119 manda (iptal) |
+| heyet_sivas_1919.jpg | Mustafa Kemal ve Heyet-i Temsiliye, Sivas 1919 (LOC) | Heyet-i Temsiliye, Sivas, 1919, Atatürk | Mustapha Kemal Pasha & members of his Nationalist Committee, Sivas, 1919.jpg | Public domain | #119 manda (iptal) |
+| harbord.jpg | General James Harbord portresi (üniformalı) | ABD, Harbord, 1919, manda | James Harbord.jpg | Public domain | #119 manda (iptal) |
+| harbord_lcc.jpg | General Harbord sivil, gemide (LOC) | ABD, Harbord | Gen. J.G. Harbord LCCN2014718405.jpg | Public domain | #119 manda (iptal) |
+| erzurum_yetim_harbord.jpg | Erzurum yetimhanesi çocukları Harbord heyetini bekliyor, 1919 | Erzurum, yetim, 1919, çocuk | Boys from the Turkish orphanage at Ezerum waiting for the coming of General Harbord's party at Ezerum, Turkey (1919-11-25).jpg | Public domain | #119 manda (iptal) |
+| harbord_yolda_1919.jpg | Harbord heyeti yolda, 23 Eylül 1919 (LOC) | Harbord, 1919, Anadolu yolu | On the road - Sept. 23, 1919 - near Kurds' camp after being fired upon-Col. beeuwkes attending the sick LCCN2002722529.jpg | Public domain | #119 manda (iptal) |
+| halide_gebze.jpg | Mustafa Kemal ve Halide Edib Gebze istasyonunda | Halide Edib, Atatürk, tren, Milli Mücadele | Mustafa Kemal, Halide Edib at Gebze station.jpg | Public domain | #119 manda (iptal) |
+| halide_portre.jpg | Halide Edib portresi (sepya, genç) | Halide Edib, kadın, yazar | Halide Edib Adıvar.jpg | Public domain | #119 manda (iptal) |
+| wilson_1919.jpg | Woodrow Wilson portresi 1919 | ABD, Wilson, 1919 | Thomas Woodrow Wilson, Harris & Ewing bw photo portrait, 1919.jpg | Public domain | #119 manda (iptal) |
+| wilson_donus.jpg | Wilson Versay dönüşü, şapka sallıyor 1919 | ABD, Wilson, Versay | Woodrow Wilson returning from the Versailles Peace Conference (1919).jpg | Public domain | #119 manda (iptal) |
+| wilson_suresnes.jpg | Wilson Suresnes 1919, kalabalık | ABD, Wilson, 1919 | President Woodrow Wilson at Suresnes in 1919.jpg | Public domain | #119 manda (iptal) |
+| wilson_kongre_14madde.jpg | Wilson ABD Kongresi önünde konuşuyor (küçük, 630 px) | ABD, Kongre, Wilson, 14 madde | 14Points.jpg | Public domain | #119 manda (iptal) |
+| mk_erzurum_1919.jpg | Mustafa Kemal Erzurum, 5 Temmuz 1919, masada | Erzurum Kongresi, 1919, Atatürk | Mustafa Kemal Paşa, Erzurum, 5 Temmuz 1919.png | Public domain | #119 manda (iptal) |
+| rauf_mk_cebesoy.jpg | Rauf, Mustafa Kemal, Cebesoy masa başında (küçük) | Milli Mücadele, Atatürk | Orbay, Atatürk and Cebesoy.jpg | Public domain | #119 manda (iptal) |
+| mk_sivas_cemilcahit.jpg | Mustafa Kemal ve Cemil Cahit, Sivas Eylül 1919 | Sivas, 1919, Atatürk | Mustafa Kemal Paşa Cemil Cahit Bey ile, Sivas, Eylül 1919.png | Public domain | #119 manda (iptal) |
+| bekirsami_mk_rauf.jpg | Bekir Sami, Mustafa Kemal, Rauf, Ekim 1919 | Milli Mücadele, Atatürk, 1919 | Bekir Sami Kunduh, Mustafa Kemal Atatürk, Rauf Orbay (Ekim 1919).png | Public domain | #119 manda (iptal) |
+| rauf_1922.jpg | Rauf Orbay portresi 1922 (denizci şapkalı) | Rauf Orbay, 1922 | Rauf Orbay 1922.jpg | Public domain | #119 manda (iptal) |
+| karabekir.jpg | Kazım Karabekir ileri yaş portresi (sivil) | Karabekir | Kazım Karabekir.jpg | Public domain | #119 manda (iptal) |
+| bristol.jpg | Amiral Mark Bristol portresi | ABD, İstanbul, Bristol | Mark Lambert Bristol.jpg | Public domain | #119 manda (iptal) |
+| bristol_istanbul.jpg | Amiral Bristol İstanbul terasında | ABD, İstanbul, 1920 | Admiral Bristol the American High Commissioner in Constantinople tells Mr. Carpenter that the Turks should be given a chance and he believes they will make progress LCCN2002709172.jpg | Public domain | #119 manda (iptal) |
+| buyuk_dortler.jpg | Paris Barış Konferansı Büyük Dörtler 1919 | Paris, 1919, İtilaf, barış | Big four.jpg | Public domain | #119 manda (iptal) |
+| istanbul_isgal_galata.jpg | İngiliz askerleri Galata, işgal (küçük) | İstanbul, işgal, İngiliz | Occupation of Istanbul - British troops in Galata.png | Public domain | #119 manda (iptal) |
+| istanbul_isgal_2.jpg | İstanbul işgali, asker geçişi (küçük) | İstanbul, işgal | Occupation of Constantinople 2.jpg | Public domain | #119 manda (iptal) |
+| crane.jpg | Charles R. Crane portresi | ABD, King-Crane, 1919 | Portrait of Charles Richard Crane.jpg | Public domain | #119 manda (iptal) |
+| king_crane_1919.jpg | King-Crane Komisyonu masa başında 1919 | ABD, King-Crane, 1919 | 1919 Photo of the King Crane Commission.jpg | Public domain | #119 manda (iptal) |
