@@ -2585,8 +2585,50 @@
     "yorum": "Hani düyunu Umumiye reddedilmişti...",
     "cevap_id": "122114905287516389_1671430241380531",
     "tarih": "2026-11-24T13:29Z"
+   },
+   {
+    "yorum_id": "122114905287516389_1606536524804379",
+    "kullanici": "Fuat Özdemir",
+    "yorum": "Özal en son ödekik dedi hayırdır",
+    "cevap_id": "122114905287516389_1688521979643805",
+    "tarih": "2026-11-24T13:42Z"
+   },
+   {
+    "yorum_id": "122114905287516389_1385924116785945",
+    "kullanici": "Nuri Yetim",
+    "yorum": "Borç yokken borcu kabul edenlere sorulmalıdırlar.",
+    "cevap_id": "122114905287516389_1148426048075635",
+    "tarih": "2026-11-24T13:42Z"
+   },
+   {
+    "yorum_id": "122114905287516389_2262203331317243",
+    "kullanici": "Ahmet Sağ",
+    "yorum": "Yalan",
+    "cevap_id": "122114905287516389_1150163600720060",
+    "tarih": "2026-11-24T13:42Z"
+   },
+   {
+    "yorum_id": "122114905287516389_1703675498033361",
+    "kullanici": "Capan Örs",
+    "yorum": "Sen bu yalana kendin inandınmı",
+    "cevap_id": "122114905287516389_2625943584510726",
+    "tarih": "2026-11-24T13:42Z"
+   },
+   {
+    "yorum_id": "122114905287516389_2135225693763294",
+    "kullanici": "Ferit Yavuz",
+    "yorum": "ne borç ödemesi ... Musul kerkük 500 bin sterlini İngilizlere satıldı ...",
+    "cevap_id": "122114905287516389_1654266576396457",
+    "tarih": "2026-11-24T13:42Z"
+   },
+   {
+    "yorum_id": "122114905287516389_1151498337502383",
+    "kullanici": "Abdulkadir Kederli",
+    "yorum": "... dolar 1 lira değerinde iken Türkiye'nin parası $4 değerindeydi",
+    "cevap_id": "122114905287516389_1613549220546141",
+    "tarih": "2026-11-24T13:42Z"
    }
   ],
-  "sinir_notu": "2026-11-24T13:30Z: tüm ana yorumlar (24) tarandı, hasMore yok. Cevaplanan dışındakiler hakaret/yalan suçlaması/siyasi ya da doğrulanamadı (Kederli kur), atlandı."
+  "sinir_notu": "2026-11-24T13:42Z: tüm 24 ana yorum tarandı; 7 cevap verildi, kalanlar hakaret/belirsiz/fotoğraf/doğrulanamadı, atlandı."
  }
 }
