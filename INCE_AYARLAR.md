@@ -99,6 +99,8 @@ Ton:
 
 - ⛔ CEVAP DOĞRULANMADAN TASLAK YOK (TEK1, 24.11.2026, kesin): Her taslak cevaptaki her bilgi (tarih, sayı, kur, olay) TASLAK GÖSTERİLMEDEN ÖNCE en az 2 bağımsız kaynakla doğrulanır; listede her taslağın altına kısa kaynak adlarını yaz. Doğrulanamayan bilgi cevaba girmez; cevap bilgisiz kurulamıyorsa yorum 'doğrulanamadı' diye atlanır. 'Kaynaktan doğrulamadım, istersen bakarım' diye taslak getirmek YASAK. (Hata: #116'da 4,4 dolar kurunu hesapla yazıp doğrulamadan getirdim.)
 
+- KENDİ ÇALIŞMAMIZI ANLATMA (TEK1, 24.11.2026): Cevapta kanalın nasıl çalıştığını, nasıl kontrol ettiğini, nasıl hazırladığını anlatma ('akademik makalelerden kontrol ederek hazırlıyoruz', 'kaynakları açıklamaya yazdık' gibi). 'Yalan' diyen yorumcuya doğrudan konunun belgeli bilgisini ver.
+
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
 - Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.
