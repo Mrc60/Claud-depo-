@@ -385,3 +385,5 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - Ders: Akif vefatı (27.12.1936, siroz, Mısır'dan hasta dönüş) MEB + ISAM makalesi ile doğrulandı; IV. Murad tütün içtiğine dair güvenilir kayıt yok, içki ve siroz var.
 
 - 24.11 10:58 (sohbet): #116 Osmanlı borcu yorumları: TikTok 3, YouTube 1 cevap gönderildi; siyasi/hakaret atlandı. #118 Vahdettin henüz yorumsuz.
+
+- 24.11 20:03 (sohbet): #118 sabit yorumu TEK1 kararıyla değişti → "Son padişahın bir daha İstanbul'a dönemediğini biliyor muydunuz? 👇" (kapanış sorusundan farklı, bilinçli istisna: 'kaçtı mı' kavga çıkarıyordu). set118 güncellendi.
