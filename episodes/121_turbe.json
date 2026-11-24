@@ -1,0 +1,585 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 121,
+ "slug": "turbe",
+ "title": "Türbeler 25 yıl neden kilitli kaldı?",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Dinç 2017",
+  "Dokuyan 2022",
+  "Gündoğdu 2024",
+  "Hakyemez 2014",
+  "Apaydın 2017",
+  "Tanyu 1961"
+ ],
+ "acilis": "Türbeler neden\n25 yıl kilitli kaldı?",
+ "dis_ses": {
+  "file": "assets/ses/121_turbe.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     5.24
+    ]
+   ],
+   [
+    [
+     5.24,
+     13.3
+    ]
+   ],
+   [
+    [
+     13.3,
+     18.28
+    ]
+   ],
+   [
+    [
+     18.28,
+     23.66
+    ]
+   ],
+   [
+    [
+     23.66,
+     28.66
+    ]
+   ],
+   [
+    [
+     28.66,
+     36.82
+    ]
+   ],
+   [
+    [
+     36.82,
+     41.46
+    ]
+   ],
+   [
+    [
+     41.46,
+     48.32
+    ]
+   ],
+   [
+    [
+     48.32,
+     56.98
+    ]
+   ],
+   [
+    [
+     56.98,
+     64.66
+    ]
+   ],
+   [
+    [
+     64.66,
+     71.86
+    ]
+   ],
+   [
+    [
+     71.86,
+     83.64
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Eyüp Sultana gidip bir Fatiha okumak… Bugün ne kadar sıradan, değil mi?",
+   "caption": "Eyüp Sultan'a gidip bir Fatiha okumak… Bugün ne kadar sıradan, değil mi?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ağaçlar arasında kubbeli türbe, arkada Süleymaniye Camii, önde gezen insanlar (gravür)",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 1.52,
+     "n": 4
+    },
+    {
+     "start": 1.52,
+     "end": 3.72,
+     "n": 4
+    },
+    {
+     "start": 3.72,
+     "end": 5.24,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_kanuni_hurrem_turbe_gravur_1853.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.36,
+     0,
+     0.76,
+     1
+    ],
+    "baslik": "Süleymaniye'de Kanuni ve Hürrem türbeleri (gravür, Flandin 1853)",
+    "kaynak": "Eugène Flandin, 1853, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Oysa bir dönem bu kapılar 25 yıl boyunca kapalı kaldı. Üstelik açmaya kalkana hapis cezası vardı.",
+   "caption": "Oysa bir dönem bu kapılar 25 yıl boyunca kapalı kaldı. Üstelik açmaya kalkana hapis cezası vardı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kubbeli türbe ve demir parmaklıklı pencereli duvarlar, boş meydan",
+   "bolumler": [
+    {
+     "start": 5.24,
+     "end": 6.58,
+     "n": 4
+    },
+    {
+     "start": 6.58,
+     "end": 8.42,
+     "n": 4
+    },
+    {
+     "start": 8.42,
+     "end": 10.5,
+     "n": 4
+    },
+    {
+     "start": 10.5,
+     "end": 12.8,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_valide_turbe_lccn.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.041,
+     0,
+     0.459,
+     1
+    ],
+    "baslik": "İstanbul'da bir türbe, 19. yüzyıl",
+    "kaynak": "LOC LCCN92513540, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "1925te Meclis bir kanun çıkardı. Tekkeler ve türbeler kapatıldı.",
+   "caption": "1925'te Meclis bir kanun çıkardı. Tekkeler ve türbeler kapatıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Türbe içinde yan yana sandukalar, sarık başlıklı mezarlar, ahşap korkuluk",
+   "bolumler": [
+    {
+     "start": 13.3,
+     "end": 15.08,
+     "n": 4
+    },
+    {
+     "start": 15.08,
+     "end": 18.28,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_ayasofya_turbe_ic.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.202,
+     0,
+     0.698,
+     1
+    ],
+    "baslik": "Ayasofya türbelerinin içi",
+    "kaynak": "W. H. Goodyear, Brooklyn Museum, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Devlet, buraları batıl inançların kaynağı olarak görüyordu. Kanun açıktı:",
+   "caption": "Devlet, buraları batıl inançların kaynağı olarak görüyordu. Kanun açıktı:",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sıra sıra örtülü sandukalar, üstlerinde beyaz sarıklar",
+   "bolumler": [
+    {
+     "start": 18.28,
+     "end": 20.52,
+     "n": 4
+    },
+    {
+     "start": 20.52,
+     "end": 23.66,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_turbe_sandukalar_1903.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.253,
+     0,
+     0.747,
+     1
+    ],
+    "baslik": "Bir türbede şehzade sandukaları, 1903",
+    "kaynak": "Brooklyn Museum, Flickr, Commons",
+    "lisans": "Telif kısıtlaması yok"
+   }
+  },
+  {
+   "say": "Kapalı bir türbeyi açana en az üç ay hapis ve elli lira para cezası.",
+   "caption": "Kapalı bir türbeyi açana en az üç ay hapis ve elli lira para cezası.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Gümüş parmaklıklı, işlemeli örtülü sanduka, yanında rahle ve şamdan",
+   "bolumler": [
+    {
+     "start": 23.66,
+     "end": 25.06,
+     "n": 4
+    },
+    {
+     "start": 25.06,
+     "end": 26.08,
+     "n": 4
+    },
+    {
+     "start": 26.08,
+     "end": 27.54,
+     "n": 4
+    },
+    {
+     "start": 27.54,
+     "end": 28.66,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_mahmud_turbe_ic_1870.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.306,
+     0,
+     0.694,
+     1
+    ],
+    "baslik": "II. Mahmud türbesinde sanduka, 1870-1920",
+    "kaynak": "Digital Commonwealth, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ama halk vazgeçmedi. Kapılar kilitliydi; insanlar dışarıda durup dua etti. Adaklarını adamaya devam etti.",
+   "caption": "Ama halk vazgeçmedi. Kapılar kilitliydi; insanlar dışarıda durup dua etti. Adaklarını adamaya devam etti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Çinili türbe kapısının önünde duran bir adam, merdivenler",
+   "bolumler": [
+    {
+     "start": 28.66,
+     "end": 31.04,
+     "n": 4
+    },
+    {
+     "start": 31.04,
+     "end": 33.54,
+     "n": 4
+    },
+    {
+     "start": 33.54,
+     "end": 35.64,
+     "n": 4
+    },
+    {
+     "start": 35.64,
+     "end": 36.82,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_selim2_turbe_giris_1913.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.207,
+     0,
+     0.633,
+     1
+    ],
+    "baslik": "Ayasofya'da II. Selim türbesinin girişi, 1913",
+    "kaynak": "Hermann Barth, 1913, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Bakımsız kalan türbelerin birçoğu yıllar içinde harap oldu.",
+   "caption": "Bakımsız kalan türbelerin birçoğu yıllar içinde harap oldu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Büyük örtülü sanduka, şamdan ve sarık, loş türbe içi",
+   "bolumler": [
+    {
+     "start": 36.82,
+     "end": 38.96,
+     "n": 4
+    },
+    {
+     "start": 38.96,
+     "end": 41.04,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_selim_turbe_ic.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.155,
+     0,
+     0.645,
+     1
+    ],
+    "baslik": "Bir türbede sanduka",
+    "kaynak": "Brooklyn Museum, Commons",
+    "lisans": "Telif kısıtlaması yok"
+   }
+  },
+  {
+   "say": "1949da Başbakan Şemsettin Günaltay, İstanbulda Mimar Sinanın türbesini ziyaret etmek istedi.",
+   "caption": "1949'da Başbakan Şemsettin Günaltay, İstanbul'da Mimar Sinan'ın türbesini ziyaret etmek istedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sekizgen kubbeli türbe ve arkasında ikinci türbe, avlu duvarı",
+   "bolumler": [
+    {
+     "start": 41.46,
+     "end": 44.84,
+     "n": 4
+    },
+    {
+     "start": 44.84,
+     "end": 46.68,
+     "n": 4
+    },
+    {
+     "start": 46.68,
+     "end": 48.32,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_kanuni_hurrem_turbe_clement.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.071,
+     0,
+     0.489,
+     1
+    ],
+    "baslik": "Süleymaniye'de Kanuni ve Hürrem türbeleri, 1895",
+    "kaynak": "C. Clement, Constantinople (1895), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Vali, türbenin kapalı olduğunu söyleyince şu cevabı verdi: Sinanın türbesi kapalı olur mu? Bu söz, değişimin habercisiydi.",
+   "caption": "Vali, türbenin kapalı olduğunu söyleyince şu cevabı verdi: “Sinan'ın türbesi kapalı olur mu?” Bu söz, değişimin habercisiydi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ağaçlar arasında kubbeli türbe ve revaklı avlu, önde insanlar (gravür)",
+   "bolumler": [
+    {
+     "start": 48.32,
+     "end": 49.96,
+     "n": 4
+    },
+    {
+     "start": 49.96,
+     "end": 52.3,
+     "n": 4
+    },
+    {
+     "start": 52.3,
+     "end": 53.88,
+     "n": 4
+    },
+    {
+     "start": 53.88,
+     "end": 56.98,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_kanuni_turbe_gravur_1817.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.349,
+     0,
+     0.651,
+     1
+    ],
+    "baslik": "Kanuni türbesi, Süleymaniye (gravür, Pertusier 1817)",
+    "kaynak": "Charles Pertusier, 1817, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ertesi bahar karar çıktı. Fatih, Kanuni, Yavuz ve Hacı Bayram türbeleri sırayla açılmaya başladı.",
+   "caption": "Ertesi bahar karar çıktı. Fatih, Kanuni, Yavuz ve Hacı Bayram türbeleri sırayla açılmaya başladı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kubbeli türbe ve yanındaki kemerli avlu duvarı, toprak cadde",
+   "bolumler": [
+    {
+     "start": 56.98,
+     "end": 59.24,
+     "n": 4
+    },
+    {
+     "start": 59.24,
+     "end": 61.34,
+     "n": 4
+    },
+    {
+     "start": 61.34,
+     "end": 63.26,
+     "n": 4
+    },
+    {
+     "start": 63.26,
+     "end": 64.66,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_mahmud_turbe_dis.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.162,
+     0,
+     0.598,
+     1
+    ],
+    "baslik": "II. Mahmud türbesi, Divanyolu",
+    "kaynak": "LOC LCCN92513539, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Eyüp Sultan da eylülde açıldı. İnsanlar, 25 yıl sonra yeniden o kapılardan içeri girdi.",
+   "caption": "Eyüp Sultan da eylülde açıldı. İnsanlar, 25 yıl sonra yeniden o kapılardan içeri girdi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Türbe içinde sanduka, büyük şamdanlar, ahşap zemin",
+   "bolumler": [
+    {
+     "start": 64.66,
+     "end": 66.2,
+     "n": 4
+    },
+    {
+     "start": 66.2,
+     "end": 68.54,
+     "n": 4
+    },
+    {
+     "start": 68.54,
+     "end": 70.52,
+     "n": 4
+    },
+    {
+     "start": 70.52,
+     "end": 71.86,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_murad2_turbe_bursa.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.31,
+     0,
+     0.69,
+     1
+    ],
+    "baslik": "Bursa'da II. Murad türbesinin içi, Abdullah Frères",
+    "kaynak": "Abdullah Frères, DPLA, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Sizce türbeleri 25 yıl kapalı tutan bu yasak doğru muydu? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce türbeleri 25 yıl kapalı tutan bu yasak doğru muydu? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Parmaklıklı iki sanduka, önünde rahle başında dua eden bir adam",
+   "bolumler": [
+    {
+     "start": 71.86,
+     "end": 73.82,
+     "n": 4
+    },
+    {
+     "start": 73.82,
+     "end": 75.14,
+     "n": 4
+    },
+    {
+     "start": 75.14,
+     "end": 77.68,
+     "n": 4
+    },
+    {
+     "start": 77.68,
+     "end": 80.78,
+     "n": 4
+    },
+    {
+     "start": 80.78,
+     "end": 82.48,
+     "n": 4
+    },
+    {
+     "start": 82.48,
+     "end": 83.64,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/121_mahmud_turbe_ic_clement.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.35,
+     0,
+     0.75,
+     1
+    ],
+    "baslik": "II. Mahmud ve Abdülaziz'in sandukaları, 1895",
+    "kaynak": "C. Clement, Constantinople (1895), Commons",
+    "lisans": "Kamu malı"
+   }
+  }
+ ]
+}
