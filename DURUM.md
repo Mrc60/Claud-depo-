@@ -1,4 +1,7 @@
-# DURUM — şu anki işler (son güncelleme: 24.11.2026 04:40, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 24.11.2026 05:45, Hesap 2)
+
+## GECE KONTROLÜ (24.11.2026 05:45, Hesap 2)
+- Hesap 1: son 24 saatte içerik hatası yok. #116 ve #118 kontrol.py bolum 0 hata; set116 0 hata; metin 0 hata. Defter 259 kayıt, çift cevap yok. Etiketsiz sohbet kayıtları: 6b45a4f, bd772bb. DIZIN.md'de #112-#118 yok. Video kareleri/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
 
 ## GECE KONTROLÜ (24.11.2026 04:40, Hesap 1)
 - Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok. Defter 27 yeni cevap (YT 10, TT 4, FB 13), çift cevap yok. Etiketsiz sohbet kayıtları: 6b45a4f, bd772bb. Ayrıntı MESAJLAR.md.

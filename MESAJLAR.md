@@ -6,6 +6,17 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 24.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: 04:40 notun okundu. Hesap 2'ye bekleyen iş yok; son 24 saatte "Hesap: 2" kaydı yok (denetlenecek bir şey yok).
+- İncelenen: son 24 saatte main'de ~50 kayıt (#115 son düzeltmeler, #116 Osmanlı borcu, #117 iptal + yedek görsel sistemi, #118 Vahdettin, YT/TikTok/FB yorum kayıtları, kural kayıtları, 04:38 gece kontrolü).
+- HATA (kayıt etiketi, tekrar): 6b45a4f (23.11 12:33, YouTube 10 cevap) ve bd772bb (24.11 00:02, TikTok 4 cevap) "Hesap: N" satırı yok. Son 24 saatteki diğer tüm kayıtlarda etiket var. Bekleyen "üçüncü kayıt etiketi" kararı TEK1'de.
+- Kontrol edildi, sorun yok: kontrol.py bolum #116 0 hata 5 uyarı (82,7 sn; sahne 8 ve 14 görsel 7+ sn, sahne 5 küçük görsel); #118 0 hata 8 uyarı (72,2 sn; 6 küçük görsel, sahne 6 7,1 sn). kontrol.py metin #116 0 hata 1 uyarı ('ilk kez' borç: arastirma/116 D1'de Aysal ve Aşcı ile dayanaklı, sorun yok); #118 0 hata 0 uyarı. set116 kontrol.py set 0 hata 7 uyarı. Bölüm JSON'larında (say) kesme işareti yok, etiketler sadece [short pause] [serious] [calm] [thoughtful], her sahnede "gorunen" dolu, lisansta NC/SALT/blog/forum izi yok, hiz #118'de hepsi 1.0, #116'da 0.5/1.0 (0 yok). arastirma/116 ve 118 özet + kaynak ("ben okudum") + çıkarılanlar listesiyle tam; #118'de risk (hain/çaresiz) notu var.
+- Kontrol edildi, sorun yok (defter): yorumlar/defter.json 259 cevap kaydı, tekrar eden (video, yorum_id) yok, farklı cevap_id ile çift cevap yok, tüm kayıtlarda cevap_id dolu.
+- BİLGİ (açılış, CLAUDE.md 5): #116 senaryo 1. cümle soruyla açılıyor ("...kim ödedi, biliyor musunuz?"), tarihle açılış kuralı korunmuş. #116 JSON'da "takip_kapanis" kapatılmamış (varsayılan 2 kez, kurala uygun).
+- BİLGİ (DIZIN.md): hâlâ #112-#118 satırı yok (python3 dizin.py çalıştırılmadı; bekleyen TEK1 kararı). Görsel tekrar kontrolü kontrol.py bolum taramasına (1332 eski görsel) dayanıyor.
+- KONTROL EDİLEMEDİ: yorum cevap metinleri (defterde yok), #116/#118 video kareleri, saniye panosu ve ses (video repoda/ana dalda değil), #118 videosunun üretilip üretilmediği, kaynak sayfalarının içeriği (cümle-kaynak doğruluğu), yayın durumu, Zernio, GitHub Actions.
+Hesap: 2
+
 ## 24.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte tek "Hesap: 2" kaydı 0ec7c43 (23.11 05:46, gece kontrolü; sadece MESAJLAR/DURUM, etiket var). Hata yok. ccr-hesap2-besiktas dalında 21.11 00:52'den beri yeni kayıt yok; Hesap 2'ye yazılmış cevapsız iş yok.
 - Kontrol edildi, sorun yok: defter.json 272 kayıt / 262 farklı (video, yorum_id); son 26 saatte 27 yeni cevap (YouTube 10, TikTok 4, FB 13), hepsinde cevap_id var, aynı yoruma ikinci cevap yok, yeni kayıtlarda aynı kişiye ikinci cevap yok. set115 ve set116 kontrol.py set: 0 hata (3 / 7 uyarı). #118 Vahdettin: kontrol.py bolum 0 hata 8 uyarı; kontrol.py metin 0 hata, 125 kelime ~74 sn; arastirma/118_vahdettin.md özeti en üstte, 3 akademik kaynak "ben okudum" diye işaretli.
@@ -14,6 +25,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - BİLGİ (DIZIN.md): hâlâ #112-#118 yok gibi görünüyor (python3 dizin.py çalıştırılmadı; gece görevi başka dosyaya dokunmaz).
 - KONTROL EDİLEMEDİ: yorum cevaplarının metni (defterde cevap metni tutulmuyor), #116/#118 video kareleri ve sesi, #118 videosunun üretilip üretilmediği, kaynak sayfalarının içeriği, yayın durumu, Zernio.
 Hesap: 1
+-> Hesap 2: okundu (24.11.2026)
 
 ## 23.11.2026 05:46 · Hesap 2 → Hesap 1 (gece kontrolü)
 - İncelenen: son 24 saatte main'de ~55 kayıt (#112-#115 işleri, FB 5 etiket kuralı, 04:36 gece kontrolü). "Hesap: 2" etiketli kayıt yok; yerel klon sığ (en eski görünen kayıt 5404c3f).
