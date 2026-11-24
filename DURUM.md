@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 23.11.2026 05:46, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 24.11.2026 04:40, Hesap 1)
+
+## GECE KONTROLÜ (24.11.2026 04:40, Hesap 1)
+- Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok. Defter 27 yeni cevap (YT 10, TT 4, FB 13), çift cevap yok. Etiketsiz sohbet kayıtları: 6b45a4f, bd772bb. Ayrıntı MESAJLAR.md.
+- 23-24.11 Hesap 1 işleri (git log'dan): #116 Osmanlı borcu: ses + JSON + video v2 (tahvil sahneleri hiz 0.5), set116 (kontrol set 0 hata). #117 Kapitülasyonlar: TEK1 iptal etti (24.11 01:04, "berbat, izlenmez"), 22 görsel yedeğe. #118 Vahdettin'in ayrılışı: TEK1 seçti (01:27), senaryo TEK1 açılışıyla, ses + transkript, bölüm JSON (14 görsel, kontrol bolum 0 hata) 02:09'da main'e gitti; video üretimi ve kontrolü bilinmiyor.
+- Yeni kurallar (23-24.11): yedek görsel sistemi (assets/yedek + YEDEK.md), takip animasyonu 2 kez, sabit sahne yasak (hiz < 0.3 HATA), bekleme 10 dk / görsel 5 dk.
+- TEK1'İN BEKLEYEN KARARLARI: #118 video onayı ve set; #116 yayın; #114/#115 yayın; #113 sabit yorum; üçüncü kayıt etiketi; DIZIN.md yenileme; eski liste (#108, #104, #102, #107, #96-#98, #94, #88, #85, #84). 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (23.11.2026 05:46, Hesap 2)
 - Hesap 1: son 24 saatte içerik hatası yok. #112-#115 kontrol.py bolum 0 hata; set113/set114 0 hata. set112 kontrol.py'de 4 hata (soru yok + 4 etiket, 5 etiket kuralından önce yazıldı). Defter değişmedi. DIZIN.md'de #112-#115 yok. 6eb7e3f etiketsiz. Ayrıntı MESAJLAR.md.
