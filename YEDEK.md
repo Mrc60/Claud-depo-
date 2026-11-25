@@ -66,3 +66,9 @@ assets/yedek, kontrol.py karşılaştırma havuzunda DEĞİL (kullanılmamış g
 | istanbul_isgal_2.jpg | İstanbul işgali, asker geçişi (küçük) | İstanbul, işgal | Occupation of Constantinople 2.jpg | Public domain | #119 manda (iptal) |
 | crane.jpg | Charles R. Crane portresi | ABD, King-Crane, 1919 | Portrait of Charles Richard Crane.jpg | Public domain | #119 manda (iptal) |
 | king_crane_1919.jpg | King-Crane Komisyonu masa başında 1919 | ABD, King-Crane, 1919 | 1919 Photo of the King Crane Commission.jpg | Public domain | #119 manda (iptal) |
+| lorck_1576_serseri.jpg | 16. yy İstanbul'unda bir figür (gravür) | Osmanlı 16. yy, halk, gravür | Melchior Lorck, Wolgerissene und geschnittene Figuren | Kamu malı, Commons | #122 hırsızlık |
+| lorck_1576_koylu.jpg | Köylü (gravür, 1581) | köylü, Osmanlı 16. yy, gravür | Melchior Lorck, The Turkish Publication 1581 | Kamu malı, Commons | #122 hırsızlık |
+| lorck_1576_muhafiz.jpg | Saray muhafızı (gravür) | saray, asker, muhafız, gravür | Melchior Lorck | Kamu malı, Commons | #122 hırsızlık |
+| lorck_1576_yuk_ati.jpg | Yük atı (gravür) | at, yük, ticaret, gravür | Melchior Lorck, British Museum 1871,0812.4638 | Kamu malı, Commons | #122 hırsızlık |
+| lorck_1576_asker.jpg | Osmanlı askeri (gravür) | asker, yeniçeri, gravür | Melchior Lorck | Kamu malı, Commons | #122 hırsızlık |
+| lorck_1576_sipahi_atli.jpg | Atlı sipahi (gravür) | sipahi, at, ordu, gravür | Melchior Lorck | Kamu malı, Commons | #122 hırsızlık |
