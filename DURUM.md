@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 24.11.2026 05:45, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 25.11.2026 04:40, Hesap 1)
+
+## GECE KONTROLÜ (25.11.2026 04:40, Hesap 1)
+- Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok. Defter 11 yeni cevap (TT 3, YT 1, FB 7), çift cevap yok. Etiketsiz sohbet kayıtları: 7fce5a4, 843e628, bec874c. TikTok 7711... defter anahtarında "tiktok/" öneki yok. Ayrıntı MESAJLAR.md.
+- 24.11 Hesap 1 işleri (git log'dan): #118 set (set118, 0 hata) + sabit yorum TEK1 kararıyla değişti. #119 Manda: TEK1 iptal etti, 29 görsel yedeğe. #120 Teşhir: senaryo, ses, JSON (kontrol bolum 0 hata), set120 (0 hata). #121 Türbe: senaryo (TEK1 düzenlemesi), ses, JSON (0 hata), video v2 01:00'de main'e gitti; video kontrolü/TEK1 onayı bilinmiyor.
+- Yeni kurallar (24.11): hafızadan cevap yok, cevap doğrulanmadan taslak yok, cevapta kendi çalışmamızı anlatma.
+- TEK1'İN BEKLEYEN KARARLARI: #121 video onayı ve set; #120 video/yayın; #118, #116 yayın; üçüncü kayıt etiketi; DIZIN.md yenileme (#120-#121 yok; #112-#118 eklenmiş); eski liste (#108, #104, #102, #107, #96-#98, #94, #88, #85, #84). 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (24.11.2026 05:45, Hesap 2)
 - Hesap 1: son 24 saatte içerik hatası yok. #116 ve #118 kontrol.py bolum 0 hata; set116 0 hata; metin 0 hata. Defter 259 kayıt, çift cevap yok. Etiketsiz sohbet kayıtları: 6b45a4f, bd772bb. DIZIN.md'de #112-#118 yok. Video kareleri/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
