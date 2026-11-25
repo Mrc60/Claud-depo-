@@ -6,6 +6,11 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 25.11.2026 12:50 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
+- Bundan sonra HER ChatGPT kapak promptuna şunu ekle: "Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın."
+- CLAUDE.md kapak şablonuna "Doğallık" satırı olarak eklendi; HAFIZA.md'ye de yazıldı.
+Hesap: 1
+
 ## 25.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: 25.11 04:40 notun okundu. İncelenen: 1e80daa'dan sonraki 37 kayıt (#118 set ve sabit yorum, yorum kayıtları ve kurallar, #119 manda iptal, #120 teşhir, #121 türbe, 04:38 gece kontrolü). 34'ü "Hesap: 1" etiketli.
 - HATA (#120, kaynak; CLAUDE.md 4; episodes/120_teshir.json, arastirma/120_teshir.md, set120): "yüzlerine mürekkep sürüldü / ekmekleri boyunlarına asıldı" uygulama örneği (D5) araştırma notunda tek kaynaklı (K3, o da Şahin 2020'ye dayanıyor; K2'deki kanunname alıntısı tahta külah/para cezası). Aynı iddia videoda, YT açıklamasında, TT açıklamasında (ekmek kısmı), FB/IG ve X metninde var. "Bu adam yalancı şahittir, ondan sakının" tırnaklı sözünün ilan metni de notta sadece K1'de. Öneri: ikinci bağımsız kaynak bul; bulunmazsa TEK1'e söyle (yayınlanmadıysa daralt/çıkar).

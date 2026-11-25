@@ -138,8 +138,11 @@ Başlık: Kapağın ORTASINDA, çok büyük ve kalın, eski afiş harfleri gibi,
 
 Altta küçük ve kalın (alt %10'luk boşluğun üstünde): "Sıradan Değil[ · Seri: ...]"
 
+Doğallık: Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın.
+
 Cevabını bana kopyalanabilir formatta ver.
 ```
+- KAPAK YAPAY ZEKÂ GİBİ GÖRÜNMESİN (TEK1 kararı, 25.11.2026, kesin): Her ChatGPT kapak promptuna şunu yaz: "Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın." (Şablonda 'Doğallık' satırı.)
 - KAPAK TASARIMI (TEK1, 16.11.2026): Talimatta ChatGPT'nin KENDİ görsel üretim aracıyla sinematik, eski gazete/afiş havasında tasarlaması istenir; "sadece yerleştir" yazılırsa kodla düz kolaj yapıyor (#93'te basit çıktı). Gerçek fotoğraflardaki kişiler değiştirilmez, sahte kişi/logo üretilmez.
 - KAPAK RENGİ (05.11.2026, hata dersi): Kapak yazı renklerini her videoda konuya ve fotoğrafa göre ayrı seç; hep beyaz + altın yazma. Arka arkaya iki kapakta aynı renk çifti olmasın. Talimatta rengin adını ve kod değerini (#RRGGBB) yaz, neden seçtiğini bir cümleyle söyle (ör. kaymak: krem + bordo, alfabe: taş grisi + gök mavisi).
 
