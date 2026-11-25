@@ -22,12 +22,6 @@
    [
     [
      0.0,
-     9.18
-    ]
-   ],
-   [
-    [
-     9.18,
      15.44
     ]
    ],
@@ -40,12 +34,12 @@
    [
     [
      25.52,
-     37.48
+     32.62
     ]
    ],
    [
     [
-     37.48,
+     32.62,
      46.28
     ]
    ],
@@ -81,14 +75,14 @@
    ]
   ]
  },
- "surum": 1,
+ "surum": 2,
  "segments": [
   {
-   "say": "Osmanlıda hırsızlık yapan herkesin eli kesilir miydi? Peki, aynı suçu işleyen zenginle fakir aynı cezayı mı alırdı?",
-   "caption": "Osmanlı'da hırsızlık yapan herkesin eli kesilir miydi? Peki, aynı suçu işleyen zenginle fakir aynı cezayı mı alırdı?",
+   "say": "Osmanlıda hırsızlık yapan herkesin eli kesilir miydi? Peki, aynı suçu işleyen zenginle fakir aynı cezayı mı alırdı? Fatih Sultan Mehmed döneminde hazırlanan kanunname, hırsızlık suçuna farklı cezalar öngörüyordu.",
+   "caption": "Osmanlı'da hırsızlık yapan herkesin eli kesilir miydi? Peki, aynı suçu işleyen zenginle fakir aynı cezayı mı alırdı? Fatih Sultan Mehmed döneminde hazırlanan kanunname, hırsızlık suçuna farklı cezalar öngörüyordu.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Kalkan ve mızrak taşıyan, arkası dönük bir adam; arkada evler (gravür)",
+   "gorunen": "Üstü asma kaplı çarşı sokağı, dükkânlar ve oturan esnaf",
    "bolumler": [
     {
      "start": 0.0,
@@ -107,61 +101,41 @@
     },
     {
      "start": 6.62,
-     "end": 9.14,
-     "n": 5
-    }
-   ],
-   "image": {
-    "local": "assets/belgeler/122_lorck_serseri.jpg",
-    "fit": "doldur",
-    "hiz": 0.5,
-    "kirp": [
-     0,
-     0.017,
-     1,
-     0.983
-    ],
-    "baslik": "16. yüzyıl İstanbul'u (Melchior Lorck gravürü, 1576)",
-    "kaynak": "Melchior Lorck, Wolgerissene und geschnittene Figuren, Commons",
-    "lisans": "Kamu malı"
-   }
-  },
-  {
-   "say": "Fatih Sultan Mehmed döneminde hazırlanan kanunname, hırsızlık suçuna farklı cezalar öngörüyordu.",
-   "caption": "Fatih Sultan Mehmed döneminde hazırlanan kanunname, hırsızlık suçuna farklı cezalar öngörüyordu.",
-   "key": [],
-   "scene": "photo",
-   "gorunen": "Kürk kaftanlı, sarıklı bir Osmanlı yargıcı ayakta (gravür)",
-   "bolumler": [
-    {
-     "start": 9.18,
-     "end": 10.78,
+     "end": 8.14,
      "n": 4
     },
     {
-     "start": 10.78,
-     "end": 13.4,
+     "start": 8.14,
+     "end": 10.3,
      "n": 4
     },
     {
-     "start": 13.4,
+     "start": 10.3,
+     "end": 13.0,
+     "n": 4
+    },
+    {
+     "start": 13.0,
      "end": 15.44,
-     "n": 3
+     "n": 4
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_kadiasker_gravur.jpg",
+    "local": "assets/belgeler/120_carsi_1880.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
-     0.113,
+     0.307,
      0,
-     0.887,
-     1
+     0.693,
+     0.92
     ],
-    "baslik": "Kadıasker, Osmanlı yargıcı (gravür, 19. yüzyıl başı)",
-    "kaynak": "Travels in Turkey, Asia Minor, Syria..., Commons",
-    "lisans": "Kamu malı"
+    "baslik": "İstanbul çarşısı, 1880'ler",
+    "kaynak": "Catsimpoolas, DPLA, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"
+    }
    }
   },
   {
@@ -169,7 +143,7 @@
    "caption": "Örneğin, sığır yani inek veya öküz çalanın eli kesilmiyor, para cezası veriliyordu. Üstelik bu ceza, kişinin ekonomik durumuna göre değişiyordu.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Elinde orak tutan uzun cübbeli bir köylü (gravür)",
+   "gorunen": "Tarlada çalışan köylüler, arkada tepeler",
    "bolumler": [
     {
      "start": 15.44,
@@ -198,26 +172,29 @@
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_lorck_koylu.jpg",
+    "local": "assets/belgeler/102_amasya_koylu.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
-     0,
-     0.053,
-     1,
-     0.947
+     0.319,
+     0.03,
+     0.681,
+     0.84
     ],
-    "baslik": "Köylü (Melchior Lorck gravürü, 1581)",
-    "kaynak": "Melchior Lorck, The Turkish Publication 1581, Commons",
-    "lisans": "Kamu malı"
+    "baslik": "Amasya'da köylüler, 1904-1907",
+    "kaynak": "Guillaume de Jerphanion, Archives Jésuites, Commons",
+    "lisans": "CC BY-SA 4.0",
+    "onay": {
+     "tekrar": "TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"
+    }
    }
   },
   {
-   "say": "Zengin 100 akçe, orta halli 50 akçe, fakirse 30 ya da 40 akçe ödüyordu. Yani aynı suçu işleyen zengin, fakirden daha fazla ceza alıyordu.",
-   "caption": "Zengin 100 akçe, orta halli 50 akçe, fakirse 30 ya da 40 akçe ödüyordu. Yani aynı suçu işleyen zengin, fakirden daha fazla ceza alıyordu.",
+   "say": "Zengin 100 akçe, orta halli 50 akçe, fakirse 30 ya da 40 akçe ödüyordu.",
+   "caption": "Zengin 100 akçe, orta halli 50 akçe, fakirse 30 ya da 40 akçe ödüyordu.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Sorguçlu başlıklı, yay taşıyan süslü giysili bir muhafız (gravür)",
+   "gorunen": "Sırtında büyük sandık taşıyan, eğilmiş bir hamal",
    "bolumler": [
     {
      "start": 25.52,
@@ -236,76 +213,84 @@
     },
     {
      "start": 31.16,
-     "end": 33.34,
-     "n": 4
-    },
-    {
-     "start": 33.34,
-     "end": 35.48,
-     "n": 4
-    },
-    {
-     "start": 35.48,
-     "end": 37.48,
-     "n": 4
+     "end": 32.62,
+     "n": 2
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_lorck_muhafiz.jpg",
+    "local": "assets/belgeler/122_hamal_berggren_1875.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
+     0.116,
      0,
-     0.018,
-     1,
-     0.982
+     0.784,
+     1
     ],
-    "baslik": "Saray muhafızı (Melchior Lorck gravürü, 1576)",
-    "kaynak": "Melchior Lorck, Commons",
+    "baslik": "Sırtında sandık taşıyan hamal, İstanbul, 1875 civarı",
+    "kaynak": "G. Berggren, Digital Commonwealth, Commons",
     "lisans": "Kamu malı"
    }
   },
   {
-   "say": "Ama el kesme cezası da vardı. At çalanın eli kesilebiliyor, el kesilmediği takdirde 200 akçe ceza uygulanabiliyordu.",
-   "caption": "Ama el kesme cezası da vardı. At çalanın eli kesilebiliyor, el kesilmediği takdirde 200 akçe ceza uygulanabiliyordu.",
+   "say": "Yani aynı suçu işleyen zengin, fakirden daha fazla ceza alıyordu. Ama el kesme cezası da vardı. At çalanın eli kesilebiliyor, el kesilmediği takdirde 200 akçe ceza uygulanabiliyordu.",
+   "caption": "Yani aynı suçu işleyen zengin, fakirden daha fazla ceza alıyordu. Ama el kesme cezası da vardı. At çalanın eli kesilebiliyor, el kesilmediği takdirde 200 akçe ceza uygulanabiliyordu.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Sırtında iki büyük yük çantası olan at, arkada türbe (gravür)",
+   "gorunen": "Köprüde sırtında küfe taşıyan hamallar ve yürüyen insanlar",
    "bolumler": [
     {
-     "start": 37.48,
-     "end": 38.92,
+     "start": 32.62,
+     "end": 34.14,
      "n": 4
     },
     {
-     "start": 38.92,
-     "end": 40.58,
+     "start": 34.14,
+     "end": 36.02,
      "n": 4
     },
     {
-     "start": 40.58,
-     "end": 42.74,
+     "start": 36.02,
+     "end": 38.14,
      "n": 4
     },
     {
-     "start": 42.74,
+     "start": 38.14,
+     "end": 39.9,
+     "n": 4
+    },
+    {
+     "start": 39.9,
+     "end": 41.84,
+     "n": 4
+    },
+    {
+     "start": 41.84,
+     "end": 43.88,
+     "n": 4
+    },
+    {
+     "start": 43.88,
      "end": 46.24,
-     "n": 5
+     "n": 3
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_lorck_yuk_ati.jpg",
+    "local": "assets/belgeler/110_galata_hamal.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
-     0.424,
+     0.285,
      0,
-     0.816,
+     0.715,
      1
     ],
-    "baslik": "Yük atı (Melchior Lorck gravürü, 1576)",
-    "kaynak": "Melchior Lorck, British Museum 1871,0812.4638, Commons",
-    "lisans": "Kamu malı"
+    "baslik": "Galata Köprüsü'nde hamallar, 1923",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"
+    }
    }
   },
   {
@@ -313,7 +298,7 @@
    "caption": "Eve veya dükkâna girerek hırsızlık yapanlara ve bunu defalarca tekrarlayanlara ise idam cezası verilebiliyordu.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Kılıç ve tüfek taşıyan, tüylü başlıklı bir asker (gravür)",
+   "gorunen": "Dükkânının önünde oturan ve ayakta duran sarıklı esnaf, raflarda mallar",
    "bolumler": [
     {
      "start": 46.28,
@@ -337,18 +322,21 @@
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_lorck_asker.jpg",
+    "local": "assets/belgeler/120_esnaf_dukkani_sebah.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
-     0.076,
+     0.299,
      0,
-     0.924,
+     0.741,
      1
     ],
-    "baslik": "Osmanlı askeri (Melchior Lorck gravürü, 1576)",
-    "kaynak": "Melchior Lorck, Commons",
-    "lisans": "Kamu malı"
+    "baslik": "Osmanlı esnafı dükkânı önünde, 19. yüzyıl sonu",
+    "kaynak": "Sébah & Joaillier, LOC, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"
+    }
    }
   },
   {
@@ -356,7 +344,7 @@
    "caption": "Ancak mahkeme kayıtlarına baktığımızda dikkat çekici bir durum ortaya çıkıyor. 1600 ve 1700'lü yıllardan incelenen kayıtlarda el kesme kararına yalnızca 5 kez rastlanmış.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Büyük kavuklu, düşünceli duran bir yargıç (gravür)",
+   "gorunen": "İki katlı bir karakol binası ve önünde budanmış ağaçlar",
    "bolumler": [
     {
      "start": 53.44,
@@ -390,18 +378,21 @@
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_kazasker_gravur_metropolitan.jpg",
+    "local": "assets/belgeler/113_karakol.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
-     0.164,
-     0,
-     0.836,
-     1
+     0.286,
+     0.17,
+     0.614,
+     0.83
     ],
-    "baslik": "Kazasker, ordunun yüksek yargıcı (gravür, 18. yüzyıl)",
-    "kaynak": "Le Cadi-leskier, Metropolitan Museum DP887282, Commons",
-    "lisans": "CC0"
+    "baslik": "Selamsız Karakolu, İstanbul, 1880-1893",
+    "kaynak": "Abdullah Frères, II. Abdülhamid albümleri, LOC",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"
+    }
    }
   },
   {
@@ -490,7 +481,7 @@
    "caption": "Peki sizce Osmanlı'daki bu cezalar bugün uygulansaydı nasıl olurdu? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Mızraklı ve yaylı, at üstünde bir sipahi (gravür)",
+   "gorunen": "Çarşıda dükkân önünde duran esnaf ve köpekler",
    "bolumler": [
     {
      "start": 81.44,
@@ -519,18 +510,21 @@
     }
    ],
    "image": {
-    "local": "assets/belgeler/122_lorck_sipahi_atli.jpg",
+    "local": "assets/belgeler/066_dukkan2.jpg",
     "fit": "doldur",
-    "hiz": 0.5,
+    "hiz": 1.0,
     "kirp": [
-     0.066,
+     0.0,
      0,
-     0.934,
+     1.0,
      1
     ],
-    "baslik": "Atlı sipahi (Melchior Lorck gravürü, 1576)",
-    "kaynak": "Melchior Lorck, Commons",
-    "lisans": "Kamu malı"
+    "baslik": "İstanbul'da bir çarşı dükkânı, 20. yüzyıl başı",
+    "kaynak": "Underwood & Underwood, Library of Congress",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"
+    }
    }
   }
  ]

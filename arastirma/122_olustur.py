@@ -10,24 +10,26 @@ EK=[x[2] for x in w]
 EK=[{'fakirse':'fakir','çoğuysa':'çoğu'}.get(e,e) for e in EK]
 # "fakirse" -> "fakir ise" tek kelimede: ekranda "fakirse" kalsın (ses böyle)
 EK=[x[2] for x in w]
+OT={"tekrar":"TEK1 26.11 (eski bölüm fotoğrafları 1,3,4,5,6,7,8 kullanılsın dedi)"}
 K={
-'lorck_serseri':("16. yüzyıl İstanbul'u (Melchior Lorck gravürü, 1576)","Melchior Lorck, Wolgerissene und geschnittene Figuren, Commons","Kamu malı","Kalkan ve mızrak taşıyan, arkası dönük bir adam; arkada evler (gravür)",(.5,.5)),
-'kadiasker_gravur':("Kadıasker, Osmanlı yargıcı (gravür, 19. yüzyıl başı)","Travels in Turkey, Asia Minor, Syria..., Commons","Kamu malı","Kürk kaftanlı, sarıklı bir Osmanlı yargıcı ayakta (gravür)",(.5,.5)),
-'lorck_koylu':("Köylü (Melchior Lorck gravürü, 1581)","Melchior Lorck, The Turkish Publication 1581, Commons","Kamu malı","Elinde orak tutan uzun cübbeli bir köylü (gravür)",(.5,.5)),
-'beyazit_meydani':("İstanbul'da hayvan pazarı, Beyazıt (kartpostal, 1900'ler)","Marché des moutons à Seraskierat, Flickr/SALT dışı arşiv, Commons","Bilinen telif kısıtlaması yok","Meydanda koyun sürüleri ve kalabalık, arkada Seraskerlik kapısı ve kule",(.45,.5)),
-'lorck_muhafiz':("Saray muhafızı (Melchior Lorck gravürü, 1576)","Melchior Lorck, Commons","Kamu malı","Sorguçlu başlıklı, yay taşıyan süslü giysili bir muhafız (gravür)",(.5,.5)),
-'lorck_yuk_ati':("Yük atı (Melchior Lorck gravürü, 1576)","Melchior Lorck, British Museum 1871,0812.4638, Commons","Kamu malı","Sırtında iki büyük yük çantası olan at, arkada türbe (gravür)",(.62,.5)),
-'lorck_asker':("Osmanlı askeri (Melchior Lorck gravürü, 1576)","Melchior Lorck, Commons","Kamu malı","Kılıç ve tüfek taşıyan, tüylü başlıklı bir asker (gravür)",(.5,.5)),
-'kazasker_gravur_metropolitan':("Kazasker, ordunun yüksek yargıcı (gravür, 18. yüzyıl)","Le Cadi-leskier, Metropolitan Museum DP887282, Commons","CC0","Büyük kavuklu, düşünceli duran bir yargıç (gravür)",(.5,.5)),
-'zincirli_kurekciler_gemide':("Türk mahkûmlar gemide, 1878 (gravür)","The Graphic, Wellcome V0041227, Commons","Kamu malı","Gemi güvertesinde oturan mahkûmlar ve başlarında bekçi (gravür)",(.45,.5)),
-'tersane_pardoe_gravur':("Pera'dan Tersane (W. H. Bartlett gravürü, 1838)","Julia Pardoe, The Beauties of the Bosphorus, Commons","Kamu malı","Haliç kıyısında tersane, gemiler ve servi ağaçları (gravür)",(.55,.5)),
-'lorck_sipahi_atli':("Atlı sipahi (Melchior Lorck gravürü, 1576)","Melchior Lorck, Commons","Kamu malı","Mızraklı ve yaylı, at üstünde bir sipahi (gravür)",(.5,.5)),
+'carsi_1880':('assets/belgeler/120_carsi_1880.jpg',"İstanbul çarşısı, 1880'ler","Catsimpoolas, DPLA, Commons","Kamu malı","Üstü asma kaplı çarşı sokağı, dükkânlar ve oturan esnaf",(.5,.46),OT),
+'amasya_koylu':('assets/belgeler/102_amasya_koylu.jpg',"Amasya'da köylüler, 1904-1907","Guillaume de Jerphanion, Archives Jésuites, Commons","CC BY-SA 4.0","Tarlada çalışan köylüler, arkada tepeler",(.5,.45),OT),
+'hamal_berggren':('assets/belgeler/122_hamal_berggren_1875.jpg',"Sırtında sandık taşıyan hamal, İstanbul, 1875 civarı","G. Berggren, Digital Commonwealth, Commons","Kamu malı","Sırtında büyük sandık taşıyan, eğilmiş bir hamal",(.45,.5),None),
+'galata_hamal':('assets/belgeler/110_galata_hamal.jpg',"Galata Köprüsü'nde hamallar, 1923","Library of Congress, Commons","Kamu malı","Köprüde sırtında küfe taşıyan hamallar ve yürüyen insanlar",(.5,.5),OT),
+'esnaf_dukkani':('assets/belgeler/120_esnaf_dukkani_sebah.jpg',"Osmanlı esnafı dükkânı önünde, 19. yüzyıl sonu","Sébah & Joaillier, LOC, Commons","Kamu malı","Dükkânının önünde oturan ve ayakta duran sarıklı esnaf, raflarda mallar",(.52,.5),OT),
+'karakol':('assets/belgeler/113_karakol.jpg',"Selamsız Karakolu, İstanbul, 1880-1893","Abdullah Frères, II. Abdülhamid albümleri, LOC","Kamu malı","İki katlı bir karakol binası ve önünde budanmış ağaçlar",(.45,.5),OT),
+'mahkum':('assets/belgeler/122_zincirli_kurekciler_gemide.jpg',"Türk mahkûmlar gemide, 1878 (gravür)","The Graphic, Wellcome V0041227, Commons","Kamu malı","Gemi güvertesinde oturan mahkûmlar ve başlarında bekçi (gravür)",(.45,.5),None),
+'tersane':('assets/belgeler/122_tersane_pardoe_gravur.jpg',"Pera'dan Tersane (W. H. Bartlett gravürü, 1838)","Julia Pardoe, The Beauties of the Bosphorus, Commons","Kamu malı","Haliç kıyısında tersane, gemiler ve servi ağaçları (gravür)",(.55,.5),None),
+'dukkan2':('assets/belgeler/066_dukkan2.jpg',"İstanbul'da bir çarşı dükkânı, 20. yüzyıl başı","Underwood & Underwood, Library of Congress","Kamu malı","Çarşıda dükkân önünde duran esnaf ve köpekler",(.5,.5),OT),
 }
-S=[(0,'lorck_serseri'),(17,'kadiasker_gravur'),(28,'lorck_koylu'),(48,'lorck_muhafiz'),(72,'lorck_yuk_ati'),(89,'lorck_asker'),(103,'kazasker_gravur_metropolitan'),(127,'zincirli_kurekciler_gemide'),(137,'tersane_pardoe_gravur'),(152,'lorck_sipahi_atli')]
+S=[(0,'carsi_1880'),(28,'amasya_koylu'),(48,'hamal_berggren'),(62,'galata_hamal'),(89,'esnaf_dukkani'),(103,'karakol'),(127,'mahkum'),(137,'tersane'),(152,'dukkan2')]
 S=[(idx[o],f) for o,f in S]
 D=94.67
+YR={'carsi_1880':(0,.92),'amasya_koylu':(.03,.84),'karakol':(.17,.83)}
 def kirp(f):
-    im=Image.open(f'assets/belgeler/122_{f}.jpg');W,H=im.size;cx,cy=K[f][4]
+    im=Image.open(K[f][0]);W,H=im.size;cx,cy=K[f][5]
+    if f in YR:
+        y0,y1=YR[f]; w_=(y1-y0)*H*9/16/W; x0=min(max(cx-w_/2,0),1-w_); return [round(x0,3),y0,round(x0+w_,3),y1]
     w_=H*9/16/W
     if w_<=1:
         x0=min(max(cx-w_/2,0),1-w_); return [round(x0,3),0,round(x0+w_,3),1]
@@ -43,13 +45,13 @@ for j,(i0,f) in enumerate(S):
         st=w[i][0] if i>i0 else bas
         en=w[i+m][0] if i+m<i1 else min(bit,w[i1-1][1]+0.6)
         bol.append({"start":round(st,2),"end":round(en,2),"n":m});i+=m
-    bs,kay,lis,gor,_=K[f]
+    loc,bs,kay,lis,gor,_,on=K[f]
     cap=' '.join(EK[i0:i1])
     segs.append({"say":cap.replace("'",""),"caption":cap,"key":[],"scene":"photo","gorunen":gor,"bolumler":bol,
-      "image":{"local":f"assets/belgeler/122_{f}.jpg","fit":"doldur","hiz":0.5,"kirp":kirp(f),"baslik":bs,"kaynak":kay,"lisans":lis}})
+      "image":{"local":loc,"fit":"doldur","hiz":(0.5 if "gravür" in bs else 1.0),"kirp":kirp(f),"baslik":bs,"kaynak":kay,"lisans":lis,**({"onay":on} if on else {})}})
     kes.append([[round(bas,2),round(bit,2)]])
 ep={"series":"Sıradan Değil","voice":"ana","takip_cagrisi":False,"episode":122,"slug":"hirsiz","title":"Osmanlı'da hırsızın eli kesilir miydi?","youtube_title":"","youtube_description":"",
 "sources":["Baytimur 2018","Baba 2013","Osmanağaoğlu-Karahasanoğlu","Koç 2019","Okur Gümrükçüoğlu 2024","Yücetürk 2024"],"acilis":"Hırsızın eli\ngerçekten kesilir miydi?",
-"dis_ses":{"file":"assets/ses/122_hirsiz.mp3","kesimler":kes},"surum":1,"segments":segs}
+"dis_ses":{"file":"assets/ses/122_hirsiz.mp3","kesimler":kes},"surum":2,"segments":segs}
 json.dump(ep,open('episodes/122_hirsiz.json','w'),ensure_ascii=False,indent=1)
 for s,k in zip(segs,kes): print(k[0], round(k[0][1]-k[0][0],1), s['image']['local'][20:], s['image']['kirp'], '|', s['caption'][:50])
