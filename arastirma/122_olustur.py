@@ -20,9 +20,11 @@ K={
 'karakol':('assets/belgeler/113_karakol.jpg',"Selamsız Karakolu, İstanbul, 1880-1893","Abdullah Frères, II. Abdülhamid albümleri, LOC","Kamu malı","İki katlı bir karakol binası ve önünde budanmış ağaçlar",(.45,.5),OT),
 'mahkum':('assets/belgeler/122_zincirli_kurekciler_gemide.jpg',"Türk mahkûmlar gemide, 1878 (gravür)","The Graphic, Wellcome V0041227, Commons","Kamu malı","Gemi güvertesinde oturan mahkûmlar ve başlarında bekçi (gravür)",(.45,.5),None),
 'tersane':('assets/belgeler/122_tersane_pardoe_gravur.jpg',"Pera'dan Tersane (W. H. Bartlett gravürü, 1838)","Julia Pardoe, The Beauties of the Bosphorus, Commons","Kamu malı","Haliç kıyısında tersane, gemiler ve servi ağaçları (gravür)",(.55,.5),None),
+'kadiasker':('assets/belgeler/122_kadiasker_gravur.jpg',"Kadıasker, Osmanlı yargıcı (gravür, 19. yüzyıl başı)","Travels in Turkey, Asia Minor, Syria..., Commons","Kamu malı","Kürk kaftanlı, sarıklı bir Osmanlı yargıcı ayakta (gravür)",(.5,.5),None),
+'kazasker':('assets/belgeler/122_kazasker_gravur_metropolitan.jpg',"Kazasker, ordunun yüksek yargıcı (gravür, 18. yüzyıl)","Le Cadi-leskier, Metropolitan Museum DP887282, Commons","CC0","Büyük kavuklu, düşünceli duran bir yargıç (gravür)",(.5,.5),None),
 'dukkan2':('assets/belgeler/066_dukkan2.jpg',"İstanbul'da bir çarşı dükkânı, 20. yüzyıl başı","Underwood & Underwood, Library of Congress","Kamu malı","Çarşıda dükkân önünde duran esnaf ve köpekler",(.5,.5),OT),
 }
-S=[(0,'carsi_1880'),(28,'amasya_koylu'),(48,'hamal_berggren'),(62,'galata_hamal'),(89,'esnaf_dukkani'),(103,'karakol'),(127,'mahkum'),(137,'tersane'),(152,'dukkan2')]
+S=[(0,'carsi_1880'),(17,'kadiasker'),(28,'amasya_koylu'),(48,'hamal_berggren'),(62,'galata_hamal'),(89,'esnaf_dukkani'),(103,'kazasker'),(113,'karakol'),(127,'mahkum'),(137,'tersane'),(152,'dukkan2')]
 S=[(idx[o],f) for o,f in S]
 D=94.67
 YR={'carsi_1880':(0,.92),'amasya_koylu':(.03,.84),'karakol':(.17,.83)}
@@ -52,6 +54,6 @@ for j,(i0,f) in enumerate(S):
     kes.append([[round(bas,2),round(bit,2)]])
 ep={"series":"Sıradan Değil","voice":"ana","takip_cagrisi":False,"episode":122,"slug":"hirsiz","title":"Osmanlı'da hırsızın eli kesilir miydi?","youtube_title":"","youtube_description":"",
 "sources":["Baytimur 2018","Baba 2013","Osmanağaoğlu-Karahasanoğlu","Koç 2019","Okur Gümrükçüoğlu 2024","Yücetürk 2024"],"acilis":"Hırsızın eli\ngerçekten kesilir miydi?",
-"dis_ses":{"file":"assets/ses/122_hirsiz.mp3","kesimler":kes},"surum":2,"segments":segs}
+"dis_ses":{"file":"assets/ses/122_hirsiz.mp3","kesimler":kes},"surum":3,"segments":segs}
 json.dump(ep,open('episodes/122_hirsiz.json','w'),ensure_ascii=False,indent=1)
 for s,k in zip(segs,kes): print(k[0], round(k[0][1]-k[0][0],1), s['image']['local'][20:], s['image']['kirp'], '|', s['caption'][:50])
