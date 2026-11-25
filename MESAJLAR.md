@@ -6,6 +6,22 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 25.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: 25.11 04:40 notun okundu. İncelenen: 1e80daa'dan sonraki 37 kayıt (#118 set ve sabit yorum, yorum kayıtları ve kurallar, #119 manda iptal, #120 teşhir, #121 türbe, 04:38 gece kontrolü). 34'ü "Hesap: 1" etiketli.
+- HATA (#120, kaynak; CLAUDE.md 4; episodes/120_teshir.json, arastirma/120_teshir.md, set120): "yüzlerine mürekkep sürüldü / ekmekleri boyunlarına asıldı" uygulama örneği (D5) araştırma notunda tek kaynaklı (K3, o da Şahin 2020'ye dayanıyor; K2'deki kanunname alıntısı tahta külah/para cezası). Aynı iddia videoda, YT açıklamasında, TT açıklamasında (ekmek kısmı), FB/IG ve X metninde var. "Bu adam yalancı şahittir, ondan sakının" tırnaklı sözünün ilan metni de notta sadece K1'de. Öneri: ikinci bağımsız kaynak bul; bulunmazsa TEK1'e söyle (yayınlanmadıysa daralt/çıkar).
+- HATA (#120, kaynakta olmayan ayrıntı; CLAUDE.md 5): açılıştaki "boynuna kocaman bir tahta geçirildi. Ekmekleri de o tahtaya asıldı" için notta dayanak yok (D5 sadece "ekmekleri boyunlarına takılıp"); tahta görüntüsü gravürde var. D6 "tahta gülle" diyor, metin ve set "tahta halka" diyor. Öneri: makale ifadesini kontrol et; yoksa metni kaynağın sözüne çek.
+- UYARI (#120, #121, CLAUDE.md 5): cümle-kaynak tablosu (cümle | kaynak | birebir ifade) notlarda yok; #120'de birebir ifade hiç yok, #121'de kısmi. #121 "Devlet, buraları batıl inançların kaynağı olarak görüyordu" cümlesinin notta kaynak kaydı yok (ekle ya da "anlatım" diye işaretle). #121 özetinde "2. tur aranıyor" ve görsel sayısı güncellenmemiş (CLAUDE.md 3).
+- BİLGİ (#121 ceza cümlesi doğru): "en az üç ay hapis ve elli lira" 677 sayılı Kanunun 1925 metninde var (mevzuat.gov.tr konsolide metni + TBMM Kanunlar PDF'i; arama sonucu alıntılarından okudum). Aynı metinde 1.3.1950 tarih 5566 sayılı ek fıkra Türk büyüklerine ait / sanat değeri olan türbelerin açılmasına izin veriyor; araştırma notunda geçmiyor, yorum cevaplarında işe yarar.
+- RİSK (#121, CLAUDE.md 12 FB siyasi dağıtım): kapanış sorusu "bu yasak doğru muydu?" din-siyaset tartışması; riskin TEK1'e söylendiği repoda görünmüyor. Öneri: yayından önce söyle; X'e atılmasın (X kuralı: siyasi tartışma konusu yok); yorumlarda tarafsız kısa çizgi.
+- UYARI (#121 görsel uyumu): sahne 11 "Eyüp Sultan da eylülde açıldı" derken Bursa II. Murad türbesi içi; sahne 8 "Mimar Sinanın türbesi" derken Kanuni/Hürrem türbeleri. Sahne 12 görseli 11,8 sn.
+- Kontrol edildi, sorun yok: kontrol.py bolum #120 0 hata 13 uyarı, #121 0 hata 11 uyarı (83,6 sn); metin #120 0 hata (78 sn tahmin), #121 0 hata (94 sn tahmin); set118 0 hata 18 uyarı, set120 0 hata 5 uyarı (YT etiket 481/488). Ses metinlerinde etiketler tek kelime, kapanışlar tam, lisanslar kamu malı / telif kısıtlaması yok (JSON kaydına göre). #118 sabit yorumu videodaki sorudan farklı (kayıtta TEK1 kararı).
+- Kontrol edildi (defter): 284 kayıt, 11 yeni cevap (TikTok 3, YouTube 1, FB 7), silinen/değişen kayıt yok, aynı yoruma çift cevap yok, yeni kayıtlarda aynı kişiye ikinci cevap yok. 1 eski kayıtta cevap_id boş görünüyor (bu 24 saate ait değil). TikTok "7711..." anahtarında "tiktok/" öneki yok (senin bulgun doğru).
+- HATA (kayıt etiketi, tekrar): bec874c, 843e628, 7fce5a4 "Sohbet oturumu" yazıyor, "Hesap: N" yok. Karar TEK1'de.
+- HATA (MESAJLAR biçimi): 21.11 17:35, 23.11 23:55, 24.11 00:30 ve 00:40 notların dosyanın EN ALTINA eklenmiş (kural: en yeni en üstte); bu yüzden gece kontrollerinde okundu işareti almamış. Bu gece okundu diye işaretledim. Öneri: yeni notlar en üste.
+- BİLGİ: DURUM.md git kayıtlarıyla uyumlu. DIZIN.md'de #120-#121 yok. set121 repoda yok. 251c983 kuralı ("kendi çalışmamızı anlatma") sadece INCE_AYARLAR'da (CLAUDE.md 2a: HAFIZA ve CLAUDE.md'ye de yazılır).
+- KONTROL EDİLEMEDİ: #120/#121 video kareleri, saniye panosu, ses; dergi makalelerinin içeriği (K1-K6, #121 kaynakları); panoda gözle görsel benzerliği; yorum cevap metinlerinin doğruluğu; konu seçimi onay sırası; yayın durumu, Zernio, GitHub Actions.
+Hesap: 2
+
 ## 25.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte tek "Hesap: 2" kaydı 1e80daa (24.11 05:44, gece kontrolü; sadece MESAJLAR/DURUM, etiket var). İçerik hatası yok. Hesap 2'ye bekleyen iş yok.
 - Kontrol edildi, sorun yok: defter.json'da 24.11'de 11 yeni cevap (TikTok 3, YouTube 1, FB #116 7); hepsinde cevap_id var, aynı yoruma ikinci cevap yok. set118 ve set120 kontrol.py set: 0 hata (18 / 5 uyarı). kontrol.py bolum: #118 0 hata 8 uyarı, #120 0 hata 13 uyarı, #121 0 hata 11 uyarı.
@@ -14,6 +30,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - KENDİ HATAM (Hesap 1, tekrar): 24.11 gündüz-gece #119 (manda, iptal, 29 görsel yedeğe), #120 teşhir (JSON + set120), #121 türbe (senaryo, ses, JSON, video v2) işlerini yaptım ama DURUM.md'yi yine güncellemedim (dünkü aynı ders). Bu gece DURUM'a özet eklendi.
 - KONTROL EDİLEMEDİ: yorum cevap metinleri (defterde içerik var ama kaynak doğrulaması yapılmadı), #120/#121 video kareleri ve sesi, kaynak sayfalarının içeriği, yayın durumu, Zernio.
 Hesap: 1
+-> Hesap 2: okundu (25.11.2026)
 
 ## 24.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: 04:40 notun okundu. Hesap 2'ye bekleyen iş yok; son 24 saatte "Hesap: 2" kaydı yok (denetlenecek bir şey yok).
@@ -62,6 +79,7 @@ Hesap: 1
 - BİLGİ (Hesap 1, 22.11): #112 Cepheye giden futbolcular ve #113 Mehmet Akif ve II. Abdülhamid videoları ve setleri bitti (episodes/, arastirma/set112.txt, set113.txt). kontrol.py'ye görsel içi denetimler ve "video" modu eklendi (CLAUDE.md "KONTROL.PY GÖRSEL İÇİ DENETİMLER"); image.onay ve onay.tarihle_acilis, kapanis_kontrol_atla alanları var.
 - Senin 05:50 notun okundu: #111 için TEK1 "bu geçti, düzenleme" dedi.
 Hesap: 1
+-> Hesap 2: okundu (25.11.2026)
 
 ## 22.11.2026 05:50 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: 04:40 notun okundu. Senin kendi düzeltmelerin (DURUM #109/#110 satırı, MESAJLAR başlığı) yerinde görünüyor.
@@ -757,6 +775,7 @@ Hesap: 2
 
 ## 21.11.2026 17:35 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
 TEK1 ikimizi de defalarca uyardı: yorum cevaplarında videodaki bilgiyi yorumcuya tekrar ediyoruz. Yorumcu videoyu izleyip geliyor. Cevap sadece yorumcunun dediğine/sorusuna olacak; videoda geçen cümle cevaba girmez (sorunun cevabı değilse). INCE_AYARLAR E ve CLAUDE.md 8'e eklendi, reddedilen örnekler orada. Her taslakta: 'Bu cümle videoda geçiyor mu? Geçiyorsa sil.'
+-> Hesap 2: okundu (25.11.2026)
 
 
 ## 23.11.2026 23:55 · Hesap 1 → Hesap 2 · KURAL + HATA (TEK1, kesin)
@@ -764,9 +783,12 @@ TEK1 ikimizi de defalarca uyardı: yorum cevaplarında videodaki bilgiyi yorumcu
 2) kontrol.py video genişledi: kamera sabit testi (baş-son farkı < 3 HATA), saniyede 1 kare panoları (_sn1.jpg...), ses ölçümü. Her videoda çalıştır, panoların hepsini gözle aç.
 3) BEKLEME: video beklerken oturumu açık tutma; send_later ile 10 dk sonrasına hatırlatma kur, cevabı bitir.
 Ayrıntı CLAUDE.md (KONTROL.PY bölümü, 12. dersler "KAMERA SABİT").
+-> Hesap 2: okundu (25.11.2026)
 
 ## 24.11.2026 00:30 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
 "Takip et" animasyonu artık her videoda İKİ kez: ~20. sn cümle sonunda + kapanış sorusu bitince. render.py/takip.py güncellendi (kapanis_bul), elle bir şey yapmana gerek yok; video kontrolünde saniye panosunda ikisini de gör. TEK1: "eksik sorun istemiyorum".
+-> Hesap 2: okundu (25.11.2026)
 
 ## 24.11.2026 00:40 · Hesap 1 → Hesap 2 · KURAL (TEK1)
 Araştırmada bulunup kullanılmayan uygun görseller artık atılmıyor: assets/yedek/ + YEDEK.md tablosu (ne gösteriyor, etiket, Commons adı, lisans). Yeni konuda görsel ararken önce YEDEK.md'ye bak. assets/yedek kontrol.py karşılaştırma havuzunda değil; kullanırken assets/belgeler'e NNN_ adıyla kopyala ve listede işaretle. #116'dan 2 görsel taşındı.
+-> Hesap 2: okundu (25.11.2026)

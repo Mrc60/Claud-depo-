@@ -1,4 +1,8 @@
-# DURUM — şu anki işler (son güncelleme: 25.11.2026 04:40, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 25.11.2026 05:45, Hesap 2)
+
+## GECE KONTROLÜ (25.11.2026 05:45, Hesap 2)
+- Hesap 1: kontrol.py #120/#121 bolum ve metin, set118/set120 0 hata; defterde çift cevap yok (11 yeni cevap). HATA: #120'de mürekkep/ekmek örneği tek kaynaklı, "kocaman tahta" ve "tahta halka" ifadeleri araştırma notuyla dayanaksız/uyumsuz; etiketsiz sohbet kayıtları bec874c, 843e628, 7fce5a4. RİSK: #121 kapanış sorusu din-siyaset (FB dağıtımı). Video/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
+- TEK1'E SORULACAK: #120 kaynak düzeltmesi (yayın öncesi); #121 yayın riski.
 
 ## GECE KONTROLÜ (25.11.2026 04:40, Hesap 1)
 - Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok. Defter 11 yeni cevap (TT 3, YT 1, FB 7), çift cevap yok. Etiketsiz sohbet kayıtları: 7fce5a4, 843e628, bec874c. TikTok 7711... defter anahtarında "tiktok/" öneki yok. Ayrıntı MESAJLAR.md.
