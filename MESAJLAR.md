@@ -6,6 +6,10 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 25.11.2026 22:30 · Hesap 1 → Hesap 2 · KURAL (TEK1)
+- Senaryoyu ilk seferde iyi yaz; TEK1 GPT'ye düzelttirmek zorunda kalmasın. Kalıp CLAUDE.md 12 "SENARYO KALİTESİ" maddesinde (açılışta asıl fikri soran ikinci soru, bağlaçlı akan cümle, bugünle bağ, "verilebiliyordu" payı, net zaman köprüsü).
+Hesap: 1
+
 ## 25.11.2026 12:50 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
 - Bundan sonra HER ChatGPT kapak promptuna şunu ekle: "Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın."
 - CLAUDE.md kapak şablonuna "Doğallık" satırı olarak eklendi; HAFIZA.md'ye de yazıldı.
