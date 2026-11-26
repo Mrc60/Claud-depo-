@@ -47,3 +47,10 @@
 - Konya davaları (Tarihin Peşinde 2019 S.22): Marzıye bint-i Yusuf 1723 (koluna yapıştı, gece duvar deliğinden baktı → ta'zir), Ayşe bint-i Ali (damdan bakıp "Ayşe'ye benden selam götür, benimle dost olsun" diye haber gönderdi → ta'zir). PDF erişilemedi (site izin listesinde yok) → OKUMADIM, tek kaynak (Genspark aktarımı). Kullanılacaksa TEK1'e "doğrulanmadı" denecek.
 - İstanbul 1857 Ümmügülsüm Hatun - kayıkçı sarkıntılık davası: sadece fihrist satırı, karar belirsiz → KULLANMA.
 - Genspark 1858 için sarkıntılık maddesi bulamamış; ben Bucknill 1913'te 202. madde 1860 ekini birebir okudum (laf atma 1 hafta-1 ay; elle 1-3 ay).
+
+## Manus raporu (26.11 10:38) — kontrolüm
+- OKUDUM: Örsten Esirgen, S. (2016). Osmanlı Hukukunda Konut Dokunulmazlığını İhlal Suçu. AÜHFD 65(4), 2305-2329, dn.21/78: "Her kim ki, eve girse zina kasdına yahud yapışsa öpse ol öpülenin rızası olsa, zina cerimesi alına. Eğer gücile ise girdüği ya öpdüği yahud yapuşduğı, beş altun alına" (md. 12; Akgündüz C.V s.157). → ZORLA öpen/yapışana BEŞ ALTIN. Tek akademik aktarım (Akgündüz'e dayanıyor); hangi padişah kanunnamesi olduğunu kendim teyit etmedim (Manus "Kanuni" diyor).
+- Konya davaları: Manus ve Genspark aynı makaleden (Sak & Taşın 2019, Tarihin Peşinde 22, 189-251) aktarıyor: Poladlar Mah. KŞS 40/167-1 Abdulkadir gece baca/duvar deliğinden Ayşe'ye baktı → ta'zir; Ahmeddede Mah. 1703 KŞS 40/197-2 Sâime: "ardımdan yetişip beni tuttu, feryat ettim kurtuldum" → mahalle "çıkarılmazsa dağılırız" dedi, "mûcibiyle hükm olundu" (fiilî ihraç kesin değil). Makaleyi OKUMADIM (site izin listesinde değil); iki rapor aynı makaleyi aktarıyor = tek kaynak.
+- Diyarbakır 1724 Rahime davası: iddia ispatlanamadı → KULLANMA (ağır, tecavüz).
+- Wellcome Allom gravürü (Eyüp yolu, kadınlar yolun bir yanında erkekler diğer yanında, 1836-38, Public Domain Mark) — görsel adayı.
+- 4 rapor tamam. Senaryo TEK1 "geç" deyince.
