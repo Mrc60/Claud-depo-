@@ -33,3 +33,11 @@
 - Aynı ek: kadın kılığına girip kadınların bulunduğu yere giren erkeğe 3 ay-1 yıl hapis.
 - GPT "Ümmi davasında ceza doğrulanamadı" diyor; K3 metninde "ta'zîr olunarak sicile kaydedilmiştir" yazıyor (ben okudum) → ceza VAR.
 - 1869 Vakâyi-i Zabtiye cinsel saldırı vakaları (teşhir + kürek) — laf atma değil, KULLANMA.
+
+## Görsel 1.-2. tur (b6a4a69, 6f12276)
+- KULLANILABİLİR (kamu malı, s-b, tekrar grep temiz; ORB taraması seçimde):
+  - Sokakta kadın: T1#16 "Six and one abroad (1914)" üç çarşaflı kadın; T1#14 ve #23 "The near East... (1913)" İstanbul caddesi / pazar yeri; T2#62-65 "A Turkish Woman's European Impressions (1913)" peçeli kadın fotoğrafları (küçük, ~900 px).
+  - Portre: T1#37 LOC LCCN93500447 Abdullah Frères "Turkish lady" 1869 (ORB ile tekrar bakılacak; Abdullah Frères kadın portrelerinin çoğu TEKRAR).
+  - Hapis: T2#32-34 LOC matpc.06801 Kudüs'te Osmanlı hapishanesi kapısı, fesli gardiyanlar (1898-1914).
+- ELENEN: T1#53 mahalle sokağı 1870'ler → künyesi SALT Araştırma (İstanbul Households Archive) → YASAK. T2#1 Met "Le Cadi-leskier" = #122'de kullanılan kazasker gravürü (TEKRAR). Falaka sonuçları modern ayak fotoğrafı / #84 tekrarı. Üsküdar photochrom'ları renkli. Bolu Kadı Camii alakasız.
+- EKSİK: kadı/mahkeme sahnesi, değnek cezası. Seçenek: #122 kazasker gravürü ve #84 falaka görseli TEK1 onayıyla tekrar (onay.tekrar).
