@@ -17,3 +17,11 @@
 4. 18. yy (K4): Kalebend defterlerinde "kadınlara sarkıntılık" 6 kayıt (1753-1774); ceza kaleye kapatma/sürgün. (Ayrıntı okunacak.)
 5. Denge (K1 md.24): Kadın bir erkeği şahitsiz suçlar, erkek yeminle inkâr ederse kadın da ta'zir edilirdi. (Videoda kullanılırsa adil anlatım için.)
 - Terim: ta'zir = kadının suça göre takdir ettiği ceza (çoğu zaman değnek/sopa); akçe = gümüş para.
+
+## Perplexity raporu (26.11 10:09) — kontrolüm
+- Fatih Umumi Kanunnamesi md.9 (rapordan, Acar/ISAM PDF 403 verdi, OKUMADIM): "Eğer biregünün avretin öpse yahud dilese yahud yapışsa, kadı ta'zir ura. Ağaç başına bir akçe cürm alına." → Fatih ve 1540 Kanuni metni aynı hükmü taşıyor (K1 md.18 ile uyumlu).
+- "AĞAÇ BAŞINA BİR AKÇE" ANLAMI — ÇELİŞKİ: K2 Artukoğlu s.~255: "dayak cezası verilmişse ağaç (sopa sayısı) başına para cezasına çevrilmektedir" (yani değnek sayısı kadar akçe; dayak yerine/yanında belirsiz). Perplexity "anlamı belirsiz" diyor. Videoda güvenli ifade: "Ceza değnek sayısına göre hesaplanır, her değnek için bir akçe para cezası alınırdı." "Hem dayak hem para" deme.
+- 1861 zeyli OKUDUM: Artuk & Alşahin (2016) Sarkıntılık Fiili, AÜHFD 65(4) 3243-3270, dipnot 7: 1858 CK md.202'ye 1277/1861 zeyli: "Zükûr ve inâsdan genç kimselere (…) elleriyle sarkıntılık eyleyenler bir aydan üç aya kadar hapis olunur." (Gökcen 1989 s.152'ye dayanıyor). Ayrıca 765 sayılı TCK md.421'de "söz atanlar" cezası vardı.
+- Isparta örneği: şikâyetçi "fahişe" olarak geçiyor → videoda KULLANMA.
+- Medine (koca aracılığıyla başvuru) — yer/yıl yok, kullanma.
+- "Ta'zir = kadının takdiri" yazım: kadı (hâkim) — senaryoda "kadı" yazarken karışıklık olmasın.
