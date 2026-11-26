@@ -13,3 +13,11 @@
 - Sadettin Kaynak "150 sivil polis" hatırası: sadece Dikici aktarımı (tek kaynak).
 - "başı açık, frakla" hutbe: tek popüler kaynak.
 - Türkçe Kur'an'ın yasaklandığı/bitiş tarihi: yok.
+
+## GPT / Perplexity / Genspark raporları kontrolü (27.11 01:45)
+- Erdoğan 2021 (Erciyes Akademi 35/4, 1409-1423; WebFetch ile okundu): Yerebatan'da "kalabalığı Cuma günü camiden taşmış sokakları doldurmuştur" (Okur 1962); "sokağı dolduran kadınlar hafızın dışarda okumasını istediler" (Akşam 23.1.1932 s.1-2); Ayasofya mevlidi "Türkiye'de ilk defa radyodan yayınlanmıştır", Atatürk radyodan canlı dinledi. -> Dikici ile birlikte radyo 2 kaynak, kalabalık 2 birincil (Akşam + Okur hatırası) tek makalede.
+- Kalabalık rakamı ÇELİŞKİLİ: Cumhuriyet 4.2.1932 manşet "70 bin", metin "elli bine yakın" (Dikici aktarımı), Milliyet "on binlerce". -> Metinde rakam YOK, "on binlerce" bile kullanma (tek gazete).
+- "İlk Türkçe hutbe" 1932 DEĞİL: 1922 Fatih Camii, Müfid Efendi (TDV Hutbe, okudum + Akgün 1980 Genspark). 1932 = "tamamı Türkçe Cuma hutbesi".
+- Yerebatan Camii kimliği tartışmalı (Ayasofya yanı mı, Karaköy Yeraltı Camii mi): metinde "İstanbulda küçük bir camide" ya da gazetedeki adıyla, yer tarifi yapma.
+- Atatürk'ün vazgeçtiği (Atatürk Ans.): ben açamadım (403), Perplexity+Genspark alıntısı -> doğrulanmadı.
+- Görsel (Genspark, Commons): Dassonville 1935 Ayasofya ibadet salonu (Licence Ouverte), "An Interior View of Hagia Sophia" 1930'lar PD, Fortepan 76187 1937 CC BY-SA 3.0 (atıf gerekir), SMU "Interior St. Sophia" no known restrictions. Sadettin Kaynak/Yaşar Okur portresi Commons'ta YOK.
