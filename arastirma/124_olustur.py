@@ -20,7 +20,11 @@ K={
 'kisla':('124_kisla_hapis.jpg',"İstanbul'da hapishane olarak kullanılan kışla","Agence Rol, Bibliothèque nationale de France, Commons","Kamu malı","Tepede büyük bir kışla binası, önünde yol ve yamaç",(.02,.98,.05,.93),.5),
 'rob':('124_robertson_kadin.jpg',"Sokak kıyafetli bir Türk kadını (siyah-beyaza çevrildi)","James Robertson, J. Paul Getty Museum, Commons","Kamu malı","Yüzü ince yaşmakla örtülü, ferace giymiş bir kadın",(.05,.95,.1,.95),.5),
 }
-S=[(0,'pc'),(13,'pazar'),(26,'bartlett'),(43,'pb'),(59,'pa'),(73,'pd'),(85,'hapis'),(96,'kisla'),(123,'rob')]
+OT={"tekrar":"TEK1 26.11 (seçim panosundan 13, 14, 15 kullanılsın dedi)"}
+K['uc']=('087_uc_kadin1914.jpg',"Çarşaflı kadınlar, 1914","Six and One Abroad (1914), Internet Archive Book Images, Commons","Kamu malı","Ağaç altında yan yana duran çarşaflı üç kadın",(0,1,0,1),.5)
+K['sokak']=('087_pera_sokak1913.jpg',"İstanbul'da bir yokuş, 1913","R. Hichens, The Near East (1913), Internet Archive Book Images, Commons","Kamu malı","Kalabalık, yokuş bir İstanbul caddesi, iki yanda binalar",(0,1,0,1),.5)
+K['falaka']=('124_falaka_baku_sb.jpg',"Bakü'de bir mektepte falaka cezası, kartpostal, 1896 (siyah-beyaza çevrildi)","Alexandre Michon, Commons","Kamu malı","Sopayla ayakları tutulan çocuk ve çevresinde duran çocuklar (falaka)",(0,1,0,1),.5)
+S=[(0,'uc'),(13,'pc'),(25,'sokak'),(38,'falaka'),(47,'bartlett'),(59,'pa'),(73,'pazar'),(85,'hapis'),(96,'kisla'),(111,'pb'),(123,'rob')]
 S=[(idx[o],f) for o,f in S]
 D=71.81
 def kirp(f):
@@ -44,7 +48,7 @@ for j,(i0,f) in enumerate(S):
     p,bs,kay,lis,gor,_,_=K[f]
     cap=' '.join(EK[i0:i1])
     segs.append({"say":cap.replace("'",""),"caption":cap,"key":[],"scene":"photo","gorunen":gor,"bolumler":bol,
-      "image":{"local":B+p,"fit":"doldur","hiz":(0.5 if f in ("bartlett","kisla") else 1.0),"kirp":kirp(f),"baslik":bs,"kaynak":kay,"lisans":lis,}})
+      "image":{"local":B+p,"fit":"doldur","hiz":(0.5 if f in ("bartlett","kisla") else 1.0),"kirp":kirp(f),"baslik":bs,"kaynak":kay,"lisans":lis,**({"onay":OT} if f in ("uc","sokak","falaka") else {}),**({"onay":{"renkli":"TEK1 26.11 (siyah-beyaza çevrildiği söylendi, 9 numarayı seçti)"}} if f=="rob" else {}),}})
     kes.append([[round(bas,2),round(bit,2)]])
 ep={"series":"Sıradan Değil","voice":"ana","takip_cagrisi":False,"episode":124,"slug":"lafatma","title":"Osmanlı'da kadına laf atmanın cezası","youtube_title":"","youtube_description":"",
 "sources":["Cıkay 2021","Imber/Midilli 2017","Örsten Esirgen 2016","Acıduman vd. 2019","Bucknill 1913"],"acilis":"Kadına laf atmanın\nOsmanlıdaki cezası",
