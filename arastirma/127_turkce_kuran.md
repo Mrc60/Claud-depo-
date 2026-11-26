@@ -22,3 +22,8 @@
 - Atatürk'ün vazgeçtiği (Atatürk Ans.): ben açamadım (403), Perplexity+Genspark alıntısı -> doğrulanmadı.
 - Görsel (Genspark, Commons): Dassonville 1935 Ayasofya ibadet salonu (Licence Ouverte), "An Interior View of Hagia Sophia" 1930'lar PD, Fortepan 76187 1937 CC BY-SA 3.0 (atıf gerekir), SMU "Interior St. Sophia" no known restrictions. Sadettin Kaynak/Yaşar Okur portresi Commons'ta YOK.
 - Elicit raporu (01:41): ÖNEMLİ: 22 Ocak'ta Kur'an Türkçe "tilavet" edilmedi; Hafız Yaşar Yasin'i Arapça okudu, sonra Türkçe tercümesini (Cemil Sait Bey tercümesi) okudu (Okur 1962 hatıratı, Elicit aktarımı) -> Dikici de "önce Arapça sonra Türkçe" diyor (okudum). Metinde "Arapça okudu, ardından Türkçe anlamını okudu" yaz, "Kur'an Türkçe okundu" deme. Cumhuriyet 4.2.1932: 40 bin içeride/70 bin toplam (gazete iddiası) -> rakam yok. Okur hatıratı: tramvayda "Kur'an nasıl Türkçe okunurmuş" itirazı (tek tanık).
+
+## Görsel durumu (27.11 01:55, 3 tur)
+Kullanılabilir (lisans + kontrol.py gorsel temiz, /tmp/sec127): 127_ayasofya_1935_dassonville (stereo, yarısı ~960x912, avizeler yanık; Licence Ouverte), 127_ayasofya_minber (Cornell, no restrictions; hutbe sahnesi), 127_ayasofya_sebah_b, 127_ayasofya_sebah_nef (LOC 1888 PD), 127_ayasofya_ic_smu (stereo, küçük ~500 px yarım).
+Elenen: Fortepan 1937 (=#110), Sébah iç büyük + LCCN2003680774 (=#105), radyo dergisi kapağı (=#33), "An Interior View" (SALT, yasak).
+Eksik: Yerebatan, Süleymaniye içi, hafız/Sadettin Kaynak portresi (Commons'ta sadece mezar), radyo dinleyen halk, cemaat/kalabalık. Hepsi Ayasofya içi -> sahne çeşitliliği zayıf.
