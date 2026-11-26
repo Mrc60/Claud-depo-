@@ -41,3 +41,9 @@
   - Hapis: T2#32-34 LOC matpc.06801 Kudüs'te Osmanlı hapishanesi kapısı, fesli gardiyanlar (1898-1914).
 - ELENEN: T1#53 mahalle sokağı 1870'ler → künyesi SALT Araştırma (İstanbul Households Archive) → YASAK. T2#1 Met "Le Cadi-leskier" = #122'de kullanılan kazasker gravürü (TEKRAR). Falaka sonuçları modern ayak fotoğrafı / #84 tekrarı. Üsküdar photochrom'ları renkli. Bolu Kadı Camii alakasız.
 - EKSİK: kadı/mahkeme sahnesi, değnek cezası. Seçenek: #122 kazasker gravürü ve #84 falaka görseli TEK1 onayıyla tekrar (onay.tekrar).
+
+## Genspark raporu (26.11 10:35) — kontrolüm
+- Peirce 2010 (Harem Histories s.111): "the fine is one akçe for every TWO strokes" → ÇELİŞKİ: Cıkay (Fatih md.9) ve Imber (1540 md.18) metinlerinde "ağaç başına bir akçe" (her değnek bir akçe). "İki ağaca bir akçe" Fatih md.10'da (yalancı zina iddiası). Peirce'i okumadım. → Videoda oran verme: "para cezası değnek sayısına göre hesaplanırdı".
+- Konya davaları (Tarihin Peşinde 2019 S.22): Marzıye bint-i Yusuf 1723 (koluna yapıştı, gece duvar deliğinden baktı → ta'zir), Ayşe bint-i Ali (damdan bakıp "Ayşe'ye benden selam götür, benimle dost olsun" diye haber gönderdi → ta'zir). PDF erişilemedi (site izin listesinde yok) → OKUMADIM, tek kaynak (Genspark aktarımı). Kullanılacaksa TEK1'e "doğrulanmadı" denecek.
+- İstanbul 1857 Ümmügülsüm Hatun - kayıkçı sarkıntılık davası: sadece fihrist satırı, karar belirsiz → KULLANMA.
+- Genspark 1858 için sarkıntılık maddesi bulamamış; ben Bucknill 1913'te 202. madde 1860 ekini birebir okudum (laf atma 1 hafta-1 ay; elle 1-3 ay).
