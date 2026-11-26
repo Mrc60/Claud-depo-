@@ -46,3 +46,15 @@
 - Kullanılabilir: #43 LOC "Occupation of Constantinople" LCCN2010650577 (kamu malı, Nusretiye önünde yürüyen askerler) — işgal sahnesi; #41 LOC hec.14216 "U.S. Embassy at Constantinople" — İstanbul'da kalan elçilik binası; #46 LOC "Grand Rue de Pera" LCCN2004672935 — elçiliklerin olduğu Pera; #40 Müttefik donanması İstanbul açıkları 1918 (oval, küçük; künye okunacak).
 - Elenen: Ankara Garı 1940'lar (gar 1937'de yapıldı, 1925 vagon sahnesi için yanıltıcı), Angora keçi/tavşan sonuçları, Taurus Ekspres haritaları/kapak, modern istasyon, #39 yağlı boya renkli, TEKRARlar (#20,#63,#68).
 - Hâlâ eksik: 1920'lerin tren vagonu/eski Ankara istasyonu fotoğrafı. Bulunamazsa o cümle bozkırdan Ankara (Kahn) ya da Lindsay portresiyle karşılanır.
+
+## Genspark raporu (26.11 06:42) — benim kontrolüm
+- BİRİNCİL OKUDUM: TBMM Zabıt Ceridesi D.2 C.2 35. Birleşim 13.10.1923 (www5.tbmm.gov.tr .../tbmm02002035.pdf):
+  - Zeki B. (Gümüşane): "...o zavallı İstanbul şehrine olan iğbirarınız nedendir bilmem." ... "Makam Hükümetin yalçın kayalarda, izbe ovalarda kurulmak asırları çoktan geçmiştir."
+  - Ragıb B. (Kütahya): "Ovaların hiç kıymeti yok mu?" Cevdet B. (Kütahya): "Bu memleketi kurtaran o ovalardır."
+  - Celâl Nuri B. (Gelibolu): "İstanbul, evet, bir payitaht idi. Fakat payitaht maattessüf Anadolu ve Rumeli'yi kurtaramadı."
+  - Reis: "Ekseriyeti azîmeyle kabul edilmiştir efendim. (İttifakla sesleri) Efendim, kalkmıyan el vardır. Müttefikan diyemem, gördüm, ekseriyeti azîmeyle kabul edilmiştir." → sayı YOK. Şimşir ile uyumlu.
+- Aytepe, Oğuz (2004) Atatürk Yolu 33-34, 15-22 OKUDUM: "tasarı bir karşıt oyla ... 27 numaralı" (Goloğlu 1971'e dayanıyor) — tutanakla çelişir, KULLANMA. (Raporda yazar adı "Osman" yanlış.)
+- Karabulut, Umut (2012) Tarih İncelemeleri XXVII/1, 131-148 OKUDUM (rapor "Uğur" yazmış): Tanin 14 Ekim haberi "birinci sayfadan ve küçük bir başlıkla"; Vatan/Ahmet Emin "bu kararı alkışlayacak değiliz"; İngiltere'ye göre Ankara'nın başkentliği "en fazla iki yıl devam edebilirdi". → Kılıç 2008 ile "küçük punto" 2. kaynak oldu.
+- Alman ahşap elçilik binası: Goethe-Institut Ankara sayfası (Hamburg 25.07.1924 "Stralsund" gemisi, 19 gün, İstanbul, trenle Ankara; Atatürk 9.2.1925 gezdi) + DAI İstMitt makalesi (prefabrik ahşap yapı) — ikinci kaynağın tam metnini okumadım.
+- Erdem makalesinin yazarı Ufuk Erdem (rapor "Uğur" yazmış).
+- Okunmadı: Tuğluoğlu sıtma (PDF 000), Kartal 2013, Çakıcı 2025, Tankut 1988.
