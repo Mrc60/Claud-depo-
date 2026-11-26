@@ -36,3 +36,8 @@
 - Paul Erio "akşam yedide ölü gibi" (JAS 8/2): PDF indirilemedi (000), OKUNMADI.
 - ÇELİŞKİ: rapor "kanun"; Şimşir "bu metin bir kanun değil, TBMM kararı" (27 sayılı karar). Videoda "kanun/karar" demeden "Meclis kabul etti" denebilir.
 - Oy sayısı: 1923 için sayısal oy yok (Şimşir "büyük çoğunlukla"). 1921 ret oyu 71-26 (Şimşir).
+
+## Görsel 2. tur (238a0a8, 39 aday)
+- Kullanılabilir: #33 Nationaal Archief "Atatürk rokkostuum op diplomatensoirée in Angora" (kamu malı, s-b) — elçiler/davet sahnesi; #10-11 LOC Harris&Ewing, Ronald Lindsay Washington'a varış 1930 (kamu malı) — Lindsay'in yüzü; #12 Lindsay 1929 AP (lisans okunacak); #27 Nationaal Archief SFA022824254 Ankara'da inşaat 1920'ler (kamu malı); #28 aynı seri ev (1. turdaki #23 ile aynı dosya).
+- Elenen: Clerk sonuçları (başka George Clerk), Nadolny sonuçları (torun Sten Nadolny), Tokatlıyan renkli kartpostal, #35-36 TEKRAR, #32 TEKRAR.
+- Hâlâ eksik: Ankara istasyonu/tren vagonu, işgal altındaki İstanbul (donanma). 3. tur: LOC/Bundesarchiv "Ankara Bahnhof", "Constantinople 1919 fleet".
