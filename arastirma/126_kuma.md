@@ -36,3 +36,16 @@ Hanefî fıkhında kadının nikâhta koyduğu "üzerime evlenmeyeceksin" şart�
 - Çok eşlilik %2,51 / %2,16: Perplexity de Duben-Behar'a dayandırıyor (okumadım). Scott Rank %2,3 (okudum özetten). Metinde "yüzde 2-3 kadar".
 - Ebubekir-Fatıma, Döndü (Konya) örnekleri kuma değil -> kullanılmaz.
 - Yeni bir şey yok; ana omurga: Gülbahar (Üsküdar ~1515), Safiye (İstanbul 1730'lar), HAK md. 38 (1917), kaldırılış 1919, çok eşlilik nadir.
+
+## MANUS RAPORU KONTROLÜ (27.11 00:05)
+- Gülbahar kaydı 2. kaynak: Kılıç, S. 2025, "16. Yüzyıl Üsküdar'ında Evliliğin Sona Erme Halleri", SAÜ HFD 13/1, 138-165 (ben okudum). ÖNEMLİ DÜZELTME: şart "eğer hâtunum Gülbahâr’dan izinlisüz evlenirsem ALACAĞIM benden aldığım vakitte üç talâk boş olsun" -> boş olacak olan YENİ eş (ikinci nikâh kendiliğinden bozulur), Gülbahar değil. Kılıç: "şartlı talâk ile sınırlanan husus erkeğin evlenememesi değil ikinci evlenmenin ilk eşin onayına bağlı kılınması, onay alınmamışsa ikinci evliliğin kendiliğinden sona ermesidir." Ayrıca: "Hanefi mezhebine göre kadının evlenirken tek eşlilik şartı ileri sürmesi ... geçersizdir" (2. kaynak, Atasoy ile aynı).
+- Midilli, M. 2022, "Osmanlı Fetvalarında Kadınların Ayrılık Elde Etme Yolu Olarak Şartlı Talak (16-18. yy)", İslâmî İlimler Derg. 17/2, 31-52 (ben okudum, s. 46-47): kadının "Benim üzerime evlenirsin" endişesi üzerine koca "Senin üzerine her kimi tezevvüc edersem boş olsun" yemini; fetvalara göre yeni evlilik yaparsa boşama meydana gelir (Karaçelebizade, Minkarizade, Çatalcalı Ali Efendi). Formüller: "Eğer senin üzerine ahar hatun tezevvüc edersem ikiniz dahi benden talak-ı bain ile boş olasız". -> kadının talebiyle konan şart DOĞRULANDI (fetva düzeyinde).
+- Aişe (Üsküdar, Yücetürk tablo 104/36): Manus da aynı okuma; tek kaynak, tarih yok -> yedek.
+- Behar 1991 oran (%2,51 / %2,16 / ort. %2,29): Manus, GPT, Perplexity aynı; ben okumadım. Scott Rank %2,3 (okudum). -> "yaklaşık yüzde 2" kullanılır.
+- HAK md. 126 (gaip koca, 6 ay) tefrik: Manus; okumadım, metne girmez.
+
+## Genspark raporu kontrolü (27.11.2026, Claude)
+- Yücetürk 2023 (DTCF 63.1, s.153-176; ben okudum, Tablo 1): TDV ÜŞS 104/36, Yusuf b. Abdullah – Aişe bt. Hasan: "Aişe'den başka akd-i nikâhında zevci aharı olacak olursa mezbure Aişe benden üç tâlak boş olsun" -> başka eşi çıktı, Aişe boşandı. DOĞRULANDI (tek kaynak; ana örnek Gülbahar kalır).
+- Midilli 2022 (İslam Tetkikleri 12/1, 1-27; ben okudum): Yahyâ Efendi fetvası, kadın evlenmeden şart koyuyor: "Benim üzerime avrat tezevvüc etmezsen sana nefsimi tezevvüc ederin"; koca: "Eğer senin üzerine âhar avrat tezevvüc edersem irâdetin elinde olsun". Hocazâde Esad Efendi ve Abdürrahim Efendi fetvaları da aynı. DOĞRULANDI (fetva metni + Midilli 17/2 ile iki ayrı makale).
+- Çok eşlilik %2,51 (1885) / %2,16 (1907): Fatih Bozkurt, "Osmanlı Dönemi İstanbul Ailesi", İstanbul Tarihi (Duben-Behar s.161-162'ye dayanarak; WebFetch ile okundu). Scott Rank %2,3 ile iki bağımsız kaynak -> "yaklaşık yüzde 2" DOĞRULANDI.
+- Kullanılmayan (okumadım): Erzincan 1914 Cemile davası (Budak 2022, Gökbayır 2013'ten aktarım), Uşak %79 tefrik, Kütahya %6.
