@@ -72,3 +72,5 @@ assets/yedek, kontrol.py karşılaştırma havuzunda DEĞİL (kullanılmamış g
 | lorck_1576_yuk_ati.jpg | Yük atı (gravür) | at, yük, ticaret, gravür | Melchior Lorck, British Museum 1871,0812.4638 | Kamu malı, Commons | #122 hırsızlık |
 | lorck_1576_asker.jpg | Osmanlı askeri (gravür) | asker, yeniçeri, gravür | Melchior Lorck | Kamu malı, Commons | #122 hırsızlık |
 | lorck_1576_sipahi_atli.jpg | Atlı sipahi (gravür) | sipahi, at, ordu, gravür | Melchior Lorck | Kamu malı, Commons | #122 hırsızlık |
+| ataturk_diplomat_davet_ankara_sfa022000098.jpg | Atatürk frakla Ankara'da diplomatik davette (1920'ler) | Atatürk, diplomasi, elçiler, davet | Mustafa Kemal Atatürk (Ataturk) in rokkostuum op diplomatensoirée in Angora (Ankara), Turkije, SFA022000098.jpg | Kamu malı, Nationaal Archief | #123 başkent |
+| kahn_1923_ankara_sovyet_elciligi_A37079.jpg | Ankara'da Sovyet elçiliği ve önünde mezarlık, 1923 (siyah-beyaza çevrildi; #123'te A37080 kullanıldı, aynı bina) | Ankara 1923, elçilik | Turquie, Angora, Ambassade des Soviets - A37079.jpg | CC BY-SA 4.0, Musée Albert-Kahn | #123 başkent |
