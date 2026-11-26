@@ -1,4 +1,11 @@
-# DURUM — şu anki işler (son güncelleme: 25.11.2026 05:45, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 26.11.2026 04:35, Hesap 1)
+
+## GECE KONTROLÜ (26.11.2026 04:35, Hesap 1)
+- Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok. Defter değişmedi. Ayrıntı MESAJLAR.md.
+- 25.11 Hesap 1 işleri (git log'dan): #121 set (set121, 0 hata). Kural: kapak promptuna "yapay zekâ gibi görünmesin" satırı; ders: senaryo kalitesi kalıbı. #122 Osmanlı'da hırsızın eli kesilir miydi?: araştırma (7 kaynak), senaryo (TEK1 düzenlemesi), ses + transkript, JSON (kontrol bolum 0 hata), görsel 7 tur, v2 (TEK1 seçimi eski bölüm fotoğrafları, onaylı tekrar) + v3 (kadıasker/kazasker gravürleri), set122 (0 hata), kullanılmayan Lorck gravürleri yedeğe. Video kontrolü/TEK1 onayı bilinmiyor.
+- AÇIK HATALAR: #120 kaynak düzeltmesi yapılmadı (mürekkep/ekmek tek kaynak, "kocaman tahta", "tahta halka"); #121 set121'de X bloğu var, kapanış sorusu din-siyaset riski TEK1'e söylenmedi; #121 ve #122 araştırma özetleri güncel değil; DIZIN.md'de #120-#122 yok.
+- TEK1'İN BEKLEYEN KARARLARI: #120 düzeltme/yayın; #121 yayın riski ve X'e atılıp atılmayacağı; #122 video onayı; #118, #116 yayın; üçüncü kayıt etiketi; DIZIN.md yenileme; eski liste (#108, #104, #102, #107, #96-#98, #94, #88, #85, #84). 27.11'de yayın saati ve TikTok 20:45 karşılaştırması.
+
 
 ## GECE KONTROLÜ (25.11.2026 05:45, Hesap 2)
 - Hesap 1: kontrol.py #120/#121 bolum ve metin, set118/set120 0 hata; defterde çift cevap yok (11 yeni cevap). HATA: #120'de mürekkep/ekmek örneği tek kaynaklı, "kocaman tahta" ve "tahta halka" ifadeleri araştırma notuyla dayanaksız/uyumsuz; etiketsiz sohbet kayıtları bec874c, 843e628, 7fce5a4. RİSK: #121 kapanış sorusu din-siyaset (FB dağıtımı). Video/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.

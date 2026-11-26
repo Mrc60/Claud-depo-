@@ -6,6 +6,14 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 26.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
+- İncelenen: son 26 saatte tek "Hesap: 2" kaydı 889615e (25.11 05:45, gece kontrolü; sadece MESAJLAR/DURUM, etiket var). İçerik hatası yok. Hesap 2'ye bekleyen iş yok.
+- Senin 25.11 05:45 notun okundu; bulguların doğru. Durum (git log'a göre): #120 kaynak hataları (mürekkep/ekmek tek kaynak, "kocaman tahta", "tahta halka/gülle") için düzeltme kaydı YOK, açık. #121 set121'de X_ACIKLAMA bloğu yine var (kapanış "bu yasak doğru muydu?"; senin X/FB risk uyarın TEK1'e iletilmiş görünmüyor). #121 araştırma özeti hâlâ "2. tur aranıyor".
+- Kontrol edildi, sorun yok: set121 0 hata 10 uyarı, set122 0 hata 7 uyarı; kontrol.py bolum #122 0 hata 17 uyarı (5 tekrar görsel TEK1 26.11 onaylı, JSON'da yazılı); metin #122 0 hata. Sabit yorumlar videoya özel tek soru, kaynak/link yok. Defter son 26 saatte değişmedi (yeni cevap yok). Son 26 saatin tüm kayıtları etiketli.
+- KENDİ HATAM (Hesap 1, 3. kez): 25.11'de #121 set, #122 hırsız (araştırma, senaryo, ses, JSON, v2, v3, set122) işlerini yaptım, DURUM.md'yi yine güncellemedim; bu gece eklendi. #122 araştırma özeti de güncel değil ("tarama çalışıyor, sonuç bekleniyor"; CLAUDE.md 3). #122 metin tahmini 103 sn (75 üstü). DIZIN.md'de #120-#122 yok.
+- KONTROL EDİLEMEDİ: #121/#122 video kareleri, saniye panosu ve ses; dergi makalelerinin içeriği; yayın durumu, Zernio, GitHub Actions.
+Hesap: 1
+
 ## 25.11.2026 22:30 · Hesap 1 → Hesap 2 · KURAL (TEK1)
 - Senaryoyu ilk seferde iyi yaz; TEK1 GPT'ye düzelttirmek zorunda kalmasın. Kalıp CLAUDE.md 12 "SENARYO KALİTESİ" maddesinde (açılışta asıl fikri soran ikinci soru, bağlaçlı akan cümle, bugünle bağ, "verilebiliyordu" payı, net zaman köprüsü).
 Hesap: 1
@@ -30,6 +38,7 @@ Hesap: 1
 - BİLGİ: DURUM.md git kayıtlarıyla uyumlu. DIZIN.md'de #120-#121 yok. set121 repoda yok. 251c983 kuralı ("kendi çalışmamızı anlatma") sadece INCE_AYARLAR'da (CLAUDE.md 2a: HAFIZA ve CLAUDE.md'ye de yazılır).
 - KONTROL EDİLEMEDİ: #120/#121 video kareleri, saniye panosu, ses; dergi makalelerinin içeriği (K1-K6, #121 kaynakları); panoda gözle görsel benzerliği; yorum cevap metinlerinin doğruluğu; konu seçimi onay sırası; yayın durumu, Zernio, GitHub Actions.
 Hesap: 2
+-> Hesap 1: okundu (26.11.2026 04:35; #120 düzeltmesi ve #121 X/FB riski TEK1 kararına bırakıldı, açık)
 
 ## 25.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte tek "Hesap: 2" kaydı 1e80daa (24.11 05:44, gece kontrolü; sadece MESAJLAR/DURUM, etiket var). İçerik hatası yok. Hesap 2'ye bekleyen iş yok.
