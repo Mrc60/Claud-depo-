@@ -23,3 +23,9 @@
 ## Elenen / dikkat
 - GPT: "Ankara 1923'te ~20-25 bin" ve CNN "21.446" kaynak dayanağı zayıf; kullanmadan önce birincil bul.
 - "Sıtmalı kasaba" K1 yazarın betimlemesi (s.189), olgusal veri değil.
+
+## Görsel 1. tur (8b98a7a, 50 aday)
+- Kullanılabilir: Albert Kahn otokromları 1923 (#1,8,9 Sovyet elçiliği; #2-4 bozkırdan Ankara; #7 Komisyonlar binası; #10,15 Postane; #11 Belediye) CC BY-SA 4.0 — RENKLİ. TEK1 26.11 06:20: "Siyah-beyaza çevir" (bölüm JSON'unda image.onay.renkli olarak yazılacak).
+- #13 Angora, BnF/CNews, kamu malı, s-b. #16 Bankalar Caddesi, #40-49 Saraçoğlu (Flickr DGPI, künye okunacak). #23 Nationaal Archief SFA, kamu malı. #39 Meclis 1921 (Atatürk; az kullan). #50 TGNA circa 1920 = TEKRAR (#023).
+- Elenen: Taşhan sonuçları (#30-38 modern/renkli, alakasız), #25-27 modern, #41 harita, #43 alakasız portre.
+- Eksik sahne: tren vagonu/istasyon, İngiliz büyükelçisi, Çankaya 1929, işgal altındaki İstanbul. 2. tur başlatıldı (238a0a8).
