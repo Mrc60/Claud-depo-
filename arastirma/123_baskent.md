@@ -29,3 +29,10 @@
 - #13 Angora, BnF/CNews, kamu malı, s-b. #16 Bankalar Caddesi, #40-49 Saraçoğlu (Flickr DGPI, künye okunacak). #23 Nationaal Archief SFA, kamu malı. #39 Meclis 1921 (Atatürk; az kullan). #50 TGNA circa 1920 = TEKRAR (#023).
 - Elenen: Taşhan sonuçları (#30-38 modern/renkli, alakasız), #25-27 modern, #41 harita, #43 alakasız portre.
 - Eksik sahne: tren vagonu/istasyon, İngiliz büyükelçisi, Çankaya 1929, işgal altındaki İstanbul. 2. tur başlatıldı (238a0a8).
+
+## 2. rapor (26.11 06:20; başlıkta uygulama adı yok, muhtemelen Perplexity) — benim kontrolüm
+- K3 Kılıç 2008 s.157-159 OKUDUM: İkdam/Ahmet Cevdet 31.12.1922 "başkent İstanbul kalmalı"; Vatan/Ahmet Emin 30.07.1923 "fazla masraf gerektirmeyecek Bursa başkent olmalıdır"; Yeni Gün milletvekillerine anket yaptı, çoğunluk Ankara dedi; Tanin haberi "küçük puntolarla" verdi; Tanin'e göre Ankara'ya Gazi Mustafa Kemal adı verilmesi teklif edildi, Mustafa Kemal reddetti; Falih Rıfkı (Akşam) Ankara'yı savundu. (Tek akademik kaynak; Kılıç gazetelerin kendisine dayanıyor.)
+- K4 Özgen, Y. (2016). Cumhuriyetin İlk Barajı: Çubuk Barajı (1929-1936). Atatürk Yolu 59, 87-110. OKUDUM s.~89: 1916 yangını öncesi 23 bin; "1920 yılında kentin nüfusu 20.000'e kadar gerilemiştir"; "toz fırtınaları... sıtma hastalığının yaygın olduğu... ağaçsız ve susuz". (Raporda Özgen-Büyüktolu dendi; PDF'de yazar Yüksel Özgen.)
+- Paul Erio "akşam yedide ölü gibi" (JAS 8/2): PDF indirilemedi (000), OKUNMADI.
+- ÇELİŞKİ: rapor "kanun"; Şimşir "bu metin bir kanun değil, TBMM kararı" (27 sayılı karar). Videoda "kanun/karar" demeden "Meclis kabul etti" denebilir.
+- Oy sayısı: 1923 için sayısal oy yok (Şimşir "büyük çoğunlukla"). 1921 ret oyu 71-26 (Şimşir).
