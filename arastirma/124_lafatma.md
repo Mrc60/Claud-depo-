@@ -25,3 +25,11 @@
 - Isparta örneği: şikâyetçi "fahişe" olarak geçiyor → videoda KULLANMA.
 - Medine (koca aracılığıyla başvuru) — yer/yıl yok, kullanma.
 - "Ta'zir = kadının takdiri" yazım: kadı (hâkim) — senaryoda "kadı" yazarken karışıklık olmasın.
+
+## GPT raporu (26.11 10:11) — kontrolüm
+- FATİH md.9 OKUDUM: Cıkay, N. (2021). Osmanlı'da Cerime Uygulaması ve İstismarı. MECMUA 6(12), 272-288: "9. Eğer biregunun avretin öpse yahud dilese yahud yapışsa, kadı ta'zir ura. Ağaç başına bir akçe cürm alına." → Fatih (Cıkay) + Kanuni 1540 (Imber) iki bağımsız aktarım.
+- Fatih md.10 (Cıkay): kadın/kız "bana zina kıldın" der, erkek inkâr ederse: erkeğe yemin, kadına ta'zir, iki değneğe bir akçe.
+- 1860 ZEYLİ OKUDUM: Bucknill & Utidjian (1913) The Imperial Ottoman Penal Code, s.~156: md.202'ye 3 Cemaziyelahir 1277 (17 Aralık 1860) ek: "Those who address impertinent innuendos to young persons either males or females are imprisoned for from one week to one month and those who act outrageously with their hands for from one month to three months." → LAF ATANA 1 hafta-1 ay hapis, ELLE SARKINTILIĞA 1-3 ay hapis. İkinci kaynak (elle kısmı): Artuk & Alşahin 2016. ÇELİŞKİ: tarih 1860 (Bucknill) / 1861 (Artuk) → videoda yıl verme ("Tanzimat'tan sonra").
+- Aynı ek: kadın kılığına girip kadınların bulunduğu yere giren erkeğe 3 ay-1 yıl hapis.
+- GPT "Ümmi davasında ceza doğrulanamadı" diyor; K3 metninde "ta'zîr olunarak sicile kaydedilmiştir" yazıyor (ben okudum) → ceza VAR.
+- 1869 Vakâyi-i Zabtiye cinsel saldırı vakaları (teşhir + kürek) — laf atma değil, KULLANMA.
