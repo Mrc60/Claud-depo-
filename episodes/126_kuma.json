@@ -1,0 +1,610 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 126,
+ "slug": "kuma",
+ "title": "Osmanlı'da kuma şartı",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Atasoy 2024",
+  "Kılıç 2025",
+  "Midilli 2022",
+  "TDV Hukuk-ı Aile Kararnamesi"
+ ],
+ "acilis": "Kocası evlenirse\nyeni gelin boş sayılacaktı",
+ "dis_ses": {
+  "file": "assets/ses/126_kuma.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     7.38
+    ]
+   ],
+   [
+    [
+     7.38,
+     12.6
+    ]
+   ],
+   [
+    [
+     12.6,
+     17.5
+    ]
+   ],
+   [
+    [
+     17.5,
+     22.2
+    ]
+   ],
+   [
+    [
+     22.2,
+     26.88
+    ]
+   ],
+   [
+    [
+     26.88,
+     31.48
+    ]
+   ],
+   [
+    [
+     31.48,
+     36.86
+    ]
+   ],
+   [
+    [
+     36.86,
+     44.74
+    ]
+   ],
+   [
+    [
+     44.74,
+     51.22
+    ]
+   ],
+   [
+    [
+     51.22,
+     58.44
+    ]
+   ],
+   [
+    [
+     58.44,
+     68.82
+    ]
+   ],
+   [
+    [
+     68.82,
+     82.68
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Osmanlıda bir kadın, kocasının ikinci kez evlenmesini engellemek için kocasına öyle bir söz verdirdi ki,",
+   "caption": "Osmanlı'da bir kadın, kocasının ikinci kez evlenmesini engellemek için kocasına öyle bir söz verdirdi ki,",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sarıklı kadı ve kâtip kâğıt yazıyor, karşılarında çarşaflı kadınlar oturuyor (tablo)",
+   "bolumler": [
+    {
+     "start": 0,
+     "end": 2.18,
+     "n": 4
+    },
+    {
+     "start": 2.18,
+     "end": 4.12,
+     "n": 4
+    },
+    {
+     "start": 4.12,
+     "end": 5.92,
+     "n": 4
+    },
+    {
+     "start": 5.92,
+     "end": 7.38,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_noter_nikah_rorbye.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.296,
+     0,
+     0.704,
+     1
+    ],
+    "baslik": "Bir kadı nikâh sözleşmesi yazıyor (tablo, 1837; siyah-beyaza çevrildi)",
+    "kaynak": "Martinus Rørbye, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "kocası başka bir kadınla evlendiğinde yeni gelin anında boşanmış sayılacaktı.",
+   "caption": "kocası başka bir kadınla evlendiğinde yeni gelin anında boşanmış sayılacaktı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Duvaklı beyaz gelinlikli gelin ve yanında uzun elbiseli kadınlar",
+   "bolumler": [
+    {
+     "start": 7.38,
+     "end": 8.7,
+     "n": 4
+    },
+    {
+     "start": 8.7,
+     "end": 10.86,
+     "n": 4
+    },
+    {
+     "start": 10.86,
+     "end": 12.6,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_dugun_gelin.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.162,
+     0,
+     0.566,
+     1
+    ],
+    "baslik": "Bir düğünde gelin ve kadınlar, 1930'lar",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "Peki, bir kadın bunu gerçekten yapabilir miydi? O dönemde kadınların",
+   "caption": "Peki, bir kadın bunu gerçekten yapabilir miydi? O dönemde kadınların",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Çarşaflı, peçeli kadınlar demir parmaklık önünde oturuyor",
+   "bolumler": [
+    {
+     "start": 12.6,
+     "end": 14.42,
+     "n": 4
+    },
+    {
+     "start": 14.42,
+     "end": 16.72,
+     "n": 4
+    },
+    {
+     "start": 16.72,
+     "end": 17.5,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_carsafli.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0.0,
+     1,
+     1.0
+    ],
+    "baslik": "İstanbullu kadınlar, 20. yüzyıl başı",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "nikâha “Üzerime evlenmeyeceksin” şartı koyması geçerli değildi.",
+   "caption": "nikâha “Üzerime evlenmeyeceksin” şartı koyması geçerli değildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sarıklı, sakallı yaşlı adamlar yerde oturuyor, önlerinde terlikler",
+   "bolumler": [
+    {
+     "start": 17.5,
+     "end": 20.58,
+     "n": 4
+    },
+    {
+     "start": 20.58,
+     "end": 22.2,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_nikah_turkistan.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0.0,
+     1,
+     1.0
+    ],
+    "baslik": "Nikâh töreni, Orta Asya, 1865-1872 (Türkistan Albümü)",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "Ancak kadınlar başka bir yol buldu. Kocalarına şu sözü verdirdiler:",
+   "caption": "Ancak kadınlar başka bir yol buldu. Kocalarına şu sözü verdirdiler:",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sedirde yan yana oturmuş, başörtülü iki kadın (taş baskı)",
+   "bolumler": [
+    {
+     "start": 22.2,
+     "end": 24.02,
+     "n": 4
+    },
+    {
+     "start": 24.02,
+     "end": 25.86,
+     "n": 4
+    },
+    {
+     "start": 25.86,
+     "end": 26.88,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_iki_kadin_litografi.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.479,
+     0.04,
+     0.881,
+     0.96
+    ],
+    "baslik": "Evde iki kadın (taş baskı, 19. yüzyıl)",
+    "kaynak": "J. F. Lewis, British Museum, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "“Senin üzerine evlenirsem, boşanma hakkı senin elinde olsun.”",
+   "caption": "“Senin üzerine evlenirsem, boşanma hakkı senin elinde olsun.”",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yerel kıyafetli ve başlıklı üç kadın ayakta duruyor",
+   "bolumler": [
+    {
+     "start": 26.88,
+     "end": 29.68,
+     "n": 4
+    },
+    {
+     "start": 29.68,
+     "end": 31.48,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_ankara_kadinlar_1873.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.311,
+     0.2,
+     0.689,
+     0.74
+    ],
+    "baslik": "Ankara kıyafetli kadınlar, 1873",
+    "kaynak": "P. Sébah, Elbise-i Osmaniyye (1873), Library of Congress",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ama Gülbahar adlı bir kadın, Üsküdarda bundan da farklı bir şart koydurdu.",
+   "caption": "Ama Gülbahar adlı bir kadın, Üsküdar'da bundan da farklı bir şart koydurdu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ahşap evler, minare ve taş döşeli yokuş sokak, yürüyen insanlar ve at arabası",
+   "bolumler": [
+    {
+     "start": 31.48,
+     "end": 33.14,
+     "n": 4
+    },
+    {
+     "start": 33.14,
+     "end": 35.08,
+     "n": 4
+    },
+    {
+     "start": 35.08,
+     "end": 36.86,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_uskudar_sokak.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.198,
+     0,
+     0.902,
+     0.95
+    ],
+    "baslik": "Üsküdar'da bir sokak, 1890'lar (renkli baskı, siyah-beyaza çevrildi)",
+    "kaynak": "Photochrom Print Collection, Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "Kocasının mahkemeye verdiği söz şuydu: “Gülbahardan izinsiz evlenirsem, aldığım kadın o an benden boş olsun.”",
+   "caption": "Kocasının mahkemeye verdiği söz şuydu: “Gülbahar'dan izinsiz evlenirsem, aldığım kadın o an benden boş olsun.”",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ağaçlar altında taş sekide oturan çarşaflı kadınlar",
+   "bolumler": [
+    {
+     "start": 36.86,
+     "end": 38.6,
+     "n": 4
+    },
+    {
+     "start": 38.6,
+     "end": 42.1,
+     "n": 4
+    },
+    {
+     "start": 42.1,
+     "end": 43.26,
+     "n": 4
+    },
+    {
+     "start": 43.26,
+     "end": 44.74,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_uskudar_mezarlik.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0.0,
+     1,
+     1.0
+    ],
+    "baslik": "Üsküdar'da çarşaflı kadınlar, 1909",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "Yani, kocası başka bir kadınla evlendiğinde yeni eş daha nikâhın ardından boşanmış sayılacaktı.",
+   "caption": "Yani, kocası başka bir kadınla evlendiğinde yeni eş daha nikâhın ardından boşanmış sayılacaktı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Süslü at arabasında oturan kadınlar",
+   "bolumler": [
+    {
+     "start": 44.74,
+     "end": 46.44,
+     "n": 4
+    },
+    {
+     "start": 46.44,
+     "end": 48.48,
+     "n": 4
+    },
+    {
+     "start": 48.48,
+     "end": 51.22,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_harem_araba.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0.0,
+     1,
+     1.0
+    ],
+    "baslik": "Kâğıthane'ye giden kadınlar, 1920 civarı",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "Üstelik koca, sonradan böyle bir sözü inkâr etse bile kadın şahitlerle hakkını arayabiliyordu.",
+   "caption": "Üstelik koca, sonradan böyle bir sözü inkâr etse bile kadın şahitlerle hakkını arayabiliyordu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Avizeli salonda masa başında oturan yargıçlar ve önlerinde ayakta duran adamlar",
+   "bolumler": [
+    {
+     "start": 51.22,
+     "end": 53.36,
+     "n": 4
+    },
+    {
+     "start": 53.36,
+     "end": 54.54,
+     "n": 4
+    },
+    {
+     "start": 54.54,
+     "end": 58.18,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_konsolosluk_bosanma_davasi.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.315,
+     0.03,
+     0.685,
+     0.9
+    ],
+    "baslik": "İstanbul'da bir boşanma davası (ABD konsolosluk mahkemesi, 20. yüzyıl başı)",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "1917de çıkarılan Osmanlı aile kanunu da bu tür şartları açıkça geçerli saydı. Ancak bu kanun iki yıl geçmeden yürürlükten kaldırıldı.",
+   "caption": "1917'de çıkarılan Osmanlı aile kanunu da bu tür şartları açıkça geçerli saydı. Ancak bu kanun iki yıl geçmeden yürürlükten kaldırıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Büyük taş sütunlar arasında ipe asılı çamaşırlar ve yerde oturan insanlar",
+   "bolumler": [
+    {
+     "start": 58.44,
+     "end": 60.88,
+     "n": 4
+    },
+    {
+     "start": 60.88,
+     "end": 62.1,
+     "n": 4
+    },
+    {
+     "start": 62.1,
+     "end": 64.6,
+     "n": 4
+    },
+    {
+     "start": 64.6,
+     "end": 66.0,
+     "n": 4
+    },
+    {
+     "start": 66.0,
+     "end": 68.72,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_cami_aileler.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0,
+     0.0,
+     1,
+     1.0
+    ],
+    "baslik": "Bir camide barınan aileler, 1919",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  },
+  {
+   "say": "Sizce bir erkek evlenirken ikinci kez evlenemeyeceğine dair böyle bir şartı kabul eder miydi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Sizce bir erkek evlenirken ikinci kez evlenemeyeceğine dair böyle bir şartı kabul eder miydi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Başörtülü köy kadınları ve çocuklar ayakta, arkada kale",
+   "bolumler": [
+    {
+     "start": 68.82,
+     "end": 70.8,
+     "n": 4
+    },
+    {
+     "start": 70.8,
+     "end": 72.86,
+     "n": 4
+    },
+    {
+     "start": 72.86,
+     "end": 74.04,
+     "n": 4
+    },
+    {
+     "start": 74.04,
+     "end": 76.76,
+     "n": 4
+    },
+    {
+     "start": 76.76,
+     "end": 79.38,
+     "n": 4
+    },
+    {
+     "start": 79.38,
+     "end": 81.5,
+     "n": 4
+    },
+    {
+     "start": 81.5,
+     "end": 82.68,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/126_koy_kadinlar.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.139,
+     0,
+     0.701,
+     1
+    ],
+    "baslik": "Köy kadınları ve çocuklar, Türkiye, 1960'lar (siyah-beyaza çevrildi)",
+    "kaynak": "Etnografiska museet (SMVK), CC0",
+    "lisans": "CC0",
+    "onay": {
+     "tekrar": "TEK1 27.11 00:33 (seçim panosundan seçti)"
+    }
+   }
+  }
+ ]
+}
