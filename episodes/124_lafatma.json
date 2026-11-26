@@ -1,0 +1,467 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 124,
+ "slug": "lafatma",
+ "title": "Osmanlı'da kadına laf atmanın cezası",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Cıkay 2021",
+  "Imber/Midilli 2017",
+  "Örsten Esirgen 2016",
+  "Acıduman vd. 2019",
+  "Bucknill 1913"
+ ],
+ "acilis": "Kadına laf atmanın\nOsmanlıdaki cezası",
+ "dis_ses": {
+  "file": "assets/ses/124_lafatma.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     6.4
+    ]
+   ],
+   [
+    [
+     6.4,
+     12.54
+    ]
+   ],
+   [
+    [
+     12.54,
+     20.78
+    ]
+   ],
+   [
+    [
+     20.78,
+     28.58
+    ]
+   ],
+   [
+    [
+     28.58,
+     35.94
+    ]
+   ],
+   [
+    [
+     35.94,
+     41.52
+    ]
+   ],
+   [
+    [
+     41.52,
+     48.26
+    ]
+   ],
+   [
+    [
+     48.26,
+     59.66
+    ]
+   ],
+   [
+    [
+     59.66,
+     71.81
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Bugün sokakta bir kadına laf atmak suç. Peki Osmanlıda bunun cezası var mıydı?",
+   "caption": "Bugün sokakta bir kadına laf atmak suç. Peki Osmanlı'da bunun cezası var mıydı?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Peçeli, uzun pardösülü, ayakta duran bir kadın",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 1.48,
+     "n": 4
+    },
+    {
+     "start": 1.48,
+     "end": 3.68,
+     "n": 4
+    },
+    {
+     "start": 3.68,
+     "end": 6.4,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_peceli_kadin_1913c.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.122,
+     0.05,
+     0.878,
+     0.95
+    ],
+    "baslik": "Peçeli bir Türk kadını, 1913",
+    "kaynak": "Zeyneb Hanım, A Turkish Woman's European Impressions (1913), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Bir kadın tek başına mahkemeye gidip hakkını arayabilir miydi? Fatih ve Kanuni kanunnamelerine",
+   "caption": "Bir kadın tek başına mahkemeye gidip hakkını arayabilir miydi? Fatih ve Kanuni kanunnamelerine",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ağaçlı bir meydanda oturan çarşaflı kadınlar ve yürüyen insanlar",
+   "bolumler": [
+    {
+     "start": 6.4,
+     "end": 7.62,
+     "n": 4
+    },
+    {
+     "start": 7.62,
+     "end": 9.38,
+     "n": 4
+    },
+    {
+     "start": 9.38,
+     "end": 12.54,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_pazar_yeri_1913.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.062,
+     0.03,
+     0.738,
+     0.93
+    ],
+    "baslik": "İstanbul'da bir meydan, 1913",
+    "kaynak": "R. Hichens, The Near East (1913), Internet Archive Book Images, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "göre bir kadına laf atan, onu öpen ya da ona yapışan kişi kadı tarafından değnek cezasına çarptırılabiliyordu.",
+   "caption": "göre bir kadına laf atan, onu öpen ya da ona yapışan kişi kadı tarafından değnek cezasına çarptırılabiliyordu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Çeşme önünde kadınlar, öküz arabası ve kalabalık (gravür)",
+   "bolumler": [
+    {
+     "start": 12.54,
+     "end": 14.04,
+     "n": 4
+    },
+    {
+     "start": 14.04,
+     "end": 15.6,
+     "n": 4
+    },
+    {
+     "start": 15.6,
+     "end": 17.04,
+     "n": 4
+    },
+    {
+     "start": 17.04,
+     "end": 20.78,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_bartlett_cesme_gravur.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.415,
+     0,
+     0.785,
+     1
+    ],
+    "baslik": "İstanbul'da çeşme başı (gravür, 1839)",
+    "kaynak": "W. H. Bartlett / J. Pardoe, Constantinople (1839), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Üstelik değnek sayısına göre para cezası da uygulanıyordu. Eğer bu davranış zorla yapılmışsa ceza beş altındı.",
+   "caption": "Üstelik değnek sayısına göre para cezası da uygulanıyordu. Eğer bu davranış zorla yapılmışsa ceza beş altındı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yüzü peçeyle örtülü, başlıklı bir kadının portresi",
+   "bolumler": [
+    {
+     "start": 20.78,
+     "end": 22.62,
+     "n": 4
+    },
+    {
+     "start": 22.62,
+     "end": 24.84,
+     "n": 4
+    },
+    {
+     "start": 24.84,
+     "end": 26.3,
+     "n": 4
+    },
+    {
+     "start": 26.3,
+     "end": 28.58,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_peceli_kadin_1913b.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.128,
+     0.05,
+     0.872,
+     0.95
+    ],
+    "baslik": "Peçeli bir Türk kadını, 1913",
+    "kaynak": "Zeyneb Hanım, A Turkish Woman's European Impressions (1913), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Üstelik bundan yaklaşık 500 yıl önce Üsküdarda Ümmi Hatun isimli bir kadın mahkemeye başvurdu.",
+   "caption": "Üstelik bundan yaklaşık 500 yıl önce Üsküdar'da Ümmi Hatun isimli bir kadın mahkemeye başvurdu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Peçeli, açık renk pelerinli bir kadın, arkada halılar ve çerçeveler",
+   "bolumler": [
+    {
+     "start": 28.58,
+     "end": 30.82,
+     "n": 4
+    },
+    {
+     "start": 30.82,
+     "end": 32.98,
+     "n": 4
+    },
+    {
+     "start": 32.98,
+     "end": 34.14,
+     "n": 4
+    },
+    {
+     "start": 34.14,
+     "end": 35.94,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_peceli_kadin_1913a.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.143,
+     0.05,
+     0.857,
+     0.95
+    ],
+    "baslik": "Peçeli bir Türk kadını, 1913",
+    "kaynak": "Zeyneb Hanım, A Turkish Woman's European Impressions (1913), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ahmed isimli bir adamın yolunu kesip koluna yapıştığını anlattı. Olayın şahidi yoktu.",
+   "caption": "Ahmed isimli bir adamın yolunu kesip koluna yapıştığını anlattı. Olayın şahidi yoktu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Oval çerçevede peçeli iki kadın",
+   "bolumler": [
+    {
+     "start": 35.94,
+     "end": 37.08,
+     "n": 4
+    },
+    {
+     "start": 37.08,
+     "end": 38.82,
+     "n": 4
+    },
+    {
+     "start": 38.82,
+     "end": 41.52,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_peceli_kadinlar_1913d.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.195,
+     0.1,
+     0.505,
+     0.9
+    ],
+    "baslik": "Peçeli iki Türk kadını, 1913",
+    "kaynak": "Zeyneb Hanım, A Turkish Woman's European Impressions (1913), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ahmedden yemin etmesi istendi. Ancak yemin etmekten kaçındı. Bunun üzerine cezalandırıldı.",
+   "caption": "Ahmed'den yemin etmesi istendi. Ancak yemin etmekten kaçındı. Bunun üzerine cezalandırıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Taş kemerli kapı önünde fesli gardiyanlar ve memurlar",
+   "bolumler": [
+    {
+     "start": 41.52,
+     "end": 43.78,
+     "n": 4
+    },
+    {
+     "start": 43.78,
+     "end": 46.06,
+     "n": 4
+    },
+    {
+     "start": 46.06,
+     "end": 48.26,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_hapishane_kapisi.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.28,
+     0,
+     0.72,
+     1
+    ],
+    "baslik": "Osmanlı hapishanesi kapısı, Kudüs (1898-1914)",
+    "kaynak": "American Colony Photo Dept., Library of Congress matpc.06801, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Tanzimat döneminde ise cezalar daha da açık hale geldi. Laf atanlara bir haftadan bir aya elle sarkıntılık edenlere ise bir aydan üç aya kadar hapis cezası getirildi.",
+   "caption": "Tanzimat döneminde ise cezalar daha da açık hale geldi. Laf atanlara bir haftadan bir aya elle sarkıntılık edenlere ise bir aydan üç aya kadar hapis cezası getirildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Tepede büyük bir kışla binası, önünde yol ve yamaç",
+   "bolumler": [
+    {
+     "start": 48.26,
+     "end": 50.16,
+     "n": 4
+    },
+    {
+     "start": 50.16,
+     "end": 51.16,
+     "n": 4
+    },
+    {
+     "start": 51.16,
+     "end": 52.98,
+     "n": 4
+    },
+    {
+     "start": 52.98,
+     "end": 54.56,
+     "n": 4
+    },
+    {
+     "start": 54.56,
+     "end": 56.48,
+     "n": 4
+    },
+    {
+     "start": 56.48,
+     "end": 57.7,
+     "n": 4
+    },
+    {
+     "start": 57.7,
+     "end": 59.66,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_kisla_hapis.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.32,
+     0.05,
+     0.68,
+     0.93
+    ],
+    "baslik": "İstanbul'da hapishane olarak kullanılan kışla",
+    "kaynak": "Agence Rol, Bibliothèque nationale de France, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Peki sizce bu cezalar bugün uygulansaydı, sokaklar değişir miydi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Peki sizce bu cezalar bugün uygulansaydı, sokaklar değişir miydi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yüzü ince yaşmakla örtülü, ferace giymiş bir kadın",
+   "bolumler": [
+    {
+     "start": 59.66,
+     "end": 61.4,
+     "n": 4
+    },
+    {
+     "start": 61.4,
+     "end": 63.76,
+     "n": 4
+    },
+    {
+     "start": 63.76,
+     "end": 66.82,
+     "n": 4
+    },
+    {
+     "start": 66.82,
+     "end": 69.52,
+     "n": 4
+    },
+    {
+     "start": 69.52,
+     "end": 71.81,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/124_robertson_kadin.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.198,
+     0.1,
+     0.802,
+     0.95
+    ],
+    "baslik": "Sokak kıyafetli bir Türk kadını (siyah-beyaza çevrildi)",
+    "kaynak": "James Robertson, J. Paul Getty Museum, Commons",
+    "lisans": "Kamu malı"
+   }
+  }
+ ]
+}
