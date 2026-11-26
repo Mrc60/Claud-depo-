@@ -41,3 +41,8 @@
 - Kullanılabilir: #33 Nationaal Archief "Atatürk rokkostuum op diplomatensoirée in Angora" (kamu malı, s-b) — elçiler/davet sahnesi; #10-11 LOC Harris&Ewing, Ronald Lindsay Washington'a varış 1930 (kamu malı) — Lindsay'in yüzü; #12 Lindsay 1929 AP (lisans okunacak); #27 Nationaal Archief SFA022824254 Ankara'da inşaat 1920'ler (kamu malı); #28 aynı seri ev (1. turdaki #23 ile aynı dosya).
 - Elenen: Clerk sonuçları (başka George Clerk), Nadolny sonuçları (torun Sten Nadolny), Tokatlıyan renkli kartpostal, #35-36 TEKRAR, #32 TEKRAR.
 - Hâlâ eksik: Ankara istasyonu/tren vagonu, işgal altındaki İstanbul (donanma). 3. tur: LOC/Bundesarchiv "Ankara Bahnhof", "Constantinople 1919 fleet".
+
+## Görsel 3. tur (aa3a13d, 69 aday)
+- Kullanılabilir: #43 LOC "Occupation of Constantinople" LCCN2010650577 (kamu malı, Nusretiye önünde yürüyen askerler) — işgal sahnesi; #41 LOC hec.14216 "U.S. Embassy at Constantinople" — İstanbul'da kalan elçilik binası; #46 LOC "Grand Rue de Pera" LCCN2004672935 — elçiliklerin olduğu Pera; #40 Müttefik donanması İstanbul açıkları 1918 (oval, küçük; künye okunacak).
+- Elenen: Ankara Garı 1940'lar (gar 1937'de yapıldı, 1925 vagon sahnesi için yanıltıcı), Angora keçi/tavşan sonuçları, Taurus Ekspres haritaları/kapak, modern istasyon, #39 yağlı boya renkli, TEKRARlar (#20,#63,#68).
+- Hâlâ eksik: 1920'lerin tren vagonu/eski Ankara istasyonu fotoğrafı. Bulunamazsa o cümle bozkırdan Ankara (Kahn) ya da Lindsay portresiyle karşılanır.
