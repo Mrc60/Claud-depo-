@@ -58,3 +58,10 @@
 - Alman ahşap elçilik binası: Goethe-Institut Ankara sayfası (Hamburg 25.07.1924 "Stralsund" gemisi, 19 gün, İstanbul, trenle Ankara; Atatürk 9.2.1925 gezdi) + DAI İstMitt makalesi (prefabrik ahşap yapı) — ikinci kaynağın tam metnini okumadım.
 - Erdem makalesinin yazarı Ufuk Erdem (rapor "Uğur" yazmış).
 - Okunmadı: Tuğluoğlu sıtma (PDF 000), Kartal 2013, Çakıcı 2025, Tankut 1988.
+
+## Manus raporu (26.11 06:43) — kontrol
+- Tutanak alıntıları (s.667-670) benim okuduğum tutanakla aynı. Ek: Avni B. (Bozok) "Tâyini esamiyle olması lâzımdır" (isimle oylama talebi, ret oyu kanıtı değil).
+- Yeni: Önsoy 2009 doktora tezi s.32 (Feroz Ahmad 2004'e atıf): elçiler uzun süre trenle Ankara'ya gidip işini bitirip aynı gün İstanbul'a dönüyordu. OKUMADIM. Erdem'in "vagonda kaldı" bilgisiyle çelişmez, ayrı ayrıntı.
+- 1927 nüfusu için tek rakam önermiyor (74.553 / 74.784 / 107.581). Videoda kullanmayacağım; gerekirse "1920'de yaklaşık 20 bin" (Özgen) yeter.
+- Görsel: LOC 2010650577 "Occupation of Constantinople" "No known restrictions on publication" (bizim 3. tur #43 ile aynı).
+- 4 rapor tamam (GPT, Perplexity?, Genspark, Manus). Senaryo TEK1 "geç" deyince.
