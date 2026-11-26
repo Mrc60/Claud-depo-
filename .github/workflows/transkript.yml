@@ -37,9 +37,13 @@ jobs:
           import sys, json
           from faster_whisper import WhisperModel
           m = WhisperModel("medium", device="cpu", compute_type="int8")
-          import subprocess, numpy as np
-          raw = subprocess.run(["ffmpeg", "-v", "error", "-i", sys.argv[1], "-f", "f32le", "-ac", "1", "-ar", "16000", "-"], capture_output=True, check=True).stdout
-          audio = np.frombuffer(raw, np.float32)
+          import shutil, subprocess, numpy as np
+          if shutil.which("ffmpeg"):
+              raw = subprocess.run(["ffmpeg", "-v", "error", "-i", sys.argv[1], "-f", "f32le", "-ac", "1", "-ar", "16000", "-"], capture_output=True, check=True).stdout
+              audio = np.frombuffer(raw, np.float32)
+          else:
+              from faster_whisper import decode_audio  # ffmpeg kurulamazsa PyAV ile çöz
+              audio = decode_audio(sys.argv[1], sampling_rate=16000)
           segs, _ = m.transcribe(audio, language="tr", word_timestamps=True, vad_filter=False)
           W = []
           for s in segs:

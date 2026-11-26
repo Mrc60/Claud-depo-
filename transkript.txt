@@ -1,1 +1,2 @@
 assets/ses/126_kuma.mp3
+# tekrar: ffmpeg yoktu, PyAV yedeği eklendi
