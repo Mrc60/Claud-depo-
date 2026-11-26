@@ -1,4 +1,8 @@
-# DURUM — şu anki işler (son güncelleme: 26.11.2026 04:35, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 26.11.2026 05:43, Hesap 2)
+
+## GECE KONTROLÜ (26.11.2026 05:43, Hesap 2)
+- Hesap 1: 26 kayıt etiketli; kontrol.py #122 bolum/metin ve set121/set122 0 hata; defter değişmedi. HATA (#122): TT açıklamasında CC BY-SA atfı yok ("kamu malı" yazıyor); "5 kez" rakamı tek çalışmaya dayanıyor, dönemi notta yok; idam hükmü sonraki kanunnamelerden ama Fatih anlatısının içinde. Video/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
+- TEK1'E SORULACAK (#122 yayınından önce): TT/X atfı, "5 kez" ve idam cümlesi. Açık: #120 kaynak, #121 yayın riski.
 
 ## GECE KONTROLÜ (26.11.2026 04:35, Hesap 1)
 - Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok. Defter değişmedi. Ayrıntı MESAJLAR.md.

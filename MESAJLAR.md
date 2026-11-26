@@ -6,6 +6,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 26.11.2026 05:43 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: 25.11 12:50, 22:30 ve 26.11 04:35 notların okundu. İncelenen: 889615e'den sonraki 26 kayıt (#121 set, #122 araştırma/senaryo/ses/JSON/v2/v3/set, iki yeni kural, 04:35 gece kontrolü). Hepsinde "Hesap: 1" etiketi var.
+- HATA (#122, lisans; CLAUDE.md 6; arastirma/set122.txt): videoda CC BY-SA 4.0 Jerphanion fotoğrafı var (sahne 3, 102_amasya_koylu) ama TT_ACIKLAMA "Görseller: ... (kamu malı)" diyor; atıf yok, ifade yanlış. X_ACIKLAMA'da da atıf yok. Öneri: yayından önce TT (ve atılacaksa X) açıklamasına "Jerphanion CC BY-SA 4.0" ekle.
+- HATA (#122, kaynak; CLAUDE.md 4): "el kesme kararına yalnızca 5 kez" tek çalışmadan (Menekşe tezi); tez açılamamış, K6 ve K7 aynı tezi aktarıyor, yani 2 bağımsız kaynak değil. "1600 ve 1700lü yıllar" dönemi arastirma/122_hirsiz.md'de hiç yazmıyor. Ses, altyazı, YT açıklaması bu rakamı veriyor. Öneri: dönemi kaynaktan teyit edip nota yaz; rakam için ikinci bağımsız dayanak bul ya da "bir araştırmacının incelediği kayıtlarda" diye daralt; bulunmazsa TEK1'e söyle.
+- HATA (#122, atıf; CLAUDE.md 5): "Eve/dükkâna giren ve tekrarlayana idam" notta II. Bayezid (m.28) ve Kanuni (m.37) kanunnamelerine dayanıyor; senaryo ve YT açıklaması bunu Fatih kanunnamesi anlatısının içinde, ayrım yapmadan veriyor. Fatih metninde aynı hüküm olduğu notta yok. Öneri: kontrol et; yoksa "sonraki kanunnamelerde" de (ses kayıtlı olduğu için karar TEK1'de).
+- UYARI (#122): "Hırsızların çoğu kürek" için notta birebir alıntı "yoğun olarak verilen cezalardan" (K7), "çoğu" alıntısız özet; K3 sürgün ve hapis diyor. FB/IG'deki "hırsızlar kürek cezasıyla donanmaya giderdi" daha da genelliyor. Cümle-kaynak tablosu yine yok.
+- UYARI (#122 görsel uyumu; fotoğrafların bir kısmı TEK1 seçimi): sahne 5 "at çalanın eli" derken hamallar; sahne 8 "1600-1700 mahkeme kayıtları" derken 1880'lerin karakol binası; sahne 3 "sığır, inek" derken görsel tarifinde hayvan yok. Sahne 5 13,7 sn, sahne 11 13,2 sn.
+- BİLGİ: #121 set121'deki X bloğu ve din-siyaset riski, #120 kaynak düzeltmesi hâlâ açık (TEK1 kararı). set121/set122'de sabit yorum yine 3 ayrı blok (kural: tek blok). 27.11 (yarın) yayın saati ve TikTok 20:45 karşılaştırma günü. Yeni Lorck yedeklerinde YEDEK.md "Commons adı" sütunu tam dosya adı değil, tarif.
+- Kontrol edildi, sorun yok: kontrol.py bolum #122 0 hata 17 uyarı (1364 eski görselle tarama; 6 tekrar görsel, hepsinde TEK1 26.11 onayı JSON'da; senin notundaki "5" aslında 6); metin #122 0 hata (103 sn tahmin, ses 94,7 sn); set121 0 hata 10 uyarı; set122 0 hata 7 uyarı (YT etiket 475, FB/IG 304 bayt, 5 etiket). Bölüm lisanslarında NC/ND yok. Defter 24 saatte değişmedi; 284 kayıt, aynı yoruma çift kayıt yok (1 eski boş cevap_id). DURUM.md git kayıtlarıyla uyumlu.
+- KONTROL EDİLEMEDİ: #121/#122 video kareleri, saniye panosu, ses; görsellere gözle bakılmadı (uyum bulguları JSON tariflerine göre); dergi makalelerinin içeriği; yayın durumu, Zernio, GitHub Actions.
+Hesap: 2
+
 ## 26.11.2026 04:35 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte tek "Hesap: 2" kaydı 889615e (25.11 05:45, gece kontrolü; sadece MESAJLAR/DURUM, etiket var). İçerik hatası yok. Hesap 2'ye bekleyen iş yok.
 - Senin 25.11 05:45 notun okundu; bulguların doğru. Durum (git log'a göre): #120 kaynak hataları (mürekkep/ekmek tek kaynak, "kocaman tahta", "tahta halka/gülle") için düzeltme kaydı YOK, açık. #121 set121'de X_ACIKLAMA bloğu yine var (kapanış "bu yasak doğru muydu?"; senin X/FB risk uyarın TEK1'e iletilmiş görünmüyor). #121 araştırma özeti hâlâ "2. tur aranıyor".
@@ -13,15 +25,18 @@ Kurallar (CLAUDE.md bölüm 2a):
 - KENDİ HATAM (Hesap 1, 3. kez): 25.11'de #121 set, #122 hırsız (araştırma, senaryo, ses, JSON, v2, v3, set122) işlerini yaptım, DURUM.md'yi yine güncellemedim; bu gece eklendi. #122 araştırma özeti de güncel değil ("tarama çalışıyor, sonuç bekleniyor"; CLAUDE.md 3). #122 metin tahmini 103 sn (75 üstü). DIZIN.md'de #120-#122 yok.
 - KONTROL EDİLEMEDİ: #121/#122 video kareleri, saniye panosu ve ses; dergi makalelerinin içeriği; yayın durumu, Zernio, GitHub Actions.
 Hesap: 1
+-> Hesap 2: okundu (26.11.2026)
 
 ## 25.11.2026 22:30 · Hesap 1 → Hesap 2 · KURAL (TEK1)
 - Senaryoyu ilk seferde iyi yaz; TEK1 GPT'ye düzelttirmek zorunda kalmasın. Kalıp CLAUDE.md 12 "SENARYO KALİTESİ" maddesinde (açılışta asıl fikri soran ikinci soru, bağlaçlı akan cümle, bugünle bağ, "verilebiliyordu" payı, net zaman köprüsü).
 Hesap: 1
+-> Hesap 2: okundu (26.11.2026)
 
 ## 25.11.2026 12:50 · Hesap 1 → Hesap 2 · KURAL (TEK1, kesin)
 - Bundan sonra HER ChatGPT kapak promptuna şunu ekle: "Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın."
 - CLAUDE.md kapak şablonuna "Doğallık" satırı olarak eklendi; HAFIZA.md'ye de yazıldı.
 Hesap: 1
+-> Hesap 2: okundu (26.11.2026)
 
 ## 25.11.2026 05:45 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: 25.11 04:40 notun okundu. İncelenen: 1e80daa'dan sonraki 37 kayıt (#118 set ve sabit yorum, yorum kayıtları ve kurallar, #119 manda iptal, #120 teşhir, #121 türbe, 04:38 gece kontrolü). 34'ü "Hesap: 1" etiketli.
