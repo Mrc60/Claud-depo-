@@ -1,0 +1,596 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 125,
+ "slug": "narh",
+ "title": "Osmanlı'da fahiş fiyatın cezası",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Kütükoğlu, TDV Narh",
+  "Köktaş 2016",
+  "Öztel 2012",
+  "TDV Karaçelebizâde"
+ ],
+ "acilis": "Malı saklayıp pahalı satana\nOsmanlı ne yapardı?",
+ "dis_ses": {
+  "file": "assets/ses/125_narh.mp3",
+  "kesimler": [
+   [
+    [
+     0.0,
+     4.82
+    ]
+   ],
+   [
+    [
+     4.82,
+     11.08
+    ]
+   ],
+   [
+    [
+     11.08,
+     15.9
+    ]
+   ],
+   [
+    [
+     15.9,
+     20.52
+    ]
+   ],
+   [
+    [
+     20.52,
+     26.72
+    ]
+   ],
+   [
+    [
+     26.72,
+     32.48
+    ]
+   ],
+   [
+    [
+     32.48,
+     37.76
+    ]
+   ],
+   [
+    [
+     37.76,
+     42.76
+    ]
+   ],
+   [
+    [
+     42.76,
+     50.24
+    ]
+   ],
+   [
+    [
+     50.24,
+     57.04
+    ]
+   ],
+   [
+    [
+     57.04,
+     62.74
+    ]
+   ],
+   [
+    [
+     62.74,
+     67.26
+    ]
+   ],
+   [
+    [
+     67.26,
+     79.15
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Bugün fiyatlar neredeyse her hafta değişiyor. Peki, Osmanlıda",
+   "caption": "Bugün fiyatlar neredeyse her hafta değişiyor. Peki, Osmanlı'da",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Başında yeşillik dolu sepet taşıyan, önlüklü bir sokak satıcısı",
+   "bolumler": [
+    {
+     "start": 0.0,
+     "end": 2.0,
+     "n": 4
+    },
+    {
+     "start": 2.0,
+     "end": 4.82,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_sokak_satici_a.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.204,
+     0.05,
+     0.696,
+     0.95
+    ],
+    "baslik": "İstanbul'da bir sokak satıcısı",
+    "kaynak": "W. H. Goodyear, Brooklyn Museum, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "esnaf malını istediği fiyata satabilir miydi? Ya malı saklayıp pahalıya satana ne yapılırdı?",
+   "caption": "esnaf malını istediği fiyata satabilir miydi? Ya malı saklayıp pahalıya satana ne yapılırdı?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sırtında tahta fıçı taşıyan, eğilmiş bir sokak satıcısı, arkada Haliç",
+   "bolumler": [
+    {
+     "start": 4.82,
+     "end": 6.5,
+     "n": 4
+    },
+    {
+     "start": 6.5,
+     "end": 8.5,
+     "n": 4
+    },
+    {
+     "start": 8.5,
+     "end": 11.08,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_sokak_satici_b.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.25,
+     0.05,
+     0.75,
+     0.95
+    ],
+    "baslik": "İstanbul'da sırtında fıçı taşıyan bir satıcı",
+    "kaynak": "W. H. Goodyear, Brooklyn Museum, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Osmanlıda fiyatı esnaf tek başına belirleyemezdi. Kadı belirlerdi.",
+   "caption": "Osmanlı'da fiyatı esnaf tek başına belirleyemezdi. Kadı belirlerdi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kürklü uzun kaftan ve büyük sarıklı, ayakta duran yaşlı bir kadı (tablo)",
+   "bolumler": [
+    {
+     "start": 11.08,
+     "end": 12.94,
+     "n": 4
+    },
+    {
+     "start": 12.94,
+     "end": 15.9,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_kazasker_rijks.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.14,
+     0,
+     0.86,
+     1
+    ],
+    "baslik": "Kazasker, yani en üst rütbeli kadı (tablo, 18. yüzyıl)",
+    "kaynak": "J. B. Vanmour, Rijksmuseum, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 26.11 23:01 (Siyah beyazla devam)"
+    }
+   }
+  },
+  {
+   "say": "Buna narh denirdi. Yani devletin koyduğu en yüksek fiyat.",
+   "caption": "Buna narh denirdi. Yani devletin koyduğu en yüksek fiyat.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Atın üstünde sorguçlu sadrazam, yanında yürüyen görevliler (gravür)",
+   "bolumler": [
+    {
+     "start": 15.9,
+     "end": 17.82,
+     "n": 4
+    },
+    {
+     "start": 17.82,
+     "end": 20.52,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_rycaut_vezir.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.372,
+     0.05,
+     0.828,
+     0.95
+    ],
+    "baslik": "Atlı sadrazam ve maiyeti (gravür, 1678)",
+    "kaynak": "P. Rycaut, Monarchia Turecka (1678), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Esnafın kârı da genellikle maliyetin onda biriydi. Narha uymayan ise bedelini ödüyordu.",
+   "caption": "Esnafın kârı da genellikle maliyetin onda biriydi. Narha uymayan ise bedelini ödüyordu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Fesli bir satıcı bardağa limonata dolduruyor, yanında fesli bir çocuk",
+   "bolumler": [
+    {
+     "start": 20.52,
+     "end": 22.2,
+     "n": 4
+    },
+    {
+     "start": 22.2,
+     "end": 24.5,
+     "n": 4
+    },
+    {
+     "start": 24.5,
+     "end": 26.72,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_limonataci_loc.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.349,
+     0.03,
+     0.751,
+     0.93
+    ],
+    "baslik": "İstanbul'da limonata ve su satıcısı",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "1767 yılında İstanbulda iskelelere gelen odunu toplayıp pahalıya satan",
+   "caption": "1767 yılında İstanbul'da iskelelere gelen odunu toplayıp pahalıya satan",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yukarıdan Haliç, iskeleler, gemiler ve kıyıdaki evler",
+   "bolumler": [
+    {
+     "start": 26.72,
+     "end": 30.36,
+     "n": 4
+    },
+    {
+     "start": 30.36,
+     "end": 32.48,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_panorama_berggren.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.324,
+     0.1,
+     0.676,
+     0.95
+    ],
+    "baslik": "Haliç ve iskeleler, 1880'ler",
+    "kaynak": "G. Berggren, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "18 kişi kalebent edildi. Yani bir kalede yaşamaya mahkûm edildi.",
+   "caption": "18 kişi kalebent edildi. Yani bir kalede yaşamaya mahkûm edildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kıyıda kemerli taş kale duvarları, önünde iskele ve deniz",
+   "bolumler": [
+    {
+     "start": 32.48,
+     "end": 34.82,
+     "n": 4
+    },
+    {
+     "start": 34.82,
+     "end": 36.42,
+     "n": 4
+    },
+    {
+     "start": 36.42,
+     "end": 37.76,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_seddulbahir_kartpostal.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.517,
+     0.05,
+     0.683,
+     1
+    ],
+    "baslik": "Seddülbahir Kalesi, Çanakkale (1915 civarı)",
+    "kaynak": "Daily Telegraph, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Koyun etini saklayıp pahalı satan üç kasap da İstanköy adasına gönderildi.",
+   "caption": "Koyun etini saklayıp pahalı satan üç kasap da İstanköy adasına gönderildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Haliç'te kürek çeken kayıklar ve arkada yelkenli gemiler (gravür)",
+   "bolumler": [
+    {
+     "start": 37.76,
+     "end": 39.16,
+     "n": 4
+    },
+    {
+     "start": 39.16,
+     "end": 40.62,
+     "n": 4
+    },
+    {
+     "start": 40.62,
+     "end": 42.76,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_kayiklar_halic_deamicis.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.323,
+     0.05,
+     0.677,
+     0.92
+    ],
+    "baslik": "Haliç'te kayıklar (gravür, 1883)",
+    "kaynak": "E. De Amicis, Costantinopoli (1883), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Kütahyada ise kuraklıkta tahılını satmayan tüccarların malı rızaları sorulmadan eski fiyattan halka satıldı.",
+   "caption": "Kütahya'da ise kuraklıkta tahılını satmayan tüccarların malı rızaları sorulmadan eski fiyattan halka satıldı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Köprüde yürüyen kalabalık, arkada camiler",
+   "bolumler": [
+    {
+     "start": 42.76,
+     "end": 44.82,
+     "n": 4
+    },
+    {
+     "start": 44.82,
+     "end": 47.2,
+     "n": 4
+    },
+    {
+     "start": 47.2,
+     "end": 50.24,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_galata_kitap.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.317,
+     0,
+     0.683,
+     0.97
+    ],
+    "baslik": "Galata Köprüsü'nde kalabalık",
+    "kaynak": "L. P. Benezet, The Story of the Map of Europe (1916), Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Hatta sorumluluk sadece esnafta değildi. 1634 yılında İstanbulda yağ bulunamaz oldu.",
+   "caption": "Hatta sorumluluk sadece esnafta değildi. 1634 yılında İstanbul'da yağ bulunamaz oldu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Katıra binmiş, büyük sarıklı yaşlı bir adam (gravür)",
+   "bolumler": [
+    {
+     "start": 50.24,
+     "end": 52.28,
+     "n": 4
+    },
+    {
+     "start": 52.28,
+     "end": 55.56,
+     "n": 4
+    },
+    {
+     "start": 55.56,
+     "end": 57.04,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_lorck_atli.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.161,
+     0.05,
+     0.839,
+     0.93
+    ],
+    "baslik": "Sarıklı bir Osmanlı atlısı (gravür, 1581)",
+    "kaynak": "Melchior Lorck, Statens Museum for Kunst, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Padişah Dördüncü Murad, İstanbul kadısını sorumlu tuttu ve denize atılmasını emretti.",
+   "caption": "Padişah Dördüncü Murad, İstanbul kadısını sorumlu tuttu ve denize atılmasını emretti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sorguçlu sarıklı, yeşil kaftanlı padişah portresi (gravür)",
+   "bolumler": [
+    {
+     "start": 57.04,
+     "end": 59.18,
+     "n": 4
+    },
+    {
+     "start": 59.18,
+     "end": 60.86,
+     "n": 4
+    },
+    {
+     "start": 60.86,
+     "end": 62.74,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_murad4_young.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.215,
+     0.08,
+     0.785,
+     0.95
+    ],
+    "baslik": "Padişah Dördüncü Murad (gravür, 1815)",
+    "kaynak": "John Young, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 26.11 23:01 (Siyah beyazla devam)"
+    }
+   }
+  },
+  {
+   "say": "Kadı son anda kurtuldu ve Kıbrısa sürüldü. Peki sizce",
+   "caption": "Kadı son anda kurtuldu ve Kıbrıs'a sürüldü. Peki sizce",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Otlar arasında yıkık taş kemerler ve uzakta eski bir kilise",
+   "bolumler": [
+    {
+     "start": 62.74,
+     "end": 64.4,
+     "n": 4
+    },
+    {
+     "start": 64.4,
+     "end": 67.26,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_magosa_1878.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.565,
+     0.12,
+     0.875,
+     0.93
+    ],
+    "baslik": "Magosa, Kıbrıs, 1878",
+    "kaynak": "John Thomson, Wellcome Collection, Commons",
+    "lisans": "CC BY 4.0"
+   }
+  },
+  {
+   "say": "bugün de malı saklayana böyle cezalar verilse fiyatlar düşer miydi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "bugün de malı saklayana böyle cezalar verilse fiyatlar düşer miydi? Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Köprüde yürüyen insanlar, arkada Yeni Cami ve Haliç",
+   "bolumler": [
+    {
+     "start": 67.26,
+     "end": 68.54,
+     "n": 4
+    },
+    {
+     "start": 68.54,
+     "end": 70.72,
+     "n": 4
+    },
+    {
+     "start": 70.72,
+     "end": 73.32,
+     "n": 4
+    },
+    {
+     "start": 73.32,
+     "end": 76.36,
+     "n": 4
+    },
+    {
+     "start": 76.36,
+     "end": 78.0,
+     "n": 4
+    },
+    {
+     "start": 78.0,
+     "end": 79.15,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/125_galata_koprusu.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.209,
+     0,
+     0.591,
+     0.93
+    ],
+    "baslik": "Galata Köprüsü, 1890'lar",
+    "kaynak": "Photochrom Print Collection, Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 26.11 23:01 (Siyah beyazla devam)"
+    }
+   }
+  }
+ ]
+}
