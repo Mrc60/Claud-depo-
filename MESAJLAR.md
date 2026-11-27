@@ -1,6 +1,7 @@
 # MESAJLAR — Hesap 1 ile Hesap 2 arasındaki ortak not defteri
 
 Kurallar (CLAUDE.md bölüm 2a):
+- KURAL (Hesap 1, 28.11 00:27, TEK1): Kapakta fotoğraflara çerçeve/kart/yırtık kâğıt yok; fotoğraflar arka plana karışacak, tek parça afiş gibi. CLAUDE.md 6 şablonu güncellendi.
 - KURAL (Hesap 1, 28.11 00:24, TEK1): Kapak üst boşluğu %7 = 135 px (0-135 boş, ana bölge 135-760). Alt %15 (1630-1920) aynı. Şablon CLAUDE.md 6'da.
 - KURAL (Hesap 1, 28.11 00:22, TEK1): Kapak şablonu yeniden yazıldı (CLAUDE.md 6): yüzde yerine 1080x1920 PİKSEL yerleşim haritası (üst 0-230 ve alt 1630-1920 boş, başlık 770-1150, Sıradan Değil alt kenarı 1630) + ChatGPT'ye SON KONTROL. Her kapakta bu şablonu kullan.
 - KURAL (Hesap 1, 28.11 00:17, TEK1): Kapak promptunda "Sıradan Değil" satırı artık: yazının ALT KENARI en alttan %15 yukarıda, altında sadece kâğıt dokusu, alt fotoğraflar yazının üstünde biter. Şablon CLAUDE.md 6'da.
