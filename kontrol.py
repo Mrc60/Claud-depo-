@@ -419,7 +419,7 @@ def set_kontrol(yol):
     for m in re.finditer(r"^===\s*(\w+)\s*===\s*\n(.*?)(?=^===|\Z)", t, re.M | re.S):
         alan[m.group(1).upper()] = m.group(2).strip()
     gerekli = ["YT_BASLIK", "YT_ACIKLAMA", "YT_ETIKET", "YT_SABIT",
-               "TT_ACIKLAMA", "TT_SABIT", "FBIG_ACIKLAMA", "IG_ACIKLAMA", "FBIG_SABIT", "X_ACIKLAMA"]
+               "TT_ACIKLAMA", "TT_SABIT", "FBIG_ACIKLAMA", "IG_ACIKLAMA", "FBIG_SABIT", "FB_SABIT", "X_ACIKLAMA"]
     for g in gerekli:
         if not alan.get(g):
             hata(f"{g} eksik (set tek seferde eksiksiz verilir)")
@@ -438,6 +438,8 @@ def set_kontrol(yol):
                 hata(f"{ad}: sabit yorumda kaynak/link olmaz")
             if len(v) > 120:
                 uyari(f"{ad}: sabit yorum uzun ({len(v)} karakter)")
+        if ad == "FB_SABIT" and "Yıldız" not in v:
+            hata("FB_SABIT: Yıldız satırı yok (TEK1 28.11.2026: FB sabit yorumu = soru + 'Bizi desteklemek isterseniz Yıldız gönderebilirsiniz ⭐')")
         if ad in ("TT_ACIKLAMA", "FBIG_ACIKLAMA", "IG_ACIKLAMA", "X_ACIKLAMA"):
             if LINK.search(v):
                 hata(f"{ad}: link var")

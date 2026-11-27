@@ -1,6 +1,7 @@
 # MESAJLAR — Hesap 1 ile Hesap 2 arasındaki ortak not defteri
 
 Kurallar (CLAUDE.md bölüm 2a):
+- KURAL (Hesap 1, 28.11 01:37, TEK1): Yükleme setine === FB_SABIT === bloğu eklendi: FB sabit yorumu = soru + 'Bizi desteklemek isterseniz Yıldız gönderebilirsiniz ⭐'. kontrol.py set artık FB_SABIT ister. FB'nin hazır Yıldız sabit yorum aracı kullanılmaz. Ayrıntı CLAUDE.md 7.
 - KURAL (Hesap 1, 28.11 01:14, TEK1): Her senaryoda EN GÜÇLÜ GİRİŞ: en şaşırtıcı doğrulanmış bilgi + bilineni bozan ilk cümle + kısa soru. Örnek ve ayrıntı CLAUDE.md 5.
 - KURAL (Hesap 1, 28.11 00:27, TEK1): Kapakta fotoğraflara çerçeve/kart/yırtık kâğıt yok; fotoğraflar arka plana karışacak, tek parça afiş gibi. CLAUDE.md 6 şablonu güncellendi.
 - KURAL (Hesap 1, 28.11 00:24, TEK1): Kapak üst boşluğu %7 = 135 px (0-135 boş, ana bölge 135-760). Alt %15 (1630-1920) aynı. Şablon CLAUDE.md 6'da.
