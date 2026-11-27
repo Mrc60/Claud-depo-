@@ -114,7 +114,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - KAPAK YAZI KALINLIĞI VE STİL (TEK1 kararı, 19.11.2026): ChatGPT bazen yazıyı İNCE yazıyor, bazen konuya alakasız süslü/dekoratif stil kullanıyor. Her kapak promptuna ekle: "Bütün başlık satırları KALIN ve dolgun (bold/heavy) olsun, ince yazı YOK. Tek bir yazı ailesi kullan; konunun ciddiyetine uygun olsun, süslü, el yazısı, dekoratif, fantastik ya da konu dışı stil KULLANMA."
 - KAPAK TALİMATI (TEK1 kararı, 04.11.2026, kesin): Her kapakta 2-3 arka plan görseli + başlık önerisi + ChatGPT talimatı ver. Talimatta: yazılar KALIN; başlık kapağın ORTASINDA (dikey ortada; üstte olursa bazı platformlarda kesik çıkıyor, üst ve alt %20'ye yazı koyma); dikkat çeken ama videoya ve fotoğrafa uyumlu renk (siyah-beyaz fotoğrafa altın sarısı/kehribar + beyaz, videodaki vurgu rengiyle aynı); fotoğrafı değiştirme/yeniden çizme, siyah-beyaz kalsın, hafif eski kâğıt dokusu; yazıyı kapatan koyu kutu yok, ince kontur/gölge olabilir.
 - KAPAK GÖRSELLERİ (TEK1 kararı, 12.11.2026, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Ekte verdiğim görsellerin hepsini kapakta kullan." Talimat tek görsele göre yazılmasın.
-- KAPAK ÜST VE ALT BOŞLUK (TEK1 kararı, 12.11.2026; alt boşluk 16.11.2026: %10, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %10'u kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma." Sebep: platformlar kapağın üstünü ve altını kesiyor.
+- KAPAK ÜST VE ALT BOŞLUK (TEK1 kararı, 12.11.2026; alt boşluk 16.11.2026: %10; 28.11.2026 00:12: alt %15, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %15'i kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma." Sebep: platformlar kapağın üstünü ve altını kesiyor.
 - KAPAK TALİMAT ŞABLONU (TEK1, 16.11.2026, kesin): ChatGPT kapak talimatı HER ZAMAN bu şablonla yazılır; köşeli parantezli yerler bölüme göre doldurulur:
 ```
 Bu kapağı KENDİ GÖRSEL ÜRETİM ARACINLA tasarla. Python, kod ya da basit kolaj kullanma; düz kâğıda fotoğraf dizme. Dikkat çekici, sinematik, profesyonel bir YouTube Shorts kapağı istiyorum.
@@ -129,14 +129,14 @@ Arka plan: Fotoğrafların arkasına [KONUYA UYGUN DEKOR, ör. eski İstanbul si
 
 Logo: Hiçbir logo veya arma koyma.
 
-Boşluklar: Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %10'u kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma.
+Boşluklar: Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %15'i kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma.
 
 Başlık: Kapağın TAM ORTASINDA (dikeyde yüksekliğin %40-60'ı arası, ekranın merkezi), çok büyük ve kalın, eski afiş harfleri gibi, iki satır. Fotoğraflar başlığın ÜSTÜNE ve ALTINA dağılsın; başlık alt kısma itilmesin:
 "[SATIR 1]
 [SATIR 2]"
 "[SATIR 1]" [RENK 1 adı (#KOD)], "[SATIR 2]" kırık beyaz yazıyla [RENK 2] fırça darbesi bandın üstünde. Yazılarda hafif yıpranma ve gölge olsun, ama net okunsun.
 
-Altta küçük ve kalın (alt %10'luk boşluğun üstünde): "Sıradan Değil[ · Seri: ...]"
+Altta küçük ve kalın (alt %15'lik boşluğun üstünde): "Sıradan Değil[ · Seri: ...]"
 
 Doğallık: Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın.
 

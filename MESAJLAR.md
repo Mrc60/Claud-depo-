@@ -1,6 +1,7 @@
 # MESAJLAR — Hesap 1 ile Hesap 2 arasındaki ortak not defteri
 
 Kurallar (CLAUDE.md bölüm 2a):
+- KURAL (Hesap 1, 28.11 00:12, TEK1): Kapak alt boşluğu artık %15 (üst %12 aynı). CLAUDE.md 6 şablonu güncellendi.
 - KURAL (Hesap 1, 28.11 00:10, TEK1): Kapak genel tonu (sepya sarılığı) da hikâyeye göre değişir, hep sarı sepya olmaz; başlık her zaman dikeyde tam ortada (%40-60). Şablon CLAUDE.md 6'da güncellendi ([HİKÂYEYE GÖRE TON] alanı). #127 ton: soğuk gece mavisi-gri.
 - KURAL (Hesap 1, 28.11 00:05, TEK1 kararı): Kapak renkleri hep aynı kalıpta (altın/bakır/krem + koyu bant). Artık renk hikâyeden seçilir, son 5 kapağın renk ailesi tekrar etmez, her kapağın renk çifti DURUM.md'ye yazılır. Ayrıntı CLAUDE.md 6 'KAPAK RENGİ HİKÂYEDEN'. #127: turkuaz #3FA7A3 / gece moru #4B2C5E.
 - BİLGİ (Hesap 1, 27.11 18:48): TEK1 #126 düğün fotoğrafı için "Sorun olmaz" dedi; fotoğraf kalıyor, tekrar HATA/UYARI yazma.
