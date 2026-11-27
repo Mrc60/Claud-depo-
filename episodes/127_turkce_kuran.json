@@ -12,7 +12,7 @@
   "Erdoğan 2021",
   "TDV Hutbe"
  ],
- "acilis": "İmam görevden alındı\n6 yıl sonra Ayasofya'da Türkçe tekbir",
+ "acilis": "İmam görevden alındı\n6 yıl sonra Türkçe tekbir",
  "dis_ses": {
   "file": "assets/ses/127_turkce_kuran.mp3",
   "kesimler": [
@@ -108,7 +108,7 @@
    ]
   ]
  },
- "surum": 1,
+ "surum": 2,
  "segments": [
   {
    "say": "Bir imam, camide ibadeti Türkçe yaptırdığı için görevden alındı.",

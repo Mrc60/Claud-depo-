@@ -34,7 +34,7 @@ for j,(bas,f) in enumerate(S):
       "image":{"local":B+p,"fit":"doldur","hiz":1.0,"kirp":kirp(f),"baslik":bs,"kaynak":kay,"lisans":lis,**({"onay":on} if on else {})}})
     kes.append([[round(bas,2),round(bit,2)]])
 ep={"series":"Sıradan Değil","voice":"ana","takip_cagrisi":False,"episode":127,"slug":"turkce_kuran","title":"1932'de camide Türkçe Kur'an ve hutbe","youtube_title":"","youtube_description":"",
-"sources":["Dikici 2006","Erdoğan 2021","TDV Hutbe"],"acilis":"İmam görevden alındı\n6 yıl sonra Ayasofya'da Türkçe tekbir",
-"dis_ses":{"file":"assets/ses/127_turkce_kuran.mp3","kesimler":kes},"surum":1,"segments":segs}
+"sources":["Dikici 2006","Erdoğan 2021","TDV Hutbe"],"acilis":"İmam görevden alındı\n6 yıl sonra Türkçe tekbir",
+"dis_ses":{"file":"assets/ses/127_turkce_kuran.mp3","kesimler":kes},"surum":2,"segments":segs}
 json.dump(ep,open('episodes/127_turkce_kuran.json','w'),ensure_ascii=False,indent=1)
 for s,k in zip(segs,kes): print(k[0], round(k[0][1]-k[0][0],1), s['image']['local'][16:40], '|', s['caption'][:90])
