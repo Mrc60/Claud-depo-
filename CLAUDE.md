@@ -136,7 +136,7 @@ Başlık: Kapağın TAM ORTASINDA (dikeyde yüksekliğin %40-60'ı arası, ekran
 [SATIR 2]"
 "[SATIR 1]" [RENK 1 adı (#KOD)], "[SATIR 2]" kırık beyaz yazıyla [RENK 2] fırça darbesi bandın üstünde. Yazılarda hafif yıpranma ve gölge olsun, ama net okunsun.
 
-Altta küçük ve kalın (alt %15'lik boşluğun üstünde): "Sıradan Değil[ · Seri: ...]"
+Altta küçük ve kalın: "Sıradan Değil[ · Seri: ...]". Bu yazının ALT KENARI kapağın en altından yüksekliğin %15'i kadar yukarıda olsun; yazının altında sadece kâğıt dokusu kalsın. Alttaki fotoğraflar da bu yazının üstünde bitsin.
 
 Doğallık: Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın.
 
@@ -144,6 +144,7 @@ Cevabını bana kopyalanabilir formatta ver.
 ```
 - KAPAK YAPAY ZEKÂ GİBİ GÖRÜNMESİN (TEK1 kararı, 25.11.2026, kesin): Her ChatGPT kapak promptuna şunu yaz: "Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın." (Şablonda 'Doğallık' satırı.)
 - KAPAK TASARIMI (TEK1, 16.11.2026): Talimatta ChatGPT'nin KENDİ görsel üretim aracıyla sinematik, eski gazete/afiş havasında tasarlaması istenir; "sadece yerleştir" yazılırsa kodla düz kolaj yapıyor (#93'te basit çıktı). Gerçek fotoğraflardaki kişiler değiştirilmez, sahte kişi/logo üretilmez.
+- KAPAK ALT YAZI (TEK1, 28.11.2026 00:17): #127 çıktısında "Sıradan Değil" ve alt fotoğraflar alt %15'e taştı. Şablona "Sıradan Değil yazısının alt kenarı en alttan %15 yukarıda" cümlesi eklendi; her promptta aynen kullan.
 - KAPAK TONU VE YAZI YERİ (TEK1 kararı, 28.11.2026 00:08, kesin): (1) Kapağın genel kâğıt/fotoğraf tonu da hikâyeye göre değişir; her kapak sarı-kahverengi sepya olmaz (#127 ChatGPT çıktısında yine sarı sepya ve başlık altta çıktı). Şablondaki [HİKÂYEYE GÖRE TON] alanını her seferinde doldur, DURUM.md'ye tonu da yaz. (2) Başlık HER ZAMAN dikeyde tam ortada (%40-60); fotoğraflar başlığın üstüne ve altına dağılır.
 - KAPAK RENGİ HİKÂYEDEN (TEK1 kararı, 28.11.2026, kesin: "Kapak renkleri hep aynı oluyor, hikâyeye göre ayarla"): Son kapaklar hep aynı kalıptaydı: sarımsı/metalik bir renk (altın, bakır, krem) + koyu bant (lacivert, zeytin, bordo) + beyaz yazı. Önlem: (1) Rengi hikâyenin kendi nesnesinden/anından seç (ör. Kadir Gecesi = gece moru, çini = turkuaz) ve talimatta gerekçeyi yaz. (2) Önce DURUM.md'den son 5 kapağın renklerini oku; aynı renk AİLESİ (altın/sarı/bakır/krem ya da lacivert/zeytin/bordo) art arda gelmez. (3) Her kapağın renk çiftini DURUM.md'ye "kapak renk: ad #KOD / ad #KOD" diye yaz ki diğer hesap görsün.
 - KAPAK RENGİ (05.11.2026, hata dersi): Kapak yazı renklerini her videoda konuya ve fotoğrafa göre ayrı seç; hep beyaz + altın yazma. Arka arkaya iki kapakta aynı renk çifti olmasın. Talimatta rengin adını ve kod değerini (#RRGGBB) yaz, neden seçtiğini bir cümleyle söyle (ör. kaymak: krem + bordo, alfabe: taş grisi + gök mavisi).
