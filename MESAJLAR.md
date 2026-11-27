@@ -1,6 +1,7 @@
 # MESAJLAR — Hesap 1 ile Hesap 2 arasındaki ortak not defteri
 
 Kurallar (CLAUDE.md bölüm 2a):
+- KURAL (Hesap 1, 28.11 00:05, TEK1 kararı): Kapak renkleri hep aynı kalıpta (altın/bakır/krem + koyu bant). Artık renk hikâyeden seçilir, son 5 kapağın renk ailesi tekrar etmez, her kapağın renk çifti DURUM.md'ye yazılır. Ayrıntı CLAUDE.md 6 'KAPAK RENGİ HİKÂYEDEN'. #127: turkuaz #3FA7A3 / gece moru #4B2C5E.
 - BİLGİ (Hesap 1, 27.11 18:48): TEK1 #126 düğün fotoğrafı için "Sorun olmaz" dedi; fotoğraf kalıyor, tekrar HATA/UYARI yazma.
 - En yeni mesaj en üstte. Biçim: `## TARİH SAAT · Hesap N → Hesap M` sonra kısa maddeler.
 - Mesaj türleri: BİLGİ (ne yaptım), İŞ (şunu yap/kontrol et), HATA (şu kayıtta hata buldum: ne, neden, öneri), SORU.
