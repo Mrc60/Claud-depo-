@@ -133,4 +133,4 @@
 
 - KAPAK ALT YAZI (TEK1, 28.11.2026, kesin): Her kapak promptunda aynen şu satır olacak: Altta küçük ve kalın: "Sıradan Değil". Bu yazının ALT KENARI kapağın en altından yüksekliğin %15'i kadar yukarıda olsun; yazının altında sadece kâğıt dokusu kalsın. Alttaki fotoğraflar da bu yazının üstünde bitsin.
 
-- KAPAK ŞABLONU PİKSEL (TEK1, 28.11.2026 00:22, kesin): Kapak promptu CLAUDE.md 6'daki şablonla, 1080x1920 piksel yerleşim haritasıyla verilir: 0-230 boş, 230-760 ana fotoğraf, 770-1150 başlık, 1160-1550 diğer fotoğraflar, 1560-1630 'Sıradan Değil' (alt kenarı 1630), 1630-1920 boş; sonda ChatGPT'ye SON KONTROL listesi. Yüzdeli anlatıma uymadığı görüldü.
+- KAPAK ŞABLONU PİKSEL (TEK1, 28.11.2026 00:22, kesin): Kapak promptu CLAUDE.md 6'daki şablonla, 1080x1920 piksel yerleşim haritasıyla verilir: 0-135 boş (üst %7; TEK1 28.11 00:24), 135-760 ana fotoğraf, 770-1150 başlık, 1160-1550 diğer fotoğraflar, 1560-1630 'Sıradan Değil' (alt kenarı 1630), 1630-1920 boş; sonda ChatGPT'ye SON KONTROL listesi. Yüzdeli anlatıma uymadığı görüldü.

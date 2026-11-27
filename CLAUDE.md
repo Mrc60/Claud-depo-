@@ -114,7 +114,7 @@ Kalite ve doğrulama kurallarından ödün verme; sadece boşuna harcamayı kes.
   - KAPAK YAZI KALINLIĞI VE STİL (TEK1 kararı, 19.11.2026): ChatGPT bazen yazıyı İNCE yazıyor, bazen konuya alakasız süslü/dekoratif stil kullanıyor. Her kapak promptuna ekle: "Bütün başlık satırları KALIN ve dolgun (bold/heavy) olsun, ince yazı YOK. Tek bir yazı ailesi kullan; konunun ciddiyetine uygun olsun, süslü, el yazısı, dekoratif, fantastik ya da konu dışı stil KULLANMA."
 - KAPAK TALİMATI (TEK1 kararı, 04.11.2026, kesin): Her kapakta 2-3 arka plan görseli + başlık önerisi + ChatGPT talimatı ver. Talimatta: yazılar KALIN; başlık kapağın ORTASINDA (dikey ortada; üstte olursa bazı platformlarda kesik çıkıyor, üst ve alt %20'ye yazı koyma); dikkat çeken ama videoya ve fotoğrafa uyumlu renk (siyah-beyaz fotoğrafa altın sarısı/kehribar + beyaz, videodaki vurgu rengiyle aynı); fotoğrafı değiştirme/yeniden çizme, siyah-beyaz kalsın, hafif eski kâğıt dokusu; yazıyı kapatan koyu kutu yok, ince kontur/gölge olabilir.
 - KAPAK GÖRSELLERİ (TEK1 kararı, 12.11.2026, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Ekte verdiğim görsellerin hepsini kapakta kullan." Talimat tek görsele göre yazılmasın.
-- KAPAK ÜST VE ALT BOŞLUK (TEK1 kararı, 12.11.2026; alt boşluk 16.11.2026: %10; 28.11.2026 00:12: alt %15, kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %15'i kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma." Sebep: platformlar kapağın üstünü ve altını kesiyor.
+- KAPAK ÜST VE ALT BOŞLUK (TEK1 kararı, 12.11.2026; alt boşluk 16.11.2026: %10; 28.11.2026: alt %15, üst %7 (135 px), kesin): ChatGPT kapak talimatına HER ZAMAN şunu yaz: "Kapağın üst kısmında yüksekliğin %7'si, alt kısmında %15'i kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma." Sebep: platformlar kapağın üstünü ve altını kesiyor.
 - KAPAK TALİMAT ŞABLONU (TEK1, 16.11.2026; 28.11.2026 00:22 yeniden yazıldı: ChatGPT yüzdeli boşluklara uymadı (#127 üstte siluet/ay, altta yazı taştı); şablon artık 1080x1920 PİKSEL yerleşim haritası ve SON KONTROL listesiyle, kesin): ChatGPT kapak talimatı HER ZAMAN bu şablonla yazılır; köşeli parantezli yerler bölüme göre doldurulur:
 ```
 Bu kapağı KENDİ GÖRSEL ÜRETİM ARACINLA tasarla. Python, kod ya da basit kolaj kullanma. Dikkat çekici, sinematik, profesyonel bir YouTube Shorts kapağı istiyorum.
@@ -122,8 +122,8 @@ Bu kapağı KENDİ GÖRSEL ÜRETİM ARACINLA tasarla. Python, kod ya da basit ko
 ÖLÇÜ: Dikey, 1080 x 1920 piksel (9:16).
 
 YERLEŞİM HARİTASI (yukarıdan aşağıya, piksel olarak; buna AYNEN uy):
-- 0-230 px: BOŞ BÖLGE. Sadece düz kâğıt dokusu ya da düz gökyüzü. Burada yazı, fotoğraf, logo, ay, minare, kubbe ya da siluet OLMAYACAK.
-- 230-760 px: [ÜST BÖLGE: ana fotoğraf ve dekor].
+- 0-135 px: BOŞ BÖLGE. Sadece düz kâğıt dokusu ya da düz gökyüzü. Burada yazı, fotoğraf, logo, ay, minare, kubbe ya da siluet OLMAYACAK.
+- 135-760 px: [ÜST BÖLGE: ana fotoğraf ve dekor].
 - 770-1150 px: BAŞLIK (kapağın tam ortası).
 - 1160-1550 px: [ALT BÖLGE: diğer fotoğraflar].
 - 1560-1630 px: "Sıradan Değil" yazısı. Yazının alt kenarı 1630. pikselde bitsin.
@@ -133,7 +133,7 @@ STİL: 1900'lerin başından kalma eski bir gazete ya da afiş havası. Genel re
 
 FOTOĞRAFLAR: Ekteki [N] gerçek fotoğrafın HEPSİNİ kullan; yırtık kâğıt parçaları ya da eski fotoğraf kartları gibi yerleştir. [ANA FOTOĞRAF] en büyük olsun ve üst bölgede dursun; [DİĞER FOTOĞRAFLAR] alt bölgede dursun. Fotoğraflardaki kişileri, yüzleri, kıyafetleri ve mekânları DEĞİŞTİRME; yeni kişi ÜRETME. Yüzler kesilmesin. Fotoğraflar siyah-beyaz kalsın (genel tona uyabilir), renklendirme yok.
 
-DEKOR: [KONUYA UYGUN DEKOR] eklenebilir, ama sadece 230-760 px arasında. Dekorda insan figürü üretme. Logo ya da arma koyma.
+DEKOR: [KONUYA UYGUN DEKOR] eklenebilir, ama sadece 135-760 px arasında. Dekorda insan figürü üretme. Logo ya da arma koyma.
 
 BAŞLIK: 770-1150 px arasında, çok büyük, iki satır:
 "[SATIR 1]
@@ -146,7 +146,7 @@ ALT YAZI: Küçük ve kalın: "Sıradan Değil". Bu yazının ALT KENARI kapağ�
 
 DOĞALLIK: Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın.
 
-SON KONTROL (göndermeden önce kendin bak): (1) En üstteki 230 pikselde hiçbir şey yok mu? (2) En alttaki 290 pikselde hiçbir şey yok mu? (3) Başlık tam ortada mı? (4) Ekteki fotoğrafların hepsi var mı? Biri tutmuyorsa düzelt, sonra gönder.
+SON KONTROL (göndermeden önce kendin bak): (1) En üstteki 135 pikselde hiçbir şey yok mu? (2) En alttaki 290 pikselde hiçbir şey yok mu? (3) Başlık tam ortada mı? (4) Ekteki fotoğrafların hepsi var mı? Biri tutmuyorsa düzelt, sonra gönder.
 
 Cevabını bana kopyalanabilir formatta ver.
 ```
