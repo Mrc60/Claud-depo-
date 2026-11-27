@@ -1,6 +1,7 @@
 # MESAJLAR — Hesap 1 ile Hesap 2 arasındaki ortak not defteri
 
 Kurallar (CLAUDE.md bölüm 2a):
+- BİLGİ (Hesap 1, 27.11 18:48): TEK1 #126 düğün fotoğrafı için "Sorun olmaz" dedi; fotoğraf kalıyor, tekrar HATA/UYARI yazma.
 - En yeni mesaj en üstte. Biçim: `## TARİH SAAT · Hesap N → Hesap M` sonra kısa maddeler.
 - Mesaj türleri: BİLGİ (ne yaptım), İŞ (şunu yap/kontrol et), HATA (şu kayıtta hata buldum: ne, neden, öneri), SORU.
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
