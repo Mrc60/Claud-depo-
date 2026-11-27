@@ -1,0 +1,682 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 127,
+ "slug": "turkce_kuran",
+ "title": "1932'de camide Türkçe Kur'an ve hutbe",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Dikici 2006",
+  "Erdoğan 2021",
+  "TDV Hutbe"
+ ],
+ "acilis": "İmam görevden alındı\n6 yıl sonra Ayasofya'da Türkçe tekbir",
+ "dis_ses": {
+  "file": "assets/ses/127_turkce_kuran.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     5.48
+    ]
+   ],
+   [
+    [
+     5.48,
+     14.0
+    ]
+   ],
+   [
+    [
+     14.0,
+     18.6
+    ]
+   ],
+   [
+    [
+     18.6,
+     27.26
+    ]
+   ],
+   [
+    [
+     27.26,
+     32.98
+    ]
+   ],
+   [
+    [
+     32.98,
+     38.24
+    ]
+   ],
+   [
+    [
+     38.24,
+     42.9
+    ]
+   ],
+   [
+    [
+     42.9,
+     47.48
+    ]
+   ],
+   [
+    [
+     47.48,
+     52.22
+    ]
+   ],
+   [
+    [
+     52.22,
+     57.92
+    ]
+   ],
+   [
+    [
+     57.92,
+     63.82
+    ]
+   ],
+   [
+    [
+     63.82,
+     69.8
+    ]
+   ],
+   [
+    [
+     69.8,
+     76.0
+    ]
+   ],
+   [
+    [
+     76.0,
+     82.56
+    ]
+   ],
+   [
+    [
+     82.56,
+     87.48
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Bir imam, camide ibadeti Türkçe yaptırdığı için görevden alındı.",
+   "caption": "Bir imam, camide ibadeti Türkçe yaptırdığı için görevden alındı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Fesli ve sarıklı adamlar ayakta ellerini açmış dua ediyor",
+   "bolumler": [
+    {
+     "start": 0,
+     "end": 2.18,
+     "n": 4
+    },
+    {
+     "start": 2.18,
+     "end": 5.15,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_dua_cemaat.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.189,
+     0,
+     0.611,
+     1
+    ],
+    "baslik": "Dua eden cemaat, 1920'ler",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Altı yıl sonra ise Ayasofyada tekbir Türkçe getirildi. Tanrı uludur. Peki bu altı yılda ne değişmişti?",
+   "caption": "Altı yıl sonra ise Ayasofya'da tekbir Türkçe getirildi. Tanrı uludur. Peki bu altı yılda ne değişmişti?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayasofya'nın içinde yanan avizeler ve kemerler",
+   "bolumler": [
+    {
+     "start": 5.48,
+     "end": 6.66,
+     "n": 4
+    },
+    {
+     "start": 6.66,
+     "end": 9.42,
+     "n": 4
+    },
+    {
+     "start": 9.42,
+     "end": 12.2,
+     "n": 4
+    },
+    {
+     "start": 12.2,
+     "end": 14.0,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_ayasofya_1935_dassonville.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.276,
+     0.04,
+     0.724,
+     0.88
+    ],
+    "baslik": "Ayasofya'nın içi, 1935, avizeler yanıyor",
+    "kaynak": "Achille Dassonville, MMSH Phonothèque (MédiHAL 4161210), Commons",
+    "lisans": "Licence Ouverte"
+   }
+  },
+  {
+   "say": "Bu olay 1926da Göztepede yaşanmıştı.",
+   "caption": "Bu olay 1926'da Göztepe'de yaşanmıştı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Cami kapısı önünde merdivenlerde oturan ve duran adamlar",
+   "bolumler": [
+    {
+     "start": 14.0,
+     "end": 18.58,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_cami_kapisi.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.251,
+     0,
+     0.849,
+     1
+    ],
+    "baslik": "Bir caminin son cemaat yeri, 19. yüzyıl",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "1932 Ramazanında ise Atatürkün isteğiyle camilerde Kuran önce Arapça, ardından Türkçe mealiyle okunmaya başladı.",
+   "caption": "1932 Ramazanında ise Atatürk'ün isteğiyle camilerde Kur'an önce Arapça, ardından Türkçe mealiyle okunmaya başladı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sultanahmet Camii minareleri ve önündeki geniş meydanda yürüyen insanlar",
+   "bolumler": [
+    {
+     "start": 18.6,
+     "end": 22.1,
+     "n": 4
+    },
+    {
+     "start": 22.1,
+     "end": 24.84,
+     "n": 4
+    },
+    {
+     "start": 24.84,
+     "end": 27.26,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_sultanahmet.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.283,
+     0.001,
+     0.717,
+     0.999
+    ],
+    "baslik": "Sultanahmet Camii ve meydanı, 19. yüzyıl sonu",
+    "kaynak": "Sébah & Joaillier, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "22 Ocakta Yerebatan Camiinde Hafız Yaşar, Yasin suresini okudu.",
+   "caption": "22 Ocak'ta Yerebatan Camii'nde Hafız Yaşar, Yasin suresini okudu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayasofya'nın içinde mermer sütunlar, kemerler ve hat levhası",
+   "bolumler": [
+    {
+     "start": 27.26,
+     "end": 30.06,
+     "n": 4
+    },
+    {
+     "start": 30.06,
+     "end": 32.98,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_ayasofya_sebah_b.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.256,
+     0.04,
+     0.644,
+     0.93
+    ],
+    "baslik": "Ayasofya'nın içi, 1888",
+    "kaynak": "Sébah & Joaillier, Library of Congress (LCCN2003680775)",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Cami doldu. İçeri giremeyenler hafızın sokakta da okumasını istedi.",
+   "caption": "Cami doldu. İçeri giremeyenler hafızın sokakta da okumasını istedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sokakta fesli ve şapkalı kalabalık bir halk",
+   "bolumler": [
+    {
+     "start": 32.98,
+     "end": 35.5,
+     "n": 4
+    },
+    {
+     "start": 35.5,
+     "end": 38.24,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_kalabalik.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.03,
+     0,
+     0.97,
+     0.94
+    ],
+    "baslik": "İstanbul'da kalabalık, 20. yüzyıl başı",
+    "kaynak": "Wikimedia Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Kadir Gecesinde Ayasofyada mevlit okundu. Kuranın Türkçe meali dinletildi",
+   "caption": "Kadir Gecesi'nde Ayasofya'da mevlit okundu. Kur'an'ın Türkçe meali dinletildi",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayasofya'nın büyük kubbesi, kemerleri ve hat levhaları",
+   "bolumler": [
+    {
+     "start": 38.24,
+     "end": 40.42,
+     "n": 4
+    },
+    {
+     "start": 40.42,
+     "end": 42.28,
+     "n": 4
+    },
+    {
+     "start": 42.28,
+     "end": 42.9,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_ayasofya_sebah_nef.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.307,
+     0.04,
+     0.693,
+     0.92
+    ],
+    "baslik": "Ayasofya'nın içi, 1888",
+    "kaynak": "Sébah & Joaillier, Library of Congress (LCCN2003680779)",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "ve tekbir Türkçe getirildi. Tanrı uludur.",
+   "caption": "ve tekbir Türkçe getirildi. Tanrı uludur.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayasofya'nın içinde hat levhaları ve sarkan avizeler",
+   "bolumler": [
+    {
+     "start": 42.9,
+     "end": 45.8,
+     "n": 4
+    },
+    {
+     "start": 45.8,
+     "end": 47.48,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_ayasofya_1915.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.084,
+     0.001,
+     0.916,
+     0.999
+    ],
+    "baslik": "Ayasofya'nın içi, 1915",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Tören radyodan canlı yayımlandı. Atatürk de dinledi. İki gün sonra",
+   "caption": "Tören radyodan canlı yayımlandı. Atatürk de dinledi. İki gün sonra",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Bir radyonun başında toplanmış gülümseyen gençler",
+   "bolumler": [
+    {
+     "start": 47.48,
+     "end": 49.94,
+     "n": 4
+    },
+    {
+     "start": 49.94,
+     "end": 51.58,
+     "n": 4
+    },
+    {
+     "start": 51.58,
+     "end": 52.22,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_radyo_dinleyenler.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.211,
+     0,
+     0.789,
+     1
+    ],
+    "baslik": "Radyo dinleyen gençler (dergi kapağı, 1940'lar)",
+    "kaynak": "Basın Yayın Genel Müdürlüğü, Commons",
+    "lisans": "Kamu malı (bilinen kısıtlama yok)",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Hafız Sadettin Kaynak, Süleymaniye Camiinde hutbenin tamamını Türkçe okudu.",
+   "caption": "Hafız Sadettin Kaynak, Süleymaniye Camii'nde hutbenin tamamını Türkçe okudu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Süleymaniye Camii'nin kubbeleri ve minareleri, önünde Haliç",
+   "bolumler": [
+    {
+     "start": 52.22,
+     "end": 54.62,
+     "n": 4
+    },
+    {
+     "start": 54.62,
+     "end": 57.92,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_suleymaniye.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.252,
+     0.05,
+     0.648,
+     0.93
+    ],
+    "baslik": "Süleymaniye Camii, 20. yüzyıl başı",
+    "kaynak": "Library of Congress, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Peki sonrasında ne oldu? Süleymaniyedeki tamamen Türkçe hutbe devam etmedi.",
+   "caption": "Peki sonrasında ne oldu? Süleymaniye'deki tamamen Türkçe hutbe devam etmedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayasofya'da uzun merdivenli mermer minber ve hat levhaları",
+   "bolumler": [
+    {
+     "start": 57.92,
+     "end": 60.3,
+     "n": 4
+    },
+    {
+     "start": 60.3,
+     "end": 62.54,
+     "n": 4
+    },
+    {
+     "start": 62.54,
+     "end": 63.82,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_ayasofya_minber.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.208,
+     0.03,
+     0.892,
+     0.95
+    ],
+    "baslik": "Ayasofya'nın minberi, 19. yüzyıl",
+    "kaynak": "Cornell University Library, Commons",
+    "lisans": "Kamu malı (bilinen kısıtlama yok)"
+   }
+  },
+  {
+   "say": "Ayetler ve hadisler Arapça okunurken hutbenin geri kalanı Türkçe okunmaya devam etti.",
+   "caption": "Ayetler ve hadisler Arapça okunurken hutbenin geri kalanı Türkçe okunmaya devam etti.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Oymalı ahşap minber ve duvarda hat yazıları",
+   "bolumler": [
+    {
+     "start": 63.82,
+     "end": 65.5,
+     "n": 4
+    },
+    {
+     "start": 65.5,
+     "end": 67.62,
+     "n": 4
+    },
+    {
+     "start": 67.62,
+     "end": 69.8,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_bursa_ulucami_minber.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.221,
+     0.05,
+     0.779,
+     0.86
+    ],
+    "baslik": "Bursa Ulu Cami minberi, 19. yüzyıl sonu",
+    "kaynak": "Sébah & Joaillier, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Bugün de hutbeler Türkçe okunuyor. Ama tekbir yine Arapça. Allahu Ekber.",
+   "caption": "Bugün de hutbeler Türkçe okunuyor. Ama tekbir yine Arapça. Allahu Ekber.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ayasofya'nın içinde yuvarlak hat levhası, kemerler ve avizeler",
+   "bolumler": [
+    {
+     "start": 69.8,
+     "end": 71.12,
+     "n": 4
+    },
+    {
+     "start": 71.12,
+     "end": 73.24,
+     "n": 4
+    },
+    {
+     "start": 73.24,
+     "end": 76.0,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_ayasofya_ic.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.137,
+     0,
+     0.863,
+     1
+    ],
+    "baslik": "Ayasofya'nın içi, 1900'ler",
+    "kaynak": "Sébah & Joaillier, Library of Congress",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Sizce ibadetin Türkçe yapılması kalıcı olmalı mıydı? Düşüncelerinizi yorumlarda paylaşın.",
+   "caption": "Sizce ibadetin Türkçe yapılması kalıcı olmalı mıydı? Düşüncelerinizi yorumlarda paylaşın.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Beyazıt Camii minaresi ve meydanda yürüyen insanlar",
+   "bolumler": [
+    {
+     "start": 76.0,
+     "end": 78.32,
+     "n": 4
+    },
+    {
+     "start": 78.32,
+     "end": 80.88,
+     "n": 4
+    },
+    {
+     "start": 80.88,
+     "end": 82.56,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_bayezid.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.271,
+     0.04,
+     0.629,
+     0.91
+    ],
+    "baslik": "Beyazıt Camii ve meydanı, 1912",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  },
+  {
+   "say": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Taş kemerli külliye binaları ve önünde boş sokak",
+   "bolumler": [
+    {
+     "start": 82.56,
+     "end": 85.28,
+     "n": 4
+    },
+    {
+     "start": 85.28,
+     "end": 87.48,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/127_suleymaniye_kulliye.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.299,
+     0.04,
+     0.701,
+     0.94
+    ],
+    "baslik": "Süleymaniye külliyesi, 19. yüzyıl sonu",
+    "kaynak": "Sébah & Joaillier, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 27.11 11:46 (görsel planı: Tamam yap)"
+    }
+   }
+  }
+ ]
+}
