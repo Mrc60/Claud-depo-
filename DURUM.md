@@ -13,6 +13,7 @@
 ## GECE KONTROLÜ (27.11.2026 05:48, Hesap 2)
 - Hesap 1: 75 kayıt etiketli; kontrol.py #123-#126 bolum/set 0 hata; defter değişmedi. HATA: #125 "eski fiyattan" (kaynakta "rayiç fiyattan"); #123 vagon sahnesinde Washington 1930 fotoğrafı. UYARI: #126 düğün fotoğrafı Fevzi Çakmak'ın kızının düğünü; tek kaynaklı ayrıntılar; cümle-kaynak tablosu yok. Video/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
 - KARAR (TEK1 27.11 18:48): #126 düğün fotoğrafı (Fevzi Çakmak'ın kızının düğünü) olduğu gibi kalıyor: "Sorun olmaz". #125 fiyat ifadesi ve #123 görsel kararı bekliyor.
+- KARAR (TEK1 27.11 23:58): #127 sabit yorumu soru değil: "Lütfen düşüncelerinizi hakaret içermeden yazınız." (videodaki kapanış sorusu tartışma çıkarır diye). Ses değişmedi.
 - TEK1'E SORULACAK (yayından önce): #125 fiyat ifadesi, #123 görsel, #126 düğün fotoğrafı. Bugün (27.11) yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (27.11.2026 04:40, Hesap 1)
