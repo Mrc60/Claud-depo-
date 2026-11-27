@@ -103,7 +103,7 @@ Ton:
 
 Gönderim:
 - Gönderimden hemen önce `git pull` + yorumlar/defter.json kontrolü (diğer hesap cevaplamış mı).
-- Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 10'luk parti.
+- Cevapları TEK TEK gönder; her dönüşte isReply: true kontrol; en fazla 5'lik parti, aralarında 2-3 dk; Instagram'a 11.12.2026'ya kadar araçla cevap yok (CLAUDE.md 8).
 - TEK1 bir taslağı beğenmezse onu gönderme, diğerlerini gönder, yeni taslak ver.
 - Gönderilenleri deftere (yorum_id, kullanıcı, cevap_id, sinir_notu) yaz ve GitHub'a gönder.
 - Sadece ana yorumlar; sabit yorum altındaki yanıtlara ve yanıtların yanıtlarına cevap yok.

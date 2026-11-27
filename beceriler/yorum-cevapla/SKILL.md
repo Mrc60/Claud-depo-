@@ -52,7 +52,7 @@ Yorum türüne göre:
 ## 6. Gönderme (sadece Zernio, sadece TEK1 onayından sonra)
 - Onay sadece gösterilen taslakları kapsar.
 - Göndermeden hemen önce yeniden kontrol et (son 10 dk önbellekte görünmeyebilir, bunu belirt).
-- Bir seferde en fazla 10 cevap, aralarında birkaç saniye.
+- INSTAGRAM: 11.12.2026'ya kadar araçla cevap YOK (27.11 geçici işlem kısıtlaması); taslağı ver, TEK1 elle cevaplar. Diğer platformlar ve sonrası: bir seferde en fazla 5 cevap, aralarında 2-3 dk.
 - Her gönderimde comment_id ver, dönüşte isReply: true kontrol et.
 - Her gönderilen cevabı defter.json'a yaz: {yorum_id, kullanici, yorum, cevap_id, tarih}.
 - Instagram'da beğeni yok. Profillere girme, kimseyi takip etme.

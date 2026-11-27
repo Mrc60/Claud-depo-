@@ -192,7 +192,7 @@ Cevabını bana kopyalanabilir formatta ver.
   - Başka yöre/topluluk anlatana ("bizde de vardı"): onaylama ya da reddetme, teşekkür et. Kaynakta olmayan yeri doğrulama.
   - Konu dışı, siyasi, hakaret: cevap yok, listede "atlandı" diye işaretle.
 - Teşekkürü her cevaba koyma. Yorumcu nazik ise teşekkür et, değilse sadece yoruma karşılık ver. Cevaplar birbirine benzemesin.
-- Bir seferde en fazla 10 cevap, aralarına birkaç saniye (toplu gönderim spam riski).
+- INSTAGRAM KISITLAMA (TEK1, 27.11.2026, kesin): IG hesabına 'geçici işlem kısıtlaması' geldi (muhtemel sebep: Zernio ile kısa sürede toplu cevap). 11.12.2026'ya kadar Instagram'a Zernio/araçla cevap GÖNDERİLMEZ; taslak hazırlanır, TEK1 uygulamadan elle cevaplar. Sonra ve FB/YT/TT'de: bir seferde en fazla 5 cevap, aralarında 2-3 dk. Tekrar kısıtlama gelirse IG'de araçla cevap tamamen biter. IG'ye bağlı kullanılmayan araçlar (Buffer, Metricool, eski Zernio) kaldırılsın (TEK1 yapar).
 - Listeyi en yeniden eskiye ver ve bunu listenin başında belirt (Instagram ekran sırası herkese aynı değil).
 - Öncelik: soru soranlar ve en yeni yorumlar.
 - Kullanıcıların birbiriyle tartışmasına (etnik köken, siyaset vb.) hiç girme.
@@ -343,6 +343,14 @@ Cevabını bana kopyalanabilir formatta ver.
 - GEÇİŞTİRME ÜÇÜNCÜ KEZ: maktas94 "kıbrıs halkı Türkiyeyi sevmez, hepsi rumu çok sever" yazdı; taslağım videoyu anlattı ("Biz bu videoda adanın ... anlatmak istedik"). TEK1: "kullanıcı ne diyor sen ne yazıyorsun". Önlem: INCE_AYARLAR E'deki "yorumcuya mı, videoya mı?" sorusu HER taslakta, gösterilmeden önce.
 - AKŞAM TEKRARI (14.11.2026 17:53, TEK1 yakaladı: "Yorum kurallarını okudun mu"): Sabah aynı dersi yazmama rağmen akşamki yorum işinde SKILL.md ve INCE_AYARLAR E'yi yeniden açmadan taslak yazdım; kışkırtıcı yanıta gereksiz teşekkür ve sabahki cevaba benzeyen, asıl söylenene değmeyen cümle çıktı. Önlem: her yorum işinde git pull'dan hemen sonra ikisini aç; raporun ilk satırına "Okundu: SKILL.md, INCE_AYARLAR E" yaz.
 - ZERNIO HESAP NUMARASI DEĞİŞTİ: Kayıtlı IG numarasıyla liste boş geldi (accountsQueried 0). Önlem: boş liste gelirse hesap filtresiz çek, accountUsername ile doğrula, yeni numarayı CLAUDE.md 9 ve SKILL.md'ye yaz.
+
+### Hesap 1 dersleri (26-27.11.2026, #125-#127; hata, sebep, önlem)
+- GIT INDEX KİRLİLİĞİ: `git reset -q dosya...` pathspec hatası verdi, adaylar dalının dosyaları main'e gitti (78a3ef7, f898ddb ile silindi). Önlem: başka dalı çalışma ağacına açtıktan sonra yalnızca düz `git reset -q`, ardından `git status` ile kontrol.
+- AÇILIŞ YAZISI TAŞTI (#127 v1): "6 yıl sonra Ayasofya'da Türkçe tekbir" kenarlardan kesildi; kontrol.py yakalamıyor. Önlem: acilis satırı en fazla ~20 harf; sn1 panosunda 0-3. sn mutlaka gözle.
+- PLAN NUMARASI TAHMİNİ (#127): Süleymaniye diye Fatih Camii görselini yazdım. Önlem: planda her numaranın dosya adını kontrol et, panoyu sahne sırasıyla göster.
+- SENARYO KESİK (#127 v1): doğrulanmış cümleleri bağlamadan dizdim, "bu tartışma" gibi bağlantısız gönderme kaldı. Önlem: göndermeden önce metni baştan sona "hikâye akıyor mu, her gönderme yukarıda var mı" diye oku.
+- KAYNAK TERİMİ (#127): "Türkçe Kur'an okundu" gazete abartısı; asıl olay Arapça okuma + Türkçe meal (tercüme). Önlem: dönem gazetesinin başlığını değil, olayın kendisini anlatan kaynağı esas al.
+- İŞ AKIŞI ARAÇLARI: GitHub'ın varsayılan Python'u yükseldi, PyAV uyumsuz oldu; transkript.yml Python 3.12'ye sabitlendi, ffmpeg 3 yedekli (johnvansickle, BtbN, apt), video-uret.yml de 3 yedekli.
 
 ### Hesap 2 dersleri (02.11.2026, #59 ve yorum oturumu; hata, sebep, önlem)
 - KAMERA KESİLMESİ: Sahne ortası karesine bakıp "kesilme yok" dedim; kamera kayarken başta/sonda kart yazıları kesiliyordu. Önlem: HER sahnenin başı (%12), ortası (%50), sonu (%88) karesi tek panoda kontrol edilir. Kart/grafik sahnelerinde `hiz: 0.5` (23.11.2026: hiz 0 yasak).

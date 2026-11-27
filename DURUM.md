@@ -1,4 +1,14 @@
-# DURUM — şu anki işler (son güncelleme: 27.11.2026 05:48, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 27.11.2026 18:05, Hesap 1)
+
+## 27.11.2026 18:05 · Hesap 1 oturum sonu
+- #125 Narh: video + set125 + kapak (başlık 4, bakır #B87333 / koyu zeytin #3D4A2A) teslim.
+- #126 Kuma: senaryo v3 (TEK1 metni), ses 82,7 sn, JSON 12 sahne (TEK1 seçimi, tekrar/renkli onaylı), video kontrol 0 hata, set126 (0 hata), kapak başlığı "EVLENİRSEN / YENİ GELİN BOŞ" önerildi (TEK1 "NİKAH GEÇERSİZ" yazdı, yanlış olduğu söylendi), renk kına #B5452B / lacivert #1F2A44. TEK1 cumartesi sabahı yayınlayacak.
+- #127 Türkçe Kur'an ve hutbe 1932: 5 rapor (GPT, Perplexity, Genspark, Elicit, Manus) kontrol edildi (arastirma/127_turkce_kuran.md); senaryo v6 (açılış: imam görevden alındı / Ayasofya Türkçe tekbir), ses 87,5 sn, JSON 15 sahne (TEK1 onaylı plan, 11 tekrar), video v2 (açılış yazısı kısaltıldı) kontrol 0 hata, TEK1'e gönderildi; video onayı ve set bekliyor.
+- Altyapı: transkript.yml Python 3.12 + ffmpeg 3 yedek + PyAV elle çözme; video-uret.yml ffmpeg 3 yedek.
+- YENİ KURAL: Instagram'a 11.12.2026'ya kadar araçla yorum cevabı yok (geçici işlem kısıtlaması); diğer platformlarda seferde en fazla 5, 2-3 dk arayla.
+- Windsor.ai for Social Media bağlandı (ücretsiz plan); TikTok bağlantısı TEK1'de bekliyor (link verildi). Eski Facebook bağlantısı pasif.
+- TEK1'E SÖYLENECEK (Hesap 2 bulguları, 27.11 05:48): #125 "eski fiyattan" (kaynak: rayiç fiyat); #123 vagon sahnesi Washington 1930 fotoğrafı; #126 düğün fotoğrafı Fevzi Çakmak'ın kızının düğünü (yayın cumartesi!); tablo/gravür bilgisi videoda görünmüyor.
+- SIRADAKİ: Vecihi Hürkuş (TEK1 seçti, araştırma başlamadı).
 
 ## GECE KONTROLÜ (27.11.2026 05:48, Hesap 2)
 - Hesap 1: 75 kayıt etiketli; kontrol.py #123-#126 bolum/set 0 hata; defter değişmedi. HATA: #125 "eski fiyattan" (kaynakta "rayiç fiyattan"); #123 vagon sahnesinde Washington 1930 fotoğrafı. UYARI: #126 düğün fotoğrafı Fevzi Çakmak'ın kızının düğünü; tek kaynaklı ayrıntılar; cümle-kaynak tablosu yok. Video/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
