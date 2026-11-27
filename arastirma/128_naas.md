@@ -11,3 +11,20 @@
 - 1953 nakil korteji.
 ## Tekrar
 - Commons adları episodes/ ve DIZIN.md'de grep: tekrar yok (Ebedi Şefimiz albümü #075'te farklı sayfa). #075_cenaze_kortej gözle karşılaştırıldı, farklı. kontrol.py gorsel indirme sonrası yapılacak.
+
+## Raporlar (28.11 00:52): Genspark, Manus, GPT, Perplexity (başlıksız), Elicit (zayıf, kaynak yok). Doğrulama (Claude, kendim açtım/okudum):
+DOĞRULANDI (2 bağımsız):
+- Geçici kabir kararı (Anıtkabir yapılıncaya kadar Etnografya): Boran 2011 İdealkent s.149-150 (okudum) + Dokuyan 2014 History Studies s.132 (okudum).
+- 21 Kasım 1938 Etnografya'ya konuldu: Boran 2011 Atatürk Yolu (DergiPark özet) + KTB müze sayfası + TBMM/Taylak 2021.
+- Dört ay katafalkta, sonra geçici mezara (31 Mart 1939): Dokuyan s.132 ("dört ay sonra") + Cumhuriyet gazetesi (popüler). Tarih 31 Mart: Cumhuriyet + Posta (popüler) + Perplexity'nin aktardığı Atatürk Ans. (açamadım). -> metinde "dört ay sonra" güvenli; "31 Mart 1939" kullanılırsa TEK1'e not.
+- İç avlu: havuz bahçeye alındı, üstü kapatıldı: TDV İA (Sema Koç 1991) + Habertürk/24saat; KTB: avlu geçici kabre çevrilene dek müze açıktı.
+- Rasattepe kararı 17 Ocak 1939 CHP Meclis Grubu: Boran 2011 s.162 (okudum); Anıtkabir Komutanlığı (Manus, açamadım).
+- Temel 9 Ekim 1944, bitiş 1 Eylül 1953: Cumhuriyet + ASD 2022 (DergiPark) + Atatürk Ans. PDF.
+- Gecikme: zemin etüdü + kil tabakası + deprem -> betonarme (Dokuyan s.137,140); "zeminin çürük çıkması" 1950 Bakanlar Kurulu (Türkgün köşe yazısı aktarımı). Müteahhitle ihtilaf, 1949 tazminat davası (Dokuyan s.138,143; Perplexity/Anıtkabir Kom.). Ödenek 10 -> 24 milyon (5581 sayılı kanun 1 Mart 1950): Dokuyan s.140 + Türkgün.
+- 1950 DP kubbe/üst kısım iptali, 6-7 milyon tasarruf: Dokuyan s.142-144; KTB: taş tonoz yerine betonarme tavan.
+- 10 Kasım 1953 09.05 nakil: Dokuyan s.147 + Sözcü + Atatürk Ans. (Genspark).
+ÇELİŞKİ/KULLANMA:
+- Katafalka alınış: Dokuyan 4 Kasım; Perplexity (Güler) geçici kabir 4 Kasım açıldı, 6 Kasım katafalk -> tarih verme, "nakilden birkaç gün önce".
+- "Gecikme sadece savaş": resmî kaynaklarda yok; savaş sadece arka plan.
+- Naaşın bozulmaması (tanık), 70.000 ziyaretçi (tek kaynak), öğrenci sayıları 100/40 (tek kaynak), vasiyet yoktu (popüler tek) -> kullanma.
+- Yarışma: 1941 açıldı/1942 sonuç; "birinci" ifadesi tartışmalı -> "uygulanmak üzere Onat-Arda projesi seçildi".
