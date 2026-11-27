@@ -1,1 +1,2 @@
 assets/ses/127_turkce_kuran.mp3
+# tekrar 2: python 3.12 + ffmpeg 3 yedek

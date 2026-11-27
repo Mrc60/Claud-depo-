@@ -17,16 +17,20 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
       - name: Kur
         run: |
-          # apt bazen takılıyor: önce hazır ffmpeg, olmazsa süre sınırlı apt
+          # ffmpeg: hazır derleme (2 kaynak), olmazsa apt; hiçbiri olmazsa PyAV yedeği
           if ! command -v ffmpeg >/dev/null; then
-            if timeout 180 curl -fsSL https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz -o /tmp/ff.tar.xz; then
-              mkdir -p /tmp/ff && tar -xJf /tmp/ff.tar.xz -C /tmp/ff --strip-components=1 && sudo cp /tmp/ff/ffmpeg /tmp/ff/ffprobe /usr/local/bin/ || echo 'hazır ffmpeg açılamadı, PyAV ile devam'
-            else
-              timeout 300 sudo apt-get update -qq || true
-              timeout 300 sudo apt-get install -y -qq ffmpeg || echo 'ffmpeg yok, PyAV ile devam'
-            fi
+            ( timeout 180 curl -fsSL https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz -o /tmp/ff.tar.xz \
+              && mkdir -p /tmp/ff && tar -xJf /tmp/ff.tar.xz -C /tmp/ff --strip-components=1 \
+              && sudo cp /tmp/ff/ffmpeg /tmp/ff/ffprobe /usr/local/bin/ ) \
+            || ( timeout 180 curl -fsSL https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz -o /tmp/ff2.tar.xz \
+              && mkdir -p /tmp/ff2 && tar -xJf /tmp/ff2.tar.xz -C /tmp/ff2 --strip-components=1 \
+              && sudo cp /tmp/ff2/bin/ffmpeg /tmp/ff2/bin/ffprobe /usr/local/bin/ ) \
+            || { timeout 300 sudo apt-get update -qq || true; timeout 400 sudo apt-get install -y -qq ffmpeg || echo 'ffmpeg yok, PyAV ile devam'; }
           fi
           pip install -q faster-whisper
       - name: Yazıya dök
@@ -42,8 +46,12 @@ jobs:
               raw = subprocess.run(["ffmpeg", "-v", "error", "-i", sys.argv[1], "-f", "f32le", "-ac", "1", "-ar", "16000", "-"], capture_output=True, check=True).stdout
               audio = np.frombuffer(raw, np.float32)
           else:
-              from faster_whisper import decode_audio  # ffmpeg kurulamazsa PyAV ile çöz
-              audio = decode_audio(sys.argv[1], sampling_rate=16000)
+              import av  # ffmpeg kurulamazsa PyAV ile elle çöz
+              c = av.open(sys.argv[1]); rs = av.AudioResampler(format="flt", layout="mono", rate=16000); parts = []
+              for fr in c.decode(audio=0):
+                  for o in rs.resample(fr):
+                      parts.append(o.to_ndarray().reshape(-1))
+              audio = np.concatenate(parts).astype(np.float32)
           segs, _ = m.transcribe(audio, language="tr", word_timestamps=True, vad_filter=False)
           W = []
           for s in segs:
