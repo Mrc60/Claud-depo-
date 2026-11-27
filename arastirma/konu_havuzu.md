@@ -39,3 +39,4 @@ Not: Ülkümen (#20), aşı (#11), nikâh (#26) zaten yapıldı — öneriden ö
 - Bayram yerleri (salıncak, atlıkarınca)
 - Sofra adabı (yer sofrası, büyükten önce başlanmaz)
 - Ölünün yedisi ve kırkı (helva, mevlit; sakin ton, ceset fotoğrafı yok)
+- Misafire üç gün sorulmaz (hadis doğrulanmalı)
