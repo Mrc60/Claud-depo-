@@ -25,3 +25,16 @@ Elenenler: Yerli Malı Haftası, kumbara, Ramazan davulcusu, kırk çıkarma, Zo
 Sonraya: nüfus sayımı, yabancıların gözünden Türkiye, Sarıkamış (21 Aralık), Erzincan depremi (26 Aralık), bedelli (yayında).
 
 Not: Ülkümen (#20), aşı (#11), nikâh (#26) zaten yapıldı — öneriden önce episodes/ listesine bak.
+
+## Gelenekler (TEK1 seçimi, 27.11.2026; kaynak/görsel taraması yapılmadı)
+- Lohusanın kırkı (40 gün yalnız bırakılmaz, lohusa şerbeti, kırk hamamı)
+- Gelin hamamı ve hamam kuralları (görsel zor: kadınlar hamamı fotoğrafı yok)
+- Mahalleye kefilsiz taşınamamak (Osmanlı mahalle kefaleti)
+- Berber cerrah (diş çekme, kan alma, sünnet)
+- Kalaycı (bakır kaplar neden kalaylatılırdı)
+- Göbek adı
+- Yaşar, Durmuş, Dursun adları (çocukları yaşamayan aileler)
+- Çeyiz sandığı
+- Kına gecesi
+- Bayram yerleri (salıncak, atlıkarınca)
+- Sofra adabı (yer sofrası, büyükten önce başlanmaz)
