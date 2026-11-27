@@ -429,3 +429,5 @@ TEK1 ilk olarak "bugün ne içerik yapalım" diye soracak. Yapılacak: KONU_FIKI
 - 24.11 10:58 (sohbet): #116 Osmanlı borcu yorumları: TikTok 3, YouTube 1 cevap gönderildi; siyasi/hakaret atlandı. #118 Vahdettin henüz yorumsuz.
 
 - 24.11 20:03 (sohbet): #118 sabit yorumu TEK1 kararıyla değişti → "Son padişahın bir daha İstanbul'a dönemediğini biliyor muydunuz? 👇" (kapanış sorusundan farklı, bilinçli istisna: 'kaçtı mı' kavga çıkarıyordu). set118 güncellendi.
+
+- 27.11 20:06 (sohbet): #125 sabit yorumu TEK1 kararıyla 'fiyatlar düşer miydi' → 'fiyatlar yükselir miydi' oldu (kapanış sorusundan farklı, bilinçli istisna). set125 güncellendi.
