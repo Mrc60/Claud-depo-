@@ -1,0 +1,600 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 128,
+ "slug": "naas",
+ "title": "Atatürk'ün naaşı 15 yıl Etnografya Müzesi'nde",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "Boran 2011",
+  "Dokuyan 2014",
+  "TDV Ankara Etnografya Müzesi"
+ ],
+ "acilis": "Naaşı 15 yıl\nbir müzede bekledi",
+ "dis_ses": {
+  "file": "assets/ses/128_naas.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     4.5
+    ]
+   ],
+   [
+    [
+     4.5,
+     10.2
+    ]
+   ],
+   [
+    [
+     10.2,
+     15.5
+    ]
+   ],
+   [
+    [
+     15.5,
+     22.7
+    ]
+   ],
+   [
+    [
+     22.7,
+     29.4
+    ]
+   ],
+   [
+    [
+     29.4,
+     34.3
+    ]
+   ],
+   [
+    [
+     34.3,
+     40.9
+    ]
+   ],
+   [
+    [
+     40.9,
+     47.7
+    ]
+   ],
+   [
+    [
+     47.7,
+     52.7
+    ]
+   ],
+   [
+    [
+     52.7,
+     59.9
+    ]
+   ],
+   [
+    [
+     59.9,
+     69.0
+    ]
+   ],
+   [
+    [
+     69.0,
+     74.6
+    ]
+   ],
+   [
+    [
+     74.6,
+     82.29
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Atatürk deyince aklımıza hemen Anıtkabir gelir. Oysa",
+   "caption": "Atatürk deyince aklımıza hemen Anıtkabir gelir. Oysa",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Anıtkabir'in sütunlu cephesini gösteren proje çizimi",
+   "bolumler": [
+    {
+     "start": 0,
+     "end": 2.38,
+     "n": 4
+    },
+    {
+     "start": 2.38,
+     "end": 4.5,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_proje_ilk.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.366,
+     0,
+     0.634,
+     1
+    ],
+    "baslik": "Anıtkabir'in ilk proje çizimi (Onat ve Arda, 1942)",
+    "kaynak": "Emin Onat ve Orhan Arda, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Atatürkün naaşı tam 15 yıl boyunca bir müzenin avlusunda bekledi.",
+   "caption": "Atatürk'ün naaşı tam 15 yıl boyunca bir müzenin avlusunda bekledi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Etnografya Müzesi'nin sütunlu revakı ve arkada Ankara",
+   "bolumler": [
+    {
+     "start": 4.5,
+     "end": 6.78,
+     "n": 4
+    },
+    {
+     "start": 6.78,
+     "end": 8.6,
+     "n": 4
+    },
+    {
+     "start": 8.6,
+     "end": 10.2,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_etnografya_a.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.127,
+     0,
+     0.873,
+     1
+    ],
+    "baslik": "Etnografya Müzesi'nin revakları, 1930'lar",
+    "kaynak": "Basın Yayın Genel Müdürlüğü, Commons",
+    "lisans": "Kamu malı (bilinen kısıtlama yok)"
+   }
+  },
+  {
+   "say": "Peki neden? Atatürk öldüğünde ortada bir anıtmezar yoktu.",
+   "caption": "Peki neden? Atatürk öldüğünde ortada bir anıtmezar yoktu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ağaçlı bir caddede uzanan cenaze korteji ve kalabalık",
+   "bolumler": [
+    {
+     "start": 10.2,
+     "end": 13.18,
+     "n": 4
+    },
+    {
+     "start": 13.18,
+     "end": 15.5,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_cenaze_kortej.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.225,
+     0,
+     0.775,
+     1
+    ],
+    "baslik": "Atatürk'ün cenaze korteji, Ankara 1938",
+    "kaynak": "MEB Fotoğraflarla Atatürk koleksiyonu, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Hükümet, Anıtkabir yapılıncaya kadar naaşın Ankaradaki Etnografya Müzesinde kalmasına karar verdi.",
+   "caption": "Hükümet, Anıtkabir yapılıncaya kadar naaşın Ankara'daki Etnografya Müzesi'nde kalmasına karar verdi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Tabutun başında İsmet İnönü ve askerler",
+   "bolumler": [
+    {
+     "start": 15.5,
+     "end": 18.02,
+     "n": 4
+    },
+    {
+     "start": 18.02,
+     "end": 20.88,
+     "n": 4
+    },
+    {
+     "start": 20.88,
+     "end": 22.66,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_album_763.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.437,
+     0,
+     0.803,
+     1
+    ],
+    "baslik": "Cenaze töreninde İsmet İnönü, 1938",
+    "kaynak": "Hataylı Ramazan Çeltik, Ebedi Şefimiz albümü, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Müzenin iç avlusunun üstü kapatıldı ve naaş dört ay sonra orada hazırlanan geçici kabre kondu.",
+   "caption": "Müzenin iç avlusunun üstü kapatıldı ve naaş dört ay sonra orada hazırlanan geçici kabre kondu.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Mermer zeminde geçici kabrin kitabesi ve çerçeveli eski fotoğraf",
+   "bolumler": [
+    {
+     "start": 22.7,
+     "end": 24.36,
+     "n": 4
+    },
+    {
+     "start": 24.36,
+     "end": 26.48,
+     "n": 4
+    },
+    {
+     "start": 26.48,
+     "end": 28.3,
+     "n": 4
+    },
+    {
+     "start": 28.3,
+     "end": 29.4,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_kitabe_2005.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.162,
+     0.2,
+     0.838,
+     1
+    ],
+    "baslik": "Etnografya Müzesi'ndeki geçici kabrin kitabesi",
+    "kaynak": "Dosseman, Commons",
+    "lisans": "CC BY-SA 4.0",
+    "onay": {
+     "renkli": "TEK1 28.11 00:57 (kitabenin renkli fotoğrafı siyah-beyaz: Geç onaylıyorum)"
+    }
+   }
+  },
+  {
+   "say": "Yer olarak Rasattepe, yani bugünkü Anıttepe seçildi.",
+   "caption": "Yer olarak Rasattepe, yani bugünkü Anıttepe seçildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Bir tepenin üstünde Anıtkabir yapılarının proje çizimi",
+   "bolumler": [
+    {
+     "start": 29.4,
+     "end": 31.68,
+     "n": 4
+    },
+    {
+     "start": 31.68,
+     "end": 34.3,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_proje_genel.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.432,
+     0,
+     0.668,
+     1
+    ],
+    "baslik": "Anıtkabir projesi, tepeden görünüş (çizim)",
+    "kaynak": "Emin Onat ve Orhan Arda, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Ama temel ancak 1944te atıldı ve asıl zorluk o zaman başladı.",
+   "caption": "Ama temel ancak 1944'te atıldı ve asıl zorluk o zaman başladı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "İskeleler arasında yükselen Anıtkabir binası",
+   "bolumler": [
+    {
+     "start": 34.3,
+     "end": 37.02,
+     "n": 4
+    },
+    {
+     "start": 37.02,
+     "end": 39.12,
+     "n": 4
+    },
+    {
+     "start": 39.12,
+     "end": 40.8,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_insaat_1951.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.143,
+     0,
+     0.518,
+     1
+    ],
+    "baslik": "Anıtkabir inşaatı, 1951",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Zeminden kalın bir kil tabakası çıktı. Deprem riski yüzünden de taş yerine betonarmeye geçildi.",
+   "caption": "Zeminden kalın bir kil tabakası çıktı. Deprem riski yüzünden de taş yerine betonarmeye geçildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kemerli tonozlu bir salon ve ortada lahit çizimi",
+   "bolumler": [
+    {
+     "start": 40.9,
+     "end": 42.28,
+     "n": 4
+    },
+    {
+     "start": 42.28,
+     "end": 44.34,
+     "n": 4
+    },
+    {
+     "start": 44.34,
+     "end": 45.96,
+     "n": 4
+    },
+    {
+     "start": 45.96,
+     "end": 47.7,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_proje_seref.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.226,
+     0,
+     0.774,
+     1
+    ],
+    "baslik": "Şeref Holü'nün ilk proje çizimi",
+    "kaynak": "Emin Onat ve Orhan Arda, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Bu değişiklik müteahhitle anlaşmazlık çıkardı. İş mahkemeye taşındı.",
+   "caption": "Bu değişiklik müteahhitle anlaşmazlık çıkardı. İş mahkemeye taşındı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "İnşaat alanında işçiler ve yan binalar",
+   "bolumler": [
+    {
+     "start": 47.7,
+     "end": 50.0,
+     "n": 4
+    },
+    {
+     "start": 50.0,
+     "end": 52.7,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_insaat_1951.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.593,
+     0,
+     0.968,
+     1
+    ],
+    "baslik": "Anıtkabir inşaatı, 1951",
+    "kaynak": "Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 28.11 (aynı görseli 2 kez)"
+    }
+   }
+  },
+  {
+   "say": "İlk ayrılan para da yetmedi. Ödenek artırıldı, tasarruf için de planlanan kubbe iptal edildi.",
+   "caption": "İlk ayrılan para da yetmedi. Ödenek artırıldı, tasarruf için de planlanan kubbe iptal edildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Proje çiziminde binanın üstündeki yüksek kısım",
+   "bolumler": [
+    {
+     "start": 52.7,
+     "end": 54.0,
+     "n": 4
+    },
+    {
+     "start": 54.0,
+     "end": 56.9,
+     "n": 4
+    },
+    {
+     "start": 56.9,
+     "end": 59.9,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_proje_ilk.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.036,
+     0,
+     0.304,
+     1
+    ],
+    "baslik": "Anıtkabir'in ilk projesi: üst kısım (çizim)",
+    "kaynak": "Emin Onat ve Orhan Arda, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "tekrar": "TEK1 28.11 (aynı görseli 2 kez)"
+    }
+   }
+  },
+  {
+   "say": "Sonunda 1953 yılının 10 Kasımında tabut müzeden alındı ve büyük bir törenle Anıtkabire taşındı.",
+   "caption": "Sonunda 1953 yılının 10 Kasım'ında tabut müzeden alındı ve büyük bir törenle Anıtkabir'e taşındı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Frak giymiş devlet adamları törende yürüyor",
+   "bolumler": [
+    {
+     "start": 59.9,
+     "end": 62.7,
+     "n": 4
+    },
+    {
+     "start": 62.7,
+     "end": 65.22,
+     "n": 4
+    },
+    {
+     "start": 65.22,
+     "end": 66.98,
+     "n": 4
+    },
+    {
+     "start": 66.98,
+     "end": 69.0,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_1953_heyet.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.363,
+     0,
+     0.738,
+     1
+    ],
+    "baslik": "Naaşın Anıtkabir'e nakil töreni, 10 Kasım 1953",
+    "kaynak": "Mehmet Sürenkök, Commons",
+    "lisans": "Kamu malı"
+   }
+  },
+  {
+   "say": "Siz Etnografya Müzesindeki bu geçici kabri daha önce duymuş muydunuz?",
+   "caption": "Siz Etnografya Müzesi'ndeki bu geçici kabri daha önce duymuş muydunuz?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Cami önünde toplanmış kalabalığı gösteren eski fotoğraf",
+   "bolumler": [
+    {
+     "start": 69.0,
+     "end": 71.18,
+     "n": 4
+    },
+    {
+     "start": 71.18,
+     "end": 72.68,
+     "n": 4
+    },
+    {
+     "start": 72.68,
+     "end": 74.22,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_muze_cerceve_1938.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.147,
+     0.03,
+     0.853,
+     0.97
+    ],
+    "baslik": "Etnografya Müzesi'nde sergilenen 1938 cenaze fotoğrafı",
+    "kaynak": "Dosseman, Commons",
+    "lisans": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Bayrağa sarılı tabut ve arkasında büyük kalabalık",
+   "bolumler": [
+    {
+     "start": 74.6,
+     "end": 77.7,
+     "n": 4
+    },
+    {
+     "start": 77.7,
+     "end": 80.16,
+     "n": 4
+    },
+    {
+     "start": 80.16,
+     "end": 82.29,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/128_cenaze_kalabalik.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.202,
+     0,
+     0.598,
+     1
+    ],
+    "baslik": "Atatürk'ün cenaze töreni, 1938",
+    "kaynak": "Türkçe Vikipedi, Commons",
+    "lisans": "Kamu malı"
+   }
+  }
+ ]
+}
