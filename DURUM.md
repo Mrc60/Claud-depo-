@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 26.11.2026 05:43, Hesap 2)
+# DURUM — şu anki işler (son güncelleme: 27.11.2026 04:40, Hesap 1)
+
+## GECE KONTROLÜ (27.11.2026 04:40, Hesap 1)
+- Hesap 2: son 26 saatte sadece gece kontrolü kaydı, hata yok; #122 TT atıf bulgusu teyit edildi. Defter değişmedi. Ayrıntı MESAJLAR.md.
+- 26-27.11 Hesap 1 işleri (git log'dan): #123 Başkent Ankara (araştırma, senaryo TEK1 düzenlemesi, ses, JSON 11 görsel, set123). #124 Kadına laf atma (araştırma, senaryo TEK1 2 düzenleme, ses, JSON v2 TEK1 seçimi 11 sahne, set124). #125 Narh (araştırma, senaryo, ses, JSON 13 sahne, renkli 3 görsel TEK1 onayıyla s/b, set125). #126 Kuma (araştırma, senaryo v3 TEK1 metni, ses, JSON 12 sahne, video tekrar üretimi istendi, set126). #127 Türkçe Kur'an ve hutbe 1932: araştırma + görsel 3 tur + senaryo v2 (TEK1 onayı bekliyor). Altyapı: transkript.yml PyAV yedeği, video-uret.yml ffmpeg 3 yedek. kontrol.py: set123-126 ve bolum #123-#126 0 hata. Video kontrolü/TEK1 onayı/yayın bilinmiyor.
+- TEK1'E SORULACAK (#127 sesinden önce): açılıştaki kadınlar cümlesi tek makale; "Atatürkün isteğiyle" kaynak kaydı yok; 99 sn; din-devlet konusu FB dağıtım riski ve X.
+- AÇIK: #120 kaynak, #121 yayın riski, #122 TT/X atfı + "5 kez" + idam cümlesi; set'lerde sabit yorum 3 blok; DIZIN.md'de #120-#127 yok. Bugün (27.11) yayın saati ve TikTok 20:45 karşılaştırma günü.
 
 ## GECE KONTROLÜ (26.11.2026 05:43, Hesap 2)
 - Hesap 1: 26 kayıt etiketli; kontrol.py #122 bolum/metin ve set121/set122 0 hata; defter değişmedi. HATA (#122): TT açıklamasında CC BY-SA atfı yok ("kamu malı" yazıyor); "5 kez" rakamı tek çalışmaya dayanıyor, dönemi notta yok; idam hükmü sonraki kanunnamelerden ama Fatih anlatısının içinde. Video/ses kontrol edilemedi. Ayrıntı MESAJLAR.md.
