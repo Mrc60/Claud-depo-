@@ -121,9 +121,9 @@ Bu kapağı KENDİ GÖRSEL ÜRETİM ARACINLA tasarla. Python, kod ya da basit ko
 
 Format: dikey 9:16.
 
-Stil: 1900'lerin başından kalma eski bir gazete ya da afiş havası. Sararmış ve yer yer yırtılmış kâğıt katmanları, kenarlarda yanık ve yıpranma izleri, kâğıt dokusu, hafif gren. Yazıların arkasında yırtık kâğıt şeritler ve [RENK 2 adı (#KOD)] fırça darbesi bantlar. Derinlik, ışık ve gölge olsun; düz ve boş görünmesin.
+Stil: 1900'lerin başından kalma eski bir gazete ya da afiş havası. Genel renk tonu: [HİKÂYEYE GÖRE TON, ör. soğuk gece mavisi-gri / kül grisi / is karası / toprak kırmızısı]; her yer sararmış sarı-kahverengi sepya OLMASIN. Yer yer yırtılmış kâğıt katmanları, kenarlarda yıpranma izleri, kâğıt dokusu, hafif gren. Yazıların arkasında yırtık kâğıt şeritler ve [RENK 2 adı (#KOD)] fırça darbesi bantlar. Derinlik, ışık ve gölge olsun; düz ve boş görünmesin.
 
-Fotoğraflar: Ekteki [N] gerçek fotoğrafın hepsini kullan; yırtık kâğıt parçaları ya da eski fotoğraf kartları gibi kompozisyona yerleştir. [ANA FOTOĞRAF] en büyük ve ön planda olsun. Fotoğraflardaki kişilerin yüzlerini, sayısını ve kıyafetlerini DEĞİŞTİRME; yeni kişi ÜRETME. Fotoğraflar siyah-beyaz ya da sepya kalsın, renklendirme yok. Yüzler kesilmesin.
+Fotoğraflar: Ekteki [N] gerçek fotoğrafın hepsini kullan; yırtık kâğıt parçaları ya da eski fotoğraf kartları gibi kompozisyona yerleştir. [ANA FOTOĞRAF] en büyük ve ön planda olsun. Fotoğraflardaki kişilerin yüzlerini, sayısını ve kıyafetlerini DEĞİŞTİRME; yeni kişi ÜRETME. Fotoğraflar siyah-beyaz kalsın (ton genel renk tonuna uyabilir), renklendirme yok. Yüzler kesilmesin.
 
 Arka plan: Fotoğrafların arkasına [KONUYA UYGUN DEKOR, ör. eski İstanbul silueti], sis ve eski kâğıt dokusu ekleyebilirsin; ama arka planda da insan figürü üretme.
 
@@ -131,7 +131,7 @@ Logo: Hiçbir logo veya arma koyma.
 
 Boşluklar: Kapağın üst kısmında yüksekliğin %12'si, alt kısmında %10'u kadar boş alan bırak; bu alanlara yazı, logo ya da önemli görsel öğe (yüz, başlık) koyma.
 
-Başlık: Kapağın ORTASINDA, çok büyük ve kalın, eski afiş harfleri gibi, iki satır:
+Başlık: Kapağın TAM ORTASINDA (dikeyde yüksekliğin %40-60'ı arası, ekranın merkezi), çok büyük ve kalın, eski afiş harfleri gibi, iki satır. Fotoğraflar başlığın ÜSTÜNE ve ALTINA dağılsın; başlık alt kısma itilmesin:
 "[SATIR 1]
 [SATIR 2]"
 "[SATIR 1]" [RENK 1 adı (#KOD)], "[SATIR 2]" kırık beyaz yazıyla [RENK 2] fırça darbesi bandın üstünde. Yazılarda hafif yıpranma ve gölge olsun, ama net okunsun.
@@ -144,6 +144,7 @@ Cevabını bana kopyalanabilir formatta ver.
 ```
 - KAPAK YAPAY ZEKÂ GİBİ GÖRÜNMESİN (TEK1 kararı, 25.11.2026, kesin): Her ChatGPT kapak promptuna şunu yaz: "Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın." (Şablonda 'Doğallık' satırı.)
 - KAPAK TASARIMI (TEK1, 16.11.2026): Talimatta ChatGPT'nin KENDİ görsel üretim aracıyla sinematik, eski gazete/afiş havasında tasarlaması istenir; "sadece yerleştir" yazılırsa kodla düz kolaj yapıyor (#93'te basit çıktı). Gerçek fotoğraflardaki kişiler değiştirilmez, sahte kişi/logo üretilmez.
+- KAPAK TONU VE YAZI YERİ (TEK1 kararı, 28.11.2026 00:08, kesin): (1) Kapağın genel kâğıt/fotoğraf tonu da hikâyeye göre değişir; her kapak sarı-kahverengi sepya olmaz (#127 ChatGPT çıktısında yine sarı sepya ve başlık altta çıktı). Şablondaki [HİKÂYEYE GÖRE TON] alanını her seferinde doldur, DURUM.md'ye tonu da yaz. (2) Başlık HER ZAMAN dikeyde tam ortada (%40-60); fotoğraflar başlığın üstüne ve altına dağılır.
 - KAPAK RENGİ HİKÂYEDEN (TEK1 kararı, 28.11.2026, kesin: "Kapak renkleri hep aynı oluyor, hikâyeye göre ayarla"): Son kapaklar hep aynı kalıptaydı: sarımsı/metalik bir renk (altın, bakır, krem) + koyu bant (lacivert, zeytin, bordo) + beyaz yazı. Önlem: (1) Rengi hikâyenin kendi nesnesinden/anından seç (ör. Kadir Gecesi = gece moru, çini = turkuaz) ve talimatta gerekçeyi yaz. (2) Önce DURUM.md'den son 5 kapağın renklerini oku; aynı renk AİLESİ (altın/sarı/bakır/krem ya da lacivert/zeytin/bordo) art arda gelmez. (3) Her kapağın renk çiftini DURUM.md'ye "kapak renk: ad #KOD / ad #KOD" diye yaz ki diğer hesap görsün.
 - KAPAK RENGİ (05.11.2026, hata dersi): Kapak yazı renklerini her videoda konuya ve fotoğrafa göre ayrı seç; hep beyaz + altın yazma. Arka arkaya iki kapakta aynı renk çifti olmasın. Talimatta rengin adını ve kod değerini (#RRGGBB) yaz, neden seçtiğini bir cümleyle söyle (ör. kaymak: krem + bordo, alfabe: taş grisi + gök mavisi).
 
