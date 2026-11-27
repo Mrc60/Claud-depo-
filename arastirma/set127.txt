@@ -18,7 +18,7 @@ Görseller: Sébah & Joaillier ve Library of Congress (kamu malı); Cornell Univ
 === YT_ETIKET ===
 türkçe kuran, türkçe tekbir, türkçe hutbe, türkçe ezan, tanrı uludur, ayasofya, ayasofya 1932, 1932 ramazanı, kadir gecesi, hafız yaşar okur, sadettin kaynak, süleymaniye camii, yerebatan camii, kuran meali, türkçe meal, ibadet dili, ibadette türkçe, türkçe ibadet, cumhuriyet tarihi, erken cumhuriyet, atatürk dönemi, din tarihi, türk tarihi, az bilinen tarih, kuran tercümesi, osmanlı camileri, ramazan tarihi, tarih shorts, sıradan değil
 === YT_SABIT ===
-Lütfen düşüncelerinizi hakaret içermeden yazınız.
+Lütfen düşüncelerinizi hakaret içermeden yazınız. Hakaret yorumları sistem otomatik gizliyor.
 === TT_ACIKLAMA ===
 1932 Ramazanında camilerde Kur'an önce Arapça, sonra Türkçe mealiyle okundu. Kadir Gecesi Ayasofya'da tekbir Türkçe getirildi ve tören radyodan yayımlandı. Süleymaniye'de hutbenin tamamı Türkçe okundu ama bu sürmedi.
 
@@ -27,12 +27,12 @@ Görseller: LOC, Cornell, Commons, kamu malı.
 
 #SıradanDeğil #TürkTarihi #Ayasofya #tarih
 === TT_SABIT ===
-Lütfen düşüncelerinizi hakaret içermeden yazınız.
+Lütfen düşüncelerinizi hakaret içermeden yazınız. Hakaret yorumları sistem otomatik gizliyor.
 === FBIG_ACIKLAMA ===
 1932 Ramazanı: Ayasofya'da tekbir Türkçe getirildi, tören radyodan yayımlandı. Süleymaniye'de hutbe tamamen Türkçe okundu ama sürmedi. Kaynak: Dikici 2006; Erdoğan 2021; TDV. Görsel: LOC, Commons. #SıradanDeğil #TürkTarihi #Ayasofya #Tarih #Ramazan
 === IG_ACIKLAMA ===
 1932 Ramazanı: Ayasofya'da tekbir Türkçe getirildi, tören radyodan yayımlandı. Süleymaniye'de hutbe tamamen Türkçe okundu ama sürmedi. Kaynak: Dikici 2006; Erdoğan 2021; TDV. Görsel: LOC, Commons. #SıradanDeğil #TürkTarihi #Ayasofya #Tarih #Ramazan
 === FBIG_SABIT ===
-Lütfen düşüncelerinizi hakaret içermeden yazınız.
+Lütfen düşüncelerinizi hakaret içermeden yazınız. Hakaret yorumları sistem otomatik gizliyor.
 === X_ACIKLAMA ===
 1932 Kadir Gecesi Ayasofya'da tekbir Türkçe getirildi: "Tanrı uludur". Tören radyodan canlı yayımlandı. Kaynak: Dikici 2006; Erdoğan 2021. #SıradanDeğil #Ayasofya
