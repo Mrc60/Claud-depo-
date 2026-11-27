@@ -15,6 +15,7 @@
 - KARAR (TEK1 27.11 18:48): #126 düğün fotoğrafı (Fevzi Çakmak'ın kızının düğünü) olduğu gibi kalıyor: "Sorun olmaz". #125 fiyat ifadesi ve #123 görsel kararı bekliyor.
 - KARAR (TEK1 27.11 23:58): #127 sabit yorumu soru değil: "Lütfen düşüncelerinizi hakaret içermeden yazınız." (videodaki kapanış sorusu tartışma çıkarır diye). Ses değişmedi.
 - #127 kapak: başlık AYASOFYA'DA / "TANRI ULUDUR"; kapak renk: çini turkuazı #3FA7A3 / Kadir Gecesi moru #4B2C5E; ton: soğuk gece mavisi-gri (altın/yeşil önerisi TEK1 reddetti: hep aynı renk).
+- #127 kapak: TEK1 28.11 00:29 'şimdi oldu' (çerçevesiz, gece mavisi-gri, turkuaz/mor, başlık ortada).
 - TEK1'E SORULACAK (yayından önce): #125 fiyat ifadesi, #123 görsel, #126 düğün fotoğrafı. Bugün (27.11) yayın saati ve TikTok 20:45 karşılaştırması.
 
 ## GECE KONTROLÜ (27.11.2026 04:40, Hesap 1)

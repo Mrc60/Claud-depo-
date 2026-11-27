@@ -146,7 +146,7 @@ ALT YAZI: Küçük ve kalın: "Sıradan Değil". Bu yazının ALT KENARI kapağ�
 
 DOĞALLIK: Kapak yapay zekâ ile yapılmış gibi görünmesin: gerçek eski fotoğraf ve eski matbaa baskısı gibi doğal dursun; plastik, aşırı pürüzsüz, parlak, fazla keskin ya da yapay ışıklı görüntü olmasın.
 
-SON KONTROL (göndermeden önce kendin bak): (1) En üstteki 135 pikselde hiçbir şey yok mu? (2) En alttaki 290 pikselde hiçbir şey yok mu? (3) Başlık tam ortada mı? (4) Ekteki fotoğrafların hepsi var mı? Biri tutmuyorsa düzelt, sonra gönder.
+SON KONTROL (göndermeden önce kendin bak): (1) En üstteki 135 pikselde hiçbir şey yok mu? (2) En alttaki 290 pikselde hiçbir şey yok mu? (3) Başlık tam ortada mı? (4) Ekteki fotoğrafların hepsi var mı? (5) Hiçbir fotoğrafın etrafında çerçeve ya da kart kenarı yok mu? Biri tutmuyorsa düzelt, sonra gönder.
 
 Cevabını bana kopyalanabilir formatta ver.
 ```
