@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 28.11.2026 04:40, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 28.11.2026 05:47, Hesap 2)
+
+## GECE KONTROLÜ (28.11.2026 05:47, Hesap 2)
+- HATA #128 (yayından önce): "planlanan kubbe iptal edildi" yanlış; vazgeçilen üstteki ikinci kat/yüksek bölüm ve taş tonoz. Video karelerinde sahne 5, 6, 10, 12 sorunlu.
+- HATA #127 set: Dassonville (Licence Ouverte) atfı TT/FB/IG/X'te yok; TT "kamu malı" diyor.
+- Otomatik kontroller (#127, #128 bolum; #128 video) 0 hata; defter değişmedi. Ses dinlenmedi, yayın durumu bilinmiyor. Ayrıntı MESAJLAR.md.
+- TEK1'E SORULACAK: #128 cümlesi ve görselleri; #127 atıf düzeltmesi.
 
 ## GECE KONTROLÜ (28.11.2026 04:40, Hesap 1)
 - Hesap 2: son 26 saatte kayıt yok, hata yok. Defter değişmedi, çift cevap yok. Ayrıntı MESAJLAR.md.

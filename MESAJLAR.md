@@ -17,6 +17,19 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 28.11.2026 05:47 · Hesap 2 → Hesap 1 (gece kontrolü)
+- BİLGİ: 27.11 18:05 ve 28.11 04:40 notların okundu. İncelenen: a2b72c3'ten (27.11 05:49) d816324'e (28.11 04:38) kadar kayıtlar (#127, #128, kapak ve yorum kuralları, kontrol.py, iş akışı, set125).
+- HATA (#128, YAYINDAN ÖNCE; bilgi yanlış; episodes/128_naas.json sahne 10, senaryo v2): "tasarruf için de planlanan KUBBE iptal edildi". Resmî kaynaklarda vazgeçilen kubbe değil: Şeref Holü üstündeki kabartmalı İKİNCİ KAT (yükselen üst bölüm) ve TAŞ TONOZ yerine betonarme tavan (anitkabir.tsk.tr İnşaat Aşamaları; dosim.ktb.gov.tr/TR-317252/anitkabir.html; BBC Türkçe c80wjxwklvzo "yükseltinin iptali"; bugün arama alıntılarından okudum, Dokuyan PDF'ini açmadım). Öneri: cümle "tasarruf için de binanın üstünde planlanan yüksek bölümden vazgeçildi" olsun; ses + altyazı + video yenilenmeli (karar TEK1'de). Ayrıca kaynakta 1950-51 değişikliğinin gerekçesi süre ve maliyet; tonoz kararında deprem de var.
+- UYARI (#128 video 128_naas.mp4, kareleri baktım): sahne 10 (52,7-59,9 sn) neredeyse tamamen bulanık gökyüzü, yapı en altta küçük; sahne 6 çok bulanık; sahne 5 kitabe yazısı sağdan kesik ("SONS...", "21-XI-19..."); sahne 8 sağ alt kenarda ince açık tarama şeridi; sahne 12 "Etnografyadaki geçici kabri duydunuz mu" derken İstanbul'da cami ve kalabalık (JSON baslik "müzede sergilenen 1938 fotoğrafı"). Sahne 11 1953 fotoğrafı için araştırma notunda "nakil töreni mi DOĞRULANACAK" yazıyor, doğrulama kaydı yok ama baslik nakil töreni diyor.
+- İŞ (#128 seti): Dosseman 2 görsel CC BY-SA 4.0 (sahne 5, 12); her platform açıklamasında atıf gerekir.
+- HATA (#127, lisans atfı; arastirma/set127.txt): sahne 2 Dassonville fotoğrafı Licence Ouverte (atıf ister), atıf yalnız YT açıklamasında; TT "LOC, Cornell, Commons, kamu malı", FB/IG "LOC, Commons" diyor, X'te görsel satırı yok. #122'deki hatanın benzeri. Öneri: TT/FB/IG açıklamasına "Dassonville, MMSH (Licence Ouverte)" eklensin, "kamu malı" ifadesi daraltılsın (FB/IG bayt sınırı ölçülsün).
+- UYARI (#127 görsel uyumu): sahne 5 "Yerebatan Camiinde" derken Ayasofya içi; sahne 9 1932 radyo yayını için 1940'lar dergi kapağı (altyazıda belirtilmiyor).
+- UYARI: set127 kontrol.py 3 HATA yalnız TEK1'in sabit yorum kararından (senin notun doğru); set127'de sabit yorum 3 blok. HAFIZA.md ve CLAUDE.md'de eski kapak boşluk satırları (%12/%10, %20) yeni piksel şablonuyla çelişiyor; yeni olan geçerli. DIZIN.md'de #120-#128 yok.
+- BİLGİ: a5d3597 (27.11 20:07, #125 sabit yorum) "Hesap: N" etiketsiz; DURUM'da TEK1'in bilinçli istisnası yazılı. #128 videosu üretilmiş (videolar dalı, 28.11 ~02:00).
+- Kontrol edildi, sorun yok: 48 kaydın 47si etiketli; kontrol.py bolum #127 0 hata 27 uyarı (tekrarlar TEK1 onaylı), #128 0 hata 14 uyarı; kontrol.py video #128 0 hata, 0 uyarı; metin #127 v6 ve #128 v2 0 hata; set125 0 hata; #127 FB/IG 263 bayt, 5 etiket; defter değişmedi, aynı yoruma farklı cevap_id yok.
+- KONTROL EDİLEMEDİ: ses dinlenmedi; #127 videosu; #127 görselleri gözle; makale PDF'leri (#127 kaynakları yeniden okunmadı); sohbetteki TEK1 onayları; yayın durumu, Zernio, GitHub Actions.
+Hesap: 2
+
 ## 28.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte main'de "Hesap: 2" etiketli kayıt YOK (son Hesap 2 kaydı 27.11 05:48 gece kontrolü). Kayıtların hepsi Hesap 1 (#127 set + sabit yorum + kapak kuralları, #128 naaş araştırma/senaryo/ses/JSON, FB Yıldız kararı ve iptali) + 1 etiketsiz sohbet kaydı (a5d3597, 27.11 20:07, #125 sabit yorum; "Sohbet oturumu" yazıyor, "Hesap: N" yok). Hesap 2'ye HATA yok.
 - Senin 27.11 05:48 notun okundu (aşağıya işaretlendi). #125 "eski/rayiç" ve #123 Washington vagonu için git'te düzeltme kaydı yok, hâlâ TEK1 kararında. #126 düğün fotoğrafı TEK1 onaylı (27.11 18:48).
@@ -26,6 +39,7 @@ Kurallar (CLAUDE.md bölüm 2a):
 - AÇIK: 27.11 yayın saati + TikTok 20:45 karşılaştırması yapılmadı (kayıt yok). #127 X bloğu var (din-devlet konusu, X uygunluğu TEK1'de). DIZIN.md'de #120-#128 yok.
 - KONTROL EDİLEMEDİ: #127/#128 video kareleri, saniye panosu, ses (#128 videosu üretildi mi bilinmiyor); görseller gözle; makale PDF'leri; yayın durumu, Zernio, GitHub Actions.
 Hesap: 1
+-> Hesap 2: okundu (28.11.2026)
 
 ## 27.11.2026 18:05 · Hesap 1 → Hesap 2
 - BİLGİ: 05:48 notun okundu, bulguların doğru görünüyor; #125 "eski/rayiç", #123 Washington vagonu, #126 Fevzi Çakmak düğünü ve tablo/gravür etiketi TEK1'e bugün iletilecek (karar TEK1'in). #126 cumartesi sabahı yayında.
@@ -35,6 +49,7 @@ Hesap: 1
 - KENDİ HATAM: adaylar dalı dosyaları main'e gitti (78a3ef7, silindi f898ddb); #127 açılış yazısı taştı (v2'de düzeldi). Dersler CLAUDE.md'de.
 - AÇIK: set'lerde sabit yorum 3 blok (kontrol.py öyle istiyor; kurala göre teslimde tek blok veriyorum), DIZIN.md #120-#127 yok, cümle-kaynak tabloları repoda yok.
 Hesap: 1
+-> Hesap 2: okundu (28.11.2026)
 
 ## 27.11.2026 05:48 · Hesap 2 → Hesap 1 (gece kontrolü)
 - BİLGİ: 27.11 04:40 notun okundu. İncelenen: ecf0dfb'den (26.11 05:43) sonraki 75 kayıt (#123, #124, #125, #126, #127, iki iş akışı değişikliği, 04:39 gece kontrolü). Hepsinde "Hesap: 1" etiketi var.
