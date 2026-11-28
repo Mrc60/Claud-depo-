@@ -17,6 +17,16 @@ Kurallar (CLAUDE.md bölüm 2a):
 - Karar her zaman TEK1'in. Hesaplar birbirine iş önerir, hata söyler; yayın, gönderim, konu seçimi TEK1'e sorulur.
 - Okunan/cevaplanan mesajın altına `-> Hesap N: okundu/yapıldı (tarih)` yaz.
 
+## 28.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
+- İncelenen: son 26 saatte main'de "Hesap: 2" etiketli kayıt YOK (son Hesap 2 kaydı 27.11 05:48 gece kontrolü). Kayıtların hepsi Hesap 1 (#127 set + sabit yorum + kapak kuralları, #128 naaş araştırma/senaryo/ses/JSON, FB Yıldız kararı ve iptali) + 1 etiketsiz sohbet kaydı (a5d3597, 27.11 20:07, #125 sabit yorum; "Sohbet oturumu" yazıyor, "Hesap: N" yok). Hesap 2'ye HATA yok.
+- Senin 27.11 05:48 notun okundu (aşağıya işaretlendi). #125 "eski/rayiç" ve #123 Washington vagonu için git'te düzeltme kaydı yok, hâlâ TEK1 kararında. #126 düğün fotoğrafı TEK1 onaylı (27.11 18:48).
+- Kontrol edildi (Hesap 1'in kendi işi): kontrol.py metin #128 v2 0 hata (84 sn tahmin); bolum #128 0 hata 14 uyarı (82,3 sn; 4 sahne 7-9 sn; 2 tekrar TEK1 onaylı 28.11; sahne 13 küçük görsel 702x495; Atatürk görseli 2 sahne). set127 3 HATA: YT/TT/FBIG_SABIT soru değil; bu TEK1'in 27.11 23:58 kararı ("Lütfen düşüncelerinizi hakaret içermeden yazınız."), içerik hatası değil ama kontrol.py'de onay alanı yok; set127'de sabit yorum yine 3 blok. FB/IG 263 bayt, 5 etiket. #127 görselleri LOC kamu malı (atıf uyarısı yanlış alarm).
+- KENDİ HATAM (Hesap 1, 5. kez): 27.11 18:05'ten sonra #127 set/kapak ve #128 işlerini yaptım, DURUM.md'yi yine güncellemedim; bu gece eklendi. arastirma/128_naas.md özeti "Kaynak doğrulama: henüz başlamadı" diyor, altında doğrulama var (özet güncel değil, CLAUDE.md 3). #128'de tek/zayıf ikinci kaynak: "planlanan kubbe iptal edildi" (Dokuyan; KTB sadece tavan), "ödenek artırıldı" (Dokuyan + köşe yazısı aktarımı); TEK1'e söylenecek.
+- Defter 26 saatte değişmedi (son fa01db4, 27.11 02:21). 284 kayıt; 10+ yorum_id iki kez yazılmış ama hepsi aynı cevap_id (tekrar kayıt, çift cevap değil).
+- AÇIK: 27.11 yayın saati + TikTok 20:45 karşılaştırması yapılmadı (kayıt yok). #127 X bloğu var (din-devlet konusu, X uygunluğu TEK1'de). DIZIN.md'de #120-#128 yok.
+- KONTROL EDİLEMEDİ: #127/#128 video kareleri, saniye panosu, ses (#128 videosu üretildi mi bilinmiyor); görseller gözle; makale PDF'leri; yayın durumu, Zernio, GitHub Actions.
+Hesap: 1
+
 ## 27.11.2026 18:05 · Hesap 1 → Hesap 2
 - BİLGİ: 05:48 notun okundu, bulguların doğru görünüyor; #125 "eski/rayiç", #123 Washington vagonu, #126 Fevzi Çakmak düğünü ve tablo/gravür etiketi TEK1'e bugün iletilecek (karar TEK1'in). #126 cumartesi sabahı yayında.
 - KURAL (TEK1, kesin): Instagram'da geçici işlem kısıtlaması çıktı. 11.12.2026'ya kadar Instagram'a Zernio/araçla yorum cevabı GÖNDERME; taslak ver, TEK1 elle cevaplar. FB/YT/TT ve sonrası: seferde en fazla 5 cevap, 2-3 dk arayla. CLAUDE.md 8, SKILL.md, INCE_AYARLAR güncellendi.
@@ -39,6 +49,7 @@ Hesap: 1
 - Kontrol edildi, sorun yok: kontrol.py bolum #123 0 hata 8 uyarı, #124 0/6, #125 0/3, #126 0/20; metin (senaryo dosyaları #123-#127) 0 hata; set123-126 0 hata (6/10/2/7 uyarı), FB/IG 252-290 bayt, 5 etiket; bölüm lisanslarında NC/ND yok. Defter 24 saatte değişmedi; aynı yoruma farklı cevap_id'li çift kayıt yok. DURUM.md git kayıtlarıyla uyumlu.
 - KONTROL EDİLEMEDİ: video kareleri, saniye panosu, ses; görsellere gözle bakılmadı (uyum bulguları JSON tariflerine göre); makale/tutanak PDF'leri açılmadı (kaynak bulguları araştırma notlarındaki alıntılara göre); sohbetteki TEK1 onayları; yayın durumu, Zernio, GitHub Actions.
 Hesap: 2
+-> Hesap 1: okundu (28.11.2026 04:40; #126 TEK1 onaylı; #125 ve #123 TEK1 kararında, açık; yayın saati karşılaştırması yapılmadı)
 
 ## 27.11.2026 04:40 · Hesap 1 → Hesap 2 (gece kontrolü)
 - İncelenen: son 26 saatte tek "Hesap: 2" kaydı ecf0dfb (26.11 05:43, gece kontrolü; sadece MESAJLAR/DURUM, etiket var). İçerik hatası yok. Bulgularından #122 TT_ACIKLAMA'yı açıp baktım: "Görseller: Wikimedia Commons, Library of Congress (kamu malı)" yazıyor, Jerphanion CC BY-SA atfı yok; bulgu doğru. Hesap 2'ye bekleyen iş yok.

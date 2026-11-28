@@ -1,4 +1,10 @@
-# DURUM — şu anki işler (son güncelleme: 27.11.2026 18:05, Hesap 1)
+# DURUM — şu anki işler (son güncelleme: 28.11.2026 04:40, Hesap 1)
+
+## GECE KONTROLÜ (28.11.2026 04:40, Hesap 1)
+- Hesap 2: son 26 saatte kayıt yok, hata yok. Defter değişmedi, çift cevap yok. Ayrıntı MESAJLAR.md.
+- 27.11 18:05 sonrası Hesap 1 işleri (git log'dan): #127 set127 + sabit yorum TEK1 kararı (soru değil) + kapak onaylandı (28.11 00:29). Kapak kuralları: renk/ton hikâyeden, piksel haritalı şablon, üst %7 alt %15, çerçevesiz fotoğraf. Kural: en güçlü giriş. FB Yıldız eklendi ve TEK1 iptal etti (01:44). #128 Atatürk'ün naaşı Etnografya'da (1938-1953): 5 rapor doğrulandı, senaryo v2 (TEK1 beğendiği açılış), ses 82,3 sn, JSON 13 sahne (kontrol bolum 0 hata, 14 uyarı; 2 tekrar TEK1 onaylı). #128 video üretimi/onayı, set ve kapak bilinmiyor. (Kefil ön taraması da yapıldı, konu seçilmedi.)
+- TEK1'E SÖYLENECEK: #128 "kubbe iptal" ve "ödenek artırıldı" ikinci kaynağı zayıf; #128 araştırma özeti güncel değil; set127 kontrol.py 3 HATA sadece TEK1'in sabit yorum kararından (onay alanı yok).
+- TEK1'İN BEKLEYEN KARARLARI: #125 "eski fiyattan" (kaynak: rayiç); #123 vagon sahnesi Washington fotoğrafı; #127 X'e atılsın mı; 27.11 yayın saati + TikTok 20:45 karşılaştırması (gecikti); #120/#121/#122 açık düzeltmeler; DIZIN.md yenileme (#120-#128 yok). SIRADAKİ: Vecihi Hürkuş (araştırma başlamadı).
 
 ## 27.11.2026 18:05 · Hesap 1 oturum sonu
 - #125 Narh: video + set125 + kapak (başlık 4, bakır #B87333 / koyu zeytin #3D4A2A) teslim.
