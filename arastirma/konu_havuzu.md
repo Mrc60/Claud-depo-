@@ -40,3 +40,6 @@ Not: Ülkümen (#20), aşı (#11), nikâh (#26) zaten yapıldı — öneriden ö
 - Sofra adabı (yer sofrası, büyükten önce başlanmaz)
 - Ölünün yedisi ve kırkı (helva, mevlit; sakin ton, ceset fotoğrafı yok)
 - Misafire üç gün sorulmaz (hadis doğrulanmalı)
+
+## Bekleyen (TEK1, 28.11.2026: "araştırma aklında beklet")
+- Atatürk ile yolları ayrılan silah arkadaşları: tek olay + sonucu, taraf tutmadan. Aday: Kazım Karabekir in hatıra kitabının toplatılması (doğrulanmadı). Riskler: yorum kavgası, 5816 sayılı kanun dili, Atatürk görseli az kuralı, FB siyasi kısma (tahmin). Araştırma başlamadı.
