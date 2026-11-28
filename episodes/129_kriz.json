@@ -1,0 +1,842 @@
+{
+ "series": "Sıradan Değil",
+ "voice": "ana",
+ "takip_cagrisi": false,
+ "episode": 129,
+ "slug": "kriz",
+ "title": "2001 krizi: bir kitapçık ve dolar",
+ "youtube_title": "",
+ "youtube_description": "",
+ "sources": [
+  "TCMB",
+  "IMF 2001",
+  "AA",
+  "bianet"
+ ],
+ "acilis": "Kitapçık uçtu,\ndolar %40 fırladı",
+ "dis_ses": {
+  "file": "assets/ses/129_kriz.mp3",
+  "kesimler": [
+   [
+    [
+     0,
+     5.3
+    ]
+   ],
+   [
+    [
+     5.3,
+     13.2
+    ]
+   ],
+   [
+    [
+     13.2,
+     18.9
+    ]
+   ],
+   [
+    [
+     18.9,
+     26.3
+    ]
+   ],
+   [
+    [
+     26.3,
+     31.6
+    ]
+   ],
+   [
+    [
+     31.6,
+     36.7
+    ]
+   ],
+   [
+    [
+     36.7,
+     45.2
+    ]
+   ],
+   [
+    [
+     45.2,
+     51.6
+    ]
+   ],
+   [
+    [
+     51.6,
+     59.2
+    ]
+   ],
+   [
+    [
+     59.2,
+     67.9
+    ]
+   ],
+   [
+    [
+     67.9,
+     73.7
+    ]
+   ],
+   [
+    [
+     73.7,
+     79.8
+    ]
+   ],
+   [
+    [
+     79.8,
+     84.9
+    ]
+   ],
+   [
+    [
+     84.9,
+     91.6
+    ]
+   ],
+   [
+    [
+     91.6,
+     99.1
+    ]
+   ],
+   [
+    [
+     99.1,
+     104.1
+    ]
+   ],
+   [
+    [
+     104.1,
+     111.39
+    ]
+   ]
+  ]
+ },
+ "surum": 1,
+ "segments": [
+  {
+   "say": "Bir toplantıda bir kitapçık havaya uçtu. Üç gün sonra Türkiyede dolar",
+   "caption": "Bir toplantıda bir kitapçık havaya uçtu. Üç gün sonra Türkiye'de dolar",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ecevit ve heyet ayakta konuşuyor",
+   "bolumler": [
+    {
+     "start": 0,
+     "end": 2.0,
+     "n": 4
+    },
+    {
+     "start": 2.0,
+     "end": 3.62,
+     "n": 4
+    },
+    {
+     "start": 3.62,
+     "end": 5.3,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_ecevit_2002.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.017,
+     0,
+     0.383,
+     1
+    ],
+    "baslik": "Bülent Ecevit, 2002",
+    "kaynak": "ABD Ulusal Arşivi, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "bir gecede yüzde 40 pahalandı. Peki, bir kitapçık ülkeyi ekonomik krize nasıl sürükledi?",
+   "caption": "bir gecede yüzde 40 pahalandı. Peki, bir kitapçık ülkeyi ekonomik krize nasıl sürükledi?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Döviz kurları tabelası",
+   "bolumler": [
+    {
+     "start": 5.3,
+     "end": 6.94,
+     "n": 4
+    },
+    {
+     "start": 6.94,
+     "end": 10.08,
+     "n": 4
+    },
+    {
+     "start": 10.08,
+     "end": 13.2,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_doviz_ist2018.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.125,
+     0,
+     0.875,
+     1
+    ],
+    "baslik": "Döviz bürosu tabelası (2018)",
+    "kaynak": "Mark Lowen, Commons",
+    "lisans": "CC BY-SA 4.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "19 Şubat 2001 sabahı Çankaya Köşkünde Milli Güvenlik Kurulu toplandı.",
+   "caption": "19 Şubat 2001 sabahı Çankaya Köşkü'nde Milli Güvenlik Kurulu toplandı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Sezer koltukta oturuyor, resmî görüşme odası",
+   "bolumler": [
+    {
+     "start": 13.2,
+     "end": 15.4,
+     "n": 4
+    },
+    {
+     "start": 15.4,
+     "end": 17.48,
+     "n": 4
+    },
+    {
+     "start": 17.48,
+     "end": 18.9,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_sezer_putin.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.082,
+     0,
+     0.458,
+     1
+    ],
+    "baslik": "Ahmet Necdet Sezer, 2004",
+    "kaynak": "Kremlin.ru, Commons",
+    "lisans": "CC BY 4.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Cumhurbaşkanı Ahmet Necdet Sezer, hükümeti yolsuzluklar ve bankaların denetimi konusunda sert bir dille eleştirdi.",
+   "caption": "Cumhurbaşkanı Ahmet Necdet Sezer, hükümeti yolsuzluklar ve bankaların denetimi konusunda sert bir dille eleştirdi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ahmet Necdet Sezer portre",
+   "bolumler": [
+    {
+     "start": 18.9,
+     "end": 21.16,
+     "n": 4
+    },
+    {
+     "start": 21.16,
+     "end": 23.54,
+     "n": 4
+    },
+    {
+     "start": 23.54,
+     "end": 25.38,
+     "n": 4
+    },
+    {
+     "start": 25.38,
+     "end": 26.3,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_sezer_portre.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.112,
+     0,
+     0.888,
+     1
+    ],
+    "baslik": "Ahmet Necdet Sezer, 2004",
+    "kaynak": "MRE / Agência Brasil, Commons",
+    "lisans": "CC BY 3.0 BR",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Başbakan Yardımcısı Hüsamettin Özkan, \"Anayasayı bir de biz görelim\" deyince",
+   "caption": "Başbakan Yardımcısı Hüsamettin Özkan, \"Anayasayı bir de biz görelim\" deyince",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Hüsamettin Özkan ayakta",
+   "bolumler": [
+    {
+     "start": 26.3,
+     "end": 29.34,
+     "n": 4
+    },
+    {
+     "start": 29.34,
+     "end": 30.4,
+     "n": 4
+    },
+    {
+     "start": 30.4,
+     "end": 31.6,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_ozkan.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.0,
+     0,
+     1.0,
+     1
+    ],
+    "baslik": "Hüsamettin Özkan (günümüz)",
+    "kaynak": "Yildiray Kanli, Commons",
+    "lisans": "CC0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Sezer, anayasa kitapçığını Ecevit ve Özkanın bulunduğu yöne fırlattı.",
+   "caption": "Sezer, anayasa kitapçığını Ecevit ve Özkan'ın bulunduğu yöne fırlattı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Takım elbiseli heyet bir broşüre bakıyor",
+   "bolumler": [
+    {
+     "start": 31.6,
+     "end": 34.1,
+     "n": 4
+    },
+    {
+     "start": 34.1,
+     "end": 36.7,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_ecevit_2002.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.437,
+     0,
+     0.803,
+     1
+    ],
+    "baslik": "Bülent Ecevit, 2002",
+    "kaynak": "ABD Ulusal Arşivi, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)",
+     "tekrar": "TEK1 28.11 (kullan istediklerini)"
+    }
+   }
+  },
+  {
+   "say": "Başbakan Bülent Ecevit toplantıyı terk etti. Ardından kameralara, \"Ya aynı üslupla cevap verecektim ya da çıkacaktım\" dedi.",
+   "caption": "Başbakan Bülent Ecevit toplantıyı terk etti. Ardından kameralara, \"Ya aynı üslupla cevap verecektim ya da çıkacaktım\" dedi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Ecevit kürsüde oturuyor",
+   "bolumler": [
+    {
+     "start": 36.7,
+     "end": 38.6,
+     "n": 4
+    },
+    {
+     "start": 38.6,
+     "end": 41.32,
+     "n": 4
+    },
+    {
+     "start": 41.32,
+     "end": 42.64,
+     "n": 4
+    },
+    {
+     "start": 42.64,
+     "end": 45.2,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_ecevit_davos2000.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.078,
+     0,
+     0.922,
+     1
+    ],
+    "baslik": "Bülent Ecevit, Davos 2000",
+    "kaynak": "WEF Davos, Commons",
+    "lisans": "CC BY-SA 2.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Ancak ekonomi zaten kırılgandı. Piyasalarda panik başladı. Bankalar dövize yöneldi.",
+   "caption": "Ancak ekonomi zaten kırılgandı. Piyasalarda panik başladı. Bankalar dövize yöneldi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Döviz bürosu kapısı ve kur tabelası",
+   "bolumler": [
+    {
+     "start": 45.2,
+     "end": 47.82,
+     "n": 4
+    },
+    {
+     "start": 47.82,
+     "end": 50.22,
+     "n": 4
+    },
+    {
+     "start": 50.22,
+     "end": 51.6,
+     "n": 2
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_doviz_sarp2011.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.394,
+     0,
+     0.806,
+     1
+    ],
+    "baslik": "Döviz bürosu (2011)",
+    "kaynak": "Özgür Esen, Commons",
+    "lisans": "CC BY-SA 4.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "İki gün sonra gecelik faiz yüzde birkaç bine fırladı. Borsa tarihinin en büyük düşüşünü yaşadı.",
+   "caption": "İki gün sonra gecelik faiz yüzde birkaç bine fırladı. Borsa tarihinin en büyük düşüşünü yaşadı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Borsa binasının girişi",
+   "bolumler": [
+    {
+     "start": 51.6,
+     "end": 53.12,
+     "n": 4
+    },
+    {
+     "start": 53.12,
+     "end": 54.82,
+     "n": 4
+    },
+    {
+     "start": 54.82,
+     "end": 57.18,
+     "n": 4
+    },
+    {
+     "start": 57.18,
+     "end": 59.2,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_borsa_bina.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.263,
+     0,
+     0.637,
+     1
+    ],
+    "baslik": "İstanbul Menkul Kıymetler Borsası binası (2007)",
+    "kaynak": "Thomas Steiner, Commons",
+    "lisans": "CC BY-SA 2.5",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "22 Şubatta Türkiye sabit kur sistemini terk etti. Dolar bir günde yüzde kırk, iki günde yüzde elli altı pahalandı.",
+   "caption": "22 Şubat'ta Türkiye sabit kur sistemini terk etti. Dolar bir günde yüzde kırk, iki günde yüzde elli altı pahalandı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Bir milyon liralık banknot",
+   "bolumler": [
+    {
+     "start": 59.2,
+     "end": 61.2,
+     "n": 4
+    },
+    {
+     "start": 61.2,
+     "end": 63.14,
+     "n": 4
+    },
+    {
+     "start": 63.14,
+     "end": 64.52,
+     "n": 4
+    },
+    {
+     "start": 64.52,
+     "end": 66.3,
+     "n": 4
+    },
+    {
+     "start": 66.3,
+     "end": 67.9,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_1milyon.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.115,
+     0,
+     0.385,
+     1
+    ],
+    "baslik": "1 milyon lira banknot",
+    "kaynak": "Commons",
+    "lisans": "CC0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Bedelini ise sokaktaki insan ödedi. Yıl içinde sekiz banka devlete devredildi.",
+   "caption": "Bedelini ise sokaktaki insan ödedi. Yıl içinde sekiz banka devlete devredildi.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kalabalık bir çarşı caddesi",
+   "bolumler": [
+    {
+     "start": 67.9,
+     "end": 69.84,
+     "n": 4
+    },
+    {
+     "start": 69.84,
+     "end": 71.86,
+     "n": 4
+    },
+    {
+     "start": 71.86,
+     "end": 73.7,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_eminonu_kalabalik.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.139,
+     0,
+     0.561,
+     1
+    ],
+    "baslik": "Eminönü (2009)",
+    "kaynak": "Donnyhoca, Commons",
+    "lisans": "CC BY 3.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Fiyatlar yüzde altmış sekiz arttı. İşsizlik yüzde altıdan yüzde ona çıktı.",
+   "caption": "Fiyatlar yüzde altmış sekiz arttı. İşsizlik yüzde altıdan yüzde ona çıktı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "5000 lira yazan madeni para",
+   "bolumler": [
+    {
+     "start": 73.7,
+     "end": 75.46,
+     "n": 4
+    },
+    {
+     "start": 75.46,
+     "end": 78.1,
+     "n": 4
+    },
+    {
+     "start": 78.1,
+     "end": 79.8,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_5000_on.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.219,
+     0,
+     0.781,
+     1
+    ],
+    "baslik": "5000 lira madeni para",
+    "kaynak": "Darphane, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Nisan ayında dolarla borçlanmış bir esnaf, \"Ben bir esnafım\" diye bağırarak",
+   "caption": "Nisan ayında dolarla borçlanmış bir esnaf, \"Ben bir esnafım\" diye bağırarak",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Dükkânlar ve önünde kalabalık",
+   "bolumler": [
+    {
+     "start": 79.8,
+     "end": 81.78,
+     "n": 4
+    },
+    {
+     "start": 81.78,
+     "end": 83.28,
+     "n": 4
+    },
+    {
+     "start": 83.28,
+     "end": 84.9,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_eminonu_kalabalik.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.539,
+     0,
+     0.961,
+     1
+    ],
+    "baslik": "Eminönü (2009)",
+    "kaynak": "Donnyhoca, Commons",
+    "lisans": "CC BY 3.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)",
+     "tekrar": "TEK1 28.11 (kullan istediklerini)"
+    }
+   }
+  },
+  {
+   "say": "Başbakanlık önüne yazar kasasını fırlattı. Ardından birçok şehirde esnaf kepenk kapattı.",
+   "caption": "Başbakanlık önüne yazar kasasını fırlattı. Ardından birçok şehirde esnaf kepenk kapattı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Yirmi milyon liralık banknot",
+   "bolumler": [
+    {
+     "start": 84.9,
+     "end": 86.96,
+     "n": 4
+    },
+    {
+     "start": 86.96,
+     "end": 89.8,
+     "n": 4
+    },
+    {
+     "start": 89.8,
+     "end": 91.6,
+     "n": 3
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_20milyon.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.337,
+     0,
+     0.603,
+     1
+    ],
+    "baslik": "20 milyon lira banknot (numune)",
+    "kaynak": "Merkez Bankası, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Hükümet Dünya Bankasından Kemal Dervişi getirdi. IMFden milyarlarca dolarlık yeni kredi alındı.",
+   "caption": "Hükümet Dünya Bankası'ndan Kemal Derviş'i getirdi. IMF'den milyarlarca dolarlık yeni kredi alındı.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Kemal Derviş gülümsüyor",
+   "bolumler": [
+    {
+     "start": 91.6,
+     "end": 93.84,
+     "n": 4
+    },
+    {
+     "start": 93.84,
+     "end": 96.78,
+     "n": 4
+    },
+    {
+     "start": 96.78,
+     "end": 99.1,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_dervis_2001.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.111,
+     0,
+     0.889,
+     1
+    ],
+    "baslik": "Kemal Derviş, 2001",
+    "kaynak": "IMF, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Peki, siz ya da aileniz 2001 krizini nasıl yaşadınız?",
+   "caption": "Peki, siz ya da aileniz 2001 krizini nasıl yaşadınız?",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Madeni paranın arka yüzü",
+   "bolumler": [
+    {
+     "start": 99.1,
+     "end": 100.58,
+     "n": 4
+    },
+    {
+     "start": 100.58,
+     "end": 104.1,
+     "n": 5
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_5000_arka.jpg",
+    "fit": "doldur",
+    "hiz": 0.5,
+    "kirp": [
+     0.219,
+     0,
+     0.781,
+     1
+    ],
+    "baslik": "5000 lira madeni para",
+    "kaynak": "Darphane, Commons",
+    "lisans": "Kamu malı",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)"
+    }
+   }
+  },
+  {
+   "say": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "caption": "Düşüncelerinizi yorumlarda paylaşın. Kaynaklar video açıklamasında. Beğenmeyi ve takip etmeyi lütfen unutmayalım.",
+   "key": [],
+   "scene": "photo",
+   "gorunen": "Döviz kurları tabelası",
+   "bolumler": [
+    {
+     "start": 104.1,
+     "end": 107.0,
+     "n": 4
+    },
+    {
+     "start": 107.0,
+     "end": 109.22,
+     "n": 4
+    },
+    {
+     "start": 109.22,
+     "end": 111.39,
+     "n": 4
+    }
+   ],
+   "image": {
+    "local": "assets/belgeler/129_doviz_ist2018.jpg",
+    "fit": "doldur",
+    "hiz": 1.0,
+    "kirp": [
+     0.2,
+     0.1,
+     0.8,
+     0.9
+    ],
+    "baslik": "Döviz bürosu tabelası (2018)",
+    "kaynak": "Mark Lowen, Commons",
+    "lisans": "CC BY-SA 4.0",
+    "onay": {
+     "renkli": "TEK1 28.11 (2001 renkli olsun sorun yok)",
+     "tekrar": "TEK1 28.11 (kullan istediklerini)"
+    }
+   }
+  }
+ ]
+}
