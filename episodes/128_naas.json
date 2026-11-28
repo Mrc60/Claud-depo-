@@ -19,101 +19,101 @@
    [
     [
      0,
-     4.5
+     4.9
     ]
    ],
    [
     [
-     4.5,
-     10.2
+     4.9,
+     11.3
     ]
    ],
    [
     [
-     10.2,
-     15.5
+     11.3,
+     16.8
     ]
    ],
    [
     [
-     15.5,
-     22.7
+     16.8,
+     21.9
     ]
    ],
    [
     [
-     22.7,
-     29.4
+     21.9,
+     27.4
     ]
    ],
    [
     [
-     29.4,
-     34.3
+     27.4,
+     37.7
     ]
    ],
    [
     [
-     34.3,
-     40.9
+     37.7,
+     43.4
     ]
    ],
    [
     [
-     40.9,
-     47.7
+     43.4,
+     50.0
     ]
    ],
    [
     [
-     47.7,
-     52.7
+     50.0,
+     58.7
     ]
    ],
    [
     [
-     52.7,
-     59.9
+     58.7,
+     67.4
     ]
    ],
    [
     [
-     59.9,
-     69.0
+     67.4,
+     75.9
     ]
    ],
    [
     [
-     69.0,
-     74.6
+     75.9,
+     81.5
     ]
    ],
    [
     [
-     74.6,
-     82.29
+     81.5,
+     89.23
     ]
    ]
   ]
  },
- "surum": 1,
+ "surum": 3,
  "segments": [
   {
-   "say": "Atatürk deyince aklımıza hemen Anıtkabir gelir. Oysa",
-   "caption": "Atatürk deyince aklımıza hemen Anıtkabir gelir. Oysa",
+   "say": "Atatürk deyince aklımıza hemen Anıtkabir gelir. Oysa Atatürkün",
+   "caption": "Atatürk deyince aklımıza hemen Anıtkabir gelir. Oysa Atatürk'ün",
    "key": [],
    "scene": "photo",
    "gorunen": "Anıtkabir'in sütunlu cephesini gösteren proje çizimi",
    "bolumler": [
     {
      "start": 0,
-     "end": 2.38,
+     "end": 2.16,
      "n": 4
     },
     {
-     "start": 2.38,
-     "end": 4.5,
-     "n": 3
+     "start": 2.16,
+     "end": 4.9,
+     "n": 4
     }
    ],
    "image": {
@@ -132,26 +132,26 @@
    }
   },
   {
-   "say": "Atatürkün naaşı tam 15 yıl boyunca bir müzenin avlusunda bekledi.",
-   "caption": "Atatürk'ün naaşı tam 15 yıl boyunca bir müzenin avlusunda bekledi.",
+   "say": "naaşı tam 15 yıl boyunca bir müzenin avlusunda bekledi. Peki neden?",
+   "caption": "naaşı tam 15 yıl boyunca bir müzenin avlusunda bekledi. Peki neden?",
    "key": [],
    "scene": "photo",
    "gorunen": "Etnografya Müzesi'nin sütunlu revakı ve arkada Ankara",
    "bolumler": [
     {
-     "start": 4.5,
-     "end": 6.78,
+     "start": 4.9,
+     "end": 6.6,
      "n": 4
     },
     {
-     "start": 6.78,
-     "end": 8.6,
+     "start": 6.6,
+     "end": 8.54,
      "n": 4
     },
     {
-     "start": 8.6,
-     "end": 10.2,
-     "n": 2
+     "start": 8.54,
+     "end": 11.12,
+     "n": 3
     }
    ],
    "image": {
@@ -170,21 +170,26 @@
    }
   },
   {
-   "say": "Peki neden? Atatürk öldüğünde ortada bir anıtmezar yoktu.",
-   "caption": "Peki neden? Atatürk öldüğünde ortada bir anıtmezar yoktu.",
+   "say": "Atatürk öldüğünde ortada bir anıtmezar yoktu. Hükümet, Anıtkabir yapılıncaya",
+   "caption": "Atatürk öldüğünde ortada bir anıtmezar yoktu. Hükümet, Anıtkabir yapılıncaya",
    "key": [],
    "scene": "photo",
    "gorunen": "Ağaçlı bir caddede uzanan cenaze korteji ve kalabalık",
    "bolumler": [
     {
-     "start": 10.2,
-     "end": 13.18,
+     "start": 11.3,
+     "end": 13.22,
      "n": 4
     },
     {
-     "start": 13.18,
-     "end": 15.5,
-     "n": 5
+     "start": 13.22,
+     "end": 15.66,
+     "n": 4
+    },
+    {
+     "start": 15.66,
+     "end": 16.8,
+     "n": 2
     }
    ],
    "image": {
@@ -203,26 +208,21 @@
    }
   },
   {
-   "say": "Hükümet, Anıtkabir yapılıncaya kadar naaşın Ankaradaki Etnografya Müzesinde kalmasına karar verdi.",
-   "caption": "Hükümet, Anıtkabir yapılıncaya kadar naaşın Ankara'daki Etnografya Müzesi'nde kalmasına karar verdi.",
+   "say": "kadar naaşın Ankaradaki Etnografya Müzesinde kalmasına karar verdi.",
+   "caption": "kadar naaşın Ankara'daki Etnografya Müzesi'nde kalmasına karar verdi.",
    "key": [],
    "scene": "photo",
    "gorunen": "Tabutun başında İsmet İnönü ve askerler",
    "bolumler": [
     {
-     "start": 15.5,
-     "end": 18.02,
+     "start": 16.8,
+     "end": 19.5,
      "n": 4
     },
     {
-     "start": 18.02,
-     "end": 20.88,
+     "start": 19.5,
+     "end": 21.82,
      "n": 4
-    },
-    {
-     "start": 20.88,
-     "end": 22.66,
-     "n": 3
     }
    ],
    "image": {
@@ -241,31 +241,26 @@
    }
   },
   {
-   "say": "Müzenin iç avlusunun üstü kapatıldı ve naaş dört ay sonra orada hazırlanan geçici kabre kondu.",
-   "caption": "Müzenin iç avlusunun üstü kapatıldı ve naaş dört ay sonra orada hazırlanan geçici kabre kondu.",
+   "say": "Müzenin avlusunun üstü kapatıldı, naaş dört ay sonra oradaki geçici kabre kondu.",
+   "caption": "Müzenin avlusunun üstü kapatıldı, naaş dört ay sonra oradaki geçici kabre kondu.",
    "key": [],
    "scene": "photo",
    "gorunen": "Mermer zeminde geçici kabrin kitabesi ve çerçeveli eski fotoğraf",
    "bolumler": [
     {
-     "start": 22.7,
-     "end": 24.36,
+     "start": 21.9,
+     "end": 24.3,
      "n": 4
     },
     {
-     "start": 24.36,
-     "end": 26.48,
+     "start": 24.3,
+     "end": 25.74,
      "n": 4
     },
     {
-     "start": 26.48,
-     "end": 28.3,
+     "start": 25.74,
+     "end": 27.4,
      "n": 4
-    },
-    {
-     "start": 28.3,
-     "end": 29.4,
-     "n": 3
     }
    ],
    "image": {
@@ -287,21 +282,36 @@
    }
   },
   {
-   "say": "Yer olarak Rasattepe, yani bugünkü Anıttepe seçildi.",
-   "caption": "Yer olarak Rasattepe, yani bugünkü Anıttepe seçildi.",
+   "say": "Yer olarak Rasattepe, yani bugünkü Anıttepe seçildi. Ama tepede çok eski mezar tümsekleri vardı, önce kazı yapılması gerekti.",
+   "caption": "Yer olarak Rasattepe, yani bugünkü Anıttepe seçildi. Ama tepede çok eski mezar tümsekleri vardı, önce kazı yapılması gerekti.",
    "key": [],
    "scene": "photo",
    "gorunen": "Bir tepenin üstünde Anıtkabir yapılarının proje çizimi",
    "bolumler": [
     {
-     "start": 29.4,
-     "end": 31.68,
+     "start": 27.4,
+     "end": 29.6,
      "n": 4
     },
     {
-     "start": 31.68,
-     "end": 34.3,
-     "n": 5
+     "start": 29.6,
+     "end": 31.32,
+     "n": 4
+    },
+    {
+     "start": 31.32,
+     "end": 33.46,
+     "n": 4
+    },
+    {
+     "start": 33.46,
+     "end": 35.6,
+     "n": 4
+    },
+    {
+     "start": 35.6,
+     "end": 37.7,
+     "n": 4
     }
    ],
    "image": {
@@ -320,26 +330,26 @@
    }
   },
   {
-   "say": "Ama temel ancak 1944te atıldı ve asıl zorluk o zaman başladı.",
-   "caption": "Ama temel ancak 1944'te atıldı ve asıl zorluk o zaman başladı.",
+   "say": "Temel ancak 1944te atıldı ve asıl zorluk o zaman başladı.",
+   "caption": "Temel ancak 1944'te atıldı ve asıl zorluk o zaman başladı.",
    "key": [],
    "scene": "photo",
    "gorunen": "İskeleler arasında yükselen Anıtkabir binası",
    "bolumler": [
     {
-     "start": 34.3,
-     "end": 37.02,
+     "start": 37.7,
+     "end": 40.3,
      "n": 4
     },
     {
-     "start": 37.02,
-     "end": 39.12,
+     "start": 40.3,
+     "end": 42.0,
      "n": 4
     },
     {
-     "start": 39.12,
-     "end": 40.8,
-     "n": 3
+     "start": 42.0,
+     "end": 43.4,
+     "n": 2
     }
    ],
    "image": {
@@ -365,23 +375,23 @@
    "gorunen": "Kemerli tonozlu bir salon ve ortada lahit çizimi",
    "bolumler": [
     {
-     "start": 40.9,
-     "end": 42.28,
+     "start": 43.4,
+     "end": 44.78,
      "n": 4
     },
     {
-     "start": 42.28,
-     "end": 44.34,
+     "start": 44.78,
+     "end": 46.78,
      "n": 4
     },
     {
-     "start": 44.34,
-     "end": 45.96,
+     "start": 46.78,
+     "end": 48.28,
      "n": 4
     },
     {
-     "start": 45.96,
-     "end": 47.7,
+     "start": 48.28,
+     "end": 50.0,
      "n": 2
     }
    ],
@@ -401,20 +411,30 @@
    }
   },
   {
-   "say": "Bu değişiklik müteahhitle anlaşmazlık çıkardı. İş mahkemeye taşındı.",
-   "caption": "Bu değişiklik müteahhitle anlaşmazlık çıkardı. İş mahkemeye taşındı.",
+   "say": "Bu değişiklik müteahhitle anlaşmazlık çıkardı. İş mahkemeye taşındı. İlk ayrılan para da yetmedi ve ödenek artırıldı.",
+   "caption": "Bu değişiklik müteahhitle anlaşmazlık çıkardı. İş mahkemeye taşındı. İlk ayrılan para da yetmedi ve ödenek artırıldı.",
    "key": [],
    "scene": "photo",
    "gorunen": "İnşaat alanında işçiler ve yan binalar",
    "bolumler": [
     {
-     "start": 47.7,
-     "end": 50.0,
+     "start": 50.0,
+     "end": 52.3,
      "n": 4
     },
     {
-     "start": 50.0,
-     "end": 52.7,
+     "start": 52.3,
+     "end": 54.82,
+     "n": 4
+    },
+    {
+     "start": 54.82,
+     "end": 56.16,
+     "n": 4
+    },
+    {
+     "start": 56.16,
+     "end": 58.7,
      "n": 4
     }
    ],
@@ -437,25 +457,30 @@
    }
   },
   {
-   "say": "İlk ayrılan para da yetmedi. Ödenek artırıldı, tasarruf için de planlanan kubbe iptal edildi.",
-   "caption": "İlk ayrılan para da yetmedi. Ödenek artırıldı, tasarruf için de planlanan kubbe iptal edildi.",
+   "say": "Hükümet artık işin bitmesini istiyordu. Zaman ve para kazanmak için Şeref Holünün üstünde yükselecek bölümden de vazgeçildi.",
+   "caption": "Hükümet artık işin bitmesini istiyordu. Zaman ve para kazanmak için Şeref Holü'nün üstünde yükselecek bölümden de vazgeçildi.",
    "key": [],
    "scene": "photo",
-   "gorunen": "Proje çiziminde binanın üstündeki yüksek kısım",
+   "gorunen": "Sütunlu binanın üstünde yükselen kabartmalı blok",
    "bolumler": [
     {
-     "start": 52.7,
-     "end": 54.0,
+     "start": 58.7,
+     "end": 60.54,
      "n": 4
     },
     {
-     "start": 54.0,
-     "end": 56.9,
+     "start": 60.54,
+     "end": 62.46,
      "n": 4
     },
     {
-     "start": 56.9,
-     "end": 59.9,
+     "start": 62.46,
+     "end": 64.42,
+     "n": 4
+    },
+    {
+     "start": 64.42,
+     "end": 67.4,
      "n": 5
     }
    ],
@@ -464,12 +489,12 @@
     "fit": "doldur",
     "hiz": 1.0,
     "kirp": [
-     0.036,
-     0,
-     0.304,
-     1
+     0.393,
+     0.1,
+     0.607,
+     0.9
     ],
-    "baslik": "Anıtkabir'in ilk projesi: üst kısım (çizim)",
+    "baslik": "Anıtkabir'in ilk projesi: Şeref Holü'nün üstünde yükselen bölüm (çizim)",
     "kaynak": "Emin Onat ve Orhan Arda, Commons",
     "lisans": "Kamu malı",
     "onay": {
@@ -485,23 +510,23 @@
    "gorunen": "Frak giymiş devlet adamları törende yürüyor",
    "bolumler": [
     {
-     "start": 59.9,
-     "end": 62.7,
+     "start": 67.4,
+     "end": 69.78,
      "n": 4
     },
     {
-     "start": 62.7,
-     "end": 65.22,
+     "start": 69.78,
+     "end": 72.24,
      "n": 4
     },
     {
-     "start": 65.22,
-     "end": 66.98,
+     "start": 72.24,
+     "end": 73.88,
      "n": 4
     },
     {
-     "start": 66.98,
-     "end": 69.0,
+     "start": 73.88,
+     "end": 75.62,
      "n": 2
     }
    ],
@@ -525,37 +550,40 @@
    "caption": "Siz Etnografya Müzesi'ndeki bu geçici kabri daha önce duymuş muydunuz?",
    "key": [],
    "scene": "photo",
-   "gorunen": "Cami önünde toplanmış kalabalığı gösteren eski fotoğraf",
+   "gorunen": "Geçici kabrin yazıtı ve mermer zemin",
    "bolumler": [
     {
-     "start": 69.0,
-     "end": 71.18,
+     "start": 75.9,
+     "end": 78.18,
      "n": 4
     },
     {
-     "start": 71.18,
-     "end": 72.68,
+     "start": 78.18,
+     "end": 79.66,
      "n": 4
     },
     {
-     "start": 72.68,
-     "end": 74.22,
+     "start": 79.66,
+     "end": 81.18,
      "n": 2
     }
    ],
    "image": {
-    "local": "assets/belgeler/128_muze_cerceve_1938.jpg",
+    "local": "assets/belgeler/128_kitabe_2005.jpg",
     "fit": "doldur",
     "hiz": 1.0,
     "kirp": [
-     0.147,
-     0.03,
-     0.853,
-     0.97
+     0.162,
+     0,
+     0.838,
+     0.8
     ],
-    "baslik": "Etnografya Müzesi'nde sergilenen 1938 cenaze fotoğrafı",
+    "baslik": "Etnografya Müzesi'ndeki geçici kabrin kitabesi",
     "kaynak": "Dosseman, Commons",
-    "lisans": "CC BY-SA 4.0"
+    "lisans": "CC BY-SA 4.0",
+    "onay": {
+     "tekrar": "TEK1 28.11 (aynı görseli 2 kez)"
+    }
    }
   },
   {
@@ -566,18 +594,18 @@
    "gorunen": "Bayrağa sarılı tabut ve arkasında büyük kalabalık",
    "bolumler": [
     {
-     "start": 74.6,
-     "end": 77.7,
+     "start": 81.5,
+     "end": 84.56,
      "n": 4
     },
     {
-     "start": 77.7,
-     "end": 80.16,
+     "start": 84.56,
+     "end": 87.06,
      "n": 4
     },
     {
-     "start": 80.16,
-     "end": 82.29,
+     "start": 87.06,
+     "end": 89.23,
      "n": 4
     }
    ],

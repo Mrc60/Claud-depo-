@@ -1,14 +1,14 @@
 import json
 exec(open('arastirma/128_k.py').read())
-w=json.load(open('/tmp/w128.json'))
+w=json.load(open('/tmp/w128v3.json'))
 EK=[x[2] for x in w]
 for i in range(len(EK)):
     if EK[i].startswith("'") and i>0: EK[i-1]=EK[i-1]+EK[i]; EK[i]=""
 MAP={"anıtkabir":"Anıtkabir","etnografya":"Etnografya","müzesinde":"Müzesi'nde","müzesindeki":"Müzesi'ndeki","Tabut":"tabut","Müze'den":"müzeden","anıtkabire":"Anıtkabir'e","içinde":"için de","ama":"Ama","4":"dört"}
 EK=[MAP.get(x,x) for x in EK]
-CAPFIX=[("anıt mezar","anıtmezar"),("Rasat Tepe","Rasattepe,"),("Anıt Tepe","Anıttepe"),("seçildi","seçildi."),("Kasım'ında Tabut","Kasım'ında tabut")]
-D=82.29
-S=[(0,'pilk'),(4.5,'etn'),(10.2,'kor'),(15.5,'a763'),(22.7,'kit'),(29.4,'pgen'),(34.3,'ins1'),(40.9,'pser'),(47.7,'ins2'),(52.7,'pust'),(59.9,'hey'),(69.0,'cer'),(74.6,'kal')]
+CAPFIX=[("anıt mezar","anıtmezar"),("Rasat Tepe","Rasattepe,"),("Anıt Tepe","Anıttepe"),("Kasım'ında Tabut","Kasım'ında tabut"),("şeref holünün","Şeref Holü'nün"),("Önce kazı","önce kazı"),("vardı. önce","vardı, önce")]
+D=89.23
+S=[(0,'pilk'),(4.9,'etn'),(11.3,'kor'),(16.8,'a763'),(21.9,'kit'),(27.4,'pgen'),(37.7,'ins1'),(43.4,'pser'),(50.0,'ins2'),(58.7,'pust'),(67.4,'hey'),(75.9,'kit2'),(81.5,'kal')]
 segs=[];kes=[]
 for j,(bas,f) in enumerate(S):
     bit=S[j+1][0] if j+1<len(S) else D
@@ -29,6 +29,6 @@ for j,(bas,f) in enumerate(S):
     kes.append([[round(bas,2),round(bit,2)]])
 ep={"series":"Sıradan Değil","voice":"ana","takip_cagrisi":False,"episode":128,"slug":"naas","title":"Atatürk'ün naaşı 15 yıl Etnografya Müzesi'nde","youtube_title":"","youtube_description":"",
 "sources":["Boran 2011","Dokuyan 2014","TDV Ankara Etnografya Müzesi"],"acilis":"Naaşı 15 yıl\nbir müzede bekledi",
-"dis_ses":{"file":"assets/ses/128_naas.mp3","kesimler":kes},"surum":1,"segments":segs}
+"dis_ses":{"file":"assets/ses/128_naas.mp3","kesimler":kes},"surum":3,"segments":segs}
 json.dump(ep,open('episodes/128_naas.json','w'),ensure_ascii=False,indent=1)
 for s,k in zip(segs,kes): print(k[0], round(k[0][1]-k[0][0],1), s['image']['local'][16:40], '|', s['caption'])
