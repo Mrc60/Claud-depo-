@@ -364,6 +364,7 @@ Cevabını bana kopyalanabilir formatta ver.
 - PLAN NUMARASI TAHMİNİ (#127): Süleymaniye diye Fatih Camii görselini yazdım. Önlem: planda her numaranın dosya adını kontrol et, panoyu sahne sırasıyla göster.
 - SENARYO KESİK (#127 v1): doğrulanmış cümleleri bağlamadan dizdim, "bu tartışma" gibi bağlantısız gönderme kaldı. Önlem: göndermeden önce metni baştan sona "hikâye akıyor mu, her gönderme yukarıda var mı" diye oku.
 - KAYNAK TERİMİ (#127): "Türkçe Kur'an okundu" gazete abartısı; asıl olay Arapça okuma + Türkçe meal (tercüme). Önlem: dönem gazetesinin başlığını değil, olayın kendisini anlatan kaynağı esas al.
+- TEK KAYNAKLI CÜMLE SESE GİRDİ (#128, 28.11.2026, Hesap 2 yakaladı, TEK1: 'diğer hesap fark etti sen neden fark edemedin'): 'planlanan kubbe iptal edildi' cümlesi tek makaleye (Dokuyan) dayanıyordu; kendi notumda ikinci kaynağın (KTB) sadece tavandan söz ettiğini yazmıştım ama cümleyi yine senaryoya koydum. Cümle-kaynak tablosunu teslimden önce yapmadım. Asıl doğru: Şeref Holü'nün üstündeki yükselen bölümden vazgeçildi (Atatürk Ans. + Cumhuriyet). Önlem: senaryoyu TEK1'e göndermeden önce her cümleye 2 kaynak yazan tabloyu MUTLAKA doldur; notta 'tek/zayıf' yazan bilgi senaryoya girmez; TEK1 bir cümleyi sorgularsa ('gerçekten mi') o cümleyi kaynağından yeniden aç.
 - İŞ AKIŞI ARAÇLARI: GitHub'ın varsayılan Python'u yükseldi, PyAV uyumsuz oldu; transkript.yml Python 3.12'ye sabitlendi, ffmpeg 3 yedekli (johnvansickle, BtbN, apt), video-uret.yml de 3 yedekli.
 
 ### Hesap 2 dersleri (02.11.2026, #59 ve yorum oturumu; hata, sebep, önlem)

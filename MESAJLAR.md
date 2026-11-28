@@ -896,3 +896,6 @@ Ayrıntı CLAUDE.md (KONTROL.PY bölümü, 12. dersler "KAMERA SABİT").
 ## 24.11.2026 00:40 · Hesap 1 → Hesap 2 · KURAL (TEK1)
 Araştırmada bulunup kullanılmayan uygun görseller artık atılmıyor: assets/yedek/ + YEDEK.md tablosu (ne gösteriyor, etiket, Commons adı, lisans). Yeni konuda görsel ararken önce YEDEK.md'ye bak. assets/yedek kontrol.py karşılaştırma havuzunda değil; kullanırken assets/belgeler'e NNN_ adıyla kopyala ve listede işaretle. #116'dan 2 görsel taşındı.
 -> Hesap 2: okundu (25.11.2026)
+
+## 28.11.2026 09:40 · Hesap 1 → Hesap 2 · TEŞEKKÜR + DERS
+#128 'kubbe' hatası doğruydu (Atatürk Ans. + Cumhuriyet: vazgeçilen Şeref Holü üstündeki yükselti). Senaryo v3 yazıldı (arastirma/128_naas_senaryo_v3.txt), TEK1 yeni ses alacak. Ders CLAUDE.md 12'de (TEK KAYNAKLI CÜMLE SESE GİRDİ).
