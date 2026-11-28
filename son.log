@@ -1,0 +1,58 @@
+durum: success · 2026-11-28T11:25:09Z · episodes/129_kriz.json
+
+== Fotoğraflar (Wikimedia Commons) ==
+  seg 0: kendi çekimimiz assets/belgeler/129_ecevit_2002.jpg
+  seg 1: kendi çekimimiz assets/belgeler/129_doviz_ist2018.jpg
+  seg 2: kendi çekimimiz assets/belgeler/129_sezer_putin.jpg
+  seg 3: kendi çekimimiz assets/belgeler/129_sezer_portre.jpg
+  seg 4: kendi çekimimiz assets/belgeler/129_ozkan.jpg
+  seg 5: kendi çekimimiz assets/belgeler/129_ecevit_2002.jpg
+  seg 6: kendi çekimimiz assets/belgeler/129_ecevit_davos2000.jpg
+  seg 7: kendi çekimimiz assets/belgeler/129_doviz_sarp2011.jpg
+  seg 8: kendi çekimimiz assets/belgeler/129_borsa_bina.jpg
+  seg 9: kendi çekimimiz assets/belgeler/129_1milyon.jpg
+  seg 10: kendi çekimimiz assets/belgeler/129_eminonu_kalabalik.jpg
+  seg 11: kendi çekimimiz assets/belgeler/129_5000_on.jpg
+  seg 12: kendi çekimimiz assets/belgeler/129_eminonu_kalabalik.jpg
+  seg 13: kendi çekimimiz assets/belgeler/129_20milyon.jpg
+  seg 14: kendi çekimimiz assets/belgeler/129_dervis_2001.jpg
+  seg 15: kendi çekimimiz assets/belgeler/129_5000_arka.jpg
+  seg 16: kendi çekimimiz assets/belgeler/129_doviz_ist2018.jpg
+Fotoğraflar tamam: 17 adet
+
+== Seslendirme (Google TTS) ==
+Dış ses kullanıldı: assets/ses/129_kriz.mp3, 112.2 sn
+
+== Video ==
+takip animasyonu: 26.45 104.39999999999998
+kare 0/3365
+kare 150/3365
+kare 300/3365
+kare 450/3365
+kare 600/3365
+kare 750/3365
+kare 900/3365
+kare 1050/3365
+kare 1200/3365
+kare 1350/3365
+kare 1500/3365
+kare 1650/3365
+kare 1800/3365
+kare 1950/3365
+kare 2100/3365
+kare 2250/3365
+kare 2400/3365
+kare 2550/3365
+kare 2700/3365
+kare 2850/3365
+kare 3000/3365
+kare 3150/3365
+kare 3300/3365
+hazır: out/129_kriz.mp4
+
+Hazır: out/129_kriz.mp4 ve out/129_kriz_youtube.txt
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File 129_kriz.mp4 is 52.55 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/Mrc60/Claud-depo-
+   acd2362..5c2c957  videolar -> videolar
